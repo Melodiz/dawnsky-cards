@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DawnSky Word Card",
+  "description": "Content schema for a single vocabulary info card. All sections optional except hero fields and examples.",
+  "type": "object",
+  "required": ["hanzi", "pinyin", "meaning_ru", "examples"],
+  "properties": {
+    "hanzi": {
+      "type": "string",
+      "description": "The word/phrase in Chinese characters"
+    },
+    "pinyin": {
+      "type": "string",
+      "description": "Pinyin with tone marks (e.g. xīn, not xin1)"
+    },
+    "meaning_ru": {
+      "type": "string",
+      "description": "Russian meaning(s), separated by · or ,"
+    },
+    "meaning_en": {
+      "type": "string",
+      "description": "English meaning(s). Omit if not useful."
+    },
+    "characters": {
+      "type": "array",
+      "description": "Character-by-character breakdown. Omit for single-character words.",
+      "items": {
+        "type": "object",
+        "required": ["hz", "py", "gloss"],
+        "properties": {
+          "hz": { "type": "string", "description": "Single character" },
+          "py": { "type": "string", "description": "Pinyin of this character" },
+          "gloss": { "type": "string", "description": "Short meaning (2-4 words)" },
+          "role": { "type": "string", "description": "Grammatical/structural role (e.g. 'смысловая основа', 'суффикс стороны')" }
+        }
+      }
+    },
+    "radicals": {
+      "type": "array",
+      "description": "Key radicals/components with mnemonics. Omit if nothing interesting to say.",
+      "items": {
+        "type": "object",
+        "required": ["hz", "name", "note"],
+        "properties": {
+          "hz": { "type": "string", "description": "Radical character (e.g. ⺮, 口, 斤)" },
+          "name": { "type": "string", "description": "Pinyin + Russian gloss (e.g. 'jīn — топор')" },
+          "note": { "type": "string", "description": "Mnemonic or structural note. Keep warm and concise. Reference learner's known words when possible." }
+        }
+      }
+    },
+    "deep_dive": {
+      "type": "string",
+      "description": "HTML prose explaining etymology, feel, nuance. Use <p> tags and <strong> for emphasis. 2-4 short paragraphs."
+    },
+    "situations": {
+      "type": "array",
+      "description": "Real-life usage scenarios. 1-3 items.",
+      "items": {
+        "type": "object",
+        "required": ["title", "setup", "line"],
+        "properties": {
+          "title": { "type": "string", "description": "Short label with soft emoji (e.g. '✦ Покупка', '☁ Примирение')" },
+          "setup": { "type": "string", "description": "1-sentence context in Russian" },
+          "line": { "type": "string", "description": "Chinese sentence + — + Russian translation" }
+        }
+      }
+    },
+    "examples": {
+      "type": "array",
+      "description": "Example sentences. 2-5 items. Prefer vocabulary the learner already knows.",
+      "minItems": 2,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["cn", "py", "ru"],
+        "properties": {
+          "cn": { "type": "string", "description": "Chinese sentence. Wrap target word in {hl}...{/hl} markers." },
+          "py": { "type": "string", "description": "Full pinyin of the sentence" },
+          "ru": { "type": "string", "description": "Russian translation" },
+          "note": { "type": "string", "description": "Brief note about new/key words in the sentence (e.g. '走 (zǒu) — уходить')" }
+        }
+      }
+    },
+    "footer_note": {
+      "type": "string",
+      "description": "One-line note: frequency, HSK level, fun fact. (e.g. '新 — одно из первых прилагательных · HSK 1')"
+    }
+  }
+}
