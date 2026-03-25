@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>算了吧 · Amber Dusk</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    color: var(--ink);
+    font-weight: 400;
+    line-height: 1.75;
+    min-height: 100vh;
+    padding: 1.25rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container { max-width: 560px; margin: 0 auto; }
+
+  /* ── sections ── */
+  .section { margin-top: 2.2rem; }
+
+  .section-label {
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--accent);
+    margin-bottom: 0.75rem;
+    opacity: 0.85;
+  }
+
+  /* ── char grid ── */
+  .char-grid { display: flex; gap: 0.5rem; }
+
+  .char-card {
+    flex: 1;
+    text-align: center;
+    padding: 1rem 0.4rem;
+    background: var(--card);
+    border-radius: 10px;
+    transition: transform 0.2s ease;
+  }
+
+  .char-card:hover { transform: translateY(-1px); }
+
+  .char-card .hz {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--ink);
+  }
+
+  .char-card .py {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--muted);
+    margin-top: 0.15rem;
+  }
+
+  .char-card .gloss {
+    font-size: 0.76rem;
+    font-weight: 500;
+    margin-top: 0.4rem;
+    color: var(--soft);
+  }
+
+  .char-card .role {
+    font-size: 0.62rem;
+    color: var(--muted);
+    margin-top: 0.1rem;
+    font-style: italic;
+  }
+
+  /* ── radicals ── */
+  .radical-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    padding: 0.55rem 0;
+  }
+
+  .radical-row + .radical-row { border-top: 1px solid var(--divider); }
+
+  .radical-hz {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.35rem;
+    font-weight: 700;
+    width: 2rem;
+    text-align: center;
+    color: var(--accent);
+    flex-shrink: 0;
+  }
+
+  .radical-info { flex: 1; }
+  .radical-info .name { font-weight: 600; font-size: 0.8rem; color: var(--soft); }
+  .radical-info .note { font-size: 0.74rem; color: var(--muted); margin-top: 0.1rem; line-height: 1.6; }
+
+  /* ── prose ── */
+  .prose { font-size: 0.86rem; line-height: 1.85; color: var(--soft); }
+  .prose p { margin-bottom: 0.65rem; }
+  .prose strong { color: var(--ink); font-weight: 600; }
+
+  /* ── situations ── */
+  .situation {
+    padding: 0.8rem 1rem;
+    margin: 0.5rem 0;
+    background: var(--card);
+    border-radius: 10px;
+  }
+
+  .situation-title {
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    margin-bottom: 0.25rem;
+  }
+
+  .situation .sit-setup { font-size: 0.82rem; color: var(--muted); margin-bottom: 0.2rem; }
+  .situation .sit-line { font-size: 0.86rem; font-weight: 500; color: var(--ink); }
+
+  /* ── examples ── */
+  .example { padding: 0.75rem 0; }
+  .example + .example { border-top: 1px solid var(--divider); }
+
+  .ex-cn {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.08rem;
+    font-weight: 700;
+    line-height: 1.55;
+    color: var(--ink);
+  }
+
+  .hl { color: var(--accent); }
+
+  .ex-py {
+    font-family: var(--serif);
+    font-style: italic;
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-top: 0.1rem;
+  }
+
+  .ex-ru { font-size: 0.82rem; margin-top: 0.2rem; color: var(--soft); }
+  .ex-note { font-size: 0.7rem; color: var(--muted); margin-top: 0.1rem; font-style: italic; }
+
+  /* ── footer ── */
+  .footer-note {
+    text-align: center;
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    opacity: 0.7;
+    letter-spacing: 0.04em;
+  }
+
+  @media (max-width: 480px) {
+    .char-grid { flex-direction: column; gap: 0.4rem; }
+  }
+
+
+  :root {
+    --bg: #191410;
+    --card: rgba(196,152,80,0.05);
+    --ink: #ece2d0;
+    --soft: #c4b8a0;
+    --accent: #c49850;
+    --muted: #7e7468;
+    --divider: rgba(196,152,80,0.1);
+    --serif: 'Playfair Display', serif;
+  }
+
+  body {
+    background: var(--bg);
+    background-image: radial-gradient(ellipse at 20% 10%, rgba(196,152,80,0.06) 0%, transparent 50%);
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  .hero {
+    padding: 2rem 0 1.5rem;
+  }
+
+  .hanzi-main {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 6rem;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+    line-height: 1.1;
+    color: var(--ink);
+  }
+
+  .hero-sub {
+    display: flex;
+    align-items: baseline;
+    gap: 0.8rem;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .pinyin-main {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.3rem;
+    font-style: italic;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+  }
+
+  .hero-dot-sep { color: var(--accent); opacity: 0.3; font-size: 0.5rem; }
+
+  .hero-ru {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--soft);
+  }
+
+  .hero-en {
+    display: block;
+    font-size: 0.78rem;
+    color: var(--muted);
+    font-weight: 300;
+    margin-top: 0.5rem;
+  }
+
+  .hero-fade {
+    margin-top: 1.2rem;
+    height: 2px;
+    background: linear-gradient(90deg, var(--accent), transparent 70%);
+    opacity: 0.3;
+  }
+
+  @media (max-width: 480px) {
+    .hanzi-main { font-size: 4.2rem; }
+  }
+
+</style>
+</head>
+<body>
+<div class="container">
+
+    <div class="hero">
+      <div class="hanzi-main">算了吧</div>
+      <div class="hero-sub">
+        <span class="pinyin-main">suàn le ba</span>
+        <span class="hero-dot-sep">·</span>
+        <span class="hero-ru">ладно, забудь · да ну · проехали</span>
+      </div>
+      <span class="hero-en">forget it · never mind · let it go</span>
+      <div class="hero-fade"></div>
+    </div>
+
+    <div class="section">
+      <div class="section-label">Разбор по иероглифам</div>
+      <div class="char-grid">
+        <div class="char-card">
+          <div class="hz">算</div>
+          <div class="py">suàn</div>
+          <div class="gloss">считать, полагать</div>
+          <div class="role">смысловая основа</div>
+        </div>
+        <div class="char-card">
+          <div class="hz">了</div>
+          <div class="py">le</div>
+          <div class="gloss">завершённость</div>
+          <div class="role">частица результата</div>
+        </div>
+        <div class="char-card">
+          <div class="hz">吧</div>
+          <div class="py">ba</div>
+          <div class="gloss">смягчение</div>
+          <div class="role">модальная частица</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-label">Ключи и компоненты</div>
+      <div class="radical-row">
+        <div class="radical-hz">⺮</div>
+        <div class="radical-info">
+          <div class="name">zhú — бамбук</div>
+          <div class="note">Верх 算. Счёты делали из бамбука — связь со счётом</div>
+        </div>
+      </div>
+      <div class="radical-row">
+        <div class="radical-hz">目</div>
+        <div class="radical-info">
+          <div class="name">mù — глаз</div>
+          <div class="note">Середина 算. Глаза следят за костяшками на счётах</div>
+        </div>
+      </div>
+      <div class="radical-row">
+        <div class="radical-hz">廾</div>
+        <div class="radical-info">
+          <div class="name">gǒng — две руки</div>
+          <div class="note">Низ 算. Руки двигают костяшки. Бамбук + глаза + руки = считать</div>
+        </div>
+      </div>
+      <div class="radical-row">
+        <div class="radical-hz">口</div>
+        <div class="radical-info">
+          <div class="name">kǒu — рот</div>
+          <div class="note">Левая часть 吧. Почти все частицы речи содержат 口</div>
+        </div>
+      </div>
+      <div class="radical-row">
+        <div class="radical-hz">巴</div>
+        <div class="radical-info">
+          <div class="name">bā — цепляться</div>
+          <div class="note">Правая часть 吧. Даёт звук «ba». Фонетик</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-label">Как устроено</div>
+      <div class="prose"><p>Буквальный образ: <strong>«посчитаем это закрытым»</strong>. Ты подводишь итог — и решаешь, что дальше не стоит.</p><p>На практике — универсальная фраза «отпускания». Мягкая благодаря 吧, но решительная благодаря 了 — дело закрыто.</p></div>
+    </div>
+
+    <div class="section">
+      <div class="section-label">Когда так говорят</div>
+      <div class="situation">
+        <div class="situation-title">🤷 Отказ от затеи</div>
+        <p class="sit-setup">Друг предлагает ехать куда-то далеко в дождь.</p>
+        <p class="sit-line">算了吧，太远了。 — «Да ну, слишком далеко.»</p>
+      </div>
+      <div class="situation">
+        <div class="situation-title">☁ Примирение</div>
+        <p class="sit-setup">Кто-то извиняется, ты хочешь закрыть тему.</p>
+        <p class="sit-line">算了吧，没关系。 — «Проехали, ничего страшного.»</p>
+      </div>
+      <div class="situation">
+        <div class="situation-title">✧ Разочарование</div>
+        <p class="sit-setup">Попробовал — не вышло — решил бросить.</p>
+        <p class="sit-line">算了吧，我不买了。 — «А, забудь, не буду покупать.»</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-label">Примеры</div>
+      <div class="example">
+        <div class="ex-cn"><span class="hl">算了吧</span>，我们走吧。</div>
+        <div class="ex-py">Suàn le ba, wǒmen zǒu ba.</div>
+        <div class="ex-ru">Ладно забудь, пошли.</div>
+        <div class="ex-note">走 (zǒu) — уходить</div>
+      </div>
+      <div class="example">
+        <div class="ex-cn"><span class="hl">算了吧</span>，没关系。</div>
+        <div class="ex-py">Suàn le ba, méi guānxi.</div>
+        <div class="ex-ru">Проехали, ничего страшного.</div>
+        <div class="ex-note">没关系 — ничего страшного</div>
+      </div>
+      <div class="example">
+        <div class="ex-cn">别买了，<span class="hl">算了吧</span>。</div>
+        <div class="ex-py">Bié mǎi le, suàn le ba.</div>
+        <div class="ex-ru">Не покупай, забей.</div>
+        <div class="ex-note">买 (mǎi) — покупать · 别 — не надо</div>
+      </div>
+      <div class="example">
+        <div class="ex-cn">他很忙，<span class="hl">算了吧</span>，再去吧。</div>
+        <div class="ex-py">Tā hěn máng, suàn le ba, zài qù ba.</div>
+        <div class="ex-ru">Он занят, ладно, в другой раз.</div>
+        <div class="ex-note">忙 — занят · 再 — снова</div>
+      </div>
+      <div class="example">
+        <div class="ex-cn">手机太贵了，<span class="hl">算了吧</span>。</div>
+        <div class="ex-py">Shǒujī tài guì le, suàn le ba.</div>
+        <div class="ex-ru">Телефон слишком дорогой, ну и ладно.</div>
+        <div class="ex-note">手机 — телефон · 贵 — дорогой</div>
+      </div>
+    </div>
+
+    <div class="footer-note">算了吧 — одна из самых частых разговорных фраз · HSK 3–4</div>
+</div>
+</body>
+</html>
