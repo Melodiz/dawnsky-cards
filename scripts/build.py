@@ -119,7 +119,7 @@ def build_index(cards):
 <meta property="og:title" content="DawnSky 霏昊 · vocabulary">
 <meta property="og:description" content="{len(cards)} words">
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:wght@300;400;500;600&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
 
   :root {{
     --bg: #141024;
@@ -129,6 +129,7 @@ def build_index(cards):
     --accent: #d2a08c;
     --muted: #7a7280;
     --divider: rgba(210,160,140,0.1);
+    --serif: 'Cormorant Garamond', serif;
   }}
 
   * {{ margin: 0; padding: 0; box-sizing: border-box; }}
@@ -138,6 +139,7 @@ def build_index(cards):
     background-image: radial-gradient(ellipse at 30% 8%, rgba(210,160,140,0.08) 0%, transparent 50%);
     color: var(--ink);
     font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
     line-height: 1.75;
     min-height: 100vh;
     padding: 1.25rem;
@@ -151,8 +153,7 @@ def build_index(cards):
     position: sticky;
     top: 0;
     z-index: 10;
-    background: var(--bg);
-    background-image: radial-gradient(ellipse at 30% 8%, rgba(210,160,140,0.08) 0%, transparent 50%);
+    background: rgba(20,16,36,0.85);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     padding: 1.25rem 0 0.75rem;
