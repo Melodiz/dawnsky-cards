@@ -115,6 +115,7 @@ def build_index(cards):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#141024">
 <title>DawnSky 霏昊 · vocabulary</title>
 <meta property="og:title" content="DawnSky 霏昊 · vocabulary">
 <meta property="og:description" content="{len(cards)} words">
@@ -135,8 +136,8 @@ def build_index(cards):
   * {{ margin: 0; padding: 0; box-sizing: border-box; }}
 
   body {{
-    background: var(--bg);
-    background-image: radial-gradient(ellipse at 30% 8%, rgba(210,160,140,0.08) 0%, transparent 50%);
+    background: #141024;
+    background-image: radial-gradient(ellipse at 30% 30%, rgba(210,160,140,0.06) 0%, transparent 50%);
     color: var(--ink);
     font-family: 'DM Sans', sans-serif;
     font-weight: 400;
