@@ -15,11 +15,19 @@ import json
 import os
 import sys
 import argparse
+import unicodedata
 from pathlib import Path
 from urllib.parse import quote
 
 # pip install jinja2
 from jinja2 import Environment, FileSystemLoader
+
+
+def strip_tones(s):
+    """Strip tone marks from pinyin: ā→a, é→e, ǐ→i, ü→v etc."""
+    nfkd = unicodedata.normalize('NFD', s)
+    stripped = ''.join(c for c in nfkd if unicodedata.category(c) != 'Mn')
+    return stripped.replace('ü', 'v').replace('Ü', 'V').lower()
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -75,20 +83,32 @@ def build_manifest():
 
 
 def build_index(cards):
-    """Generate index.html — master page listing all cards."""
-    rows = []
+    """Generate index.html — master page with sticky search bar and fuzzy search."""
+    entries = []
     for hanzi in cards:
         json_path = JSON_DIR / f"{hanzi}.json"
         if json_path.exists():
             data = load_json(json_path)
             pinyin = data["pinyin"]
-            meaning = data["meaning_ru"]
+            meaning_ru = data["meaning_ru"]
+            meaning_en = data.get("meaning_en", "")
         else:
             pinyin = ""
-            meaning = ""
+            meaning_ru = ""
+            meaning_en = ""
 
         url = f"{CARDS_PATH}/{quote(hanzi)}.html"
-        rows.append({"hanzi": hanzi, "pinyin": pinyin, "meaning": meaning, "url": url})
+        entries.append({
+            "hanzi": hanzi,
+            "pinyin": pinyin,
+            "pinyin_search": strip_tones(pinyin),
+            "meaning_ru": meaning_ru,
+            "meaning_en": meaning_en,
+            "url": url,
+        })
+
+    entries.sort(key=lambda e: e["pinyin_search"])
+    words_json = json.dumps(entries, ensure_ascii=False)
 
     html = f"""<!DOCTYPE html>
 <html lang="ru">
@@ -121,36 +141,78 @@ def build_index(cards):
     line-height: 1.75;
     min-height: 100vh;
     padding: 1.25rem;
+    padding-top: 0;
     -webkit-font-smoothing: antialiased;
   }}
 
   .container {{ max-width: 560px; margin: 0 auto; }}
 
+  .sticky-header {{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--bg);
+    background-image: radial-gradient(ellipse at 30% 8%, rgba(210,160,140,0.08) 0%, transparent 50%);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 1.25rem 0 0.75rem;
+  }}
+
   .title {{
     font-family: 'Noto Serif SC', serif;
     font-size: 2rem;
     font-weight: 900;
-    padding: 2rem 0 0.3rem;
+    padding: 0.75rem 0 0.5rem;
   }}
 
-  .subtitle {{
-    font-size: 0.8rem;
-    color: var(--muted);
-    margin-bottom: 2rem;
+  .search-row {{
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
   }}
+
+  .search-input {{
+    flex: 1;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--divider);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    padding: 0.5rem 0;
+    outline: none;
+    transition: border-color 0.2s;
+  }}
+
+  .search-input::placeholder {{ color: var(--muted); }}
+  .search-input:focus {{ border-bottom-color: var(--accent); }}
+
+  .word-count {{
+    font-size: 0.75rem;
+    color: var(--muted);
+    white-space: nowrap;
+  }}
+
+  .word-list {{ padding-top: 0.25rem; }}
 
   .word-row {{
     display: flex;
     align-items: baseline;
     gap: 0.75rem;
-    padding: 0.5rem 0;
+    padding: 0.6rem 0;
+    min-height: 44px;
     border-bottom: 1px solid var(--divider);
     text-decoration: none;
     color: inherit;
     transition: background 0.15s;
   }}
 
-  .word-row:hover {{ background: var(--card); margin: 0 -0.5rem; padding: 0.5rem; border-radius: 8px; }}
+  .word-row:hover {{
+    background: var(--card);
+    margin: 0 -0.5rem;
+    padding: 0.6rem 0.5rem;
+    border-radius: 8px;
+  }}
 
   .word-hz {{
     font-family: 'Noto Serif SC', serif;
@@ -185,21 +247,82 @@ def build_index(cards):
 </head>
 <body>
 <div class="container">
-  <div class="title">DawnSky 霏昊</div>
-  <div class="subtitle">{len(cards)} words</div>
-"""
-
-    for row in rows:
-        html += f"""  <a class="word-row" href="{row['url']}">
-    <span class="word-hz">{row['hanzi']}</span>
-    <span class="word-py">{row['pinyin']}</span>
-    <span class="word-ru">{row['meaning']}</span>
-  </a>
-"""
-
-    html += f"""
-  <div class="footer">DawnSky 霏昊 · vocabulary · {len(cards)} words</div>
+  <div class="sticky-header">
+    <div class="title">DawnSky 霏昊</div>
+    <div class="search-row">
+      <input type="text" class="search-input" id="search" placeholder="pinyin, meaning, hanzi..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      <span class="word-count" id="count">{len(cards)} words</span>
+    </div>
+  </div>
+  <div class="word-list" id="list"></div>
+  <div class="footer">DawnSky 霏昊 · vocabulary</div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script>
+(function() {{
+  var WORDS = {words_json};
+
+  var listEl = document.getElementById('list');
+  var countEl = document.getElementById('count');
+  var searchEl = document.getElementById('search');
+
+  function renderRows(items) {{
+    var html = '';
+    for (var i = 0; i < items.length; i++) {{
+      var w = items[i];
+      html += '<a class="word-row" href="' + w.url + '">'
+            + '<span class="word-hz">' + w.hanzi + '</span>'
+            + '<span class="word-py">' + w.pinyin + '</span>'
+            + '<span class="word-ru">' + w.meaning_ru + '</span>'
+            + '</a>';
+    }}
+    listEl.innerHTML = html;
+    countEl.textContent = items.length + ' word' + (items.length !== 1 ? 's' : '');
+  }}
+
+  var fuse = new Fuse(WORDS, {{
+    keys: [
+      {{ name: 'pinyin_search', weight: 0.4 }},
+      {{ name: 'pinyin', weight: 0.2 }},
+      {{ name: 'hanzi', weight: 0.2 }},
+      {{ name: 'meaning_ru', weight: 0.15 }},
+      {{ name: 'meaning_en', weight: 0.05 }}
+    ],
+    threshold: 0.4,
+    distance: 100,
+    includeScore: true,
+    minMatchCharLength: 1
+  }});
+
+  function stripTones(s) {{
+    return s.normalize('NFD').replace(/[\\u0300-\\u036f]/g, '')
+            .replace(/ü/g, 'v').replace(/Ü/g, 'V').toLowerCase();
+  }}
+
+  function doSearch() {{
+    var q = searchEl.value.trim();
+    if (!q) {{
+      renderRows(WORDS);
+      return;
+    }}
+    var results = fuse.search(stripTones(q));
+    var items = [];
+    for (var i = 0; i < results.length; i++) {{
+      items.push(results[i].item);
+    }}
+    renderRows(items);
+  }}
+
+  var timer = null;
+  searchEl.addEventListener('input', function() {{
+    clearTimeout(timer);
+    timer = setTimeout(doSearch, 150);
+  }});
+
+  renderRows(WORDS);
+}})();
+</script>
 </body>
 </html>"""
 

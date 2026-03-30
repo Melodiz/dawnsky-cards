@@ -29,36 +29,78 @@
     line-height: 1.75;
     min-height: 100vh;
     padding: 1.25rem;
+    padding-top: 0;
     -webkit-font-smoothing: antialiased;
   }
 
   .container { max-width: 560px; margin: 0 auto; }
 
+  .sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--bg);
+    background-image: radial-gradient(ellipse at 30% 8%, rgba(210,160,140,0.08) 0%, transparent 50%);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 1.25rem 0 0.75rem;
+  }
+
   .title {
     font-family: 'Noto Serif SC', serif;
     font-size: 2rem;
     font-weight: 900;
-    padding: 2rem 0 0.3rem;
+    padding: 0.75rem 0 0.5rem;
   }
 
-  .subtitle {
-    font-size: 0.8rem;
-    color: var(--muted);
-    margin-bottom: 2rem;
+  .search-row {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
   }
+
+  .search-input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--divider);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    padding: 0.5rem 0;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .search-input::placeholder { color: var(--muted); }
+  .search-input:focus { border-bottom-color: var(--accent); }
+
+  .word-count {
+    font-size: 0.75rem;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .word-list { padding-top: 0.25rem; }
 
   .word-row {
     display: flex;
     align-items: baseline;
     gap: 0.75rem;
-    padding: 0.5rem 0;
+    padding: 0.6rem 0;
+    min-height: 44px;
     border-bottom: 1px solid var(--divider);
     text-decoration: none;
     color: inherit;
     transition: background 0.15s;
   }
 
-  .word-row:hover { background: var(--card); margin: 0 -0.5rem; padding: 0.5rem; border-radius: 8px; }
+  .word-row:hover {
+    background: var(--card);
+    margin: 0 -0.5rem;
+    padding: 0.6rem 0.5rem;
+    border-radius: 8px;
+  }
 
   .word-hz {
     font-family: 'Noto Serif SC', serif;
@@ -93,1130 +135,81 @@
 </head>
 <body>
 <div class="container">
-  <div class="title">DawnSky 霏昊</div>
-  <div class="subtitle">224 words</div>
-  <a class="word-row" href="cards/%E4%B8%80.html">
-    <span class="word-hz">一</span>
-    <span class="word-py">yī</span>
-    <span class="word-ru">один</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%80%E5%85%B1.html">
-    <span class="word-hz">一共</span>
-    <span class="word-py">yígòng</span>
-    <span class="word-ru">всего, итого</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%80%E8%B5%B7.html">
-    <span class="word-hz">一起</span>
-    <span class="word-py">yìqǐ</span>
-    <span class="word-ru">вместе</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%83.html">
-    <span class="word-hz">七</span>
-    <span class="word-py">qī</span>
-    <span class="word-ru">семь</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%87.html">
-    <span class="word-hz">万</span>
-    <span class="word-py">wàn</span>
-    <span class="word-ru">десять тысяч</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%89.html">
-    <span class="word-hz">三</span>
-    <span class="word-py">sān</span>
-    <span class="word-ru">три</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%8A%E8%AF%BE.html">
-    <span class="word-hz">上课</span>
-    <span class="word-py">shàngkè</span>
-    <span class="word-ru">идти на урок, начинать занятие</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%8A%E8%BE%B9.html">
-    <span class="word-hz">上边</span>
-    <span class="word-py">shàngbian</span>
-    <span class="word-ru">наверху, сверху</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%8B%E8%AF%BE.html">
-    <span class="word-hz">下课</span>
-    <span class="word-py">xià kè</span>
-    <span class="word-ru">конец урока, заканчивать занятие</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%8D.html">
-    <span class="word-hz">不</span>
-    <span class="word-py">bù</span>
-    <span class="word-ru">не (настоящее / будущее)</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%8D%E5%AE%A2%E6%B0%94.html">
-    <span class="word-hz">不客气</span>
-    <span class="word-py">bú kèqi</span>
-    <span class="word-ru">не за что, пожалуйста</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%8D%E6%87%82.html">
-    <span class="word-hz">不懂</span>
-    <span class="word-py">bù dǒng</span>
-    <span class="word-ru">не понимать, не разбираться</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%9C%E8%BE%B9.html">
-    <span class="word-hz">东边</span>
-    <span class="word-py">dōngbian</span>
-    <span class="word-ru">восток, восточная сторона</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%A4.html">
-    <span class="word-hz">两</span>
-    <span class="word-py">liǎng</span>
-    <span class="word-ru">два (перед счётным словом)</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%AD%E5%9B%BD.html">
-    <span class="word-hz">中国</span>
-    <span class="word-py">zhōngguó</span>
-    <span class="word-ru">Китай</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B8%AD%E6%96%87.html">
-    <span class="word-hz">中文</span>
-    <span class="word-py">Zhōngwén</span>
-    <span class="word-ru">китайский язык (письменный)</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B9%9D.html">
-    <span class="word-hz">九</span>
-    <span class="word-py">jiǔ</span>
-    <span class="word-ru">девять</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B9%9F.html">
-    <span class="word-hz">也</span>
-    <span class="word-py">yě</span>
-    <span class="word-ru">тоже, также</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B9%A6.html">
-    <span class="word-hz">书</span>
-    <span class="word-py">shū</span>
-    <span class="word-ru">книга</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B9%A6%E5%8C%85.html">
-    <span class="word-hz">书包</span>
-    <span class="word-py">shūbāo</span>
-    <span class="word-ru">рюкзак, портфель</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B9%A6%E5%BA%97.html">
-    <span class="word-hz">书店</span>
-    <span class="word-py">shūdiàn</span>
-    <span class="word-ru">книжный магазин</span>
-  </a>
-  <a class="word-row" href="cards/%E4%B9%B0.html">
-    <span class="word-hz">买</span>
-    <span class="word-py">mǎi</span>
-    <span class="word-ru">покупать</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BA%86.html">
-    <span class="word-hz">了</span>
-    <span class="word-py">le</span>
-    <span class="word-ru">частица завершённости · изменения</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BA%8C.html">
-    <span class="word-hz">二</span>
-    <span class="word-py">èr</span>
-    <span class="word-ru">два</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BA%94.html">
-    <span class="word-hz">五</span>
-    <span class="word-py">wǔ</span>
-    <span class="word-ru">пять</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BB%80%E4%B9%88.html">
-    <span class="word-hz">什么</span>
-    <span class="word-py">shénme</span>
-    <span class="word-ru">что, какой</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BB%8A%E5%A4%A9.html">
-    <span class="word-hz">今天</span>
-    <span class="word-py">jīntiān</span>
-    <span class="word-ru">сегодня</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BB%96%E4%BB%AC.html">
-    <span class="word-hz">他们</span>
-    <span class="word-py">tāmen</span>
-    <span class="word-ru">они</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BB%A5%E5%90%8E.html">
-    <span class="word-hz">以后</span>
-    <span class="word-py">yǐhòu</span>
-    <span class="word-ru">после, потом, в будущем</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BC%8F%E7%89%B9%E5%8A%A0.html">
-    <span class="word-hz">伏特加</span>
-    <span class="word-py">fútèjiā</span>
-    <span class="word-ru">водка</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BD%93%E8%82%B2%E9%A6%86.html">
-    <span class="word-hz">体育馆</span>
-    <span class="word-py">tǐyùguǎn</span>
-    <span class="word-ru">спортзал, спорткомплекс</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BD%A0%E4%BB%AC.html">
-    <span class="word-hz">你们</span>
-    <span class="word-py">nǐmen</span>
-    <span class="word-ru">вы (мн.ч.)</span>
-  </a>
-  <a class="word-row" href="cards/%E4%BF%84%E7%BD%97%E6%96%AF.html">
-    <span class="word-hz">俄罗斯</span>
-    <span class="word-py">éluósī</span>
-    <span class="word-ru">Россия</span>
-  </a>
-  <a class="word-row" href="cards/%E5%85%AB.html">
-    <span class="word-hz">八</span>
-    <span class="word-py">bā</span>
-    <span class="word-ru">восемь</span>
-  </a>
-  <a class="word-row" href="cards/%E5%85%AD.html">
-    <span class="word-hz">六</span>
-    <span class="word-py">liù</span>
-    <span class="word-ru">шесть</span>
-  </a>
-  <a class="word-row" href="cards/%E5%86%8D.html">
-    <span class="word-hz">再</span>
-    <span class="word-py">zài</span>
-    <span class="word-ru">ещё раз, снова, потом</span>
-  </a>
-  <a class="word-row" href="cards/%E5%86%9C%E6%B0%91.html">
-    <span class="word-hz">农民</span>
-    <span class="word-py">nóngmín</span>
-    <span class="word-ru">крестьянин, фермер</span>
-  </a>
-  <a class="word-row" href="cards/%E5%87%86%E5%A4%87.html">
-    <span class="word-hz">准备</span>
-    <span class="word-py">zhǔnbèi</span>
-    <span class="word-ru">готовить(ся), собираться</span>
-  </a>
-  <a class="word-row" href="cards/%E5%89%8D%E5%A4%A9.html">
-    <span class="word-hz">前天</span>
-    <span class="word-py">qiántiān</span>
-    <span class="word-ru">позавчера</span>
-  </a>
-  <a class="word-row" href="cards/%E5%89%8D%E8%BE%B9.html">
-    <span class="word-hz">前边</span>
-    <span class="word-py">qiánbian</span>
-    <span class="word-ru">впереди, спереди</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8C%97%E8%BE%B9.html">
-    <span class="word-hz">北边</span>
-    <span class="word-py">běibian</span>
-    <span class="word-ru">север, северная сторона</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8C%BB%E7%94%9F.html">
-    <span class="word-hz">医生</span>
-    <span class="word-py">yīshēng</span>
-    <span class="word-ru">врач, доктор</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8D%81.html">
-    <span class="word-hz">十</span>
-    <span class="word-py">shí</span>
-    <span class="word-ru">десять</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8D%83.html">
-    <span class="word-hz">千</span>
-    <span class="word-py">qiān</span>
-    <span class="word-ru">тысяча</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8D%97%E8%BE%B9.html">
-    <span class="word-hz">南边</span>
-    <span class="word-py">nánbian</span>
-    <span class="word-ru">юг, южная сторона</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8D%AB%E7%94%9F%E9%97%B4.html">
-    <span class="word-hz">卫生间</span>
-    <span class="word-py">wèishēngjiān</span>
-    <span class="word-ru">туалет, уборная</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8E%A8%E5%B8%88.html">
-    <span class="word-hz">厨师</span>
-    <span class="word-py">chúshī</span>
-    <span class="word-ru">повар, шеф-повар</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8E%BB.html">
-    <span class="word-hz">去</span>
-    <span class="word-py">qù</span>
-    <span class="word-ru">идти, ехать (куда-то)</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8F%A3.html">
-    <span class="word-hz">口</span>
-    <span class="word-py">kǒu</span>
-    <span class="word-ru">рот · счётное слово (люди в семье)</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8F%AB.html">
-    <span class="word-hz">叫</span>
-    <span class="word-py">jiào</span>
-    <span class="word-ru">звать, называться</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8F%B0.html">
-    <span class="word-hz">台</span>
-    <span class="word-py">tái</span>
-    <span class="word-ru">счётное слово для техники</span>
-  </a>
-  <a class="word-row" href="cards/%E5%8F%B7.html">
-    <span class="word-hz">号</span>
-    <span class="word-py">hào</span>
-    <span class="word-ru">число (дата) · номер</span>
-  </a>
-  <a class="word-row" href="cards/%E5%90%83.html">
-    <span class="word-hz">吃</span>
-    <span class="word-py">chī</span>
-    <span class="word-ru">есть, кушать</span>
-  </a>
-  <a class="word-row" href="cards/%E5%90%8C%E5%AD%A6.html">
-    <span class="word-hz">同学</span>
-    <span class="word-py">tóngxué</span>
-    <span class="word-ru">одноклассник, однокурсник</span>
-  </a>
-  <a class="word-row" href="cards/%E5%90%8D%E5%AD%97.html">
-    <span class="word-hz">名字</span>
-    <span class="word-py">míngzi</span>
-    <span class="word-ru">имя</span>
-  </a>
-  <a class="word-row" href="cards/%E5%90%8E%E5%A4%A9.html">
-    <span class="word-hz">后天</span>
-    <span class="word-py">hòutiān</span>
-    <span class="word-ru">послезавтра</span>
-  </a>
-  <a class="word-row" href="cards/%E5%90%8E%E8%BE%B9.html">
-    <span class="word-hz">后边</span>
-    <span class="word-py">hòubian</span>
-    <span class="word-ru">сзади, позади</span>
-  </a>
-  <a class="word-row" href="cards/%E5%90%A7.html">
-    <span class="word-hz">吧</span>
-    <span class="word-py">ba</span>
-    <span class="word-ru">частица предложения · давай</span>
-  </a>
-  <a class="word-row" href="cards/%E5%91%A8%E6%9C%AB.html">
-    <span class="word-hz">周末</span>
-    <span class="word-py">zhōumò</span>
-    <span class="word-ru">выходные, уикенд</span>
-  </a>
-  <a class="word-row" href="cards/%E5%92%8C.html">
-    <span class="word-hz">和</span>
-    <span class="word-py">hé</span>
-    <span class="word-ru">и, а также · с</span>
-  </a>
-  <a class="word-row" href="cards/%E5%93%A5%E5%93%A5.html">
-    <span class="word-hz">哥哥</span>
-    <span class="word-py">gēge</span>
-    <span class="word-ru">старший брат</span>
-  </a>
-  <a class="word-row" href="cards/%E5%93%AA%E5%84%BF.html">
-    <span class="word-hz">哪儿</span>
-    <span class="word-py">nǎr</span>
-    <span class="word-ru">где, куда</span>
-  </a>
-  <a class="word-row" href="cards/%E5%95%86%E5%BA%97.html">
-    <span class="word-hz">商店</span>
-    <span class="word-py">shāngdiàn</span>
-    <span class="word-ru">магазин</span>
-  </a>
-  <a class="word-row" href="cards/%E5%95%8A.html">
-    <span class="word-hz">啊</span>
-    <span class="word-py">a / ā / á / ǎ / à</span>
-    <span class="word-ru">восклицательная частица</span>
-  </a>
-  <a class="word-row" href="cards/%E5%9B%9B.html">
-    <span class="word-hz">四</span>
-    <span class="word-py">sì</span>
-    <span class="word-ru">четыре</span>
-  </a>
-  <a class="word-row" href="cards/%E5%9B%BE%E4%B9%A6%E9%A6%86.html">
-    <span class="word-hz">图书馆</span>
-    <span class="word-py">túshūguǎn</span>
-    <span class="word-ru">библиотека</span>
-  </a>
-  <a class="word-row" href="cards/%E5%9C%A8.html">
-    <span class="word-hz">在</span>
-    <span class="word-py">zài</span>
-    <span class="word-ru">находиться · в (предлог места)</span>
-  </a>
-  <a class="word-row" href="cards/%E5%9C%B0%E6%96%B9.html">
-    <span class="word-hz">地方</span>
-    <span class="word-py">dìfang</span>
-    <span class="word-ru">место, местность</span>
-  </a>
-  <a class="word-row" href="cards/%E5%9D%97.html">
-    <span class="word-hz">块</span>
-    <span class="word-py">kuài</span>
-    <span class="word-ru">юань (разг.) · кусок</span>
-  </a>
-  <a class="word-row" href="cards/%E5%A4%9A%E5%B0%91.html">
-    <span class="word-hz">多少</span>
-    <span class="word-py">duōshao</span>
-    <span class="word-ru">сколько</span>
-  </a>
-  <a class="word-row" href="cards/%E5%A4%A7%E5%AD%A6%E7%94%9F.html">
-    <span class="word-hz">大学生</span>
-    <span class="word-py">dàxuéshēng</span>
-    <span class="word-ru">студент университета</span>
-  </a>
-  <a class="word-row" href="cards/%E5%A4%AA.html">
-    <span class="word-hz">太</span>
-    <span class="word-py">tài</span>
-    <span class="word-ru">слишком · очень (в восклицании)</span>
-  </a>
-  <a class="word-row" href="cards/%E5%A5%BD%E7%9A%84.html">
-    <span class="word-hz">好的</span>
-    <span class="word-py">hǎo de</span>
-    <span class="word-ru">хорошо, ладно, окей</span>
-  </a>
-  <a class="word-row" href="cards/%E5%A6%88%E5%A6%88.html">
-    <span class="word-hz">妈妈</span>
-    <span class="word-py">māma</span>
-    <span class="word-ru">мама, мать</span>
-  </a>
-  <a class="word-row" href="cards/%E5%A7%93.html">
-    <span class="word-hz">姓</span>
-    <span class="word-py">xìng</span>
-    <span class="word-ru">фамилия · носить фамилию</span>
-  </a>
-  <a class="word-row" href="cards/%E5%AD%A6%E4%B9%A0.html">
-    <span class="word-hz">学习</span>
-    <span class="word-py">xuéxí</span>
-    <span class="word-ru">учиться, изучать</span>
-  </a>
-  <a class="word-row" href="cards/%E5%AE%A2%E6%B0%94.html">
-    <span class="word-hz">客气</span>
-    <span class="word-py">kèqi</span>
-    <span class="word-ru">вежливый, церемонный</span>
-  </a>
-  <a class="word-row" href="cards/%E5%AE%B6.html">
-    <span class="word-hz">家</span>
-    <span class="word-py">jiā</span>
-    <span class="word-ru">семья, дом</span>
-  </a>
-  <a class="word-row" href="cards/%E5%AE%BF%E8%88%8D.html">
-    <span class="word-hz">宿舍</span>
-    <span class="word-py">sùshè</span>
-    <span class="word-ru">общежитие</span>
-  </a>
-  <a class="word-row" href="cards/%E5%AF%B9.html">
-    <span class="word-hz">对</span>
-    <span class="word-py">duì</span>
-    <span class="word-ru">правильно, верно · по отношению к</span>
-  </a>
-  <a class="word-row" href="cards/%E5%AF%B9%E4%B8%8D%E8%B5%B7.html">
-    <span class="word-hz">对不起</span>
-    <span class="word-py">duìbuqǐ</span>
-    <span class="word-ru">извините, простите</span>
-  </a>
-  <a class="word-row" href="cards/%E5%B0%86%E6%9D%A5.html">
-    <span class="word-hz">将来</span>
-    <span class="word-py">jiānglái</span>
-    <span class="word-ru">в будущем</span>
-  </a>
-  <a class="word-row" href="cards/%E5%B0%8F%E4%B8%89.html">
-    <span class="word-hz">小三</span>
-    <span class="word-py">xiǎosān</span>
-    <span class="word-ru">любовница / любовник (сленг)</span>
-  </a>
-  <a class="word-row" href="cards/%E5%B0%8F%E5%AD%A9%E5%84%BF.html">
-    <span class="word-hz">小孩儿</span>
-    <span class="word-py">xiǎoháir</span>
-    <span class="word-ru">ребёнок, малыш</span>
-  </a>
-  <a class="word-row" href="cards/%E5%B0%B1.html">
-    <span class="word-hz">就</span>
-    <span class="word-py">jiù</span>
-    <span class="word-ru">именно, как раз · сразу · уже</span>
-  </a>
-  <a class="word-row" href="cards/%E5%B7%A5%E7%A8%8B%E5%B8%88.html">
-    <span class="word-hz">工程师</span>
-    <span class="word-py">gōngchéngshī</span>
-    <span class="word-ru">инженер</span>
-  </a>
-  <a class="word-row" href="cards/%E5%B9%B4.html">
-    <span class="word-hz">年</span>
-    <span class="word-py">nián</span>
-    <span class="word-ru">год</span>
-  </a>
-  <a class="word-row" href="cards/%E5%BC%80%E7%8E%A9%E7%AC%91.html">
-    <span class="word-hz">开玩笑</span>
-    <span class="word-py">kāi wánxiào</span>
-    <span class="word-ru">шутить, прикалываться</span>
-  </a>
-  <a class="word-row" href="cards/%E5%BE%88.html">
-    <span class="word-hz">很</span>
-    <span class="word-py">hěn</span>
-    <span class="word-ru">очень</span>
-  </a>
-  <a class="word-row" href="cards/%E5%BE%8B%E5%B8%88.html">
-    <span class="word-hz">律师</span>
-    <span class="word-py">lǜshī</span>
-    <span class="word-ru">адвокат, юрист</span>
-  </a>
-  <a class="word-row" href="cards/%E5%BF%99.html">
-    <span class="word-hz">忙</span>
-    <span class="word-py">máng</span>
-    <span class="word-ru">занятой</span>
-  </a>
-  <a class="word-row" href="cards/%E5%BF%AB%E4%B9%90.html">
-    <span class="word-hz">快乐</span>
-    <span class="word-py">kuàilè</span>
-    <span class="word-ru">счастливый, радостный</span>
-  </a>
-  <a class="word-row" href="cards/%E6%80%8E%E4%B9%88%E6%A0%B7.html">
-    <span class="word-hz">怎么样</span>
-    <span class="word-py">zěnmeyàng</span>
-    <span class="word-ru">как, ну как? · как насчёт?</span>
-  </a>
-  <a class="word-row" href="cards/%E6%83%85%E4%BA%BA.html">
-    <span class="word-hz">情人</span>
-    <span class="word-py">qíngrén</span>
-    <span class="word-ru">возлюбленный, любимый человек</span>
-  </a>
-  <a class="word-row" href="cards/%E6%83%B3.html">
-    <span class="word-hz">想</span>
-    <span class="word-py">xiǎng</span>
-    <span class="word-ru">хотеть (мягко) · думать · скучать</span>
-  </a>
-  <a class="word-row" href="cards/%E6%88%91%E6%93%8D.html">
-    <span class="word-hz">我操</span>
-    <span class="word-py">wǒ cào</span>
-    <span class="word-ru">блять (ругательство)</span>
-  </a>
-  <a class="word-row" href="cards/%E6%89%8B%E6%9C%BA.html">
-    <span class="word-hz">手机</span>
-    <span class="word-py">shǒujī</span>
-    <span class="word-ru">мобильный телефон</span>
-  </a>
-  <a class="word-row" href="cards/%E6%89%93%E5%8D%A1.html">
-    <span class="word-hz">打卡</span>
-    <span class="word-py">dǎkǎ</span>
-    <span class="word-ru">зачекиниться, отметиться</span>
-  </a>
-  <a class="word-row" href="cards/%E6%89%BE.html">
-    <span class="word-hz">找</span>
-    <span class="word-py">zhǎo</span>
-    <span class="word-ru">искать · давать сдачу</span>
-  </a>
-  <a class="word-row" href="cards/%E6%8A%A4%E5%A3%AB.html">
-    <span class="word-hz">护士</span>
-    <span class="word-py">hùshi</span>
-    <span class="word-ru">медсестра, медбрат</span>
-  </a>
-  <a class="word-row" href="cards/%E6%8A%A5%E7%BA%B8.html">
-    <span class="word-hz">报纸</span>
-    <span class="word-py">bàozhǐ</span>
-    <span class="word-ru">газета</span>
-  </a>
-  <a class="word-row" href="cards/%E6%94%AF.html">
-    <span class="word-hz">支</span>
-    <span class="word-py">zhī</span>
-    <span class="word-ru">счётное слово для ручек, карандашей</span>
-  </a>
-  <a class="word-row" href="cards/%E6%94%B6.html">
-    <span class="word-hz">收</span>
-    <span class="word-py">shōu</span>
-    <span class="word-ru">получать, собирать</span>
-  </a>
-  <a class="word-row" href="cards/%E6%95%99%E5%AD%A6.html">
-    <span class="word-hz">教学</span>
-    <span class="word-py">jiàoxué</span>
-    <span class="word-ru">преподавание, обучение</span>
-  </a>
-  <a class="word-row" href="cards/%E6%95%99%E5%AD%A6%E6%A5%BC.html">
-    <span class="word-hz">教学楼</span>
-    <span class="word-py">jiàoxuélóu</span>
-    <span class="word-ru">учебный корпус</span>
-  </a>
-  <a class="word-row" href="cards/%E6%96%A4.html">
-    <span class="word-hz">斤</span>
-    <span class="word-py">jīn</span>
-    <span class="word-ru">цзинь (500 г)</span>
-  </a>
-  <a class="word-row" href="cards/%E6%96%B0.html">
-    <span class="word-hz">新</span>
-    <span class="word-py">xīn</span>
-    <span class="word-ru">новый</span>
-  </a>
-  <a class="word-row" href="cards/%E6%97%81%E8%BE%B9.html">
-    <span class="word-hz">旁边</span>
-    <span class="word-py">pángbian</span>
-    <span class="word-ru">рядом, сбоку</span>
-  </a>
-  <a class="word-row" href="cards/%E6%97%A5.html">
-    <span class="word-hz">日</span>
-    <span class="word-py">rì</span>
-    <span class="word-ru">день, число · солнце</span>
-  </a>
-  <a class="word-row" href="cards/%E6%97%B6%E9%97%B4.html">
-    <span class="word-hz">时间</span>
-    <span class="word-py">shíjiān</span>
-    <span class="word-ru">время</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%8E%E5%A4%A9.html">
-    <span class="word-hz">明天</span>
-    <span class="word-py">míngtiān</span>
-    <span class="word-ru">завтра</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%8E%E7%99%BD.html">
-    <span class="word-hz">明白</span>
-    <span class="word-py">míngbai</span>
-    <span class="word-ru">понимать, ясно</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%9F%E6%9C%9F.html">
-    <span class="word-hz">星期</span>
-    <span class="word-py">xīngqī</span>
-    <span class="word-ru">неделя</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%9F%E6%9C%9F%E4%B8%80.html">
-    <span class="word-hz">星期一</span>
-    <span class="word-py">xīngqīyī</span>
-    <span class="word-ru">понедельник</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%9F%E6%9C%9F%E4%B8%89.html">
-    <span class="word-hz">星期三</span>
-    <span class="word-py">xīngqīsān</span>
-    <span class="word-ru">среда</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%9F%E6%9C%9F%E4%BA%8C.html">
-    <span class="word-hz">星期二</span>
-    <span class="word-py">xīngqī'èr</span>
-    <span class="word-ru">вторник</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%9F%E6%9C%9F%E4%BA%94.html">
-    <span class="word-hz">星期五</span>
-    <span class="word-py">xīngqīwǔ</span>
-    <span class="word-ru">пятница</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%9F%E6%9C%9F%E5%85%AD.html">
-    <span class="word-hz">星期六</span>
-    <span class="word-py">xīngqīliù</span>
-    <span class="word-ru">суббота</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%9F%E6%9C%9F%E5%9B%9B.html">
-    <span class="word-hz">星期四</span>
-    <span class="word-py">xīngqīsì</span>
-    <span class="word-ru">четверг</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%9F%E6%9C%9F%E5%A4%A9.html">
-    <span class="word-hz">星期天</span>
-    <span class="word-py">xīngqītiān</span>
-    <span class="word-ru">воскресенье</span>
-  </a>
-  <a class="word-row" href="cards/%E6%98%A8%E5%A4%A9.html">
-    <span class="word-hz">昨天</span>
-    <span class="word-py">zuótiān</span>
-    <span class="word-ru">вчера</span>
-  </a>
-  <a class="word-row" href="cards/%E6%99%9A%E4%B8%8A.html">
-    <span class="word-hz">晚上</span>
-    <span class="word-py">wǎnshang</span>
-    <span class="word-ru">вечер, вечером</span>
-  </a>
-  <a class="word-row" href="cards/%E6%9C%80%E8%BF%91.html">
-    <span class="word-hz">最近</span>
-    <span class="word-py">zuìjìn</span>
-    <span class="word-ru">недавно, в последнее время</span>
-  </a>
-  <a class="word-row" href="cards/%E6%9C%88.html">
-    <span class="word-hz">月</span>
-    <span class="word-py">yuè</span>
-    <span class="word-ru">месяц, луна</span>
-  </a>
-  <a class="word-row" href="cards/%E6%9C%89.html">
-    <span class="word-hz">有</span>
-    <span class="word-py">yǒu</span>
-    <span class="word-ru">иметь · быть, существовать</span>
-  </a>
-  <a class="word-row" href="cards/%E6%9C%8B%E5%8F%8B.html">
-    <span class="word-hz">朋友</span>
-    <span class="word-py">péngyou</span>
-    <span class="word-ru">друг</span>
-  </a>
-  <a class="word-row" href="cards/%E6%9C%8D%E5%8A%A1%E5%91%98.html">
-    <span class="word-hz">服务员</span>
-    <span class="word-py">fúwùyuán</span>
-    <span class="word-ru">официант, обслуживающий персонал</span>
-  </a>
-  <a class="word-row" href="cards/%E6%9C%AC.html">
-    <span class="word-hz">本</span>
-    <span class="word-py">běn</span>
-    <span class="word-ru">счётное слово для книг и журналов</span>
-  </a>
-  <a class="word-row" href="cards/%E6%9D%82%E5%BF%97.html">
-    <span class="word-hz">杂志</span>
-    <span class="word-py">zázhì</span>
-    <span class="word-ru">журнал</span>
-  </a>
-  <a class="word-row" href="cards/%E6%A1%8C%E5%AD%90.html">
-    <span class="word-hz">桌子</span>
-    <span class="word-py">zhuōzi</span>
-    <span class="word-ru">стол</span>
-  </a>
-  <a class="word-row" href="cards/%E6%A2%A8.html">
-    <span class="word-hz">梨</span>
-    <span class="word-py">lí</span>
-    <span class="word-ru">груша</span>
-  </a>
-  <a class="word-row" href="cards/%E6%A5%BC.html">
-    <span class="word-hz">楼</span>
-    <span class="word-py">lóu</span>
-    <span class="word-ru">здание, этаж</span>
-  </a>
-  <a class="word-row" href="cards/%E6%A9%98%E5%AD%90.html">
-    <span class="word-hz">橘子</span>
-    <span class="word-py">júzi</span>
-    <span class="word-ru">мандарин, апельсин</span>
-  </a>
-  <a class="word-row" href="cards/%E6%AF%9B.html">
-    <span class="word-hz">毛</span>
-    <span class="word-py">máo</span>
-    <span class="word-ru">мао (0.1 юаня) · шерсть, волос</span>
-  </a>
-  <a class="word-row" href="cards/%E6%B0%B4%E6%9E%9C.html">
-    <span class="word-hz">水果</span>
-    <span class="word-py">shuǐguǒ</span>
-    <span class="word-ru">фрукты</span>
-  </a>
-  <a class="word-row" href="cards/%E6%B1%89%E8%AF%AD.html">
-    <span class="word-hz">汉语</span>
-    <span class="word-py">hànyǔ</span>
-    <span class="word-ru">китайский язык</span>
-  </a>
-  <a class="word-row" href="cards/%E6%B2%A1.html">
-    <span class="word-hz">没</span>
-    <span class="word-py">méi</span>
-    <span class="word-ru">не (прошлое) · нет (не иметь)</span>
-  </a>
-  <a class="word-row" href="cards/%E6%B2%A1%E5%85%B3%E7%B3%BB.html">
-    <span class="word-hz">没关系</span>
-    <span class="word-py">méi guānxi</span>
-    <span class="word-ru">ничего страшного, не беда</span>
-  </a>
-  <a class="word-row" href="cards/%E6%B2%A1%E9%97%AE%E9%A2%98.html">
-    <span class="word-hz">没问题</span>
-    <span class="word-py">méi wèntí</span>
-    <span class="word-ru">без проблем, нет вопросов</span>
-  </a>
-  <a class="word-row" href="cards/%E6%B3%B0%E5%9B%BD.html">
-    <span class="word-hz">泰国</span>
-    <span class="word-py">tàiguó</span>
-    <span class="word-ru">Таиланд</span>
-  </a>
-  <a class="word-row" href="cards/%E6%B9%96.html">
-    <span class="word-hz">湖</span>
-    <span class="word-py">hú</span>
-    <span class="word-ru">озеро</span>
-  </a>
-  <a class="word-row" href="cards/%E7%88%B8%E7%88%B8.html">
-    <span class="word-hz">爸爸</span>
-    <span class="word-py">bàba</span>
-    <span class="word-ru">папа, отец</span>
-  </a>
-  <a class="word-row" href="cards/%E7%8C%AB%E5%A4%B4%E9%B9%B0.html">
-    <span class="word-hz">猫头鹰</span>
-    <span class="word-py">māotóuyīng</span>
-    <span class="word-ru">сова, филин</span>
-  </a>
-  <a class="word-row" href="cards/%E7%8E%B0%E5%9C%A8.html">
-    <span class="word-hz">现在</span>
-    <span class="word-py">xiànzài</span>
-    <span class="word-ru">сейчас, в настоящее время</span>
-  </a>
-  <a class="word-row" href="cards/%E7%8F%AD.html">
-    <span class="word-hz">班</span>
-    <span class="word-py">bān</span>
-    <span class="word-ru">класс, группа, смена</span>
-  </a>
-  <a class="word-row" href="cards/%E7%93%B6.html">
-    <span class="word-hz">瓶</span>
-    <span class="word-py">píng</span>
-    <span class="word-ru">бутылка (счётное слово)</span>
-  </a>
-  <a class="word-row" href="cards/%E7%94%9C.html">
-    <span class="word-hz">甜</span>
-    <span class="word-py">tián</span>
-    <span class="word-ru">сладкий</span>
-  </a>
-  <a class="word-row" href="cards/%E7%94%9C%E6%A4%92.html">
-    <span class="word-hz">甜椒</span>
-    <span class="word-py">tiánjiāo</span>
-    <span class="word-ru">сладкий перец, болгарский перец</span>
-  </a>
-  <a class="word-row" href="cards/%E7%94%9F%E6%97%A5.html">
-    <span class="word-hz">生日</span>
-    <span class="word-py">shēngrì</span>
-    <span class="word-ru">день рождения</span>
-  </a>
-  <a class="word-row" href="cards/%E7%94%B5%E5%AD%90.html">
-    <span class="word-hz">电子</span>
-    <span class="word-py">diànzǐ</span>
-    <span class="word-ru">электронный</span>
-  </a>
-  <a class="word-row" href="cards/%E7%94%B5%E5%AD%90%E8%AF%8D%E5%85%B8.html">
-    <span class="word-hz">电子词典</span>
-    <span class="word-py">diànzǐ cídiǎn</span>
-    <span class="word-ru">электронный словарь</span>
-  </a>
-  <a class="word-row" href="cards/%E7%94%B5%E8%84%91.html">
-    <span class="word-hz">电脑</span>
-    <span class="word-py">diànnǎo</span>
-    <span class="word-ru">компьютер</span>
-  </a>
-  <a class="word-row" href="cards/%E7%94%BB%E5%AE%B6.html">
-    <span class="word-hz">画家</span>
-    <span class="word-py">huàjiā</span>
-    <span class="word-ru">художник, живописец</span>
-  </a>
-  <a class="word-row" href="cards/%E7%95%99%E5%AD%A6%E7%94%9F.html">
-    <span class="word-hz">留学生</span>
-    <span class="word-py">liúxuéshēng</span>
-    <span class="word-ru">иностранный студент</span>
-  </a>
-  <a class="word-row" href="cards/%E7%99%BD%E8%8F%9C.html">
-    <span class="word-hz">白菜</span>
-    <span class="word-py">báicài</span>
-    <span class="word-ru">пекинская капуста</span>
-  </a>
-  <a class="word-row" href="cards/%E7%99%BE.html">
-    <span class="word-hz">百</span>
-    <span class="word-py">bǎi</span>
-    <span class="word-ru">сто</span>
-  </a>
-  <a class="word-row" href="cards/%E7%9A%84.html">
-    <span class="word-hz">的</span>
-    <span class="word-py">de</span>
-    <span class="word-ru">притяжательная частица · определение</span>
-  </a>
-  <a class="word-row" href="cards/%E7%9C%8B.html">
-    <span class="word-hz">看</span>
-    <span class="word-py">kàn</span>
-    <span class="word-ru">смотреть, видеть, читать</span>
-  </a>
-  <a class="word-row" href="cards/%E7%9F%A5%E9%81%93.html">
-    <span class="word-hz">知道</span>
-    <span class="word-py">zhīdào</span>
-    <span class="word-ru">знать (факт)</span>
-  </a>
-  <a class="word-row" href="cards/%E7%9F%BF%E6%B3%89%E6%B0%B4.html">
-    <span class="word-hz">矿泉水</span>
-    <span class="word-py">kuàngquánshuǐ</span>
-    <span class="word-ru">минеральная вода</span>
-  </a>
-  <a class="word-row" href="cards/%E7%A4%BC%E7%89%A9.html">
-    <span class="word-hz">礼物</span>
-    <span class="word-py">lǐwù</span>
-    <span class="word-ru">подарок</span>
-  </a>
-  <a class="word-row" href="cards/%E7%A5%9D.html">
-    <span class="word-hz">祝</span>
-    <span class="word-py">zhù</span>
-    <span class="word-ru">желать, поздравлять</span>
-  </a>
-  <a class="word-row" href="cards/%E7%A7%8D.html">
-    <span class="word-hz">种</span>
-    <span class="word-py">zhǒng</span>
-    <span class="word-ru">вид, сорт, тип</span>
-  </a>
-  <a class="word-row" href="cards/%E7%AC%91%E8%AF%9D.html">
-    <span class="word-hz">笑话</span>
-    <span class="word-py">xiàohua</span>
-    <span class="word-ru">шутка, анекдот</span>
-  </a>
-  <a class="word-row" href="cards/%E7%AC%94.html">
-    <span class="word-hz">笔</span>
-    <span class="word-py">bǐ</span>
-    <span class="word-ru">ручка, карандаш, кисть</span>
-  </a>
-  <a class="word-row" href="cards/%E7%AE%97%E4%BA%86%E5%90%A7.html">
-    <span class="word-hz">算了吧</span>
-    <span class="word-py">suàn le ba</span>
-    <span class="word-ru">ладно, забудь · да ну · проехали</span>
-  </a>
-  <a class="word-row" href="cards/%E8%80%81%E5%B8%88.html">
-    <span class="word-hz">老师</span>
-    <span class="word-py">lǎoshī</span>
-    <span class="word-ru">учитель, преподаватель</span>
-  </a>
-  <a class="word-row" href="cards/%E8%8A%92%E6%9E%9C.html">
-    <span class="word-hz">芒果</span>
-    <span class="word-py">mángguǒ</span>
-    <span class="word-ru">манго</span>
-  </a>
-  <a class="word-row" href="cards/%E8%8B%8F%E6%99%93%E9%9C%8F.html">
-    <span class="word-hz">苏晓霏</span>
-    <span class="word-py">sū xiǎofēi</span>
-    <span class="word-ru">Суворова Саша (китайское имя)</span>
-  </a>
-  <a class="word-row" href="cards/%E8%8B%B9%E6%9E%9C.html">
-    <span class="word-hz">苹果</span>
-    <span class="word-py">píngguǒ</span>
-    <span class="word-ru">яблоко</span>
-  </a>
-  <a class="word-row" href="cards/%E8%90%A5%E4%B8%9A%E5%91%98.html">
-    <span class="word-hz">营业员</span>
-    <span class="word-py">yíngyèyuán</span>
-    <span class="word-ru">продавец, кассир</span>
-  </a>
-  <a class="word-row" href="cards/%E8%91%A1%E8%90%84.html">
-    <span class="word-hz">葡萄</span>
-    <span class="word-py">pútao</span>
-    <span class="word-ru">виноград</span>
-  </a>
-  <a class="word-row" href="cards/%E8%94%AC%E8%8F%9C.html">
-    <span class="word-hz">蔬菜</span>
-    <span class="word-py">shūcài</span>
-    <span class="word-ru">овощи</span>
-  </a>
-  <a class="word-row" href="cards/%E8%A1%A3%E6%9C%8D.html">
-    <span class="word-hz">衣服</span>
-    <span class="word-py">yīfu</span>
-    <span class="word-ru">одежда</span>
-  </a>
-  <a class="word-row" href="cards/%E8%A5%BF%E7%93%9C.html">
-    <span class="word-hz">西瓜</span>
-    <span class="word-py">xīguā</span>
-    <span class="word-ru">арбуз</span>
-  </a>
-  <a class="word-row" href="cards/%E8%A5%BF%E7%BA%A2%E6%9F%BF.html">
-    <span class="word-hz">西红柿</span>
-    <span class="word-py">xīhóngshì</span>
-    <span class="word-ru">помидор</span>
-  </a>
-  <a class="word-row" href="cards/%E8%A5%BF%E8%BE%B9.html">
-    <span class="word-hz">西边</span>
-    <span class="word-py">xībian</span>
-    <span class="word-ru">запад, западная сторона</span>
-  </a>
-  <a class="word-row" href="cards/%E8%A6%81.html">
-    <span class="word-hz">要</span>
-    <span class="word-py">yào</span>
-    <span class="word-ru">хотеть · надо · собираться</span>
-  </a>
-  <a class="word-row" href="cards/%E8%A7%81%E9%9D%A2.html">
-    <span class="word-hz">见面</span>
-    <span class="word-py">jiànmiàn</span>
-    <span class="word-ru">встречаться, видеться</span>
-  </a>
-  <a class="word-row" href="cards/%E8%AE%A4%E8%AF%86.html">
-    <span class="word-hz">认识</span>
-    <span class="word-py">rènshi</span>
-    <span class="word-ru">знать (человека) · познакомиться</span>
-  </a>
-  <a class="word-row" href="cards/%E8%AF%8D%E5%85%B8.html">
-    <span class="word-hz">词典</span>
-    <span class="word-py">cídiǎn</span>
-    <span class="word-ru">словарь</span>
-  </a>
-  <a class="word-row" href="cards/%E8%AF%B4.html">
-    <span class="word-hz">说</span>
-    <span class="word-py">shuō</span>
-    <span class="word-ru">говорить, сказать</span>
-  </a>
-  <a class="word-row" href="cards/%E8%AF%B7.html">
-    <span class="word-hz">请</span>
-    <span class="word-py">qǐng</span>
-    <span class="word-ru">пожалуйста · приглашать · просить</span>
-  </a>
-  <a class="word-row" href="cards/%E8%AF%B7%E9%97%AE.html">
-    <span class="word-hz">请问</span>
-    <span class="word-py">qǐngwèn</span>
-    <span class="word-ru">скажите пожалуйста · позвольте спросить</span>
-  </a>
-  <a class="word-row" href="cards/%E8%AF%BA%E6%98%8A%E6%98%9F.html">
-    <span class="word-hz">诺昊星</span>
-    <span class="word-py">nuò hàoxīng</span>
-    <span class="word-ru">Новосад Иван (китайское имя)</span>
-  </a>
-  <a class="word-row" href="cards/%E8%B0%81.html">
-    <span class="word-hz">谁</span>
-    <span class="word-py">shéi</span>
-    <span class="word-ru">кто, кого</span>
-  </a>
-  <a class="word-row" href="cards/%E8%B0%A2%E8%B0%A2.html">
-    <span class="word-hz">谢谢</span>
-    <span class="word-py">xièxie</span>
-    <span class="word-ru">спасибо</span>
-  </a>
-  <a class="word-row" href="cards/%E8%B4%B5%E5%A7%93.html">
-    <span class="word-hz">贵姓</span>
-    <span class="word-py">guìxìng</span>
-    <span class="word-ru">ваша фамилия (вежливо)</span>
-  </a>
-  <a class="word-row" href="cards/%E8%B5%B0.html">
-    <span class="word-hz">走</span>
-    <span class="word-py">zǒu</span>
-    <span class="word-ru">уходить, идти · пошли</span>
-  </a>
-  <a class="word-row" href="cards/%E8%B6%85%E5%B8%82.html">
-    <span class="word-hz">超市</span>
-    <span class="word-py">chāoshì</span>
-    <span class="word-ru">супермаркет</span>
-  </a>
-  <a class="word-row" href="cards/%E8%B6%9F.html">
-    <span class="word-hz">趟</span>
-    <span class="word-py">tàng</span>
-    <span class="word-ru">счётное слово для поездок</span>
-  </a>
-  <a class="word-row" href="cards/%E8%B7%9F.html">
-    <span class="word-hz">跟</span>
-    <span class="word-py">gēn</span>
-    <span class="word-ru">с (кем-то) · следовать</span>
-  </a>
-  <a class="word-row" href="cards/%E8%BE%A3%E6%A4%92.html">
-    <span class="word-hz">辣椒</span>
-    <span class="word-py">làjiāo</span>
-    <span class="word-ru">острый перец, чили</span>
-  </a>
-  <a class="word-row" href="cards/%E8%BE%B9.html">
-    <span class="word-hz">边</span>
-    <span class="word-py">biān</span>
-    <span class="word-ru">сторона, край (суффикс)</span>
-  </a>
-  <a class="word-row" href="cards/%E8%BF%87.html">
-    <span class="word-hz">过</span>
-    <span class="word-py">guò</span>
-    <span class="word-ru">частица опыта · проходить</span>
-  </a>
-  <a class="word-row" href="cards/%E8%BF%90%E5%8A%A8%E5%9C%BA.html">
-    <span class="word-hz">运动场</span>
-    <span class="word-py">yùndòngchǎng</span>
-    <span class="word-ru">стадион, спортплощадка</span>
-  </a>
-  <a class="word-row" href="cards/%E8%BF%91.html">
-    <span class="word-hz">近</span>
-    <span class="word-py">jìn</span>
-    <span class="word-ru">близко, недалеко</span>
-  </a>
-  <a class="word-row" href="cards/%E8%BF%98.html">
-    <span class="word-hz">还</span>
-    <span class="word-py">hái / huán</span>
-    <span class="word-ru">ещё, всё ещё · также · возвращать</span>
-  </a>
-  <a class="word-row" href="cards/%E8%BF%99.html">
-    <span class="word-hz">这</span>
-    <span class="word-py">zhè</span>
-    <span class="word-ru">этот, это</span>
-  </a>
-  <a class="word-row" href="cards/%E8%BF%99%E5%84%BF.html">
-    <span class="word-hz">这儿</span>
-    <span class="word-py">zhèr</span>
-    <span class="word-ru">здесь, тут</span>
-  </a>
-  <a class="word-row" href="cards/%E9%80%81.html">
-    <span class="word-hz">送</span>
-    <span class="word-py">sòng</span>
-    <span class="word-ru">дарить · провожать · доставлять</span>
-  </a>
-  <a class="word-row" href="cards/%E9%82%A3%E5%84%BF.html">
-    <span class="word-hz">那儿</span>
-    <span class="word-py">nàr</span>
-    <span class="word-ru">там</span>
-  </a>
-  <a class="word-row" href="cards/%E9%82%AE%E5%B1%80.html">
-    <span class="word-hz">邮局</span>
-    <span class="word-py">yóujú</span>
-    <span class="word-ru">почта, почтовое отделение</span>
-  </a>
-  <a class="word-row" href="cards/%E9%83%A8.html">
-    <span class="word-hz">部</span>
-    <span class="word-py">bù</span>
-    <span class="word-ru">счётное слово для фильмов, машин</span>
-  </a>
-  <a class="word-row" href="cards/%E9%83%BD.html">
-    <span class="word-hz">都</span>
-    <span class="word-py">dōu</span>
-    <span class="word-ru">все, оба, целиком</span>
-  </a>
-  <a class="word-row" href="cards/%E9%85%92.html">
-    <span class="word-hz">酒</span>
-    <span class="word-py">jiǔ</span>
-    <span class="word-ru">алкоголь, вино, водка</span>
-  </a>
-  <a class="word-row" href="cards/%E9%87%8C%E8%BE%B9.html">
-    <span class="word-hz">里边</span>
-    <span class="word-py">lǐbian</span>
-    <span class="word-ru">внутри</span>
-  </a>
-  <a class="word-row" href="cards/%E9%92%B1.html">
-    <span class="word-hz">钱</span>
-    <span class="word-py">qián</span>
-    <span class="word-ru">деньги</span>
-  </a>
-  <a class="word-row" href="cards/%E9%92%B1%E5%8C%85.html">
-    <span class="word-hz">钱包</span>
-    <span class="word-py">qiánbāo</span>
-    <span class="word-ru">кошелёк</span>
-  </a>
-  <a class="word-row" href="cards/%E9%93%B6%E8%A1%8C.html">
-    <span class="word-hz">银行</span>
-    <span class="word-py">yínháng</span>
-    <span class="word-ru">банк</span>
-  </a>
-  <a class="word-row" href="cards/%E9%97%AE.html">
-    <span class="word-hz">问</span>
-    <span class="word-py">wèn</span>
-    <span class="word-ru">спрашивать</span>
-  </a>
-  <a class="word-row" href="cards/%E9%97%AE%E9%A2%98.html">
-    <span class="word-hz">问题</span>
-    <span class="word-py">wèntí</span>
-    <span class="word-ru">вопрос · проблема</span>
-  </a>
-  <a class="word-row" href="cards/%E9%9B%B6.html">
-    <span class="word-hz">零</span>
-    <span class="word-py">líng</span>
-    <span class="word-ru">ноль</span>
-  </a>
-  <a class="word-row" href="cards/%E9%9C%80%E8%A6%81.html">
-    <span class="word-hz">需要</span>
-    <span class="word-py">xūyào</span>
-    <span class="word-ru">нуждаться, нужно</span>
-  </a>
-  <a class="word-row" href="cards/%E9%9D%A2%E5%8C%85.html">
-    <span class="word-hz">面包</span>
-    <span class="word-py">miànbāo</span>
-    <span class="word-ru">хлеб</span>
-  </a>
-  <a class="word-row" href="cards/%E9%9F%A9%E5%9B%BD.html">
-    <span class="word-hz">韩国</span>
-    <span class="word-py">hánguó</span>
-    <span class="word-ru">Южная Корея</span>
-  </a>
-  <a class="word-row" href="cards/%E9%9F%B3%E4%B9%90%E5%AE%B6.html">
-    <span class="word-hz">音乐家</span>
-    <span class="word-py">yīnyuèjiā</span>
-    <span class="word-ru">музыкант</span>
-  </a>
-  <a class="word-row" href="cards/%E9%A3%9F%E5%A0%82.html">
-    <span class="word-hz">食堂</span>
-    <span class="word-py">shítáng</span>
-    <span class="word-ru">столовая</span>
-  </a>
-  <a class="word-row" href="cards/%E9%A5%AD.html">
-    <span class="word-hz">饭</span>
-    <span class="word-py">fàn</span>
-    <span class="word-ru">еда, приём пищи · варёный рис</span>
-  </a>
-  <a class="word-row" href="cards/%E9%A5%AD%E9%A6%86.html">
-    <span class="word-hz">饭馆</span>
-    <span class="word-py">fànguǎn</span>
-    <span class="word-ru">ресторан, кафе</span>
-  </a>
-  <a class="word-row" href="cards/%E9%A6%99%E8%95%89.html">
-    <span class="word-hz">香蕉</span>
-    <span class="word-py">xiāngjiāo</span>
-    <span class="word-ru">банан</span>
-  </a>
-  <a class="word-row" href="cards/%E9%AB%98%E5%85%B4.html">
-    <span class="word-hz">高兴</span>
-    <span class="word-py">gāoxìng</span>
-    <span class="word-ru">рад, счастлив</span>
-  </a>
-  <a class="word-row" href="cards/%E9%B1%BC.html">
-    <span class="word-hz">鱼</span>
-    <span class="word-py">yú</span>
-    <span class="word-ru">рыба</span>
-  </a>
-  <a class="word-row" href="cards/%E9%BB%84%E7%93%9C.html">
-    <span class="word-hz">黄瓜</span>
-    <span class="word-py">huángguā</span>
-    <span class="word-ru">огурец</span>
-  </a>
-
-  <div class="footer">DawnSky 霏昊 · vocabulary · 224 words</div>
+  <div class="sticky-header">
+    <div class="title">DawnSky 霏昊</div>
+    <div class="search-row">
+      <input type="text" class="search-input" id="search" placeholder="pinyin, meaning, hanzi..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      <span class="word-count" id="count">224 words</span>
+    </div>
+  </div>
+  <div class="word-list" id="list"></div>
+  <div class="footer">DawnSky 霏昊 · vocabulary</div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script>
+(function() {
+  var WORDS = [{"hanzi": "啊", "pinyin": "a / ā / á / ǎ / à", "pinyin_search": "a / a / a / a / a", "meaning_ru": "восклицательная частица", "meaning_en": "exclamation particle", "url": "cards/%E5%95%8A.html"}, {"hanzi": "八", "pinyin": "bā", "pinyin_search": "ba", "meaning_ru": "восемь", "meaning_en": "eight", "url": "cards/%E5%85%AB.html"}, {"hanzi": "吧", "pinyin": "ba", "pinyin_search": "ba", "meaning_ru": "частица предложения · давай", "meaning_en": "suggestion / softening particle", "url": "cards/%E5%90%A7.html"}, {"hanzi": "爸爸", "pinyin": "bàba", "pinyin_search": "baba", "meaning_ru": "папа, отец", "meaning_en": "father, dad", "url": "cards/%E7%88%B8%E7%88%B8.html"}, {"hanzi": "百", "pinyin": "bǎi", "pinyin_search": "bai", "meaning_ru": "сто", "meaning_en": "hundred", "url": "cards/%E7%99%BE.html"}, {"hanzi": "白菜", "pinyin": "báicài", "pinyin_search": "baicai", "meaning_ru": "пекинская капуста", "meaning_en": "Chinese cabbage, napa cabbage", "url": "cards/%E7%99%BD%E8%8F%9C.html"}, {"hanzi": "班", "pinyin": "bān", "pinyin_search": "ban", "meaning_ru": "класс, группа, смена", "meaning_en": "class, group, shift", "url": "cards/%E7%8F%AD.html"}, {"hanzi": "报纸", "pinyin": "bàozhǐ", "pinyin_search": "baozhi", "meaning_ru": "газета", "meaning_en": "newspaper", "url": "cards/%E6%8A%A5%E7%BA%B8.html"}, {"hanzi": "北边", "pinyin": "běibian", "pinyin_search": "beibian", "meaning_ru": "север, северная сторона", "meaning_en": "north · the north side", "url": "cards/%E5%8C%97%E8%BE%B9.html"}, {"hanzi": "本", "pinyin": "běn", "pinyin_search": "ben", "meaning_ru": "счётное слово для книг и журналов", "meaning_en": "measure word for books", "url": "cards/%E6%9C%AC.html"}, {"hanzi": "笔", "pinyin": "bǐ", "pinyin_search": "bi", "meaning_ru": "ручка, карандаш, кисть", "meaning_en": "pen, pencil, writing brush", "url": "cards/%E7%AC%94.html"}, {"hanzi": "边", "pinyin": "biān", "pinyin_search": "bian", "meaning_ru": "сторона, край (суффикс)", "meaning_en": "side, edge (suffix)", "url": "cards/%E8%BE%B9.html"}, {"hanzi": "不", "pinyin": "bù", "pinyin_search": "bu", "meaning_ru": "не (настоящее / будущее)", "meaning_en": "not (present/future)", "url": "cards/%E4%B8%8D.html"}, {"hanzi": "部", "pinyin": "bù", "pinyin_search": "bu", "meaning_ru": "счётное слово для фильмов, машин", "meaning_en": "measure word for films, cars", "url": "cards/%E9%83%A8.html"}, {"hanzi": "不懂", "pinyin": "bù dǒng", "pinyin_search": "bu dong", "meaning_ru": "не понимать, не разбираться", "meaning_en": "don't understand", "url": "cards/%E4%B8%8D%E6%87%82.html"}, {"hanzi": "不客气", "pinyin": "bú kèqi", "pinyin_search": "bu keqi", "meaning_ru": "не за что, пожалуйста", "meaning_en": "you're welcome", "url": "cards/%E4%B8%8D%E5%AE%A2%E6%B0%94.html"}, {"hanzi": "超市", "pinyin": "chāoshì", "pinyin_search": "chaoshi", "meaning_ru": "супермаркет", "meaning_en": "supermarket", "url": "cards/%E8%B6%85%E5%B8%82.html"}, {"hanzi": "吃", "pinyin": "chī", "pinyin_search": "chi", "meaning_ru": "есть, кушать", "meaning_en": "to eat", "url": "cards/%E5%90%83.html"}, {"hanzi": "厨师", "pinyin": "chúshī", "pinyin_search": "chushi", "meaning_ru": "повар, шеф-повар", "meaning_en": "cook, chef", "url": "cards/%E5%8E%A8%E5%B8%88.html"}, {"hanzi": "词典", "pinyin": "cídiǎn", "pinyin_search": "cidian", "meaning_ru": "словарь", "meaning_en": "dictionary", "url": "cards/%E8%AF%8D%E5%85%B8.html"}, {"hanzi": "打卡", "pinyin": "dǎkǎ", "pinyin_search": "daka", "meaning_ru": "зачекиниться, отметиться", "meaning_en": "to check in, to clock in", "url": "cards/%E6%89%93%E5%8D%A1.html"}, {"hanzi": "大学生", "pinyin": "dàxuéshēng", "pinyin_search": "daxuesheng", "meaning_ru": "студент университета", "meaning_en": "university student", "url": "cards/%E5%A4%A7%E5%AD%A6%E7%94%9F.html"}, {"hanzi": "的", "pinyin": "de", "pinyin_search": "de", "meaning_ru": "притяжательная частица · определение", "meaning_en": "possessive / attributive particle", "url": "cards/%E7%9A%84.html"}, {"hanzi": "电脑", "pinyin": "diànnǎo", "pinyin_search": "diannao", "meaning_ru": "компьютер", "meaning_en": "computer", "url": "cards/%E7%94%B5%E8%84%91.html"}, {"hanzi": "电子", "pinyin": "diànzǐ", "pinyin_search": "dianzi", "meaning_ru": "электронный", "meaning_en": "electronic", "url": "cards/%E7%94%B5%E5%AD%90.html"}, {"hanzi": "电子词典", "pinyin": "diànzǐ cídiǎn", "pinyin_search": "dianzi cidian", "meaning_ru": "электронный словарь", "meaning_en": "electronic dictionary", "url": "cards/%E7%94%B5%E5%AD%90%E8%AF%8D%E5%85%B8.html"}, {"hanzi": "地方", "pinyin": "dìfang", "pinyin_search": "difang", "meaning_ru": "место, местность", "meaning_en": "place, location", "url": "cards/%E5%9C%B0%E6%96%B9.html"}, {"hanzi": "东边", "pinyin": "dōngbian", "pinyin_search": "dongbian", "meaning_ru": "восток, восточная сторона", "meaning_en": "east, the east side", "url": "cards/%E4%B8%9C%E8%BE%B9.html"}, {"hanzi": "都", "pinyin": "dōu", "pinyin_search": "dou", "meaning_ru": "все, оба, целиком", "meaning_en": "all, both, entirely", "url": "cards/%E9%83%BD.html"}, {"hanzi": "对", "pinyin": "duì", "pinyin_search": "dui", "meaning_ru": "правильно, верно · по отношению к", "meaning_en": "right, correct · toward", "url": "cards/%E5%AF%B9.html"}, {"hanzi": "对不起", "pinyin": "duìbuqǐ", "pinyin_search": "duibuqi", "meaning_ru": "извините, простите", "meaning_en": "sorry, excuse me", "url": "cards/%E5%AF%B9%E4%B8%8D%E8%B5%B7.html"}, {"hanzi": "多少", "pinyin": "duōshao", "pinyin_search": "duoshao", "meaning_ru": "сколько", "meaning_en": "how many, how much", "url": "cards/%E5%A4%9A%E5%B0%91.html"}, {"hanzi": "俄罗斯", "pinyin": "éluósī", "pinyin_search": "eluosi", "meaning_ru": "Россия", "meaning_en": "Russia", "url": "cards/%E4%BF%84%E7%BD%97%E6%96%AF.html"}, {"hanzi": "二", "pinyin": "èr", "pinyin_search": "er", "meaning_ru": "два", "meaning_en": "two", "url": "cards/%E4%BA%8C.html"}, {"hanzi": "饭", "pinyin": "fàn", "pinyin_search": "fan", "meaning_ru": "еда, приём пищи · варёный рис", "meaning_en": "meal · cooked rice", "url": "cards/%E9%A5%AD.html"}, {"hanzi": "饭馆", "pinyin": "fànguǎn", "pinyin_search": "fanguan", "meaning_ru": "ресторан, кафе", "meaning_en": "restaurant", "url": "cards/%E9%A5%AD%E9%A6%86.html"}, {"hanzi": "伏特加", "pinyin": "fútèjiā", "pinyin_search": "futejia", "meaning_ru": "водка", "meaning_en": "vodka", "url": "cards/%E4%BC%8F%E7%89%B9%E5%8A%A0.html"}, {"hanzi": "服务员", "pinyin": "fúwùyuán", "pinyin_search": "fuwuyuan", "meaning_ru": "официант, обслуживающий персонал", "meaning_en": "waiter, attendant", "url": "cards/%E6%9C%8D%E5%8A%A1%E5%91%98.html"}, {"hanzi": "高兴", "pinyin": "gāoxìng", "pinyin_search": "gaoxing", "meaning_ru": "рад, счастлив", "meaning_en": "glad, happy", "url": "cards/%E9%AB%98%E5%85%B4.html"}, {"hanzi": "哥哥", "pinyin": "gēge", "pinyin_search": "gege", "meaning_ru": "старший брат", "meaning_en": "elder brother", "url": "cards/%E5%93%A5%E5%93%A5.html"}, {"hanzi": "跟", "pinyin": "gēn", "pinyin_search": "gen", "meaning_ru": "с (кем-то) · следовать", "meaning_en": "with · to follow", "url": "cards/%E8%B7%9F.html"}, {"hanzi": "工程师", "pinyin": "gōngchéngshī", "pinyin_search": "gongchengshi", "meaning_ru": "инженер", "meaning_en": "engineer", "url": "cards/%E5%B7%A5%E7%A8%8B%E5%B8%88.html"}, {"hanzi": "贵姓", "pinyin": "guìxìng", "pinyin_search": "guixing", "meaning_ru": "ваша фамилия (вежливо)", "meaning_en": "your honourable surname", "url": "cards/%E8%B4%B5%E5%A7%93.html"}, {"hanzi": "过", "pinyin": "guò", "pinyin_search": "guo", "meaning_ru": "частица опыта · проходить", "meaning_en": "experience particle · to pass", "url": "cards/%E8%BF%87.html"}, {"hanzi": "还", "pinyin": "hái / huán", "pinyin_search": "hai / huan", "meaning_ru": "ещё, всё ещё · также · возвращать", "meaning_en": "still · also · to return", "url": "cards/%E8%BF%98.html"}, {"hanzi": "韩国", "pinyin": "hánguó", "pinyin_search": "hanguo", "meaning_ru": "Южная Корея", "meaning_en": "South Korea", "url": "cards/%E9%9F%A9%E5%9B%BD.html"}, {"hanzi": "汉语", "pinyin": "hànyǔ", "pinyin_search": "hanyu", "meaning_ru": "китайский язык", "meaning_en": "Chinese language", "url": "cards/%E6%B1%89%E8%AF%AD.html"}, {"hanzi": "号", "pinyin": "hào", "pinyin_search": "hao", "meaning_ru": "число (дата) · номер", "meaning_en": "date · number", "url": "cards/%E5%8F%B7.html"}, {"hanzi": "好的", "pinyin": "hǎo de", "pinyin_search": "hao de", "meaning_ru": "хорошо, ладно, окей", "meaning_en": "OK, alright, sure", "url": "cards/%E5%A5%BD%E7%9A%84.html"}, {"hanzi": "和", "pinyin": "hé", "pinyin_search": "he", "meaning_ru": "и, а также · с", "meaning_en": "and · with", "url": "cards/%E5%92%8C.html"}, {"hanzi": "很", "pinyin": "hěn", "pinyin_search": "hen", "meaning_ru": "очень", "meaning_en": "very", "url": "cards/%E5%BE%88.html"}, {"hanzi": "后边", "pinyin": "hòubian", "pinyin_search": "houbian", "meaning_ru": "сзади, позади", "meaning_en": "behind, at the back", "url": "cards/%E5%90%8E%E8%BE%B9.html"}, {"hanzi": "后天", "pinyin": "hòutiān", "pinyin_search": "houtian", "meaning_ru": "послезавтра", "meaning_en": "day after tomorrow", "url": "cards/%E5%90%8E%E5%A4%A9.html"}, {"hanzi": "湖", "pinyin": "hú", "pinyin_search": "hu", "meaning_ru": "озеро", "meaning_en": "lake", "url": "cards/%E6%B9%96.html"}, {"hanzi": "画家", "pinyin": "huàjiā", "pinyin_search": "huajia", "meaning_ru": "художник, живописец", "meaning_en": "painter, artist", "url": "cards/%E7%94%BB%E5%AE%B6.html"}, {"hanzi": "黄瓜", "pinyin": "huángguā", "pinyin_search": "huanggua", "meaning_ru": "огурец", "meaning_en": "cucumber", "url": "cards/%E9%BB%84%E7%93%9C.html"}, {"hanzi": "护士", "pinyin": "hùshi", "pinyin_search": "hushi", "meaning_ru": "медсестра, медбрат", "meaning_en": "nurse", "url": "cards/%E6%8A%A4%E5%A3%AB.html"}, {"hanzi": "家", "pinyin": "jiā", "pinyin_search": "jia", "meaning_ru": "семья, дом", "meaning_en": "family, home", "url": "cards/%E5%AE%B6.html"}, {"hanzi": "将来", "pinyin": "jiānglái", "pinyin_search": "jianglai", "meaning_ru": "в будущем", "meaning_en": "in the future", "url": "cards/%E5%B0%86%E6%9D%A5.html"}, {"hanzi": "见面", "pinyin": "jiànmiàn", "pinyin_search": "jianmian", "meaning_ru": "встречаться, видеться", "meaning_en": "to meet (in person)", "url": "cards/%E8%A7%81%E9%9D%A2.html"}, {"hanzi": "叫", "pinyin": "jiào", "pinyin_search": "jiao", "meaning_ru": "звать, называться", "meaning_en": "to call, to be called", "url": "cards/%E5%8F%AB.html"}, {"hanzi": "教学", "pinyin": "jiàoxué", "pinyin_search": "jiaoxue", "meaning_ru": "преподавание, обучение", "meaning_en": "teaching, education", "url": "cards/%E6%95%99%E5%AD%A6.html"}, {"hanzi": "教学楼", "pinyin": "jiàoxuélóu", "pinyin_search": "jiaoxuelou", "meaning_ru": "учебный корпус", "meaning_en": "classroom building", "url": "cards/%E6%95%99%E5%AD%A6%E6%A5%BC.html"}, {"hanzi": "斤", "pinyin": "jīn", "pinyin_search": "jin", "meaning_ru": "цзинь (500 г)", "meaning_en": "jin (0.5 kg)", "url": "cards/%E6%96%A4.html"}, {"hanzi": "近", "pinyin": "jìn", "pinyin_search": "jin", "meaning_ru": "близко, недалеко", "meaning_en": "near, close", "url": "cards/%E8%BF%91.html"}, {"hanzi": "今天", "pinyin": "jīntiān", "pinyin_search": "jintian", "meaning_ru": "сегодня", "meaning_en": "today", "url": "cards/%E4%BB%8A%E5%A4%A9.html"}, {"hanzi": "九", "pinyin": "jiǔ", "pinyin_search": "jiu", "meaning_ru": "девять", "meaning_en": "nine", "url": "cards/%E4%B9%9D.html"}, {"hanzi": "就", "pinyin": "jiù", "pinyin_search": "jiu", "meaning_ru": "именно, как раз · сразу · уже", "meaning_en": "exactly, precisely · then · already", "url": "cards/%E5%B0%B1.html"}, {"hanzi": "酒", "pinyin": "jiǔ", "pinyin_search": "jiu", "meaning_ru": "алкоголь, вино, водка", "meaning_en": "alcohol, wine, liquor", "url": "cards/%E9%85%92.html"}, {"hanzi": "橘子", "pinyin": "júzi", "pinyin_search": "juzi", "meaning_ru": "мандарин, апельсин", "meaning_en": "mandarin, tangerine", "url": "cards/%E6%A9%98%E5%AD%90.html"}, {"hanzi": "开玩笑", "pinyin": "kāi wánxiào", "pinyin_search": "kai wanxiao", "meaning_ru": "шутить, прикалываться", "meaning_en": "to joke, to kid", "url": "cards/%E5%BC%80%E7%8E%A9%E7%AC%91.html"}, {"hanzi": "看", "pinyin": "kàn", "pinyin_search": "kan", "meaning_ru": "смотреть, видеть, читать", "meaning_en": "to see, to look, to watch, to read", "url": "cards/%E7%9C%8B.html"}, {"hanzi": "客气", "pinyin": "kèqi", "pinyin_search": "keqi", "meaning_ru": "вежливый, церемонный", "meaning_en": "polite, courteous", "url": "cards/%E5%AE%A2%E6%B0%94.html"}, {"hanzi": "口", "pinyin": "kǒu", "pinyin_search": "kou", "meaning_ru": "рот · счётное слово (люди в семье)", "meaning_en": "mouth · measure word (family members)", "url": "cards/%E5%8F%A3.html"}, {"hanzi": "块", "pinyin": "kuài", "pinyin_search": "kuai", "meaning_ru": "юань (разг.) · кусок", "meaning_en": "yuan (colloquial) · piece", "url": "cards/%E5%9D%97.html"}, {"hanzi": "快乐", "pinyin": "kuàilè", "pinyin_search": "kuaile", "meaning_ru": "счастливый, радостный", "meaning_en": "happy, joyful", "url": "cards/%E5%BF%AB%E4%B9%90.html"}, {"hanzi": "矿泉水", "pinyin": "kuàngquánshuǐ", "pinyin_search": "kuangquanshui", "meaning_ru": "минеральная вода", "meaning_en": "mineral water", "url": "cards/%E7%9F%BF%E6%B3%89%E6%B0%B4.html"}, {"hanzi": "辣椒", "pinyin": "làjiāo", "pinyin_search": "lajiao", "meaning_ru": "острый перец, чили", "meaning_en": "chili pepper", "url": "cards/%E8%BE%A3%E6%A4%92.html"}, {"hanzi": "老师", "pinyin": "lǎoshī", "pinyin_search": "laoshi", "meaning_ru": "учитель, преподаватель", "meaning_en": "teacher", "url": "cards/%E8%80%81%E5%B8%88.html"}, {"hanzi": "了", "pinyin": "le", "pinyin_search": "le", "meaning_ru": "частица завершённости · изменения", "meaning_en": "completion / change-of-state particle", "url": "cards/%E4%BA%86.html"}, {"hanzi": "梨", "pinyin": "lí", "pinyin_search": "li", "meaning_ru": "груша", "meaning_en": "pear", "url": "cards/%E6%A2%A8.html"}, {"hanzi": "两", "pinyin": "liǎng", "pinyin_search": "liang", "meaning_ru": "два (перед счётным словом)", "meaning_en": "two (before measure words)", "url": "cards/%E4%B8%A4.html"}, {"hanzi": "里边", "pinyin": "lǐbian", "pinyin_search": "libian", "meaning_ru": "внутри", "meaning_en": "inside", "url": "cards/%E9%87%8C%E8%BE%B9.html"}, {"hanzi": "零", "pinyin": "líng", "pinyin_search": "ling", "meaning_ru": "ноль", "meaning_en": "zero", "url": "cards/%E9%9B%B6.html"}, {"hanzi": "六", "pinyin": "liù", "pinyin_search": "liu", "meaning_ru": "шесть", "meaning_en": "six", "url": "cards/%E5%85%AD.html"}, {"hanzi": "留学生", "pinyin": "liúxuéshēng", "pinyin_search": "liuxuesheng", "meaning_ru": "иностранный студент", "meaning_en": "international student", "url": "cards/%E7%95%99%E5%AD%A6%E7%94%9F.html"}, {"hanzi": "礼物", "pinyin": "lǐwù", "pinyin_search": "liwu", "meaning_ru": "подарок", "meaning_en": "gift, present", "url": "cards/%E7%A4%BC%E7%89%A9.html"}, {"hanzi": "楼", "pinyin": "lóu", "pinyin_search": "lou", "meaning_ru": "здание, этаж", "meaning_en": "building, floor", "url": "cards/%E6%A5%BC.html"}, {"hanzi": "律师", "pinyin": "lǜshī", "pinyin_search": "lushi", "meaning_ru": "адвокат, юрист", "meaning_en": "lawyer", "url": "cards/%E5%BE%8B%E5%B8%88.html"}, {"hanzi": "买", "pinyin": "mǎi", "pinyin_search": "mai", "meaning_ru": "покупать", "meaning_en": "to buy, to purchase", "url": "cards/%E4%B9%B0.html"}, {"hanzi": "妈妈", "pinyin": "māma", "pinyin_search": "mama", "meaning_ru": "мама, мать", "meaning_en": "mother, mom", "url": "cards/%E5%A6%88%E5%A6%88.html"}, {"hanzi": "忙", "pinyin": "máng", "pinyin_search": "mang", "meaning_ru": "занятой", "meaning_en": "busy", "url": "cards/%E5%BF%99.html"}, {"hanzi": "芒果", "pinyin": "mángguǒ", "pinyin_search": "mangguo", "meaning_ru": "манго", "meaning_en": "mango", "url": "cards/%E8%8A%92%E6%9E%9C.html"}, {"hanzi": "毛", "pinyin": "máo", "pinyin_search": "mao", "meaning_ru": "мао (0.1 юаня) · шерсть, волос", "meaning_en": "mao (1/10 yuan) · hair, fur", "url": "cards/%E6%AF%9B.html"}, {"hanzi": "猫头鹰", "pinyin": "māotóuyīng", "pinyin_search": "maotouying", "meaning_ru": "сова, филин", "meaning_en": "owl", "url": "cards/%E7%8C%AB%E5%A4%B4%E9%B9%B0.html"}, {"hanzi": "没", "pinyin": "méi", "pinyin_search": "mei", "meaning_ru": "не (прошлое) · нет (не иметь)", "meaning_en": "not (past); no, don't have", "url": "cards/%E6%B2%A1.html"}, {"hanzi": "没关系", "pinyin": "méi guānxi", "pinyin_search": "mei guanxi", "meaning_ru": "ничего страшного, не беда", "meaning_en": "it doesn't matter, no problem", "url": "cards/%E6%B2%A1%E5%85%B3%E7%B3%BB.html"}, {"hanzi": "没问题", "pinyin": "méi wèntí", "pinyin_search": "mei wenti", "meaning_ru": "без проблем, нет вопросов", "meaning_en": "no problem", "url": "cards/%E6%B2%A1%E9%97%AE%E9%A2%98.html"}, {"hanzi": "面包", "pinyin": "miànbāo", "pinyin_search": "mianbao", "meaning_ru": "хлеб", "meaning_en": "bread", "url": "cards/%E9%9D%A2%E5%8C%85.html"}, {"hanzi": "明白", "pinyin": "míngbai", "pinyin_search": "mingbai", "meaning_ru": "понимать, ясно", "meaning_en": "to understand, clear", "url": "cards/%E6%98%8E%E7%99%BD.html"}, {"hanzi": "明天", "pinyin": "míngtiān", "pinyin_search": "mingtian", "meaning_ru": "завтра", "meaning_en": "tomorrow", "url": "cards/%E6%98%8E%E5%A4%A9.html"}, {"hanzi": "名字", "pinyin": "míngzi", "pinyin_search": "mingzi", "meaning_ru": "имя", "meaning_en": "name", "url": "cards/%E5%90%8D%E5%AD%97.html"}, {"hanzi": "南边", "pinyin": "nánbian", "pinyin_search": "nanbian", "meaning_ru": "юг, южная сторона", "meaning_en": "south, the south side", "url": "cards/%E5%8D%97%E8%BE%B9.html"}, {"hanzi": "哪儿", "pinyin": "nǎr", "pinyin_search": "nar", "meaning_ru": "где, куда", "meaning_en": "where", "url": "cards/%E5%93%AA%E5%84%BF.html"}, {"hanzi": "那儿", "pinyin": "nàr", "pinyin_search": "nar", "meaning_ru": "там", "meaning_en": "there", "url": "cards/%E9%82%A3%E5%84%BF.html"}, {"hanzi": "年", "pinyin": "nián", "pinyin_search": "nian", "meaning_ru": "год", "meaning_en": "year", "url": "cards/%E5%B9%B4.html"}, {"hanzi": "你们", "pinyin": "nǐmen", "pinyin_search": "nimen", "meaning_ru": "вы (мн.ч.)", "meaning_en": "you (plural)", "url": "cards/%E4%BD%A0%E4%BB%AC.html"}, {"hanzi": "农民", "pinyin": "nóngmín", "pinyin_search": "nongmin", "meaning_ru": "крестьянин, фермер", "meaning_en": "farmer, peasant", "url": "cards/%E5%86%9C%E6%B0%91.html"}, {"hanzi": "诺昊星", "pinyin": "nuò hàoxīng", "pinyin_search": "nuo haoxing", "meaning_ru": "Новосад Иван (китайское имя)", "meaning_en": "Nuo Haoxing — Chinese name", "url": "cards/%E8%AF%BA%E6%98%8A%E6%98%9F.html"}, {"hanzi": "旁边", "pinyin": "pángbian", "pinyin_search": "pangbian", "meaning_ru": "рядом, сбоку", "meaning_en": "beside, next to", "url": "cards/%E6%97%81%E8%BE%B9.html"}, {"hanzi": "朋友", "pinyin": "péngyou", "pinyin_search": "pengyou", "meaning_ru": "друг", "meaning_en": "friend", "url": "cards/%E6%9C%8B%E5%8F%8B.html"}, {"hanzi": "瓶", "pinyin": "píng", "pinyin_search": "ping", "meaning_ru": "бутылка (счётное слово)", "meaning_en": "bottle (measure word)", "url": "cards/%E7%93%B6.html"}, {"hanzi": "苹果", "pinyin": "píngguǒ", "pinyin_search": "pingguo", "meaning_ru": "яблоко", "meaning_en": "apple", "url": "cards/%E8%8B%B9%E6%9E%9C.html"}, {"hanzi": "葡萄", "pinyin": "pútao", "pinyin_search": "putao", "meaning_ru": "виноград", "meaning_en": "grapes", "url": "cards/%E8%91%A1%E8%90%84.html"}, {"hanzi": "七", "pinyin": "qī", "pinyin_search": "qi", "meaning_ru": "семь", "meaning_en": "seven", "url": "cards/%E4%B8%83.html"}, {"hanzi": "千", "pinyin": "qiān", "pinyin_search": "qian", "meaning_ru": "тысяча", "meaning_en": "thousand", "url": "cards/%E5%8D%83.html"}, {"hanzi": "钱", "pinyin": "qián", "pinyin_search": "qian", "meaning_ru": "деньги", "meaning_en": "money", "url": "cards/%E9%92%B1.html"}, {"hanzi": "钱包", "pinyin": "qiánbāo", "pinyin_search": "qianbao", "meaning_ru": "кошелёк", "meaning_en": "wallet, purse", "url": "cards/%E9%92%B1%E5%8C%85.html"}, {"hanzi": "前边", "pinyin": "qiánbian", "pinyin_search": "qianbian", "meaning_ru": "впереди, спереди", "meaning_en": "in front, ahead", "url": "cards/%E5%89%8D%E8%BE%B9.html"}, {"hanzi": "前天", "pinyin": "qiántiān", "pinyin_search": "qiantian", "meaning_ru": "позавчера", "meaning_en": "day before yesterday", "url": "cards/%E5%89%8D%E5%A4%A9.html"}, {"hanzi": "请", "pinyin": "qǐng", "pinyin_search": "qing", "meaning_ru": "пожалуйста · приглашать · просить", "meaning_en": "please · to invite · to request", "url": "cards/%E8%AF%B7.html"}, {"hanzi": "情人", "pinyin": "qíngrén", "pinyin_search": "qingren", "meaning_ru": "возлюбленный, любимый человек", "meaning_en": "lover, Valentine", "url": "cards/%E6%83%85%E4%BA%BA.html"}, {"hanzi": "请问", "pinyin": "qǐngwèn", "pinyin_search": "qingwen", "meaning_ru": "скажите пожалуйста · позвольте спросить", "meaning_en": "excuse me, may I ask", "url": "cards/%E8%AF%B7%E9%97%AE.html"}, {"hanzi": "去", "pinyin": "qù", "pinyin_search": "qu", "meaning_ru": "идти, ехать (куда-то)", "meaning_en": "to go (to a place)", "url": "cards/%E5%8E%BB.html"}, {"hanzi": "认识", "pinyin": "rènshi", "pinyin_search": "renshi", "meaning_ru": "знать (человека) · познакомиться", "meaning_en": "to know (a person) · to meet", "url": "cards/%E8%AE%A4%E8%AF%86.html"}, {"hanzi": "日", "pinyin": "rì", "pinyin_search": "ri", "meaning_ru": "день, число · солнце", "meaning_en": "day · date · sun", "url": "cards/%E6%97%A5.html"}, {"hanzi": "三", "pinyin": "sān", "pinyin_search": "san", "meaning_ru": "три", "meaning_en": "three", "url": "cards/%E4%B8%89.html"}, {"hanzi": "上边", "pinyin": "shàngbian", "pinyin_search": "shangbian", "meaning_ru": "наверху, сверху", "meaning_en": "above, on top", "url": "cards/%E4%B8%8A%E8%BE%B9.html"}, {"hanzi": "商店", "pinyin": "shāngdiàn", "pinyin_search": "shangdian", "meaning_ru": "магазин", "meaning_en": "shop, store", "url": "cards/%E5%95%86%E5%BA%97.html"}, {"hanzi": "上课", "pinyin": "shàngkè", "pinyin_search": "shangke", "meaning_ru": "идти на урок, начинать занятие", "meaning_en": "attend class, have class", "url": "cards/%E4%B8%8A%E8%AF%BE.html"}, {"hanzi": "谁", "pinyin": "shéi", "pinyin_search": "shei", "meaning_ru": "кто, кого", "meaning_en": "who, whom", "url": "cards/%E8%B0%81.html"}, {"hanzi": "生日", "pinyin": "shēngrì", "pinyin_search": "shengri", "meaning_ru": "день рождения", "meaning_en": "birthday", "url": "cards/%E7%94%9F%E6%97%A5.html"}, {"hanzi": "什么", "pinyin": "shénme", "pinyin_search": "shenme", "meaning_ru": "что, какой", "meaning_en": "what", "url": "cards/%E4%BB%80%E4%B9%88.html"}, {"hanzi": "十", "pinyin": "shí", "pinyin_search": "shi", "meaning_ru": "десять", "meaning_en": "ten", "url": "cards/%E5%8D%81.html"}, {"hanzi": "时间", "pinyin": "shíjiān", "pinyin_search": "shijian", "meaning_ru": "время", "meaning_en": "time", "url": "cards/%E6%97%B6%E9%97%B4.html"}, {"hanzi": "食堂", "pinyin": "shítáng", "pinyin_search": "shitang", "meaning_ru": "столовая", "meaning_en": "canteen, cafeteria", "url": "cards/%E9%A3%9F%E5%A0%82.html"}, {"hanzi": "收", "pinyin": "shōu", "pinyin_search": "shou", "meaning_ru": "получать, собирать", "meaning_en": "to receive, to collect", "url": "cards/%E6%94%B6.html"}, {"hanzi": "手机", "pinyin": "shǒujī", "pinyin_search": "shouji", "meaning_ru": "мобильный телефон", "meaning_en": "mobile phone, cellphone", "url": "cards/%E6%89%8B%E6%9C%BA.html"}, {"hanzi": "书", "pinyin": "shū", "pinyin_search": "shu", "meaning_ru": "книга", "meaning_en": "book", "url": "cards/%E4%B9%A6.html"}, {"hanzi": "书包", "pinyin": "shūbāo", "pinyin_search": "shubao", "meaning_ru": "рюкзак, портфель", "meaning_en": "schoolbag, backpack", "url": "cards/%E4%B9%A6%E5%8C%85.html"}, {"hanzi": "蔬菜", "pinyin": "shūcài", "pinyin_search": "shucai", "meaning_ru": "овощи", "meaning_en": "vegetables", "url": "cards/%E8%94%AC%E8%8F%9C.html"}, {"hanzi": "书店", "pinyin": "shūdiàn", "pinyin_search": "shudian", "meaning_ru": "книжный магазин", "meaning_en": "bookstore", "url": "cards/%E4%B9%A6%E5%BA%97.html"}, {"hanzi": "水果", "pinyin": "shuǐguǒ", "pinyin_search": "shuiguo", "meaning_ru": "фрукты", "meaning_en": "fruit", "url": "cards/%E6%B0%B4%E6%9E%9C.html"}, {"hanzi": "说", "pinyin": "shuō", "pinyin_search": "shuo", "meaning_ru": "говорить, сказать", "meaning_en": "to speak, to say", "url": "cards/%E8%AF%B4.html"}, {"hanzi": "四", "pinyin": "sì", "pinyin_search": "si", "meaning_ru": "четыре", "meaning_en": "four", "url": "cards/%E5%9B%9B.html"}, {"hanzi": "送", "pinyin": "sòng", "pinyin_search": "song", "meaning_ru": "дарить · провожать · доставлять", "meaning_en": "to give (a gift) · to see off · to deliver", "url": "cards/%E9%80%81.html"}, {"hanzi": "苏晓霏", "pinyin": "sū xiǎofēi", "pinyin_search": "su xiaofei", "meaning_ru": "Суворова Саша (китайское имя)", "meaning_en": "Su Xiaofei — Chinese name", "url": "cards/%E8%8B%8F%E6%99%93%E9%9C%8F.html"}, {"hanzi": "算了吧", "pinyin": "suàn le ba", "pinyin_search": "suan le ba", "meaning_ru": "ладно, забудь · да ну · проехали", "meaning_en": "forget it · never mind · let it go", "url": "cards/%E7%AE%97%E4%BA%86%E5%90%A7.html"}, {"hanzi": "宿舍", "pinyin": "sùshè", "pinyin_search": "sushe", "meaning_ru": "общежитие", "meaning_en": "dormitory", "url": "cards/%E5%AE%BF%E8%88%8D.html"}, {"hanzi": "台", "pinyin": "tái", "pinyin_search": "tai", "meaning_ru": "счётное слово для техники", "meaning_en": "measure word for machines", "url": "cards/%E5%8F%B0.html"}, {"hanzi": "太", "pinyin": "tài", "pinyin_search": "tai", "meaning_ru": "слишком · очень (в восклицании)", "meaning_en": "too, overly · so (exclamatory)", "url": "cards/%E5%A4%AA.html"}, {"hanzi": "泰国", "pinyin": "tàiguó", "pinyin_search": "taiguo", "meaning_ru": "Таиланд", "meaning_en": "Thailand", "url": "cards/%E6%B3%B0%E5%9B%BD.html"}, {"hanzi": "他们", "pinyin": "tāmen", "pinyin_search": "tamen", "meaning_ru": "они", "meaning_en": "they", "url": "cards/%E4%BB%96%E4%BB%AC.html"}, {"hanzi": "趟", "pinyin": "tàng", "pinyin_search": "tang", "meaning_ru": "счётное слово для поездок", "meaning_en": "measure word for trips", "url": "cards/%E8%B6%9F.html"}, {"hanzi": "甜", "pinyin": "tián", "pinyin_search": "tian", "meaning_ru": "сладкий", "meaning_en": "sweet", "url": "cards/%E7%94%9C.html"}, {"hanzi": "甜椒", "pinyin": "tiánjiāo", "pinyin_search": "tianjiao", "meaning_ru": "сладкий перец, болгарский перец", "meaning_en": "sweet pepper, bell pepper", "url": "cards/%E7%94%9C%E6%A4%92.html"}, {"hanzi": "体育馆", "pinyin": "tǐyùguǎn", "pinyin_search": "tiyuguan", "meaning_ru": "спортзал, спорткомплекс", "meaning_en": "gymnasium, sports arena", "url": "cards/%E4%BD%93%E8%82%B2%E9%A6%86.html"}, {"hanzi": "同学", "pinyin": "tóngxué", "pinyin_search": "tongxue", "meaning_ru": "одноклассник, однокурсник", "meaning_en": "classmate", "url": "cards/%E5%90%8C%E5%AD%A6.html"}, {"hanzi": "图书馆", "pinyin": "túshūguǎn", "pinyin_search": "tushuguan", "meaning_ru": "библиотека", "meaning_en": "library", "url": "cards/%E5%9B%BE%E4%B9%A6%E9%A6%86.html"}, {"hanzi": "万", "pinyin": "wàn", "pinyin_search": "wan", "meaning_ru": "десять тысяч", "meaning_en": "ten thousand", "url": "cards/%E4%B8%87.html"}, {"hanzi": "晚上", "pinyin": "wǎnshang", "pinyin_search": "wanshang", "meaning_ru": "вечер, вечером", "meaning_en": "evening, at night", "url": "cards/%E6%99%9A%E4%B8%8A.html"}, {"hanzi": "卫生间", "pinyin": "wèishēngjiān", "pinyin_search": "weishengjian", "meaning_ru": "туалет, уборная", "meaning_en": "toilet, washroom", "url": "cards/%E5%8D%AB%E7%94%9F%E9%97%B4.html"}, {"hanzi": "问", "pinyin": "wèn", "pinyin_search": "wen", "meaning_ru": "спрашивать", "meaning_en": "to ask", "url": "cards/%E9%97%AE.html"}, {"hanzi": "问题", "pinyin": "wèntí", "pinyin_search": "wenti", "meaning_ru": "вопрос · проблема", "meaning_en": "question · problem", "url": "cards/%E9%97%AE%E9%A2%98.html"}, {"hanzi": "我操", "pinyin": "wǒ cào", "pinyin_search": "wo cao", "meaning_ru": "блять (ругательство)", "meaning_en": "fuck (expletive)", "url": "cards/%E6%88%91%E6%93%8D.html"}, {"hanzi": "五", "pinyin": "wǔ", "pinyin_search": "wu", "meaning_ru": "пять", "meaning_en": "five", "url": "cards/%E4%BA%94.html"}, {"hanzi": "下课", "pinyin": "xià kè", "pinyin_search": "xia ke", "meaning_ru": "конец урока, заканчивать занятие", "meaning_en": "class is over · to finish class", "url": "cards/%E4%B8%8B%E8%AF%BE.html"}, {"hanzi": "想", "pinyin": "xiǎng", "pinyin_search": "xiang", "meaning_ru": "хотеть (мягко) · думать · скучать", "meaning_en": "would like to · think · miss", "url": "cards/%E6%83%B3.html"}, {"hanzi": "香蕉", "pinyin": "xiāngjiāo", "pinyin_search": "xiangjiao", "meaning_ru": "банан", "meaning_en": "banana", "url": "cards/%E9%A6%99%E8%95%89.html"}, {"hanzi": "现在", "pinyin": "xiànzài", "pinyin_search": "xianzai", "meaning_ru": "сейчас, в настоящее время", "meaning_en": "now, at present", "url": "cards/%E7%8E%B0%E5%9C%A8.html"}, {"hanzi": "小孩儿", "pinyin": "xiǎoháir", "pinyin_search": "xiaohair", "meaning_ru": "ребёнок, малыш", "meaning_en": "child, kid", "url": "cards/%E5%B0%8F%E5%AD%A9%E5%84%BF.html"}, {"hanzi": "笑话", "pinyin": "xiàohua", "pinyin_search": "xiaohua", "meaning_ru": "шутка, анекдот", "meaning_en": "joke, funny story", "url": "cards/%E7%AC%91%E8%AF%9D.html"}, {"hanzi": "小三", "pinyin": "xiǎosān", "pinyin_search": "xiaosan", "meaning_ru": "любовница / любовник (сленг)", "meaning_en": "mistress / the other man (slang)", "url": "cards/%E5%B0%8F%E4%B8%89.html"}, {"hanzi": "西边", "pinyin": "xībian", "pinyin_search": "xibian", "meaning_ru": "запад, западная сторона", "meaning_en": "west, the west side", "url": "cards/%E8%A5%BF%E8%BE%B9.html"}, {"hanzi": "谢谢", "pinyin": "xièxie", "pinyin_search": "xiexie", "meaning_ru": "спасибо", "meaning_en": "thank you", "url": "cards/%E8%B0%A2%E8%B0%A2.html"}, {"hanzi": "西瓜", "pinyin": "xīguā", "pinyin_search": "xigua", "meaning_ru": "арбуз", "meaning_en": "watermelon", "url": "cards/%E8%A5%BF%E7%93%9C.html"}, {"hanzi": "西红柿", "pinyin": "xīhóngshì", "pinyin_search": "xihongshi", "meaning_ru": "помидор", "meaning_en": "tomato", "url": "cards/%E8%A5%BF%E7%BA%A2%E6%9F%BF.html"}, {"hanzi": "新", "pinyin": "xīn", "pinyin_search": "xin", "meaning_ru": "новый", "meaning_en": "new", "url": "cards/%E6%96%B0.html"}, {"hanzi": "姓", "pinyin": "xìng", "pinyin_search": "xing", "meaning_ru": "фамилия · носить фамилию", "meaning_en": "surname · to be surnamed", "url": "cards/%E5%A7%93.html"}, {"hanzi": "星期", "pinyin": "xīngqī", "pinyin_search": "xingqi", "meaning_ru": "неделя", "meaning_en": "week", "url": "cards/%E6%98%9F%E6%9C%9F.html"}, {"hanzi": "星期二", "pinyin": "xīngqī'èr", "pinyin_search": "xingqi'er", "meaning_ru": "вторник", "meaning_en": "Tuesday", "url": "cards/%E6%98%9F%E6%9C%9F%E4%BA%8C.html"}, {"hanzi": "星期六", "pinyin": "xīngqīliù", "pinyin_search": "xingqiliu", "meaning_ru": "суббота", "meaning_en": "Saturday", "url": "cards/%E6%98%9F%E6%9C%9F%E5%85%AD.html"}, {"hanzi": "星期三", "pinyin": "xīngqīsān", "pinyin_search": "xingqisan", "meaning_ru": "среда", "meaning_en": "Wednesday", "url": "cards/%E6%98%9F%E6%9C%9F%E4%B8%89.html"}, {"hanzi": "星期四", "pinyin": "xīngqīsì", "pinyin_search": "xingqisi", "meaning_ru": "четверг", "meaning_en": "Thursday", "url": "cards/%E6%98%9F%E6%9C%9F%E5%9B%9B.html"}, {"hanzi": "星期天", "pinyin": "xīngqītiān", "pinyin_search": "xingqitian", "meaning_ru": "воскресенье", "meaning_en": "Sunday", "url": "cards/%E6%98%9F%E6%9C%9F%E5%A4%A9.html"}, {"hanzi": "星期五", "pinyin": "xīngqīwǔ", "pinyin_search": "xingqiwu", "meaning_ru": "пятница", "meaning_en": "Friday", "url": "cards/%E6%98%9F%E6%9C%9F%E4%BA%94.html"}, {"hanzi": "星期一", "pinyin": "xīngqīyī", "pinyin_search": "xingqiyi", "meaning_ru": "понедельник", "meaning_en": "Monday", "url": "cards/%E6%98%9F%E6%9C%9F%E4%B8%80.html"}, {"hanzi": "学习", "pinyin": "xuéxí", "pinyin_search": "xuexi", "meaning_ru": "учиться, изучать", "meaning_en": "to learn, to study", "url": "cards/%E5%AD%A6%E4%B9%A0.html"}, {"hanzi": "需要", "pinyin": "xūyào", "pinyin_search": "xuyao", "meaning_ru": "нуждаться, нужно", "meaning_en": "to need, to require", "url": "cards/%E9%9C%80%E8%A6%81.html"}, {"hanzi": "要", "pinyin": "yào", "pinyin_search": "yao", "meaning_ru": "хотеть · надо · собираться", "meaning_en": "to want · must · going to", "url": "cards/%E8%A6%81.html"}, {"hanzi": "也", "pinyin": "yě", "pinyin_search": "ye", "meaning_ru": "тоже, также", "meaning_en": "also, too", "url": "cards/%E4%B9%9F.html"}, {"hanzi": "一", "pinyin": "yī", "pinyin_search": "yi", "meaning_ru": "один", "meaning_en": "one", "url": "cards/%E4%B8%80.html"}, {"hanzi": "衣服", "pinyin": "yīfu", "pinyin_search": "yifu", "meaning_ru": "одежда", "meaning_en": "clothes", "url": "cards/%E8%A1%A3%E6%9C%8D.html"}, {"hanzi": "一共", "pinyin": "yígòng", "pinyin_search": "yigong", "meaning_ru": "всего, итого", "meaning_en": "altogether, in total", "url": "cards/%E4%B8%80%E5%85%B1.html"}, {"hanzi": "以后", "pinyin": "yǐhòu", "pinyin_search": "yihou", "meaning_ru": "после, потом, в будущем", "meaning_en": "after · later · in the future", "url": "cards/%E4%BB%A5%E5%90%8E.html"}, {"hanzi": "营业员", "pinyin": "yíngyèyuán", "pinyin_search": "yingyeyuan", "meaning_ru": "продавец, кассир", "meaning_en": "shop assistant, salesperson", "url": "cards/%E8%90%A5%E4%B8%9A%E5%91%98.html"}, {"hanzi": "银行", "pinyin": "yínháng", "pinyin_search": "yinhang", "meaning_ru": "банк", "meaning_en": "bank", "url": "cards/%E9%93%B6%E8%A1%8C.html"}, {"hanzi": "音乐家", "pinyin": "yīnyuèjiā", "pinyin_search": "yinyuejia", "meaning_ru": "музыкант", "meaning_en": "musician", "url": "cards/%E9%9F%B3%E4%B9%90%E5%AE%B6.html"}, {"hanzi": "一起", "pinyin": "yìqǐ", "pinyin_search": "yiqi", "meaning_ru": "вместе", "meaning_en": "together", "url": "cards/%E4%B8%80%E8%B5%B7.html"}, {"hanzi": "医生", "pinyin": "yīshēng", "pinyin_search": "yisheng", "meaning_ru": "врач, доктор", "meaning_en": "doctor", "url": "cards/%E5%8C%BB%E7%94%9F.html"}, {"hanzi": "有", "pinyin": "yǒu", "pinyin_search": "you", "meaning_ru": "иметь · быть, существовать", "meaning_en": "to have · there is/are", "url": "cards/%E6%9C%89.html"}, {"hanzi": "邮局", "pinyin": "yóujú", "pinyin_search": "youju", "meaning_ru": "почта, почтовое отделение", "meaning_en": "post office", "url": "cards/%E9%82%AE%E5%B1%80.html"}, {"hanzi": "鱼", "pinyin": "yú", "pinyin_search": "yu", "meaning_ru": "рыба", "meaning_en": "fish", "url": "cards/%E9%B1%BC.html"}, {"hanzi": "月", "pinyin": "yuè", "pinyin_search": "yue", "meaning_ru": "месяц, луна", "meaning_en": "month · moon", "url": "cards/%E6%9C%88.html"}, {"hanzi": "运动场", "pinyin": "yùndòngchǎng", "pinyin_search": "yundongchang", "meaning_ru": "стадион, спортплощадка", "meaning_en": "sports ground, stadium", "url": "cards/%E8%BF%90%E5%8A%A8%E5%9C%BA.html"}, {"hanzi": "再", "pinyin": "zài", "pinyin_search": "zai", "meaning_ru": "ещё раз, снова, потом", "meaning_en": "again, once more, then", "url": "cards/%E5%86%8D.html"}, {"hanzi": "在", "pinyin": "zài", "pinyin_search": "zai", "meaning_ru": "находиться · в (предлог места)", "meaning_en": "to be at · at, in (location)", "url": "cards/%E5%9C%A8.html"}, {"hanzi": "杂志", "pinyin": "zázhì", "pinyin_search": "zazhi", "meaning_ru": "журнал", "meaning_en": "magazine", "url": "cards/%E6%9D%82%E5%BF%97.html"}, {"hanzi": "怎么样", "pinyin": "zěnmeyàng", "pinyin_search": "zenmeyang", "meaning_ru": "как, ну как? · как насчёт?", "meaning_en": "how is it? · how about?", "url": "cards/%E6%80%8E%E4%B9%88%E6%A0%B7.html"}, {"hanzi": "找", "pinyin": "zhǎo", "pinyin_search": "zhao", "meaning_ru": "искать · давать сдачу", "meaning_en": "to look for · to give change", "url": "cards/%E6%89%BE.html"}, {"hanzi": "这", "pinyin": "zhè", "pinyin_search": "zhe", "meaning_ru": "этот, это", "meaning_en": "this", "url": "cards/%E8%BF%99.html"}, {"hanzi": "这儿", "pinyin": "zhèr", "pinyin_search": "zher", "meaning_ru": "здесь, тут", "meaning_en": "here", "url": "cards/%E8%BF%99%E5%84%BF.html"}, {"hanzi": "支", "pinyin": "zhī", "pinyin_search": "zhi", "meaning_ru": "счётное слово для ручек, карандашей", "meaning_en": "measure word for pens, sticks", "url": "cards/%E6%94%AF.html"}, {"hanzi": "知道", "pinyin": "zhīdào", "pinyin_search": "zhidao", "meaning_ru": "знать (факт)", "meaning_en": "to know (a fact)", "url": "cards/%E7%9F%A5%E9%81%93.html"}, {"hanzi": "种", "pinyin": "zhǒng", "pinyin_search": "zhong", "meaning_ru": "вид, сорт, тип", "meaning_en": "kind, sort, type", "url": "cards/%E7%A7%8D.html"}, {"hanzi": "中国", "pinyin": "zhōngguó", "pinyin_search": "zhongguo", "meaning_ru": "Китай", "meaning_en": "China", "url": "cards/%E4%B8%AD%E5%9B%BD.html"}, {"hanzi": "中文", "pinyin": "Zhōngwén", "pinyin_search": "zhongwen", "meaning_ru": "китайский язык (письменный)", "meaning_en": "Chinese (written language)", "url": "cards/%E4%B8%AD%E6%96%87.html"}, {"hanzi": "周末", "pinyin": "zhōumò", "pinyin_search": "zhoumo", "meaning_ru": "выходные, уикенд", "meaning_en": "weekend", "url": "cards/%E5%91%A8%E6%9C%AB.html"}, {"hanzi": "祝", "pinyin": "zhù", "pinyin_search": "zhu", "meaning_ru": "желать, поздравлять", "meaning_en": "to wish · to congratulate", "url": "cards/%E7%A5%9D.html"}, {"hanzi": "准备", "pinyin": "zhǔnbèi", "pinyin_search": "zhunbei", "meaning_ru": "готовить(ся), собираться", "meaning_en": "to prepare · to plan to", "url": "cards/%E5%87%86%E5%A4%87.html"}, {"hanzi": "桌子", "pinyin": "zhuōzi", "pinyin_search": "zhuozi", "meaning_ru": "стол", "meaning_en": "table, desk", "url": "cards/%E6%A1%8C%E5%AD%90.html"}, {"hanzi": "走", "pinyin": "zǒu", "pinyin_search": "zou", "meaning_ru": "уходить, идти · пошли", "meaning_en": "to leave, to walk · let's go", "url": "cards/%E8%B5%B0.html"}, {"hanzi": "最近", "pinyin": "zuìjìn", "pinyin_search": "zuijin", "meaning_ru": "недавно, в последнее время", "meaning_en": "recently, lately", "url": "cards/%E6%9C%80%E8%BF%91.html"}, {"hanzi": "昨天", "pinyin": "zuótiān", "pinyin_search": "zuotian", "meaning_ru": "вчера", "meaning_en": "yesterday", "url": "cards/%E6%98%A8%E5%A4%A9.html"}];
+
+  var listEl = document.getElementById('list');
+  var countEl = document.getElementById('count');
+  var searchEl = document.getElementById('search');
+
+  function renderRows(items) {
+    var html = '';
+    for (var i = 0; i < items.length; i++) {
+      var w = items[i];
+      html += '<a class="word-row" href="' + w.url + '">'
+            + '<span class="word-hz">' + w.hanzi + '</span>'
+            + '<span class="word-py">' + w.pinyin + '</span>'
+            + '<span class="word-ru">' + w.meaning_ru + '</span>'
+            + '</a>';
+    }
+    listEl.innerHTML = html;
+    countEl.textContent = items.length + ' word' + (items.length !== 1 ? 's' : '');
+  }
+
+  var fuse = new Fuse(WORDS, {
+    keys: [
+      { name: 'pinyin_search', weight: 0.4 },
+      { name: 'pinyin', weight: 0.2 },
+      { name: 'hanzi', weight: 0.2 },
+      { name: 'meaning_ru', weight: 0.15 },
+      { name: 'meaning_en', weight: 0.05 }
+    ],
+    threshold: 0.4,
+    distance: 100,
+    includeScore: true,
+    minMatchCharLength: 1
+  });
+
+  function stripTones(s) {
+    return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+            .replace(/ü/g, 'v').replace(/Ü/g, 'V').toLowerCase();
+  }
+
+  function doSearch() {
+    var q = searchEl.value.trim();
+    if (!q) {
+      renderRows(WORDS);
+      return;
+    }
+    var results = fuse.search(stripTones(q));
+    var items = [];
+    for (var i = 0; i < results.length; i++) {
+      items.push(results[i].item);
+    }
+    renderRows(items);
+  }
+
+  var timer = null;
+  searchEl.addEventListener('input', function() {
+    clearTimeout(timer);
+    timer = setTimeout(doSearch, 150);
+  });
+
+  renderRows(WORDS);
+})();
+</script>
 </body>
 </html>
