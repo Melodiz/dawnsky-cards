@@ -65,7 +65,22 @@ def load_json(path):
 def render_card(env, data):
     """Render a single card JSON through the Jinja2 template."""
     template = env.get_template(TEMPLATE_FILE)
-    return template.render(**data)
+
+    hanzi = data["hanzi"]
+    audio_f = (ROOT / "audio" / f"{hanzi}_f.mp3").exists()
+    audio_m = (ROOT / "audio" / f"{hanzi}_m.mp3").exists()
+
+    ctx = {
+        **data,
+        "has_audio_f": audio_f,
+        "has_audio_m": audio_m,
+    }
+    if audio_f:
+        ctx["audio_url_f"] = f"../audio/{hanzi}_f.mp3"
+    if audio_m:
+        ctx["audio_url_m"] = f"../audio/{hanzi}_m.mp3"
+
+    return template.render(**ctx)
 
 
 def build_manifest():

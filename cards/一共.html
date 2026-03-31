@@ -159,6 +159,47 @@
     letter-spacing: 0.04em;
   }
 
+  /* === AUDIO === */
+  .audio-row {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.6rem;
+  }
+
+  .audio-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    height: 32px;
+    min-height: 44px;
+    padding: 0 0.75rem;
+    background: transparent;
+    border: 1px solid var(--divider);
+    border-radius: 16px;
+    color: var(--muted);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .audio-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .audio-btn.playing {
+    background: rgba(210,160,140,0.1);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .audio-btn .ico-wave { display: none; }
+  .audio-btn.playing .ico-speaker { display: none; }
+  .audio-btn.playing .ico-wave { display: inline-block; }
+
   @media (max-width: 480px) {
     .hanzi-main { font-size: 4.5rem; }
     .hero { flex-direction: column; align-items: flex-start; gap: 0.3rem; }
@@ -178,6 +219,24 @@
         <div class="hero-en">altogether, in total</div>
       </div>
     </div>
+    
+    <div class="audio-row">
+      
+      <button class="audio-btn" data-src="../audio/一共_f.mp3" aria-label="Женский голос">
+        <svg class="ico-speaker" width="14" height="14" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M2.5 5.5h2L7 3v8L4.5 8.5h-2a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 1 .5-.5z"/><path d="M9 5.2a2.8 2.8 0 0 1 0 3.6" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>
+        <svg class="ico-wave" width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg"><line x1="2" y1="5" x2="2" y2="9"/><line x1="5" y1="3" x2="5" y2="11"/><line x1="8" y1="5" x2="8" y2="9"/><line x1="11" y1="4" x2="11" y2="10"/></svg>
+        <span>女</span>
+      </button>
+      
+      
+      <button class="audio-btn" data-src="../audio/一共_m.mp3" aria-label="Мужской голос">
+        <svg class="ico-speaker" width="14" height="14" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M2.5 5.5h2L7 3v8L4.5 8.5h-2a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 1 .5-.5z"/><path d="M9 5.2a2.8 2.8 0 0 1 0 3.6" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>
+        <svg class="ico-wave" width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg"><line x1="2" y1="5" x2="2" y2="9"/><line x1="5" y1="3" x2="5" y2="11"/><line x1="8" y1="5" x2="8" y2="9"/><line x1="11" y1="4" x2="11" y2="10"/></svg>
+        <span>男</span>
+      </button>
+      
+    </div>
+    
     <div class="hero-bar"></div>
 
     
@@ -258,5 +317,30 @@
     
 
 </div>
+<script>
+(function() {
+  var audio = null;
+  var activeBtn = null;
+
+  function stop() {
+    if (audio) { audio.pause(); audio = null; }
+    if (activeBtn) { activeBtn.classList.remove('playing'); activeBtn = null; }
+  }
+
+  document.querySelectorAll('.audio-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var src = btn.dataset.src;
+      if (activeBtn === btn) { stop(); return; }
+      stop();
+      audio = new Audio(src);
+      activeBtn = btn;
+      btn.classList.add('playing');
+      audio.addEventListener('ended', stop);
+      audio.addEventListener('error', stop);
+      audio.play();
+    });
+  });
+})();
+</script>
 </body>
 </html>
