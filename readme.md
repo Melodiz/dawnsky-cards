@@ -15,6 +15,16 @@ cards_json/新.json  →  scripts/build.py  →  cards/新.html
 
 Hosted on GitHub Pages · built with Jinja2 · search via Fuse.js
 
+## Docs
+
+| File | Read when |
+|------|-----------|
+| [docs/architecture.md](docs/architecture.md) | First time in repo, or modifying build pipeline / template |
+| [docs/build.md](docs/build.md) | Running builds, deploying, adding make targets |
+| [docs/schema-guide.md](docs/schema-guide.md) | Creating or editing card JSONs |
+| [CLAUDE.md](CLAUDE.md) | Generating new cards via AI (style guide + prompt) |
+| [examples/](examples/) | 4 gold-standard reference JSONs |
+
 ## Browse
 
 [melodiz.github.io/dawnsky-cards](https://melodiz.github.io/dawnsky-cards)
