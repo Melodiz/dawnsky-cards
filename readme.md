@@ -4,16 +4,19 @@ Vocabulary info cards for a private Chinese learning Telegram bot.
 This is a personal project for two users — not maintained as a public tool.
 
 Each word gets a standalone HTML page with character breakdown,
-radicals, etymology, usage situations, and example sentences.
+radicals, etymology, usage situations, example sentences, and TTS audio (male + female voices).
 
 ## How it works
 ```
-cards_json/新.json  →  scripts/build.py  →  cards/新.html
-                                          →  index.html (searchable catalog)
-                                          →  manifest.json
+cards_json/新.json  →  scripts/build.py        →  cards/新.html
+                                                →  index.html (searchable catalog)
+                                                →  manifest.json
+
+cards_json/新.json  →  scripts/generate_audio.py  →  audio/新_f.mp3 (female)
+                                                   →  audio/新_m.mp3 (male)
 ```
 
-Hosted on GitHub Pages · built with Jinja2 · search via Fuse.js
+Hosted on GitHub Pages · built with Jinja2 · search via Fuse.js · TTS via edge-tts
 
 ## Docs
 
