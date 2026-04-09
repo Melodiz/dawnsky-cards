@@ -1,9 +1,13 @@
 # DawnSky Cards — build & deploy
 
-.PHONY: build audio update upload clean
+.PHONY: build build-audio-manifest audio update upload clean
+
+# Regenerate audio_manifest.json from audio/*_f.mp3
+build-audio-manifest:
+	python scripts/build_audio_manifest.py
 
 # Build all cards from JSON → HTML, rebuild manifest + index
-build:
+build: build-audio-manifest
 	python scripts/build.py
 
 # Build specific cards
