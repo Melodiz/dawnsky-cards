@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#141024">
+<meta name="theme-color" content="#03050e">
 <title>帅气 · shuàiqì</title>
 <meta property="og:title" content="帅气 · shuàiqì">
 <meta property="og:description" content="красавчик, стильный · handsome, cool, dashing">
@@ -12,13 +12,14 @@
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
 
   :root {
-    --bg: #141024;
-    --card: rgba(210,160,140,0.05);
-    --ink: #ece2d8;
-    --soft: #c4b8ac;
-    --accent: #d2a08c;
-    --muted: #7a7280;
-    --divider: rgba(210,160,140,0.1);
+    --bg: #03050e;
+    --card: rgba(140,168,200,0.045);
+    --ink: #e4dcc8;
+    --soft: #c4b5a3;
+    --accent: #d89888;       /* rose — content emphasis (the lantern) */
+    --cool: #8ca8c8;         /* periwinkle — structure (the clouds)   */
+    --muted: #6e7588;
+    --divider: rgba(140,168,200,0.11);
     --serif: 'Cormorant Garamond', serif;
   }
 
@@ -26,7 +27,7 @@
 
   body {
     background: var(--bg);
-    background-image: radial-gradient(ellipse at 30% 8%, rgba(210,160,140,0.08) 0%, transparent 50%);
+    background-image: radial-gradient(ellipse at 75% 12%, rgba(216,152,136,0.1) 0%, transparent 48%), radial-gradient(ellipse at 15% 85%, rgba(140,168,200,0.07) 0%, transparent 55%);
     color: var(--ink);
     font-family: 'DM Sans', sans-serif;
     font-weight: 400;
@@ -54,7 +55,7 @@
     letter-spacing: 0.06em;
     line-height: 1;
     color: var(--ink);
-    text-shadow: 0 0 50px rgba(210,160,140,0.08);
+    text-shadow: 0 0 50px rgba(216,152,136,0.14);
   }
 
   .hero-side { padding-bottom: 0.5rem; }
@@ -74,7 +75,7 @@
   .hero-bar {
     width: 100%;
     height: 1px;
-    background: linear-gradient(90deg, var(--accent), transparent);
+    background: linear-gradient(90deg, var(--accent) 0%, var(--cool) 70%, transparent 100%);
     opacity: 0.25;
     margin-top: 0.3rem;
   }
@@ -87,9 +88,9 @@
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.2em;
-    color: var(--accent);
+    color: var(--cool);
     margin-bottom: 0.75rem;
-    opacity: 0.85;
+    opacity: 0.9;
   }
 
   /* === CHARACTER CARDS === */
@@ -135,7 +136,7 @@
 
   /* === SITUATIONS === */
   .situation { padding: 0.8rem 1rem; margin: 0.5rem 0; background: var(--card); border-radius: 10px; }
-  .situation-title { font-size: 0.65rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); margin-bottom: 0.25rem; }
+  .situation-title { font-size: 0.65rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--cool); opacity: 0.9; margin-bottom: 0.25rem; }
   .situation .sit-setup { font-size: 0.82rem; color: var(--muted); margin-bottom: 0.2rem; }
   .situation .sit-line { font-size: 0.86rem; font-weight: 500; color: var(--ink); }
 
@@ -191,7 +192,7 @@
   }
 
   .audio-btn.playing {
-    background: rgba(210,160,140,0.1);
+    background: rgba(216,152,136,0.1);
     border-color: var(--accent);
     color: var(--accent);
   }
