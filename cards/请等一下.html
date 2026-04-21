@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#03050e">
+<title>请等一下 · qǐng děng yíxià</title>
+<meta property="og:title" content="请等一下 · qǐng děng yíxià">
+<meta property="og:description" content="подождите, пожалуйста · please wait a moment">
+<meta property="og:type" content="article">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+  :root {
+    --bg: #03050e;
+    --card: rgba(140,168,200,0.045);
+    --ink: #e4dcc8;
+    --soft: #c4b5a3;
+    --accent: #d89888;       /* rose — content emphasis (the lantern) */
+    --cool: #8ca8c8;         /* periwinkle — structure (the clouds)   */
+    --muted: #6e7588;
+    --divider: rgba(140,168,200,0.11);
+    --serif: 'Cormorant Garamond', serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    background-image: radial-gradient(ellipse at 75% 12%, rgba(216,152,136,0.1) 0%, transparent 48%), radial-gradient(ellipse at 15% 85%, rgba(140,168,200,0.07) 0%, transparent 55%);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.75;
+    min-height: 100vh;
+    padding: 1.25rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container { max-width: 560px; margin: 0 auto; }
+
+  /* === HERO === */
+  .hero {
+    padding: 2.5rem 0 1.5rem;
+    display: flex;
+    align-items: flex-end;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .hanzi-main {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 6rem;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+    line-height: 1;
+    color: var(--ink);
+    text-shadow: 0 0 50px rgba(216,152,136,0.14);
+  }
+
+  .hero-side { padding-bottom: 0.5rem; }
+
+  .pinyin-main {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.35rem;
+    font-weight: 300;
+    font-style: italic;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+  }
+
+  .hero-ru { font-size: 0.84rem; font-weight: 500; color: var(--soft); margin-top: 0.3rem; }
+  .hero-en { font-size: 0.78rem; color: var(--muted); font-weight: 300; margin-top: 0.1rem; }
+
+  .hero-bar {
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(90deg, var(--accent) 0%, var(--cool) 70%, transparent 100%);
+    opacity: 0.25;
+    margin-top: 0.3rem;
+  }
+
+  /* === SECTIONS === */
+  .section { margin-top: 2.2rem; }
+
+  .section-label {
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--cool);
+    margin-bottom: 0.75rem;
+    opacity: 0.9;
+  }
+
+  /* === CHARACTER CARDS === */
+  .char-grid { display: flex; gap: 0.5rem; }
+
+  .char-card {
+    flex: 1;
+    text-align: center;
+    padding: 1rem 0.4rem;
+    background: var(--card);
+    border-radius: 10px;
+    transition: transform 0.2s ease;
+  }
+
+  .char-card:hover { transform: translateY(-1px); }
+  .char-card .hz { font-family: 'Noto Serif SC', serif; font-size: 2.2rem; font-weight: 700; color: var(--ink); }
+  .char-card .py { font-family: var(--serif); font-style: italic; font-size: 0.9rem; color: var(--muted); margin-top: 0.15rem; }
+  .char-card .gloss { font-size: 0.76rem; font-weight: 500; margin-top: 0.4rem; color: var(--soft); }
+  .char-card .role { font-size: 0.62rem; color: var(--muted); margin-top: 0.1rem; font-style: italic; }
+
+  /* === RADICALS === */
+  .radical-row { display: flex; align-items: baseline; gap: 0.75rem; padding: 0.55rem 0; }
+  .radical-row + .radical-row { border-top: 1px solid var(--divider); }
+
+  .radical-hz {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.35rem;
+    font-weight: 700;
+    width: 2rem;
+    text-align: center;
+    color: var(--accent);
+    flex-shrink: 0;
+  }
+
+  .radical-info { flex: 1; }
+  .radical-info .name { font-weight: 600; font-size: 0.8rem; color: var(--soft); }
+  .radical-info .note { font-size: 0.74rem; color: var(--muted); margin-top: 0.1rem; line-height: 1.6; }
+
+  /* === PROSE === */
+  .prose { font-size: 0.86rem; line-height: 1.85; color: var(--soft); }
+  .prose p { margin-bottom: 0.65rem; }
+  .prose strong { color: var(--ink); font-weight: 600; }
+
+  /* === SITUATIONS === */
+  .situation { padding: 0.8rem 1rem; margin: 0.5rem 0; background: var(--card); border-radius: 10px; }
+  .situation-title { font-size: 0.65rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--cool); opacity: 0.9; margin-bottom: 0.25rem; }
+  .situation .sit-setup { font-size: 0.82rem; color: var(--muted); margin-bottom: 0.2rem; }
+  .situation .sit-line { font-size: 0.86rem; font-weight: 500; color: var(--ink); }
+
+  /* === EXAMPLES === */
+  .example { padding: 0.75rem 0; }
+  .example + .example { border-top: 1px solid var(--divider); }
+  .ex-cn { font-family: 'Noto Serif SC', serif; font-size: 1.08rem; font-weight: 700; line-height: 1.55; color: var(--ink); }
+  .hl { color: var(--accent); }
+  .ex-py { font-family: var(--serif); font-style: italic; color: var(--muted); font-size: 0.85rem; margin-top: 0.1rem; }
+  .ex-ru { font-size: 0.82rem; margin-top: 0.2rem; color: var(--soft); }
+  .ex-note { font-size: 0.7rem; color: var(--muted); margin-top: 0.1rem; font-style: italic; }
+
+  /* === FOOTER === */
+  .footer-note {
+    text-align: center;
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    opacity: 0.7;
+    letter-spacing: 0.04em;
+  }
+
+  /* === AUDIO === */
+  .audio-row {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.6rem;
+  }
+
+  .audio-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    height: 32px;
+    min-height: 44px;
+    padding: 0 0.75rem;
+    background: transparent;
+    border: 1px solid var(--divider);
+    border-radius: 16px;
+    color: var(--muted);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .audio-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .audio-btn.playing {
+    background: rgba(216,152,136,0.1);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .audio-btn .ico-wave { display: none; }
+  .audio-btn.playing .ico-speaker { display: none; }
+  .audio-btn.playing .ico-wave { display: inline-block; }
+
+  @media (max-width: 480px) {
+    .hanzi-main { font-size: 4.5rem; }
+    .hero { flex-direction: column; align-items: flex-start; gap: 0.3rem; }
+    .hero-side { padding-bottom: 0; }
+    .char-grid { flex-direction: column; gap: 0.4rem; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+    <div class="hero">
+      <div class="hanzi-main">请等一下</div>
+      <div class="hero-side">
+        <div class="pinyin-main">qǐng děng yíxià</div>
+        <div class="hero-ru">подождите, пожалуйста</div>
+        <div class="hero-en">please wait a moment</div>
+      </div>
+    </div>
+    
+    <div class="hero-bar"></div>
+
+    
+    <div class="section">
+      <div class="section-label">Разбор по иероглифам</div>
+      <div class="char-grid">
+        
+        <div class="char-card">
+          <div class="hz">请</div>
+          <div class="py">qǐng</div>
+          <div class="gloss">пожалуйста, прошу</div>
+          <div class="role">вежливость</div>
+        </div>
+        
+        <div class="char-card">
+          <div class="hz">等</div>
+          <div class="py">děng</div>
+          <div class="gloss">ждать</div>
+          <div class="role">действие</div>
+        </div>
+        
+        <div class="char-card">
+          <div class="hz">一</div>
+          <div class="py">yī</div>
+          <div class="gloss">один</div>
+          <div class="role">малость</div>
+        </div>
+        
+        <div class="char-card">
+          <div class="hz">下</div>
+          <div class="py">xià</div>
+          <div class="gloss">вниз, раз</div>
+          <div class="role">краткость</div>
+        </div>
+        
+      </div>
+    </div>
+    
+
+    
+
+    
+    <div class="section">
+      <div class="section-label">Как устроено</div>
+      <div class="prose"><p>请 (пожалуйста) + 等 (подождать) + 一下 (чуть-чуть) = <strong>«пожалуйста, подождите секундочку»</strong>. Максимально вежливая просьба. 一下 смягчает любой глагол — делает просьбу лёгкой, необременительной.</p><p>Без 请 — <strong>等一下</strong> — тоже вежливо, но нейтрально. Между друзьями достаточно. С 请 — для преподавателей, незнакомых, клиентов.</p><p>Конструкция <strong>V + 一下</strong> (глагол + чуть-чуть) — одна из самых полезных в китайском: 看一下 (глянь), 说一下 (скажи), 想一下 (подумай). Ты уже знаешь 一下 из своего словаря — здесь она работает так же.</p></div>
+    </div>
+    
+
+    
+    <div class="section">
+      <div class="section-label">Когда так говорят</div>
+      
+      <div class="situation">
+        <div class="situation-title">✦ Магазин</div>
+        <p class="sit-setup">Просишь подождать, пока ищешь.</p>
+        <p class="sit-line">请等一下，我找一下。 — «Подождите, я поищу.»</p>
+      </div>
+      
+      <div class="situation">
+        <div class="situation-title">☁ Телефон</div>
+        <p class="sit-setup">Просишь не вешать трубку.</p>
+        <p class="sit-line">请等一下，他马上来。 — «Подождите, он сейчас придёт.»</p>
+      </div>
+      
+    </div>
+    
+
+    
+    <div class="section">
+      <div class="section-label">Примеры</div>
+      
+      <div class="example">
+        <div class="ex-cn"><span class="hl">请等一下</span>。</div>
+        <div class="ex-py">qǐng děng yíxià.</div>
+        <div class="ex-ru">Подождите, пожалуйста.</div>
+        
+      </div>
+      
+      <div class="example">
+        <div class="ex-cn"><span class="hl">请等一下</span>，我去看看。</div>
+        <div class="ex-py">qǐng děng yíxià, wǒ qù kànkan.</div>
+        <div class="ex-ru">Подождите, я посмотрю.</div>
+        
+      </div>
+      
+      <div class="example">
+        <div class="ex-cn"><span class="hl">请等一下</span>，他很快来。</div>
+        <div class="ex-py">qǐng děng yíxià, tā hěn kuài lái.</div>
+        <div class="ex-ru">Подождите, он скоро придёт.</div>
+        <div class="ex-note">很快 (hěn kuài) — очень скоро</div>
+      </div>
+      
+      <div class="example">
+        <div class="ex-cn">老师，<span class="hl">请等一下</span>！</div>
+        <div class="ex-py">lǎoshī, qǐng děng yíxià!</div>
+        <div class="ex-ru">Учитель, подождите!</div>
+        
+      </div>
+      
+    </div>
+    
+
+    
+    <div class="footer-note">请等一下 — 一下 смягчает просьбу · V + 一下 = «сделай чуть-чуть» · HSK 2</div>
+    
+
+</div>
+<script>
+(function() {
+  var audio = null;
+  var activeBtn = null;
+
+  function stop() {
+    if (audio) { audio.pause(); audio = null; }
+    if (activeBtn) { activeBtn.classList.remove('playing'); activeBtn = null; }
+  }
+
+  document.querySelectorAll('.audio-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var src = btn.dataset.src;
+      if (activeBtn === btn) { stop(); return; }
+      stop();
+      audio = new Audio(src);
+      activeBtn = btn;
+      btn.classList.add('playing');
+      audio.addEventListener('ended', stop);
+      audio.addEventListener('error', stop);
+      audio.play();
+    });
+  });
+})();
+</script>
+</body>
+</html>
