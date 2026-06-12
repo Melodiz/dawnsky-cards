@@ -1,2 +1,4 @@
 **.DS_Store
 **.md
+tmp_visual/
+.claude/launch.json

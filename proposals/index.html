@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#03050e">
+<title>DawnSky · index proposals</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+  :root {
+    --bg: #03050e;
+    --card: rgba(140,168,200,0.045);
+    --ink: #e4dcc8;
+    --soft: #c4b5a3;
+    --accent: #d89888;
+    --cool: #8ca8c8;
+    --muted: #6e7588;
+    --divider: rgba(140,168,200,0.11);
+    --serif: 'Cormorant Garamond', serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    background-image:
+      radial-gradient(ellipse at 75% 8%, rgba(216,152,136,0.10) 0%, transparent 45%),
+      radial-gradient(ellipse at 12% 90%, rgba(140,168,200,0.07) 0%, transparent 55%);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.7;
+    min-height: 100vh;
+    padding: 3rem 1.25rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container { max-width: 600px; margin: 0 auto; }
+
+  h1 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.9rem;
+    font-weight: 900;
+  }
+  h1 span { color: var(--accent); }
+
+  .sub {
+    font-family: var(--serif);
+    font-style: italic;
+    color: var(--muted);
+    margin-bottom: 2rem;
+  }
+
+  .group-label {
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.22em;
+    color: var(--cool);
+    opacity: 0.9;
+    margin: 1.8rem 0 0.7rem;
+  }
+
+  .option {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: var(--card);
+    border: 1px solid transparent;
+    border-radius: 14px;
+    padding: 1.1rem 1.3rem;
+    margin-bottom: 0.8rem;
+    transition: border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+  }
+  .option:hover {
+    border-color: rgba(216,152,136,0.35);
+    box-shadow: 0 6px 30px rgba(216,152,136,0.08);
+    transform: translateY(-2px);
+  }
+
+  .option .name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--ink);
+  }
+  .option .name em {
+    font-family: var(--serif);
+    font-size: 1.05rem;
+    color: var(--cool);
+    margin-right: 0.4rem;
+  }
+  .option .desc {
+    font-size: 0.78rem;
+    color: var(--soft);
+    margin-top: 0.2rem;
+  }
+  .option .traits {
+    font-size: 0.68rem;
+    color: var(--muted);
+    margin-top: 0.3rem;
+    font-style: italic;
+  }
+
+  .archive .option { opacity: 0.55; padding: 0.7rem 1.3rem; }
+  .archive .option:hover { opacity: 0.9; }
+  .archive .desc { display: none; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>index proposals <span>霏昊</span></h1>
+  <p class="sub">альтернативные варианты главной · общее — «слово дня» из интересных карточек + статистика по буквам</p>
+
+  <div class="group-label">✦ задеплоено</div>
+
+  <a class="option" href="../index.html">
+    <div class="name"><em>1</em> Rows — читальный зал</div>
+    <div class="desc">Слово дня с тизером-крючком и кнопкой «ещё ✦», двухколоночный компактный список, алфавитная рейка справа, счётчик слов у каждой буквы. Генерируется через scripts/build.py + templates/index.html.</div>
+    <div class="traits">выбран и задеплоен → открыть главную</div>
+  </a>
+
+  <div class="group-label">альтернативы</div>
+
+  <a class="option" href="final_2_tiles.html">
+    <div class="name"><em>2</em> Tiles — плитки</div>
+    <div class="desc">Тот же герой «слово дня», но тело — сетка плиток по буквам с каскадным появлением. Счётчик у каждой буквы.</div>
+    <div class="traits">видно больше слов на экран · живее за счёт анимации</div>
+  </a>
+
+  <a class="option" href="final_3_tabs.html">
+    <div class="name"><em>3</em> Tabs — словарь с вкладками</div>
+    <div class="desc">Слово дня + буквы-вкладки со счётчиками-степенями (как в атласе): никакого длинного скролла, одна буква на страницу. Звёздное небо.</div>
+    <div class="traits">нет скролла · статистика прямо во вкладках · звёзды ✦</div>
+  </a>
+
+  <div class="archive group-label">архив — первый раунд</div>
+  <div class="archive">
+    <a class="option" href="v1_tiles.html"><div class="name"><em>v1</em> Tiles</div></a>
+    <a class="option" href="v2_lanterns.html"><div class="name"><em>v2</em> Lantern wall</div></a>
+    <a class="option" href="v3_reading_room.html"><div class="name"><em>v3</em> Reading room</div></a>
+    <a class="option" href="v4_atlas.html"><div class="name"><em>v4</em> Atlas</div></a>
+  </div>
+</div>
+</body>
+</html>

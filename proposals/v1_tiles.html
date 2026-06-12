@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#03050e">
+<title>DawnSky 霏昊 · vocabulary — v1 tiles</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+  :root {
+    --bg: #03050e;
+    --card: rgba(140,168,200,0.045);
+    --ink: #e4dcc8;
+    --soft: #c4b5a3;
+    --accent: #d89888;
+    --cool: #8ca8c8;
+    --muted: #6e7588;
+    --divider: rgba(140,168,200,0.11);
+    --serif: 'Cormorant Garamond', serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    background-image:
+      radial-gradient(ellipse at 75% 8%, rgba(216,152,136,0.10) 0%, transparent 45%),
+      radial-gradient(ellipse at 12% 90%, rgba(140,168,200,0.07) 0%, transparent 55%);
+    background-attachment: fixed;
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+    padding: 0 1.25rem 2rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container { max-width: 880px; margin: 0 auto; }
+
+  .sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(3,5,14,0.82);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    padding: 1.4rem 0 0.9rem;
+    border-bottom: 1px solid var(--divider);
+  }
+
+  .header-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.7rem;
+    font-weight: 900;
+    text-shadow: 0 0 40px rgba(216,152,136,0.18);
+  }
+  .title span { color: var(--accent); }
+
+  .word-count {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.92rem;
+    color: var(--muted);
+  }
+
+  .search-wrap { position: relative; margin-top: 0.8rem; }
+
+  .search-input {
+    width: 100%;
+    background: var(--card);
+    border: 1px solid var(--divider);
+    border-radius: 12px;
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    padding: 0.65rem 4.5rem 0.65rem 2.5rem;
+    outline: none;
+    transition: border-color 0.25s, box-shadow 0.25s;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-input:focus {
+    border-color: rgba(216,152,136,0.45);
+    box-shadow: 0 0 24px rgba(216,152,136,0.07);
+  }
+
+  .search-ico {
+    position: absolute;
+    left: 0.85rem; top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    pointer-events: none;
+  }
+
+  .search-hint {
+    position: absolute;
+    right: 0.8rem; top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.62rem;
+    color: var(--muted);
+    border: 1px solid var(--divider);
+    border-radius: 5px;
+    padding: 0.05rem 0.4rem;
+    pointer-events: none;
+    opacity: 0.8;
+  }
+
+  /* === LETTER SECTIONS === */
+  .letter-section { margin-top: 2.2rem; }
+
+  .letter-head {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    margin-bottom: 0.9rem;
+  }
+
+  .letter-head .letter {
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 300;
+    font-size: 2.1rem;
+    line-height: 1;
+    color: var(--cool);
+    opacity: 0.75;
+  }
+
+  .letter-head .line {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, var(--cool) 0%, transparent 80%);
+    opacity: 0.18;
+  }
+
+  .letter-head .n {
+    font-size: 0.65rem;
+    color: var(--muted);
+    opacity: 0.7;
+  }
+
+  /* === TILES === */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(118px, 1fr));
+    gap: 0.55rem;
+  }
+
+  .tile {
+    display: block;
+    min-width: 0; /* let grid tracks shrink below nowrap text */
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    background: var(--card);
+    border: 1px solid transparent;
+    border-radius: 12px;
+    padding: 0.85rem 0.45rem 0.7rem;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.5s ease, transform 0.5s ease,
+                border-color 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;
+  }
+  .tile.in { opacity: 1; transform: none; }
+
+  .tile:hover {
+    border-color: rgba(216,152,136,0.35);
+    background: rgba(216,152,136,0.05);
+    box-shadow: 0 6px 28px rgba(216,152,136,0.10);
+    transform: translateY(-2px);
+    transition-delay: 0ms !important;
+  }
+
+  .tile .hz {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.55rem;
+    font-weight: 700;
+    line-height: 1.25;
+    color: var(--ink);
+    transition: color 0.25s;
+  }
+  .tile:hover .hz { color: var(--accent); }
+
+  .tile .py {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.82rem;
+    color: var(--muted);
+    margin-top: 0.1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .tile .ru {
+    font-size: 0.66rem;
+    color: var(--soft);
+    margin-top: 0.25rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    opacity: 0.85;
+  }
+
+  .empty {
+    text-align: center;
+    font-family: var(--serif);
+    font-style: italic;
+    color: var(--muted);
+    padding: 4rem 0;
+    font-size: 1.05rem;
+  }
+
+  .footer {
+    text-align: center;
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 3rem;
+    opacity: 0.7;
+  }
+
+  @media (max-width: 480px) {
+    .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.45rem; }
+    .tile .hz { font-size: 1.35rem; }
+    .search-hint { display: none; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tile { opacity: 1; transform: none; transition: border-color 0.25s, box-shadow 0.25s, background 0.25s; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="sticky-header">
+    <div class="header-row">
+      <div class="title">DawnSky <span>霏昊</span></div>
+      <div class="word-count" id="count"></div>
+    </div>
+    <div class="search-wrap">
+      <svg class="search-ico" width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><circle cx="6" cy="6" r="4.2"/><line x1="9.2" y1="9.2" x2="12.5" y2="12.5"/></svg>
+      <input type="text" class="search-input" id="search" placeholder="pinyin, значение, 汉字…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      <span class="search-hint">/</span>
+    </div>
+  </div>
+
+  <div id="list"></div>
+  <div class="footer">DawnSky 霏昊 · vocabulary</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script src="words_data.js"></script>
+<script>
+(function() {
+  var listEl = document.getElementById('list');
+  var countEl = document.getElementById('count');
+  var searchEl = document.getElementById('search');
+  var URL_PREFIX = '../'; // prototype lives in tmp_visual/
+
+  var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  var io = ('IntersectionObserver' in window) && !reduceMotion
+    ? new IntersectionObserver(function(entries) {
+        for (var i = 0; i < entries.length; i++) {
+          if (entries[i].isIntersecting) {
+            entries[i].target.style.transitionDelay = (Math.min(i, 14) * 28) + 'ms';
+            entries[i].target.classList.add('in');
+            io.unobserve(entries[i].target);
+          }
+        }
+      }, { rootMargin: '60px' })
+    : null;
+
+  function tileHtml(w) {
+    return '<a class="tile' + (io ? '' : ' in') + '" href="' + URL_PREFIX + w.url + '">'
+         + '<div class="hz">' + w.hanzi + '</div>'
+         + '<div class="py">' + w.pinyin + '</div>'
+         + '<div class="ru">' + w.meaning_ru + '</div>'
+         + '</a>';
+  }
+
+  function observeTiles() {
+    if (!io) return;
+    var tiles = listEl.querySelectorAll('.tile:not(.in)');
+    for (var i = 0; i < tiles.length; i++) io.observe(tiles[i]);
+  }
+
+  function letterOf(w) {
+    var c = (w.pinyin_search || '#').charAt(0).toLowerCase();
+    return (c >= 'a' && c <= 'z') ? c : '#';
+  }
+
+  function renderGrouped() {
+    var html = '';
+    var current = null, buf = [], counts = {};
+
+    function flush(letter) {
+      if (!buf.length) return;
+      html += '<div class="letter-section">'
+            + '<div class="letter-head"><span class="letter">' + letter + '</span>'
+            + '<span class="line"></span><span class="n">' + buf.length + '</span></div>'
+            + '<div class="grid">' + buf.join('') + '</div></div>';
+      buf = [];
+    }
+
+    for (var i = 0; i < WORDS.length; i++) {
+      var l = letterOf(WORDS[i]);
+      if (l !== current) { flush(current); current = l; }
+      buf.push(tileHtml(WORDS[i]));
+    }
+    flush(current);
+
+    listEl.innerHTML = html;
+    countEl.textContent = WORDS.length + ' слов';
+    observeTiles();
+  }
+
+  function renderResults(items) {
+    if (!items.length) {
+      listEl.innerHTML = '<div class="empty">ничего не нашлось ☁</div>';
+    } else {
+      var html = '<div class="letter-section"><div class="grid">';
+      for (var i = 0; i < items.length; i++) html += tileHtml(items[i]);
+      html += '</div></div>';
+      listEl.innerHTML = html;
+    }
+    countEl.textContent = items.length + ' / ' + WORDS.length;
+    observeTiles();
+  }
+
+  var fuse = new Fuse(WORDS, {
+    keys: [
+      { name: 'pinyin_search', weight: 0.4 },
+      { name: 'pinyin', weight: 0.2 },
+      { name: 'hanzi', weight: 0.2 },
+      { name: 'meaning_ru', weight: 0.15 },
+      { name: 'meaning_en', weight: 0.05 }
+    ],
+    threshold: 0.4,
+    distance: 100,
+    includeScore: true,
+    minMatchCharLength: 1
+  });
+
+  function stripTones(s) {
+    return s.normalize('NFD').replace(/[̀-ͯ]/g, '')
+            .replace(/ü/g, 'v').replace(/Ü/g, 'V').toLowerCase();
+  }
+
+  function doSearch() {
+    var q = searchEl.value.trim();
+    if (!q) { renderGrouped(); return; }
+    var results = fuse.search(stripTones(q));
+    var items = [];
+    for (var i = 0; i < results.length; i++) items.push(results[i].item);
+    renderResults(items);
+  }
+
+  var timer = null;
+  searchEl.addEventListener('input', function() {
+    clearTimeout(timer);
+    timer = setTimeout(doSearch, 150);
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === '/' && document.activeElement !== searchEl) {
+      e.preventDefault();
+      searchEl.focus();
+    }
+  });
+
+  renderGrouped();
+})();
+</script>
+</body>
+</html>

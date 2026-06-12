@@ -13,6 +13,7 @@ Usage:
 
 import json
 import os
+import re
 import sys
 import argparse
 import unicodedata
@@ -60,6 +61,95 @@ def load_json(path):
         raise ValueError(f"{path.name}: need at least 2 examples, got {len(data['examples'])}")
 
     return data
+
+
+# === "Interesting card" heuristics — feed the word-of-the-day pool ===
+#
+# The discriminating signal is cultural-story markers in the prose (slang,
+# taboo, etymology stories, sound-alike superstitions...) — length and section
+# counts alone just select the most padded cards.
+
+POOL_SIZE = 200
+TEASER_CAP = 120
+
+STORY_STEMS = [
+    "несчастлив", "счастлив", "сленг", "ругатель", "грубо", "груб ", "мата",
+    "эвфемизм", "смягч", "табу", "смешн", "шутк", "ирони", "пиктограмм",
+    "древн", "легенд", "миф", "поэт", "созвучн", "звучит как", "суевер",
+    "культур", "традици", "император", "династи", "интернет", "мем",
+    "олимпиад", "этимолог", "буквально", "дословно", "рисунок", "рисует",
+    "образ", "история", "на самом деле", "секрет", "лайфхак", "обидн",
+    "вежлив", "неловк", "иностранц", "лаовай", "социальн", "феномен",
+    "символ", "романти", "сказк", "волшебн", "примет", "плохой знак",
+    "красив", "благородн", "негатив", "образн",
+]
+
+
+def _strip_tags(html):
+    return re.sub(r"<[^>]+>", "", html or "").strip()
+
+
+def _card_text(data):
+    """All prose of a card, lowercased, for stem matching."""
+    parts = [_strip_tags(data.get("deep_dive") or ""), data.get("footer_note") or ""]
+    for r in data.get("radicals") or []:
+        parts.append(r.get("note") or "")
+    for s in data.get("situations") or []:
+        parts.append((s.get("setup") or "") + " " + (s.get("line") or ""))
+    return " ".join(parts).lower()
+
+
+def card_teaser(data):
+    """One-line hook: footer_note without the "hanzi —" prefix and HSK segments,
+    fallback: first sentence of the last deep_dive paragraph."""
+    footer = (data.get("footer_note") or "").strip()
+    if footer:
+        prefix = data["hanzi"] + " — "
+        if footer.startswith(prefix):
+            footer = footer[len(prefix):]
+        parts = [p.strip() for p in footer.split("·")]
+        parts = [p for p in parts if p and not re.match(r"^HSK\b", p, re.I)]
+        if parts:
+            t = " · ".join(parts)
+            if len(t) > TEASER_CAP:
+                t = t[:TEASER_CAP].rsplit(" ", 1)[0] + "…"
+            return t
+
+    paras = re.findall(r"<p>(.*?)</p>", data.get("deep_dive") or "", re.S)
+    if paras:
+        text = _strip_tags(paras[-1])
+        sent = re.split(r"(?<=[.!?])\s+", text)[0]
+        if len(sent) > TEASER_CAP:
+            sent = sent[:TEASER_CAP].rsplit(" ", 1)[0] + "…"
+        return sent
+    return ""
+
+
+def card_interest_score(data):
+    text = _card_text(data)
+    score = 1.5 * sum(1 for stem in STORY_STEMS if stem in text)
+    # "X + Y = «Z»" literal-decomposition storytelling
+    if " + " in text and " = " in text:
+        score += 1.5
+    score += min(len(text) / 200, 2.5)
+    score += 0.6 * len(data.get("situations") or [])
+    score += 0.4 * len(data.get("radicals") or [])
+    if data.get("footer_note"):
+        score += 0.3
+    return score
+
+
+def build_interesting_pool(cards):
+    """Top POOL_SIZE cards by interest score → [{hanzi, teaser}]."""
+    scored = []
+    for hanzi in cards:
+        json_path = JSON_DIR / f"{hanzi}.json"
+        if not json_path.exists():
+            continue
+        data = load_json(json_path)
+        scored.append((card_interest_score(data), hanzi, card_teaser(data)))
+    scored.sort(key=lambda x: -x[0])
+    return [{"hanzi": h, "teaser": t} for _, h, t in scored[:POOL_SIZE]]
 
 
 def render_card(env, data):
@@ -125,224 +215,14 @@ def build_index(cards):
     entries.sort(key=lambda e: e["pinyin_search"])
     words_json = json.dumps(entries, ensure_ascii=False)
 
-    html = f"""<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#03050e">
-<title>DawnSky 霏昊 · vocabulary</title>
-<meta property="og:title" content="DawnSky 霏昊 · vocabulary">
-<meta property="og:description" content="{len(cards)} words">
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+    pool = build_interesting_pool(cards)
+    interesting_json = json.dumps(pool, ensure_ascii=False)
 
-  :root {{
-    --bg: #03050e;
-    --card: rgba(140,168,200,0.045);
-    --ink: #e4dcc8;
-    --soft: #c4b5a3;
-    --accent: #d89888;
-    --cool: #8ca8c8;
-    --muted: #6e7588;
-    --divider: rgba(140,168,200,0.11);
-    --serif: 'Cormorant Garamond', serif;
-  }}
-
-  * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-
-  body {{
-    background: #03050e;
-    background-image: radial-gradient(ellipse at 75% 12%, rgba(216,152,136,0.1) 0%, transparent 48%), radial-gradient(ellipse at 15% 85%, rgba(140,168,200,0.07) 0%, transparent 55%);
-    color: var(--ink);
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 400;
-    line-height: 1.75;
-    min-height: 100vh;
-    padding: 1.25rem;
-    padding-top: 0;
-    -webkit-font-smoothing: antialiased;
-  }}
-
-  .container {{ max-width: 560px; margin: 0 auto; }}
-
-  .sticky-header {{
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background: rgba(3,5,14,0.85);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    padding: 1.25rem 0 0.75rem;
-  }}
-
-  .title {{
-    font-family: 'Noto Serif SC', serif;
-    font-size: 2rem;
-    font-weight: 900;
-    padding: 0.75rem 0 0.5rem;
-  }}
-
-  .search-row {{
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-  }}
-
-  .search-input {{
-    flex: 1;
-    background: transparent;
-    border: none;
-    border-bottom: 1px solid var(--divider);
-    color: var(--ink);
-    font-family: 'DM Sans', sans-serif;
-    font-size: 16px;
-    padding: 0.5rem 0;
-    outline: none;
-    transition: border-color 0.2s;
-  }}
-
-  .search-input::placeholder {{ color: var(--muted); }}
-  .search-input:focus {{ border-bottom-color: var(--accent); }}
-
-  .word-count {{
-    font-size: 0.75rem;
-    color: var(--muted);
-    white-space: nowrap;
-  }}
-
-  .word-list {{ padding-top: 0.25rem; }}
-
-  .word-row {{
-    display: flex;
-    align-items: baseline;
-    gap: 0.75rem;
-    padding: 0.6rem 0;
-    min-height: 44px;
-    border-bottom: 1px solid var(--divider);
-    text-decoration: none;
-    color: inherit;
-    transition: background 0.15s;
-  }}
-
-  .word-row:hover {{
-    background: var(--card);
-    margin: 0 -0.5rem;
-    padding: 0.6rem 0.5rem;
-    border-radius: 8px;
-  }}
-
-  .word-hz {{
-    font-family: 'Noto Serif SC', serif;
-    font-size: 1.3rem;
-    font-weight: 700;
-    color: var(--accent);
-    min-width: 3rem;
-  }}
-
-  .word-py {{
-    font-family: 'Cormorant Garamond', serif;
-    font-style: italic;
-    font-size: 0.9rem;
-    color: var(--muted);
-    min-width: 5rem;
-  }}
-
-  .word-ru {{
-    font-size: 0.82rem;
-    color: var(--soft);
-  }}
-
-  .footer {{
-    text-align: center;
-    font-size: 0.65rem;
-    color: var(--muted);
-    margin-top: 2.5rem;
-    padding-top: 1rem;
-    opacity: 0.7;
-  }}
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="sticky-header">
-    <div class="title">DawnSky 霏昊</div>
-    <div class="search-row">
-      <input type="text" class="search-input" id="search" placeholder="pinyin, meaning, hanzi..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
-      <span class="word-count" id="count">{len(cards)} words</span>
-    </div>
-  </div>
-  <div class="word-list" id="list"></div>
-  <div class="footer">DawnSky 霏昊 · vocabulary</div>
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
-<script>
-(function() {{
-  var WORDS = {words_json};
-
-  var listEl = document.getElementById('list');
-  var countEl = document.getElementById('count');
-  var searchEl = document.getElementById('search');
-
-  function renderRows(items) {{
-    var html = '';
-    for (var i = 0; i < items.length; i++) {{
-      var w = items[i];
-      html += '<a class="word-row" href="' + w.url + '">'
-            + '<span class="word-hz">' + w.hanzi + '</span>'
-            + '<span class="word-py">' + w.pinyin + '</span>'
-            + '<span class="word-ru">' + w.meaning_ru + '</span>'
-            + '</a>';
-    }}
-    listEl.innerHTML = html;
-    countEl.textContent = items.length + ' word' + (items.length !== 1 ? 's' : '');
-  }}
-
-  var fuse = new Fuse(WORDS, {{
-    keys: [
-      {{ name: 'pinyin_search', weight: 0.4 }},
-      {{ name: 'pinyin', weight: 0.2 }},
-      {{ name: 'hanzi', weight: 0.2 }},
-      {{ name: 'meaning_ru', weight: 0.15 }},
-      {{ name: 'meaning_en', weight: 0.05 }}
-    ],
-    threshold: 0.4,
-    distance: 100,
-    includeScore: true,
-    minMatchCharLength: 1
-  }});
-
-  function stripTones(s) {{
-    return s.normalize('NFD').replace(/[\\u0300-\\u036f]/g, '')
-            .replace(/ü/g, 'v').replace(/Ü/g, 'V').toLowerCase();
-  }}
-
-  function doSearch() {{
-    var q = searchEl.value.trim();
-    if (!q) {{
-      renderRows(WORDS);
-      return;
-    }}
-    var results = fuse.search(stripTones(q));
-    var items = [];
-    for (var i = 0; i < results.length; i++) {{
-      items.push(results[i].item);
-    }}
-    renderRows(items);
-  }}
-
-  var timer = null;
-  searchEl.addEventListener('input', function() {{
-    clearTimeout(timer);
-    timer = setTimeout(doSearch, 150);
-  }});
-
-  renderRows(WORDS);
-}})();
-</script>
-</body>
-</html>"""
+    template = (ROOT / "templates" / "index.html").read_text(encoding="utf-8")
+    html = (template
+            .replace("__COUNT__", str(len(cards)))
+            .replace("__WORDS_JSON__", words_json)
+            .replace("__INTERESTING_JSON__", interesting_json))
 
     with open(INDEX_FILE, "w", encoding="utf-8") as f:
         f.write(html)

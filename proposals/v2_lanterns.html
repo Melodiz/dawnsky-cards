@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#03050e">
+<title>DawnSky 霏昊 · vocabulary — v2 lanterns</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+  :root {
+    --bg: #03050e;
+    --card: rgba(140,168,200,0.045);
+    --ink: #e4dcc8;
+    --soft: #c4b5a3;
+    --accent: #d89888;
+    --cool: #8ca8c8;
+    --muted: #6e7588;
+    --divider: rgba(140,168,200,0.11);
+    --serif: 'Cormorant Garamond', serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+    padding: 0 1.25rem 2rem;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  /* drifting lantern glows */
+  .glow {
+    position: fixed;
+    border-radius: 50%;
+    filter: blur(70px);
+    pointer-events: none;
+    z-index: 0;
+  }
+  .glow-rose {
+    width: 420px; height: 420px;
+    background: rgba(216,152,136,0.085);
+    top: -120px; right: -80px;
+    animation: drift-a 26s ease-in-out infinite alternate;
+  }
+  .glow-cool {
+    width: 480px; height: 480px;
+    background: rgba(140,168,200,0.06);
+    bottom: -160px; left: -120px;
+    animation: drift-b 32s ease-in-out infinite alternate;
+  }
+  @keyframes drift-a {
+    from { transform: translate(0, 0); }
+    to   { transform: translate(-60px, 50px); }
+  }
+  @keyframes drift-b {
+    from { transform: translate(0, 0); }
+    to   { transform: translate(70px, -40px); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .glow-rose, .glow-cool { animation: none; }
+  }
+
+  .container { max-width: 820px; margin: 0 auto; position: relative; z-index: 1; }
+
+  .hero {
+    text-align: center;
+    padding: 3rem 0 1.6rem;
+  }
+
+  .title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 2.4rem;
+    font-weight: 900;
+    text-shadow: 0 0 60px rgba(216,152,136,0.22);
+  }
+  .title span { color: var(--accent); }
+
+  .subtitle {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 1rem;
+    color: var(--muted);
+    margin-top: 0.3rem;
+  }
+
+  .sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(3,5,14,0.82);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    padding: 0.9rem 0;
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
+  }
+
+  .search-input {
+    flex: 1;
+    background: var(--card);
+    border: 1px solid var(--divider);
+    border-radius: 999px;
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    padding: 0.6rem 1.2rem;
+    outline: none;
+    transition: border-color 0.25s, box-shadow 0.25s;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-input:focus {
+    border-color: rgba(216,152,136,0.45);
+    box-shadow: 0 0 24px rgba(216,152,136,0.08);
+  }
+
+  .btn-random {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: transparent;
+    border: 1px solid var(--divider);
+    border-radius: 999px;
+    color: var(--muted);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.78rem;
+    padding: 0.6rem 1.1rem;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: border-color 0.25s, color 0.25s, background 0.25s;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .btn-random:hover {
+    border-color: rgba(216,152,136,0.5);
+    color: var(--accent);
+    background: rgba(216,152,136,0.06);
+  }
+
+  .count-line {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-align: center;
+    padding: 0.6rem 0 1rem;
+  }
+
+  /* === THE WALL === */
+  .wall {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    justify-content: center;
+    padding-bottom: 1rem;
+  }
+
+  .letter-mark {
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: var(--cool);
+    opacity: 0.6;
+    padding: 0 0.55rem;
+    flex-basis: 100%;
+    margin-top: 1.1rem;
+  }
+  .letter-mark::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    margin-left: 0.8rem;
+    background: linear-gradient(90deg, var(--cool), transparent 85%);
+    opacity: 0.25;
+  }
+  .wall .letter-mark:first-child { margin-top: 0; }
+
+  .chip {
+    position: relative;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.45rem;
+    text-decoration: none;
+    border: 1px solid var(--divider);
+    border-radius: 999px;
+    padding: 0.32rem 0.85rem;
+    background: rgba(140,168,200,0.03);
+    transition: border-color 0.22s, background 0.22s, transform 0.22s;
+    animation: chip-in 0.45s ease both;
+  }
+  @keyframes chip-in {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .chip { animation: none; }
+  }
+
+  .chip:hover {
+    border-color: rgba(216,152,136,0.5);
+    background: rgba(216,152,136,0.07);
+    transform: translateY(-1px);
+  }
+
+  .chip .hz {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.02rem;
+    font-weight: 700;
+    color: var(--ink);
+    transition: color 0.22s;
+  }
+  .chip:hover .hz { color: var(--accent); }
+
+  .chip .py {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+
+  /* tooltip with meaning */
+  .chip::after {
+    content: attr(data-ru);
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 8px);
+    transform: translateX(-50%) translateY(4px);
+    background: #0a0f1f;
+    border: 1px solid var(--divider);
+    border-radius: 8px;
+    color: var(--soft);
+    font-size: 0.7rem;
+    font-family: 'DM Sans', sans-serif;
+    padding: 0.3rem 0.65rem;
+    white-space: nowrap;
+    max-width: 260px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease, transform 0.18s ease;
+    z-index: 5;
+  }
+  .chip:hover::after {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+
+  .empty {
+    text-align: center;
+    font-family: var(--serif);
+    font-style: italic;
+    color: var(--muted);
+    padding: 4rem 0;
+    font-size: 1.05rem;
+    flex-basis: 100%;
+  }
+
+  .footer {
+    text-align: center;
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 3rem;
+    opacity: 0.7;
+  }
+
+  @media (max-width: 480px) {
+    .title { font-size: 1.9rem; }
+    .hero { padding-top: 2rem; }
+    .btn-random span.label { display: none; }
+    .chip::after { display: none; } /* no hover on touch */
+  }
+</style>
+</head>
+<body>
+<div class="glow glow-rose"></div>
+<div class="glow glow-cool"></div>
+
+<div class="container">
+  <div class="hero">
+    <div class="title">DawnSky <span>霏昊</span></div>
+    <div class="subtitle">vocabulary · стена слов</div>
+  </div>
+
+  <div class="sticky-header">
+    <input type="text" class="search-input" id="search" placeholder="pinyin, значение, 汉字…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+    <button class="btn-random" id="random" title="случайное слово">✦&nbsp;<span class="label">случайное</span></button>
+  </div>
+
+  <div class="count-line" id="count"></div>
+  <div class="wall" id="wall"></div>
+  <div class="footer">DawnSky 霏昊 · vocabulary</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script src="words_data.js"></script>
+<script>
+(function() {
+  var wallEl = document.getElementById('wall');
+  var countEl = document.getElementById('count');
+  var searchEl = document.getElementById('search');
+  var URL_PREFIX = '../';
+
+  function chipHtml(w, i) {
+    // stagger only the first screenful; later chips appear instantly
+    var delay = i < 60 ? ' style="animation-delay:' + (i * 12) + 'ms"' : ' style="animation:none"';
+    return '<a class="chip" href="' + URL_PREFIX + w.url + '" data-ru="' + w.meaning_ru.replace(/"/g, '&quot;') + '"' + delay + '>'
+         + '<span class="hz">' + w.hanzi + '</span>'
+         + '<span class="py">' + w.pinyin + '</span>'
+         + '</a>';
+  }
+
+  function letterOf(w) {
+    var c = (w.pinyin_search || '#').charAt(0).toLowerCase();
+    return (c >= 'a' && c <= 'z') ? c : '#';
+  }
+
+  function renderAll() {
+    var html = '';
+    var current = null;
+    for (var i = 0; i < WORDS.length; i++) {
+      var l = letterOf(WORDS[i]);
+      if (l !== current) {
+        current = l;
+        html += '<span class="letter-mark">' + l + '</span>';
+      }
+      html += chipHtml(WORDS[i], i);
+    }
+    wallEl.innerHTML = html;
+    countEl.textContent = WORDS.length + ' слов · наведи на слово, чтобы увидеть перевод';
+  }
+
+  function renderResults(items) {
+    if (!items.length) {
+      wallEl.innerHTML = '<div class="empty">ничего не нашлось ☁</div>';
+      countEl.textContent = '0 / ' + WORDS.length;
+      return;
+    }
+    var html = '';
+    for (var i = 0; i < items.length; i++) html += chipHtml(items[i], i);
+    wallEl.innerHTML = html;
+    countEl.textContent = items.length + ' / ' + WORDS.length;
+  }
+
+  var fuse = new Fuse(WORDS, {
+    keys: [
+      { name: 'pinyin_search', weight: 0.4 },
+      { name: 'pinyin', weight: 0.2 },
+      { name: 'hanzi', weight: 0.2 },
+      { name: 'meaning_ru', weight: 0.15 },
+      { name: 'meaning_en', weight: 0.05 }
+    ],
+    threshold: 0.4,
+    distance: 100,
+    includeScore: true,
+    minMatchCharLength: 1
+  });
+
+  function stripTones(s) {
+    return s.normalize('NFD').replace(/[̀-ͯ]/g, '')
+            .replace(/ü/g, 'v').replace(/Ü/g, 'V').toLowerCase();
+  }
+
+  function doSearch() {
+    var q = searchEl.value.trim();
+    if (!q) { renderAll(); return; }
+    var results = fuse.search(stripTones(q));
+    var items = [];
+    for (var i = 0; i < results.length; i++) items.push(results[i].item);
+    renderResults(items);
+  }
+
+  var timer = null;
+  searchEl.addEventListener('input', function() {
+    clearTimeout(timer);
+    timer = setTimeout(doSearch, 150);
+  });
+
+  document.getElementById('random').addEventListener('click', function() {
+    var w = WORDS[Math.floor(Math.random() * WORDS.length)];
+    window.location.href = URL_PREFIX + w.url;
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === '/' && document.activeElement !== searchEl) {
+      e.preventDefault();
+      searchEl.focus();
+    }
+  });
+
+  renderAll();
+})();
+</script>
+</body>
+</html>

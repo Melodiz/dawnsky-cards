@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#03050e">
+<title>DawnSky 霏昊 · vocabulary — final 3 · tabs</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+  :root {
+    --bg: #03050e;
+    --card: rgba(140,168,200,0.045);
+    --ink: #e4dcc8;
+    --soft: #c4b5a3;
+    --accent: #d89888;
+    --cool: #8ca8c8;
+    --muted: #6e7588;
+    --divider: rgba(140,168,200,0.11);
+    --serif: 'Cormorant Garamond', serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+    padding: 0 1.25rem 2rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  #sky {
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+  }
+
+  .container { max-width: 760px; margin: 0 auto; position: relative; z-index: 1; }
+
+  /* === WORD OF THE DAY === */
+  .wotd {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    padding: 2.6rem 0 1.8rem;
+  }
+
+  .wotd-label {
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.22em;
+    color: var(--cool);
+    opacity: 0.9;
+    margin-bottom: 0.6rem;
+  }
+
+  .wotd-row {
+    display: flex;
+    align-items: flex-end;
+    gap: 1.2rem;
+    flex-wrap: wrap;
+  }
+
+  .wotd-hz {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 4.4rem;
+    font-weight: 900;
+    line-height: 1;
+    color: var(--ink);
+    animation: breathe 6s ease-in-out infinite;
+    transition: color 0.3s;
+  }
+  .wotd:hover .wotd-hz { color: var(--accent); }
+
+  @keyframes breathe {
+    0%, 100% { text-shadow: 0 0 30px rgba(216,152,136,0.12); }
+    50%      { text-shadow: 0 0 55px rgba(216,152,136,0.30); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .wotd-hz { animation: none; text-shadow: 0 0 40px rgba(216,152,136,0.18); }
+  }
+
+  .wotd-side { padding-bottom: 0.35rem; max-width: 26rem; }
+  .wotd-py {
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1.3rem;
+    color: var(--muted);
+  }
+  .wotd-ru { font-size: 0.86rem; font-weight: 500; color: var(--soft); margin-top: 0.2rem; }
+
+  .wotd-teaser {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--accent);
+    opacity: 0.85;
+    margin-top: 0.35rem;
+    line-height: 1.45;
+  }
+
+  .wotd-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    margin-top: 0.5rem;
+  }
+
+  .wotd-open {
+    font-size: 0.68rem;
+    color: var(--muted);
+    opacity: 0.8;
+    transition: color 0.3s;
+  }
+  .wotd:hover .wotd-open { color: var(--accent); }
+
+  .wotd-more {
+    background: none;
+    border: 1px solid var(--divider);
+    border-radius: 999px;
+    color: var(--muted);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.62rem;
+    padding: 0.15rem 0.7rem;
+    cursor: pointer;
+    transition: border-color 0.25s, color 0.25s;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .wotd-more:hover { border-color: rgba(216,152,136,0.5); color: var(--accent); }
+
+  .swap { animation: swap-in 0.4s ease both; }
+  @keyframes swap-in {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .swap { animation: none; }
+  }
+
+  .hero-bar {
+    height: 1px;
+    background: linear-gradient(90deg, var(--accent) 0%, var(--cool) 70%, transparent 100%);
+    opacity: 0.25;
+  }
+
+  /* === HEADER === */
+  .sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(3,5,14,0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    padding: 0.9rem 0 0.55rem;
+  }
+
+  .search-row { display: flex; align-items: center; gap: 0.9rem; }
+
+  .brand {
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 900;
+    font-size: 1.05rem;
+    white-space: nowrap;
+  }
+  .brand span { color: var(--accent); }
+
+  .search-input {
+    flex: 1;
+    background: var(--card);
+    border: 1px solid var(--divider);
+    border-radius: 12px;
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    padding: 0.55rem 1.1rem;
+    outline: none;
+    transition: border-color 0.25s, box-shadow 0.25s;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-input:focus {
+    border-color: rgba(216,152,136,0.45);
+    box-shadow: 0 0 24px rgba(216,152,136,0.07);
+  }
+
+  /* === LETTER TABS === */
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.1rem 0.15rem;
+    padding-top: 0.6rem;
+  }
+
+  .tab {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 1.05rem;
+    color: var(--muted);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.15rem 0.5rem;
+    border-radius: 8px;
+    position: relative;
+    transition: color 0.2s, background 0.2s;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .tab:hover { color: var(--soft); background: var(--card); }
+
+  .tab.active { color: var(--accent); }
+  .tab.active::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -1px;
+    transform: translateX(-50%);
+    width: 4px; height: 4px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px rgba(216,152,136,0.8);
+  }
+
+  .tab .n {
+    font-size: 0.55rem;
+    vertical-align: super;
+    opacity: 0.6;
+    font-style: normal;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  /* === PAGE === */
+  .page-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.9rem;
+    margin: 1.6rem 0 0.6rem;
+  }
+
+  .page-letter {
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 300;
+    font-size: 2.6rem;
+    line-height: 1;
+    color: var(--cool);
+    opacity: 0.8;
+  }
+
+  .page-info {
+    font-size: 0.72rem;
+    color: var(--muted);
+    font-family: var(--serif);
+    font-style: italic;
+  }
+
+  .page {
+    animation: page-in 0.35s ease both;
+  }
+  @keyframes page-in {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .page { animation: none; }
+  }
+
+  .rows {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 2rem;
+  }
+
+  .word-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    padding: 0.45rem 0.5rem;
+    margin: 0 -0.5rem;
+    border-radius: 8px;
+    border-bottom: 1px solid var(--divider);
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.15s;
+  }
+  .word-row:hover { background: var(--card); border-bottom-color: transparent; }
+
+  .word-hz {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.18rem;
+    font-weight: 700;
+    color: var(--ink);
+    min-width: 3rem;
+    flex-shrink: 0;
+    transition: color 0.15s;
+  }
+  .word-row:hover .word-hz { color: var(--accent); }
+
+  .word-py {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.86rem;
+    color: var(--muted);
+    min-width: 4.6rem;
+    flex-shrink: 0;
+  }
+
+  .word-ru {
+    font-size: 0.77rem;
+    color: var(--soft);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+  }
+
+  .empty {
+    text-align: center;
+    font-family: var(--serif);
+    font-style: italic;
+    color: var(--muted);
+    padding: 4rem 0;
+    font-size: 1.05rem;
+  }
+
+  .footer {
+    text-align: center;
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 3rem;
+    opacity: 0.7;
+  }
+
+  @media (max-width: 600px) {
+    .rows { grid-template-columns: 1fr; }
+    .wotd-hz { font-size: 3.2rem; }
+    .brand { display: none; }
+  }
+</style>
+</head>
+<body>
+<canvas id="sky"></canvas>
+
+<div class="container">
+
+  <a class="wotd" id="wotd" href="#">
+    <div class="wotd-label">✦ слово дня</div>
+    <div class="wotd-row" id="wotd-swap">
+      <div class="wotd-hz" id="wotd-hz"></div>
+      <div class="wotd-side">
+        <div class="wotd-py" id="wotd-py"></div>
+        <div class="wotd-ru" id="wotd-ru"></div>
+        <div class="wotd-teaser" id="wotd-teaser"></div>
+        <div class="wotd-actions">
+          <span class="wotd-open">открыть карточку →</span>
+          <button class="wotd-more" id="wotd-more">ещё ✦</button>
+        </div>
+      </div>
+    </div>
+  </a>
+  <div class="hero-bar"></div>
+
+  <div class="sticky-header">
+    <div class="search-row">
+      <div class="brand">DawnSky <span>霏昊</span></div>
+      <input type="text" class="search-input" id="search" placeholder="pinyin, значение, 汉字…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+    </div>
+    <div class="tabs" id="tabs"></div>
+  </div>
+
+  <div id="page-wrap"></div>
+  <div class="footer">DawnSky 霏昊 · vocabulary</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script src="words_data.js"></script>
+<script src="interesting_words.js"></script>
+<script>
+(function() {
+  var tabsEl = document.getElementById('tabs');
+  var pageEl = document.getElementById('page-wrap');
+  var searchEl = document.getElementById('search');
+  var URL_PREFIX = '../';
+
+  function plural(n, one, few, many) {
+    var m10 = n % 10, m100 = n % 100;
+    if (m10 === 1 && m100 !== 11) return one;
+    if (m10 >= 2 && m10 <= 4 && (m100 < 12 || m100 > 14)) return few;
+    return many;
+  }
+  function nWords(n) { return n + ' ' + plural(n, 'слово', 'слова', 'слов'); }
+
+  /* --- word of the day from the "interesting" pool --- */
+  var byHanzi = {};
+  for (var i = 0; i < WORDS.length; i++) byHanzi[WORDS[i].hanzi] = WORDS[i];
+  var pool = [];
+  for (var j = 0; j < INTERESTING.length; j++) {
+    var w = byHanzi[INTERESTING[j].hanzi];
+    if (w) pool.push({ w: w, teaser: INTERESTING[j].teaser });
+  }
+
+  var wotdIdx = -1;
+  function setWotd(idx) {
+    wotdIdx = idx;
+    var p = pool[idx];
+    document.getElementById('wotd-hz').textContent = p.w.hanzi;
+    document.getElementById('wotd-py').textContent = p.w.pinyin;
+    document.getElementById('wotd-ru').textContent = p.w.meaning_ru;
+    document.getElementById('wotd-teaser').textContent = p.teaser;
+    document.getElementById('wotd').href = URL_PREFIX + p.w.url;
+    var el = document.getElementById('wotd-swap');
+    el.classList.remove('swap');
+    void el.offsetWidth;
+    el.classList.add('swap');
+  }
+
+  (function() {
+    var d = new Date();
+    var key = d.getFullYear() + '-' + (d.getMonth() + 1) + '-' + d.getDate();
+    var h = 0;
+    for (var i = 0; i < key.length; i++) h = (h * 31 + key.charCodeAt(i)) >>> 0;
+    setWotd(h % pool.length);
+  })();
+
+  document.getElementById('wotd-more').addEventListener('click', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    var idx;
+    do { idx = Math.floor(Math.random() * pool.length); } while (idx === wotdIdx);
+    setWotd(idx);
+  });
+
+  /* --- group words by pinyin initial --- */
+  function letterOf(w) {
+    var c = (w.pinyin_search || '#').charAt(0).toLowerCase();
+    return (c >= 'a' && c <= 'z') ? c : '#';
+  }
+
+  var groups = {};
+  var letters = [];
+  for (var k = 0; k < WORDS.length; k++) {
+    var l = letterOf(WORDS[k]);
+    if (!groups[l]) { groups[l] = []; letters.push(l); }
+    groups[l].push(WORDS[k]);
+  }
+
+  var active = letters[0];
+
+  function rowHtml(w) {
+    return '<a class="word-row" href="' + URL_PREFIX + w.url + '">'
+         + '<span class="word-hz">' + w.hanzi + '</span>'
+         + '<span class="word-py">' + w.pinyin + '</span>'
+         + '<span class="word-ru">' + w.meaning_ru + '</span>'
+         + '</a>';
+  }
+
+  function renderTabs() {
+    var html = '';
+    for (var i = 0; i < letters.length; i++) {
+      var l = letters[i];
+      html += '<button class="tab' + (l === active ? ' active' : '') + '" data-l="' + l + '">'
+            + l + '<span class="n">' + groups[l].length + '</span></button>';
+    }
+    tabsEl.innerHTML = html;
+  }
+
+  function renderPage() {
+    var words = groups[active];
+    var html = '<div class="page">'
+             + '<div class="page-head"><span class="page-letter">' + active + '</span>'
+             + '<span class="page-info">' + nWords(words.length) + '</span></div>'
+             + '<div class="rows">';
+    for (var i = 0; i < words.length; i++) html += rowHtml(words[i]);
+    html += '</div></div>';
+    pageEl.innerHTML = html;
+  }
+
+  function renderResults(items) {
+    if (!items.length) {
+      pageEl.innerHTML = '<div class="empty">ничего не нашлось ☁</div>';
+      return;
+    }
+    var html = '<div class="page">'
+             + '<div class="page-head"><span class="page-letter">✦</span>'
+             + '<span class="page-info">' + items.length + ' / ' + WORDS.length + '</span></div>'
+             + '<div class="rows">';
+    for (var i = 0; i < items.length; i++) html += rowHtml(items[i]);
+    html += '</div></div>';
+    pageEl.innerHTML = html;
+  }
+
+  tabsEl.addEventListener('click', function(e) {
+    var btn = e.target.closest('.tab');
+    if (!btn) return;
+    active = btn.dataset.l;
+    searchEl.value = '';
+    renderTabs();
+    renderPage();
+  });
+
+  var fuse = new Fuse(WORDS, {
+    keys: [
+      { name: 'pinyin_search', weight: 0.4 },
+      { name: 'pinyin', weight: 0.2 },
+      { name: 'hanzi', weight: 0.2 },
+      { name: 'meaning_ru', weight: 0.15 },
+      { name: 'meaning_en', weight: 0.05 }
+    ],
+    threshold: 0.4,
+    distance: 100,
+    includeScore: true,
+    minMatchCharLength: 1
+  });
+
+  function stripTones(s) {
+    return s.normalize('NFD').replace(/[̀-ͯ]/g, '')
+            .replace(/ü/g, 'v').replace(/Ü/g, 'V').toLowerCase();
+  }
+
+  function doSearch() {
+    var q = searchEl.value.trim();
+    if (!q) {
+      renderTabs();
+      renderPage();
+      return;
+    }
+    var tabs = tabsEl.querySelectorAll('.tab');
+    for (var i = 0; i < tabs.length; i++) tabs[i].classList.remove('active');
+    var results = fuse.search(stripTones(q));
+    var items = [];
+    for (var j = 0; j < results.length; j++) items.push(results[j].item);
+    renderResults(items);
+  }
+
+  var timer = null;
+  searchEl.addEventListener('input', function() {
+    clearTimeout(timer);
+    timer = setTimeout(doSearch, 150);
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === '/' && document.activeElement !== searchEl) {
+      e.preventDefault();
+      searchEl.focus();
+    }
+  });
+
+  renderTabs();
+  renderPage();
+
+  /* --- starfield --- */
+  (function() {
+    var canvas = document.getElementById('sky');
+    var ctx = canvas.getContext('2d');
+    var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var stars = [];
+    var N = 110;
+
+    function resize() {
+      canvas.width = window.innerWidth * devicePixelRatio;
+      canvas.height = window.innerHeight * devicePixelRatio;
+      ctx.setTransform(devicePixelRatio, 0, 0, devicePixelRatio, 0, 0);
+    }
+    resize();
+    window.addEventListener('resize', resize);
+
+    for (var i = 0; i < N; i++) {
+      stars.push({
+        x: Math.random(),
+        y: Math.random(),
+        r: Math.random() * 1.1 + 0.3,
+        phase: Math.random() * Math.PI * 2,
+        speed: Math.random() * 0.4 + 0.15,
+        warm: Math.random() < 0.3
+      });
+    }
+
+    function draw(t) {
+      var w = window.innerWidth, h = window.innerHeight;
+      ctx.clearRect(0, 0, w, h);
+      for (var i = 0; i < stars.length; i++) {
+        var s = stars[i];
+        var a = reduceMotion ? 0.5 : 0.3 + 0.45 * (0.5 + 0.5 * Math.sin(s.phase + t * 0.001 * s.speed));
+        ctx.beginPath();
+        ctx.arc(s.x * w, s.y * h, s.r, 0, Math.PI * 2);
+        ctx.fillStyle = s.warm
+          ? 'rgba(216,152,136,' + (a * 0.55).toFixed(3) + ')'
+          : 'rgba(140,168,200,' + (a * 0.5).toFixed(3) + ')';
+        ctx.fill();
+      }
+      if (!reduceMotion) requestAnimationFrame(draw);
+    }
+    requestAnimationFrame(draw);
+  })();
+})();
+</script>
+</body>
+</html>
