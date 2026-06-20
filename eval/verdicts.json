@@ -1,0 +1,1876 @@
+[
+  {
+    "hanzi": "阿姨",
+    "source": "hsk2.0-L3",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin ā yí is right, and every Chinese example is well-formed with matching pinyin and Russian. The deciding factor is a structural error in Card B's radical note, which calls 女 the \"Правая часть 姨\" when 女 is in fact the LEFT component (Card A correctly says \"Левая часть\"). Card A also offers a fuller, accurate radical breakdown (both 女 and the phonetic 夷) and an equally warm but more complete deep_dive. Card B is otherwise strong and its examples are nicely didactic, but the misplaced-radical claim is a flatly-wrong structural fact that tips the win to A.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 3
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "离开",
+    "source": "hsk2.0-L3",
+    "winner": "B",
+    "winnerModel": "sonnet",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards pass the accuracy floor: pinyin (lí kāi), meanings, and all Chinese examples are well-formed with matching pinyin and Russian, and both richly contrast 离开 with 走. Card B edges ahead on legend/culture accuracy: its claim that 离's classical form 離 contains the bird component 隹 (zhuī) flying away is genuinely TRUE and vividly memorable, whereas Card A's radical note asserts 忄 (heart) \"hides in the top of 离\" — that is not actually a heart radical, making it a shakier (mildly inaccurate) mnemonic. Card B also has a slightly cleaner footer (frequency 571) and one extra useful example. Card A is strong and the gap is small, but B's componentry note is both more accurate and more striking.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 3,
+        "mnemonics": 3
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "保证",
+    "source": "hsk2.0-L4",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: pinyin (bǎo zhèng), meanings, and all Chinese examples are well-formed, grammatical, and correctly glossed in pinyin and Russian. They are near-equals in quality, but B's deep_dive does more honest, accurate work — it connects 证 to the 身份证/签证 family and contrasts 保证 with 答应, plus a real folk-etymology for 保 (person holding a child 子). A is also strong, with good situations and the 质量保证/保证书 detail, but offers slightly less novel-yet-true connective tissue. B edges ahead on richness without any padding.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "复印",
+    "source": "hsk2.0-L4",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor on hard facts: pinyin, meanings, and all Chinese examples are grammatical and well-matched. They are close in usefulness and richness — B's 复制 vs 复印 contrast and the 带复印件来 office detail are excellent, but A's 打印 vs 复印 distinction plus the 复印机/复印件 derivation is equally strong. The tiebreaker is a factual slip in B's radical section: it asserts flatly that 彳 (\"шаг\") is the left part of simplified 复 and the source of its \"снова\" meaning. The simplified 复 does not contain 彳 (that component belongs to the traditional 復/彳-family), so this is an unframed invented etymology stated as plain fact, which counts against B. A's radical note on 印 (hand pressing a seal) is the accurate standard account.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 3,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "彳 — chì — шаг ... Левая часть 复. Ключ движения — ходить туда-обратно, повторять путь. Отсюда идея «снова, опять»."
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "竞争",
+    "source": "hsk2.0-L4",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin jìng zhēng is correct, meanings are natural Russian/English, and every Chinese example is grammatical with matching pinyin and translation. The deciding factor is richness. Card A's deep_dive frames the 兄/two-runners legend honestly (\"Говорят, что...\"), distinguishes честная vs жёсткая конкуренция, and surfaces the high-value productive form 有竞争力 plus родственные слова 竞赛/竞技, with a fifth example showing 竞争力 in use. Card B is solid and tighter (its 比赛 contrast is a nice touch), but its 立 radical note is slightly loose (\"два 立 внутри\") and it offers less depth and one fewer example. Neither is dry; A simply does more without padding.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "人民币",
+    "source": "hsk2.0-L4",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the hard accuracy floor on pinyin, meanings, and the core examples are grammatical with matching pinyin/Russian. The decider is the radical section: Card A asserts as plain fact that the bottom of 币 is the simplified key 贝 (cowrie shell) — this is simply wrong; the bottom of 币 is 巾 (cloth), which is exactly what Card B correctly identifies and even ties to a nice \"cloth was money\" mnemonic. Card A also has a mildly unnatural example (五十块人民币 stacks the colloquial 块 onto the formal name redundantly), while Card B's examples are cleaner and its deep_dive is richer and more precise (distinguishing 人民币/元/块, correct 1948 issue date, banknote detail). Card B wins on accuracy and richness without padding.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 3,
+        "mnemonics": 3
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "Низ иероглифа 币 — упрощённый ключ 贝 (раковина каури)."
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "香",
+    "source": "hsk2.0-L4",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards pass the hard accuracy floor: pinyin (xiāng) is correct and every Chinese example is well-formed, with matching pinyin and Russian. The decisive difference is in execution: Card B wraps its deep_dive in a raw <![CDATA[...]]> block, which violates the schema (HTML <p>/<strong> only) and will likely render literally or break the template — a real defect for a web card. Card A delivers an equally rich, warm deep_dive (field-to-altar arc, 臭 contrast, sound-sleep and incense senses) with the 甘 folk-etymology properly framed (\"Говорят, что\"), clean situations, and no rendering issue. B's word-family content (香水/香皂/香肠) is a nice plus but doesn't outweigh the CDATA flaw.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 3,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "至少",
+    "source": "hsk2.0-L4",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: pinyin zhì shǎo is correct, and every Chinese example is grammatical with matching pinyin and Russian. B wins on richness and usefulness because its deep_dive pairs 至少 with the real mirror word 至多 (zhìduō) and gives an accurate, sticky hook (少=minimum vs 多=maximum), plus a radical note framing the 至 arrow image as \"древний образ\" (the standard accepted etymology). A is clean and warm with a good consolation angle but offers less to chew on, and its footer asserts an oddly specific \"частота #879\" figure stated as plain fact. B is slightly richer and more practically useful without padding.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 3
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "至少 — HSK 4 · частота #879 · «крайний минимум» по смыслу иероглифов"
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "财产",
+    "source": "hsk2.0-L5",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the hard-fact floor: pinyin (cái chǎn), meanings, and Chinese examples are correct and grammatical in both. The tiebreaker is Card B's radical note for 产, which asserts as plain structural fact that it is composed of 立 (top) over 生 (bottom) — this is false (产 derives from 產 and contains neither 立 nor 生), and it is framed as real etymology rather than a labelled mnemonic, so it's a flatly-asserted invented fact. Card A's component breakdown (贝 as cowrie money inside 财, the 房产/遗产/资产 family) is all accurate, and its deep_dive is equally rich. B is otherwise excellent (great situations, 财富 vs 资产 contrast), but the unframed false decomposition tips it.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 3,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 2,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "Верхняя часть — 立 (стоять), снизу — 生 (жизнь, рождаться). То, что «встаёт и живёт» — то, что создаётся, нарождается."
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "打听",
+    "source": "hsk2.0-L5",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor on the hard facts (pinyin dǎ ting, natural meanings, well-formed grammatical Chinese examples). The decider is Card B's radical claim that 耳 is the left part of 听 — that is structurally wrong (the left side of simplified 听 is 口; 耳 lives in traditional 聽), and it is asserted flatly as fact, while Card A correctly names 口. Card B also leaks a malformed <![CDATA[...]]> wrapper into deep_dive, which would render as literal artifact. Card A's deep_dive is also richer and cleaner (the 打 universal-verb thread plus the 跟你打听一下 polite formula), so A wins.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 3
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "Левая часть 听. Тот же ключ, что прячется в 聊 (болтать). Видишь ухо — речь о слухе и речи."
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "分别",
+    "source": "hsk2.0-L5",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin fēn bié is correct and every Chinese example is well-formed with matching pinyin and Russian, covering the part/distinguish/separately senses. A edges B on craft: its radical analysis is cleaner and correct (刀 in 分 and 刂 in 别, both real knife forms, properly placed), and its deep_dive lands a tighter \"one knife cuts both hearts and lists\" payoff distinguishing the warm vs. working faces. B is also strong and adds nice culture (久别重逢, the perron image) plus an extra example, but it wraps the deep_dive in a stray <![CDATA[...]]> block the schema never asks for — a real rendering risk — and its 别 breakdown calls the left side 口 (\"rot\"), which is shakier (the component is 另, not a bare 口). Those two B weaknesses tip a close call to A.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "规则",
+    "source": "hsk2.0-L5",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin guī zé is correct, meanings are natural, and every Chinese example is well-formed and matches its pinyin and Russian. Card A is richer and more precise — its deep_dive lands the genuine 规(circle/compass)+矩(square) pairing and a clean 规则 (formal/written) vs 规矩 (unwritten norms, 没规矩) contrast with a memorable payoff, and its 贝/见 radical notes are accurate and vivid. Card B is also strong and accurate (the 刀/刂 knife etymology and 规定 synonym contrast are framed as imagery/nuance, not asserted false history), but its component story is slightly looser and its deep_dive less distinctive. A edges it on richness and usefulness.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "讲究",
+    "source": "hsk2.0-L5",
+    "winner": "A",
+    "winnerModel": "sonnet",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards pass the accuracy floor: pinyin (jiǎng jiu) is correct, every Chinese example is well-formed and grammatical, and pinyin/Russian align in each. Neither asserts unframed invented history, and Card B's pentagonal mnemonic is properly framed as a memory device. The two are very close, but Card A edges ahead: its deep_dive is a touch richer (the 有讲究 noun construction, the vivid \"a 讲究 person never answers 随便\" characterization) and its JSON is clean, whereas Card B carries a stray empty meaning_ru_dup field. Card B is fully competitive with a strong fifth example (我不太讲究穿什么) showing negation, so this is a narrow win rather than a decisive one.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "老实",
+    "source": "hsk2.0-L5",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the hard accuracy floor: neutral-tone pinyin (lǎo shi) is correct, meanings correctly span honest / well-behaved / naive, and every Chinese example is grammatical with matching pinyin and Russian (B's 说什么都算数 and A's 常常被骗 both read cleanly). The decisive separator is the radicals section: Card A correctly identifies 宀 (roof) as the top of 实, while Card B asserts as plain fact that 土 (earth) is the bottom of 实 — but 实 is 宀 over 头, with no 土 component at all, so this is a flatly-stated invented structural fact. Both deep_dives are vivid and well-framed (the dual complliment/warning nature is nicely handled in each), and neither is dry, but B also wraps its deep_dive in a stray CDATA block the style guide never calls for. With equal usefulness and richness, A's clean accuracy in the character analysis takes it.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 3,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "土 — земля ... Нижняя часть 实. Что-то настоящее, как земля под ногами — твёрдое, реальное, не притворство."
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "年纪",
+    "source": "hsk2.0-L5",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: correct pinyin (nián jì), correct meanings, and well-formed, grammatical Chinese examples whose pinyin and Russian all match. Neither asserts an unframed invented fact, and neither is dry. They're very close, but Card B edges ahead on usefulness and \"oh cool\" payload: its contrast with 年龄 (formal/documents vs. conversational) is the more practically illuminating distinction, and its register-graded question forms (你几岁 for a child, 你多大 generally, 您多大年纪了 for elders) is a genuinely useful native-habit detail a textbook skips. Card A is excellent too — fuller with five examples and a nice 岁 contrast — but its 己 radical note leans on a softer \"coincidence\" association where B's 纟 note (the same key as in 红/给, years strung like beads) is both accurate and more vivid.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "人类",
+    "source": "hsk2.0-L5",
+    "winner": "B",
+    "winnerModel": "sonnet",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards pass the accuracy floor: pinyin (rén lèi) and meanings are correct, and all Chinese examples are well-formed, grammatical, and match their pinyin/Russian. Card A's first example renders 人类是地球上最聪明的动物 as \"Человек\" (singular) which is slightly loose, and both cards misdescribe 类's internal geometry (米 sits on top, 大 below — not left/right as A says, and not \"нижняя часть\" as B says), but these are mnemonic notes, not floor items. B edges ahead on usefulness and richness: five clean, level-appropriate examples with more topical variety, a tighter deep_dive contrasting 人/人们/人类, and its rice-sorting folk story is properly framed with \"Говорят\". A is strong and warm too, but B's example set and framed legend give it the slight edge.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "摔",
+    "source": "hsk2.0-L5",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: pinyin shuāi is correct, and every Chinese example is well-formed with matching pinyin and Russian (她摔倒了, 别摔, 把杯子摔了/摔碎了, 摔了一跤, 生气地摔了门 all idiomatic). Neither asserts an invented fact unframed — the 率 phonetic note and the hand-radical story are honest mnemonics/structural notes. B wins on richness and usefulness: it adds a genuine, true contrast with 掉 (neutral fall vs 摔's impact/crash), the idiomatic 摔了一跤, and the vivid 摔门 (slam the door), extending the word's true range without filler. A is very good and tightly correct, but slightly narrower in coverage.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "文学",
+    "source": "hsk2.0-L5",
+    "winner": "B",
+    "winnerModel": "sonnet",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin is correct, and every Chinese example is grammatical and matches its pinyin and Russian. The tiebreaker is cultural richness, where B is clearly stronger — it gives the real scholar-official/imperial-exam weight of 文学, the ironic colloquial register (别跟我来文学那一套), and 文学性, all true and vivid, plus the 学-as-knowledge-suffix pattern (数学/科学/哲学) echoed in both deep_dive and footer. A is accurate and competent but stays at word-building/textbook level (文学家, 古典文学, the 文 family) without B's \"oh cool\" cultural payoff.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "咬",
+    "source": "hsk2.0-L5",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: pinyin yǎo is correct everywhere, meanings are right, and every Chinese example is grammatical with matching pinyin and Russian. B wins narrowly on richness and usefulness: its deep_dive adds true, vivid extra senses (咬字, 咬指甲 from nerves) alongside 咬牙 and 咬文嚼字, its examples are a bit simpler and more varied (别咬你的手, 咬指甲), and the footer contrasts 吃 vs 咬 helpfully. A is excellent and accurate, with a charming 咬了一口 / \"one 口 = one bite\" mnemonic, but B reads marginally cleaner overall.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 5
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "睁",
+    "source": "hsk2.0-L5",
+    "winner": "B",
+    "winnerModel": "sonnet",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin zhēng is correct, meanings match the CC-CEDICT seed, and every Chinese example is grammatical with matching pinyin and Russian. B is richer where it counts — its deep_dive and examples cover three genuine, correctly-glossed idioms (睁开眼睛/闭上眼睛, 睁一只眼闭一只眼, 睁大眼睛), and its situations correctly use {hl} markers. A is clean and careful but slightly thinner, covering only one idiom in prose. B's only blemish is a fabricated \"freq. rank ~14 500\" asserted flatly in the footer, a minor unframed invented specific; it is not enough to outweigh B's greater warranted richness.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "freq. rank ~14 500"
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "案例",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin àn lì is correct, meanings are natural and accurate, and every Chinese example is well-formed with matching pinyin and Russian. The decider is execution. Card B wraps its deep_dive HTML in a literal <![CDATA[...]]> block inside a JSON string field, which would render as garbage text in the card — a real defect. Card A's deep_dive is clean, with an equally vivid 案子/例子 contrast and a true 案-as-desk etymology, so it wins on craft while tying on accuracy and richness.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 3,
+        "legend_culture": 3,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "边缘",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor with well-formed, grammatical Chinese examples whose pinyin and Russian match, and both frame the 缘/缘分 \"thread of fate\" connection nicely rather than asserting it as flat history. A edges ahead because B contains a factual radical error — it labels 辶 as \"Правая часть 边\" (right part) when it is actually the left/bottom component, which A states correctly. A's deep_dive is also marginally tighter and its mnemonic about 缘 as the buddhist invisible thread is vivid and honestly framed. B has slightly richer example variety (边缘人/社会边缘), but the radical mistake plus the marginally more textbook-flavored breakdown leave A the stronger card overall.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "草率",
+    "source": "hsk2.0-L6",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: correct pinyin, meanings matching the reference gloss, and four grammatical, correctly-glossed examples each. Card A is richer (马虎 contrast, 草稿/草书 associations, fuller notes) but slips once by asserting \"буквально «тащиться как трава по ветру»\" as the literal meaning — an invented loose image presented flatly as буквально, where the true literal read is \"grass + manner.\" Card B delivers a vivid, well-framed deep_dive (overgrown-yard mnemonic via \"Представь\", caligraphy parallel via \"Есть красивая параллель\") with an accurate literal gloss \"травяная манера\" and no asserted-as-fact invention. Card B is slightly thinner but cleaner; the accuracy-floor mindset of the guide tips a close call to B.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 3,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "草率 — буквально «тащиться как трава по ветру»."
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "储蓄",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "sonnet",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: pinyin chǔ xù is correct, meanings are natural Russian/English, and every Chinese example is well-formed with matching pinyin and translation. Both frame the 蓄 grass/livestock etymology honestly (\"Говорят\", \"Народная этимология\", \"говорят\") and Card B adds a nicely framed mnemonic. Card A wins on richness and usefulness: it adds the genuinely useful 储蓄卡 (debit) vs 信用卡 (credit) banking distinction, 储蓄账户, the 存钱 register contrast, and one extra clean example — extra value without padding.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "地质",
+    "source": "hsk2.0-L6",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards pass the accuracy floor: pinyin dì zhì is correct, meanings are natural, and every Chinese example is well-formed with matching pinyin and Russian. The 贝/cowrie-money etymology is a genuine accepted account, not an invented fact, so neither card has false assertions. B edges ahead on usefulness and craft: its mnemonics are framed as memory aids (\"Чтобы запомнить: чтобы узнать 质 (природу) камня, надо знать его 贝 (цену)\"), its deep_dive cleanly teaches the productive 学/学家 morphology and flags the word as bookish, and its examples lead with simpler high-frequency patterns (对...感兴趣, 很复杂). A is strong and slightly richer culturally (Гималаи/Лёссовое плато), but its 土 mnemonic over-specifies the three strokes as surface/fertile-layer/sprout, which is a shakier folk-reading stated flatly rather than framed.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "二氧化碳",
+    "source": "hsk2.0-L6",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards pass the accuracy floor: pinyin èr yǎng huà tàn is correct, every Chinese example is well-formed and grammatical, and pinyin/Russian match throughout. They are very close in quality and both lean into the \"слово = химическая формула\" idea well. B edges ahead on mnemonic stickiness — the 一/二 \"разница между жить и задохнуться — в одном иероглифе\" framing and the transfer to 化学 (huàxué) are genuinely memorable — and its examples (呼出, 汽车产生, 对环境不好) are slightly more everyday and varied. A is excellent too, with a clean 一氧化碳/二氧化碳 contrast example, but its deep_dive is marginally less vivid.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "腐败",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: correct pinyin tones (fǔ bài), faithful meanings, and all Chinese examples are well-formed, grammatical, and match their pinyin/Russian. The tie-breaker is richness and house character. Card A delivers more genuinely-true delight — the 豆腐 (tofu) connection via the shared 腐, the food→corruption metaphor, and the real colloquial sense of 腐败一下 (\"to live it up\"), all accurate. Card B is solid and well-written but slightly less vivid, embeds a raw CDATA wrapper in deep_dive (a rendering smell), and asserts a suspiciously precise frequency rank (~2487) as fact; not a legend-falsehood but weaker than A's content.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "骨干",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "sonnet",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: pinyin gǔgàn is right, meanings are correct (backbone/core members; B also adds the literal diaphysis), and every Chinese example is grammatical and matches its pinyin and Russian. Card A is slightly richer — a deep_dive that contrasts 核心 vs 骨干 and explains 骨干人员, four varied examples, two situations — versus B's clean but more compact treatment. The deciding factor is a real authoring defect in B: its deep_dive is wrapped in raw <![CDATA[...]]>, which the schema (only <p>/<strong>) never calls for and which will render as literal text or break the build. A's only blemish is a minor typo (\"«Он骨干»\", a dropped 是), which is cosmetic by comparison.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 3,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "化肥",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin, meanings, and all Chinese examples are correct, well-formed, and read at-level (A's 农民用化肥, B's 种地/天然/蔬菜长得快 all clean). The deciding factor is execution quality. Card A's radical breakdown is the most accurate and memorable — it correctly identifies 匕 as the inverted-person right half of 化 and frames 月 as the 肉/meat key with the \"откормить почву\" image, and its footer reinforces this. Card B introduces a rendering defect by wrapping its deep_dive in <![CDATA[...]]>, which the template (plain <p>/<strong> HTML) does not expect, so the prose risks rendering as literal markup; B also redundantly lists 月 as both right half of 肥 while its 化 note only covers 亻. B's farm-safety/农药 angle is a nice cultural plus, but A is cleaner, equally rich, and ships without a structural flaw.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "坚韧",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards pass the accuracy floor cleanly: identical correct pinyin (jiān rèn), natural meanings, and all Chinese examples are well-formed with matching pinyin and Russian. The deciding edge is richness and accuracy of the breakdown. Card A digs into the actual characters — 韦 (treated leather/strap) and the 刃 phonetic with its blade-dot, all correct and framed as observation, then ties the leather-strap image into a memorable \"bends but doesn't break\" mnemonic that is grounded in the real component. Card B is also excellent and its bamboo image is a genuine, correctly-framed cultural symbol, but its radical section is thinner (omits 刃) and leans on the cultural association rather than the character internals. A is marginally fuller and more precise without padding.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 5
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "精心",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards pass the accuracy floor: pinyin, meanings, and all Chinese examples are well-formed, grammatical, and correctly matched in both. The rice-radical etymology (精 as refined husked rice via 米) is genuine and handled accurately in both. Card A edges ahead on richness and usefulness: its deep_dive ties 精 to a real word family (精华, 精彩) and adds a precise, true contrast with 仔细, while its situations and examples read cleanly. Card B is also strong and warm but slightly miscalibrates 仔细 as \"осторожно\" (it means careful/meticulous, not cautious) and asserts an unverifiable \"freq. rank ~7 000\" as plain fact in the footer.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "精心 — HSK 6 · freq. rank ~7 000"
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "款待",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin (kuǎn dài), meanings, and all Chinese examples are well-formed, grammatical, and matched by pinyin/Russian. The deciding factors are smaller. Card B wraps its deep_dive in a raw <![CDATA[...]]> block, which is not valid card HTML (schema expects <p>/<strong> only) and is a real rendering defect for the web card. Card A is otherwise equally rich — strong 招待 vs 款待 contrast, the genuinely useful note that 款 now usually means \"sum/model,\" correct 彳+寺 breakdown — while keeping every section clean; both frame their etymology/mnemonics properly, so neither is penalized on legend.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "轮胎",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "sonnet",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor cleanly: pinyin lún tāi is correct, all Chinese examples are well-formed with matching pinyin and Russian, and both correctly identify 月 in 胎 as the flesh-radical (肉). Card A edges ahead on richness and usefulness: its deep_dive adds the genuine 爆胎/怀胎/胎儿 web and the vivid \"утроба для колеса\" image, and its examples and footer surface the high-frequency 爆胎 — the single most useful tire-related word on the road. Card B is solid and slightly more polished (note 月→肉 with concrete 脸/肚/脑 examples, the 换胎/补胎 colloquial reductions), but its examples lean more generic and its deep_dive covers a near-identical idea with marginally less spark. Both are honest and the gap is small, so A wins on the extra true, memorable payload.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 5
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "内幕",
+    "source": "hsk2.0-L6",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: well-formed Chinese, correct meanings, and accurate 莫+巾 breakdowns of 幕. The difference is craft. B uses the standard joined pinyin \"nèimù\" throughout, while A renders it \"nèi mù\" with a space (内幕 is a single lexical word, not two syllables) and over-relies on the same 这件事 frame across examples. B's examples are more varied and idiomatic (内幕消息别说出去, 这件事有内幕) and surface the high-frequency collocation 内幕消息 that A omits, while both cover 内幕交易. B's deep_dive is tighter and equally vivid; A's is good but slightly padded with the third 内幕交易 paragraph echoing its situation card. B edges it on usefulness and richness.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "歧视",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin (qíshì/qí shì) is correct and every Chinese example is well-formed with matching pinyin and Russian. A edges ahead on richness — five clean examples, more collocations woven in, and a properly framed mnemonic (\"чтобы запомнить иероглиф 歧, представь развилку дорог\"). B is solid and clean (good 反歧视/受到歧视 collocations) but contains a small structural error in its radical note (\"止 — Низ 歧\"), whereas 止 is the LEFT component of 歧 (歧 = 止 + 支); A correctly places it. That, plus A's slightly fuller deep_dive and mnemonic, tips it to A.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "缺席",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards pass the hard accuracy floor: identical correct pinyin (quē xí), matching meanings, and all Chinese examples are well-formed with pinyin/Russian that line up. The decision turns on the etymology/radical sections, where A is cleaner: it correctly locates 缶 as \"левая часть 缺,\" while B wrongly calls 缶 \"верх и правая часть 缺\" (缶 is the left component, 夬 the right). A also gives a richer, fully-noted four-example set, a vivid mat-and-table image, and an extra true tie-in (缺点). B is still strong and properly frames its legend with \"говорят,\" but has the placement slip plus a stray formatting glitch (\"А缺席\"). A wins narrowly on accuracy of the breakdown and overall polish.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "生存",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin (shēng cún), meanings, and all Chinese examples are well-formed, grammatical, and correctly glossed (A's 适者生存 and B's 生存下来了/野生动物的生存环境 are all natural). The 生存 vs 生活 contrast is handled vividly in both. A edges ahead because its deep_dive carries extra true cultural payload (生存空间, 适者生存 as the Darwinian formula) and is clean HTML, whereas B wraps its deep_dive in a stray <![CDATA[...]]> block that does not match the schema's plain <p>/<strong> expectation and risks rendering as literal text in build.py. That formatting defect, plus B's slightly looser 下来 \"суффикс завершённости\" note, makes A the marginally stronger card.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "思念",
+    "source": "hsk2.0-L6",
+    "winner": "tie",
+    "winnerModel": "tie",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards pass the accuracy floor: pinyin sī niàn is correct, every Chinese example (我很思念你 / 他思念家乡 / 这首歌写的是对母亲的思念, etc.) is grammatical and well-formed, and the Russian and notes match. Card A is slightly more lyrical with a strong 想-vs-思念 contrast and an extra evocative example, while Card B delivers a genuinely correct etymology (思's top was historically 囟/fontanelle before settling visually as 田) plus a true 念 = 今+心 breakdown, with its \"поле сердца\" line properly framed as a mnemonic. Neither card is dry and neither asserts an unframed invented fact, so they are evenly matched on accuracy, usefulness, and richness.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "徒弟",
+    "source": "hsk2.0-L6",
+    "winner": "tie",
+    "winnerModel": "tie",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards share the correct pinyin (tú dì), meaning, and character breakdown, and every Chinese example in both is well-formed, grammatical, and matched by its pinyin and Russian — neither fails the accuracy floor. Card A's deep_dive bundles companion vocabulary cleanly (师傅, 拜师, 师徒) and frames its 拜师 tradition explicitly as legend (\"говорят, по традиции...\"); Card B's deep_dive is equally vivid, leaning into kung-fu cinema and the life-changing 拜师 moment, with the culturally resonant 你愿意做我的徒弟吗 example. Both 彳-as-following etymologies are accurate folk-etymology, and neither card asserts an unframed invented fact. The two are near-indistinguishable in richness, usefulness, and accuracy.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "勿",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: every pinyin tone, meaning, and Chinese example is correct and well-formed (including the classical 勿忘初心 and 己所不欲，勿施于人). The deciding factor is Card B's deep_dive being HTML-escaped (&lt;p&gt; instead of <p>), which renders as literal broken markup and breaks the showcase section — a concrete defect Card A does not have. Both have vivid, properly-framed culture and mnemonics (A's 非礼勿视/three-monkeys thread is especially clean and accurate), so on usefulness and richness they are close, but A delivers a working card while B ships a garbled one. B also tacks on a fabricated-feeling \"~8600\" frequency rank in the footer.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 3,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "刑事",
+    "source": "hsk2.0-L6",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Card A asserts as plain fact that 刑事 alone means \"detective / criminal investigator\" and builds ungrammatical examples on it (他是一名刑事 and the situation line 我是刑事). 刑事 is an adjective (\"criminal/penal\"); a person is 刑警/刑事警察, never bare 刑事 — this is a hard meaning-and-example failure. Card B stays correct (\"уголовный/criminal, penal\"), and every example (这是刑事案件, 他要负刑事责任, 这不是刑事问题, 警察在调查这个刑事案子) is well-formed with matching pinyin and Russian. Both have lively, accurate deep dives contrasting 刑事/民事, but A's accuracy floor breach decides it.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 1,
+        "usefulness": 2,
+        "richness": 4,
+        "legend_culture": 3,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": true,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [
+        "他是一名刑事。 — «Он — детектив (следователь по уголовным делам).»",
+        "我是刑事，请配合调查。 — «Я детектив, прошу содействовать расследованию.»",
+        "刑事 — это прилагательное «уголовный», и одновременно существительное «детектив» (следователь по уголовным делам)."
+      ],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "要点",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "sonnet",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: identical correct pinyin (yào diǎn), matching natural Russian/English meanings, and well-formed, grammatical Chinese examples whose pinyin and Russian align (A's 抓住要点 and 听清楚要点, B's 你说一下要点就行 all read cleanly). The deciding factor is warranted richness: A adds a radical breakdown with mnemonics that are correctly framed as legend (\"народная этимология... легенда спорная\") and an accurate 灬=fire note, plus a sharper 要点/重点 contrast and a fifth idiomatic example. B is solid and correct but leaner, with no radicals and one fewer example; its \"часто можно подставить одно вместо другого\" slightly overstates the interchangeability that A handles more precisely. Neither is dry; A simply offers more genuine, accurate substance.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 3
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "预言",
+    "source": "hsk2.0-L6",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor cleanly: pinyin yù yán is right, every Chinese example is well-formed and grammatical, and the pinyin/Russian match throughout. They are very close in quality. B edges ahead on usefulness and mnemonics: it explicitly ties 预 to a learnable word-family (预习, 预报/天气预报) in both the deep_dive and footer, and frames a clear memory aid (\"Чтобы запомнить, представь...\"). A is also excellent — its 预言 vs 预测 tone contrast is sharp and its oracle-bones story is honestly framed as legend (\"Говорят...\", \"Легенда или история\"). The deciding factor is B's stronger pedagogical payload (word-family transfer + framed mnemonic) without any accuracy cost.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "阵容",
+    "source": "hsk2.0-L6",
+    "winner": "B",
+    "winnerModel": "opus",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards nail the accuracy floor: identical correct pinyin (zhèn róng), correct meaning, and all Chinese examples are well-formed with matching pinyin and Russian. The deciding factor is a hard-fact slip in Card A's deep_dive: it writes \"阵容薄弱 (bówèi)\" — the pinyin for 薄弱 is bóruò, not bówèi — a wrong pinyin asserted in prose. Card B has no such error, is equally vivid and in-voice with a strong framed mnemonic (звёзды выходят как войско в строю), and its 阵 vs 容 radical breakdown is fully accurate. Card A is slightly richer (contrasts 阵型/名单, adds 强大/整齐 collocations), but the pinyin defect tips it to B.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 4,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "主办",
+    "source": "hsk2.0-L6",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin (zhǔ bàn), meanings, and all Chinese examples are well-formed, grammatical, and matched by their pinyin and Russian. The deciding factor is output integrity. Card B wraps its deep_dive in a `<![CDATA[...]]>` block, which violates the schema's \"plain HTML with <p> and <strong> only\" rule and would render literally or break the template — a concrete defect. Card A delivers a clean, valid deep_dive that nicely contrasts 主办 / 举办 / 承办, plus a focused radical note on 力; B's content is comparably rich (slightly more examples, a frequency rank) but the malformed deep_dive tips it to A.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "不能",
+    "source": "freq",
+    "winner": "A",
+    "winnerModel": "sonnet",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards have correct pinyin (bù néng) and clean, grammatical examples that pass the accuracy floor. The decider is the deep_dive tone explanation: Card A correctly notes that 不 stays bù before néng because néng is second tone, with sandhi only before fourth tone. Card B asserts the opposite as plain fact — \"不 перед 能 (а ещё перед 会, 想, 是) — четвёртый тон... звучит bú néng\" — which is wrong (能 is 2nd tone, 想 is 3rd tone; neither triggers 不→bú sandhi). This is a flatly-asserted false hard fact about tones. Card A also gives the more useful and accurate three-way 不能/不会/不可以 contrast.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 4,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 3,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 2,
+        "mnemonics": 3
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": [
+        "Полезный рефлекс: 不 перед 能 (а ещё перед 会, 想, 是) — четвёртый тон, поэтому 不 здесь читается вторым тоном, bú: на слух выходит bú néng. Запись через bù — словарная, в живой речи звучит bú néng."
+      ]
+    }
+  },
+  {
+    "hanzi": "的话",
+    "source": "freq",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards clear the accuracy floor: pinyin \"de huà\" is correct, meanings are natural and right, and every Chinese example is grammatical and matches its pinyin and Russian. A wins on richness and house voice — its deep_dive gives the \"soft if placed at the END of the condition\" feel, the 如果...的话 \"embracing from both sides\" image, the 就 pairing, and a framed mnemonic, all without padding. B is fully correct and clean too, but its deep_dive leans more textbook-flat (\"маркер условия\", \"схема простая\") and is slightly less inspiring. Neither asserts any unframed invented fact.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 4,
+        "mnemonics": 3
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "人数",
+    "source": "freq",
+    "winner": "A",
+    "winnerModel": "sonnet",
+    "aModel": "sonnet",
+    "bModel": "opus",
+    "reasoning": "Both cards clear the accuracy floor: correct pinyin (rén shù), correct meanings, and grammatical, readable Chinese examples with matching pinyin and Russian. Both deep_dives correctly frame the shù (число) / shǔ (считать) tone-and-reading distinction, and neither asserts invented history as fact. Card A edges ahead on usefulness and polish: its examples are uniformly natural and its situations clean, whereas Card B's first situation line \"人数是几个？\" is slightly awkward Mandarin (人数是多少 would be idiomatic) — a minor blemish in a non-example line. Card A's richer two-radical breakdown and the \"人数多/人数少 vs 很多人\" register contrast give it a small richness advantage.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "体制",
+    "source": "freq",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards pass the accuracy floor: pinyin tǐ zhì is correct, every Chinese example is grammatical and matches its pinyin and Russian, and all cultural claims (体制内/外, the 系统 vs 制度 vs 体制 distinctions) are accurate and unframed-but-true rather than invented. A edges ahead on richness: its deep_dive adds the 体制外 counterpart and a clean three-way contrast (系统/制度/体制), plus accurate radical mnemonics, and its footer encodes the same three-way distinction. B is equally accurate with slightly more natural Russian and a sharp 制度-vs-体制 analogy, but covers marginally less ground. Very close; A wins on the extra warranted detail.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 4
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 4
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  },
+  {
+    "hanzi": "安",
+    "source": "freq",
+    "winner": "A",
+    "winnerModel": "opus",
+    "aModel": "opus",
+    "bModel": "sonnet",
+    "reasoning": "Both cards pass the accuracy floor: correct pinyin, correct meanings, and well-formed Chinese examples, and both frame the 宀+女 folk etymology honestly. A edges ahead on usefulness: its examples are cleaner, more high-frequency, and progress simply (晚安 → 安静 → 安全 → 一路平安), all squarely at/below level. B is rich and includes the valuable verbal sense (安排/安慰/安心), but its example 你平安不 is a slightly colloquial yes/no construction that reads less cleanly for a learner, and its pinyin \"ān xīn\" splits a compound. A's deep_dive and footer are equally vivid and well-grounded, tipping a close call to A.",
+    "scores": {
+      "sonnet": {
+        "accuracy": 5,
+        "usefulness": 4,
+        "richness": 5,
+        "legend_culture": 5,
+        "mnemonics": 5
+      },
+      "opus": {
+        "accuracy": 5,
+        "usefulness": 5,
+        "richness": 4,
+        "legend_culture": 5,
+        "mnemonics": 5
+      }
+    },
+    "accuracy_fail": {
+      "sonnet": false,
+      "opus": false
+    },
+    "dry": {
+      "sonnet": false,
+      "opus": false
+    },
+    "false_facts": {
+      "sonnet": [],
+      "opus": []
+    }
+  }
+]
