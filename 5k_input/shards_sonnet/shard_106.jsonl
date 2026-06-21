@@ -1,16 +1,16 @@
-{"hanzi": "领袖", "pinyin": "lǐng xiù", "cedict_en": "leader", "source": "hsk2.0-L6", "freq_rank": 1971}
-{"hanzi": "伶俐", "pinyin": "líng lì", "cedict_en": "clever; witty; intelligent/deft; adroit", "source": "hsk2.0-L6", "freq_rank": null}
-{"hanzi": "溜", "pinyin": "liū", "cedict_en": "to slip away/to escape in stealth/to skate | swift current; rapids/(dialect) (of speech, actions etc) skilled; proficient; (of movements) quick; speedy/(bound form) rain runoff from a roof/(bound form) roof gutter/classifier for rows, lines etc/surroundings; neighborhood/(dialect) to practice/(dialect) to plaster; to fill in the cracks (with cement, lime plaster etc)", "source": "hsk2.0-L6", "freq_rank": 9735}
-{"hanzi": "流浪", "pinyin": "liú làng", "cedict_en": "to drift about/to wander/to roam/nomadic/homeless/unsettled (e.g. population)/vagrant", "source": "hsk2.0-L6", "freq_rank": 8654}
-{"hanzi": "流露", "pinyin": "liú lù", "cedict_en": "to reveal (indirectly, implicitly)/to show (interest, contempt etc) by means of one's actions, tone of voice etc", "source": "hsk2.0-L6", "freq_rank": 21247}
-{"hanzi": "流氓", "pinyin": "liú máng", "cedict_en": "rogue/hoodlum/gangster/immoral behavior", "source": "hsk2.0-L6", "freq_rank": 6713}
-{"hanzi": "流通", "pinyin": "liú tōng", "cedict_en": "to circulate; to distribute/circulation; distribution", "source": "hsk2.0-L6", "freq_rank": 3747}
-{"hanzi": "留恋", "pinyin": "liú liàn", "cedict_en": "reluctant to leave/to hate to have to go/to recall fondly", "source": "hsk2.0-L6", "freq_rank": 23175}
-{"hanzi": "留念", "pinyin": "liú niàn", "cedict_en": "to keep as a souvenir/to recall fondly", "source": "hsk2.0-L6", "freq_rank": 27980}
-{"hanzi": "留神", "pinyin": "liú shén", "cedict_en": "to take care/to be careful", "source": "hsk2.0-L6", "freq_rank": 34485}
-{"hanzi": "笼罩", "pinyin": "lǒng zhào", "cedict_en": "to envelop/to shroud", "source": "hsk2.0-L6", "freq_rank": 10925}
-{"hanzi": "聋哑", "pinyin": "lóng yǎ", "cedict_en": "deaf and nonverbal", "source": "hsk2.0-L6", "freq_rank": null}
-{"hanzi": "隆重", "pinyin": "lóng zhòng", "cedict_en": "grand/prosperous/ceremonious/solemn", "source": "hsk2.0-L6", "freq_rank": 10275}
-{"hanzi": "垄断", "pinyin": "lǒng duàn", "cedict_en": "to monopolize", "source": "hsk2.0-L6", "freq_rank": 3666}
-{"hanzi": "搂", "pinyin": "lōu", "cedict_en": "to draw towards oneself/to gather/to gather up (one's gown, sleeves etc)/to grab (money)/to extort | to hug/to embrace/to hold in one's arms", "source": "hsk2.0-L6", "freq_rank": 13638}
-{"hanzi": "炉灶", "pinyin": "lú zào", "cedict_en": "stove", "source": "hsk2.0-L6", "freq_rank": null}
+{"hanzi": "来到", "pinyin": "lái dào", "cedict_en": "to arrive; to come", "source": "freq", "freq_rank": 1293}
+{"hanzi": "犯罪", "pinyin": "fàn zuì", "cedict_en": "to commit a crime/crime; offense", "source": "freq", "freq_rank": 1296}
+{"hanzi": "联合国", "pinyin": "Lián hé guó", "cedict_en": "United Nations", "source": "freq", "freq_rank": 1300}
+{"hanzi": "著", "pinyin": "zhù", "cedict_en": "to make known/to show/to prove/to write/book/outstanding | used in 執著|执著[zhi2 zhuo2]", "source": "freq", "freq_rank": 1302}
+{"hanzi": "随", "pinyin": "Suí", "cedict_en": "surname Sui | to follow/to comply with/varying according to.../to allow/subsequently", "source": "freq", "freq_rank": 1308}
+{"hanzi": "不得", "pinyin": "bù dé", "cedict_en": "must not/may not/not to be allowed/cannot", "source": "freq", "freq_rank": 1311}
+{"hanzi": "体制", "pinyin": "tǐ zhì", "cedict_en": "system/organization", "source": "freq", "freq_rank": 1314}
+{"hanzi": "值", "pinyin": "zhí", "cedict_en": "value/(to be) worth/to happen to/to be on duty", "source": "freq", "freq_rank": 1315}
+{"hanzi": "单", "pinyin": "Shàn", "cedict_en": "surname Shan | used in 單于|单于[chan2 yu2] | bill/list/form/single/only/sole/odd number/CL:個|个[ge4]", "source": "freq", "freq_rank": 1316}
+{"hanzi": "周", "pinyin": "Zhōu", "cedict_en": "surname Zhou/Zhou Dynasty (1046–256 BC) | to make a circuit/to circle/circle/circumference/lap/cycle/complete/all/all over/thorough/to help financially | week/weekly/variant of 周[zhou1]", "source": "freq", "freq_rank": 1319}
+{"hanzi": "学者", "pinyin": "xué zhě", "cedict_en": "scholar", "source": "freq", "freq_rank": 1321}
+{"hanzi": "度", "pinyin": "dù", "cedict_en": "to pass/to spend (time)/measure/limit/extent/degree of intensity/degree (angles, temperature etc)/kilowatt-hour/classifier for events and occurrences | to estimate/Taiwan pr. [duo4]", "source": "freq", "freq_rank": 1323}
+{"hanzi": "文", "pinyin": "Wén", "cedict_en": "surname Wen | language/culture/writing/formal/literary/gentle/(old) classifier for coins/Kangxi radical 67", "source": "freq", "freq_rank": 1327}
+{"hanzi": "斯", "pinyin": "Sī", "cedict_en": "Slovakia/Slovak/abbr. for 斯洛伐克[Si1 luo4 fa2 ke4] | (phonetic)/this", "source": "freq", "freq_rank": 1328}
+{"hanzi": "电视台", "pinyin": "diàn shì tái", "cedict_en": "television station | variant of 電視台|电视台[dian4 shi4 tai2]", "source": "freq", "freq_rank": 1335}
+{"hanzi": "类型", "pinyin": "lèi xíng", "cedict_en": "type; kind; category/(computer programming) type", "source": "freq", "freq_rank": 1337}

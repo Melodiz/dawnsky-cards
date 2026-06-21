@@ -1,16 +1,16 @@
-{"hanzi": "宁愿", "pinyin": "nìng yuàn", "cedict_en": "would rather ... (than ...)", "source": "hsk2.0-L6", "freq_rank": 5161}
-{"hanzi": "拧", "pinyin": "níng", "cedict_en": "to pinch/wring | mistake/to twist | stubborn", "source": "hsk2.0-L6", "freq_rank": 17056}
-{"hanzi": "凝固", "pinyin": "níng gù", "cedict_en": "to freeze/to solidify/to congeal/fig. with rapt attention", "source": "hsk2.0-L6", "freq_rank": 19599}
-{"hanzi": "凝聚", "pinyin": "níng jù", "cedict_en": "to condense/to coagulate/coacervation (i.e. form tiny droplets)/aggregation/coherent", "source": "hsk2.0-L6", "freq_rank": 7615}
-{"hanzi": "凝视", "pinyin": "níng shì", "cedict_en": "to gaze at/to fix one's eyes on", "source": "hsk2.0-L6", "freq_rank": 21126}
-{"hanzi": "扭转", "pinyin": "niǔ zhuǎn", "cedict_en": "to reverse/to turn around (an undesirable situation)/(mechanics) torsion", "source": "hsk2.0-L6", "freq_rank": 7148}
-{"hanzi": "纽扣儿", "pinyin": "niǔ kòu er", "cedict_en": "", "source": "hsk2.0-L6", "freq_rank": null}
-{"hanzi": "农历", "pinyin": "nóng lì", "cedict_en": "the traditional Chinese calendar/the lunar calendar", "source": "hsk2.0-L6", "freq_rank": 9500}
-{"hanzi": "浓厚", "pinyin": "nóng hòu", "cedict_en": "dense/thick (fog, clouds etc)/to have a strong interest in/deep/fully saturated (color)", "source": "hsk2.0-L6", "freq_rank": 8251}
-{"hanzi": "奴隶", "pinyin": "nú lì", "cedict_en": "slave", "source": "hsk2.0-L6", "freq_rank": 2275}
-{"hanzi": "虐待", "pinyin": "nüè dài", "cedict_en": "to mistreat/to maltreat/to abuse/mistreatment/maltreatment", "source": "hsk2.0-L6", "freq_rank": 4601}
-{"hanzi": "挪", "pinyin": "nuó", "cedict_en": "to shift/to move", "source": "hsk2.0-L6", "freq_rank": 17897}
-{"hanzi": "哦", "pinyin": "é", "cedict_en": "to chant | oh (interjection indicating doubt or surprise) | oh (interjection indicating that one has just learned sth) | sentence-final particle that conveys informality, warmth, friendliness or intimacy/may also indicate that one is stating a fact that the other person is not aware of", "source": "hsk2.0-L6", "freq_rank": 751}
-{"hanzi": "欧洲", "pinyin": "Oū zhōu", "cedict_en": "Europe (abbr. for 歐羅巴洲|欧罗巴洲[Ou1 luo2 ba1 Zhou1])", "source": "hsk2.0-L6", "freq_rank": 546}
-{"hanzi": "殴打", "pinyin": "ōu dǎ", "cedict_en": "to beat up/to come to blows/battery (law)", "source": "hsk2.0-L6", "freq_rank": 6934}
-{"hanzi": "呕吐", "pinyin": "ǒu tù", "cedict_en": "to vomit", "source": "hsk2.0-L6", "freq_rank": 11538}
+{"hanzi": "游行", "pinyin": "yóu xíng", "cedict_en": "to march; to parade; to demonstrate/procession; march; demonstration/to travel around; to roam", "source": "freq", "freq_rank": 1636}
+{"hanzi": "表", "pinyin": "biǎo", "cedict_en": "exterior surface/family relationship via females/to show (one's opinion)/a model/a table (listing information)/a form/a meter (measuring sth) | watch (timepiece)/meter; gauge", "source": "freq", "freq_rank": 1643}
+{"hanzi": "领", "pinyin": "lǐng", "cedict_en": "neck/collar/to lead/to receive/classifier for clothes, mats, screens etc", "source": "freq", "freq_rank": 1644}
+{"hanzi": "领导人", "pinyin": "lǐng dǎo rén", "cedict_en": "leader", "source": "freq", "freq_rank": 1645}
+{"hanzi": "下面", "pinyin": "xià miàn", "cedict_en": "below/under/next/the following/also pr. [xia4 mian5] | to boil noodles", "source": "freq", "freq_rank": 1648}
+{"hanzi": "东方", "pinyin": "Dōng fāng", "cedict_en": "the East; the Orient/two-character surname Dongfang | east", "source": "freq", "freq_rank": 1649}
+{"hanzi": "众多", "pinyin": "zhòng duō", "cedict_en": "numerous", "source": "freq", "freq_rank": 1650}
+{"hanzi": "卫生", "pinyin": "wèi shēng", "cedict_en": "hygienic; sanitary/hygiene; sanitation", "source": "freq", "freq_rank": 1655}
+{"hanzi": "国王", "pinyin": "guó wáng", "cedict_en": "king", "source": "freq", "freq_rank": 1656}
+{"hanzi": "复", "pinyin": "fù", "cedict_en": "to go and return/to return/to resume/to return to a normal or original state/to repeat/again/to recover/to restore/to turn over/to reply/to answer/to reply to a letter/to retaliate/to carry out | to repeat/to double/to overlap/complex (not simple)/compound/composite/double/diplo-/duplicate/overlapping/to duplicate | variant of 復|复[fu4]/to reply to a letter", "source": "freq", "freq_rank": 1657}
+{"hanzi": "少女", "pinyin": "shào nǚ", "cedict_en": "girl/young lady", "source": "freq", "freq_rank": 1661}
+{"hanzi": "建", "pinyin": "jiàn", "cedict_en": "to establish/to found/to set up/to build/to construct", "source": "freq", "freq_rank": 1663}
+{"hanzi": "或是", "pinyin": "huò shì", "cedict_en": "or/either one or the other", "source": "freq", "freq_rank": 1666}
+{"hanzi": "日子", "pinyin": "rì zi", "cedict_en": "day/a (calendar) date/days of one's life", "source": "freq", "freq_rank": 1670}
+{"hanzi": "某些", "pinyin": "mǒu xiē", "cedict_en": "some; certain (things)", "source": "freq", "freq_rank": 1672}
+{"hanzi": "注", "pinyin": "zhù", "cedict_en": "(bound form) to pour into; to flow into; to inject/(bound form) to focus (one's spirit, gaze etc) on a single point; to concentrate/(bound form) stake (in gambling)/classifier for stakes, sums of money, transactions or beams of light/variant of 註|注[zhu4] | to annotate; to provide explanatory notes on a written text/an annotation; an explanatory note/(bound form) to put on record; to register", "source": "freq", "freq_rank": 1675}

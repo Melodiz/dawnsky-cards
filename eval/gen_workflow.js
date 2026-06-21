@@ -15,6 +15,7 @@ const PREFIX = [
   '',
   '== YOUR JOB ==',
   'For EACH word in your shard, generate one JSON card and WRITE it with the Write tool to cards_json/{hanzi}.json (the hanzi exactly as given). Write ONLY the raw JSON object (valid UTF-8, no markdown fences, no commentary). Do NOT run build.py. Do NOT read any other files except your shard. Treat every card independently and hold the quality bar on the last card as firmly as the first.',
+  'CRITICAL — VALID JSON: each file MUST parse as strict JSON. NEVER put a raw unescaped straight double-quote (") inside any string value — that is the #1 cause of broken cards. When you want quotation marks around a quoted word inside text, use full-width Chinese quotes 「 」 or “ ” inside Chinese sentences, and « » inside Russian. Never a straight ASCII " inside a value.',
   '',
   '== SCHEMA ==',
   'Required: hanzi, pinyin, meaning_ru, examples (2-5 items). Also include meaning_en.',

@@ -64,12 +64,13 @@ let A = args
 if (typeof A === 'string') { try { A = JSON.parse(A) } catch (e) { A = {} } }
 A = A || {}
 const samples = (A && A.samples) ? A.samples : []
-log('auditing ' + samples.length + ' sampled cards')
+const model = (A && A.model) ? A.model : 'opus'
+log('auditing ' + samples.length + ' sampled cards with model=' + model)
 
 const verdicts = await parallel(samples.map((w) => () => {
   const gt = 'GROUND-TRUTH INPUT RECORD:\n' + JSON.stringify(w) +
     '\n\nCARD TO AUDIT: read the file cards_json/' + w.hanzi + '.json and verify it.'
-  return agent(PREFIX + '\n\n' + gt, { label: 'audit:' + w.hanzi, phase: 'Verify', agentType: 'claude', schema: VERIFY_SCHEMA })
+  return agent(PREFIX + '\n\n' + gt, { label: 'audit:' + w.hanzi, phase: 'Verify', agentType: 'claude', model, schema: VERIFY_SCHEMA })
 }))
 
 const ok = verdicts.filter(Boolean)

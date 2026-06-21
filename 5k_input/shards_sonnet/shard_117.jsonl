@@ -1,16 +1,16 @@
-{"hanzi": "偏僻", "pinyin": "piān pì", "cedict_en": "remote/desolate/far from the city", "source": "hsk2.0-L6", "freq_rank": 18663}
-{"hanzi": "偏偏", "pinyin": "piān piān", "cedict_en": "(indicating that sth turns out just the opposite of what one would wish) unfortunately; as it happened/(indicating that sth is the opposite of what would be normal or reasonable) stubbornly; contrarily; against reason/(indicating that sb or a group is singled out) precisely; only; of all people", "source": "hsk2.0-L6", "freq_rank": 9818}
-{"hanzi": "片断", "pinyin": "piàn duàn", "cedict_en": "section/fragment/segment", "source": "hsk2.0-L6", "freq_rank": 20031}
-{"hanzi": "片刻", "pinyin": "piàn kè", "cedict_en": "short period of time/a moment", "source": "hsk2.0-L6", "freq_rank": 12984}
-{"hanzi": "飘扬", "pinyin": "piāo yáng", "cedict_en": "to wave/to flutter/to fly", "source": "hsk2.0-L6", "freq_rank": 26653}
-{"hanzi": "漂浮", "pinyin": "piāo fú", "cedict_en": "to float/to hover/to drift (also fig., to lead a wandering life)/to rove/showy/superficial", "source": "hsk2.0-L6", "freq_rank": 16848}
-{"hanzi": "拼搏", "pinyin": "pīn bó", "cedict_en": "to struggle/to wrestle", "source": "hsk2.0-L6", "freq_rank": 16262}
-{"hanzi": "拼命", "pinyin": "pīn mìng", "cedict_en": "to do one's utmost; with all one's might; at all costs; (to work or fight) as if one's life depends on it", "source": "hsk2.0-L6", "freq_rank": 8225}
-{"hanzi": "贫乏", "pinyin": "pín fá", "cedict_en": "impoverished/lacking/deficient/limited/meager/impoverishment/lack/deficiency", "source": "hsk2.0-L6", "freq_rank": 18000}
-{"hanzi": "贫困", "pinyin": "pín kùn", "cedict_en": "impoverished/poverty", "source": "hsk2.0-L6", "freq_rank": 2535}
-{"hanzi": "频繁", "pinyin": "pín fán", "cedict_en": "frequently/often", "source": "hsk2.0-L6", "freq_rank": 4301}
-{"hanzi": "频率", "pinyin": "pín lǜ", "cedict_en": "frequency", "source": "hsk2.0-L6", "freq_rank": 3927}
-{"hanzi": "品尝", "pinyin": "pǐn cháng", "cedict_en": "variant of 品嚐|品尝[pin3 chang2] | to have a taste of; to sample", "source": "hsk2.0-L6", "freq_rank": 10832}
-{"hanzi": "品德", "pinyin": "pǐn dé", "cedict_en": "moral character", "source": "hsk2.0-L6", "freq_rank": 12468}
-{"hanzi": "品行", "pinyin": "pǐn xíng", "cedict_en": "behavior/moral conduct", "source": "hsk2.0-L6", "freq_rank": 25315}
-{"hanzi": "品质", "pinyin": "pǐn zhì", "cedict_en": "character/intrinsic quality (of a person)/quality (of a product or service, or as in \"quality of life\", \"air quality\" etc)", "source": "hsk2.0-L6", "freq_rank": 2558}
+{"hanzi": "城镇", "pinyin": "chéng zhèn", "cedict_en": "town/cities and towns", "source": "freq", "freq_rank": 1760}
+{"hanzi": "多个", "pinyin": "duō ge", "cedict_en": "many/multiple/multi- (faceted, ethnic etc)", "source": "freq", "freq_rank": 1761}
+{"hanzi": "家族", "pinyin": "jiā zú", "cedict_en": "family/clan", "source": "freq", "freq_rank": 1763}
+{"hanzi": "就算", "pinyin": "jiù suàn", "cedict_en": "(coll.) even if", "source": "freq", "freq_rank": 1764}
+{"hanzi": "市长", "pinyin": "shì zhǎng", "cedict_en": "mayor", "source": "freq", "freq_rank": 1765}
+{"hanzi": "海", "pinyin": "Hǎi", "cedict_en": "surname Hai | ocean/sea/CL:個|个[ge4],片[pian4]/great number of people or things/(dialect) numerous", "source": "freq", "freq_rank": 1774}
+{"hanzi": "网页", "pinyin": "wǎng yè", "cedict_en": "web page", "source": "freq", "freq_rank": 1781}
+{"hanzi": "重庆", "pinyin": "Chóng qìng", "cedict_en": "Chongqing municipality (short name 渝[Yu2])", "source": "freq", "freq_rank": 1784}
+{"hanzi": "预测", "pinyin": "yù cè", "cedict_en": "to forecast/to predict", "source": "freq", "freq_rank": 1785}
+{"hanzi": "之外", "pinyin": "zhī wài", "cedict_en": "outside/excluding", "source": "freq", "freq_rank": 1789}
+{"hanzi": "名单", "pinyin": "míng dān", "cedict_en": "list of names", "source": "freq", "freq_rank": 1794}
+{"hanzi": "左", "pinyin": "Zuǒ", "cedict_en": "surname Zuo | left/the Left (politics)/east/unorthodox/queer/wrong/differing/opposite/variant of 佐[zuo3]", "source": "freq", "freq_rank": 1799}
+{"hanzi": "应当", "pinyin": "yīng dāng", "cedict_en": "should; ought to", "source": "freq", "freq_rank": 1801}
+{"hanzi": "当中", "pinyin": "dāng zhōng", "cedict_en": "among/in the middle/in the center", "source": "freq", "freq_rank": 1802}
+{"hanzi": "微信", "pinyin": "Wēi xìn", "cedict_en": "Weixin or WeChat (mobile text and voice messaging service developed by Tencent 騰訊|腾讯[Teng2 xun4])", "source": "freq", "freq_rank": 1803}
+{"hanzi": "江苏", "pinyin": "Jiāng sū", "cedict_en": "see 江蘇省|江苏省[Jiang1 su1 Sheng3]", "source": "freq", "freq_rank": 1808}

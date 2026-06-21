@@ -1,16 +1,16 @@
-{"hanzi": "码头", "pinyin": "mǎ tóu", "cedict_en": "wharf; dock; quay; pier", "source": "hsk2.0-L6", "freq_rank": 3909}
-{"hanzi": "嘛", "pinyin": "má", "cedict_en": "used in 唵嘛呢叭咪吽[an3 ma2 ni2 ba1 mi1 hong1]/(Tw) (coll.) what? | modal particle indicating that sth is obvious/particle indicating a pause for emphasis", "source": "hsk2.0-L6", "freq_rank": 1001}
-{"hanzi": "埋伏", "pinyin": "mái fú", "cedict_en": "to ambush/to lie in wait for/to lie low/ambush", "source": "hsk2.0-L6", "freq_rank": 15442}
-{"hanzi": "埋没", "pinyin": "mái mò", "cedict_en": "to engulf/to bury/to overlook/to stifle/to neglect/to fall into oblivion", "source": "hsk2.0-L6", "freq_rank": 32913}
-{"hanzi": "埋怨", "pinyin": "mán yuàn", "cedict_en": "to complain/to grumble (about)/to reproach/to blame", "source": "hsk2.0-L6", "freq_rank": 14269}
-{"hanzi": "埋葬", "pinyin": "mái zàng", "cedict_en": "to bury", "source": "hsk2.0-L6", "freq_rank": 10169}
-{"hanzi": "迈", "pinyin": "mài", "cedict_en": "to take a step/to stride", "source": "hsk2.0-L6", "freq_rank": 8281}
-{"hanzi": "脉搏", "pinyin": "mài bó", "cedict_en": "pulse (both medical and figurative)", "source": "hsk2.0-L6", "freq_rank": 18268}
-{"hanzi": "慢性", "pinyin": "màn xìng", "cedict_en": "slow and patient/chronic (disease)/slow to take effect (e.g. a slow poison)", "source": "hsk2.0-L6", "freq_rank": 10508}
-{"hanzi": "漫画", "pinyin": "màn huà", "cedict_en": "caricature/cartoon/Japanese manga", "source": "hsk2.0-L6", "freq_rank": 1411}
-{"hanzi": "漫长", "pinyin": "màn cháng", "cedict_en": "very long/endless", "source": "hsk2.0-L6", "freq_rank": 5104}
-{"hanzi": "蔓延", "pinyin": "màn yán", "cedict_en": "to extend/to spread", "source": "hsk2.0-L6", "freq_rank": 8119}
-{"hanzi": "忙碌", "pinyin": "máng lù", "cedict_en": "busy; bustling", "source": "hsk2.0-L6", "freq_rank": 8759}
-{"hanzi": "盲目", "pinyin": "máng mù", "cedict_en": "(fig.) (of one's actions) blind; unthinking", "source": "hsk2.0-L6", "freq_rank": 6721}
-{"hanzi": "茫茫", "pinyin": "máng máng", "cedict_en": "boundless/vast and obscure", "source": "hsk2.0-L6", "freq_rank": 24715}
-{"hanzi": "茫然", "pinyin": "máng rán", "cedict_en": "blankly/vacantly/at a loss", "source": "hsk2.0-L6", "freq_rank": 26598}
+{"hanzi": "警方", "pinyin": "jǐng fāng", "cedict_en": "police", "source": "freq", "freq_rank": 1380}
+{"hanzi": "那种", "pinyin": "nà zhǒng", "cedict_en": "that kind of", "source": "freq", "freq_rank": 1386}
+{"hanzi": "不好", "pinyin": "bù hǎo", "cedict_en": "no good", "source": "freq", "freq_rank": 1390}
+{"hanzi": "伤害", "pinyin": "shāng hài", "cedict_en": "to injure; to harm", "source": "freq", "freq_rank": 1392}
+{"hanzi": "兼", "pinyin": "jiān", "cedict_en": "double/twice/simultaneous/holding two or more (official) posts at the same time", "source": "freq", "freq_rank": 1396}
+{"hanzi": "加上", "pinyin": "jiā shàng", "cedict_en": "plus/to put in/to add/to add on/to add into/in addition/on top of that", "source": "freq", "freq_rank": 1398}
+{"hanzi": "尽", "pinyin": "jǐn", "cedict_en": "to the greatest extent/(when used before a noun of location) furthest or extreme/to be within the limits of/to give priority to | to use up/to exhaust/to end/to finish/to the utmost/exhausted/finished/to the limit (of sth)/all/entirely", "source": "freq", "freq_rank": 1403}
+{"hanzi": "师", "pinyin": "Shī", "cedict_en": "surname Shi | teacher/master/expert/model/army division/(old) troops/to dispatch troops", "source": "freq", "freq_rank": 1404}
+{"hanzi": "投入", "pinyin": "tóu rù", "cedict_en": "to throw into/to put into/to throw oneself into/to participate in/to invest in/absorbed/engrossed", "source": "freq", "freq_rank": 1406}
+{"hanzi": "最佳", "pinyin": "zuì jiā", "cedict_en": "optimum/optimal/peak/best (athlete, movie etc)", "source": "freq", "freq_rank": 1407}
+{"hanzi": "村", "pinyin": "cūn", "cedict_en": "village/(dialect) to scold/rustic; boorish | variant of 村[cun1]", "source": "freq", "freq_rank": 1408}
+{"hanzi": "案", "pinyin": "àn", "cedict_en": "(legal) case/incident/record/file/table", "source": "freq", "freq_rank": 1409}
+{"hanzi": "法规", "pinyin": "fǎ guī", "cedict_en": "legislation/statute", "source": "freq", "freq_rank": 1410}
+{"hanzi": "人人", "pinyin": "rén rén", "cedict_en": "everyone/every person", "source": "freq", "freq_rank": 1423}
+{"hanzi": "化", "pinyin": "huā", "cedict_en": "variant of 花[hua1] | to make into/to change into/-ization/to ... -ize/to transform/abbr. for 化學|化学[hua4 xue2]", "source": "freq", "freq_rank": 1425}
+{"hanzi": "尔", "pinyin": "ěr", "cedict_en": "variant of 爾|尔[er3] | thus/so/like that/you/thou", "source": "freq", "freq_rank": 1427}
