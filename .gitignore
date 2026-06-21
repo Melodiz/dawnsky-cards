@@ -2,3 +2,5 @@
 **.md
 tmp_visual/
 .claude/launch.json
+__pycache__/
+*.pyc

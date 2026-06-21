@@ -80,8 +80,29 @@ def load_json(path):
 # taboo, etymology stories, sound-alike superstitions...) — length and section
 # counts alone just select the most padded cards.
 
-POOL_SIZE = 200
+POOL_SIZE = 120
 TEASER_CAP = 120
+
+# Hand-curated word-of-the-day picks — slang, colloquial, vivid idioms, cultural
+# gems. These are guaranteed into the pool (if a card exists) and placed first,
+# so the daily word leans toward the genuinely interesting end of the lexicon.
+# Non-existent entries are silently skipped.
+CURATED_INTERESTING = [
+    # slang / colloquial / vivid single chars
+    "贼", "牛", "坑", "卷", "渣", "舔", "拽", "靠", "草", "跪", "滚", "骂", "撕", "揍", "掰",
+    "帅", "笨", "穷", "醉", "臭", "傻", "火", "黄", "狼", "猪", "躺", "摸", "顶", "香",
+    # colloquial / slang multi-char
+    "他妈的", "啪啪啪", "受罪", "出息", "任性", "卑鄙", "啰唆",
+    # advanced idioms (chengyu) — vivid imagery / a story behind them
+    "画蛇添足", "拔苗助长", "莫名其妙", "恍然大悟", "滔滔不绝", "一丝不苟", "斩钉截铁",
+    "理直气壮", "苦尽甘来", "雪上加霜", "津津有味", "小心翼翼", "咬牙切齿", "肆无忌惮",
+    "优胜劣汰", "潜移默化", "络绎不绝", "热泪盈眶", "爱不释手", "任重道远", "微不足道",
+    "无微不至", "岂有此理", "川流不息", "知足常乐", "自力更生", "见义勇为", "饱经沧桑",
+    "无理取闹", "无精打采", "东张西望", "兴高采烈", "博大精深", "不择手段", "得不偿失",
+    "恰到好处", "想方设法", "无可奈何",
+    # cultural / vivid nouns
+    "茉莉花茶", "糖醋里脊", "土豆", "俗话", "风土人情", "夜市", "红包", "饺子",
+]
 
 STORY_STEMS = [
     "несчастлив", "счастлив", "сленг", "ругатель", "грубо", "груб ", "мата",
@@ -151,16 +172,37 @@ def card_interest_score(data):
 
 
 def build_interesting_pool(cards):
-    """Top POOL_SIZE cards by interest score → [{hanzi, teaser}]."""
+    """Curated picks first, then top auto-scored cards, up to POOL_SIZE.
+
+    -> [{hanzi, teaser}]. The curated list (CURATED_INTERESTING) is guaranteed in
+    and placed at the front; the remaining slots are filled by interest score.
+    """
+    cardset = set(cards)
     scored = []
+    teaser_by = {}
     for hanzi in cards:
         json_path = JSON_DIR / f"{hanzi}.json"
         if not json_path.exists():
             continue
         data = load_json(json_path)
-        scored.append((card_interest_score(data), hanzi, card_teaser(data)))
+        teaser = card_teaser(data)
+        teaser_by[hanzi] = teaser
+        scored.append((card_interest_score(data), hanzi, teaser))
     scored.sort(key=lambda x: -x[0])
-    return [{"hanzi": h, "teaser": t} for _, h, t in scored[:POOL_SIZE]]
+
+    pool, seen = [], set()
+    for hanzi in CURATED_INTERESTING:
+        if hanzi in cardset and hanzi in teaser_by and hanzi not in seen:
+            pool.append({"hanzi": hanzi, "teaser": teaser_by[hanzi]})
+            seen.add(hanzi)
+    for _, hanzi, teaser in scored:
+        if len(pool) >= POOL_SIZE:
+            break
+        if hanzi in seen:
+            continue
+        pool.append({"hanzi": hanzi, "teaser": teaser})
+        seen.add(hanzi)
+    return pool
 
 
 def render_card(env, data):
