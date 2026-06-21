@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#03050e">
-<title>DawnSky 霏昊 · выбор слов для импорта</title>
+<title>DawnSky 霏昊 · select words for import</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
 
@@ -39,21 +39,17 @@
   }
   .container { max-width: 760px; margin: 0 auto; }
 
-  /* === INTRO === */
-  .intro { padding: 2.2rem 0 1.1rem; }
-  .intro-label {
-    font-size: 0.6rem; font-weight: 600; text-transform: uppercase;
-    letter-spacing: 0.22em; color: var(--cool); margin-bottom: 0.5rem;
-  }
+  /* === INTRO (compact) === */
+  .intro { padding: 1.5rem 0 0.6rem; }
   .intro-title {
     font-family: 'Noto Serif SC', serif; font-weight: 900;
-    font-size: 2rem; color: var(--ink); margin-bottom: 0.55rem;
+    font-size: 1.45rem; color: var(--ink); margin-bottom: 0.35rem;
   }
-  .intro-text { font-size: 0.85rem; color: var(--soft); max-width: 34rem; line-height: 1.55; }
-  .intro-text code { color: var(--accent); font-family: 'DM Sans', sans-serif; }
-  .intro-back { display: inline-block; margin-top: 0.7rem; font-size: 0.72rem; color: var(--muted); text-decoration: none; }
+  .intro-text { font-size: 0.8rem; color: var(--soft); max-width: 38rem; line-height: 1.5; }
+  .intro-text strong { color: var(--accent); font-weight: 600; }
+  .intro-back { display: inline-block; margin-top: 0.5rem; font-size: 0.72rem; color: var(--muted); text-decoration: none; }
   .intro-back:hover { color: var(--accent); }
-  .hero-bar { height: 1px; background: linear-gradient(90deg, var(--accent) 0%, var(--cool) 70%, transparent 100%); opacity: 0.25; }
+  .hero-bar { height: 1px; background: linear-gradient(90deg, var(--accent) 0%, var(--cool) 70%, transparent 100%); opacity: 0.25; margin-top: 0.9rem; }
 
   /* === HEADER === */
   .sticky-header {
@@ -127,7 +123,16 @@
 
   .word-hz { font-family: 'Noto Serif SC', serif; font-size: 1.12rem; font-weight: 700; color: var(--accent); min-width: 2.9rem; flex-shrink: 0; }
   .word-py { font-family: var(--serif); font-style: italic; font-size: 0.84rem; color: var(--muted); min-width: 4.2rem; flex-shrink: 0; }
-  .word-ru { font-size: 0.76rem; color: var(--soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+  .word-ru { font-size: 0.76rem; color: var(--soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; flex: 1; }
+
+  .word-peek {
+    flex-shrink: 0; width: 1.4rem; height: 1.4rem; border: none; background: none;
+    color: var(--muted); cursor: pointer; opacity: 0; font-size: 0.9rem; line-height: 1;
+    transition: opacity 0.15s, color 0.15s; -webkit-tap-highlight-color: transparent;
+  }
+  .word-row:hover .word-peek { opacity: 0.6; }
+  .word-peek:hover { color: var(--accent); opacity: 1; }
+  @media (hover: none) { .word-peek { opacity: 0.4; } }
 
   .empty { text-align: center; font-family: var(--serif); font-style: italic; color: var(--muted); padding: 4rem 0; font-size: 1.05rem; }
   .footer { text-align: center; font-size: 0.65rem; color: var(--muted); margin-top: 3rem; opacity: 0.7; }
@@ -178,12 +183,28 @@
   .review-cmd code { font-family: 'DM Sans', sans-serif; font-size: 0.78rem; color: var(--soft); word-break: break-all; line-height: 1.55; }
   .review-foot { display: flex; gap: 0.6rem; justify-content: space-between; align-items: center; }
 
+  /* === CARD PREVIEW MODAL === */
+  .card-overlay { position: fixed; inset: 0; z-index: 60; background: rgba(0,0,0,0.62); backdrop-filter: blur(3px); display: none; align-items: center; justify-content: center; padding: 1rem; }
+  .card-overlay.open { display: flex; }
+  .card-modal {
+    width: min(460px, 94vw); height: min(82vh, 820px); background: #03050e;
+    border: 1px solid var(--divider); border-radius: 16px; overflow: hidden;
+    display: flex; flex-direction: column; box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+  }
+  .card-modal-head { display: flex; align-items: center; gap: 0.6rem; padding: 0.55rem 0.7rem 0.55rem 0.7rem; border-bottom: 1px solid var(--divider); }
+  .cm-add { margin-right: auto; }
+  .cm-open { font-size: 0.7rem; color: var(--muted); text-decoration: none; white-space: nowrap; }
+  .cm-open:hover { color: var(--accent); }
+  .card-close { background: none; border: none; color: var(--muted); font-size: 1.4rem; cursor: pointer; line-height: 1; padding: 0 0.2rem; }
+  .card-close:hover { color: var(--ink); }
+  .card-frame { flex: 1; width: 100%; border: none; background: #03050e; }
+
   /* === TOAST === */
   .toast {
     position: fixed; left: 50%; bottom: 5.3rem; transform: translateX(-50%) translateY(10px);
     background: rgba(10,14,26,0.96); border: 1px solid var(--divider); color: var(--ink);
     font-size: 0.75rem; padding: 0.42rem 0.95rem; border-radius: 999px;
-    opacity: 0; pointer-events: none; transition: opacity 0.2s, transform 0.2s; z-index: 50; white-space: nowrap;
+    opacity: 0; pointer-events: none; transition: opacity 0.2s, transform 0.2s; z-index: 70; white-space: nowrap;
   }
   .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 
@@ -192,7 +213,7 @@
     .rail { display: none; }
     .brand { display: none; }
     .cbtn { padding: 0.4rem 0.7rem; font-size: 0.66rem; }
-    .intro-title { font-size: 1.6rem; }
+    .intro-title { font-size: 1.3rem; }
   }
 </style>
 </head>
@@ -200,28 +221,27 @@
 <div class="container">
 
   <div class="intro">
-    <div class="intro-label">выбор слов</div>
-    <h1 class="intro-title">Выбрать слова для импорта</h1>
-    <p class="intro-text">Нажимай на слова — они складываются в корзину. Когда соберёшь нужные, нажми <code>Скопировать /import</code> и отправь команду боту. Выбор сохраняется сам, а случайный клик легко отменить — ничего не потеряется.</p>
-    <a class="intro-back" href="../">← весь словарь</a>
+    <h1 class="intro-title">Select words for import</h1>
+    <p class="intro-text">Tap words to drop them into your cart, then hit <strong>Copy /import</strong> and send the command to the bot. Your selection is saved automatically — a stray tap is easy to undo.</p>
+    <a class="intro-back" href="../">← back to the dictionary</a>
   </div>
   <div class="hero-bar"></div>
 
   <div class="sticky-header">
     <div class="search-row">
       <div class="brand">DawnSky <span>霏昊</span></div>
-      <input type="text" class="search-input" id="search" placeholder="pinyin, значение, 汉字…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      <input type="text" class="search-input" id="search" placeholder="pinyin, meaning, 汉字…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
       <span class="word-count" id="count"></span>
     </div>
     <div class="view-toggle" id="view-toggle">
-      <button class="vt-btn active" data-view="alpha">по алфавиту</button>
-      <button class="vt-btn" data-view="hsk">по HSK</button>
-      <span class="vt-hint">нажми на слово, чтобы выбрать</span>
+      <button class="vt-btn active" data-view="alpha">A–Z</button>
+      <button class="vt-btn" data-view="hsk">HSK</button>
+      <span class="vt-hint">tap a word to add it</span>
     </div>
   </div>
 
   <div id="list"></div>
-  <div class="footer">DawnSky 霏昊 · выбор слов для импорта</div>
+  <div class="footer">DawnSky 霏昊 · word picker</div>
 </div>
 
 <nav class="rail" id="rail"></nav>
@@ -230,8 +250,8 @@
   <div class="cart-inner">
     <div class="cart-info" id="cart-info"></div>
     <div class="cart-actions">
-      <button class="cbtn" id="cart-review" disabled>Корзина</button>
-      <button class="cbtn primary" id="cart-copy" disabled>Скопировать /import</button>
+      <button class="cbtn" id="cart-review" disabled>Cart</button>
+      <button class="cbtn primary" id="cart-copy" disabled>Copy /import</button>
     </div>
   </div>
 </div>
@@ -239,18 +259,29 @@
 <div class="review-overlay" id="review-overlay">
   <div class="review-panel">
     <div class="review-head">
-      <div class="review-title" id="review-title">Корзина</div>
-      <button class="review-close" id="review-close" aria-label="закрыть">×</button>
+      <div class="review-title" id="review-title">Cart</div>
+      <button class="review-close" id="review-close" aria-label="close">×</button>
     </div>
     <div class="review-list" id="review-list"></div>
     <div id="review-cmd-wrap">
-      <div class="review-cmd-label">команда для импорта</div>
+      <div class="review-cmd-label">import command</div>
       <div class="review-cmd"><code id="review-cmd-text"></code></div>
     </div>
     <div class="review-foot">
-      <button class="cbtn" id="review-clear">Очистить всё</button>
-      <button class="cbtn primary" id="review-copy">Скопировать команду</button>
+      <button class="cbtn" id="review-clear">Clear all</button>
+      <button class="cbtn primary" id="review-copy">Copy command</button>
     </div>
+  </div>
+</div>
+
+<div class="card-overlay" id="card-overlay">
+  <div class="card-modal">
+    <div class="card-modal-head">
+      <button class="cbtn cm-add" id="cm-add"></button>
+      <a class="cm-open" id="cm-open" target="_blank" rel="noopener">open in new tab ↗</a>
+      <button class="card-close" id="card-close" aria-label="close">×</button>
+    </div>
+    <iframe class="card-frame" id="card-frame" title="card preview" loading="lazy"></iframe>
   </div>
 </div>
 
@@ -269,19 +300,13 @@
   var byHanzi = {};
   for (var i = 0; i < WORDS.length; i++) byHanzi[WORDS[i].hanzi] = WORDS[i];
 
-  function plural(n, one, few, many) {
-    var m10 = n % 10, m100 = n % 100;
-    if (m10 === 1 && m100 !== 11) return one;
-    if (m10 >= 2 && m10 <= 4 && (m100 < 12 || m100 > 14)) return few;
-    return many;
-  }
-  function nWords(n) { return n + ' ' + plural(n, 'слово', 'слова', 'слов'); }
+  function nWords(n) { return n + ' ' + (n === 1 ? 'word' : 'words'); }
 
   /* ---------- cart ---------- */
   var CART_KEY = 'dawnsky-cart';
   var cart = [];
   try { var raw = localStorage.getItem(CART_KEY); if (raw) cart = JSON.parse(raw) || []; } catch (e) {}
-  cart = cart.filter(function (h) { return byHanzi[h]; });   // drop anything no longer in the library
+  cart = cart.filter(function (h) { return byHanzi[h]; });
   var inCart = {};
   function rebuildIndex() { inCart = {}; for (var i = 0; i < cart.length; i++) inCart[cart[i]] = true; }
   rebuildIndex();
@@ -289,26 +314,19 @@
 
   function addWord(h) { if (byHanzi[h] && !inCart[h]) { cart.push(h); inCart[h] = true; return true; } return false; }
   function removeWord(h) { if (inCart[h]) { cart = cart.filter(function (x) { return x !== h; }); delete inCart[h]; return true; } return false; }
+  function setRowState(h, on) { var r = listEl.querySelector('.word-row[data-hz="' + h + '"]'); if (r) r.classList.toggle('selected', on); }
 
-  function setRowState(h, on) {
-    var r = listEl.querySelector('.word-row[data-hz="' + h + '"]');
-    if (r) r.classList.toggle('selected', on);
-  }
-
-  /* ---------- list rendering (selectable rows) ---------- */
-  function letterOf(w) {
-    var c = (w.pinyin_search || '#').charAt(0).toLowerCase();
-    return (c >= 'a' && c <= 'z') ? c : '#';
-  }
+  /* ---------- list rendering ---------- */
+  function letterOf(w) { var c = (w.pinyin_search || '#').charAt(0).toLowerCase(); return (c >= 'a' && c <= 'z') ? c : '#'; }
   function rowHtml(w) {
     return '<div class="word-row' + (inCart[w.hanzi] ? ' selected' : '') + '" data-hz="' + w.hanzi + '">'
          + '<span class="word-check"></span>'
          + '<span class="word-hz">' + w.hanzi + '</span>'
          + '<span class="word-py">' + w.pinyin + '</span>'
          + '<span class="word-ru">' + w.meaning_ru + '</span>'
+         + '<button class="word-peek" title="preview card" aria-label="preview card">↗</button>'
          + '</div>';
   }
-
   function sectionHtml(label, id, items) {
     var rows = '';
     for (var j = 0; j < items.length; j++) rows += rowHtml(items[j]);
@@ -322,8 +340,7 @@
     var html = '', letters = [], current = null, buf = [];
     function flush(letter) {
       if (!buf.length) return;
-      var id = letter;
-      html += sectionHtml(letter, id, buf);
+      html += sectionHtml(letter, letter, buf);
       letters.push({ l: letter, n: buf.length });
       buf = [];
     }
@@ -341,7 +358,7 @@
   }
 
   var HSK_ORDER = [1, 2, 3, 4, 5, 6, 0];
-  var HSK_LABEL = { 1: 'HSK 1', 2: 'HSK 2', 3: 'HSK 3', 4: 'HSK 4', 5: 'HSK 5', 6: 'HSK 6', 0: 'частотные' };
+  var HSK_LABEL = { 1: 'HSK 1', 2: 'HSK 2', 3: 'HSK 3', 4: 'HSK 4', 5: 'HSK 5', 6: 'HSK 6', 0: 'frequency' };
   var HSK_RAIL = { 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 0: '·' };
 
   function renderGroupedByHsk() {
@@ -364,10 +381,10 @@
 
   function renderResults(items) {
     railEl.style.display = 'none';
-    if (!items.length) { listEl.innerHTML = '<div class="empty">ничего не нашлось</div>'; countEl.textContent = '0 / ' + WORDS.length; return; }
+    if (!items.length) { listEl.innerHTML = '<div class="empty">nothing found</div>'; countEl.textContent = '0 / ' + WORDS.length; return; }
     var rows = '';
     for (var i = 0; i < items.length; i++) rows += rowHtml(items[i]);
-    listEl.innerHTML = '<div class="letter-section" id="sec-results"><div class="letter-head"><span class="letter">найдено</span>'
+    listEl.innerHTML = '<div class="letter-section" id="sec-results"><div class="letter-head"><span class="letter">found</span>'
       + '<span class="line"></span><span class="stat">' + nWords(items.length) + '</span></div><div class="cols">' + rows + '</div></div>';
     countEl.textContent = items.length + ' / ' + WORDS.length;
   }
@@ -388,8 +405,10 @@
     for (var i = 0; i < btns.length; i++) btns[i].addEventListener('click', function () { setView(this.getAttribute('data-view')); });
   })();
 
-  /* ---------- list interactions (toggle + add all) ---------- */
+  /* ---------- list interactions (preview + toggle) ---------- */
   listEl.addEventListener('click', function (e) {
+    var peek = e.target.closest('.word-peek');
+    if (peek) { var pr = peek.closest('.word-row'); if (pr) openCard(pr.getAttribute('data-hz')); return; }
     var row = e.target.closest('.word-row');
     if (!row) return;
     var h = row.getAttribute('data-hz');
@@ -415,7 +434,11 @@
   searchEl.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(doSearch, 150); });
   document.addEventListener('keydown', function (e) {
     if (e.key === '/' && document.activeElement !== searchEl) { e.preventDefault(); searchEl.focus(); }
-    if (e.key === 'Escape') { if (overlay.classList.contains('open')) closeReview(); else if (document.activeElement === searchEl) { searchEl.value = ''; doSearch(); } }
+    if (e.key === 'Escape') {
+      if (cardOverlay.classList.contains('open')) closeCard();
+      else if (overlay.classList.contains('open')) closeReview();
+      else if (document.activeElement === searchEl) { searchEl.value = ''; doSearch(); }
+    }
   });
 
   /* ---------- cart bar ---------- */
@@ -423,16 +446,15 @@
   var infoEl = document.getElementById('cart-info');
   var reviewBtn = document.getElementById('cart-review');
   var copyBtn = document.getElementById('cart-copy');
-
   function importCommand() { return '/import ' + cart.join(' '); }
-
   function updateCart() {
     var n = cart.length, empty = n === 0;
     bar.classList.toggle('empty', empty);
     reviewBtn.disabled = empty; copyBtn.disabled = empty;
-    if (empty) infoEl.innerHTML = 'корзина пуста — нажми на слово';
-    else infoEl.innerHTML = '<span class="cart-count">' + n + '</span> ' + plural(n, 'слово', 'слова', 'слов') + ' в корзине';
+    if (empty) infoEl.textContent = 'cart empty — tap a word to add it';
+    else infoEl.innerHTML = '<span class="cart-count">' + n + '</span> ' + (n === 1 ? 'word' : 'words') + ' in cart';
     if (overlay.classList.contains('open')) renderReview();
+    if (cardOverlay.classList.contains('open')) syncCardAddBtn();
   }
 
   /* ---------- clipboard ---------- */
@@ -445,7 +467,7 @@
   }
   function copyCart() {
     if (!cart.length) return;
-    copyText(importCommand()).then(function () { flashToast('скопировано · ' + nWords(cart.length)); }).catch(function () { flashToast('не удалось скопировать'); });
+    copyText(importCommand()).then(function () { flashToast('copied · ' + nWords(cart.length)); }).catch(function () { flashToast('copy failed'); });
   }
   copyBtn.addEventListener('click', copyCart);
 
@@ -459,52 +481,72 @@
   var reviewCopyBtn = document.getElementById('review-copy');
 
   function renderReview() {
-    reviewTitle.textContent = 'Корзина (' + cart.length + ')';
+    reviewTitle.textContent = 'Cart (' + cart.length + ')';
     if (!cart.length) {
-      reviewList.innerHTML = '<div class="review-empty">пусто — выбери слова из словаря</div>';
-      reviewCmdWrap.style.display = 'none';
-      reviewCopyBtn.disabled = true;
-      return;
+      reviewList.innerHTML = '<div class="review-empty">empty — pick words from the dictionary</div>';
+      reviewCmdWrap.style.display = 'none'; reviewCopyBtn.disabled = true; return;
     }
-    reviewCmdWrap.style.display = '';
-    reviewCopyBtn.disabled = false;
+    reviewCmdWrap.style.display = ''; reviewCopyBtn.disabled = false;
     var html = '';
     for (var i = 0; i < cart.length; i++) {
       var w = byHanzi[cart[i]];
       html += '<span class="chip"><span class="chip-hz">' + w.hanzi + '</span><span class="chip-py">' + w.pinyin + '</span>'
-            + '<button class="chip-x" data-hz="' + w.hanzi + '" title="убрать">×</button></span>';
+            + '<button class="chip-x" data-hz="' + w.hanzi + '" title="remove">×</button></span>';
     }
     reviewList.innerHTML = html;
     reviewCmd.textContent = importCommand();
   }
   function openReview() { renderReview(); overlay.classList.add('open'); resetClear(); }
   function closeReview() { overlay.classList.remove('open'); resetClear(); }
-
   reviewBtn.addEventListener('click', openReview);
   document.getElementById('review-close').addEventListener('click', closeReview);
   overlay.addEventListener('click', function (e) { if (e.target === overlay) closeReview(); });
   reviewCopyBtn.addEventListener('click', copyCart);
-
   reviewList.addEventListener('click', function (e) {
-    var x = e.target.closest('.chip-x');
-    if (!x) return;
-    var h = x.getAttribute('data-hz');
-    removeWord(h); setRowState(h, false); persist(); updateCart();
+    var x = e.target.closest('.chip-x'); if (!x) return;
+    var h = x.getAttribute('data-hz'); removeWord(h); setRowState(h, false); persist(); updateCart();
   });
 
-  /* two-step clear: first click arms, second within 3s clears */
   var armed = false, armTimer = null;
-  function resetClear() { armed = false; clearTimeout(armTimer); clearBtn.classList.remove('danger-armed'); clearBtn.textContent = 'Очистить всё'; }
+  function resetClear() { armed = false; clearTimeout(armTimer); clearBtn.classList.remove('danger-armed'); clearBtn.textContent = 'Clear all'; }
   clearBtn.addEventListener('click', function () {
     if (!cart.length) return;
-    if (!armed) {
-      armed = true; clearBtn.classList.add('danger-armed'); clearBtn.textContent = 'Точно очистить?';
-      armTimer = setTimeout(resetClear, 3000);
-      return;
-    }
+    if (!armed) { armed = true; clearBtn.classList.add('danger-armed'); clearBtn.textContent = 'Tap again to clear'; armTimer = setTimeout(resetClear, 3000); return; }
     var rows = listEl.querySelectorAll('.word-row.selected');
     for (var i = 0; i < rows.length; i++) rows[i].classList.remove('selected');
-    cart = []; inCart = {}; persist(); updateCart(); resetClear(); flashToast('корзина очищена');
+    cart = []; inCart = {}; persist(); updateCart(); resetClear(); flashToast('cart cleared');
+  });
+
+  /* ---------- card preview modal ---------- */
+  var cardOverlay = document.getElementById('card-overlay');
+  var cardFrame = document.getElementById('card-frame');
+  var cardClose = document.getElementById('card-close');
+  var cmAdd = document.getElementById('cm-add');
+  var cmOpen = document.getElementById('cm-open');
+  var previewHz = null;
+
+  function syncCardAddBtn() {
+    if (!previewHz) return;
+    var on = inCart[previewHz];
+    cmAdd.textContent = on ? 'Remove from cart' : 'Add to cart';
+    cmAdd.classList.toggle('primary', !on);
+  }
+  function openCard(h) {
+    if (!byHanzi[h]) return;
+    previewHz = h;
+    var href = '../cards/' + encodeURIComponent(h) + '.html';
+    cardFrame.src = href; cmOpen.href = href;
+    syncCardAddBtn();
+    cardOverlay.classList.add('open');
+  }
+  function closeCard() { cardOverlay.classList.remove('open'); cardFrame.src = 'about:blank'; previewHz = null; }
+  cardClose.addEventListener('click', closeCard);
+  cardOverlay.addEventListener('click', function (e) { if (e.target === cardOverlay) closeCard(); });
+  cmAdd.addEventListener('click', function () {
+    if (!previewHz) return;
+    if (inCart[previewHz]) { removeWord(previewHz); setRowState(previewHz, false); }
+    else { addWord(previewHz); setRowState(previewHz, true); }
+    persist(); updateCart(); syncCardAddBtn();
   });
 
   /* ---------- toast ---------- */
