@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#03050e">
+<title>DawnSky 霏昊 · выбор слов для импорта</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+  :root {
+    --bg: #03050e;
+    --card: rgba(140,168,200,0.045);
+    --ink: #e4dcc8;
+    --soft: #c4b5a3;
+    --accent: #d89888;
+    --cool: #8ca8c8;
+    --muted: #6e7588;
+    --divider: rgba(140,168,200,0.11);
+    --danger: #c98b8b;
+    --serif: 'Cormorant Garamond', serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    background-image:
+      radial-gradient(ellipse at 70% 5%, rgba(216,152,136,0.10) 0%, transparent 42%),
+      radial-gradient(ellipse at 10% 95%, rgba(140,168,200,0.07) 0%, transparent 55%);
+    background-attachment: fixed;
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+    padding: 0 1.25rem 6rem;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 760px; margin: 0 auto; }
+
+  /* === INTRO === */
+  .intro { padding: 2.2rem 0 1.1rem; }
+  .intro-label {
+    font-size: 0.6rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.22em; color: var(--cool); margin-bottom: 0.5rem;
+  }
+  .intro-title {
+    font-family: 'Noto Serif SC', serif; font-weight: 900;
+    font-size: 2rem; color: var(--ink); margin-bottom: 0.55rem;
+  }
+  .intro-text { font-size: 0.85rem; color: var(--soft); max-width: 34rem; line-height: 1.55; }
+  .intro-text code { color: var(--accent); font-family: 'DM Sans', sans-serif; }
+  .intro-back { display: inline-block; margin-top: 0.7rem; font-size: 0.72rem; color: var(--muted); text-decoration: none; }
+  .intro-back:hover { color: var(--accent); }
+  .hero-bar { height: 1px; background: linear-gradient(90deg, var(--accent) 0%, var(--cool) 70%, transparent 100%); opacity: 0.25; }
+
+  /* === HEADER === */
+  .sticky-header {
+    position: sticky; top: 0; z-index: 10;
+    background: rgba(3,5,14,0.85);
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    padding: 0.9rem 0 0.7rem;
+  }
+  .search-row { display: flex; align-items: center; gap: 0.9rem; }
+  .brand { font-family: 'Noto Serif SC', serif; font-weight: 900; font-size: 1.05rem; white-space: nowrap; }
+  .brand span { color: var(--accent); }
+  .search-input {
+    flex: 1; background: transparent; border: none; border-bottom: 1px solid var(--divider);
+    color: var(--ink); font-family: 'DM Sans', sans-serif; font-size: 16px;
+    padding: 0.45rem 0; outline: none; transition: border-color 0.25s;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-input:focus { border-bottom-color: var(--accent); }
+  .word-count { font-size: 0.72rem; color: var(--muted); white-space: nowrap; font-family: var(--serif); font-style: italic; }
+
+  /* === VIEW TOGGLE === */
+  .view-toggle { display: flex; gap: 0.4rem; margin-top: 0.6rem; align-items: center; }
+  .vt-btn {
+    background: none; border: 1px solid var(--divider); border-radius: 999px; color: var(--muted);
+    font-family: 'DM Sans', sans-serif; font-size: 0.64rem; letter-spacing: 0.04em;
+    padding: 0.2rem 0.8rem; cursor: pointer; transition: border-color 0.2s, color 0.2s, background 0.2s;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .vt-btn:hover { color: var(--soft); border-color: rgba(140,168,200,0.3); }
+  .vt-btn.active { color: var(--accent); border-color: rgba(216,152,136,0.5); background: rgba(216,152,136,0.06); }
+  .vt-hint { margin-left: auto; font-size: 0.64rem; color: var(--muted); font-style: italic; font-family: var(--serif); white-space: nowrap; }
+
+  /* === RAIL === */
+  .rail { position: fixed; right: 0.6rem; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; gap: 0.05rem; z-index: 20; }
+  .rail a {
+    font-family: var(--serif); font-style: italic; font-size: 0.72rem; line-height: 1.35;
+    color: var(--muted); text-decoration: none; text-align: center; width: 1.5rem; border-radius: 6px;
+    transition: color 0.18s, background 0.18s, transform 0.18s;
+  }
+  .rail a:hover { color: var(--accent); background: rgba(216,152,136,0.08); transform: scale(1.25); }
+
+  /* === LIST === */
+  .letter-section { margin-top: 1.6rem; scroll-margin-top: 4.2rem; }
+  .letter-head { display: flex; align-items: baseline; gap: 0.9rem; margin-bottom: 0.4rem; }
+  .letter-head .letter { font-family: var(--serif); font-style: italic; font-weight: 300; font-size: 1.9rem; line-height: 1; color: var(--cool); opacity: 0.7; }
+  .letter-head .line { flex: 1; height: 1px; background: linear-gradient(90deg, var(--cool), transparent 80%); opacity: 0.18; }
+  .letter-head .stat { font-family: var(--serif); font-style: italic; font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+
+  .cols { columns: 2; column-gap: 2.2rem; }
+
+  .word-row {
+    display: flex; align-items: center; gap: 0.55rem;
+    padding: 0.34rem 0.4rem; margin: 0 -0.4rem; border-radius: 8px;
+    break-inside: avoid; cursor: pointer; user-select: none; -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent; transition: background 0.15s;
+  }
+  .word-row:hover { background: var(--card); }
+  .word-row.selected { background: rgba(216,152,136,0.07); }
+
+  .word-check {
+    width: 1.05rem; height: 1.05rem; border-radius: 50%;
+    border: 1.5px solid var(--divider); flex-shrink: 0; position: relative;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .word-row:hover .word-check { border-color: var(--cool); }
+  .word-row.selected .word-check { background: var(--accent); border-color: var(--accent); }
+  .word-row.selected .word-check::after {
+    content: ''; position: absolute; left: 0.34rem; top: 0.14rem;
+    width: 0.22rem; height: 0.44rem; border: solid #03050e; border-width: 0 2px 2px 0; transform: rotate(45deg);
+  }
+
+  .word-hz { font-family: 'Noto Serif SC', serif; font-size: 1.12rem; font-weight: 700; color: var(--accent); min-width: 2.9rem; flex-shrink: 0; }
+  .word-py { font-family: var(--serif); font-style: italic; font-size: 0.84rem; color: var(--muted); min-width: 4.2rem; flex-shrink: 0; }
+  .word-ru { font-size: 0.76rem; color: var(--soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+
+  .empty { text-align: center; font-family: var(--serif); font-style: italic; color: var(--muted); padding: 4rem 0; font-size: 1.05rem; }
+  .footer { text-align: center; font-size: 0.65rem; color: var(--muted); margin-top: 3rem; opacity: 0.7; }
+
+  /* === CART BAR === */
+  .cart-bar {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 30;
+    background: rgba(3,5,14,0.93); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+    border-top: 1px solid var(--divider); padding: 0.7rem 1.25rem;
+  }
+  .cart-inner { max-width: 760px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+  .cart-info { font-size: 0.8rem; color: var(--soft); display: flex; align-items: center; gap: 0.5rem; min-width: 0; }
+  .cart-count { font-weight: 700; color: var(--accent); }
+  .cart-bar.empty .cart-info { color: var(--muted); }
+  .cart-actions { display: flex; gap: 0.5rem; flex-shrink: 0; }
+  .cbtn {
+    background: none; border: 1px solid var(--divider); border-radius: 999px; color: var(--soft);
+    font-family: 'DM Sans', sans-serif; font-size: 0.7rem; padding: 0.38rem 0.95rem; cursor: pointer;
+    transition: border-color 0.2s, color 0.2s, background 0.2s; -webkit-tap-highlight-color: transparent; white-space: nowrap;
+  }
+  .cbtn:hover:not(:disabled) { border-color: var(--cool); color: var(--ink); }
+  .cbtn.primary { border-color: rgba(216,152,136,0.5); color: var(--accent); background: rgba(216,152,136,0.08); }
+  .cbtn.primary:hover:not(:disabled) { background: rgba(216,152,136,0.16); }
+  .cbtn:disabled { opacity: 0.35; cursor: default; }
+  .cbtn.danger-armed { border-color: var(--danger); color: var(--danger); background: rgba(201,139,139,0.1); }
+
+  /* === REVIEW PANEL === */
+  .review-overlay { position: fixed; inset: 0; z-index: 40; background: rgba(0,0,0,0.55); backdrop-filter: blur(3px); display: none; align-items: flex-end; justify-content: center; }
+  .review-overlay.open { display: flex; }
+  .review-panel {
+    background: #080b16; border: 1px solid var(--divider); border-radius: 18px 18px 0 0;
+    width: 100%; max-width: 600px; max-height: 82vh; display: flex; flex-direction: column; padding: 1.2rem 1.25rem 1.3rem;
+  }
+  @media (min-width: 640px) { .review-overlay { align-items: center; } .review-panel { border-radius: 18px; } }
+  .review-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.7rem; }
+  .review-title { font-family: var(--serif); font-style: italic; font-size: 1.45rem; color: var(--ink); }
+  .review-close { background: none; border: none; color: var(--muted); font-size: 1.5rem; cursor: pointer; line-height: 1; padding: 0 0.3rem; }
+  .review-close:hover { color: var(--ink); }
+  .review-list { overflow-y: auto; display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 0.1rem 0 0.9rem; }
+  .chip { display: inline-flex; align-items: center; gap: 0.4rem; background: var(--card); border: 1px solid var(--divider); border-radius: 999px; padding: 0.22rem 0.3rem 0.22rem 0.7rem; font-size: 0.8rem; }
+  .chip .chip-hz { font-family: 'Noto Serif SC', serif; color: var(--accent); font-weight: 700; }
+  .chip .chip-py { color: var(--muted); font-style: italic; font-family: var(--serif); font-size: 0.76rem; }
+  .chip .chip-x { width: 1.25rem; height: 1.25rem; border-radius: 50%; border: none; background: rgba(140,168,200,0.12); color: var(--soft); cursor: pointer; font-size: 0.85rem; line-height: 1; display: flex; align-items: center; justify-content: center; }
+  .chip .chip-x:hover { background: rgba(216,152,136,0.25); color: var(--ink); }
+  .review-empty { color: var(--muted); font-style: italic; font-family: var(--serif); padding: 1.8rem 0; text-align: center; }
+  .review-cmd-label { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.14em; color: var(--cool); margin-bottom: 0.35rem; }
+  .review-cmd { background: rgba(140,168,200,0.06); border: 1px solid var(--divider); border-radius: 10px; padding: 0.65rem 0.8rem; margin-bottom: 0.9rem; max-height: 6.5rem; overflow-y: auto; }
+  .review-cmd code { font-family: 'DM Sans', sans-serif; font-size: 0.78rem; color: var(--soft); word-break: break-all; line-height: 1.55; }
+  .review-foot { display: flex; gap: 0.6rem; justify-content: space-between; align-items: center; }
+
+  /* === TOAST === */
+  .toast {
+    position: fixed; left: 50%; bottom: 5.3rem; transform: translateX(-50%) translateY(10px);
+    background: rgba(10,14,26,0.96); border: 1px solid var(--divider); color: var(--ink);
+    font-size: 0.75rem; padding: 0.42rem 0.95rem; border-radius: 999px;
+    opacity: 0; pointer-events: none; transition: opacity 0.2s, transform 0.2s; z-index: 50; white-space: nowrap;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  @media (max-width: 640px) {
+    .cols { columns: 1; }
+    .rail { display: none; }
+    .brand { display: none; }
+    .cbtn { padding: 0.4rem 0.7rem; font-size: 0.66rem; }
+    .intro-title { font-size: 1.6rem; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="intro">
+    <div class="intro-label">выбор слов</div>
+    <h1 class="intro-title">Выбрать слова для импорта</h1>
+    <p class="intro-text">Нажимай на слова — они складываются в корзину. Когда соберёшь нужные, нажми <code>Скопировать /import</code> и отправь команду боту. Выбор сохраняется сам, а случайный клик легко отменить — ничего не потеряется.</p>
+    <a class="intro-back" href="../">← весь словарь</a>
+  </div>
+  <div class="hero-bar"></div>
+
+  <div class="sticky-header">
+    <div class="search-row">
+      <div class="brand">DawnSky <span>霏昊</span></div>
+      <input type="text" class="search-input" id="search" placeholder="pinyin, значение, 汉字…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      <span class="word-count" id="count"></span>
+    </div>
+    <div class="view-toggle" id="view-toggle">
+      <button class="vt-btn active" data-view="alpha">по алфавиту</button>
+      <button class="vt-btn" data-view="hsk">по HSK</button>
+      <span class="vt-hint">нажми на слово, чтобы выбрать</span>
+    </div>
+  </div>
+
+  <div id="list"></div>
+  <div class="footer">DawnSky 霏昊 · выбор слов для импорта</div>
+</div>
+
+<nav class="rail" id="rail"></nav>
+
+<div class="cart-bar empty" id="cart-bar">
+  <div class="cart-inner">
+    <div class="cart-info" id="cart-info"></div>
+    <div class="cart-actions">
+      <button class="cbtn" id="cart-review" disabled>Корзина</button>
+      <button class="cbtn primary" id="cart-copy" disabled>Скопировать /import</button>
+    </div>
+  </div>
+</div>
+
+<div class="review-overlay" id="review-overlay">
+  <div class="review-panel">
+    <div class="review-head">
+      <div class="review-title" id="review-title">Корзина</div>
+      <button class="review-close" id="review-close" aria-label="закрыть">×</button>
+    </div>
+    <div class="review-list" id="review-list"></div>
+    <div id="review-cmd-wrap">
+      <div class="review-cmd-label">команда для импорта</div>
+      <div class="review-cmd"><code id="review-cmd-text"></code></div>
+    </div>
+    <div class="review-foot">
+      <button class="cbtn" id="review-clear">Очистить всё</button>
+      <button class="cbtn primary" id="review-copy">Скопировать команду</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script>
+(function() {
+  var WORDS = __WORDS_JSON__;
+
+  var listEl = document.getElementById('list');
+  var countEl = document.getElementById('count');
+  var searchEl = document.getElementById('search');
+  var railEl = document.getElementById('rail');
+
+  var byHanzi = {};
+  for (var i = 0; i < WORDS.length; i++) byHanzi[WORDS[i].hanzi] = WORDS[i];
+
+  function plural(n, one, few, many) {
+    var m10 = n % 10, m100 = n % 100;
+    if (m10 === 1 && m100 !== 11) return one;
+    if (m10 >= 2 && m10 <= 4 && (m100 < 12 || m100 > 14)) return few;
+    return many;
+  }
+  function nWords(n) { return n + ' ' + plural(n, 'слово', 'слова', 'слов'); }
+
+  /* ---------- cart ---------- */
+  var CART_KEY = 'dawnsky-cart';
+  var cart = [];
+  try { var raw = localStorage.getItem(CART_KEY); if (raw) cart = JSON.parse(raw) || []; } catch (e) {}
+  cart = cart.filter(function (h) { return byHanzi[h]; });   // drop anything no longer in the library
+  var inCart = {};
+  function rebuildIndex() { inCart = {}; for (var i = 0; i < cart.length; i++) inCart[cart[i]] = true; }
+  rebuildIndex();
+  function persist() { try { localStorage.setItem(CART_KEY, JSON.stringify(cart)); } catch (e) {} }
+
+  function addWord(h) { if (byHanzi[h] && !inCart[h]) { cart.push(h); inCart[h] = true; return true; } return false; }
+  function removeWord(h) { if (inCart[h]) { cart = cart.filter(function (x) { return x !== h; }); delete inCart[h]; return true; } return false; }
+
+  function setRowState(h, on) {
+    var r = listEl.querySelector('.word-row[data-hz="' + h + '"]');
+    if (r) r.classList.toggle('selected', on);
+  }
+
+  /* ---------- list rendering (selectable rows) ---------- */
+  function letterOf(w) {
+    var c = (w.pinyin_search || '#').charAt(0).toLowerCase();
+    return (c >= 'a' && c <= 'z') ? c : '#';
+  }
+  function rowHtml(w) {
+    return '<div class="word-row' + (inCart[w.hanzi] ? ' selected' : '') + '" data-hz="' + w.hanzi + '">'
+         + '<span class="word-check"></span>'
+         + '<span class="word-hz">' + w.hanzi + '</span>'
+         + '<span class="word-py">' + w.pinyin + '</span>'
+         + '<span class="word-ru">' + w.meaning_ru + '</span>'
+         + '</div>';
+  }
+
+  function sectionHtml(label, id, items) {
+    var rows = '';
+    for (var j = 0; j < items.length; j++) rows += rowHtml(items[j]);
+    return '<div class="letter-section" id="sec-' + id + '">'
+         + '<div class="letter-head"><span class="letter">' + label + '</span>'
+         + '<span class="line"></span><span class="stat">' + nWords(items.length) + '</span></div>'
+         + '<div class="cols">' + rows + '</div></div>';
+  }
+
+  function renderGrouped() {
+    var html = '', letters = [], current = null, buf = [];
+    function flush(letter) {
+      if (!buf.length) return;
+      var id = letter;
+      html += sectionHtml(letter, id, buf);
+      letters.push({ l: letter, n: buf.length });
+      buf = [];
+    }
+    for (var i = 0; i < WORDS.length; i++) {
+      var l = letterOf(WORDS[i]);
+      if (l !== current) { flush(current); current = l; }
+      buf.push(WORDS[i]);
+    }
+    flush(current);
+    listEl.innerHTML = html;
+    countEl.textContent = nWords(WORDS.length);
+    var rh = '';
+    for (var k = 0; k < letters.length; k++) rh += '<a href="#sec-' + letters[k].l + '" title="' + nWords(letters[k].n) + '">' + letters[k].l + '</a>';
+    railEl.innerHTML = rh; railEl.style.display = '';
+  }
+
+  var HSK_ORDER = [1, 2, 3, 4, 5, 6, 0];
+  var HSK_LABEL = { 1: 'HSK 1', 2: 'HSK 2', 3: 'HSK 3', 4: 'HSK 4', 5: 'HSK 5', 6: 'HSK 6', 0: 'частотные' };
+  var HSK_RAIL = { 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 0: '·' };
+
+  function renderGroupedByHsk() {
+    var buckets = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 0: [] };
+    for (var i = 0; i < WORDS.length; i++) { var h = WORDS[i].hsk; if (!buckets[h]) h = 0; buckets[h].push(WORDS[i]); }
+    var html = '', anchors = [];
+    for (var k = 0; k < HSK_ORDER.length; k++) {
+      var lvl = HSK_ORDER[k], arr = buckets[lvl];
+      if (!arr.length) continue;
+      var id = 'hsk-' + lvl;
+      html += sectionHtml(HSK_LABEL[lvl], id, arr);
+      anchors.push({ rail: HSK_RAIL[lvl], id: id, n: arr.length, label: HSK_LABEL[lvl] });
+    }
+    listEl.innerHTML = html;
+    countEl.textContent = nWords(WORDS.length);
+    var rh = '';
+    for (var a = 0; a < anchors.length; a++) rh += '<a href="#sec-' + anchors[a].id + '" title="' + anchors[a].label + ' · ' + nWords(anchors[a].n) + '">' + anchors[a].rail + '</a>';
+    railEl.innerHTML = rh; railEl.style.display = '';
+  }
+
+  function renderResults(items) {
+    railEl.style.display = 'none';
+    if (!items.length) { listEl.innerHTML = '<div class="empty">ничего не нашлось</div>'; countEl.textContent = '0 / ' + WORDS.length; return; }
+    var rows = '';
+    for (var i = 0; i < items.length; i++) rows += rowHtml(items[i]);
+    listEl.innerHTML = '<div class="letter-section" id="sec-results"><div class="letter-head"><span class="letter">найдено</span>'
+      + '<span class="line"></span><span class="stat">' + nWords(items.length) + '</span></div><div class="cols">' + rows + '</div></div>';
+    countEl.textContent = items.length + ' / ' + WORDS.length;
+  }
+
+  /* ---------- view switching ---------- */
+  var currentView = 'alpha';
+  try { var sv = localStorage.getItem('dawnsky-view'); if (sv === 'hsk' || sv === 'alpha') currentView = sv; } catch (e) {}
+  function renderCurrent() { if (currentView === 'hsk') renderGroupedByHsk(); else renderGrouped(); }
+  function setView(view) {
+    currentView = (view === 'hsk') ? 'hsk' : 'alpha';
+    try { localStorage.setItem('dawnsky-view', currentView); } catch (e) {}
+    var btns = document.querySelectorAll('.vt-btn');
+    for (var i = 0; i < btns.length; i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-view') === currentView);
+    if (!searchEl.value.trim()) renderCurrent();
+  }
+  (function () {
+    var btns = document.querySelectorAll('.vt-btn');
+    for (var i = 0; i < btns.length; i++) btns[i].addEventListener('click', function () { setView(this.getAttribute('data-view')); });
+  })();
+
+  /* ---------- list interactions (toggle + add all) ---------- */
+  listEl.addEventListener('click', function (e) {
+    var row = e.target.closest('.word-row');
+    if (!row) return;
+    var h = row.getAttribute('data-hz');
+    if (inCart[h]) { removeWord(h); row.classList.remove('selected'); }
+    else { addWord(h); row.classList.add('selected'); }
+    persist(); updateCart();
+  });
+
+  /* ---------- search ---------- */
+  var fuse = new Fuse(WORDS, {
+    keys: [ { name: 'pinyin_search', weight: 0.4 }, { name: 'pinyin', weight: 0.2 }, { name: 'hanzi', weight: 0.2 }, { name: 'meaning_ru', weight: 0.15 }, { name: 'meaning_en', weight: 0.05 } ],
+    threshold: 0.4, distance: 100, includeScore: true, minMatchCharLength: 1
+  });
+  function stripTones(s) { return s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ü/g, 'v').replace(/Ü/g, 'V').toLowerCase(); }
+  function doSearch() {
+    var q = searchEl.value.trim();
+    if (!q) { renderCurrent(); return; }
+    var res = fuse.search(stripTones(q)), items = [];
+    for (var i = 0; i < res.length; i++) items.push(res[i].item);
+    renderResults(items);
+  }
+  var timer = null;
+  searchEl.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(doSearch, 150); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && document.activeElement !== searchEl) { e.preventDefault(); searchEl.focus(); }
+    if (e.key === 'Escape') { if (overlay.classList.contains('open')) closeReview(); else if (document.activeElement === searchEl) { searchEl.value = ''; doSearch(); } }
+  });
+
+  /* ---------- cart bar ---------- */
+  var bar = document.getElementById('cart-bar');
+  var infoEl = document.getElementById('cart-info');
+  var reviewBtn = document.getElementById('cart-review');
+  var copyBtn = document.getElementById('cart-copy');
+
+  function importCommand() { return '/import ' + cart.join(' '); }
+
+  function updateCart() {
+    var n = cart.length, empty = n === 0;
+    bar.classList.toggle('empty', empty);
+    reviewBtn.disabled = empty; copyBtn.disabled = empty;
+    if (empty) infoEl.innerHTML = 'корзина пуста — нажми на слово';
+    else infoEl.innerHTML = '<span class="cart-count">' + n + '</span> ' + plural(n, 'слово', 'слова', 'слов') + ' в корзине';
+    if (overlay.classList.contains('open')) renderReview();
+  }
+
+  /* ---------- clipboard ---------- */
+  function copyText(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) return navigator.clipboard.writeText(text);
+    return new Promise(function (resolve, reject) {
+      try { var ta = document.createElement('textarea'); ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); resolve(); }
+      catch (err) { reject(err); }
+    });
+  }
+  function copyCart() {
+    if (!cart.length) return;
+    copyText(importCommand()).then(function () { flashToast('скопировано · ' + nWords(cart.length)); }).catch(function () { flashToast('не удалось скопировать'); });
+  }
+  copyBtn.addEventListener('click', copyCart);
+
+  /* ---------- review panel ---------- */
+  var overlay = document.getElementById('review-overlay');
+  var reviewList = document.getElementById('review-list');
+  var reviewTitle = document.getElementById('review-title');
+  var reviewCmd = document.getElementById('review-cmd-text');
+  var reviewCmdWrap = document.getElementById('review-cmd-wrap');
+  var clearBtn = document.getElementById('review-clear');
+  var reviewCopyBtn = document.getElementById('review-copy');
+
+  function renderReview() {
+    reviewTitle.textContent = 'Корзина (' + cart.length + ')';
+    if (!cart.length) {
+      reviewList.innerHTML = '<div class="review-empty">пусто — выбери слова из словаря</div>';
+      reviewCmdWrap.style.display = 'none';
+      reviewCopyBtn.disabled = true;
+      return;
+    }
+    reviewCmdWrap.style.display = '';
+    reviewCopyBtn.disabled = false;
+    var html = '';
+    for (var i = 0; i < cart.length; i++) {
+      var w = byHanzi[cart[i]];
+      html += '<span class="chip"><span class="chip-hz">' + w.hanzi + '</span><span class="chip-py">' + w.pinyin + '</span>'
+            + '<button class="chip-x" data-hz="' + w.hanzi + '" title="убрать">×</button></span>';
+    }
+    reviewList.innerHTML = html;
+    reviewCmd.textContent = importCommand();
+  }
+  function openReview() { renderReview(); overlay.classList.add('open'); resetClear(); }
+  function closeReview() { overlay.classList.remove('open'); resetClear(); }
+
+  reviewBtn.addEventListener('click', openReview);
+  document.getElementById('review-close').addEventListener('click', closeReview);
+  overlay.addEventListener('click', function (e) { if (e.target === overlay) closeReview(); });
+  reviewCopyBtn.addEventListener('click', copyCart);
+
+  reviewList.addEventListener('click', function (e) {
+    var x = e.target.closest('.chip-x');
+    if (!x) return;
+    var h = x.getAttribute('data-hz');
+    removeWord(h); setRowState(h, false); persist(); updateCart();
+  });
+
+  /* two-step clear: first click arms, second within 3s clears */
+  var armed = false, armTimer = null;
+  function resetClear() { armed = false; clearTimeout(armTimer); clearBtn.classList.remove('danger-armed'); clearBtn.textContent = 'Очистить всё'; }
+  clearBtn.addEventListener('click', function () {
+    if (!cart.length) return;
+    if (!armed) {
+      armed = true; clearBtn.classList.add('danger-armed'); clearBtn.textContent = 'Точно очистить?';
+      armTimer = setTimeout(resetClear, 3000);
+      return;
+    }
+    var rows = listEl.querySelectorAll('.word-row.selected');
+    for (var i = 0; i < rows.length; i++) rows[i].classList.remove('selected');
+    cart = []; inCart = {}; persist(); updateCart(); resetClear(); flashToast('корзина очищена');
+  });
+
+  /* ---------- toast ---------- */
+  var toastEl = document.getElementById('toast'), toastTimer = null;
+  function flashToast(msg) { toastEl.textContent = msg; toastEl.classList.add('show'); clearTimeout(toastTimer); toastTimer = setTimeout(function () { toastEl.classList.remove('show'); }, 1500); }
+
+  /* ---------- init ---------- */
+  updateCart();
+  setView(currentView);
+})();
+</script>
+</body>
+</html>

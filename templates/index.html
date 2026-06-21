@@ -215,6 +215,16 @@
     border-color: rgba(216,152,136,0.5);
     background: rgba(216,152,136,0.06);
   }
+  .vt-link {
+    margin-left: auto;
+    align-self: center;
+    font-size: 0.66rem;
+    color: var(--cool);
+    text-decoration: none;
+    white-space: nowrap;
+    transition: color 0.2s;
+  }
+  .vt-link:hover { color: var(--accent); }
 
   /* === ALPHABET RAIL === */
   .rail {
@@ -375,6 +385,7 @@
     <div class="view-toggle" id="view-toggle">
       <button class="vt-btn active" data-view="alpha">по алфавиту</button>
       <button class="vt-btn" data-view="hsk">по HSK</button>
+      <a class="vt-link" href="picker/">слова для импорта →</a>
     </div>
   </div>
 

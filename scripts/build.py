@@ -48,6 +48,7 @@ HTML_DIR = ROOT / "cards"
 TEMPLATE_FILE = "template.html"
 MANIFEST_FILE = ROOT / "manifest.json"
 INDEX_FILE = ROOT / "index.html"
+PICKER_FILE = ROOT / "picker" / "index.html"
 
 BASE_URL = "https://melodiz.github.io/dawnsky-cards"
 CARDS_PATH = "cards"
@@ -240,8 +241,8 @@ def build_manifest():
     return cards
 
 
-def build_index(cards):
-    """Generate index.html — master page with sticky search bar and fuzzy search."""
+def collect_entries(cards):
+    """Build the sorted word-list entries shared by index.html and picker/."""
     entries = []
     for hanzi in cards:
         json_path = JSON_DIR / f"{hanzi}.json"
@@ -269,6 +270,13 @@ def build_index(cards):
         })
 
     entries.sort(key=lambda e: e["pinyin_search"])
+    return entries
+
+
+def build_index(cards, entries=None):
+    """Generate index.html — master page with sticky search bar and fuzzy search."""
+    if entries is None:
+        entries = collect_entries(cards)
     words_json = json.dumps(entries, ensure_ascii=False)
 
     pool = build_interesting_pool(cards)
@@ -286,6 +294,24 @@ def build_index(cards):
     print(f"  index.html: {len(cards)} entries")
 
 
+def build_picker(cards, entries=None):
+    """Generate picker/index.html — select words into a cart, export an /import command."""
+    if entries is None:
+        entries = collect_entries(cards)
+    words_json = json.dumps(entries, ensure_ascii=False)
+
+    template = (ROOT / "templates" / "picker.html").read_text(encoding="utf-8")
+    html = (template
+            .replace("__COUNT__", str(len(cards)))
+            .replace("__WORDS_JSON__", words_json))
+
+    PICKER_FILE.parent.mkdir(exist_ok=True)
+    with open(PICKER_FILE, "w", encoding="utf-8") as f:
+        f.write(html)
+
+    print(f"  picker/index.html: {len(cards)} entries")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build DawnSky word cards")
     parser.add_argument("--only", nargs="*", help="Build only specific cards (by hanzi)")
@@ -296,7 +322,9 @@ def main():
 
     if args.manifest:
         cards = build_manifest()
-        build_index(cards)
+        entries = collect_entries(cards)
+        build_index(cards, entries)
+        build_picker(cards, entries)
         return
 
     # Set up Jinja2
@@ -335,10 +363,12 @@ def main():
             errors.append(f"  ✗ {json_path.name}: {e}")
             print(errors[-1])
 
-    # Rebuild manifest + index
+    # Rebuild manifest + index + picker
     print("\nRebuilding manifest + index...")
     cards = build_manifest()
-    build_index(cards)
+    entries = collect_entries(cards)
+    build_index(cards, entries)
+    build_picker(cards, entries)
 
     if errors:
         print(f"\n{len(errors)} error(s):")
