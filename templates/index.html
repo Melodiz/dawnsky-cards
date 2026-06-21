@@ -194,6 +194,28 @@
     font-style: italic;
   }
 
+  /* === VIEW TOGGLE === */
+  .view-toggle { display: flex; gap: 0.4rem; margin-top: 0.6rem; }
+  .vt-btn {
+    background: none;
+    border: 1px solid var(--divider);
+    border-radius: 999px;
+    color: var(--muted);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.64rem;
+    letter-spacing: 0.04em;
+    padding: 0.2rem 0.8rem;
+    cursor: pointer;
+    transition: border-color 0.2s, color 0.2s, background 0.2s;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .vt-btn:hover { color: var(--soft); border-color: rgba(140,168,200,0.3); }
+  .vt-btn.active {
+    color: var(--accent);
+    border-color: rgba(216,152,136,0.5);
+    background: rgba(216,152,136,0.06);
+  }
+
   /* === ALPHABET RAIL === */
   .rail {
     position: fixed;
@@ -350,6 +372,10 @@
       <input type="text" class="search-input" id="search" placeholder="pinyin, значение, 汉字…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
       <span class="word-count" id="count"></span>
     </div>
+    <div class="view-toggle" id="view-toggle">
+      <button class="vt-btn active" data-view="alpha">по алфавиту</button>
+      <button class="vt-btn" data-view="hsk">по HSK</button>
+    </div>
   </div>
 
   <div id="list"></div>
@@ -464,6 +490,70 @@
     railEl.style.display = '';
   }
 
+  /* --- grouped by HSK level --- */
+  var HSK_ORDER = [1, 2, 3, 4, 5, 6, 0];
+  var HSK_LABEL = { 1: 'HSK 1', 2: 'HSK 2', 3: 'HSK 3', 4: 'HSK 4', 5: 'HSK 5', 6: 'HSK 6', 0: 'частотные' };
+  var HSK_RAIL = { 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 0: '·' };
+
+  function renderGroupedByHsk() {
+    var buckets = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 0: [] };
+    for (var i = 0; i < WORDS.length; i++) {
+      var h = WORDS[i].hsk;
+      if (!buckets[h]) h = 0;
+      buckets[h].push(WORDS[i]);
+    }
+
+    var html = '', anchors = [];
+    for (var k = 0; k < HSK_ORDER.length; k++) {
+      var lvl = HSK_ORDER[k], arr = buckets[lvl];
+      if (!arr.length) continue;
+      var rows = '';
+      for (var j = 0; j < arr.length; j++) rows += rowHtml(arr[j]);
+      var id = 'hsk-' + lvl;
+      html += '<div class="letter-section" id="sec-' + id + '">'
+            + '<div class="letter-head"><span class="letter">' + HSK_LABEL[lvl] + '</span>'
+            + '<span class="line"></span><span class="stat">' + nWords(arr.length) + '</span></div>'
+            + '<div class="cols">' + rows + '</div></div>';
+      anchors.push({ rail: HSK_RAIL[lvl], id: id, n: arr.length, label: HSK_LABEL[lvl] });
+    }
+
+    listEl.innerHTML = html;
+    countEl.textContent = nWords(WORDS.length);
+
+    var railHtml = '';
+    for (var a = 0; a < anchors.length; a++) {
+      railHtml += '<a href="#sec-' + anchors[a].id + '" title="' + anchors[a].label + ' · ' + nWords(anchors[a].n) + '">' + anchors[a].rail + '</a>';
+    }
+    railEl.innerHTML = railHtml;
+    railEl.style.display = '';
+  }
+
+  /* --- view switching (alpha | hsk) --- */
+  var currentView = 'alpha';
+  try { var saved = localStorage.getItem('dawnsky-view'); if (saved === 'hsk' || saved === 'alpha') currentView = saved; } catch (e) {}
+
+  function renderCurrent() {
+    if (currentView === 'hsk') renderGroupedByHsk();
+    else renderGrouped();
+  }
+
+  function setView(view) {
+    currentView = (view === 'hsk') ? 'hsk' : 'alpha';
+    try { localStorage.setItem('dawnsky-view', currentView); } catch (e) {}
+    var btns = document.querySelectorAll('.vt-btn');
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].classList.toggle('active', btns[i].getAttribute('data-view') === currentView);
+    }
+    if (!searchEl.value.trim()) renderCurrent();
+  }
+
+  (function () {
+    var btns = document.querySelectorAll('.vt-btn');
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener('click', function () { setView(this.getAttribute('data-view')); });
+    }
+  })();
+
   function renderResults(items) {
     railEl.style.display = 'none';
     if (!items.length) {
@@ -499,7 +589,7 @@
 
   function doSearch() {
     var q = searchEl.value.trim();
-    if (!q) { renderGrouped(); return; }
+    if (!q) { renderCurrent(); return; }
     var results = fuse.search(stripTones(q));
     var items = [];
     for (var i = 0; i < results.length; i++) items.push(results[i].item);
@@ -519,7 +609,7 @@
     }
   });
 
-  renderGrouped();
+  setView(currentView);
 })();
 </script>
 </body>

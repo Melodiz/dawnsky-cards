@@ -31,6 +31,17 @@ def strip_tones(s):
     return stripped.replace('ü', 'v').replace('Ü', 'V').lower()
 
 
+HSK_LVL_RE = re.compile(r'hsk\s*2\.0-L([1-6])', re.I)
+HSK_FALLBACK_RE = re.compile(r'\bHSK\s*([1-6])\b', re.I)
+
+
+def extract_hsk(data):
+    """Best-effort HSK level (1-6) from footer_note; 0 for frequency / unlevelled words."""
+    fn = data.get("footer_note", "") or ""
+    m = HSK_LVL_RE.search(fn) or HSK_FALLBACK_RE.search(fn)
+    return int(m.group(1)) if m else 0
+
+
 ROOT = Path(__file__).resolve().parent.parent
 JSON_DIR = ROOT / "cards_json"
 HTML_DIR = ROOT / "cards"
@@ -197,10 +208,12 @@ def build_index(cards):
             pinyin = data["pinyin"]
             meaning_ru = data["meaning_ru"]
             meaning_en = data.get("meaning_en", "")
+            hsk = extract_hsk(data)
         else:
             pinyin = ""
             meaning_ru = ""
             meaning_en = ""
+            hsk = 0
 
         url = f"{CARDS_PATH}/{quote(hanzi)}.html"
         entries.append({
@@ -209,6 +222,7 @@ def build_index(cards):
             "pinyin_search": strip_tones(pinyin),
             "meaning_ru": meaning_ru,
             "meaning_en": meaning_en,
+            "hsk": hsk,
             "url": url,
         })
 
