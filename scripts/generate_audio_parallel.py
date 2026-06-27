@@ -46,10 +46,11 @@ async def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--concurrency", type=int, default=48)
     ap.add_argument("--rate", default=RATE)
+    ap.add_argument("--words", default=str(WORDS_FILE), help="path to a words.jsonl")
     args = ap.parse_args()
 
     AUDIO_DIR.mkdir(exist_ok=True)
-    words = [json.loads(l)['hanzi'] for l in open(WORDS_FILE, encoding='utf-8')]
+    words = [json.loads(l)['hanzi'] for l in open(args.words, encoding='utf-8')]
 
     spec = []
     for hz in words:
