@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "歌声",
+  "pinyin": "gēshēng",
+  "meaning_ru": "пение; звук песни",
+  "meaning_en": "singing; sound of song",
+  "semantic_tags": [
+   "art",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "认出",
+  "pinyin": "rènchū",
+  "meaning_ru": "узнать; распознать",
+  "meaning_en": "to recognize",
+  "semantic_tags": [
+   "cognition",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "可乐",
+  "pinyin": "kělè",
+  "meaning_ru": "кола (напиток)",
+  "meaning_en": "cola",
+  "semantic_tags": [
+   "drink",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "近期",
+  "pinyin": "jìnqī",
+  "meaning_ru": "в ближайшее время",
+  "meaning_en": "near future; recently",
+  "semantic_tags": [
+   "time_period",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "歌迷",
+  "pinyin": "gēmí",
+  "meaning_ru": "поклонник певца",
+  "meaning_en": "fan of a singer",
+  "semantic_tags": [
+   "person",
+   "art"
+  ]
+ },
+ {
+  "hanzi": "解开",
+  "pinyin": "jiěkāi",
+  "meaning_ru": "развязать; разгадать",
+  "meaning_en": "to untie; to solve",
+  "semantic_tags": [
+   "physical_action",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "初中",
+  "pinyin": "chūzhōng",
+  "meaning_ru": "средняя школа (мл.)",
+  "meaning_en": "junior high school",
+  "semantic_tags": [
+   "education",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "不光",
+  "pinyin": "bùguāng",
+  "meaning_ru": "не только",
+  "meaning_en": "not only",
+  "semantic_tags": [
+   "logic_connective",
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "子女",
+  "pinyin": "zǐnǚ",
+  "meaning_ru": "дети (сыновья и дочери)",
+  "meaning_en": "children; offspring",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "老太太",
+  "pinyin": "lǎotàitai",
+  "meaning_ru": "пожилая дама (уваж.)",
+  "meaning_en": "elderly lady (respectful)",
+  "semantic_tags": [
+   "person",
+   "politeness"
+  ]
+ },
+ {
+  "hanzi": "上衣",
+  "pinyin": "shàngyī",
+  "meaning_ru": "верхняя одежда; куртка",
+  "meaning_en": "jacket; upper garment",
+  "semantic_tags": [
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "建成",
+  "pinyin": "jiànchéng",
+  "meaning_ru": "построить; возвести",
+  "meaning_en": "to build; complete",
+  "semantic_tags": [
+   "physical_action",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "一方面",
+  "pinyin": "yīfāngmiàn",
+  "meaning_ru": "с одной стороны",
+  "meaning_en": "on the one hand",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "动人",
+  "pinyin": "dòngrén",
+  "meaning_ru": "трогательный",
+  "meaning_en": "touching; moving",
+  "semantic_tags": [
+   "evaluation_adj",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "剧场",
+  "pinyin": "jùchǎng",
+  "meaning_ru": "театр (здание)",
+  "meaning_en": "theater",
+  "semantic_tags": [
+   "building",
+   "art"
+  ]
+ }
+]

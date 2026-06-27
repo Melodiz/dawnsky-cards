@@ -1,0 +1,143 @@
+[
+ {
+  "hanzi": "鸭子",
+  "pinyin": "yāzi",
+  "meaning_ru": "утка",
+  "meaning_en": "duck",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "背包",
+  "pinyin": "bēibāo",
+  "meaning_ru": "рюкзак",
+  "meaning_en": "backpack; rucksack",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "车主",
+  "pinyin": "chēzhǔ",
+  "meaning_ru": "владелец машины",
+  "meaning_en": "car owner",
+  "semantic_tags": [
+   "person",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "用不着",
+  "pinyin": "yòngbuzháo",
+  "meaning_ru": "не нужно; ни к чему",
+  "meaning_en": "no need; needless",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "加热",
+  "pinyin": "jiārè",
+  "meaning_ru": "нагревать",
+  "meaning_en": "to heat up",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "一身",
+  "pinyin": "yīshēn",
+  "meaning_ru": "всё тело; с ног до головы",
+  "meaning_en": "whole body; all over",
+  "semantic_tags": [
+   "body",
+   "quantity"
+  ]
+ },
+ {
+  "hanzi": "高大",
+  "pinyin": "gāodà",
+  "meaning_ru": "высокий; рослый",
+  "meaning_en": "tall; towering",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ]
+ },
+ {
+  "hanzi": "高温",
+  "pinyin": "gāowēn",
+  "meaning_ru": "высокая температура",
+  "meaning_en": "high temperature",
+  "semantic_tags": [
+   "measurement",
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "为主",
+  "pinyin": "wéizhǔ",
+  "meaning_ru": "ставить во главу; преим.",
+  "meaning_en": "to give priority to",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "特性",
+  "pinyin": "tèxìng",
+  "meaning_ru": "свойство; особенность",
+  "meaning_en": "property; characteristic",
+  "semantic_tags": [
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "草原",
+  "pinyin": "cǎoyuán",
+  "meaning_ru": "степь; луга",
+  "meaning_en": "grassland; prairie",
+  "semantic_tags": [
+   "nature",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "灾",
+  "pinyin": "zāi",
+  "meaning_ru": "бедствие; катастрофа",
+  "meaning_en": "disaster; calamity",
+  "semantic_tags": [
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "依照",
+  "pinyin": "yīzhào",
+  "meaning_ru": "согласно; в соответствии",
+  "meaning_en": "according to",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "煤气",
+  "pinyin": "méiqì",
+  "meaning_ru": "газ (бытовой)",
+  "meaning_en": "gas (fuel)",
+  "semantic_tags": [
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "脆",
+  "pinyin": "cuì",
+  "meaning_ru": "хрупкий; хрустящий",
+  "meaning_en": "brittle; crisp",
+  "semantic_tags": [
+   "evaluation_adj",
+   "taste"
+  ]
+ }
+]

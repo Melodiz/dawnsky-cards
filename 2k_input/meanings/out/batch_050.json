@@ -1,0 +1,146 @@
+[
+ {
+  "hanzi": "获奖",
+  "pinyin": "huòjiǎng",
+  "meaning_ru": "получить приз; выиграть",
+  "meaning_en": "to win an award",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "种植",
+  "pinyin": "zhòngzhí",
+  "meaning_ru": "сажать; выращивать",
+  "meaning_en": "to plant; to grow",
+  "semantic_tags": [
+   "action_daily",
+   "industry_production"
+  ]
+ },
+ {
+  "hanzi": "爱国",
+  "pinyin": "àiguó",
+  "meaning_ru": "патриотичный; любить родину",
+  "meaning_en": "patriotic",
+  "semantic_tags": [
+   "attitude",
+   "politics_government"
+  ]
+ },
+ {
+  "hanzi": "种类",
+  "pinyin": "zhǒnglèi",
+  "meaning_ru": "вид; разновидность",
+  "meaning_en": "kind; type; category",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "奖学金",
+  "pinyin": "jiǎngxuéjīn",
+  "meaning_ru": "стипендия",
+  "meaning_en": "scholarship",
+  "semantic_tags": [
+   "education",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "泪水",
+  "pinyin": "lèishuǐ",
+  "meaning_ru": "слёзы",
+  "meaning_en": "tears",
+  "semantic_tags": [
+   "body",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "步行",
+  "pinyin": "bùxíng",
+  "meaning_ru": "идти пешком",
+  "meaning_en": "to go on foot",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "使劲",
+  "pinyin": "shǐjìn",
+  "meaning_ru": "напрягаться; изо всех сил",
+  "meaning_en": "to exert effort",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "中奖",
+  "pinyin": "zhòngjiǎng",
+  "meaning_ru": "выиграть (в лотерею)",
+  "meaning_en": "to win a prize",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "赏",
+  "pinyin": "shǎng",
+  "meaning_ru": "награждать; любоваться",
+  "meaning_en": "to reward; to admire",
+  "semantic_tags": [
+   "action_communication",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "巴士",
+  "pinyin": "bāshì",
+  "meaning_ru": "автобус",
+  "meaning_en": "bus",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "引进",
+  "pinyin": "yǐnjìn",
+  "meaning_ru": "ввозить; внедрять",
+  "meaning_en": "to introduce (from outside)",
+  "semantic_tags": [
+   "process_change",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "列入",
+  "pinyin": "lièrù",
+  "meaning_ru": "включать в список",
+  "meaning_en": "to include on a list",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "充电",
+  "pinyin": "chōngdiàn",
+  "meaning_ru": "заряжать (батарею)",
+  "meaning_en": "to recharge",
+  "semantic_tags": [
+   "action_daily",
+   "technology"
+  ]
+ },
+ {
+  "hanzi": "分为",
+  "pinyin": "fēnwéi",
+  "meaning_ru": "делить на (части)",
+  "meaning_en": "to divide into",
+  "semantic_tags": [
+   "process_change",
+   "abstract_relation"
+  ]
+ }
+]

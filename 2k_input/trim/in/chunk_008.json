@@ -1,0 +1,274 @@
+[
+ {
+  "hanzi": "增多",
+  "pinyin": "zēngduō",
+  "meaning_ru": "увеличиваться в количестве (непереход.)",
+  "meaning_en": "to grow in number (intransitive)",
+  "len_ru": 39,
+  "len_en": 32
+ },
+ {
+  "hanzi": "不能不",
+  "pinyin": "bùnéngbù",
+  "meaning_ru": "не может не (логич. принуждение)",
+  "meaning_en": "cannot but (logical compulsion)",
+  "len_ru": 32,
+  "len_en": 31
+ },
+ {
+  "hanzi": "驾照",
+  "pinyin": "jiàzhào",
+  "meaning_ru": "водительские права (не общая лицензия)",
+  "meaning_en": "driver's license (not general permit)",
+  "len_ru": 38,
+  "len_en": 37
+ },
+ {
+  "hanzi": "单一",
+  "pinyin": "dānyī",
+  "meaning_ru": "единообразный; однородный",
+  "meaning_en": "single; uniform (lacking variety)",
+  "len_ru": 25,
+  "len_en": 33
+ },
+ {
+  "hanzi": "儿女",
+  "pinyin": "érnǚ",
+  "meaning_ru": "дети (книжн., эмоц.)",
+  "meaning_en": "sons and daughters (literary)",
+  "len_ru": 20,
+  "len_en": 29
+ },
+ {
+  "hanzi": "生成",
+  "pinyin": "shēngchéng",
+  "meaning_ru": "генерировать; порождать (технически, компьютерный контекст)",
+  "meaning_en": "to generate; produce (technical/computational output)",
+  "len_ru": 59,
+  "len_en": 53
+ },
+ {
+  "hanzi": "原有",
+  "pinyin": "yuányǒu",
+  "meaning_ru": "изначально имевшийся; прежний",
+  "meaning_en": "pre-existing; what was already there",
+  "len_ru": 29,
+  "len_en": 36
+ },
+ {
+  "hanzi": "乘车",
+  "pinyin": "chéngchē",
+  "meaning_ru": "ехать на транспорте (пассажиром)",
+  "meaning_en": "travel by vehicle (as passenger)",
+  "len_ru": 32,
+  "len_en": 32
+ },
+ {
+  "hanzi": "学科",
+  "pinyin": "xuékē",
+  "meaning_ru": "академическая дисциплина",
+  "meaning_en": "academic discipline (broad field)",
+  "len_ru": 24,
+  "len_en": 33
+ },
+ {
+  "hanzi": "大都",
+  "pinyin": "dàdū",
+  "meaning_ru": "большей частью (книжн., о манере)",
+  "meaning_en": "mostly (literary; manner adverb)",
+  "len_ru": 33,
+  "len_en": 32
+ },
+ {
+  "hanzi": "餐饮",
+  "pinyin": "cānyǐn",
+  "meaning_ru": "питание; общепит",
+  "meaning_en": "food and beverage; catering",
+  "len_ru": 16,
+  "len_en": 27
+ },
+ {
+  "hanzi": "法制",
+  "pinyin": "fǎzhì",
+  "meaning_ru": "правовая система; законность",
+  "meaning_en": "legal system; rule of law",
+  "len_ru": 28,
+  "len_en": 25
+ },
+ {
+  "hanzi": "团长",
+  "pinyin": "tuánzhǎng",
+  "meaning_ru": "командир полка; глава группы",
+  "meaning_en": "regiment/group leader",
+  "len_ru": 28,
+  "len_en": 21
+ },
+ {
+  "hanzi": "推行",
+  "pinyin": "tuīxíng",
+  "meaning_ru": "внедрять; продвигать (реализацию)",
+  "meaning_en": "to roll out; implement (push adoption)",
+  "len_ru": 33,
+  "len_en": 38
+ },
+ {
+  "hanzi": "一口气",
+  "pinyin": "yīkǒuqì",
+  "meaning_ru": "на одном дыхании; залпом",
+  "meaning_en": "in one breath; at a stretch",
+  "len_ru": 24,
+  "len_en": 27
+ },
+ {
+  "hanzi": "修养",
+  "pinyin": "xiūyǎng",
+  "meaning_ru": "воспитанность; культура",
+  "meaning_en": "self-cultivation; refinement",
+  "len_ru": 23,
+  "len_en": 28
+ },
+ {
+  "hanzi": "华语",
+  "pinyin": "huáyǔ",
+  "meaning_ru": "китайский язык (диаспора)",
+  "meaning_en": "Chinese (diaspora term for the language)",
+  "len_ru": 25,
+  "len_en": 40
+ },
+ {
+  "hanzi": "贺卡",
+  "pinyin": "hèkǎ",
+  "meaning_ru": "поздравительная открытка",
+  "meaning_en": "greeting card (holidays/congrats)",
+  "len_ru": 24,
+  "len_en": 33
+ },
+ {
+  "hanzi": "协议书",
+  "pinyin": "xiéyìshū",
+  "meaning_ru": "договор/соглашение (не всегда юр.)",
+  "meaning_en": "written agreement (incl. non-binding)",
+  "len_ru": 34,
+  "len_en": 37
+ },
+ {
+  "hanzi": "物价",
+  "pinyin": "wùjià",
+  "meaning_ru": "уровень цен (в целом, макро)",
+  "meaning_en": "commodity price level (macro)",
+  "len_ru": 28,
+  "len_en": 29
+ },
+ {
+  "hanzi": "汇款",
+  "pinyin": "huìkuǎn",
+  "meaning_ru": "перевод денег (транзакция)",
+  "meaning_en": "remittance (transaction term)",
+  "len_ru": 26,
+  "len_en": 29
+ },
+ {
+  "hanzi": "大纲",
+  "pinyin": "dàgāng",
+  "meaning_ru": "программа; официальный план",
+  "meaning_en": "syllabus; official outline",
+  "len_ru": 27,
+  "len_en": 26
+ },
+ {
+  "hanzi": "受灾",
+  "pinyin": "shòuzāi",
+  "meaning_ru": "пострадать от бедствия (офиц.)",
+  "meaning_en": "be hit by disaster (formal, official)",
+  "len_ru": 30,
+  "len_en": 37
+ },
+ {
+  "hanzi": "辞典",
+  "pinyin": "cídiǎn",
+  "meaning_ru": "словарь слов и фраз (не иероглифов)",
+  "meaning_en": "dictionary of words/phrases (not chars)",
+  "len_ru": 35,
+  "len_en": 39
+ },
+ {
+  "hanzi": "中药",
+  "pinyin": "zhōngyào",
+  "meaning_ru": "традиционная кит. медицина",
+  "meaning_en": "traditional Chinese medicine",
+  "len_ru": 26,
+  "len_en": 28
+ },
+ {
+  "hanzi": "起到",
+  "pinyin": "qǐdào",
+  "meaning_ru": "сыграть (роль); оказать",
+  "meaning_en": "to play a role; have effect",
+  "len_ru": 23,
+  "len_en": 27
+ },
+ {
+  "hanzi": "个儿",
+  "pinyin": "gèr",
+  "meaning_ru": "рост; телосложение (северн. разг.)",
+  "meaning_en": "height; stature (northern coll.)",
+  "len_ru": 34,
+  "len_en": 32
+ },
+ {
+  "hanzi": "闭幕",
+  "pinyin": "bìmù",
+  "meaning_ru": "закрыться (о мероприятии, торж.)",
+  "meaning_en": "to close; end (event, ceremony)",
+  "len_ru": 32,
+  "len_en": 31
+ },
+ {
+  "hanzi": "选修",
+  "pinyin": "xuǎnxiū",
+  "meaning_ru": "взять по выбору; факультатив",
+  "meaning_en": "to take as elective",
+  "len_ru": 28,
+  "len_en": 19
+ },
+ {
+  "hanzi": "水灾",
+  "pinyin": "shuǐzāi",
+  "meaning_ru": "наводнение (стихийное бедствие)",
+  "meaning_en": "flood disaster (damage event)",
+  "len_ru": 31,
+  "len_en": 29
+ },
+ {
+  "hanzi": "剪子",
+  "pinyin": "jiǎnzi",
+  "meaning_ru": "ножницы (разг.; ср. 剪刀 — стандарт)",
+  "meaning_en": "scissors (colloquial; cf. 剪刀 standard)",
+  "len_ru": 34,
+  "len_en": 38
+ },
+ {
+  "hanzi": "酸甜苦辣",
+  "pinyin": "suāntiánkǔlà",
+  "meaning_ru": "превратности жизни (идиом.)",
+  "meaning_en": "life's ups and downs (idiom)",
+  "len_ru": 27,
+  "len_en": 28
+ },
+ {
+  "hanzi": "闭幕式",
+  "pinyin": "bìmùshì",
+  "meaning_ru": "церемония закрытия (пара: 开幕式)",
+  "meaning_en": "closing ceremony (paired with 开幕式)",
+  "len_ru": 30,
+  "len_en": 34
+ },
+ {
+  "hanzi": "电子版",
+  "pinyin": "diànzǐbǎn",
+  "meaning_ru": "электронная версия (формат)",
+  "meaning_en": "electronic/digital edition (format-specific)",
+  "len_ru": 27,
+  "len_en": 44
+ }
+]

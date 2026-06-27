@@ -1,0 +1,137 @@
+[
+ {
+  "hanzi": "书桌",
+  "pinyin": "shūzhuō",
+  "meaning_ru": "письменный стол",
+  "meaning_en": "desk",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "桃花",
+  "pinyin": "táohuā",
+  "meaning_ru": "цветок персика",
+  "meaning_en": "peach blossom",
+  "semantic_tags": [
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "不易",
+  "pinyin": "búyì",
+  "meaning_ru": "нелегко; непросто",
+  "meaning_en": "not easy; hard",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "宽度",
+  "pinyin": "kuāndù",
+  "meaning_ru": "ширина",
+  "meaning_en": "width",
+  "semantic_tags": [
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "年前",
+  "pinyin": "niánqián",
+  "meaning_ru": "перед Новым годом",
+  "meaning_en": "before New Year",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "钢笔",
+  "pinyin": "gāngbǐ",
+  "meaning_ru": "перьевая ручка",
+  "meaning_en": "fountain pen",
+  "semantic_tags": [
+   "object_stationery"
+  ]
+ },
+ {
+  "hanzi": "岸上",
+  "pinyin": "ànshàng",
+  "meaning_ru": "на берегу",
+  "meaning_en": "ashore; on the bank",
+  "semantic_tags": [
+   "location"
+  ]
+ },
+ {
+  "hanzi": "大纲",
+  "pinyin": "dàgāng",
+  "meaning_ru": "план; конспект",
+  "meaning_en": "outline; synopsis",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "灾区",
+  "pinyin": "zāiqū",
+  "meaning_ru": "зона бедствия",
+  "meaning_en": "disaster area",
+  "semantic_tags": [
+   "place"
+  ]
+ },
+ {
+  "hanzi": "受灾",
+  "pinyin": "shòuzāi",
+  "meaning_ru": "пострадать от бедствия",
+  "meaning_en": "be hit by disaster",
+  "semantic_tags": [
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "辞典",
+  "pinyin": "cídiǎn",
+  "meaning_ru": "словарь",
+  "meaning_en": "dictionary",
+  "semantic_tags": [
+   "object_stationery"
+  ]
+ },
+ {
+  "hanzi": "大熊猫",
+  "pinyin": "dàxióngmāo",
+  "meaning_ru": "большая панда",
+  "meaning_en": "giant panda",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "差点儿",
+  "pinyin": "chàdiǎnr",
+  "meaning_ru": "чуть не; едва не",
+  "meaning_en": "almost; nearly",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "两岸",
+  "pinyin": "liǎngʼàn",
+  "meaning_ru": "оба берега",
+  "meaning_en": "both shores",
+  "semantic_tags": [
+   "location"
+  ]
+ },
+ {
+  "hanzi": "中药",
+  "pinyin": "zhōngyào",
+  "meaning_ru": "китайская медицина",
+  "meaning_en": "Chinese medicine",
+  "semantic_tags": [
+   "health_medical"
+  ]
+ }
+]

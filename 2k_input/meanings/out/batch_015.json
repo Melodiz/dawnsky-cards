@@ -1,0 +1,142 @@
+[
+ {
+  "hanzi": "大大",
+  "pinyin": "dàdà",
+  "meaning_ru": "сильно; значительно",
+  "meaning_en": "greatly; hugely",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "科学家",
+  "pinyin": "kēxuéjiā",
+  "meaning_ru": "учёный",
+  "meaning_en": "scientist",
+  "semantic_tags": [
+   "occupation",
+   "science_research"
+  ]
+ },
+ {
+  "hanzi": "晚餐",
+  "pinyin": "wǎncān",
+  "meaning_ru": "ужин",
+  "meaning_en": "dinner; supper",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "大门",
+  "pinyin": "dàmén",
+  "meaning_ru": "ворота; вход",
+  "meaning_en": "gate; main entrance",
+  "semantic_tags": [
+   "building"
+  ]
+ },
+ {
+  "hanzi": "晚会",
+  "pinyin": "wǎnhuì",
+  "meaning_ru": "вечеринка; вечер",
+  "meaning_en": "evening party",
+  "semantic_tags": [
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "大小",
+  "pinyin": "dàxiǎo",
+  "meaning_ru": "размер; величина",
+  "meaning_en": "size",
+  "semantic_tags": [
+   "measurement",
+   "size"
+  ]
+ },
+ {
+  "hanzi": "不一定",
+  "pinyin": "bùyīdìng",
+  "meaning_ru": "не обязательно",
+  "meaning_en": "not necessarily",
+  "semantic_tags": [
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "计算机",
+  "pinyin": "jìsuànjī",
+  "meaning_ru": "компьютер",
+  "meaning_en": "computer",
+  "semantic_tags": [
+   "object_tech",
+   "technology"
+  ]
+ },
+ {
+  "hanzi": "阴",
+  "pinyin": "yīn",
+  "meaning_ru": "пасмурный",
+  "meaning_en": "overcast; cloudy",
+  "semantic_tags": [
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "凉",
+  "pinyin": "liáng",
+  "meaning_ru": "прохладный",
+  "meaning_en": "cool; cold",
+  "semantic_tags": [
+   "weather",
+   "sensation"
+  ]
+ },
+ {
+  "hanzi": "半夜",
+  "pinyin": "bànyè",
+  "meaning_ru": "полночь; ночь",
+  "meaning_en": "midnight; late night",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "黄色",
+  "pinyin": "huángsè",
+  "meaning_ru": "жёлтый; порно (перен.)",
+  "meaning_en": "yellow; pornographic",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "姓名",
+  "pinyin": "xìngmíng",
+  "meaning_ru": "полное имя",
+  "meaning_en": "full name",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "午餐",
+  "pinyin": "wǔcān",
+  "meaning_ru": "обед",
+  "meaning_en": "lunch",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "校园",
+  "pinyin": "xiàoyuán",
+  "meaning_ru": "кампус; территория школы",
+  "meaning_en": "campus",
+  "semantic_tags": [
+   "education",
+   "place"
+  ]
+ }
+]

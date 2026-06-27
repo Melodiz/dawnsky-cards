@@ -1,0 +1,144 @@
+[
+ {
+  "hanzi": "难听",
+  "pinyin": "nántīng",
+  "meaning_ru": "неприятный на слух",
+  "meaning_en": "unpleasant to hear",
+  "semantic_tags": [
+   "evaluation_adj",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "药水",
+  "pinyin": "yàoshuǐ",
+  "meaning_ru": "жидкое лекарство",
+  "meaning_en": "liquid medicine; lotion",
+  "semantic_tags": [
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "中医",
+  "pinyin": "zhōngyī",
+  "meaning_ru": "китайская медицина",
+  "meaning_en": "Chinese medicine",
+  "semantic_tags": [
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "坏处",
+  "pinyin": "huàichu",
+  "meaning_ru": "вред; минус",
+  "meaning_en": "harm; downside",
+  "semantic_tags": [
+   "abstract_quality",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "前年",
+  "pinyin": "qiánnián",
+  "meaning_ru": "позапрошлый год",
+  "meaning_en": "year before last",
+  "semantic_tags": [
+   "time_word",
+   "date"
+  ]
+ },
+ {
+  "hanzi": "千克",
+  "pinyin": "qiānkè",
+  "meaning_ru": "килограмм",
+  "meaning_en": "kilogram",
+  "semantic_tags": [
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "问路",
+  "pinyin": "wènlù",
+  "meaning_ru": "спрашивать дорогу",
+  "meaning_en": "ask for directions",
+  "semantic_tags": [
+   "action_communication",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "叫作",
+  "pinyin": "jiàozuò",
+  "meaning_ru": "называться",
+  "meaning_en": "to be called",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "午睡",
+  "pinyin": "wǔshuì",
+  "meaning_ru": "дневной сон",
+  "meaning_en": "afternoon nap",
+  "semantic_tags": [
+   "action_daily",
+   "body_state"
+  ]
+ },
+ {
+  "hanzi": "药片",
+  "pinyin": "yàopiàn",
+  "meaning_ru": "таблетка",
+  "meaning_en": "pill; tablet",
+  "semantic_tags": [
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "音节",
+  "pinyin": "yīnjié",
+  "meaning_ru": "слог",
+  "meaning_en": "syllable",
+  "semantic_tags": [
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "中级",
+  "pinyin": "zhōngjí",
+  "meaning_ru": "средний уровень",
+  "meaning_en": "intermediate level",
+  "semantic_tags": [
+   "evaluation_adj",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "春节",
+  "pinyin": "chūnjié",
+  "meaning_ru": "китайский Новый год",
+  "meaning_en": "Spring Festival",
+  "semantic_tags": [
+   "culture",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "阴天",
+  "pinyin": "yīntiān",
+  "meaning_ru": "пасмурный день",
+  "meaning_en": "cloudy day",
+  "semantic_tags": [
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "西医",
+  "pinyin": "xīyī",
+  "meaning_ru": "западная медицина",
+  "meaning_en": "Western medicine",
+  "semantic_tags": [
+   "health_medical"
+  ]
+ }
+]

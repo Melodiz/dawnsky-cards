@@ -1,0 +1,147 @@
+[
+ {
+  "hanzi": "团长",
+  "pinyin": "tuánzhǎng",
+  "meaning_ru": "командир полка; глава группы",
+  "meaning_en": "regiment commander; group leader",
+  "semantic_tags": [
+   "occupation",
+   "military_conflict"
+  ]
+ },
+ {
+  "hanzi": "正如",
+  "pinyin": "zhèngrú",
+  "meaning_ru": "точно как; как и",
+  "meaning_en": "just as; exactly as",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "高原",
+  "pinyin": "gāoyuán",
+  "meaning_ru": "плато; нагорье",
+  "meaning_en": "plateau; highland",
+  "semantic_tags": [
+   "geography",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "寿司",
+  "pinyin": "shòusī",
+  "meaning_ru": "суши",
+  "meaning_en": "sushi",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "物业",
+  "pinyin": "wùyè",
+  "meaning_ru": "недвижимость; ЖКХ",
+  "meaning_en": "property; property management",
+  "semantic_tags": [
+   "building",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "推行",
+  "pinyin": "tuīxíng",
+  "meaning_ru": "внедрять; проводить",
+  "meaning_en": "to implement; carry out",
+  "semantic_tags": [
+   "action_daily",
+   "law_admin_doc"
+  ]
+ },
+ {
+  "hanzi": "水产品",
+  "pinyin": "shuǐchǎnpǐn",
+  "meaning_ru": "морепродукты",
+  "meaning_en": "aquatic products; seafood",
+  "semantic_tags": [
+   "food",
+   "industry_production"
+  ]
+ },
+ {
+  "hanzi": "胆小",
+  "pinyin": "dǎnxiǎo",
+  "meaning_ru": "трусливый; робкий",
+  "meaning_en": "timid; cowardly",
+  "semantic_tags": [
+   "personality_trait",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "一口气",
+  "pinyin": "yīkǒuqì",
+  "meaning_ru": "на одном дыхании; залпом",
+  "meaning_en": "in one breath; at a stretch",
+  "semantic_tags": [
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "酒鬼",
+  "pinyin": "jiǔguǐ",
+  "meaning_ru": "пьяница; алкаш (разг.)",
+  "meaning_en": "drunkard (coll.)",
+  "semantic_tags": [
+   "person",
+   "personality_trait"
+  ]
+ },
+ {
+  "hanzi": "长寿",
+  "pinyin": "chángshòu",
+  "meaning_ru": "долголетие; долгий век",
+  "meaning_en": "longevity; long-lived",
+  "semantic_tags": [
+   "abstract_quality",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "修养",
+  "pinyin": "xiūyǎng",
+  "meaning_ru": "воспитанность; культура",
+  "meaning_en": "self-cultivation; refinement",
+  "semantic_tags": [
+   "abstract_quality",
+   "personality_trait"
+  ]
+ },
+ {
+  "hanzi": "华语",
+  "pinyin": "huáyǔ",
+  "meaning_ru": "китайский язык",
+  "meaning_en": "Chinese language",
+  "semantic_tags": [
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "白酒",
+  "pinyin": "báijiǔ",
+  "meaning_ru": "байцзю (кит. водка)",
+  "meaning_en": "baijiu (Chinese spirit)",
+  "semantic_tags": [
+   "drink"
+  ]
+ },
+ {
+  "hanzi": "涨价",
+  "pinyin": "zhǎngjià",
+  "meaning_ru": "дорожать; рост цен",
+  "meaning_en": "to rise in price",
+  "semantic_tags": [
+   "commerce_trade",
+   "process_change"
+  ]
+ }
+]

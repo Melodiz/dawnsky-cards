@@ -1,0 +1,1423 @@
+[
+ {
+  "hanzi": "弟",
+  "pinyin": "dì",
+  "meaning_ru": "младший брат (в составе слов)",
+  "meaning_en": "younger brother (morpheme)",
+  "len_ru": 29,
+  "len_en": 26,
+  "cedict_en": "younger brother/junior male/I (modest word in letter)/variant of 悌[ti4]",
+  "dataset_meanings": [
+   "younger brother",
+   "junior male",
+   "I (modest word in letter)",
+   "variant of 悌"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "弟弟"
+    ],
+    "note": "弟 = morpheme used in compounds (兄弟, 弟子); 弟弟 = standalone colloquial word for younger brother"
+   }
+  ]
+ },
+ {
+  "hanzi": "强度",
+  "pinyin": "qiángdù",
+  "meaning_ru": "интенсивность (измеримая)",
+  "meaning_en": "intensity; degree (measurable)",
+  "len_ru": 25,
+  "len_en": 30,
+  "cedict_en": "strength/intensity/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "strength",
+   "intensity"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "力量",
+     "力气"
+    ],
+    "note": "All involve strength/force. 强度 = measurable intensity/degree (of effort, light, exercise — not personal); 力量 = strength/power as capacity or force (abstract, can be moral); 力气 = physical bodily strength (colloquial, effort of muscles)."
+   }
+  ]
+ },
+ {
+  "hanzi": "归",
+  "pinyin": "guī",
+  "meaning_ru": "возвращаться (книжн.); принадлежать",
+  "meaning_en": "return (lit.); belong to",
+  "len_ru": 35,
+  "len_en": 24,
+  "cedict_en": "surname Gui/to return/to go back to/to give back to/(of a responsibility) to be taken care of by/to belong to/to gather together/(used between two identical verbs) despite/to marry (of a woman) (old)/division on the abacus with a one-digit divisor",
+  "dataset_meanings": [
+   "surname Gui",
+   "to return",
+   "to go back to",
+   "to give back to",
+   "(of a responsibility) to be taken care of by",
+   "to belong to",
+   "to gather together",
+   "(used between two identical verbs) despite",
+   "to marry (of a woman) (old)",
+   "division on the abacus with a one-digit divisor"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "返回",
+     "回来",
+     "归还"
+    ],
+    "note": "返回 = go/travel back (neutral direction); 回来 = come back toward speaker; 归 = return to one's place/origin (literary) or belong to; 归还 = give back a borrowed object"
+   }
+  ]
+ },
+ {
+  "hanzi": "录",
+  "pinyin": "lù",
+  "meaning_ru": "записывать (звук/видео)",
+  "meaning_en": "record (audio/video/data)",
+  "len_ru": 23,
+  "len_en": 25,
+  "cedict_en": "to carve wood/surname Lu/diary/record/to hit/to copy",
+  "dataset_meanings": [
+   "to carve wood",
+   "surname Lu",
+   "diary",
+   "record",
+   "to hit",
+   "to copy"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "抄",
+     "复印"
+    ],
+    "note": "录 = record (audio/video/data); 抄 = hand-copy text (also plagiarize); 复印 = photocopy a document (machine reproduction)"
+   }
+  ]
+ },
+ {
+  "hanzi": "彩色",
+  "pinyin": "cǎisè",
+  "meaning_ru": "цветной (многоцветный, атриб.)",
+  "meaning_en": "multicolored; color (attr.)",
+  "len_ru": 30,
+  "len_en": 27,
+  "cedict_en": "color/multicolored",
+  "dataset_meanings": [
+   "color",
+   "multicolored"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "色",
+     "颜色",
+     "色彩"
+    ],
+    "note": "色 is a morpheme/literary noun; 颜色 is the everyday neutral noun for 'color'; 彩色 means 'multicolored/color' as an attribute (彩色电视); 色彩 (5k) is literary/figurative 'hue/flavor'"
+   }
+  ]
+ },
+ {
+  "hanzi": "得以",
+  "pinyin": "déyǐ",
+  "meaning_ru": "получить возможность (книжн.)",
+  "meaning_en": "manage to; be enabled to (formal)",
+  "len_ru": 29,
+  "len_en": 33,
+  "cedict_en": "able to/so that sb can/enabling/in order to/finally in a position to/with sth in view",
+  "dataset_meanings": [
+   "able to",
+   "so that sb can",
+   "enabling",
+   "in order to",
+   "finally in a position to",
+   "with sth in view"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "能够"
+    ],
+    "note": "能够 = neutral modal 'can; be able to'; 得以 = formal/literary 'manage to; be enabled to' — implies a prior condition made it possible, cannot start a sentence alone"
+   }
+  ]
+ },
+ {
+  "hanzi": "心中",
+  "pinyin": "xīnzhōng",
+  "meaning_ru": "в душе; в мыслях (книжн.)",
+  "meaning_en": "in one's heart (literary)",
+  "len_ru": 25,
+  "len_en": 25,
+  "cedict_en": "central point/in one's thoughts/in one's heart",
+  "dataset_meanings": [
+   "central point",
+   "in one's thoughts",
+   "in one's heart"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "心里"
+    ],
+    "note": "Both mean 'in one's heart/mind'. 心里 is everyday spoken; 心中 is literary/formal, often used in written or elevated registers."
+   }
+  ]
+ },
+ {
+  "hanzi": "忍",
+  "pinyin": "rěn",
+  "meaning_ru": "терпеть (сдерживая реакцию)",
+  "meaning_en": "endure (suppressing reaction)",
+  "len_ru": 27,
+  "len_en": 29,
+  "cedict_en": "to bear/to endure/to tolerate/to restrain oneself",
+  "dataset_meanings": [
+   "to bear",
+   "to endure",
+   "to tolerate",
+   "to restrain oneself"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "忍耐",
+     "吃苦",
+     "挨",
+     "承受",
+     "熬"
+    ],
+    "note": "忍 = endure by holding back (suppress reaction). 忍耐 = endure with sustained self-restraint. 承受 = withstand (bear a load or blow). 熬 = tough it out slowly (simmer through difficulty). 挨 = endure passively (stall or suffer through). 吃苦 = endure hardship (accept a hard life)."
+   }
+  ]
+ },
+ {
+  "hanzi": "志愿",
+  "pinyin": "zhìyuàn",
+  "meaning_ru": "стремление; добровольчество",
+  "meaning_en": "aspiration; to volunteer",
+  "len_ru": 27,
+  "len_en": 24,
+  "cedict_en": "aspiration/ambition/to volunteer",
+  "dataset_meanings": [
+   "aspiration",
+   "ambition",
+   "to volunteer"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "抱负",
+     "愿望"
+    ],
+    "note": "志愿 = aspiration + concrete act of volunteering; 抱负 = high ambition (formal, no action); 愿望 = personal wish or desire (emotional, not necessarily acted on)"
+   }
+  ]
+ },
+ {
+  "hanzi": "快点儿",
+  "pinyin": "kuàidiǎnr",
+  "meaning_ru": "быстрее! (призыв к другому)",
+  "meaning_en": "hurry up! (urging others)",
+  "len_ru": 27,
+  "len_en": 25,
+  "cedict_en": "erhua variant of 快點|快点[kuai4 dian3]",
+  "dataset_meanings": [
+   "erhua variant of 快点",
+   "to do smh more quickly",
+   "Hurry up!"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "赶快",
+     "赶紧"
+    ],
+    "note": "快点儿 is an exclamatory urge ('hurry up!', often directed at others); 赶快 is an adverb meaning 'quickly, hurry' (neutral volition); 赶紧 emphasises self-motivated promptness to avoid missing an opportunity"
+   }
+  ]
+ },
+ {
+  "hanzi": "怨",
+  "pinyin": "yuàn",
+  "meaning_ru": "винить; затаить обиду",
+  "meaning_en": "blame; harbor resentment",
+  "len_ru": 21,
+  "len_en": 24,
+  "cedict_en": "to blame/(bound form) resentment; hatred; grudge",
+  "dataset_meanings": [
+   "to blame",
+   "(bound form) resentment; hatred; grudge"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "指责",
+     "责怪"
+    ],
+    "note": "怨 = resent/blame (internal feeling, often directed at fate/others); 指责 = criticize/blame publicly (formal, accusatory); 责怪 = reproach informally (interpersonal, casual register)."
+   }
+  ]
+ },
+ {
+  "hanzi": "总体",
+  "pinyin": "zǒngtǐ",
+  "meaning_ru": "в целом; суммарный",
+  "meaning_en": "overall; in aggregate",
+  "len_ru": 18,
+  "len_en": 21,
+  "cedict_en": "completely/totally/total/entire/overall/population (statistics)",
+  "dataset_meanings": [
+   "completely",
+   "totally",
+   "total",
+   "entire",
+   "overall",
+   "population (statistics)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "全局",
+     "格局"
+    ],
+    "note": "总体 = overall/in aggregate (scope adverb or adj, e.g. 总体来看); 全局 = the whole situation considered as one unit (often strategic); 格局 = the underlying pattern/configuration of a situation (structural, big-picture framing)"
+   }
+  ]
+ },
+ {
+  "hanzi": "总数",
+  "pinyin": "zǒngshù",
+  "meaning_ru": "общее число (итог)",
+  "meaning_en": "total count/number (noun)",
+  "len_ru": 18,
+  "len_en": 25,
+  "cedict_en": "total/sum/aggregate",
+  "dataset_meanings": [
+   "total",
+   "sum",
+   "aggregate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "总和",
+     "共计",
+     "总共",
+     "共"
+    ],
+    "note": "总数 = total count/number (noun, refers to a quantity of items); 总和 = sum/total (noun, mathematical); 共计 = to total, amounts to (verb/adv, formal); 总共 = in total (adverb, pure quantity); 共 = together/in total (shortest, also means 'together')"
+   }
+  ]
+ },
+ {
+  "hanzi": "悲伤",
+  "pinyin": "bēishāng",
+  "meaning_ru": "скорбный, печальный (кн.; > 难过)",
+  "meaning_en": "sorrowful (literary; > 难过)",
+  "len_ru": 31,
+  "len_en": 26,
+  "cedict_en": "sad; sorrowful",
+  "dataset_meanings": [
+   "sad; sorrowful"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "难过",
+     "伤心"
+    ],
+    "note": "难过 = general feeling of sadness/upset (colloquial); 伤心 = heartbroken, deeply pained; 悲伤 = sorrowful, mournful (more literary/formal)"
+   }
+  ]
+ },
+ {
+  "hanzi": "悲剧",
+  "pinyin": "bēijù",
+  "meaning_ru": "трагедия (жанр; перен. несчастье)",
+  "meaning_en": "tragedy (genre; fig. calamity)",
+  "len_ru": 33,
+  "len_en": 30,
+  "cedict_en": "tragedy/CL:齣|出[chu1]",
+  "dataset_meanings": [
+   "tragedy"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "电视剧",
+     "连续剧",
+     "戏剧"
+    ],
+    "note": "电视剧 = TV drama/series (medium-specific); 连续剧 = serial/series (emphasises ongoing episodes); 戏剧 = drama/theater (art form, stage or screen); 悲剧 = tragedy (a genre, also fig. 'a tragedy')"
+   }
+  ]
+ },
+ {
+  "hanzi": "情感",
+  "pinyin": "qínggǎn",
+  "meaning_ru": "эмоция; чувство (аффект.)",
+  "meaning_en": "emotion; feeling (affective)",
+  "len_ru": 25,
+  "len_en": 28,
+  "cedict_en": "feeling/emotion/to move (emotionally)",
+  "dataset_meanings": [
+   "feeling",
+   "emotion",
+   "to move (emotionally)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "感觉"
+    ],
+    "note": "情感 = emotion/feeling (affective, emotional bond — 情感上的联系); 感觉 = feeling/sensation (perception via senses or gut impression — more neutral/cognitive)."
+   }
+  ]
+ },
+ {
+  "hanzi": "想起",
+  "pinyin": "xiǎngqǐ",
+  "meaning_ru": "вспомнить (забытое)",
+  "meaning_en": "recall (something forgotten)",
+  "len_ru": 19,
+  "len_en": 28,
+  "cedict_en": "to recall/to think of/to call to mind",
+  "dataset_meanings": [
+   "to recall",
+   "to think of",
+   "to call to mind"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "记住",
+     "想到",
+     "记忆"
+    ],
+    "note": "记住 = commit to memory (active memorizing); 想起 = recall something previously forgotten; 想到 = think of/realize (may be spontaneous); 记忆 = memory as faculty or stored recollection (noun/verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "愁",
+  "pinyin": "chóu",
+  "meaning_ru": "тосковать, кручиниться",
+  "meaning_en": "brood; feel diffuse sadness",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "to worry about",
+  "dataset_meanings": [
+   "to worry about"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "担心",
+     "操心",
+     "顾虑"
+    ],
+    "note": "愁 = sad, melancholic worry (diffuse, emotional); 担心 = worry about something specific; 操心 = actively worry on behalf of others; 顾虑 = misgivings/reservations that hold you back"
+   }
+  ]
+ },
+ {
+  "hanzi": "意思",
+  "pinyin": "yìsi",
+  "meaning_ru": "смысл; значение (слова)",
+  "meaning_en": "meaning (of words/signal)",
+  "len_ru": 23,
+  "len_en": 25,
+  "cedict_en": "idea/opinion/meaning/wish/desire/interest/fun/token of appreciation, affection etc/CL:個|个[ge4]/to give as a small token/to do sth as a gesture of goodwill etc",
+  "dataset_meanings": [
+   "idea",
+   "opinion",
+   "meaning",
+   "wish",
+   "desire",
+   "interest",
+   "fun",
+   "token of appreciation, affection etc",
+   "to give as a small token",
+   "to do sth as a gesture of goodwill etc"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "想法",
+     "主意",
+     "大意"
+    ],
+    "note": "意思 = the meaning/sense of words or a signal; 想法 = one's personal viewpoint or thought; 主意 = a concrete plan or idea (actionable); 大意 = the gist or main point of a text"
+   }
+  ]
+ },
+ {
+  "hanzi": "愿",
+  "pinyin": "yuàn",
+  "meaning_ru": "желать; быть согласным",
+  "meaning_en": "wish; willing (formal)",
+  "len_ru": 22,
+  "len_en": 22,
+  "cedict_en": "honest and prudent/variant of 願|愿[yuan4]/(bound form) wish; hope; desire/to be willing/to wish (that sth may happen); may .../vow; pledge",
+  "dataset_meanings": [
+   "honest",
+   "prudent",
+   "variant of 愿",
+   "to hope",
+   "to wish",
+   "to desire",
+   "hoped-for",
+   "ready",
+   "willing"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "愿意",
+     "乐意"
+    ],
+    "note": "愿 = wish/desire (also used in set phrases); 愿意 = be willing to do sth (neutral); 乐意 = be glad/happy to do sth (positive affect)"
+   }
+  ]
+ },
+ {
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "meaning_ru": "медленный; медленно",
+  "meaning_en": "slow (adj; speed, not gradual)",
+  "len_ru": 19,
+  "len_en": 30,
+  "cedict_en": "slow",
+  "dataset_meanings": [
+   "slow"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "慢慢",
+     "迟缓"
+    ],
+    "note": "慢 = adjective/predicate 'slow'; 慢慢 = adverb 'slowly/gradually' (also implies patience); 迟缓 = slow and sluggish (often negative, of reaction or movement)."
+   }
+  ]
+ },
+ {
+  "hanzi": "慢慢",
+  "pinyin": "mànmàn",
+  "meaning_ru": "медленно; не спеша (разг.)",
+  "meaning_en": "slowly; unhurriedly (coll.)",
+  "len_ru": 26,
+  "len_en": 27,
+  "cedict_en": "slowly; gradually",
+  "dataset_meanings": [
+   "slowly"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "慢",
+     "迟缓"
+    ],
+    "note": "慢 = adjective/predicate 'slow'; 慢慢 = adverb 'slowly/gradually' (also implies patience); 迟缓 = slow and sluggish (often negative, of reaction or movement)."
+   },
+   {
+    "with": [
+     "逐渐",
+     "逐步"
+    ],
+    "note": "慢慢 = slowly, at a relaxed pace (pace focus); 逐渐 = gradually over time (time focus); 逐步 = step by step, in stages (process focus, more formal)."
+   }
+  ]
+ },
+ {
+  "hanzi": "懂得",
+  "pinyin": "dǒngde",
+  "meaning_ru": "понимать (интуитивно; уметь)",
+  "meaning_en": "understand intuitively; know how",
+  "len_ru": 28,
+  "len_en": 32,
+  "cedict_en": "to understand; to know; to comprehend",
+  "dataset_meanings": [
+   "to understand; to know; to comprehend"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "了解",
+     "理解",
+     "领会",
+     "清楚"
+    ],
+    "note": "懂得 = know how to / understand (intuitive grasp, often of principles); 了解 = know about / find out (factual knowledge, investigation); 理解 = understand (grasp meaning/reasoning); 领会 = comprehend by guidance (absorb instruction/spirit); 清楚 = clear / understand clearly (adj. and verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "成人",
+  "pinyin": "chéngrén",
+  "meaning_ru": "взрослый (офиц.)",
+  "meaning_en": "adult (formal/written)",
+  "len_ru": 16,
+  "len_en": 22,
+  "cedict_en": "to reach adulthood/an adult",
+  "dataset_meanings": [
+   "adult"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大人"
+    ],
+    "note": "成人 is formal/written (legal, official contexts); 大人 is colloquial/spoken, used esp. when talking to children"
+   }
+  ]
+ },
+ {
+  "hanzi": "戒",
+  "pinyin": "jiè",
+  "meaning_ru": "бросить (вредную привычку)",
+  "meaning_en": "quit (a habit, by willpower)",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "to guard against/to exhort/to admonish or warn/to give up or stop doing sth/Buddhist monastic discipline/ring (for a finger)",
+  "dataset_meanings": [
+   "to guard against",
+   "to exhort",
+   "to admonish or warn",
+   "to give up or stop doing sth",
+   "Buddhist monastic discipline",
+   "ring (for a finger)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "退出",
+     "撤退",
+     "退"
+    ],
+    "note": "退出 = exit a place/app/organization; 戒 = quit a habit (smoking, drinking) by self-discipline; 撤退 = military/tactical withdrawal; 退 = back up or return something"
+   }
+  ]
+ },
+ {
+  "hanzi": "战胜",
+  "pinyin": "zhànshèng",
+  "meaning_ru": "победить, одолеть (торж.)",
+  "meaning_en": "overcome (battle/hardship)",
+  "len_ru": 25,
+  "len_en": 26,
+  "cedict_en": "to prevail over/to defeat/to surmount",
+  "dataset_meanings": [
+   "to prevail over",
+   "to defeat",
+   "to surmount"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "打败",
+     "赢"
+    ],
+    "note": "赢 = win (general, colloquial). 打败 = beat/defeat (an opponent, often physical contest). 战胜 = overcome/prevail over (battle or hardship, more formal/literary)."
+   }
+  ]
+ },
+ {
+  "hanzi": "房屋",
+  "pinyin": "fángwū",
+  "meaning_ru": "дом; строение (книжн.)",
+  "meaning_en": "house; building (formal)",
+  "len_ru": 22,
+  "len_en": 24,
+  "cedict_en": "house/building/CL:所[suo3],套[tao4]",
+  "dataset_meanings": [
+   "house",
+   "building"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "屋",
+     "屋子",
+     "住房",
+     "公寓"
+    ],
+    "note": "房屋 is formal 'building/house'; 屋 is literary/short for room or house; 屋子 is colloquial 'room'; 住房 emphasises residential function/housing as a social concept; 公寓 specifically means apartment building"
+   }
+  ]
+ },
+ {
+  "hanzi": "所在",
+  "pinyin": "suǒzài",
+  "meaning_ru": "местонахождение (где есть)",
+  "meaning_en": "whereabouts; location of sth",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "place/location/(after a noun) place where it is located",
+  "dataset_meanings": [
+   "place",
+   "location",
+   "(after a noun) place where it is located"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "地点"
+    ],
+    "note": "所在 = whereabouts/location of something (abstract, 'where X is'); 地点 = specific concrete place/venue"
+   }
+  ]
+ },
+ {
+  "hanzi": "所长",
+  "pinyin": "suǒzhǎng",
+  "meaning_ru": "директор (института)",
+  "meaning_en": "head of an institute/bureau",
+  "len_ru": 20,
+  "len_en": 27,
+  "cedict_en": "what one is good at; one's strong point/director; head of an institute, office or station",
+  "dataset_meanings": [
+   "what one is good at",
+   "head of an institute etc"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "组长",
+     "首",
+     "领导",
+     "领导人",
+     "领袖"
+    ],
+    "note": "首 = head/chief (literary, also classifier for songs/poems); 组长 = small team/group leader; 所长 = head of an institute or bureau; 领导 = everyday boss/leader (also verb: to lead); 领导人 = official leader (formal title); 领袖 = top political figure/chief (elevated, reverential)"
+   }
+  ]
+ },
+ {
+  "hanzi": "打破",
+  "pinyin": "dǎpò",
+  "meaning_ru": "разбить; нарушить (рекорд)",
+  "meaning_en": "smash; break (records too)",
+  "len_ru": 26,
+  "len_en": 26,
+  "cedict_en": "to break; to smash",
+  "dataset_meanings": [
+   "to break; to smash"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "破",
+     "断"
+    ],
+    "note": "打破 = shatter/smash (also break records or limits); 破 = broken state or the act of breaking (broad); 断 = snap/cut off (linear things: rope, signal, contact)."
+   }
+  ]
+ },
+ {
+  "hanzi": "打败",
+  "pinyin": "dǎbài",
+  "meaning_ru": "разбить, победить (соперника)",
+  "meaning_en": "defeat (an opponent, direct)",
+  "len_ru": 29,
+  "len_en": 28,
+  "cedict_en": "to defeat/to overpower/to beat/to be defeated",
+  "dataset_meanings": [
+   "to defeat",
+   "to overpower",
+   "to beat",
+   "to be defeated"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "战胜",
+     "赢"
+    ],
+    "note": "赢 = win (general, colloquial). 打败 = beat/defeat (an opponent, often physical contest). 战胜 = overcome/prevail over (battle or hardship, more formal/literary)."
+   }
+  ]
+ },
+ {
+  "hanzi": "扩展",
+  "pinyin": "kuòzhǎn",
+  "meaning_ru": "расширять охват/функции",
+  "meaning_en": "expand scope or function",
+  "len_ru": 23,
+  "len_en": 24,
+  "cedict_en": "to extend/to expand/extension/expansion",
+  "dataset_meanings": [
+   "to extend",
+   "to expand",
+   "extension",
+   "expansion"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "扩张",
+     "扩充",
+     "扩大"
+    ],
+    "note": "扩展 = broaden scope or function (neutral); 扩张 = aggressive territorial/political expansion; 扩充 = expand by adding members or items; 扩大 = increase in scale or size"
+   }
+  ]
+ },
+ {
+  "hanzi": "抄写",
+  "pinyin": "chāoxiě",
+  "meaning_ru": "переписывать (от руки)",
+  "meaning_en": "copy out by hand (transcribe)",
+  "len_ru": 22,
+  "len_en": 29,
+  "cedict_en": "to copy/to transcribe",
+  "dataset_meanings": [
+   "to copy",
+   "to transcribe"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "抄",
+     "复印",
+     "复制"
+    ],
+    "note": "抄 = copy by hand / plagiarize. 抄写 = copy out by hand (deliberate transcription, study context). 复印 = photocopy (machine reproduction of document). 复制 = duplicate/replicate (digital or physical, broader)."
+   }
+  ]
+ },
+ {
+  "hanzi": "抬头",
+  "pinyin": "táitóu",
+  "meaning_ru": "поднять голову (вверх)",
+  "meaning_en": "raise one's head (look up)",
+  "len_ru": 22,
+  "len_en": 26,
+  "cedict_en": "to raise one's head; to look up/(fig.) to begin to emerge; to show signs of growth/(commerce) account name, or space for writing the name on checks, bills etc",
+  "dataset_meanings": [
+   "to raise one's head",
+   "to gain ground",
+   "account name, or space for writing the name on checks, bills etc"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "举手",
+     "举"
+    ],
+    "note": "举手 = raise one's hand (specific gesture, e.g. voting or asking); 抬头 = raise one's head (look up); 举 = lift/raise in general or cite an example (broader base verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "抽",
+  "pinyin": "chōu",
+  "meaning_ru": "вытянуть (скольз. движение); курить",
+  "meaning_en": "draw out (sliding); smoke",
+  "len_ru": 35,
+  "len_en": 25,
+  "cedict_en": "to draw out; to pull out from in between/to remove part of the whole/to inhale (esp. smoke)/(of fabric etc) to shrink/(of certain plants) to sprout; to bud/to whip; to thrash/classifier for sheets (of tissues, wet wipes etc)",
+  "dataset_meanings": [
+   "to draw out",
+   "to pull out from in between",
+   "to remove part of the whole",
+   "(of certain plants) to sprout or bud",
+   "to whip or thrash"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "拔",
+     "引",
+     "拉"
+    ],
+    "note": "拔 = pull out forcefully (stuck objects: teeth, nails, weeds); 抽 = extract with sliding motion (cards, draw liquid, smoke); 引 = pull/attract/lead (abstract or directional, guide); 拉 = pull toward oneself (rope, handle, bow strings)"
+   }
+  ]
+ },
+ {
+  "hanzi": "拆除",
+  "pinyin": "chāichú",
+  "meaning_ru": "сносить, демонтировать",
+  "meaning_en": "demolish; remove (officially)",
+  "len_ru": 22,
+  "len_en": 29,
+  "cedict_en": "to tear down/to demolish/to dismantle/to remove",
+  "dataset_meanings": [
+   "to tear down",
+   "to demolish",
+   "to dismantle",
+   "to remove"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "拆"
+    ],
+    "note": "拆 = dismantle/tear down (single action, physical). 拆除 = demolish/remove (official, often structural, typically permanent)."
+   }
+  ]
+ },
+ {
+  "hanzi": "招生",
+  "pinyin": "zhāoshēng",
+  "meaning_ru": "набор студентов",
+  "meaning_en": "to enroll students",
+  "len_ru": 15,
+  "len_en": 18,
+  "cedict_en": "to enroll new students/to get students",
+  "dataset_meanings": [
+   "to enroll new students",
+   "to get students"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "拿到",
+  "pinyin": "nádào",
+  "meaning_ru": "получить (физически, руками)",
+  "meaning_en": "get; obtain (physical, hands-on)",
+  "len_ru": 28,
+  "len_en": 32,
+  "cedict_en": "to get/to obtain",
+  "dataset_meanings": [
+   "to get",
+   "to obtain"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "取得",
+     "得到",
+     "获得",
+     "获"
+    ],
+    "note": "拿到 = get/grab (physical, hands-on); 得到 = get/receive (general, neutral); 获得 = obtain/gain (formal, achievements/awards); 取得 = achieve/obtain (formal, results/qualifications); 获 = obtain/capture (formal morpheme, written style)"
+   }
+  ]
+ },
+ {
+  "hanzi": "挑",
+  "pinyin": "tiǎo",
+  "meaning_ru": "выбирать придирчиво",
+  "meaning_en": "pick choosily (fussy)",
+  "len_ru": 19,
+  "len_en": 21,
+  "cedict_en": "to carry on a shoulder pole/to choose/to pick/to nitpick/to raise/to dig up/to poke/to prick/to incite/to stir up",
+  "dataset_meanings": [
+   "to carry on a shoulder pole",
+   "to choose",
+   "to pick",
+   "to nitpick",
+   "to raise",
+   "to dig up",
+   "to poke",
+   "to prick",
+   "to incite",
+   "to stir up"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "拣",
+     "选拔"
+    ],
+    "note": "挑 = pick with a discerning/picky eye (implies fussiness); 拣 = sort and pick out (practical selection); 选拔 = formally select talent or candidates (competitive)"
+   }
+  ]
+ },
+ {
+  "hanzi": "挑选",
+  "pinyin": "tiāoxuǎn",
+  "meaning_ru": "выбирать (по предпочтениям)",
+  "meaning_en": "pick (by personal preference)",
+  "len_ru": 27,
+  "len_en": 29,
+  "cedict_en": "to choose/to select",
+  "dataset_meanings": [
+   "to choose",
+   "to select"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "筛选",
+     "拣",
+     "选拔",
+     "选择"
+    ],
+    "note": "挑选 = pick by personal preference (everyday shopping, choosing); 筛选 = screen/filter by criteria (systematic, analytical); 拣 = pick out by hand/visually (physical, informal); 选拔 = select the best candidates (competitive, talent-focused); 选择 = choose from options (general, neutral)."
+   }
+  ]
+ },
+ {
+  "hanzi": "挣",
+  "pinyin": "zhèng",
+  "meaning_ru": "зарабатывать",
+  "meaning_en": "to earn; make money",
+  "len_ru": 12,
+  "len_en": 19,
+  "cedict_en": "used in 掙扎|挣扎[zheng1 zha2]/to struggle to get free/to strive to acquire/to make (money)",
+  "dataset_meanings": [
+   "used in 挣扎",
+   "to struggle to get free",
+   "to strive to acquire",
+   "to make (money)"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "损害",
+  "pinyin": "sǔnhài",
+  "meaning_ru": "ущерб; вредить (интересы, здоровье)",
+  "meaning_en": "harm; damage (interests, health)",
+  "len_ru": 35,
+  "len_en": 32,
+  "cedict_en": "harm/to damage/to impair",
+  "dataset_meanings": [
+   "harm",
+   "to damage",
+   "to impair"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "害",
+     "危害",
+     "伤害",
+     "损坏",
+     "破坏"
+    ],
+    "note": "害 = harm (basic, colloquial, can also be noun); 伤害 = hurt/injure (personal, bodily or emotional); 损害 = damage/harm (formal, abstract — interests, health, reputation); 损坏 = damage (physical objects); 危害 = endanger (serious systemic threat); 破坏 = destroy/sabotage (deliberate structural damage)"
+   }
+  ]
+ },
+ {
+  "hanzi": "排",
+  "pinyin": "pái",
+  "meaning_ru": "ряд; выстраивать в ряд",
+  "meaning_en": "row (seats/troops); line up",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "to arrange in order; to line up/to exclude; to eliminate; to repel; to expel; to discharge/(literary) to push aside; to force open/to rehearse/row; line/platoon/(bound form) steak; chop/(bound form) raft/classifier for rows or lines (of people or things)",
+  "dataset_meanings": [
+   "a row",
+   "a line",
+   "to set in order",
+   "to arrange",
+   "to line up",
+   "to eliminate",
+   "to drain",
+   "to push open",
+   "platoon",
+   "raft",
+   "classifier for lines, rows etc"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "列",
+     "排列"
+    ],
+    "note": "排 = a physical row (seats, troops); 列 = a column/series, also 'to enumerate'; 排列 = to arrange in order (verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "接到",
+  "pinyin": "jiēdào",
+  "meaning_ru": "получить (звонок, письмо)",
+  "meaning_en": "receive (call/message/letter)",
+  "len_ru": 25,
+  "len_en": 29,
+  "cedict_en": "to receive (letter etc)",
+  "dataset_meanings": [
+   "to receive (letter etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "接受",
+     "受到",
+     "受"
+    ],
+    "note": "接到 = receive a specific communication (call, letter); 接受 = accept/take in (implies willingness); 受到 = be subjected to / undergo (often impact or treatment); 受 = receive or endure (broad base verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "推行",
+  "pinyin": "tuīxíng",
+  "meaning_ru": "внедрять; продвигать",
+  "meaning_en": "to roll out; implement",
+  "len_ru": 20,
+  "len_en": 22,
+  "cedict_en": "to implement; to carry out; to introduce (a policy, system, reform etc)/to promote; to advance (the practice of an art form, the use of a language etc)/to push along (a bicycle etc while walking)",
+  "dataset_meanings": [
+   "to put into effect",
+   "to carry out"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "实行"
+    ],
+    "note": "推行 = roll out/implement (pushing adoption, often policy); 实行 = put into practice (execute an already-decided plan). 推行 implies active promotion; 实行 implies execution."
+   }
+  ]
+ },
+ {
+  "hanzi": "提起",
+  "pinyin": "tíqǐ",
+  "meaning_ru": "поднять тему; заводить речь",
+  "meaning_en": "bring up (a topic)",
+  "len_ru": 27,
+  "len_en": 18,
+  "cedict_en": "to mention; to bring up/(lit. and fig.) to lift; to raise/to initiate (legal proceedings)",
+  "dataset_meanings": [
+   "to mention",
+   "to speak of",
+   "to lift",
+   "to pick up",
+   "to arouse",
+   "to raise (a topic, a heavy weight, one's fist, one's spirits etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "提到",
+     "提"
+    ],
+    "note": "提 = base verb (carry/mention); 提到 = neutral reference to a topic; 提起 = initiate a topic or stir up (emotionally charged, often formal)"
+   }
+  ]
+ },
+ {
+  "hanzi": "搜",
+  "pinyin": "sōu",
+  "meaning_ru": "обыскивать; искать (сканируя)",
+  "meaning_en": "search by scanning (or online)",
+  "len_ru": 29,
+  "len_en": 30,
+  "cedict_en": "to search/variant of 蒐|搜[sou1]/(bound form) to collect; to gather",
+  "dataset_meanings": [
+   "to search"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "寻求",
+     "搜索",
+     "寻觅",
+     "寻找"
+    ],
+    "note": "搜/搜索 = search by scanning (physical search, internet); 寻找 = look for a specific target; 寻求 = seek/pursue (abstract goals, solutions); 寻觅 = search with longing (literary/emotional)"
+   }
+  ]
+ },
+ {
+  "hanzi": "摔倒",
+  "pinyin": "shuāidǎo",
+  "meaning_ru": "упасть (споткнуться)",
+  "meaning_en": "fall down (trip bodily)",
+  "len_ru": 20,
+  "len_en": 23,
+  "cedict_en": "to fall down/to slip and fall/to throw sb to the ground",
+  "dataset_meanings": [
+   "to fall down",
+   "to slip and fall",
+   "to throw sb to the ground"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "摔",
+     "倒",
+     "掉"
+    ],
+    "note": "摔 = fall/smash (fall with impact or throw down). 摔倒 = fall down (trip and land, bodily fall). 倒 = topple/fall over (object or person collapsing sideways). 掉 = fall off/drop (detach and drop, often implies separation)."
+   }
+  ]
+ },
+ {
+  "hanzi": "摩托",
+  "pinyin": "mótuō",
+  "meaning_ru": "мотоцикл (сокращ.); мотор",
+  "meaning_en": "motorbike (abbrev.); motor",
+  "len_ru": 25,
+  "len_en": 26,
+  "cedict_en": "(loanword) motor/(loanword) motorbike; motorcycle (abbr. for 摩托車|摩托车[mo2 tuo1 che1])",
+  "dataset_meanings": [
+   "motor (loanword)",
+   "motorbike"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "摩托车"
+    ],
+    "note": "摩托车 is the standard full word for motorcycle; 摩托 is the abbreviated colloquial form, also used in compounds (摩托艇 etc.)"
+   }
+  ]
+ },
+ {
+  "hanzi": "播出",
+  "pinyin": "bōchū",
+  "meaning_ru": "транслировать (передачу)",
+  "meaning_en": "to air (a specific broadcast)",
+  "len_ru": 24,
+  "len_en": 29,
+  "cedict_en": "to broadcast/to air (a TV program etc)",
+  "dataset_meanings": [
+   "to broadcast",
+   "to air (a TV program etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "广播"
+    ],
+    "note": "播出 = to air/broadcast (a specific program, one-time output); 广播 = radio broadcasting as medium, or to broadcast generally (also a noun for radio)."
+   }
+  ]
+ },
+ {
+  "hanzi": "收听",
+  "pinyin": "shōutīng",
+  "meaning_ru": "слушать радио/эфир (≠ 倾听)",
+  "meaning_en": "listen to (broadcast/radio)",
+  "len_ru": 25,
+  "len_en": 27,
+  "cedict_en": "to listen to (a radio broadcast)",
+  "dataset_meanings": [
+   "to listen to (a radio broadcast)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "倾听"
+    ],
+    "note": "Both mean 'to listen'; 收听 = tune in to / listen to (radio or broadcast, receiver-oriented); 倾听 = listen attentively to a person (deferential, relational)."
+   }
+  ]
+ },
+ {
+  "hanzi": "收费",
+  "pinyin": "shōufèi",
+  "meaning_ru": "взимать плату (за услугу)",
+  "meaning_en": "to charge a fee",
+  "len_ru": 25,
+  "len_en": 15,
+  "cedict_en": "to charge a fee",
+  "dataset_meanings": [
+   "to charge a fee"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "免费",
+     "无偿"
+    ],
+    "note": "收费 = charge a fee (the act of collecting payment); 免费 = free of charge (everyday, consumer context); 无偿 = free/without compensation (formal/legal, e.g. 无偿援助)."
+   }
+  ]
+ },
+ {
+  "hanzi": "收集",
+  "pinyin": "shōují",
+  "meaning_ru": "собирать (предметы, систематич.)",
+  "meaning_en": "collect items (systematically)",
+  "len_ru": 32,
+  "len_en": 30,
+  "cedict_en": "to gather/to collect",
+  "dataset_meanings": [
+   "to gather",
+   "to collect"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "聚",
+     "集合",
+     "采集",
+     "收藏"
+    ],
+    "note": "聚 = gather/assemble (people or things, naturally); 集合 = assemble (organised, commanded); 采集 = collect/harvest (specimens, data, natural resources); 收集 = gather/collect (items systematically); 收藏 = collect/keep (for pleasure or preservation — hobby)"
+   }
+  ]
+ },
+ {
+  "hanzi": "整",
+  "pinyin": "zhěng",
+  "meaning_ru": "ровно (целых X: 整十年)",
+  "meaning_en": "exactly whole (整十年)",
+  "len_ru": 20,
+  "len_en": 19,
+  "cedict_en": "(bound form) whole; complete; entire; (before a measure word) whole; (before or after number + measure word) exactly/(bound form) in good order; tidy; neat/(bound form) to put in order; to straighten/(bound form) to repair; to mend; to renovate/(coll.) to fix sb; to give sb a hard time; to mess with sb/(dialect) to tinker with; to do sth to",
+  "dataset_meanings": [
+   "exactly",
+   "in good order",
+   "whole",
+   "complete",
+   "entire",
+   "in order",
+   "orderly",
+   "to repair",
+   "to mend",
+   "to renovate",
+   "(coll.) to fix sb",
+   "to give sb a hard time",
+   "to mess with sb"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "全场",
+     "全部",
+     "整整",
+     "整个",
+     "整体"
+    ],
+    "note": "全场 = whole audience/venue; 全部 (5k) = the total amount/all of it; 整 = exactly whole (整十年); 整整 = a full emphatic duration (整整三天); 整个 (5k) = the entire X as modifier; 整体 (5k) = the whole as a unified entity (noun)."
+   }
+  ]
+ },
+ {
+  "hanzi": "整天",
+  "pinyin": "zhěngtiān",
+  "meaning_ru": "весь день (нейтр.)",
+  "meaning_en": "all day long (neutral)",
+  "len_ru": 18,
+  "len_en": 22,
+  "cedict_en": "all day long/whole day",
+  "dataset_meanings": [
+   "all day long",
+   "whole day"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "成天"
+    ],
+    "note": "整天 = neutral 'all day long'; 成天 = colloquial, often implies complaint or tedium"
+   }
+  ]
+ },
+ {
+  "hanzi": "整整",
+  "pinyin": "zhěngzhěng",
+  "meaning_ru": "целых (усилит. о длит.: 整整三天)",
+  "meaning_en": "a full (emphatic duration)",
+  "len_ru": 29,
+  "len_en": 26,
+  "cedict_en": "whole/full",
+  "dataset_meanings": [
+   "whole",
+   "full"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "全场",
+     "全部",
+     "整",
+     "整个",
+     "整体"
+    ],
+    "note": "全场 = whole audience/venue; 全部 (5k) = the total amount/all of it; 整 = exactly whole (整十年); 整整 = a full emphatic duration (整整三天); 整个 (5k) = the entire X as modifier; 整体 (5k) = the whole as a unified entity (noun)."
+   }
+  ]
+ },
+ {
+  "hanzi": "旅客",
+  "pinyin": "lǚkè",
+  "meaning_ru": "пассажир; путешественник",
+  "meaning_en": "traveler; passenger",
+  "len_ru": 24,
+  "len_en": 19,
+  "cedict_en": "traveler; tourist",
+  "dataset_meanings": [
+   "traveler; tourist"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "游客"
+    ],
+    "note": "游客 = tourist (sightseeing, leisure traveler); 旅客 = traveler/passenger (any traveler, incl. transit)"
+   }
+  ]
+ },
+ {
+  "hanzi": "旅馆",
+  "pinyin": "lǚguǎn",
+  "meaning_ru": "гостиница (общее, устарев.)",
+  "meaning_en": "hotel; inn (generic, older)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "hotel/CL:家[jia1]",
+  "dataset_meanings": [
+   "hotel"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "宾馆",
+     "酒店"
+    ],
+    "note": "旅馆 is a generic/older word for inn or hotel; 宾馆 is a standard/state-run hotel; 酒店 is modern, often upscale — same concept but grading in formality and class"
+   }
+  ]
+ },
+ {
+  "hanzi": "早就",
+  "pinyin": "zǎojiù",
+  "meaning_ru": "давно уже (с нажимом)",
+  "meaning_en": "long ago already (emphatic)",
+  "len_ru": 21,
+  "len_en": 27,
+  "cedict_en": "already at an earlier time",
+  "dataset_meanings": [
+   "already at an earlier time"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "早已",
+     "已"
+    ],
+    "note": "All express 'already/long since'; 早就 stresses the speaker's emphasis (often mild exasperation), 早已 is slightly more literary/neutral, 已 is a literary particle seldom used alone in speech."
+   }
+  ]
+ },
+ {
+  "hanzi": "早已",
+  "pinyin": "zǎoyǐ",
+  "meaning_ru": "давно уже (нейтр.; ≠ 早就)",
+  "meaning_en": "long since (neutral; vs. 早就)",
+  "len_ru": 24,
+  "len_en": 28,
+  "cedict_en": "for a long time; long since/(dialect) in the past",
+  "dataset_meanings": [
+   "for a long time; long since",
+   "(dialect) in the past"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "早就",
+     "已"
+    ],
+    "note": "All express 'already/long since'; 早就 stresses the speaker's emphasis (often mild exasperation), 早已 is slightly more literary/neutral, 已 is a literary particle seldom used alone in speech."
+   }
+  ]
+ }
+]

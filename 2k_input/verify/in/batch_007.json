@@ -1,0 +1,989 @@
+[
+ {
+  "hanzi": "退出",
+  "pinyin": "tuìchū",
+  "meaning_ru": "выйти; покинуть",
+  "meaning_en": "to quit; exit; log out",
+  "semantic_tags": [
+   "action_movement",
+   "object_tech"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to withdraw/to abort/to quit/to log out (computing)",
+  "dataset_meanings": [
+   "to withdraw",
+   "to abort",
+   "to quit",
+   "to log out (computing)"
+  ]
+ },
+ {
+  "hanzi": "齐",
+  "pinyin": "qí",
+  "meaning_ru": "ровный; вместе",
+  "meaning_en": "neat; even; all together",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "(name of states and dynasties at several different periods)/surname Qi/neat/even/level with/identical/simultaneous/all together/to even sth out",
+  "dataset_meanings": [
+   "(name of states and dynasties at several different periods)",
+   "surname Qi",
+   "neat",
+   "even",
+   "level with",
+   "identical",
+   "simultaneous",
+   "all together",
+   "to even sth out"
+  ]
+ },
+ {
+  "hanzi": "上升",
+  "pinyin": "shàngshēng",
+  "meaning_ru": "подниматься; расти",
+  "meaning_en": "to rise; go up",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to rise/to go up/to ascend",
+  "dataset_meanings": [
+   "to rise",
+   "to go up",
+   "to ascend"
+  ]
+ },
+ {
+  "hanzi": "围",
+  "pinyin": "wéi",
+  "meaning_ru": "окружать; обмотать",
+  "meaning_en": "to surround; wrap around",
+  "semantic_tags": [
+   "physical_action",
+   "spatial_relation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Wei/to encircle/to surround/all around/to wear by wrapping around (scarf, shawl)",
+  "dataset_meanings": [
+   "surname Wei",
+   "to encircle",
+   "to surround",
+   "all around",
+   "to wear by wrapping around (scarf, shawl)"
+  ]
+ },
+ {
+  "hanzi": "飞行",
+  "pinyin": "fēixíng",
+  "meaning_ru": "полёт; летать",
+  "meaning_en": "to fly; flight",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "(of planes etc) to fly/flying/flight/aviation",
+  "dataset_meanings": [
+   "(of planes etc) to fly",
+   "flying",
+   "flight",
+   "aviation"
+  ]
+ },
+ {
+  "hanzi": "福",
+  "pinyin": "fú",
+  "meaning_ru": "счастье; удача",
+  "meaning_en": "good fortune; luck",
+  "semantic_tags": [
+   "abstract_quality"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Fu/abbr. for Fujian province 福建省[Fu2 jian4 Sheng3]/good fortune/happiness/luck",
+  "dataset_meanings": [
+   "surname Fu",
+   "abbr. for Fujian province 省",
+   "good fortune",
+   "happiness",
+   "luck"
+  ]
+ },
+ {
+  "hanzi": "补",
+  "pinyin": "bǔ",
+  "meaning_ru": "чинить; восполнять",
+  "meaning_en": "to mend; make up for",
+  "semantic_tags": [
+   "physical_action",
+   "process_change"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to repair/to patch/to mend/to make up for/to fill (a vacancy)/to supplement",
+  "dataset_meanings": [
+   "to repair",
+   "to patch",
+   "to mend",
+   "to make up for",
+   "to fill (a vacancy)",
+   "to supplement"
+  ]
+ },
+ {
+  "hanzi": "赶到",
+  "pinyin": "gǎndào",
+  "meaning_ru": "успеть прибыть",
+  "meaning_en": "to hurry to a place",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to hurry (to some place)",
+  "dataset_meanings": [
+   "to hurry (to some place)"
+  ]
+ },
+ {
+  "hanzi": "相比",
+  "pinyin": "xiāngbǐ",
+  "meaning_ru": "сравнивать",
+  "meaning_en": "to compare",
+  "semantic_tags": [
+   "cognition",
+   "abstract_relation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to compare",
+  "dataset_meanings": [
+   "to compare"
+  ]
+ },
+ {
+  "hanzi": "深入",
+  "pinyin": "shēnrù",
+  "meaning_ru": "углублённый; вникать",
+  "meaning_en": "thorough; to go deep",
+  "semantic_tags": [
+   "evaluation_adj",
+   "cognition"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to penetrate deeply/thorough",
+  "dataset_meanings": [
+   "to penetrate deeply",
+   "thorough"
+  ]
+ },
+ {
+  "hanzi": "情感",
+  "pinyin": "qínggǎn",
+  "meaning_ru": "чувство; эмоция",
+  "meaning_en": "feeling; emotion",
+  "semantic_tags": [
+   "emotion",
+   "abstract_quality"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "feeling/emotion/to move (emotionally)",
+  "dataset_meanings": [
+   "feeling",
+   "emotion",
+   "to move (emotionally)"
+  ]
+ },
+ {
+  "hanzi": "人群",
+  "pinyin": "rénqún",
+  "meaning_ru": "толпа",
+  "meaning_en": "crowd",
+  "semantic_tags": [
+   "person",
+   "society_public"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "crowd",
+  "dataset_meanings": [
+   "crowd"
+  ]
+ },
+ {
+  "hanzi": "争",
+  "pinyin": "zhēng",
+  "meaning_ru": "бороться; спорить",
+  "meaning_en": "to strive for; argue",
+  "semantic_tags": [
+   "physical_action",
+   "action_communication"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to strive for/to vie for/to argue or debate/deficient or lacking (dialect)/how or what (literary)",
+  "dataset_meanings": [
+   "to strive for",
+   "to vie for",
+   "to argue or debate",
+   "deficient or lacking (dialect)",
+   "how or what (literary)"
+  ]
+ },
+ {
+  "hanzi": "订",
+  "pinyin": "dìng",
+  "meaning_ru": "заказать; подписаться",
+  "meaning_en": "to order; subscribe",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to agree/to conclude/to draw up/to subscribe to (a newspaper etc)/to order",
+  "dataset_meanings": [
+   "to agree",
+   "to conclude",
+   "to draw up",
+   "to subscribe to (a newspaper etc)",
+   "to order"
+  ]
+ },
+ {
+  "hanzi": "保安",
+  "pinyin": "bǎoān",
+  "meaning_ru": "охранник; охрана",
+  "meaning_en": "security guard; security",
+  "semantic_tags": [
+   "occupation",
+   "society_public"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "Bonan ethnic group/to ensure public security/to ensure safety (for workers engaged in production)/public security/security guard",
+  "dataset_meanings": [
+   "to ensure public security",
+   "to ensure safety (for workers engaged in production)",
+   "public security",
+   "security guard"
+  ]
+ },
+ {
+  "hanzi": "歌手",
+  "pinyin": "gēshǒu",
+  "meaning_ru": "певец, певица",
+  "meaning_en": "singer",
+  "semantic_tags": [
+   "occupation",
+   "art"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "singer",
+  "dataset_meanings": [
+   "singer"
+  ]
+ },
+ {
+  "hanzi": "看起来",
+  "pinyin": "kànqǐlai",
+  "meaning_ru": "похоже; на вид",
+  "meaning_en": "looks like; seems",
+  "semantic_tags": [
+   "perception",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "seemingly; apparently; looks as if; appears to be; gives the impression that; seems on the face of it to be",
+  "dataset_meanings": [
+   "seemingly",
+   "apparently",
+   "looks as if",
+   "appear to be",
+   "gives the impression that",
+   "seems on the face of it to be"
+  ]
+ },
+ {
+  "hanzi": "放到",
+  "pinyin": "fàngdào",
+  "meaning_ru": "поместить (куда-л.)",
+  "meaning_en": "put into; place at",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Put in"
+  ]
+ },
+ {
+  "hanzi": "静",
+  "pinyin": "jìng",
+  "meaning_ru": "тихий; спокойный",
+  "meaning_en": "quiet; still; calm",
+  "semantic_tags": [
+   "manner_state",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "still/calm/quiet/not moving",
+  "dataset_meanings": [
+   "still",
+   "calm",
+   "quiet",
+   "not moving"
+  ]
+ },
+ {
+  "hanzi": "谈话",
+  "pinyin": "tánhuà",
+  "meaning_ru": "беседовать; беседа",
+  "meaning_en": "to talk; conversation",
+  "semantic_tags": [
+   "action_communication",
+   "communication_emotion"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to talk (with sb)/to have a conversation/talk/conversation/CL:次[ci4]",
+  "dataset_meanings": [
+   "to talk (with sb)",
+   "to have a conversation",
+   "talk",
+   "conversation"
+  ]
+ },
+ {
+  "hanzi": "能不能",
+  "pinyin": "néngbùnéng",
+  "meaning_ru": "можно ли; можешь ли",
+  "meaning_en": "can you?; is it OK?",
+  "semantic_tags": [
+   "communication_formal"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Can you"
+  ]
+ },
+ {
+  "hanzi": "打破",
+  "pinyin": "dǎpò",
+  "meaning_ru": "разбить; нарушить",
+  "meaning_en": "to break; smash",
+  "semantic_tags": [
+   "physical_action",
+   "process_change"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to break; to smash",
+  "dataset_meanings": [
+   "to break; to smash"
+  ]
+ },
+ {
+  "hanzi": "上来",
+  "pinyin": "shànglái",
+  "meaning_ru": "подниматься (сюда)",
+  "meaning_en": "to come up",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to come up/to approach/(verb complement indicating success)",
+  "dataset_meanings": [
+   "to come up",
+   "to approach",
+   "(verb complement indicating success)"
+  ]
+ },
+ {
+  "hanzi": "西部",
+  "pinyin": "xībù",
+  "meaning_ru": "западная часть; запад",
+  "meaning_en": "western part; west",
+  "semantic_tags": [
+   "geography",
+   "direction"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "western part",
+  "dataset_meanings": [
+   "western part"
+  ]
+ },
+ {
+  "hanzi": "改造",
+  "pinyin": "gǎizào",
+  "meaning_ru": "преобразовать; перестроить",
+  "meaning_en": "to transform; remodel",
+  "semantic_tags": [
+   "process_change",
+   "industry_production"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to transform/to reform/to remodel/to remold",
+  "dataset_meanings": [
+   "to transform",
+   "to reform",
+   "to remodel",
+   "to remold"
+  ]
+ },
+ {
+  "hanzi": "不论",
+  "pinyin": "bùlùn",
+  "meaning_ru": "независимо от; что бы ни",
+  "meaning_en": "no matter; regardless",
+  "semantic_tags": [
+   "logic_connective"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "whatever/no matter what (who, how etc)/regardless of/not to discuss",
+  "dataset_meanings": [
+   "whatever",
+   "no matter what (who, how etc)",
+   "regardless of",
+   "not to discuss"
+  ]
+ },
+ {
+  "hanzi": "整天",
+  "pinyin": "zhěngtiān",
+  "meaning_ru": "весь день; целый день",
+  "meaning_en": "all day long",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "all day long/whole day",
+  "dataset_meanings": [
+   "all day long",
+   "whole day"
+  ]
+ },
+ {
+  "hanzi": "观看",
+  "pinyin": "guānkàn",
+  "meaning_ru": "смотреть; наблюдать",
+  "meaning_en": "to watch; view",
+  "semantic_tags": [
+   "perception",
+   "action_daily"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to watch; to view",
+  "dataset_meanings": [
+   "to watch; to view"
+  ]
+ },
+ {
+  "hanzi": "房屋",
+  "pinyin": "fángwū",
+  "meaning_ru": "дом; здание",
+  "meaning_en": "house; building",
+  "semantic_tags": [
+   "building"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "house/building/CL:所[suo3],套[tao4]",
+  "dataset_meanings": [
+   "house",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "得分",
+  "pinyin": "défēn",
+  "meaning_ru": "набрать очки; счёт",
+  "meaning_en": "to score; score",
+  "semantic_tags": [
+   "sport",
+   "quantity_abstract"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to score a point (in a competition, test etc)/score; rating; grade",
+  "dataset_meanings": [
+   "to score"
+  ]
+ },
+ {
+  "hanzi": "基本上",
+  "pinyin": "jīběnshang",
+  "meaning_ru": "в основном; по сути",
+  "meaning_en": "basically; on the whole",
+  "semantic_tags": [
+   "manner_adverb",
+   "degree_adverb"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "basically/on the whole",
+  "dataset_meanings": [
+   "basically",
+   "on the whole"
+  ]
+ },
+ {
+  "hanzi": "预计",
+  "pinyin": "yùjì",
+  "meaning_ru": "прогнозировать; ожидать",
+  "meaning_en": "to estimate; to forecast",
+  "semantic_tags": [
+   "cognition",
+   "process_change"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to forecast/to predict/to estimate",
+  "dataset_meanings": [
+   "to forecast",
+   "to predict",
+   "to estimate"
+  ]
+ },
+ {
+  "hanzi": "加快",
+  "pinyin": "jiākuài",
+  "meaning_ru": "ускорять",
+  "meaning_en": "to speed up; accelerate",
+  "semantic_tags": [
+   "process_change",
+   "action_movement"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to accelerate; to speed up; to hasten",
+  "dataset_meanings": [
+   "to accelerate",
+   "to speed up"
+  ]
+ },
+ {
+  "hanzi": "乐队",
+  "pinyin": "yuèduì",
+  "meaning_ru": "оркестр; группа",
+  "meaning_en": "band; orchestra",
+  "semantic_tags": [
+   "art",
+   "person"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "band/pop group/CL:支[zhi1]",
+  "dataset_meanings": [
+   "band",
+   "pop group"
+  ]
+ },
+ {
+  "hanzi": "演唱会",
+  "pinyin": "yǎnchànghuì",
+  "meaning_ru": "концерт (вокальный)",
+  "meaning_en": "concert; recital",
+  "semantic_tags": [
+   "art",
+   "event_situation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "vocal recital or concert",
+  "dataset_meanings": [
+   "vocal recital or concert"
+  ]
+ },
+ {
+  "hanzi": "演唱",
+  "pinyin": "yǎnchàng",
+  "meaning_ru": "петь (на сцене)",
+  "meaning_en": "to sing; vocal performance",
+  "semantic_tags": [
+   "art",
+   "action_communication"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to sing (for an audience)/vocal performance",
+  "dataset_meanings": [
+   "sung performance",
+   "to sing for an audience"
+  ]
+ },
+ {
+  "hanzi": "会员",
+  "pinyin": "huìyuán",
+  "meaning_ru": "член; участник",
+  "meaning_en": "member",
+  "semantic_tags": [
+   "person",
+   "relationship_social"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "member",
+  "dataset_meanings": [
+   "member"
+  ]
+ },
+ {
+  "hanzi": "生长",
+  "pinyin": "shēngzhǎng",
+  "meaning_ru": "расти; вырастать",
+  "meaning_en": "to grow; grow up",
+  "semantic_tags": [
+   "process_change",
+   "nature"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to grow/to grow up/to be brought up",
+  "dataset_meanings": [
+   "to grow",
+   "to grow up",
+   "to be brought up"
+  ]
+ },
+ {
+  "hanzi": "电视剧",
+  "pinyin": "diànshìjù",
+  "meaning_ru": "телесериал",
+  "meaning_en": "TV series; TV drama",
+  "semantic_tags": [
+   "art",
+   "media_news"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "TV series/TV drama/CL:部[bu4]",
+  "dataset_meanings": [
+   "TV series",
+   "TV drama"
+  ]
+ },
+ {
+  "hanzi": "身份证",
+  "pinyin": "shēnfènzhèng",
+  "meaning_ru": "удостоверение личности",
+  "meaning_en": "ID card",
+  "semantic_tags": [
+   "law_admin_doc",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "identity card/ID",
+  "dataset_meanings": [
+   "identity card",
+   "ID"
+  ]
+ },
+ {
+  "hanzi": "收费",
+  "pinyin": "shōufèi",
+  "meaning_ru": "взимать плату",
+  "meaning_en": "to charge a fee",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to charge a fee",
+  "dataset_meanings": [
+   "to charge a fee"
+  ]
+ },
+ {
+  "hanzi": "头脑",
+  "pinyin": "tóunǎo",
+  "meaning_ru": "ум; рассудок",
+  "meaning_en": "brains; mind",
+  "semantic_tags": [
+   "cognition",
+   "body"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "brains/mind/skull/(fig.) gist (of a matter)/leader/boss",
+  "dataset_meanings": [
+   "brains",
+   "mind",
+   "skull",
+   "(fig.) gist (of a matter)",
+   "leader",
+   "boss"
+  ]
+ },
+ {
+  "hanzi": "难度",
+  "pinyin": "nándù",
+  "meaning_ru": "степень сложности",
+  "meaning_en": "difficulty level",
+  "semantic_tags": [
+   "abstract_quality",
+   "measurement"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "degree of difficulty",
+  "dataset_meanings": [
+   "degree of difficulty"
+  ]
+ },
+ {
+  "hanzi": "通信",
+  "pinyin": "tōngxìn",
+  "meaning_ru": "связь; переписка",
+  "meaning_en": "communication; correspond",
+  "semantic_tags": [
+   "communication_formal",
+   "technology"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to correspond (by letter, email etc)/to send or receive messages through telecommunications",
+  "dataset_meanings": [
+   "to correspond (by letter etc)",
+   "to communicate",
+   "communication"
+  ]
+ },
+ {
+  "hanzi": "环保",
+  "pinyin": "huánbǎo",
+  "meaning_ru": "охрана среды; эко",
+  "meaning_en": "environmental protection",
+  "semantic_tags": [
+   "nature",
+   "society_public"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "environmental protection/environmentally friendly/abbr. for 環境保護|环境保护[huan2 jing4 bao3 hu4]",
+  "dataset_meanings": [
+   "environmental protection",
+   "environmentally friendly",
+   "abbr. for 环境保护"
+  ]
+ },
+ {
+  "hanzi": "发送",
+  "pinyin": "fāsòng",
+  "meaning_ru": "отправлять; посылать",
+  "meaning_en": "to send; transmit",
+  "semantic_tags": [
+   "action_communication",
+   "technology"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to transmit/to dispatch/to issue (an official document or credential)",
+  "dataset_meanings": [
+   "to transmit",
+   "to dispatch",
+   "to issue (an official document or credential)"
+  ]
+ },
+ {
+  "hanzi": "播出",
+  "pinyin": "bōchū",
+  "meaning_ru": "транслировать; вещать",
+  "meaning_en": "to broadcast; air",
+  "semantic_tags": [
+   "media_news",
+   "action_communication"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to broadcast/to air (a TV program etc)",
+  "dataset_meanings": [
+   "to broadcast",
+   "to air (a TV program etc)"
+  ]
+ },
+ {
+  "hanzi": "巧",
+  "pinyin": "qiǎo",
+  "meaning_ru": "как раз; кстати; ловкий",
+  "meaning_en": "coincidentally; skillful",
+  "semantic_tags": [
+   "manner_adverb",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "opportunely/coincidentally/as it happens/skillful/timely",
+  "dataset_meanings": [
+   "opportunely",
+   "coincidentally",
+   "as it happens",
+   "skillful",
+   "timely"
+  ]
+ },
+ {
+  "hanzi": "整整",
+  "pinyin": "zhěngzhěng",
+  "meaning_ru": "целых; ровно (весь)",
+  "meaning_en": "whole; full",
+  "semantic_tags": [
+   "degree_adverb",
+   "quantity"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "whole/full",
+  "dataset_meanings": [
+   "whole",
+   "full"
+  ]
+ },
+ {
+  "hanzi": "亲人",
+  "pinyin": "qīnrén",
+  "meaning_ru": "близкие родственники",
+  "meaning_en": "close relatives",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "one's close relatives",
+  "dataset_meanings": [
+   "one's close relatives"
+  ]
+ },
+ {
+  "hanzi": "早已",
+  "pinyin": "zǎoyǐ",
+  "meaning_ru": "давно; уже давно",
+  "meaning_en": "long since",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "for a long time; long since/(dialect) in the past",
+  "dataset_meanings": [
+   "for a long time; long since",
+   "(dialect) in the past"
+  ]
+ },
+ {
+  "hanzi": "南部",
+  "pinyin": "nánbù",
+  "meaning_ru": "южная часть; юг",
+  "meaning_en": "southern part",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "southern part",
+  "dataset_meanings": [
+   "southern part"
+  ]
+ },
+ {
+  "hanzi": "没用",
+  "pinyin": "méiyòng",
+  "meaning_ru": "бесполезный",
+  "meaning_en": "useless",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "useless",
+  "dataset_meanings": [
+   "useless"
+  ]
+ },
+ {
+  "hanzi": "另一方面",
+  "pinyin": "lìngyīfāngmiàn",
+  "meaning_ru": "с другой стороны",
+  "meaning_en": "on the other hand",
+  "semantic_tags": [
+   "logic_connective"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "on the other hand/another aspect",
+  "dataset_meanings": [
+   "on the other hand",
+   "another aspect"
+  ]
+ },
+ {
+  "hanzi": "排名",
+  "pinyin": "páimíng",
+  "meaning_ru": "рейтинг; место в списке",
+  "meaning_en": "ranking; to rank",
+  "semantic_tags": [
+   "abstract_relation",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to rank (1st, 2nd etc)/ranking",
+  "dataset_meanings": [
+   "to rank (1st, 2nd etc)",
+   "ranking"
+  ]
+ },
+ {
+  "hanzi": "行李",
+  "pinyin": "xíngli",
+  "meaning_ru": "багаж",
+  "meaning_en": "luggage",
+  "semantic_tags": [
+   "transport_travel",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "luggage/CL:件[jian4]",
+  "dataset_meanings": [
+   "luggage"
+  ]
+ },
+ {
+  "hanzi": "东部",
+  "pinyin": "dōngbù",
+  "meaning_ru": "восточная часть; восток",
+  "meaning_en": "eastern part",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "the east/eastern part",
+  "dataset_meanings": [
+   "the east",
+   "eastern part"
+  ]
+ },
+ {
+  "hanzi": "传来",
+  "pinyin": "chuánlái",
+  "meaning_ru": "доноситься; приходить (о вестях)",
+  "meaning_en": "to come through (sound/news)",
+  "semantic_tags": [
+   "action_movement",
+   "perception"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "(of a sound) to come through/to be heard/(of news) to arrive",
+  "dataset_meanings": [
+   "(of a sound) to come through",
+   "to be heard",
+   "(of news) to arrive"
+  ]
+ },
+ {
+  "hanzi": "高速公路",
+  "pinyin": "gāosùgōnglù",
+  "meaning_ru": "автомагистраль; шоссе",
+  "meaning_en": "expressway; highway",
+  "semantic_tags": [
+   "transport_travel",
+   "building"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "expressway; highway; freeway",
+  "dataset_meanings": [
+   "expressway; highway; freeway"
+  ]
+ },
+ {
+  "hanzi": "北部",
+  "pinyin": "běibù",
+  "meaning_ru": "северная часть; север",
+  "meaning_en": "northern part",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "northern part",
+  "dataset_meanings": [
+   "northern part"
+  ]
+ }
+]

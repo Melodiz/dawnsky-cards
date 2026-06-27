@@ -1,0 +1,141 @@
+[
+ {
+  "hanzi": "促销",
+  "pinyin": "cùxiāo",
+  "meaning_ru": "стимулировать сбыт",
+  "meaning_en": "promote sales; promotion",
+  "semantic_tags": [
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "体检",
+  "pinyin": "tǐjiǎn",
+  "meaning_ru": "медосмотр",
+  "meaning_en": "medical checkup",
+  "semantic_tags": [
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "宝石",
+  "pinyin": "bǎoshí",
+  "meaning_ru": "драгоценный камень",
+  "meaning_en": "gem; precious stone",
+  "semantic_tags": [
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "着火",
+  "pinyin": "zháohuǒ",
+  "meaning_ru": "загореться",
+  "meaning_en": "catch fire",
+  "semantic_tags": [
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "晚点",
+  "pinyin": "wǎndiǎn",
+  "meaning_ru": "опаздывать (о транспорте)",
+  "meaning_en": "be late; delayed (train)",
+  "semantic_tags": [
+   "transport_travel",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "研制",
+  "pinyin": "yánzhì",
+  "meaning_ru": "разрабатывать",
+  "meaning_en": "develop; manufacture",
+  "semantic_tags": [
+   "science_research",
+   "industry_production"
+  ]
+ },
+ {
+  "hanzi": "转动",
+  "pinyin": "zhuǎndòng",
+  "meaning_ru": "вращаться; поворачивать",
+  "meaning_en": "rotate; turn",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "离不开",
+  "pinyin": "líbukāi",
+  "meaning_ru": "не обойтись без",
+  "meaning_en": "can't do without",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "列为",
+  "pinyin": "lièwéi",
+  "meaning_ru": "отнести к (категории)",
+  "meaning_en": "classify as",
+  "semantic_tags": [
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "海水",
+  "pinyin": "hǎishuǐ",
+  "meaning_ru": "морская вода",
+  "meaning_en": "seawater",
+  "semantic_tags": [
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "动摇",
+  "pinyin": "dòngyáo",
+  "meaning_ru": "колебаться; поколебать",
+  "meaning_en": "waver; shake",
+  "semantic_tags": [
+   "attitude",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "体操",
+  "pinyin": "tǐcāo",
+  "meaning_ru": "гимнастика",
+  "meaning_en": "gymnastics",
+  "semantic_tags": [
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "大爷",
+  "pinyin": "dàye",
+  "meaning_ru": "дядя (старший); почт. обращение",
+  "meaning_en": "uncle; respectful sir",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "秋季",
+  "pinyin": "qiūjì",
+  "meaning_ru": "осень; осенний сезон",
+  "meaning_en": "autumn; fall season",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "扩展",
+  "pinyin": "kuòzhǎn",
+  "meaning_ru": "расширять",
+  "meaning_en": "expand; extend",
+  "semantic_tags": [
+   "process_change"
+  ]
+ }
+]

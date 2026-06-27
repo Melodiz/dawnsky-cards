@@ -1,0 +1,4621 @@
+{
+ "出": [
+  "action_movement",
+  "direction"
+ ],
+ "爱": [
+  "emotion",
+  "communication_emotion"
+ ],
+ "孩子": [
+  "person",
+  "family"
+ ],
+ "岁": [
+  "measurement",
+  "time_period"
+ ],
+ "高": [
+  "evaluation_adj",
+  "size"
+ ],
+ "进": [
+  "action_movement",
+  "direction"
+ ],
+ "您": [
+  "pronoun",
+  "politeness"
+ ],
+ "笑": [
+  "action_communication",
+  "communication_emotion"
+ ],
+ "女人": [
+  "person"
+ ],
+ "男人": [
+  "person"
+ ],
+ "正在": [
+  "time_word",
+  "manner_adverb"
+ ],
+ "外": [
+  "location",
+  "spatial_relation"
+ ],
+ "球": [
+  "object_home",
+  "sport"
+ ],
+ "错": [
+  "evaluation_adj",
+  "judgement"
+ ],
+ "别的": [
+  "pronoun",
+  "abstract_relation"
+ ],
+ "晚": [
+  "time_word",
+  "time_period"
+ ],
+ "先生": [
+  "person",
+  "politeness"
+ ],
+ "学生": [
+  "person",
+  "education"
+ ],
+ "儿子": [
+  "family",
+  "person"
+ ],
+ "歌": [
+  "art",
+  "culture"
+ ],
+ "元": [
+  "money",
+  "measurement"
+ ],
+ "介绍": [
+  "action_communication",
+  "communication_formal"
+ ],
+ "唱": [
+  "art",
+  "physical_action"
+ ],
+ "看见": [
+  "perception"
+ ],
+ "女儿": [
+  "family",
+  "person"
+ ],
+ "字": [
+  "education",
+  "culture"
+ ],
+ "白": [
+  "color",
+  "evaluation_adj"
+ ],
+ "票": [
+  "transport_travel",
+  "transaction"
+ ],
+ "飞机": [
+  "transport_travel"
+ ],
+ "哥": [
+  "family",
+  "person"
+ ],
+ "爸": [
+  "family",
+  "person"
+ ],
+ "回去": [
+  "action_movement"
+ ],
+ "病人": [
+  "health_medical",
+  "person"
+ ],
+ "肉": [
+  "food"
+ ],
+ "打电话": [
+  "action_communication"
+ ],
+ "有的": [
+  "quantity_abstract"
+ ],
+ "吃饭": [
+  "action_daily",
+  "food"
+ ],
+ "右": [
+  "direction",
+  "spatial_relation"
+ ],
+ "姐姐": [
+  "family",
+  "person"
+ ],
+ "一半": [
+  "quantity",
+  "number"
+ ],
+ "小姐": [
+  "person",
+  "politeness"
+ ],
+ "进去": [
+  "action_movement"
+ ],
+ "没什么": [
+  "communication_emotion"
+ ],
+ "路上": [
+  "location",
+  "transport_travel"
+ ],
+ "考试": [
+  "education"
+ ],
+ "慢": [
+  "evaluation_adj",
+  "manner_state"
+ ],
+ "进来": [
+  "action_movement",
+  "direction"
+ ],
+ "好看": [
+  "evaluation_adj"
+ ],
+ "女生": [
+  "person",
+  "education"
+ ],
+ "雨": [
+  "weather",
+  "nature"
+ ],
+ "车上": [
+  "transport_travel",
+  "location"
+ ],
+ "考": [
+  "education",
+  "action_learning"
+ ],
+ "妹妹": [
+  "family",
+  "person"
+ ],
+ "地上": [
+  "location",
+  "spatial_relation"
+ ],
+ "记住": [
+  "cognition",
+  "action_learning"
+ ],
+ "下次": [
+  "time_word"
+ ],
+ "机场": [
+  "building",
+  "transport_travel"
+ ],
+ "老人": [
+  "person"
+ ],
+ "那边": [
+  "location",
+  "direction"
+ ],
+ "弟弟": [
+  "family",
+  "person"
+ ],
+ "在家": [
+  "action_daily",
+  "location"
+ ],
+ "妹": [
+  "family"
+ ],
+ "不对": [
+  "evaluation_adj",
+  "judgement"
+ ],
+ "中午": [
+  "time_word",
+  "time_period"
+ ],
+ "干什么": [
+  "action_daily",
+  "communication_emotion",
+  "action_communication"
+ ],
+ "奶": [
+  "drink",
+  "body"
+ ],
+ "这边": [
+  "direction",
+  "location"
+ ],
+ "男生": [
+  "person",
+  "education"
+ ],
+ "火车": [
+  "transport_travel"
+ ],
+ "上次": [
+  "time_word"
+ ],
+ "右边": [
+  "direction",
+  "spatial_relation"
+ ],
+ "上学": [
+  "education",
+  "action_daily"
+ ],
+ "牛奶": [
+  "drink",
+  "food"
+ ],
+ "女朋友": [
+  "relationship_social",
+  "person"
+ ],
+ "听见": [
+  "perception"
+ ],
+ "新年": [
+  "time_period",
+  "culture",
+  "date"
+ ],
+ "下班": [
+  "work_career",
+  "action_daily"
+ ],
+ "读书": [
+  "action_learning",
+  "education"
+ ],
+ "姐": [
+  "family",
+  "person"
+ ],
+ "坐下": [
+  "physical_action",
+  "action_daily"
+ ],
+ "哪些": [
+  "pronoun"
+ ],
+ "饭店": [
+  "building",
+  "food"
+ ],
+ "楼下": [
+  "location",
+  "spatial_relation"
+ ],
+ "好听": [
+  "evaluation_adj",
+  "perception"
+ ],
+ "开会": [
+  "work_career",
+  "action_communication"
+ ],
+ "车站": [
+  "transport_travel",
+  "building"
+ ],
+ "走路": [
+  "action_movement",
+  "action_daily"
+ ],
+ "小朋友": [
+  "person",
+  "family"
+ ],
+ "左边": [
+  "direction",
+  "spatial_relation"
+ ],
+ "有用": [
+  "evaluation_adj",
+  "abstract_quality"
+ ],
+ "不大": [
+  "degree_adverb"
+ ],
+ "上车": [
+  "transport_travel",
+  "action_movement"
+ ],
+ "马路": [
+  "transport_travel",
+  "location"
+ ],
+ "门票": [
+  "transaction",
+  "commerce_trade"
+ ],
+ "机票": [
+  "transport_travel"
+ ],
+ "楼上": [
+  "spatial_relation",
+  "building"
+ ],
+ "下雨": [
+  "weather"
+ ],
+ "下车": [
+  "transport_travel",
+  "action_movement"
+ ],
+ "杯子": [
+  "object_home",
+  "drink"
+ ],
+ "路口": [
+  "location",
+  "transport_travel"
+ ],
+ "弟": [
+  "family"
+ ],
+ "电视机": [
+  "object_home",
+  "object_tech"
+ ],
+ "放学": [
+  "education",
+  "action_daily"
+ ],
+ "关上": [
+  "action_daily",
+  "physical_action",
+  "event_situation"
+ ],
+ "半天": [
+  "time_period"
+ ],
+ "车票": [
+  "transport_travel",
+  "transaction"
+ ],
+ "米饭": [
+  "food"
+ ],
+ "外语": [
+  "education",
+  "communication_formal"
+ ],
+ "没事儿": [
+  "communication_emotion",
+  "attitude"
+ ],
+ "小学生": [
+  "education",
+  "person"
+ ],
+ "外边": [
+  "location",
+  "direction",
+  "spatial_relation"
+ ],
+ "中学生": [
+  "education",
+  "person"
+ ],
+ "本子": [
+  "object_stationery",
+  "education"
+ ],
+ "星期日": [
+  "weekday",
+  "time_word"
+ ],
+ "课本": [
+  "education",
+  "object_stationery"
+ ],
+ "打车": [
+  "transport_travel",
+  "action_daily"
+ ],
+ "女孩儿": [
+  "person",
+  "family"
+ ],
+ "下边": [
+  "location",
+  "direction",
+  "spatial_relation"
+ ],
+ "汉字": [
+  "education",
+  "communication_formal"
+ ],
+ "请进": [
+  "greeting",
+  "politeness"
+ ],
+ "好玩儿": [
+  "evaluation_adj"
+ ],
+ "课文": [
+  "education"
+ ],
+ "请坐": [
+  "politeness",
+  "greeting"
+ ],
+ "半年": [
+  "time_period"
+ ],
+ "听写": [
+  "education",
+  "action_learning"
+ ],
+ "一下儿": [
+  "quantity_abstract"
+ ],
+ "有一些": [
+  "quantity",
+  "quantity_abstract"
+ ],
+ "男孩儿": [
+  "person"
+ ],
+ "面条儿": [
+  "food"
+ ],
+ "让": [
+  "action_communication"
+ ],
+ "为": [
+  "abstract_relation",
+  "process_change"
+ ],
+ "可能": [
+  "judgement",
+  "degree_adverb"
+ ],
+ "向": [
+  "direction",
+  "spatial_relation"
+ ],
+ "卖": [
+  "commerce_trade"
+ ],
+ "句": [
+  "action_communication",
+  "measurement",
+  "action_learning"
+ ],
+ "狗": [
+  "animal"
+ ],
+ "懂": [
+  "cognition"
+ ],
+ "黑": [
+  "color"
+ ],
+ "店": [
+  "building",
+  "commerce_trade"
+ ],
+ "眼": [
+  "body"
+ ],
+ "停": [
+  "action_movement",
+  "process_change"
+ ],
+ "气": [
+  "nature",
+  "material_substance"
+ ],
+ "红": [
+  "color"
+ ],
+ "眼睛": [
+  "body"
+ ],
+ "做到": [
+  "action_daily",
+  "process_change"
+ ],
+ "意思": [
+  "cognition",
+  "abstract_relation"
+ ],
+ "加油": [
+  "communication_emotion"
+ ],
+ "晚安": [
+  "greeting"
+ ],
+ "猫": [
+  "animal"
+ ],
+ "通": [
+  "action_movement",
+  "abstract_relation"
+ ],
+ "排": [
+  "physical_action",
+  "shape_form"
+ ],
+ "油": [
+  "material_substance",
+  "food"
+ ],
+ "喂": [
+  "communication_emotion",
+  "greeting"
+ ],
+ "流": [
+  "action_movement",
+  "nature"
+ ],
+ "养": [
+  "action_daily",
+  "family"
+ ],
+ "船": [
+  "transport_travel"
+ ],
+ "鸡": [
+  "animal",
+  "food"
+ ],
+ "不行": [
+  "evaluation_adj",
+  "judgement"
+ ],
+ "长大": [
+  "process_change",
+  "action_daily"
+ ],
+ "交给": [
+  "action_daily",
+  "transaction",
+  "physical_action"
+ ],
+ "封": [
+  "physical_action",
+  "measurement"
+ ],
+ "蛋": [
+  "food"
+ ],
+ "想起": [
+  "cognition"
+ ],
+ "纸": [
+  "material_substance",
+  "object_stationery"
+ ],
+ "一生": [
+  "time_period",
+  "abstract_quality"
+ ],
+ "急": [
+  "evaluation_adj",
+  "emotion"
+ ],
+ "接到": [
+  "action_communication"
+ ],
+ "好多": [
+  "quantity"
+ ],
+ "颜色": [
+  "color"
+ ],
+ "什么样": [
+  "pronoun"
+ ],
+ "雪": [
+  "weather",
+  "nature"
+ ],
+ "那时": [
+  "time_word"
+ ],
+ "心中": [
+  "cognition",
+  "emotion"
+ ],
+ "高中": [
+  "education"
+ ],
+ "讲话": [
+  "action_communication"
+ ],
+ "大多数": [
+  "quantity"
+ ],
+ "红色": [
+  "color"
+ ],
+ "放下": [
+  "physical_action"
+ ],
+ "早就": [
+  "time_word",
+  "manner_adverb"
+ ],
+ "练": [
+  "action_learning"
+ ],
+ "多久": [
+  "time_word"
+ ],
+ "球队": [
+  "sport"
+ ],
+ "上周": [
+  "time_word"
+ ],
+ "黑色": [
+  "color"
+ ],
+ "大人": [
+  "person"
+ ],
+ "绿色": [
+  "color"
+ ],
+ "公路": [
+  "transport_travel"
+ ],
+ "院": [
+  "building"
+ ],
+ "家长": [
+  "family"
+ ],
+ "白色": [
+  "color"
+ ],
+ "出租车": [
+  "transport_travel"
+ ],
+ "好事": [
+  "event_situation"
+ ],
+ "提到": [
+  "action_communication"
+ ],
+ "题": [
+  "education"
+ ],
+ "送给": [
+  "action_daily",
+  "action_communication"
+ ],
+ "不久": [
+  "time_word"
+ ],
+ "比如说": [
+  "logic_connective"
+ ],
+ "碰": [
+  "physical_action"
+ ],
+ "碰到": [
+  "physical_action",
+  "event_situation",
+  "action_communication"
+ ],
+ "蓝色": [
+  "color"
+ ],
+ "懂得": [
+  "cognition"
+ ],
+ "好久": [
+  "time_word"
+ ],
+ "夏天": [
+  "time_period",
+  "weather"
+ ],
+ "接下来": [
+  "time_word",
+  "logic_connective"
+ ],
+ "早餐": [
+  "food"
+ ],
+ "车辆": [
+  "transport_travel"
+ ],
+ "早晨": [
+  "time_word"
+ ],
+ "出门": [
+  "action_daily",
+  "action_movement"
+ ],
+ "以外": [
+  "spatial_relation",
+  "abstract_relation"
+ ],
+ "做法": [
+  "abstract_relation",
+  "action_daily"
+ ],
+ "全体": [
+  "quantity_abstract"
+ ],
+ "熟": [
+  "evaluation_adj",
+  "manner_state"
+ ],
+ "小时候": [
+  "time_period"
+ ],
+ "全身": [
+  "body"
+ ],
+ "咱": [
+  "pronoun"
+ ],
+ "平安": [
+  "manner_state",
+  "evaluation_adj"
+ ],
+ "队长": [
+  "occupation",
+  "person"
+ ],
+ "南方": [
+  "direction",
+  "geography"
+ ],
+ "停车": [
+  "transport_travel",
+  "action_movement"
+ ],
+ "好人": [
+  "person",
+  "evaluation_adj"
+ ],
+ "大声": [
+  "manner_adverb",
+  "perception"
+ ],
+ "分开": [
+  "action_movement",
+  "process_change"
+ ],
+ "相机": [
+  "object_tech"
+ ],
+ "今后": [
+  "time_word",
+  "time_period"
+ ],
+ "这时": [
+  "time_word"
+ ],
+ "大大": [
+  "degree_adverb"
+ ],
+ "科学家": [
+  "occupation",
+  "science_research"
+ ],
+ "晚餐": [
+  "food"
+ ],
+ "大门": [
+  "building"
+ ],
+ "晚会": [
+  "event_situation"
+ ],
+ "大小": [
+  "measurement",
+  "size"
+ ],
+ "不一定": [
+  "manner_adverb",
+  "degree_adverb"
+ ],
+ "计算机": [
+  "object_tech",
+  "technology"
+ ],
+ "阴": [
+  "weather"
+ ],
+ "凉": [
+  "weather",
+  "sensation"
+ ],
+ "半夜": [
+  "time_word"
+ ],
+ "黄色": [
+  "color"
+ ],
+ "姓名": [
+  "person"
+ ],
+ "午餐": [
+  "food"
+ ],
+ "校园": [
+  "education",
+  "place"
+ ],
+ "等到": [
+  "time_word",
+  "action_daily"
+ ],
+ "球场": [
+  "sport",
+  "place"
+ ],
+ "住院": [
+  "health_medical",
+  "action_daily"
+ ],
+ "椅子": [
+  "object_home"
+ ],
+ "游客": [
+  "person",
+  "transport_travel"
+ ],
+ "拿到": [
+  "action_daily",
+  "physical_action",
+  "process_change"
+ ],
+ "全家": [
+  "family"
+ ],
+ "从小": [
+  "time_word",
+  "manner_adverb"
+ ],
+ "公斤": [
+  "measurement",
+  "quantity"
+ ],
+ "星星": [
+  "nature"
+ ],
+ "不满": [
+  "emotion",
+  "evaluation_adj"
+ ],
+ "例子": [
+  "cognition",
+  "abstract_relation",
+  "abstract_quality"
+ ],
+ "快要": [
+  "time_word",
+  "degree_adverb"
+ ],
+ "常见": [
+  "evaluation_adj"
+ ],
+ "商人": [
+  "person",
+  "occupation",
+  "commerce_trade"
+ ],
+ "走过": [
+  "action_movement"
+ ],
+ "得出": [
+  "cognition",
+  "cause_effect"
+ ],
+ "停车场": [
+  "place",
+  "transport_travel"
+ ],
+ "大海": [
+  "nature",
+  "geography"
+ ],
+ "出租": [
+  "commerce_trade",
+  "action_daily"
+ ],
+ "这时候": [
+  "time_word"
+ ],
+ "老是": [
+  "manner_adverb",
+  "time_word"
+ ],
+ "月份": [
+  "time_period",
+  "date"
+ ],
+ "坏人": [
+  "person",
+  "evaluation_adj"
+ ],
+ "天上": [
+  "location",
+  "nature"
+ ],
+ "旅客": [
+  "person",
+  "transport_travel"
+ ],
+ "大衣": [
+  "clothing"
+ ],
+ "路边": [
+  "location",
+  "spatial_relation"
+ ],
+ "难题": [
+  "abstract_quality",
+  "cognition"
+ ],
+ "手表": [
+  "object_home"
+ ],
+ "院长": [
+  "occupation",
+  "education"
+ ],
+ "夜里": [
+  "time_period"
+ ],
+ "音乐会": [
+  "art",
+  "event_situation"
+ ],
+ "中年": [
+  "time_period",
+  "person"
+ ],
+ "找出": [
+  "action_daily",
+  "cognition"
+ ],
+ "院子": [
+  "building",
+  "place"
+ ],
+ "分数": [
+  "education",
+  "number",
+  "abstract_quality"
+ ],
+ "举手": [
+  "physical_action",
+  "body"
+ ],
+ "课堂": [
+  "education",
+  "place"
+ ],
+ "出国": [
+  "action_movement",
+  "transport_travel"
+ ],
+ "下雪": [
+  "weather"
+ ],
+ "气温": [
+  "weather",
+  "measurement"
+ ],
+ "骑车": [
+  "action_movement",
+  "transport_travel"
+ ],
+ "西南": [
+  "direction",
+  "geography"
+ ],
+ "西北": [
+  "direction",
+  "geography"
+ ],
+ "住房": [
+  "building",
+  "society_public"
+ ],
+ "出院": [
+  "health_medical",
+  "action_daily"
+ ],
+ "老朋友": [
+  "relationship_social",
+  "person"
+ ],
+ "走开": [
+  "action_movement"
+ ],
+ "笔记": [
+  "action_learning",
+  "education"
+ ],
+ "外地": [
+  "place",
+  "geography"
+ ],
+ "休假": [
+  "action_daily",
+  "work_career",
+  "time_period"
+ ],
+ "小声": [
+  "manner_state",
+  "action_communication"
+ ],
+ "大自然": [
+  "nature"
+ ],
+ "送到": [
+  "action_movement",
+  "action_daily",
+  "action_communication"
+ ],
+ "老年": [
+  "time_period",
+  "person"
+ ],
+ "动物园": [
+  "place",
+  "animal"
+ ],
+ "草地": [
+  "nature",
+  "place"
+ ],
+ "药店": [
+  "place",
+  "health_medical"
+ ],
+ "回国": [
+  "action_movement",
+  "transport_travel"
+ ],
+ "关机": [
+  "action_daily",
+  "object_tech"
+ ],
+ "晴": [
+  "weather"
+ ],
+ "班长": [
+  "education",
+  "person"
+ ],
+ "常用": [
+  "evaluation_adj"
+ ],
+ "里头": [
+  "spatial_relation",
+  "location"
+ ],
+ "日报": [
+  "media_news"
+ ],
+ "开学": [
+  "education",
+  "action_daily"
+ ],
+ "走进": [
+  "action_movement"
+ ],
+ "体育场": [
+  "building",
+  "sport"
+ ],
+ "组长": [
+  "person",
+  "work_career",
+  "occupation"
+ ],
+ "东南": [
+  "direction"
+ ],
+ "有点儿": [
+  "degree_adverb"
+ ],
+ "地铁站": [
+  "transport_travel",
+  "place"
+ ],
+ "快餐": [
+  "food"
+ ],
+ "站住": [
+  "action_movement",
+  "physical_action"
+ ],
+ "开机": [
+  "action_daily",
+  "object_tech"
+ ],
+ "公共汽车": [
+  "transport_travel"
+ ],
+ "过年": [
+  "culture",
+  "date"
+ ],
+ "零下": [
+  "weather",
+  "measurement"
+ ],
+ "拿出": [
+  "physical_action"
+ ],
+ "中餐": [
+  "food"
+ ],
+ "晴天": [
+  "weather"
+ ],
+ "全年": [
+  "time_period"
+ ],
+ "那会儿": [
+  "time_word"
+ ],
+ "外卖": [
+  "food",
+  "commerce_trade"
+ ],
+ "方便面": [
+  "food"
+ ],
+ "球鞋": [
+  "clothing",
+  "sport"
+ ],
+ "交朋友": [
+  "relationship_social"
+ ],
+ "一路顺风": [
+  "greeting",
+  "transport_travel"
+ ],
+ "晚报": [
+  "media_news"
+ ],
+ "难听": [
+  "evaluation_adj",
+  "perception"
+ ],
+ "药水": [
+  "health_medical"
+ ],
+ "中医": [
+  "health_medical"
+ ],
+ "坏处": [
+  "abstract_quality",
+  "evaluation_adj"
+ ],
+ "前年": [
+  "time_word",
+  "date"
+ ],
+ "千克": [
+  "measurement"
+ ],
+ "问路": [
+  "action_communication",
+  "transport_travel"
+ ],
+ "叫作": [
+  "action_communication"
+ ],
+ "午睡": [
+  "action_daily",
+  "body_state"
+ ],
+ "药片": [
+  "health_medical"
+ ],
+ "音节": [
+  "communication_formal"
+ ],
+ "中级": [
+  "evaluation_adj",
+  "education"
+ ],
+ "春节": [
+  "culture",
+  "time_word"
+ ],
+ "阴天": [
+  "weather"
+ ],
+ "西医": [
+  "health_medical"
+ ],
+ "听讲": [
+  "education",
+  "action_learning"
+ ],
+ "考生": [
+  "education",
+  "person"
+ ],
+ "读音": [
+  "education",
+  "communication_formal"
+ ],
+ "中小学": [
+  "education",
+  "building"
+ ],
+ "西餐": [
+  "food"
+ ],
+ "一路平安": [
+  "greeting",
+  "transport_travel"
+ ],
+ "不一会儿": [
+  "time_period",
+  "manner_adverb"
+ ],
+ "不太": [
+  "degree_adverb"
+ ],
+ "生词": [
+  "education",
+  "action_learning"
+ ],
+ "下周": [
+  "time_word"
+ ],
+ "公交车": [
+  "transport_travel"
+ ],
+ "快点儿": [
+  "manner_adverb",
+  "action_communication"
+ ],
+ "挺好": [
+  "evaluation_adj"
+ ],
+ "有一点儿": [
+  "degree_adverb",
+  "quantity_abstract"
+ ],
+ "笑话儿": [
+  "action_communication"
+ ],
+ "见过": [
+  "perception",
+  "cognition"
+ ],
+ "那时候": [
+  "time_word",
+  "time_period"
+ ],
+ "银行卡": [
+  "economy_finance",
+  "money"
+ ],
+ "张": [
+  "measurement"
+ ],
+ "极了": [
+  "degree_adverb"
+ ],
+ "伤": [
+  "body_state",
+  "health_medical"
+ ],
+ "步": [
+  "action_movement",
+  "measurement"
+ ],
+ "亲": [
+  "family",
+  "relationship_social"
+ ],
+ "跳": [
+  "action_movement",
+  "physical_action"
+ ],
+ "照": [
+  "physical_action",
+  "perception"
+ ],
+ "痛": [
+  "body_state",
+  "sensation"
+ ],
+ "后面": [
+  "spatial_relation",
+  "direction"
+ ],
+ "整": [
+  "quantity_abstract",
+  "manner_state"
+ ],
+ "空": [
+  "abstract_quality",
+  "shape_form"
+ ],
+ "外面": [
+  "spatial_relation",
+  "location"
+ ],
+ "架": [
+  "measurement",
+  "object_home"
+ ],
+ "室": [
+  "building",
+  "location"
+ ],
+ "哈哈": [
+  "communication_emotion"
+ ],
+ "准": [
+  "evaluation_adj",
+  "action_communication"
+ ],
+ "皮": [
+  "body",
+  "material_substance"
+ ],
+ "代": [
+  "time_period",
+  "action_daily",
+  "process_change"
+ ],
+ "调": [
+  "action_movement",
+  "art"
+ ],
+ "抓住": [
+  "physical_action"
+ ],
+ "美好": [
+  "evaluation_adj"
+ ],
+ "配": [
+  "abstract_relation",
+  "action_daily"
+ ],
+ "乐": [
+  "emotion",
+  "evaluation_adj"
+ ],
+ "事实上": [
+  "manner_adverb",
+  "logic_connective"
+ ],
+ "保": [
+  "action_daily",
+  "abstract_relation"
+ ],
+ "证": [
+  "law_admin_doc",
+  "cognition"
+ ],
+ "演": [
+  "art",
+  "action_communication"
+ ],
+ "胜": [
+  "abstract_quality",
+  "sport",
+  "event_situation"
+ ],
+ "慢慢": [
+  "manner_adverb",
+  "manner_state"
+ ],
+ "压": [
+  "physical_action"
+ ],
+ "队员": [
+  "person",
+  "sport"
+ ],
+ "板": [
+  "material_substance",
+  "object_home"
+ ],
+ "前面": [
+  "spatial_relation",
+  "direction"
+ ],
+ "付": [
+  "commerce_trade",
+  "action_daily",
+  "transaction"
+ ],
+ "内心": [
+  "emotion",
+  "cognition"
+ ],
+ "防": [
+  "physical_action",
+  "abstract_relation"
+ ],
+ "舞台": [
+  "art",
+  "location"
+ ],
+ "烟": [
+  "material_substance",
+  "object_home"
+ ],
+ "生意": [
+  "commerce_trade",
+  "economy_finance"
+ ],
+ "赶": [
+  "action_movement",
+  "physical_action"
+ ],
+ "迷": [
+  "person",
+  "hobby"
+ ],
+ "上去": [
+  "action_movement",
+  "direction"
+ ],
+ "仅仅": [
+  "degree_adverb"
+ ],
+ "游": [
+  "action_movement",
+  "sport"
+ ],
+ "铁": [
+  "material_substance"
+ ],
+ "录": [
+  "action_communication"
+ ],
+ "背后": [
+  "spatial_relation",
+  "direction"
+ ],
+ "土": [
+  "material_substance",
+  "nature"
+ ],
+ "缺": [
+  "abstract_quality",
+  "process_change",
+  "quantity_abstract"
+ ],
+ "相互": [
+  "abstract_relation"
+ ],
+ "眼前": [
+  "spatial_relation",
+  "time_word"
+ ],
+ "古": [
+  "time_period",
+  "evaluation_adj"
+ ],
+ "羊": [
+  "animal"
+ ],
+ "造": [
+  "physical_action",
+  "industry_production"
+ ],
+ "前进": [
+  "action_movement",
+  "direction",
+  "process_change"
+ ],
+ "看上去": [
+  "perception",
+  "evaluation_adj"
+ ],
+ "环": [
+  "shape_form",
+  "object_home"
+ ],
+ "退出": [
+  "action_movement",
+  "object_tech"
+ ],
+ "齐": [
+  "evaluation_adj"
+ ],
+ "上升": [
+  "action_movement",
+  "process_change"
+ ],
+ "围": [
+  "physical_action",
+  "spatial_relation"
+ ],
+ "飞行": [
+  "action_movement",
+  "transport_travel"
+ ],
+ "福": [
+  "abstract_quality"
+ ],
+ "补": [
+  "physical_action",
+  "process_change"
+ ],
+ "赶到": [
+  "action_movement"
+ ],
+ "相比": [
+  "cognition",
+  "abstract_relation"
+ ],
+ "深入": [
+  "evaluation_adj",
+  "cognition"
+ ],
+ "情感": [
+  "emotion",
+  "abstract_quality"
+ ],
+ "人群": [
+  "person",
+  "society_public"
+ ],
+ "争": [
+  "physical_action",
+  "action_communication"
+ ],
+ "订": [
+  "commerce_trade",
+  "action_daily"
+ ],
+ "保安": [
+  "occupation",
+  "society_public"
+ ],
+ "歌手": [
+  "occupation",
+  "art"
+ ],
+ "看起来": [
+  "perception",
+  "evaluation_adj",
+  "abstract_relation"
+ ],
+ "放到": [
+  "physical_action"
+ ],
+ "静": [
+  "manner_state",
+  "evaluation_adj"
+ ],
+ "谈话": [
+  "action_communication",
+  "communication_emotion"
+ ],
+ "能不能": [
+  "communication_formal"
+ ],
+ "打破": [
+  "physical_action",
+  "process_change"
+ ],
+ "上来": [
+  "action_movement",
+  "direction"
+ ],
+ "西部": [
+  "geography",
+  "direction"
+ ],
+ "改造": [
+  "process_change",
+  "industry_production"
+ ],
+ "不论": [
+  "logic_connective"
+ ],
+ "整天": [
+  "time_period",
+  "time_word"
+ ],
+ "观看": [
+  "perception",
+  "action_daily"
+ ],
+ "房屋": [
+  "building"
+ ],
+ "得分": [
+  "sport",
+  "quantity_abstract"
+ ],
+ "基本上": [
+  "manner_adverb",
+  "degree_adverb"
+ ],
+ "预计": [
+  "cognition"
+ ],
+ "加快": [
+  "process_change",
+  "action_movement"
+ ],
+ "乐队": [
+  "art",
+  "person"
+ ],
+ "演唱会": [
+  "art",
+  "event_situation"
+ ],
+ "演唱": [
+  "art",
+  "action_communication"
+ ],
+ "会员": [
+  "person",
+  "relationship_social"
+ ],
+ "生长": [
+  "process_change",
+  "nature"
+ ],
+ "电视剧": [
+  "art",
+  "media_news"
+ ],
+ "身份证": [
+  "law_admin_doc"
+ ],
+ "收费": [
+  "commerce_trade",
+  "money",
+  "transaction"
+ ],
+ "头脑": [
+  "cognition",
+  "body"
+ ],
+ "难度": [
+  "abstract_quality",
+  "measurement"
+ ],
+ "通信": [
+  "communication_formal",
+  "technology"
+ ],
+ "环保": [
+  "nature",
+  "society_public"
+ ],
+ "发送": [
+  "action_communication",
+  "technology"
+ ],
+ "播出": [
+  "media_news",
+  "action_communication"
+ ],
+ "巧": [
+  "manner_adverb",
+  "evaluation_adj"
+ ],
+ "整整": [
+  "degree_adverb",
+  "quantity",
+  "quantity_abstract"
+ ],
+ "亲人": [
+  "family",
+  "relationship_social"
+ ],
+ "早已": [
+  "time_word",
+  "manner_adverb"
+ ],
+ "南部": [
+  "direction",
+  "geography"
+ ],
+ "没用": [
+  "evaluation_adj"
+ ],
+ "另一方面": [
+  "logic_connective"
+ ],
+ "排名": [
+  "abstract_relation",
+  "evaluation_adj",
+  "abstract_quality"
+ ],
+ "行李": [
+  "transport_travel",
+  "object_home"
+ ],
+ "东部": [
+  "direction",
+  "geography"
+ ],
+ "传来": [
+  "action_movement",
+  "perception"
+ ],
+ "高速公路": [
+  "transport_travel",
+  "building"
+ ],
+ "北部": [
+  "direction",
+  "geography"
+ ],
+ "适用": [
+  "evaluation_adj",
+  "abstract_relation"
+ ],
+ "牌子": [
+  "commerce_trade",
+  "object_home"
+ ],
+ "金牌": [
+  "sport"
+ ],
+ "旅馆": [
+  "building",
+  "transport_travel"
+ ],
+ "志愿者": [
+  "person",
+  "society_public"
+ ],
+ "短期": [
+  "time_period",
+  "evaluation_adj"
+ ],
+ "全场": [
+  "quantity_abstract",
+  "society_public"
+ ],
+ "价钱": [
+  "commerce_trade",
+  "money"
+ ],
+ "干吗": [
+  "action_communication"
+ ],
+ "底下": [
+  "spatial_relation",
+  "location"
+ ],
+ "美食": [
+  "food"
+ ],
+ "中华民族": [
+  "country",
+  "society_public"
+ ],
+ "前后": [
+  "time_period",
+  "spatial_relation"
+ ],
+ "学费": [
+  "education",
+  "money"
+ ],
+ "中部": [
+  "geography",
+  "location"
+ ],
+ "歌声": [
+  "art",
+  "perception"
+ ],
+ "认出": [
+  "cognition",
+  "perception"
+ ],
+ "可乐": [
+  "drink"
+ ],
+ "近期": [
+  "time_period",
+  "time_word"
+ ],
+ "歌迷": [
+  "person",
+  "art"
+ ],
+ "解开": [
+  "physical_action",
+  "cognition"
+ ],
+ "初中": [
+  "education"
+ ],
+ "不光": [
+  "logic_connective",
+  "degree_adverb"
+ ],
+ "子女": [
+  "family",
+  "person"
+ ],
+ "老太太": [
+  "person",
+  "politeness"
+ ],
+ "上衣": [
+  "clothing"
+ ],
+ "建成": [
+  "physical_action",
+  "process_change",
+  "industry_production"
+ ],
+ "一方面": [
+  "logic_connective"
+ ],
+ "动人": [
+  "evaluation_adj",
+  "emotion"
+ ],
+ "剧场": [
+  "building",
+  "art"
+ ],
+ "开业": [
+  "commerce_trade",
+  "work_career"
+ ],
+ "彩色": [
+  "color"
+ ],
+ "收看": [
+  "action_daily",
+  "media_news"
+ ],
+ "公务员": [
+  "occupation",
+  "politics_government"
+ ],
+ "世界杯": [
+  "sport"
+ ],
+ "听众": [
+  "person",
+  "media_news"
+ ],
+ "变为": [
+  "process_change"
+ ],
+ "志愿": [
+  "abstract_quality",
+  "cognition"
+ ],
+ "职工": [
+  "occupation",
+  "work_career"
+ ],
+ "熟人": [
+  "person",
+  "relationship_social"
+ ],
+ "认得": [
+  "cognition",
+  "perception"
+ ],
+ "邮票": [
+  "object_stationery"
+ ],
+ "推开": [
+  "physical_action",
+  "action_movement"
+ ],
+ "短裤": [
+  "clothing"
+ ],
+ "收听": [
+  "action_daily",
+  "media_news",
+  "action_communication"
+ ],
+ "电子邮件": [
+  "communication_formal",
+  "object_tech"
+ ],
+ "衬衣": [
+  "clothing"
+ ],
+ "班级": [
+  "education"
+ ],
+ "现代化": [
+  "process_change",
+  "society_public"
+ ],
+ "旅行社": [
+  "transport_travel",
+  "commerce_trade"
+ ],
+ "话剧": [
+  "art",
+  "culture"
+ ],
+ "沙子": [
+  "material_substance",
+  "nature"
+ ],
+ "分组": [
+  "action_daily",
+  "abstract_relation"
+ ],
+ "年底": [
+  "time_period"
+ ],
+ "带动": [
+  "cause_effect",
+  "process_change"
+ ],
+ "交警": [
+  "occupation",
+  "law_justice"
+ ],
+ "代表团": [
+  "politics_government",
+  "relationship_social"
+ ],
+ "影视": [
+  "art",
+  "media_news"
+ ],
+ "国庆": [
+  "date",
+  "politics_government"
+ ],
+ "所长": [
+  "occupation",
+  "work_career"
+ ],
+ "票价": [
+  "commerce_trade",
+  "money",
+  "transaction"
+ ],
+ "华人": [
+  "person"
+ ],
+ "有的是": [
+  "quantity_abstract"
+ ],
+ "皮包": [
+  "object_home"
+ ],
+ "图画": [
+  "art"
+ ],
+ "长处": [
+  "abstract_quality"
+ ],
+ "年初": [
+  "time_period"
+ ],
+ "试题": [
+  "education"
+ ],
+ "积极性": [
+  "abstract_quality",
+  "personality_trait",
+  "attitude"
+ ],
+ "初一": [
+  "date",
+  "time_word"
+ ],
+ "奶茶": [
+  "drink"
+ ],
+ "银牌": [
+  "sport",
+  "object_home"
+ ],
+ "老头儿": [
+  "person"
+ ],
+ "交费": [
+  "commerce_trade",
+  "action_daily",
+  "transaction"
+ ],
+ "凉水": [
+  "drink",
+  "material_substance"
+ ],
+ "跳高": [
+  "sport"
+ ],
+ "衣架": [
+  "object_home",
+  "clothing"
+ ],
+ "外文": [
+  "communication_formal",
+  "education"
+ ],
+ "短处": [
+  "abstract_quality",
+  "evaluation_adj"
+ ],
+ "跳远": [
+  "sport"
+ ],
+ "后年": [
+  "time_word"
+ ],
+ "红酒": [
+  "drink"
+ ],
+ "首": [
+  "measurement",
+  "abstract_relation",
+  "occupation"
+ ],
+ "局": [
+  "society_public",
+  "measurement",
+  "event_situation"
+ ],
+ "轮": [
+  "object_tech",
+  "measurement"
+ ],
+ "停下": [
+  "action_movement",
+  "process_change"
+ ],
+ "妻子": [
+  "family",
+  "person"
+ ],
+ "怪": [
+  "evaluation_adj",
+  "emotion"
+ ],
+ "盘": [
+  "object_home",
+  "measurement"
+ ],
+ "丈夫": [
+  "family",
+  "person"
+ ],
+ "牌": [
+  "object_home",
+  "commerce_trade"
+ ],
+ "落": [
+  "action_daily"
+ ],
+ "烧": [
+  "action_daily",
+  "health_medical"
+ ],
+ "季": [
+  "time_period"
+ ],
+ "抽": [
+  "physical_action"
+ ],
+ "货": [
+  "commerce_trade"
+ ],
+ "手里": [
+  "spatial_relation"
+ ],
+ "垃圾": [
+  "object_home"
+ ],
+ "赢得": [
+  "action_daily",
+  "event_situation"
+ ],
+ "替": [
+  "action_daily",
+  "process_change"
+ ],
+ "色": [
+  "color",
+  "perception"
+ ],
+ "编": [
+  "action_communication",
+  "action_daily"
+ ],
+ "宝": [
+  "abstract_quality",
+  "evaluation_adj"
+ ],
+ "宝宝": [
+  "person",
+  "family"
+ ],
+ "美女": [
+  "person"
+ ],
+ "药物": [
+  "health_medical"
+ ],
+ "冰": [
+  "nature",
+  "material_substance"
+ ],
+ "结": [
+  "physical_action"
+ ],
+ "烦": [
+  "emotion"
+ ],
+ "付出": [
+  "action_daily",
+  "abstract_relation",
+  "physical_action"
+ ],
+ "透": [
+  "physical_action",
+  "degree_adverb"
+ ],
+ "治": [
+  "health_medical",
+  "politics_government"
+ ],
+ "闹": [
+  "action_communication",
+  "manner_state"
+ ],
+ "检测": [
+  "science_research",
+  "action_learning"
+ ],
+ "列": [
+  "shape_form",
+  "action_daily"
+ ],
+ "户": [
+  "family",
+  "measurement"
+ ],
+ "归": [
+  "action_movement",
+  "abstract_relation"
+ ],
+ "挑": [
+  "action_daily",
+  "cognition"
+ ],
+ "老公": [
+  "family",
+  "relationship_social"
+ ],
+ "吸": [
+  "body_state",
+  "physical_action"
+ ],
+ "箱": [
+  "object_home"
+ ],
+ "下降": [
+  "process_change"
+ ],
+ "兵": [
+  "military_conflict",
+  "occupation"
+ ],
+ "回复": [
+  "action_communication"
+ ],
+ "牙": [
+  "body"
+ ],
+ "肥": [
+  "evaluation_adj"
+ ],
+ "湿": [
+  "manner_state"
+ ],
+ "守": [
+  "physical_action"
+ ],
+ "法官": [
+  "occupation",
+  "law_justice"
+ ],
+ "松": [
+  "manner_state"
+ ],
+ "登": [
+  "action_movement"
+ ],
+ "遇": [
+  "action_movement",
+  "relationship_social"
+ ],
+ "引": [
+  "physical_action"
+ ],
+ "降": [
+  "process_change"
+ ],
+ "睡着": [
+  "action_daily",
+  "body_state"
+ ],
+ "地下": [
+  "location",
+  "spatial_relation"
+ ],
+ "闪": [
+  "action_movement"
+ ],
+ "袋": [
+  "object_home"
+ ],
+ "散": [
+  "action_movement",
+  "process_change"
+ ],
+ "战士": [
+  "military_conflict",
+  "person"
+ ],
+ "针": [
+  "object_home",
+  "health_medical"
+ ],
+ "装置": [
+  "object_tech",
+  "technology"
+ ],
+ "划": [
+  "action_movement"
+ ],
+ "移": [
+  "action_movement",
+  "process_change"
+ ],
+ "测": [
+  "action_learning",
+  "science_research"
+ ],
+ "医学": [
+  "health_medical",
+  "science_research"
+ ],
+ "运动员": [
+  "sport",
+  "occupation"
+ ],
+ "姐妹": [
+  "family",
+  "relationship_social"
+ ],
+ "外套": [
+  "clothing"
+ ],
+ "聚": [
+  "action_movement",
+  "relationship_social",
+  "action_daily"
+ ],
+ "黑暗": [
+  "abstract_quality",
+  "perception"
+ ],
+ "含": [
+  "physical_action",
+  "abstract_relation"
+ ],
+ "地面": [
+  "location",
+  "spatial_relation"
+ ],
+ "纯": [
+  "evaluation_adj",
+  "abstract_quality"
+ ],
+ "稳": [
+  "evaluation_adj",
+  "manner_state"
+ ],
+ "遇见": [
+  "action_movement",
+  "relationship_social"
+ ],
+ "夫妻": [
+  "family",
+  "relationship_social"
+ ],
+ "眼泪": [
+  "body",
+  "emotion"
+ ],
+ "隔": [
+  "spatial_relation",
+  "physical_action",
+  "process_change"
+ ],
+ "供应": [
+  "commerce_trade",
+  "action_daily"
+ ],
+ "战胜": [
+  "military_conflict",
+  "process_change"
+ ],
+ "密": [
+  "evaluation_adj",
+  "manner_state",
+  "abstract_quality"
+ ],
+ "独自": [
+  "manner_adverb"
+ ],
+ "大哥": [
+  "family",
+  "relationship_social"
+ ],
+ "大众": [
+  "society_public",
+  "person"
+ ],
+ "减": [
+  "process_change",
+  "quantity_abstract"
+ ],
+ "末": [
+  "time_word",
+  "spatial_relation",
+  "time_period"
+ ],
+ "细": [
+  "evaluation_adj",
+  "shape_form",
+  "size"
+ ],
+ "出售": [
+  "commerce_trade",
+  "transaction"
+ ],
+ "堵": [
+  "physical_action",
+  "transport_travel"
+ ],
+ "拍照": [
+  "action_daily",
+  "hobby"
+ ],
+ "轻易": [
+  "manner_adverb",
+  "degree_adverb"
+ ],
+ "大楼": [
+  "building"
+ ],
+ "名人": [
+  "person",
+  "society_public"
+ ],
+ "转身": [
+  "action_movement",
+  "body"
+ ],
+ "投诉": [
+  "action_communication",
+  "commerce_trade"
+ ],
+ "体重": [
+  "body",
+  "health_medical"
+ ],
+ "面试": [
+  "work_career",
+  "communication_formal"
+ ],
+ "无所谓": [
+  "attitude",
+  "evaluation_adj"
+ ],
+ "沉": [
+  "action_movement",
+  "manner_state"
+ ],
+ "伙": [
+  "person",
+  "relationship_social",
+  "society_public"
+ ],
+ "装修": [
+  "action_daily",
+  "building"
+ ],
+ "填": [
+  "physical_action"
+ ],
+ "唱片": [
+  "art",
+  "object_tech"
+ ],
+ "有限": [
+  "evaluation_adj",
+  "quantity_abstract"
+ ],
+ "眼里": [
+  "cognition",
+  "body"
+ ],
+ "不在乎": [
+  "attitude",
+  "emotion"
+ ],
+ "粗": [
+  "evaluation_adj",
+  "shape_form",
+  "size"
+ ],
+ "列车": [
+  "transport_travel"
+ ],
+ "喜爱": [
+  "emotion",
+  "attitude"
+ ],
+ "败": [
+  "process_change",
+  "military_conflict",
+  "event_situation"
+ ],
+ "好友": [
+  "relationship_social",
+  "person"
+ ],
+ "尺": [
+  "measurement",
+  "object_stationery"
+ ],
+ "胖子": [
+  "person",
+  "body"
+ ],
+ "男女": [
+  "person",
+  "relationship_social"
+ ],
+ "收回": [
+  "action_daily",
+  "abstract_relation"
+ ],
+ "渐渐": [
+  "manner_adverb",
+  "process_change"
+ ],
+ "亲密": [
+  "relationship_social",
+  "evaluation_adj"
+ ],
+ "口袋": [
+  "object_home",
+  "clothing"
+ ],
+ "无限": [
+  "abstract_quality",
+  "quantity_abstract"
+ ],
+ "嘴巴": [
+  "body"
+ ],
+ "扫": [
+  "action_daily",
+  "physical_action"
+ ],
+ "含量": [
+  "measurement",
+  "quantity_abstract"
+ ],
+ "挑选": [
+  "action_daily",
+  "cognition"
+ ],
+ "灯光": [
+  "perception",
+  "object_home"
+ ],
+ "健身": [
+  "sport",
+  "health_medical"
+ ],
+ "比分": [
+  "sport",
+  "number"
+ ],
+ "江": [
+  "nature",
+  "geography"
+ ],
+ "办事": [
+  "action_daily",
+  "work_career"
+ ],
+ "塑料": [
+  "material_substance"
+ ],
+ "做梦": [
+  "action_daily",
+  "cognition"
+ ],
+ "被迫": [
+  "abstract_relation"
+ ],
+ "台上": [
+  "location",
+  "spatial_relation"
+ ],
+ "获取": [
+  "action_daily"
+ ],
+ "成人": [
+  "person"
+ ],
+ "招呼": [
+  "greeting",
+  "action_communication"
+ ],
+ "小型": [
+  "size",
+  "evaluation_adj"
+ ],
+ "胸部": [
+  "body"
+ ],
+ "楼梯": [
+  "building"
+ ],
+ "没错": [
+  "evaluation_adj"
+ ],
+ "身高": [
+  "body",
+  "measurement"
+ ],
+ "玉": [
+  "material_substance"
+ ],
+ "打败": [
+  "physical_action",
+  "military_conflict"
+ ],
+ "含有": [
+  "abstract_relation"
+ ],
+ "潮": [
+  "manner_state",
+  "weather"
+ ],
+ "拉开": [
+  "physical_action",
+  "action_movement"
+ ],
+ "大规模": [
+  "evaluation_adj",
+  "quantity_abstract"
+ ],
+ "大多": [
+  "degree_adverb",
+  "quantity_abstract"
+ ],
+ "男士": [
+  "person"
+ ],
+ "上门": [
+  "action_movement",
+  "action_daily"
+ ],
+ "童年": [
+  "time_period"
+ ],
+ "市区": [
+  "place",
+  "location"
+ ],
+ "泪": [
+  "body",
+  "emotion"
+ ],
+ "汇": [
+  "economy_finance",
+  "commerce_trade",
+  "transaction"
+ ],
+ "商务": [
+  "commerce_trade",
+  "work_career"
+ ],
+ "燃料": [
+  "material_substance"
+ ],
+ "替代": [
+  "process_change",
+  "abstract_relation"
+ ],
+ "美金": [
+  "money",
+  "economy_finance"
+ ],
+ "箱子": [
+  "object_home"
+ ],
+ "严": [
+  "evaluation_adj",
+  "personality_trait"
+ ],
+ "尺寸": [
+  "measurement",
+  "size"
+ ],
+ "穿上": [
+  "action_daily",
+  "clothing"
+ ],
+ "吸烟": [
+  "action_daily",
+  "health_medical"
+ ],
+ "途中": [
+  "transport_travel",
+  "spatial_relation"
+ ],
+ "鲜": [
+  "evaluation_adj",
+  "food"
+ ],
+ "避": [
+  "action_movement"
+ ],
+ "诗人": [
+  "occupation",
+  "art"
+ ],
+ "瓜": [
+  "food",
+  "vegetable"
+ ],
+ "语音": [
+  "communication_formal",
+  "object_tech"
+ ],
+ "上个月": [
+  "time_word",
+  "date"
+ ],
+ "毕业生": [
+  "education",
+  "person"
+ ],
+ "帅哥": [
+  "person",
+  "relationship_social",
+  "evaluation_adj"
+ ],
+ "老家": [
+  "place",
+  "family"
+ ],
+ "寒冷": [
+  "weather",
+  "evaluation_adj"
+ ],
+ "鲜花": [
+  "nature"
+ ],
+ "冬季": [
+  "time_period",
+  "weather"
+ ],
+ "穷人": [
+  "person",
+  "society_public"
+ ],
+ "宁静": [
+  "manner_state",
+  "evaluation_adj"
+ ],
+ "树林": [
+  "nature",
+  "geography"
+ ],
+ "以内": [
+  "spatial_relation",
+  "abstract_relation"
+ ],
+ "多种": [
+  "quantity_abstract"
+ ],
+ "型号": [
+  "object_tech",
+  "commerce_trade"
+ ],
+ "快递": [
+  "commerce_trade",
+  "action_daily"
+ ],
+ "新型": [
+  "evaluation_adj",
+  "abstract_quality"
+ ],
+ "酸奶": [
+  "food",
+  "drink"
+ ],
+ "耳机": [
+  "object_tech"
+ ],
+ "两边": [
+  "spatial_relation",
+  "direction"
+ ],
+ "暑假": [
+  "time_period",
+  "education"
+ ],
+ "梦见": [
+  "cognition",
+  "action_daily"
+ ],
+ "夏季": [
+  "time_period",
+  "weather"
+ ],
+ "获奖": [
+  "event_situation"
+ ],
+ "种植": [
+  "action_daily",
+  "industry_production"
+ ],
+ "爱国": [
+  "attitude",
+  "politics_government"
+ ],
+ "种类": [
+  "abstract_relation"
+ ],
+ "奖学金": [
+  "education",
+  "money"
+ ],
+ "泪水": [
+  "body",
+  "emotion"
+ ],
+ "步行": [
+  "action_movement",
+  "transport_travel"
+ ],
+ "使劲": [
+  "physical_action"
+ ],
+ "中奖": [
+  "action_daily",
+  "event_situation"
+ ],
+ "赏": [
+  "action_communication",
+  "perception"
+ ],
+ "巴士": [
+  "transport_travel"
+ ],
+ "引进": [
+  "process_change",
+  "commerce_trade",
+  "action_communication"
+ ],
+ "列入": [
+  "action_communication"
+ ],
+ "充电": [
+  "action_daily",
+  "technology"
+ ],
+ "分为": [
+  "process_change",
+  "abstract_relation"
+ ],
+ "促销": [
+  "commerce_trade"
+ ],
+ "体检": [
+  "health_medical"
+ ],
+ "宝石": [
+  "material_substance",
+  "evaluation_adj"
+ ],
+ "着火": [
+  "process_change"
+ ],
+ "晚点": [
+  "transport_travel",
+  "time_word"
+ ],
+ "研制": [
+  "science_research",
+  "industry_production"
+ ],
+ "转动": [
+  "action_movement"
+ ],
+ "离不开": [
+  "abstract_relation"
+ ],
+ "列为": [
+  "cognition"
+ ],
+ "海水": [
+  "nature"
+ ],
+ "动摇": [
+  "attitude",
+  "process_change",
+  "physical_action"
+ ],
+ "体操": [
+  "sport"
+ ],
+ "大爷": [
+  "family",
+  "person"
+ ],
+ "秋季": [
+  "time_period"
+ ],
+ "扩展": [
+  "process_change"
+ ],
+ "平稳": [
+  "evaluation_adj",
+  "manner_state"
+ ],
+ "一般来说": [
+  "logic_connective",
+  "manner_adverb"
+ ],
+ "相片": [
+  "object_home",
+  "art"
+ ],
+ "闹钟": [
+  "object_home",
+  "time_word"
+ ],
+ "大姐": [
+  "family",
+  "person"
+ ],
+ "气球": [
+  "object_home"
+ ],
+ "春季": [
+  "time_period",
+  "nature"
+ ],
+ "赞赏": [
+  "communication_emotion",
+  "attitude",
+  "emotion"
+ ],
+ "构造": [
+  "abstract_relation",
+  "shape_form"
+ ],
+ "虫子": [
+  "animal"
+ ],
+ "刷牙": [
+  "action_daily",
+  "body"
+ ],
+ "轮椅": [
+  "health_medical",
+  "object_home"
+ ],
+ "特价": [
+  "commerce_trade",
+  "money"
+ ],
+ "暖气": [
+  "object_home",
+  "building"
+ ],
+ "二手": [
+  "evaluation_adj",
+  "commerce_trade"
+ ],
+ "味儿": [
+  "taste",
+  "perception"
+ ],
+ "优良": [
+  "evaluation_adj"
+ ],
+ "转弯": [
+  "action_movement",
+  "transport_travel"
+ ],
+ "期末": [
+  "education",
+  "time_period"
+ ],
+ "上楼": [
+  "action_movement",
+  "direction"
+ ],
+ "下楼": [
+  "action_movement",
+  "direction"
+ ],
+ "百货": [
+  "commerce_trade"
+ ],
+ "点名": [
+  "action_communication",
+  "education"
+ ],
+ "茶叶": [
+  "drink",
+  "food"
+ ],
+ "运动会": [
+  "sport",
+  "event_situation"
+ ],
+ "开花": [
+  "nature",
+  "process_change"
+ ],
+ "登山": [
+  "sport",
+  "action_movement"
+ ],
+ "降温": [
+  "weather",
+  "process_change"
+ ],
+ "抽奖": [
+  "event_situation"
+ ],
+ "孙女": [
+  "family",
+  "person"
+ ],
+ "大巴": [
+  "transport_travel"
+ ],
+ "树叶": [
+  "nature"
+ ],
+ "高价": [
+  "commerce_trade",
+  "money"
+ ],
+ "大妈": [
+  "person",
+  "family"
+ ],
+ "套餐": [
+  "food",
+  "commerce_trade"
+ ],
+ "率先": [
+  "manner_adverb",
+  "action_movement"
+ ],
+ "冰雪": [
+  "nature",
+  "weather"
+ ],
+ "牙刷": [
+  "object_home"
+ ],
+ "诚信": [
+  "abstract_quality",
+  "personality_trait"
+ ],
+ "窗子": [
+  "building",
+  "object_home"
+ ],
+ "月底": [
+  "time_word",
+  "time_period"
+ ],
+ "深厚": [
+  "evaluation_adj",
+  "abstract_quality"
+ ],
+ "降价": [
+  "commerce_trade",
+  "process_change",
+  "money"
+ ],
+ "通知书": [
+  "communication_formal",
+  "law_admin_doc"
+ ],
+ "外交官": [
+  "occupation",
+  "politics_government"
+ ],
+ "培训班": [
+  "education"
+ ],
+ "外汇": [
+  "economy_finance",
+  "money"
+ ],
+ "轮子": [
+  "object_tech",
+  "transport_travel"
+ ],
+ "汽水": [
+  "drink"
+ ],
+ "学分": [
+  "education"
+ ],
+ "摆动": [
+  "action_movement",
+  "physical_action"
+ ],
+ "倒车": [
+  "transport_travel",
+  "action_movement"
+ ],
+ "后头": [
+  "direction",
+  "spatial_relation"
+ ],
+ "宽广": [
+  "evaluation_adj",
+  "size"
+ ],
+ "前头": [
+  "direction",
+  "spatial_relation"
+ ],
+ "期中": [
+  "education",
+  "time_period"
+ ],
+ "吸管": [
+  "object_home"
+ ],
+ "窗台": [
+  "building",
+  "object_home"
+ ],
+ "松树": [
+  "nature"
+ ],
+ "多样": [
+  "evaluation_adj",
+  "abstract_quality"
+ ],
+ "学年": [
+  "education",
+  "time_period"
+ ],
+ "电灯": [
+  "object_home"
+ ],
+ "疗养": [
+  "health_medical"
+ ],
+ "矮小": [
+  "evaluation_adj",
+  "size"
+ ],
+ "刷子": [
+  "object_home"
+ ],
+ "亚运会": [
+  "sport"
+ ],
+ "高铁": [
+  "transport_travel"
+ ],
+ "电动车": [
+  "transport_travel"
+ ],
+ "毫升": [
+  "measurement"
+ ],
+ "打雷": [
+  "weather"
+ ],
+ "五颜六色": [
+  "color"
+ ],
+ "隔开": [
+  "physical_action",
+  "spatial_relation",
+  "process_change"
+ ],
+ "模特儿": [
+  "occupation"
+ ],
+ "抄写": [
+  "action_learning"
+ ],
+ "括号": [
+  "object_stationery"
+ ],
+ "没法儿": [
+  "abstract_relation"
+ ],
+ "纯净水": [
+  "drink"
+ ],
+ "学时": [
+  "education",
+  "time_period"
+ ],
+ "下个月": [
+  "time_word"
+ ],
+ "名牌儿": [
+  "commerce_trade"
+ ],
+ "有劲儿": [
+  "body_state"
+ ],
+ "没想到": [
+  "cognition"
+ ],
+ "声": [
+  "perception"
+ ],
+ "疯": [
+  "manner_state"
+ ],
+ "鬼": [
+  "religion_belief"
+ ],
+ "舞": [
+  "art",
+  "action_movement"
+ ],
+ "愿": [
+  "cognition",
+  "attitude"
+ ],
+ "射": [
+  "physical_action"
+ ],
+ "运": [
+  "abstract_quality"
+ ],
+ "戏": [
+  "art"
+ ],
+ "偷": [
+  "physical_action",
+  "law_justice"
+ ],
+ "剩下": [
+  "process_change"
+ ],
+ "毒": [
+  "material_substance",
+  "health_medical"
+ ],
+ "屋": [
+  "building"
+ ],
+ "启动": [
+  "process_change",
+  "action_daily"
+ ],
+ "好运": [
+  "abstract_quality"
+ ],
+ "狂": [
+  "manner_state",
+  "evaluation_adj"
+ ],
+ "为止": [
+  "time_word",
+  "logic_connective"
+ ],
+ "有着": [
+  "abstract_relation"
+ ],
+ "签": [
+  "action_communication",
+  "law_admin_doc"
+ ],
+ "价": [
+  "commerce_trade",
+  "money"
+ ],
+ "躲": [
+  "physical_action",
+  "action_movement"
+ ],
+ "冒": [
+  "physical_action"
+ ],
+ "礼": [
+  "culture",
+  "abstract_quality"
+ ],
+ "拼": [
+  "physical_action"
+ ],
+ "只不过": [
+  "degree_adverb"
+ ],
+ "歌曲": [
+  "art"
+ ],
+ "必": [
+  "degree_adverb"
+ ],
+ "所在": [
+  "location"
+ ],
+ "害": [
+  "cause_effect"
+ ],
+ "立": [
+  "physical_action"
+ ],
+ "稍": [
+  "degree_adverb"
+ ],
+ "滑": [
+  "manner_state",
+  "physical_action"
+ ],
+ "忍": [
+  "emotion"
+ ],
+ "回头": [
+  "action_movement"
+ ],
+ "库": [
+  "building"
+ ],
+ "答": [
+  "action_communication"
+ ],
+ "之下": [
+  "spatial_relation"
+ ],
+ "熊": [
+  "animal"
+ ],
+ "不幸": [
+  "event_situation",
+  "evaluation_adj"
+ ],
+ "到来": [
+  "process_change",
+  "time_word",
+  "action_movement"
+ ],
+ "一句话": [
+  "communication_formal"
+ ],
+ "自杀": [
+  "health_medical"
+ ],
+ "负责人": [
+  "person",
+  "occupation",
+  "work_career"
+ ],
+ "旁": [
+  "spatial_relation",
+  "location"
+ ],
+ "收集": [
+  "action_daily"
+ ],
+ "盒": [
+  "object_home"
+ ],
+ "报警": [
+  "action_communication",
+  "law_justice"
+ ],
+ "剪": [
+  "physical_action",
+  "action_daily"
+ ],
+ "脑子": [
+  "body",
+  "cognition"
+ ],
+ "局长": [
+  "occupation",
+  "politics_government"
+ ],
+ "挤": [
+  "physical_action",
+  "action_movement"
+ ],
+ "之内": [
+  "spatial_relation",
+  "abstract_relation"
+ ],
+ "厅": [
+  "building",
+  "location"
+ ],
+ "全都": [
+  "degree_adverb",
+  "quantity_abstract"
+ ],
+ "签名": [
+  "action_communication",
+  "law_admin_doc"
+ ],
+ "偶像": [
+  "person",
+  "culture"
+ ],
+ "认": [
+  "cognition",
+  "action_communication"
+ ],
+ "在场": [
+  "event_situation",
+  "location"
+ ],
+ "鼠": [
+  "animal"
+ ],
+ "乘客": [
+  "person",
+  "transport_travel"
+ ],
+ "专辑": [
+  "art",
+  "media_news"
+ ],
+ "虎": [
+  "animal"
+ ],
+ "喷": [
+  "physical_action"
+ ],
+ "靠近": [
+  "action_movement",
+  "spatial_relation"
+ ],
+ "罚": [
+  "law_justice"
+ ],
+ "空中": [
+  "spatial_relation",
+  "location"
+ ],
+ "连接": [
+  "action_daily",
+  "abstract_relation"
+ ],
+ "此时": [
+  "time_word"
+ ],
+ "画面": [
+  "art",
+  "object_tech"
+ ],
+ "大脑": [
+  "body",
+  "cognition"
+ ],
+ "大事": [
+  "event_situation"
+ ],
+ "显": [
+  "perception"
+ ],
+ "看出": [
+  "perception",
+  "cognition"
+ ],
+ "随后": [
+  "time_word"
+ ],
+ "加速": [
+  "process_change",
+  "action_movement"
+ ],
+ "社": [
+  "society_public"
+ ],
+ "搜": [
+  "action_daily"
+ ],
+ "悲剧": [
+  "art",
+  "event_situation"
+ ],
+ "夹": [
+  "physical_action",
+  "object_home"
+ ],
+ "出于": [
+  "cause_effect"
+ ],
+ "双手": [
+  "body"
+ ],
+ "得了": [
+  "communication_emotion"
+ ],
+ "买卖": [
+  "commerce_trade"
+ ],
+ "悲伤": [
+  "emotion"
+ ],
+ "分离": [
+  "process_change",
+  "abstract_relation"
+ ],
+ "扇": [
+  "physical_action"
+ ],
+ "拔": [
+  "physical_action"
+ ],
+ "寻求": [
+  "cognition",
+  "action_daily"
+ ],
+ "大厅": [
+  "building",
+  "location"
+ ],
+ "如同": [
+  "abstract_relation",
+  "logic_connective"
+ ],
+ "提起": [
+  "action_communication"
+ ],
+ "暖": [
+  "weather",
+  "sensation"
+ ],
+ "建造": [
+  "industry_production",
+  "physical_action"
+ ],
+ "戒": [
+  "action_daily",
+  "cognition",
+  "action_movement"
+ ],
+ "不许": [
+  "judgement"
+ ],
+ "饼": [
+  "food"
+ ],
+ "返回": [
+  "action_movement",
+  "direction"
+ ],
+ "无疑": [
+  "manner_adverb",
+  "judgement"
+ ],
+ "迟": [
+  "time_word",
+  "evaluation_adj"
+ ],
+ "广": [
+  "evaluation_adj",
+  "size"
+ ],
+ "乡村": [
+  "place",
+  "geography"
+ ],
+ "完了": [
+  "event_situation",
+  "process_change"
+ ],
+ "火灾": [
+  "event_situation"
+ ],
+ "不利": [
+  "evaluation_adj"
+ ],
+ "倒是": [
+  "manner_adverb",
+  "logic_connective"
+ ],
+ "此刻": [
+  "time_word"
+ ],
+ "向前": [
+  "direction",
+  "action_movement"
+ ],
+ "一下子": [
+  "manner_adverb",
+  "time_word"
+ ],
+ "有力": [
+  "evaluation_adj",
+  "manner_state",
+  "abstract_quality"
+ ],
+ "尽可能": [
+  "manner_adverb",
+  "degree_adverb"
+ ],
+ "寸": [
+  "measurement"
+ ],
+ "兔": [
+  "animal"
+ ],
+ "骗子": [
+  "person",
+  "law_justice"
+ ],
+ "增强": [
+  "process_change",
+  "action_daily"
+ ],
+ "握": [
+  "physical_action",
+  "body"
+ ],
+ "不良": [
+  "evaluation_adj"
+ ],
+ "真诚": [
+  "personality_trait",
+  "evaluation_adj"
+ ],
+ "挣": [
+  "commerce_trade",
+  "action_daily"
+ ],
+ "暂停": [
+  "process_change",
+  "action_daily"
+ ],
+ "大胆": [
+  "personality_trait",
+  "evaluation_adj"
+ ],
+ "也好": [
+  "logic_connective"
+ ],
+ "偷偷": [
+  "manner_adverb"
+ ],
+ "决不": [
+  "degree_adverb"
+ ],
+ "增": [
+  "process_change",
+  "quantity_abstract"
+ ],
+ "肩": [
+  "body"
+ ],
+ "处在": [
+  "manner_state",
+  "spatial_relation",
+  "event_situation"
+ ],
+ "睡眠": [
+  "body_state",
+  "health_medical"
+ ],
+ "困扰": [
+  "communication_emotion",
+  "emotion"
+ ],
+ "紧紧": [
+  "manner_adverb"
+ ],
+ "减轻": [
+  "process_change",
+  "abstract_relation"
+ ],
+ "献": [
+  "action_communication"
+ ],
+ "上下": [
+  "direction",
+  "spatial_relation"
+ ],
+ "军人": [
+  "occupation",
+  "military_conflict"
+ ],
+ "机器人": [
+  "object_tech",
+  "technology"
+ ],
+ "逃跑": [
+  "action_movement"
+ ],
+ "钢琴": [
+  "art",
+  "object_home"
+ ],
+ "转换": [
+  "process_change"
+ ],
+ "脸色": [
+  "body_state",
+  "perception"
+ ],
+ "收购": [
+  "commerce_trade",
+  "economy_finance"
+ ],
+ "琴": [
+  "art",
+  "object_home"
+ ],
+ "中毒": [
+  "health_medical",
+  "body_state"
+ ],
+ "早期": [
+  "time_period"
+ ],
+ "深处": [
+  "location",
+  "spatial_relation"
+ ],
+ "损害": [
+  "process_change",
+  "cause_effect"
+ ],
+ "赔": [
+  "commerce_trade",
+  "money"
+ ],
+ "糟": [
+  "evaluation_adj",
+  "manner_state"
+ ],
+ "摄影师": [
+  "occupation"
+ ],
+ "四周": [
+  "spatial_relation",
+  "location"
+ ],
+ "在内": [
+  "abstract_relation"
+ ],
+ "餐馆": [
+  "building",
+  "place"
+ ],
+ "得以": [
+  "abstract_relation",
+  "logic_connective"
+ ],
+ "键": [
+  "object_tech"
+ ],
+ "闲": [
+  "manner_state",
+  "evaluation_adj"
+ ],
+ "猜测": [
+  "cognition"
+ ],
+ "转向": [
+  "action_movement",
+  "process_change"
+ ],
+ "鼓": [
+  "art",
+  "object_home"
+ ],
+ "从中": [
+  "spatial_relation",
+  "abstract_relation"
+ ],
+ "现有": [
+  "evaluation_adj",
+  "quantity_abstract"
+ ],
+ "处罚": [
+  "law_justice",
+  "action_communication"
+ ],
+ "行驶": [
+  "transport_travel",
+  "action_movement"
+ ],
+ "脚步": [
+  "action_movement",
+  "body"
+ ],
+ "流动": [
+  "action_movement",
+  "process_change"
+ ],
+ "带有": [
+  "abstract_relation"
+ ],
+ "喜剧": [
+  "art",
+  "media_news"
+ ],
+ "签约": [
+  "commerce_trade",
+  "law_admin_doc"
+ ],
+ "群体": [
+  "society_public",
+  "relationship_social"
+ ],
+ "城里": [
+  "place",
+  "location"
+ ],
+ "胆": [
+  "body",
+  "personality_trait"
+ ],
+ "共享": [
+  "action_daily",
+  "society_public",
+  "action_communication"
+ ],
+ "愁": [
+  "emotion"
+ ],
+ "存款": [
+  "economy_finance",
+  "money"
+ ],
+ "深度": [
+  "measurement",
+  "abstract_quality"
+ ],
+ "增产": [
+  "industry_production",
+  "economy_finance"
+ ],
+ "博客": [
+  "media_news",
+  "technology"
+ ],
+ "停留": [
+  "action_movement",
+  "action_daily"
+ ],
+ "将要": [
+  "time_word"
+ ],
+ "如下": [
+  "communication_formal"
+ ],
+ "肠": [
+  "body"
+ ],
+ "体力": [
+  "body_state",
+  "abstract_quality"
+ ],
+ "气体": [
+  "material_substance",
+  "science_research"
+ ],
+ "视为": [
+  "cognition",
+  "judgement"
+ ],
+ "低于": [
+  "abstract_relation",
+  "measurement"
+ ],
+ "夜间": [
+  "time_word",
+  "time_period"
+ ],
+ "会谈": [
+  "communication_formal",
+  "politics_government"
+ ],
+ "沟": [
+  "geography",
+  "shape_form"
+ ],
+ "地带": [
+  "geography",
+  "location"
+ ],
+ "违规": [
+  "law_admin_doc",
+  "law_justice"
+ ],
+ "分成": [
+  "process_change",
+  "quantity_abstract",
+  "abstract_relation"
+ ],
+ "慌": [
+  "emotion",
+  "body_state"
+ ],
+ "胡子": [
+  "body"
+ ],
+ "西装": [
+  "clothing"
+ ],
+ "猴": [
+  "animal"
+ ],
+ "抬头": [
+  "action_movement",
+  "body",
+  "physical_action"
+ ],
+ "灰色": [
+  "color"
+ ],
+ "向上": [
+  "direction"
+ ],
+ "摄像机": [
+  "object_tech"
+ ],
+ "一带": [
+  "location",
+  "place"
+ ],
+ "更换": [
+  "process_change"
+ ],
+ "礼拜": [
+  "time_period",
+  "religion_belief"
+ ],
+ "怨": [
+  "emotion",
+  "communication_emotion"
+ ],
+ "言语": [
+  "communication_formal",
+  "action_communication"
+ ],
+ "再也": [
+  "degree_adverb"
+ ],
+ "由此": [
+  "logic_connective"
+ ],
+ "摇头": [
+  "action_movement",
+  "body"
+ ],
+ "点燃": [
+  "physical_action",
+  "process_change"
+ ],
+ "来信": [
+  "communication_formal",
+  "action_communication"
+ ],
+ "总体": [
+  "abstract_quality",
+  "evaluation_adj"
+ ],
+ "光线": [
+  "nature",
+  "perception"
+ ],
+ "强度": [
+  "abstract_quality",
+  "measurement"
+ ],
+ "高于": [
+  "abstract_relation",
+  "degree_adverb"
+ ],
+ "变动": [
+  "process_change",
+  "abstract_relation"
+ ],
+ "泉": [
+  "nature",
+  "geography"
+ ],
+ "漏洞": [
+  "abstract_quality",
+  "shape_form"
+ ],
+ "查询": [
+  "action_communication",
+  "cognition"
+ ],
+ "铃声": [
+  "perception",
+  "sensation",
+  "object_home"
+ ],
+ "逃走": [
+  "action_movement",
+  "physical_action"
+ ],
+ "研究所": [
+  "science_research",
+  "building"
+ ],
+ "人力": [
+  "work_career",
+  "abstract_quality"
+ ],
+ "消费者": [
+  "commerce_trade",
+  "person"
+ ],
+ "加以": [
+  "logic_connective"
+ ],
+ "不停": [
+  "manner_adverb"
+ ],
+ "咳": [
+  "communication_emotion"
+ ],
+ "月球": [
+  "nature",
+  "science_research"
+ ],
+ "景象": [
+  "perception",
+  "event_situation"
+ ],
+ "此后": [
+  "time_word"
+ ],
+ "升高": [
+  "process_change",
+  "action_movement"
+ ],
+ "远处": [
+  "location",
+  "spatial_relation"
+ ],
+ "有毒": [
+  "evaluation_adj",
+  "health_medical"
+ ],
+ "叉": [
+  "object_home",
+  "shape_form"
+ ],
+ "墙壁": [
+  "building",
+  "object_home"
+ ],
+ "预备": [
+  "action_daily",
+  "process_change"
+ ],
+ "有害": [
+  "evaluation_adj",
+  "health_medical"
+ ],
+ "看成": [
+  "cognition",
+  "judgement"
+ ],
+ "转化": [
+  "process_change",
+  "cause_effect"
+ ],
+ "有利于": [
+  "evaluation_adj",
+  "abstract_relation"
+ ],
+ "高跟鞋": [
+  "clothing"
+ ],
+ "上涨": [
+  "process_change",
+  "economy_finance"
+ ],
+ "摔倒": [
+  "action_movement",
+  "physical_action"
+ ],
+ "诗歌": [
+  "art",
+  "culture"
+ ],
+ "热量": [
+  "measurement",
+  "science_research"
+ ],
+ "亏": [
+  "economy_finance",
+  "process_change"
+ ],
+ "直线": [
+  "shape_form",
+  "science_research"
+ ],
+ "口号": [
+  "communication_formal",
+  "politics_government"
+ ],
+ "拆除": [
+  "physical_action",
+  "industry_production"
+ ],
+ "递给": [
+  "physical_action",
+  "action_daily"
+ ],
+ "长度": [
+  "measurement",
+  "shape_form"
+ ],
+ "煤": [
+  "material_substance",
+  "nature"
+ ],
+ "不曾": [
+  "time_word",
+  "manner_adverb"
+ ],
+ "摄像": [
+  "action_daily",
+  "technology"
+ ],
+ "鸭子": [
+  "animal"
+ ],
+ "背包": [
+  "object_home"
+ ],
+ "车主": [
+  "person",
+  "transport_travel"
+ ],
+ "用不着": [
+  "evaluation_adj",
+  "manner_adverb"
+ ],
+ "加热": [
+  "action_daily"
+ ],
+ "一身": [
+  "body",
+  "quantity"
+ ],
+ "高大": [
+  "evaluation_adj",
+  "size"
+ ],
+ "高温": [
+  "measurement",
+  "weather"
+ ],
+ "为主": [
+  "abstract_relation"
+ ],
+ "特性": [
+  "abstract_quality"
+ ],
+ "草原": [
+  "nature",
+  "geography"
+ ],
+ "灾": [
+  "event_situation"
+ ],
+ "依照": [
+  "logic_connective"
+ ],
+ "煤气": [
+  "material_substance"
+ ],
+ "脆": [
+  "evaluation_adj",
+  "taste"
+ ],
+ "制成": [
+  "industry_production",
+  "process_change"
+ ],
+ "赠": [
+  "action_daily",
+  "transaction"
+ ],
+ "初期": [
+  "time_period"
+ ],
+ "搞好": [
+  "action_daily"
+ ],
+ "敲门": [
+  "action_daily",
+  "physical_action"
+ ],
+ "污水": [
+  "material_substance",
+  "nature"
+ ],
+ "增大": [
+  "process_change"
+ ],
+ "开幕": [
+  "event_situation",
+  "action_daily"
+ ],
+ "特有": [
+  "evaluation_adj",
+  "abstract_quality"
+ ],
+ "领带": [
+  "clothing"
+ ],
+ "依法": [
+  "law_justice",
+  "manner_adverb"
+ ],
+ "先后": [
+  "time_word",
+  "manner_adverb"
+ ],
+ "摩托": [
+  "transport_travel"
+ ],
+ "烤肉": [
+  "food"
+ ],
+ "明亮": [
+  "evaluation_adj",
+  "perception"
+ ],
+ "总数": [
+  "quantity_abstract",
+  "number"
+ ],
+ "大于": [
+  "abstract_relation",
+  "quantity_abstract"
+ ],
+ "水库": [
+  "building",
+  "geography"
+ ],
+ "火腿": [
+  "food"
+ ],
+ "工艺": [
+  "industry_production",
+  "art"
+ ],
+ "增多": [
+  "process_change",
+  "quantity_abstract"
+ ],
+ "不能不": [
+  "logic_connective"
+ ],
+ "输出": [
+  "commerce_trade",
+  "technology"
+ ],
+ "游泳池": [
+  "building",
+  "sport"
+ ],
+ "信箱": [
+  "object_home",
+  "communication_formal"
+ ],
+ "山区": [
+  "geography",
+  "nature",
+  "place"
+ ],
+ "驾照": [
+  "transport_travel",
+  "law_admin_doc"
+ ],
+ "水分": [
+  "material_substance",
+  "nature"
+ ],
+ "辈": [
+  "family",
+  "relationship_social"
+ ],
+ "单一": [
+  "evaluation_adj",
+  "quantity_abstract"
+ ],
+ "儿女": [
+  "family",
+  "person"
+ ],
+ "生成": [
+  "process_change",
+  "cause_effect"
+ ],
+ "原有": [
+  "evaluation_adj",
+  "abstract_quality"
+ ],
+ "雨水": [
+  "weather",
+  "nature"
+ ],
+ "地形": [
+  "geography",
+  "nature"
+ ],
+ "柜子": [
+  "object_home"
+ ],
+ "乘车": [
+  "transport_travel",
+  "action_movement"
+ ],
+ "学科": [
+  "education",
+  "abstract_relation"
+ ],
+ "大都": [
+  "degree_adverb",
+  "manner_adverb"
+ ],
+ "南北": [
+  "direction",
+  "spatial_relation"
+ ],
+ "香肠": [
+  "food"
+ ],
+ "餐饮": [
+  "food",
+  "commerce_trade"
+ ],
+ "舍得": [
+  "attitude",
+  "emotion"
+ ],
+ "南极": [
+  "geography",
+  "location"
+ ],
+ "法制": [
+  "law_admin_doc",
+  "politics_government"
+ ],
+ "团长": [
+  "occupation",
+  "military_conflict"
+ ],
+ "正如": [
+  "logic_connective"
+ ],
+ "高原": [
+  "geography",
+  "nature"
+ ],
+ "寿司": [
+  "food"
+ ],
+ "物业": [
+  "building",
+  "commerce_trade"
+ ],
+ "推行": [
+  "action_daily",
+  "law_admin_doc",
+  "process_change"
+ ],
+ "水产品": [
+  "food",
+  "industry_production"
+ ],
+ "胆小": [
+  "personality_trait",
+  "evaluation_adj"
+ ],
+ "一口气": [
+  "manner_adverb"
+ ],
+ "酒鬼": [
+  "person",
+  "personality_trait"
+ ],
+ "长寿": [
+  "abstract_quality",
+  "health_medical"
+ ],
+ "修养": [
+  "abstract_quality",
+  "personality_trait"
+ ],
+ "华语": [
+  "communication_formal",
+  "education"
+ ],
+ "白酒": [
+  "drink"
+ ],
+ "涨价": [
+  "commerce_trade",
+  "process_change"
+ ],
+ "招生": [
+  "education",
+  "action_daily"
+ ],
+ "回信": [
+  "action_communication",
+  "communication_formal"
+ ],
+ "入门": [
+  "action_learning",
+  "education"
+ ],
+ "工作日": [
+  "time_period",
+  "work_career"
+ ],
+ "大奖赛": [
+  "sport",
+  "event_situation"
+ ],
+ "主体": [
+  "abstract_relation",
+  "abstract_quality"
+ ],
+ "贺卡": [
+  "object_stationery",
+  "communication_emotion"
+ ],
+ "招手": [
+  "physical_action",
+  "action_communication"
+ ],
+ "出汗": [
+  "body_state",
+  "physical_action"
+ ],
+ "协议书": [
+  "law_admin_doc",
+  "commerce_trade",
+  "communication_formal"
+ ],
+ "胶带": [
+  "object_home",
+  "material_substance"
+ ],
+ "相声": [
+  "art",
+  "culture"
+ ],
+ "物价": [
+  "economy_finance",
+  "commerce_trade",
+  "money"
+ ],
+ "汇款": [
+  "money",
+  "transaction"
+ ],
+ "农产品": [
+  "industry_production",
+  "commerce_trade"
+ ],
+ "书桌": [
+  "object_home"
+ ],
+ "桃花": [
+  "nature"
+ ],
+ "不易": [
+  "evaluation_adj"
+ ],
+ "宽度": [
+  "measurement"
+ ],
+ "年前": [
+  "time_word",
+  "time_period"
+ ],
+ "钢笔": [
+  "object_stationery"
+ ],
+ "岸上": [
+  "location"
+ ],
+ "大纲": [
+  "abstract_relation",
+  "education"
+ ],
+ "灾区": [
+  "place"
+ ],
+ "受灾": [
+  "event_situation"
+ ],
+ "辞典": [
+  "object_stationery"
+ ],
+ "大熊猫": [
+  "animal"
+ ],
+ "差点儿": [
+  "degree_adverb"
+ ],
+ "两岸": [
+  "location"
+ ],
+ "中药": [
+  "health_medical"
+ ],
+ "盒饭": [
+  "food"
+ ],
+ "起到": [
+  "cause_effect"
+ ],
+ "救灾": [
+  "society_public"
+ ],
+ "个儿": [
+  "size",
+  "body"
+ ],
+ "闭幕": [
+  "event_situation"
+ ],
+ "选修": [
+  "education"
+ ],
+ "水灾": [
+  "nature",
+  "weather"
+ ],
+ "剪子": [
+  "object_home"
+ ],
+ "书柜": [
+  "object_home"
+ ],
+ "只见": [
+  "perception"
+ ],
+ "酸甜苦辣": [
+  "abstract_quality"
+ ],
+ "闭幕式": [
+  "event_situation"
+ ],
+ "厂长": [
+  "occupation",
+  "work_career"
+ ],
+ "桃树": [
+  "nature"
+ ],
+ "阅览室": [
+  "building",
+  "education"
+ ],
+ "月饼": [
+  "food",
+  "culture"
+ ],
+ "毛笔": [
+  "object_stationery",
+  "art"
+ ],
+ "豆制品": [
+  "food"
+ ],
+ "脸盆": [
+  "object_home"
+ ],
+ "中秋节": [
+  "culture",
+  "date"
+ ],
+ "正版": [
+  "commerce_trade",
+  "abstract_quality"
+ ],
+ "电子版": [
+  "technology",
+  "media_news"
+ ],
+ "差一点儿": [
+  "degree_adverb"
+ ],
+ "电饭锅": [
+  "object_home"
+ ],
+ "小偷儿": [
+  "person",
+  "law_justice"
+ ],
+ "胡同儿": [
+  "place"
+ ],
+ "二维码": [
+  "technology",
+  "object_tech"
+ ],
+ "微博": [
+  "media_news",
+  "technology"
+ ],
+ "杀毒": [
+  "technology",
+  "action_daily"
+ ]
+}

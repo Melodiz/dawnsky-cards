@@ -1,0 +1,482 @@
+[
+ {
+  "hanzi": "流动",
+  "pinyin": "liúdòng",
+  "meaning_ru": "циркулировать (системно — толпы, капитал, жидкости)",
+  "meaning_en": "flow; circulate (systemic — crowds, capital, fluids)",
+  "len_ru": 51,
+  "len_en": 52
+ },
+ {
+  "hanzi": "带有",
+  "pinyin": "dàiyǒu",
+  "meaning_ru": "иметь оттенок чего-л. (примесь, незначительный признак)",
+  "meaning_en": "have; carry (a slight quality or tinge)",
+  "len_ru": 55,
+  "len_en": 39
+ },
+ {
+  "hanzi": "签约",
+  "pinyin": "qiānyuē",
+  "meaning_ru": "заключать договор (ком./юр.)",
+  "meaning_en": "sign a contract (commercial/legal)",
+  "len_ru": 28,
+  "len_en": 34
+ },
+ {
+  "hanzi": "群体",
+  "pinyin": "qúntǐ",
+  "meaning_ru": "группа; сообщество",
+  "meaning_en": "social group; community (formal)",
+  "len_ru": 18,
+  "len_en": 32
+ },
+ {
+  "hanzi": "共享",
+  "pinyin": "gòngxiǎng",
+  "meaning_ru": "совместно пользоваться (ресурсы)",
+  "meaning_en": "share jointly (resources/infrastructure)",
+  "len_ru": 32,
+  "len_en": 40
+ },
+ {
+  "hanzi": "愁",
+  "pinyin": "chóu",
+  "meaning_ru": "тосковать, кручиниться (рассеянно)",
+  "meaning_en": "feel sad worry; brood (diffuse)",
+  "len_ru": 34,
+  "len_en": 31
+ },
+ {
+  "hanzi": "存款",
+  "pinyin": "cúnkuǎn",
+  "meaning_ru": "банковский вклад; класть деньги в банк",
+  "meaning_en": "bank savings; to make a bank deposit",
+  "len_ru": 38,
+  "len_en": 36
+ },
+ {
+  "hanzi": "停留",
+  "pinyin": "tíngliú",
+  "meaning_ru": "задержаться (в месте); не ехать дальше",
+  "meaning_en": "to stop over; linger (not move on)",
+  "len_ru": 38,
+  "len_en": 34
+ },
+ {
+  "hanzi": "将要",
+  "pinyin": "jiāngyào",
+  "meaning_ru": "вот-вот; скоро (письм., о близком)",
+  "meaning_en": "about to; will soon (written)",
+  "len_ru": 34,
+  "len_en": 29
+ },
+ {
+  "hanzi": "体力",
+  "pinyin": "tǐlì",
+  "meaning_ru": "физическая выносливость",
+  "meaning_en": "physical stamina; endurance",
+  "len_ru": 23,
+  "len_en": 27
+ },
+ {
+  "hanzi": "气体",
+  "pinyin": "qìtǐ",
+  "meaning_ru": "газ (состояние вещества)",
+  "meaning_en": "gas (state of matter, science)",
+  "len_ru": 24,
+  "len_en": 30
+ },
+ {
+  "hanzi": "夜间",
+  "pinyin": "yèjiān",
+  "meaning_ru": "в ночное время (офиц./письм.)",
+  "meaning_en": "nighttime (formal/written)",
+  "len_ru": 29,
+  "len_en": 26
+ },
+ {
+  "hanzi": "会谈",
+  "pinyin": "huìtán",
+  "meaning_ru": "переговоры (полит./высок.)",
+  "meaning_en": "formal talks (political/high-level)",
+  "len_ru": 26,
+  "len_en": 35
+ },
+ {
+  "hanzi": "违规",
+  "pinyin": "wéiguī",
+  "meaning_ru": "нарушить правила (процедурно)",
+  "meaning_en": "break rules (procedural/administrative)",
+  "len_ru": 29,
+  "len_en": 39
+ },
+ {
+  "hanzi": "分成",
+  "pinyin": "fēnchéng",
+  "meaning_ru": "разделить на (конкретные части)",
+  "meaning_en": "divide into (concrete parts)",
+  "len_ru": 31,
+  "len_en": 28
+ },
+ {
+  "hanzi": "胡子",
+  "pinyin": "húzi",
+  "meaning_ru": "борода; усы (разговорное)",
+  "meaning_en": "beard; mustache (colloquial)",
+  "len_ru": 25,
+  "len_en": 28
+ },
+ {
+  "hanzi": "猴",
+  "pinyin": "hóu",
+  "meaning_ru": "обезьяна (морфема; знак зодиака)",
+  "meaning_en": "monkey (morpheme; zodiac sign)",
+  "len_ru": 32,
+  "len_en": 30
+ },
+ {
+  "hanzi": "抬头",
+  "pinyin": "táitóu",
+  "meaning_ru": "поднять голову (посмотреть вверх)",
+  "meaning_en": "raise one's head (look up)",
+  "len_ru": 33,
+  "len_en": 26
+ },
+ {
+  "hanzi": "灰色",
+  "pinyin": "huīsè",
+  "meaning_ru": "серый цвет",
+  "meaning_en": "gray (color noun; also: ambiguous)",
+  "len_ru": 10,
+  "len_en": 34
+ },
+ {
+  "hanzi": "更换",
+  "pinyin": "gēnghuàn",
+  "meaning_ru": "заменять (вещь, деталь; офиц.)",
+  "meaning_en": "replace (object, formally)",
+  "len_ru": 30,
+  "len_en": 26
+ },
+ {
+  "hanzi": "怨",
+  "pinyin": "yuàn",
+  "meaning_ru": "винить; затаить обиду (эмоция)",
+  "meaning_en": "to blame; harbor resentment (feeling)",
+  "len_ru": 30,
+  "len_en": 37
+ },
+ {
+  "hanzi": "言语",
+  "pinyin": "yányǔ",
+  "meaning_ru": "речь; слова (составное существит.)",
+  "meaning_en": "speech; words (compound noun)",
+  "len_ru": 34,
+  "len_en": 29
+ },
+ {
+  "hanzi": "再也",
+  "pinyin": "zàiyě",
+  "meaning_ru": "больше уже не",
+  "meaning_en": "(not) any more (needs negation: 再也不)",
+  "len_ru": 13,
+  "len_en": 36
+ },
+ {
+  "hanzi": "总体",
+  "pinyin": "zǒngtǐ",
+  "meaning_ru": "в целом; суммарный (по охвату)",
+  "meaning_en": "overall; in aggregate (scope adverb/adj)",
+  "len_ru": 30,
+  "len_en": 40
+ },
+ {
+  "hanzi": "光线",
+  "pinyin": "guāngxiàn",
+  "meaning_ru": "свет, луч (природный; ≠ 灯光 «освещение»)",
+  "meaning_en": "light ray (natural light; not artificial 灯光)",
+  "len_ru": 39,
+  "len_en": 44
+ },
+ {
+  "hanzi": "强度",
+  "pinyin": "qiángdù",
+  "meaning_ru": "интенсивность; степень (измеримая)",
+  "meaning_en": "intensity; degree (measurable, not personal)",
+  "len_ru": 34,
+  "len_en": 44
+ },
+ {
+  "hanzi": "高于",
+  "pinyin": "gāoyú",
+  "meaning_ru": "выше (сравн., для уровней/значений)",
+  "meaning_en": "higher than (comparative, levels/values)",
+  "len_ru": 35,
+  "len_en": 40
+ },
+ {
+  "hanzi": "变动",
+  "pinyin": "biàndòng",
+  "meaning_ru": "колебание; сдвиг (нестабильный)",
+  "meaning_en": "fluctuation; institutional shift",
+  "len_ru": 31,
+  "len_en": 32
+ },
+ {
+  "hanzi": "查询",
+  "pinyin": "cháxún",
+  "meaning_ru": "наводить справки; запрашивать данные",
+  "meaning_en": "to query (facts/records); look up",
+  "len_ru": 36,
+  "len_en": 33
+ },
+ {
+  "hanzi": "逃走",
+  "pinyin": "táozǒu",
+  "meaning_ru": "сбежать, уйти прочь (направленно, не обязательно бегом)",
+  "meaning_en": "flee and leave (directional, not necessarily running)",
+  "len_ru": 55,
+  "len_en": 53
+ },
+ {
+  "hanzi": "加以",
+  "pinyin": "jiāyǐ",
+  "meaning_ru": "произвести действие над (книжн.)",
+  "meaning_en": "apply an action to (+ verb, formal)",
+  "len_ru": 32,
+  "len_en": 35
+ },
+ {
+  "hanzi": "月球",
+  "pinyin": "yuèqiú",
+  "meaning_ru": "Луна (научн., космич.)",
+  "meaning_en": "the Moon (scientific/technical)",
+  "len_ru": 22,
+  "len_en": 31
+ },
+ {
+  "hanzi": "景象",
+  "pinyin": "jǐngxiàng",
+  "meaning_ru": "зрелище (объективная картина; ср. 情景)",
+  "meaning_en": "scene/sight (objective view; cf. 情景)",
+  "len_ru": 37,
+  "len_en": 36
+ },
+ {
+  "hanzi": "此后",
+  "pinyin": "cǐhòu",
+  "meaning_ru": "впредь; с тех пор (книжн.)",
+  "meaning_en": "hereafter; from this point on (formal)",
+  "len_ru": 26,
+  "len_en": 38
+ },
+ {
+  "hanzi": "升高",
+  "pinyin": "shēnggāo",
+  "meaning_ru": "повышаться (температура, уровень)",
+  "meaning_en": "rise in degree (temp/level)",
+  "len_ru": 33,
+  "len_en": 27
+ },
+ {
+  "hanzi": "远处",
+  "pinyin": "yuǎnchù",
+  "meaning_ru": "далёкое место; вдали (сущ. места)",
+  "meaning_en": "the distant place; afar (location noun)",
+  "len_ru": 33,
+  "len_en": 39
+ },
+ {
+  "hanzi": "有毒",
+  "pinyin": "yǒudú",
+  "meaning_ru": "ядовитый (предикат. прил.)",
+  "meaning_en": "poisonous; toxic (predicate adj)",
+  "len_ru": 26,
+  "len_en": 32
+ },
+ {
+  "hanzi": "预备",
+  "pinyin": "yùbèi",
+  "meaning_ru": "готовиться (лично, несложно)",
+  "meaning_en": "get ready (personal prep; preparatory)",
+  "len_ru": 28,
+  "len_en": 38
+ },
+ {
+  "hanzi": "有害",
+  "pinyin": "yǒuhài",
+  "meaning_ru": "вредный; пагубный",
+  "meaning_en": "harmful (adjective; cf. 危害 verb)",
+  "len_ru": 17,
+  "len_en": 32
+ },
+ {
+  "hanzi": "看成",
+  "pinyin": "kànchéng",
+  "meaning_ru": "считать (за кого-л./что-л.)",
+  "meaning_en": "regard as (equate X with Y)",
+  "len_ru": 27,
+  "len_en": 27
+ },
+ {
+  "hanzi": "转化",
+  "pinyin": "zhuǎnhuà",
+  "meaning_ru": "преобразовывать (природу, суть)",
+  "meaning_en": "to convert/transform (in nature)",
+  "len_ru": 31,
+  "len_en": 32
+ },
+ {
+  "hanzi": "有利于",
+  "pinyin": "yǒulìyú",
+  "meaning_ru": "способствовать; полезно для",
+  "meaning_en": "beneficial to; advantageous",
+  "len_ru": 27,
+  "len_en": 27
+ },
+ {
+  "hanzi": "上涨",
+  "pinyin": "shàngzhǎng",
+  "meaning_ru": "расти (о ценах, уровнях)",
+  "meaning_en": "rise (prices/figures, econ.)",
+  "len_ru": 24,
+  "len_en": 28
+ },
+ {
+  "hanzi": "摔倒",
+  "pinyin": "shuāidǎo",
+  "meaning_ru": "упасть (споткнуться и упасть)",
+  "meaning_en": "fall down (trip and land bodily)",
+  "len_ru": 29,
+  "len_en": 32
+ },
+ {
+  "hanzi": "诗歌",
+  "pinyin": "shīgē",
+  "meaning_ru": "поэзия (как жанр, собир.)",
+  "meaning_en": "poetry (as a genre, collective)",
+  "len_ru": 25,
+  "len_en": 31
+ },
+ {
+  "hanzi": "拆除",
+  "pinyin": "chāichú",
+  "meaning_ru": "сносить, демонтировать (официально)",
+  "meaning_en": "demolish; remove (officially/permanently)",
+  "len_ru": 35,
+  "len_en": 41
+ },
+ {
+  "hanzi": "递给",
+  "pinyin": "dìgěi",
+  "meaning_ru": "подать (передать в руки, без смены ответственности)",
+  "meaning_en": "pass to (hand-to-hand, no ownership transfer)",
+  "len_ru": 51,
+  "len_en": 45
+ },
+ {
+  "hanzi": "不曾",
+  "pinyin": "bùcéng",
+  "meaning_ru": "никогда не (отрицание опыта)",
+  "meaning_en": "have never (experiential negation)",
+  "len_ru": 28,
+  "len_en": 34
+ },
+ {
+  "hanzi": "一身",
+  "pinyin": "yīshēn",
+  "meaning_ru": "с ног до головы (в состоянии: 一身汗)",
+  "meaning_en": "covered in (set-phrase: 一身汗)",
+  "len_ru": 34,
+  "len_en": 28
+ },
+ {
+  "hanzi": "为主",
+  "pinyin": "wéizhǔ",
+  "meaning_ru": "ставить во главу; главным образом",
+  "meaning_en": "to give priority to",
+  "len_ru": 33,
+  "len_en": 19
+ },
+ {
+  "hanzi": "特性",
+  "pinyin": "tèxìng",
+  "meaning_ru": "свойство (внутреннее, научн.)",
+  "meaning_en": "intrinsic property (technical)",
+  "len_ru": 29,
+  "len_en": 30
+ },
+ {
+  "hanzi": "灾",
+  "pinyin": "zāi",
+  "meaning_ru": "бедствие (морфема; самост. — 灾害)",
+  "meaning_en": "disaster (morpheme; cf. 灾害 for standalone)",
+  "len_ru": 32,
+  "len_en": 42
+ },
+ {
+  "hanzi": "依照",
+  "pinyin": "yīzhào",
+  "meaning_ru": "согласно (норме/закону, книжн.)",
+  "meaning_en": "according to (a standard, formal)",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "煤气",
+  "pinyin": "méiqì",
+  "meaning_ru": "бытовой газ (угольный/сетевой)",
+  "meaning_en": "domestic gas (coal gas, piped)",
+  "len_ru": 30,
+  "len_en": 30
+ },
+ {
+  "hanzi": "制成",
+  "pinyin": "zhìchéng",
+  "meaning_ru": "изготовить (до готового изделия) из",
+  "meaning_en": "to manufacture into; make (finished product)",
+  "len_ru": 35,
+  "len_en": 44
+ },
+ {
+  "hanzi": "初期",
+  "pinyin": "chūqī",
+  "meaning_ru": "начальный период (самая первая фаза)",
+  "meaning_en": "initial stage (the very opening phase)",
+  "len_ru": 36,
+  "len_en": 38
+ },
+ {
+  "hanzi": "增大",
+  "pinyin": "zēngdà",
+  "meaning_ru": "увеличивать(ся) (по размеру/числу)",
+  "meaning_en": "increase in size or amount",
+  "len_ru": 34,
+  "len_en": 26
+ },
+ {
+  "hanzi": "先后",
+  "pinyin": "xiānhòu",
+  "meaning_ru": "по очереди; в определённом порядке",
+  "meaning_en": "in sequence; one after another (ordered)",
+  "len_ru": 34,
+  "len_en": 40
+ },
+ {
+  "hanzi": "明亮",
+  "pinyin": "míngliàng",
+  "meaning_ru": "яркий; хорошо освещённый",
+  "meaning_en": "bright; well-lit (physical light)",
+  "len_ru": 24,
+  "len_en": 33
+ },
+ {
+  "hanzi": "总数",
+  "pinyin": "zǒngshù",
+  "meaning_ru": "общее число (итог, сколько всего)",
+  "meaning_en": "total count/number (noun)",
+  "len_ru": 33,
+  "len_en": 25
+ }
+]

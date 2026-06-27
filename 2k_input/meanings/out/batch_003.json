@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "meaning_ru": "медленный; медленно",
+  "meaning_en": "slow; slowly",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "进来",
+  "pinyin": "jìnlái",
+  "meaning_ru": "входить; войти",
+  "meaning_en": "to come in",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "好看",
+  "pinyin": "hǎokàn",
+  "meaning_ru": "красивый; интересный",
+  "meaning_en": "good-looking; nice",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "女生",
+  "pinyin": "nǚshēng",
+  "meaning_ru": "девушка; ученица",
+  "meaning_en": "girl; female student",
+  "semantic_tags": [
+   "person",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "雨",
+  "pinyin": "yǔ",
+  "meaning_ru": "дождь",
+  "meaning_en": "rain",
+  "semantic_tags": [
+   "weather",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "车上",
+  "pinyin": "chēshàng",
+  "meaning_ru": "в машине; в транспорте",
+  "meaning_en": "on/in the vehicle",
+  "semantic_tags": [
+   "transport_travel",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "考",
+  "pinyin": "kǎo",
+  "meaning_ru": "сдавать экзамен",
+  "meaning_en": "to take an exam; to test",
+  "semantic_tags": [
+   "education",
+   "action_learning"
+  ]
+ },
+ {
+  "hanzi": "妹妹",
+  "pinyin": "mèimei",
+  "meaning_ru": "младшая сестра",
+  "meaning_en": "younger sister",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "地上",
+  "pinyin": "dìshang",
+  "meaning_ru": "на земле; на полу",
+  "meaning_en": "on the ground/floor",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "记住",
+  "pinyin": "jìzhu",
+  "meaning_ru": "запомнить",
+  "meaning_en": "to remember; memorize",
+  "semantic_tags": [
+   "cognition",
+   "action_learning"
+  ]
+ },
+ {
+  "hanzi": "下次",
+  "pinyin": "xiàcì",
+  "meaning_ru": "в следующий раз",
+  "meaning_en": "next time",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "机场",
+  "pinyin": "jīchǎng",
+  "meaning_ru": "аэропорт",
+  "meaning_en": "airport",
+  "semantic_tags": [
+   "building",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "老人",
+  "pinyin": "lǎorén",
+  "meaning_ru": "пожилой человек",
+  "meaning_en": "old person; the elderly",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "那边",
+  "pinyin": "nàbian",
+  "meaning_ru": "там; та сторона",
+  "meaning_en": "over there",
+  "semantic_tags": [
+   "location",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "弟弟",
+  "pinyin": "dìdi",
+  "meaning_ru": "младший брат",
+  "meaning_en": "younger brother",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ }
+]

@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "等到",
+  "pinyin": "děngdào",
+  "meaning_ru": "дождаться; когда",
+  "meaning_en": "wait until; by the time",
+  "semantic_tags": [
+   "time_word",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "球场",
+  "pinyin": "qiúchǎng",
+  "meaning_ru": "спортплощадка; корт",
+  "meaning_en": "sports field; court",
+  "semantic_tags": [
+   "sport",
+   "place"
+  ]
+ },
+ {
+  "hanzi": "住院",
+  "pinyin": "zhùyuàn",
+  "meaning_ru": "лечь в больницу",
+  "meaning_en": "be hospitalized",
+  "semantic_tags": [
+   "health_medical",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "椅子",
+  "pinyin": "yǐzi",
+  "meaning_ru": "стул",
+  "meaning_en": "chair",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "游客",
+  "pinyin": "yóukè",
+  "meaning_ru": "турист",
+  "meaning_en": "tourist; visitor",
+  "semantic_tags": [
+   "person",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "拿到",
+  "pinyin": "nádào",
+  "meaning_ru": "получить; достать",
+  "meaning_en": "get; obtain",
+  "semantic_tags": [
+   "action_daily",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "全家",
+  "pinyin": "quánjiā",
+  "meaning_ru": "вся семья",
+  "meaning_en": "whole family",
+  "semantic_tags": [
+   "family"
+  ]
+ },
+ {
+  "hanzi": "从小",
+  "pinyin": "cóngxiǎo",
+  "meaning_ru": "с детства",
+  "meaning_en": "from childhood",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "公斤",
+  "pinyin": "gōngjīn",
+  "meaning_ru": "килограмм",
+  "meaning_en": "kilogram",
+  "semantic_tags": [
+   "measurement",
+   "quantity"
+  ]
+ },
+ {
+  "hanzi": "星星",
+  "pinyin": "xīngxing",
+  "meaning_ru": "звезда (разг.)",
+  "meaning_en": "star (in the sky)",
+  "semantic_tags": [
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "不满",
+  "pinyin": "bùmǎn",
+  "meaning_ru": "недовольный",
+  "meaning_en": "dissatisfied; discontent",
+  "semantic_tags": [
+   "emotion",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "例子",
+  "pinyin": "lìzi",
+  "meaning_ru": "пример",
+  "meaning_en": "example; instance",
+  "semantic_tags": [
+   "cognition",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "快要",
+  "pinyin": "kuàiyào",
+  "meaning_ru": "вот-вот; скоро",
+  "meaning_en": "about to; soon",
+  "semantic_tags": [
+   "time_word",
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "常见",
+  "pinyin": "chángjiàn",
+  "meaning_ru": "распространённый",
+  "meaning_en": "common; commonly seen",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "商人",
+  "pinyin": "shāngrén",
+  "meaning_ru": "торговец; бизнесмен",
+  "meaning_en": "merchant; businessman",
+  "semantic_tags": [
+   "person",
+   "occupation",
+   "commerce_trade"
+  ]
+ }
+]

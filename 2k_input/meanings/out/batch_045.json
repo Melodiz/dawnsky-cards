@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "收回",
+  "pinyin": "shōuhuí",
+  "meaning_ru": "вернуть; отозвать",
+  "meaning_en": "take back; reclaim",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "渐渐",
+  "pinyin": "jiànjiàn",
+  "meaning_ru": "постепенно",
+  "meaning_en": "gradually; little by little",
+  "semantic_tags": [
+   "manner_adverb",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "亲密",
+  "pinyin": "qīnmì",
+  "meaning_ru": "близкий; тесный",
+  "meaning_en": "intimate; close",
+  "semantic_tags": [
+   "relationship_social",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "口袋",
+  "pinyin": "kǒudài",
+  "meaning_ru": "карман; мешок",
+  "meaning_en": "pocket; bag",
+  "semantic_tags": [
+   "object_home",
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "无限",
+  "pinyin": "wúxiàn",
+  "meaning_ru": "безграничный",
+  "meaning_en": "unlimited; infinite",
+  "semantic_tags": [
+   "abstract_quality",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "嘴巴",
+  "pinyin": "zuǐba",
+  "meaning_ru": "рот",
+  "meaning_en": "mouth",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "扫",
+  "pinyin": "sǎo",
+  "meaning_ru": "подметать",
+  "meaning_en": "to sweep",
+  "semantic_tags": [
+   "action_daily",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "含量",
+  "pinyin": "hánliàng",
+  "meaning_ru": "содержание (доля)",
+  "meaning_en": "content; amount in",
+  "semantic_tags": [
+   "measurement",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "挑选",
+  "pinyin": "tiāoxuǎn",
+  "meaning_ru": "выбирать; отбирать",
+  "meaning_en": "to choose; to pick",
+  "semantic_tags": [
+   "action_daily",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "灯光",
+  "pinyin": "dēngguāng",
+  "meaning_ru": "освещение; свет",
+  "meaning_en": "lighting; lamplight",
+  "semantic_tags": [
+   "perception",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "健身",
+  "pinyin": "jiànshēn",
+  "meaning_ru": "фитнес; качаться",
+  "meaning_en": "to work out; fitness",
+  "semantic_tags": [
+   "sport",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "比分",
+  "pinyin": "bǐfēn",
+  "meaning_ru": "счёт (в игре)",
+  "meaning_en": "score (in a game)",
+  "semantic_tags": [
+   "sport",
+   "number"
+  ]
+ },
+ {
+  "hanzi": "江",
+  "pinyin": "jiāng",
+  "meaning_ru": "река (большая)",
+  "meaning_en": "river; large river",
+  "semantic_tags": [
+   "nature",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "办事",
+  "pinyin": "bànshì",
+  "meaning_ru": "вести дела; хлопотать",
+  "meaning_en": "handle affairs; do tasks",
+  "semantic_tags": [
+   "action_daily",
+   "work_career"
+  ]
+ },
+ {
+  "hanzi": "塑料",
+  "pinyin": "sùliào",
+  "meaning_ru": "пластик; пластмасса",
+  "meaning_en": "plastic",
+  "semantic_tags": [
+   "material_substance"
+  ]
+ }
+]

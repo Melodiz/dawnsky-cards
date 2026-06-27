@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "跳高",
+  "pinyin": "tiàogāo",
+  "meaning_ru": "прыжки в высоту",
+  "meaning_en": "high jump",
+  "semantic_tags": [
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "衣架",
+  "pinyin": "yījià",
+  "meaning_ru": "вешалка (для одежды)",
+  "meaning_en": "clothes hanger",
+  "semantic_tags": [
+   "object_home",
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "外文",
+  "pinyin": "wàiwén",
+  "meaning_ru": "иностранный язык (письм.)",
+  "meaning_en": "foreign language",
+  "semantic_tags": [
+   "communication_formal",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "短处",
+  "pinyin": "duǎnchù",
+  "meaning_ru": "недостаток; слабая сторона",
+  "meaning_en": "shortcoming; weak point",
+  "semantic_tags": [
+   "abstract_quality",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "跳远",
+  "pinyin": "tiàoyuǎn",
+  "meaning_ru": "прыжки в длину",
+  "meaning_en": "long jump",
+  "semantic_tags": [
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "后年",
+  "pinyin": "hòunián",
+  "meaning_ru": "послезавтрашний год",
+  "meaning_en": "year after next",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "红酒",
+  "pinyin": "hóngjiǔ",
+  "meaning_ru": "красное вино",
+  "meaning_en": "red wine",
+  "semantic_tags": [
+   "drink"
+  ]
+ },
+ {
+  "hanzi": "首",
+  "pinyin": "shǒu",
+  "meaning_ru": "глава; первый; (сч. сл. стихи/песни)",
+  "meaning_en": "head; chief; (cl. songs/poems)",
+  "semantic_tags": [
+   "measurement",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "局",
+  "pinyin": "jú",
+  "meaning_ru": "ведомство; ситуация; (сч. партия)",
+  "meaning_en": "office; situation; (cl. games)",
+  "semantic_tags": [
+   "society_public",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "轮",
+  "pinyin": "lún",
+  "meaning_ru": "колесо; чередоваться; (сч. круг)",
+  "meaning_en": "wheel; take turns; (cl. round)",
+  "semantic_tags": [
+   "object_tech",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "停下",
+  "pinyin": "tíngxià",
+  "meaning_ru": "остановиться; прекратить",
+  "meaning_en": "to stop",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "妻子",
+  "pinyin": "qīzǐ",
+  "meaning_ru": "жена",
+  "meaning_en": "wife",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "怪",
+  "pinyin": "guài",
+  "meaning_ru": "странный; винить",
+  "meaning_en": "strange; to blame",
+  "semantic_tags": [
+   "evaluation_adj",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "盘",
+  "pinyin": "pán",
+  "meaning_ru": "блюдо; тарелка; (сч. блюдо)",
+  "meaning_en": "plate; tray; (cl. dish)",
+  "semantic_tags": [
+   "object_home",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "丈夫",
+  "pinyin": "zhàngfu",
+  "meaning_ru": "муж",
+  "meaning_en": "husband",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ }
+]

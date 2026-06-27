@@ -1,0 +1,482 @@
+[
+ {
+  "hanzi": "叫作",
+  "pinyin": "jiàozuò",
+  "meaning_ru": "называться (разг., повседневное)",
+  "meaning_en": "to be called (informal naming)",
+  "len_ru": 32,
+  "len_en": 30
+ },
+ {
+  "hanzi": "读音",
+  "pinyin": "dúyīn",
+  "meaning_ru": "произношение знака/слова",
+  "meaning_en": "pronunciation of a character/word",
+  "len_ru": 24,
+  "len_en": 33
+ },
+ {
+  "hanzi": "中小学",
+  "pinyin": "zhōngxiǎoxué",
+  "meaning_ru": "школа (средн. и нач.)",
+  "meaning_en": "schools (primary+secondary)",
+  "len_ru": 21,
+  "len_en": 27
+ },
+ {
+  "hanzi": "公交车",
+  "pinyin": "gōngjiāochē",
+  "meaning_ru": "автобус (гор. маршрут)",
+  "meaning_en": "city bus (urban transit line)",
+  "len_ru": 22,
+  "len_en": 29
+ },
+ {
+  "hanzi": "快点儿",
+  "pinyin": "kuàidiǎnr",
+  "meaning_ru": "быстрее! (призыв к другому)",
+  "meaning_en": "hurry up! (urging others)",
+  "len_ru": 27,
+  "len_en": 25
+ },
+ {
+  "hanzi": "有一点儿",
+  "pinyin": "yǒuyīdiǎnr",
+  "meaning_ru": "немного (нейтр.); чуть-чуть",
+  "meaning_en": "a bit (neutral); slightly",
+  "len_ru": 27,
+  "len_en": 25
+ },
+ {
+  "hanzi": "那时候",
+  "pinyin": "nàshíhou",
+  "meaning_ru": "в то время; тогда (нейтр.)",
+  "meaning_en": "at that time (neutral spoken)",
+  "len_ru": 26,
+  "len_en": 29
+ },
+ {
+  "hanzi": "步",
+  "pinyin": "bù",
+  "meaning_ru": "шаг (физ.; счётное слово)",
+  "meaning_en": "step; pace (physical; measure)",
+  "len_ru": 25,
+  "len_en": 30
+ },
+ {
+  "hanzi": "痛",
+  "pinyin": "tòng",
+  "meaning_ru": "боль; болеть (физич., нейтр.)",
+  "meaning_en": "pain; to ache (physical, neutral)",
+  "len_ru": 29,
+  "len_en": 33
+ },
+ {
+  "hanzi": "整",
+  "pinyin": "zhěng",
+  "meaning_ru": "ровно (целых X: 整十年)",
+  "meaning_en": "exactly whole (整十年 = a full ten years)",
+  "len_ru": 20,
+  "len_en": 38
+ },
+ {
+  "hanzi": "外面",
+  "pinyin": "wàimiàn",
+  "meaning_ru": "снаружи; вне (нейтр. наречие места)",
+  "meaning_en": "outside (neutral locative)",
+  "len_ru": 35,
+  "len_en": 26
+ },
+ {
+  "hanzi": "皮",
+  "pinyin": "pí",
+  "meaning_ru": "кожа/кожура/кожа (шире, не орган)",
+  "meaning_en": "skin/peel/leather (broad sense)",
+  "len_ru": 33,
+  "len_en": 31
+ },
+ {
+  "hanzi": "美好",
+  "pinyin": "měihǎo",
+  "meaning_ru": "чудесный; прекрасный (об абстр.)",
+  "meaning_en": "wonderful; beautiful (of abstract things)",
+  "len_ru": 32,
+  "len_en": 41
+ },
+ {
+  "hanzi": "事实上",
+  "pinyin": "shìshíshàng",
+  "meaning_ru": "фактически (опираясь на факты)",
+  "meaning_en": "in fact (stressing known facts)",
+  "len_ru": 30,
+  "len_en": 31
+ },
+ {
+  "hanzi": "证",
+  "pinyin": "zhèng",
+  "meaning_ru": "удостоверение, пропуск; доказывать",
+  "meaning_en": "ID card; pass; to certify",
+  "len_ru": 34,
+  "len_en": 25
+ },
+ {
+  "hanzi": "演",
+  "pinyin": "yǎn",
+  "meaning_ru": "исполнять (роль, концерт, лекцию)",
+  "meaning_en": "perform broadly (act, play, lecture)",
+  "len_ru": 33,
+  "len_en": 36
+ },
+ {
+  "hanzi": "胜",
+  "pinyin": "shèng",
+  "meaning_ru": "победить (соперника); превосходить",
+  "meaning_en": "beat (an opponent); surpass",
+  "len_ru": 34,
+  "len_en": 27
+ },
+ {
+  "hanzi": "慢慢",
+  "pinyin": "mànmàn",
+  "meaning_ru": "медленно; не спеша (разг.)",
+  "meaning_en": "slowly; at a leisurely pace (coll.)",
+  "len_ru": 26,
+  "len_en": 35
+ },
+ {
+  "hanzi": "队员",
+  "pinyin": "duìyuán",
+  "meaning_ru": "член команды (спорт, отряд)",
+  "meaning_en": "team/squad member",
+  "len_ru": 27,
+  "len_en": 17
+ },
+ {
+  "hanzi": "内心",
+  "pinyin": "nèixīn",
+  "meaning_ru": "душа; в глубине души",
+  "meaning_en": "inner self; depths (literary)",
+  "len_ru": 20,
+  "len_en": 29
+ },
+ {
+  "hanzi": "防",
+  "pinyin": "fáng",
+  "meaning_ru": "защищать; предотвращать (угрозу)",
+  "meaning_en": "defend; ward off (a threat)",
+  "len_ru": 32,
+  "len_en": 27
+ },
+ {
+  "hanzi": "赶",
+  "pinyin": "gǎn",
+  "meaning_ru": "спешить; успеть (на автобус, дедлайн)",
+  "meaning_en": "to hurry; catch (a bus/deadline)",
+  "len_ru": 37,
+  "len_en": 32
+ },
+ {
+  "hanzi": "仅仅",
+  "pinyin": "jǐnjǐn",
+  "meaning_ru": "только; всего лишь (нейтр. ограничитель)",
+  "meaning_en": "merely; only (neutral restrictor)",
+  "len_ru": 40,
+  "len_en": 33
+ },
+ {
+  "hanzi": "录",
+  "pinyin": "lù",
+  "meaning_ru": "записывать (звук/видео/данные)",
+  "meaning_en": "record (audio/video/data)",
+  "len_ru": 30,
+  "len_en": 25
+ },
+ {
+  "hanzi": "背后",
+  "pinyin": "bèihòu",
+  "meaning_ru": "сзади; за спиной (перен.: втайне)",
+  "meaning_en": "behind; at one's back (lit./fig.)",
+  "len_ru": 33,
+  "len_en": 33
+ },
+ {
+  "hanzi": "土",
+  "pinyin": "tǔ",
+  "meaning_ru": "земля; почва (как вещество)",
+  "meaning_en": "soil; earth (as a material)",
+  "len_ru": 27,
+  "len_en": 27
+ },
+ {
+  "hanzi": "缺",
+  "pinyin": "quē",
+  "meaning_ru": "не хватать; недостаток (конкретный)",
+  "meaning_en": "to lack (verb); shortage (specific deficit)",
+  "len_ru": 35,
+  "len_en": 43
+ },
+ {
+  "hanzi": "古",
+  "pinyin": "gǔ",
+  "meaning_ru": "древний (морфема/прилаг.)",
+  "meaning_en": "ancient; old (attributive morpheme/adj)",
+  "len_ru": 25,
+  "len_en": 39
+ },
+ {
+  "hanzi": "造",
+  "pinyin": "zào",
+  "meaning_ru": "создавать; строить (общ., широко)",
+  "meaning_en": "to make; build; create (general)",
+  "len_ru": 33,
+  "len_en": 32
+ },
+ {
+  "hanzi": "前进",
+  "pinyin": "qiánjìn",
+  "meaning_ru": "идти вперёд (непереходн.)",
+  "meaning_en": "advance; move forward (intrans.)",
+  "len_ru": 25,
+  "len_en": 32
+ },
+ {
+  "hanzi": "看上去",
+  "pinyin": "kànshangqu",
+  "meaning_ru": "на вид; выглядит (визуально)",
+  "meaning_en": "looks (like); appears visually",
+  "len_ru": 28,
+  "len_en": 30
+ },
+ {
+  "hanzi": "环",
+  "pinyin": "huán",
+  "meaning_ru": "кольцо (форма); звено (не украшение)",
+  "meaning_en": "ring/loop (shape or link; not jewelry)",
+  "len_ru": 36,
+  "len_en": 38
+ },
+ {
+  "hanzi": "退出",
+  "pinyin": "tuìchū",
+  "meaning_ru": "выйти из (орг-ции, программы)",
+  "meaning_en": "quit (org/app, not a habit)",
+  "len_ru": 29,
+  "len_en": 27
+ },
+ {
+  "hanzi": "上升",
+  "pinyin": "shàngshēng",
+  "meaning_ru": "подниматься (физически или в ранге)",
+  "meaning_en": "rise (physically or in rank)",
+  "len_ru": 35,
+  "len_en": 28
+ },
+ {
+  "hanzi": "飞行",
+  "pinyin": "fēixíng",
+  "meaning_ru": "полёт; летать (офиц., авиационный контекст)",
+  "meaning_en": "fly; flight (formal/technical, aviation context)",
+  "len_ru": 43,
+  "len_en": 48
+ },
+ {
+  "hanzi": "福",
+  "pinyin": "fú",
+  "meaning_ru": "счастье; удача (культурн., церем.)",
+  "meaning_en": "blessing; fortune (cultural, ceremonial)",
+  "len_ru": 34,
+  "len_en": 40
+ },
+ {
+  "hanzi": "补",
+  "pinyin": "bǔ",
+  "meaning_ru": "чинить (латать); восполнять (в т.ч. перен.)",
+  "meaning_en": "to patch; mend; make up for (also fig.)",
+  "len_ru": 43,
+  "len_en": 39
+ },
+ {
+  "hanzi": "赶到",
+  "pinyin": "gǎndào",
+  "meaning_ru": "успеть прибыть (добраться впритык)",
+  "meaning_en": "to arrive by hurrying (reach in time)",
+  "len_ru": 34,
+  "len_en": 37
+ },
+ {
+  "hanzi": "相比",
+  "pinyin": "xiāngbǐ",
+  "meaning_ru": "сравнивать (в сопоставлении)",
+  "meaning_en": "compare (by contrast, 相比之下)",
+  "len_ru": 28,
+  "len_en": 27
+ },
+ {
+  "hanzi": "情感",
+  "pinyin": "qínggǎn",
+  "meaning_ru": "эмоция; чувство (аффективное)",
+  "meaning_en": "emotion; feeling (affective, not sensory)",
+  "len_ru": 29,
+  "len_en": 41
+ },
+ {
+  "hanzi": "看起来",
+  "pinyin": "kànqǐlai",
+  "meaning_ru": "на вид, визуально кажется (≠ 似乎 «будто бы»)",
+  "meaning_en": "looks like (visual inference; not tentative 似乎)",
+  "len_ru": 43,
+  "len_en": 47
+ },
+ {
+  "hanzi": "静",
+  "pinyin": "jìng",
+  "meaning_ru": "тихий; спокойный (лит., внутр.)",
+  "meaning_en": "quiet; still (literary, inner calm)",
+  "len_ru": 31,
+  "len_en": 35
+ },
+ {
+  "hanzi": "打破",
+  "pinyin": "dǎpò",
+  "meaning_ru": "разбить; нарушить (рекорд, норму)",
+  "meaning_en": "smash; break (also records/limits)",
+  "len_ru": 33,
+  "len_en": 34
+ },
+ {
+  "hanzi": "上来",
+  "pinyin": "shànglái",
+  "meaning_ru": "подниматься (сюда, к говорящему)",
+  "meaning_en": "come up (upward, toward speaker)",
+  "len_ru": 32,
+  "len_en": 32
+ },
+ {
+  "hanzi": "西部",
+  "pinyin": "xībù",
+  "meaning_ru": "западная часть (региона, страны)",
+  "meaning_en": "western part (of a region/country)",
+  "len_ru": 32,
+  "len_en": 34
+ },
+ {
+  "hanzi": "观看",
+  "pinyin": "guānkàn",
+  "meaning_ru": "смотреть (шоу, матч, зрелище)",
+  "meaning_en": "watch (a show, match, performance)",
+  "len_ru": 29,
+  "len_en": 34
+ },
+ {
+  "hanzi": "房屋",
+  "pinyin": "fángwū",
+  "meaning_ru": "дом; строение (книжн., офиц.)",
+  "meaning_en": "house; building (formal, written)",
+  "len_ru": 29,
+  "len_en": 33
+ },
+ {
+  "hanzi": "基本上",
+  "pinyin": "jīběnshang",
+  "meaning_ru": "в основном; по сути (только нареч.)",
+  "meaning_en": "basically; on the whole (adverb only)",
+  "len_ru": 35,
+  "len_en": 37
+ },
+ {
+  "hanzi": "加快",
+  "pinyin": "jiākuài",
+  "meaning_ru": "ускорять (темп, шире)",
+  "meaning_en": "speed up (pace/progress, broader)",
+  "len_ru": 21,
+  "len_en": 33
+ },
+ {
+  "hanzi": "演唱会",
+  "pinyin": "yǎnchànghuì",
+  "meaning_ru": "концерт (вокальный, поп/рок)",
+  "meaning_en": "vocal/pop concert; live show",
+  "len_ru": 28,
+  "len_en": 28
+ },
+ {
+  "hanzi": "演唱",
+  "pinyin": "yǎnchàng",
+  "meaning_ru": "петь на сцене (для аудитории)",
+  "meaning_en": "sing in performance (stage, audience)",
+  "len_ru": 29,
+  "len_en": 37
+ },
+ {
+  "hanzi": "会员",
+  "pinyin": "huìyuán",
+  "meaning_ru": "член (клуба/подписки)",
+  "meaning_en": "member (club or subscription)",
+  "len_ru": 21,
+  "len_en": 29
+ },
+ {
+  "hanzi": "生长",
+  "pinyin": "shēngzhǎng",
+  "meaning_ru": "расти (биологически — растения, организмы)",
+  "meaning_en": "grow (biological — plants, organisms)",
+  "len_ru": 42,
+  "len_en": 37
+ },
+ {
+  "hanzi": "电视剧",
+  "pinyin": "diànshìjù",
+  "meaning_ru": "телесериал (жанр ТВ)",
+  "meaning_en": "TV drama/series (medium-specific)",
+  "len_ru": 20,
+  "len_en": 33
+ },
+ {
+  "hanzi": "收费",
+  "pinyin": "shōufèi",
+  "meaning_ru": "взимать плату (за услугу)",
+  "meaning_en": "to charge a fee (collect payment)",
+  "len_ru": 25,
+  "len_en": 33
+ },
+ {
+  "hanzi": "难度",
+  "pinyin": "nándù",
+  "meaning_ru": "степень сложности (абстр. мера)",
+  "meaning_en": "difficulty level (abstract measure)",
+  "len_ru": 31,
+  "len_en": 35
+ },
+ {
+  "hanzi": "通信",
+  "pinyin": "tōngxìn",
+  "meaning_ru": "связь; переписка",
+  "meaning_en": "communication; correspondence",
+  "len_ru": 16,
+  "len_en": 29
+ },
+ {
+  "hanzi": "发送",
+  "pinyin": "fāsòng",
+  "meaning_ru": "отправлять (цифровое/офиц.)",
+  "meaning_en": "send digitally or officially; transmit",
+  "len_ru": 27,
+  "len_en": 38
+ },
+ {
+  "hanzi": "播出",
+  "pinyin": "bōchū",
+  "meaning_ru": "транслировать (конкретную передачу)",
+  "meaning_en": "to air (a specific broadcast)",
+  "len_ru": 35,
+  "len_en": 29
+ },
+ {
+  "hanzi": "巧",
+  "pinyin": "qiǎo",
+  "meaning_ru": "как раз; ловкий (по контексту)",
+  "meaning_en": "coincidentally; skillful (context)",
+  "len_ru": 30,
+  "len_en": 34
+ }
+]

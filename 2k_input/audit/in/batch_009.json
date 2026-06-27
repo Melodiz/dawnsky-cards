@@ -1,0 +1,670 @@
+[
+ {
+  "hanzi": "队员",
+  "pinyin": "duìyuán",
+  "meaning_ru": "член команды (спорт, отряд)",
+  "meaning_en": "team/squad member",
+  "len_ru": 27,
+  "len_en": 17,
+  "cedict_en": "team member",
+  "dataset_meanings": [
+   "team member"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "成员"
+    ],
+    "note": "队员 = member of a team or squad (sports, military unit, specific crew); 成员 = member of any group or organization (broader, also used for families, committees, states)."
+   }
+  ]
+ },
+ {
+  "hanzi": "防",
+  "pinyin": "fáng",
+  "meaning_ru": "защищать; предотвращать",
+  "meaning_en": "defend; ward off (a threat)",
+  "len_ru": 23,
+  "len_en": 27,
+  "cedict_en": "to protect/to defend/to guard against/to prevent",
+  "dataset_meanings": [
+   "to protect",
+   "to defend",
+   "to guard against",
+   "to prevent"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "保护",
+     "守护",
+     "爱护",
+     "掩护",
+     "预防",
+     "避免"
+    ],
+    "note": "防 = defend/prevent (ward off threats, proactive). 保护 = protect (general safeguarding). 守护 = guard/watch over (ongoing devoted protection). 爱护 = care for (out of affection, not threat-based). 掩护 = cover/shield (military or covert protection). 预防 = prevent (health/risk precaution before harm). 避免 = avoid (steer clear of sth undesirable)."
+   }
+  ]
+ },
+ {
+  "hanzi": "降",
+  "pinyin": "jiàng",
+  "meaning_ru": "понижаться; опускаться",
+  "meaning_en": "descend; lower (root)",
+  "len_ru": 22,
+  "len_en": 21,
+  "cedict_en": "to drop/to fall/to come down/to descend/to surrender; to capitulate/to subdue; to conquer; to tame",
+  "dataset_meanings": [
+   "to drop",
+   "to fall",
+   "to come down",
+   "to descend",
+   "to surrender",
+   "to capitulate",
+   "to subdue",
+   "to tame"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "降低",
+     "降落",
+     "降临"
+    ],
+    "note": "降 = descend/lower (root); 降低 = reduce a level or quantity (transitive: lower costs); 降落 = physically land (aircraft, object); 降临 = befall/descend upon (events, literary)."
+   }
+  ]
+ },
+ {
+  "hanzi": "降价",
+  "pinyin": "jiàngjià",
+  "meaning_ru": "снижать цену (действие)",
+  "meaning_en": "cut the price (action)",
+  "len_ru": 23,
+  "len_en": 22,
+  "cedict_en": "to cut the price/to drive down the price/to get cheaper",
+  "dataset_meanings": [
+   "to cut the price",
+   "to drive down the price",
+   "to get cheaper"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "物价",
+     "价格",
+     "代价"
+    ],
+    "note": "价格 (5k) = market price of a specific item; 物价 = commodity price level in general (macro); 代价 (5k) = figurative cost/sacrifice; 降价 = the action of cutting the price"
+   }
+  ]
+ },
+ {
+  "hanzi": "院",
+  "pinyin": "yuàn",
+  "meaning_ru": "двор; суффикс учреждений",
+  "meaning_en": "courtyard; institution suffix",
+  "len_ru": 24,
+  "len_en": 29,
+  "cedict_en": "courtyard/institution/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "courtyard",
+   "institution"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "院子",
+     "花园"
+    ],
+    "note": "院子 = an enclosed courtyard/yard (residential); 院 = courtyard morpheme, also suffix for institutions (医院, 法院); 花园 (5k) = a planted garden, not just a bare yard"
+   }
+  ]
+ },
+ {
+  "hanzi": "院子",
+  "pinyin": "yuànzi",
+  "meaning_ru": "двор (жилой, огороженный)",
+  "meaning_en": "enclosed courtyard; yard",
+  "len_ru": 25,
+  "len_en": 24,
+  "cedict_en": "courtyard/garden/yard/patio/CL:個|个[ge4]/(old) servant",
+  "dataset_meanings": [
+   "courtyard",
+   "garden",
+   "yard",
+   "patio",
+   "(old) servant"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "院",
+     "花园"
+    ],
+    "note": "院子 = an enclosed courtyard/yard (residential); 院 = courtyard morpheme, also suffix for institutions (医院, 法院); 花园 (5k) = a planted garden, not just a bare yard"
+   }
+  ]
+ },
+ {
+  "hanzi": "院长",
+  "pinyin": "yuànzhǎng",
+  "meaning_ru": "директор/декан института",
+  "meaning_en": "director/dean of institute or hospital",
+  "len_ru": 24,
+  "len_en": 38,
+  "cedict_en": "the head of an institution whose name ends in 院[yuan4]; chair of a board; university president; college dean; premier of the Republic of China",
+  "dataset_meanings": [
+   "the head of an institution whose name ends in 院",
+   "chair of a board",
+   "president of a university",
+   "department head",
+   "dean",
+   "premier of the Republic of China"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "校长",
+     "主任"
+    ],
+    "note": "院长 = head of an institute/hospital/college (院); 校长 = head of a school or university (校); 主任 = head of a department or office"
+   }
+  ]
+ },
+ {
+  "hanzi": "随后",
+  "pinyin": "suíhòu",
+  "meaning_ru": "сразу после; тут же",
+  "meaning_en": "immediately after; right then",
+  "len_ru": 19,
+  "len_en": 29,
+  "cedict_en": "afterward; later; subsequently; following that",
+  "dataset_meanings": [
+   "soon after"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "不久"
+    ],
+    "note": "随后 = immediately following in sequence (right after); 不久 = an unspecified short time later (temporal gap, not necessarily immediate)"
+   }
+  ]
+ },
+ {
+  "hanzi": "隔",
+  "pinyin": "gé",
+  "meaning_ru": "отделять; через (интервал)",
+  "meaning_en": "separate; at an interval",
+  "len_ru": 26,
+  "len_en": 24,
+  "cedict_en": "to separate/to partition/to stand or lie between/at a distance from/after or at an interval of",
+  "dataset_meanings": [
+   "to separate",
+   "to partition",
+   "to stand or lie between",
+   "at a distance from",
+   "after or at an interval of"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "隔开",
+     "分离",
+     "分开",
+     "分散"
+    ],
+    "note": "隔/隔开 = separate by physical barrier or interval; 分开 = split apart (general, reversible); 分离 = separate with a sense of parting (often people/components); 分散 = scatter/disperse into multiple parts"
+   }
+  ]
+ },
+ {
+  "hanzi": "隔开",
+  "pinyin": "gékāi",
+  "meaning_ru": "разделять преградой (физ.)",
+  "meaning_en": "separate by barrier (physical)",
+  "len_ru": 26,
+  "len_en": 30,
+  "cedict_en": "to separate",
+  "dataset_meanings": [
+   "to separate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "隔",
+     "分离",
+     "分开",
+     "分散"
+    ],
+    "note": "隔/隔开 = separate by physical barrier or interval; 分开 = split apart (general, reversible); 分离 = separate with a sense of parting (often people/components); 分散 = scatter/disperse into multiple parts"
+   }
+  ]
+ },
+ {
+  "hanzi": "难度",
+  "pinyin": "nándù",
+  "meaning_ru": "степень сложности",
+  "meaning_en": "difficulty level",
+  "len_ru": 17,
+  "len_en": 16,
+  "cedict_en": "degree of difficulty",
+  "dataset_meanings": [
+   "degree of difficulty"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "难题",
+     "困难"
+    ],
+    "note": "难题 = a specific hard problem (noun); 难度 = abstract difficulty level (measure); 困难 = general hardship/difficulty (noun or adj)"
+   }
+  ]
+ },
+ {
+  "hanzi": "难题",
+  "pinyin": "nántí",
+  "meaning_ru": "трудная задача; сложный вопрос",
+  "meaning_en": "difficult problem; hard question",
+  "len_ru": 30,
+  "len_en": 32,
+  "cedict_en": "difficult problem",
+  "dataset_meanings": [
+   "difficult problem"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "难度",
+     "困难"
+    ],
+    "note": "难题 = a specific hard problem (noun); 难度 = abstract difficulty level (measure); 困难 = general hardship/difficulty (noun or adj)"
+   }
+  ]
+ },
+ {
+  "hanzi": "静",
+  "pinyin": "jìng",
+  "meaning_ru": "тихий; спокойный (лит.)",
+  "meaning_en": "quiet; still (inner calm)",
+  "len_ru": 23,
+  "len_en": 25,
+  "cedict_en": "still/calm/quiet/not moving",
+  "dataset_meanings": [
+   "still",
+   "calm",
+   "quiet",
+   "not moving"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "安静",
+     "寂静"
+    ],
+    "note": "静 = quiet/still (literary adj, inner calm); 安静 = quiet without disturbance (environment/behavior, everyday); 寂静 = deep silence (literary, atmospheric)"
+   }
+  ]
+ },
+ {
+  "hanzi": "靠近",
+  "pinyin": "kàojìn",
+  "meaning_ru": "приближаться (физически)",
+  "meaning_en": "approach; draw near (physical)",
+  "len_ru": 24,
+  "len_en": 30,
+  "cedict_en": "to be close to/to approach; to draw near",
+  "dataset_meanings": [
+   "to be close to",
+   "to approach; to draw near"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "接近",
+     "靠拢"
+    ],
+    "note": "靠近 = move physically close to (everyday); 接近 = approach / be close to (physical or abstract, neutral); 靠拢 = close up / draw together (military or group formation)."
+   }
+  ]
+ },
+ {
+  "hanzi": "音乐会",
+  "pinyin": "yīnyuèhuì",
+  "meaning_ru": "концерт (инструм. или любой)",
+  "meaning_en": "concert (any music, incl. instrumental)",
+  "len_ru": 28,
+  "len_en": 39,
+  "cedict_en": "concert/CL:場|场[chang3]",
+  "dataset_meanings": [
+   "concert"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "演唱会"
+    ],
+    "note": "音乐会 covers any music concert (instrumental or vocal); 演唱会 is specifically a vocal/singing concert or pop/rock live show"
+   }
+  ]
+ },
+ {
+  "hanzi": "预备",
+  "pinyin": "yùbèi",
+  "meaning_ru": "готовиться (лично)",
+  "meaning_en": "get ready (personal prep)",
+  "len_ru": 18,
+  "len_en": 25,
+  "cedict_en": "to prepare/to make ready/preparation/preparatory",
+  "dataset_meanings": [
+   "to prepare",
+   "to make ready",
+   "preparation",
+   "preparatory"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "筹备"
+    ],
+    "note": "预备 = get ready personally (simple preparation, also adj. preparatory); 筹备 = organize and arrange (events, projects — involves coordination)"
+   }
+  ]
+ },
+ {
+  "hanzi": "颜色",
+  "pinyin": "yánsè",
+  "meaning_ru": "цвет (нейтр. сущ.)",
+  "meaning_en": "color (general noun)",
+  "len_ru": 18,
+  "len_en": 20,
+  "cedict_en": "color/countenance/appearance/facial expression/pigment/dyestuff",
+  "dataset_meanings": [
+   "color",
+   "countenance",
+   "appearance",
+   "facial expression",
+   "pigment",
+   "dyestuff"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "色",
+     "色彩"
+    ],
+    "note": "颜色 = color (neutral everyday noun); 色 = color (root morpheme, used in compounds, also literary); 色彩 = color with tonal/figurative nuance (also: flavor, hue in art/rhetoric)"
+   },
+   {
+    "with": [
+     "色",
+     "彩色",
+     "色彩"
+    ],
+    "note": "色 is a morpheme/literary noun; 颜色 is the everyday neutral noun for 'color'; 彩色 means 'multicolored/color' as an attribute (彩色电视); 色彩 (5k) is literary/figurative 'hue/flavor'"
+   }
+  ]
+ },
+ {
+  "hanzi": "飞行",
+  "pinyin": "fēixíng",
+  "meaning_ru": "полёт; летать (авиац.)",
+  "meaning_en": "fly; flight (aviation)",
+  "len_ru": 22,
+  "len_en": 22,
+  "cedict_en": "(of planes etc) to fly/flying/flight/aviation",
+  "dataset_meanings": [
+   "(of planes etc) to fly",
+   "flying",
+   "flight",
+   "aviation"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "飞",
+     "航行",
+     "航空"
+    ],
+    "note": "飞 = fly (everyday verb); 飞行 = fly/flight (formal technical, aviation context); 航行 = navigate/sail or fly (sea or air voyage); 航空 = aviation (noun/adj, industry term)"
+   }
+  ]
+ },
+ {
+  "hanzi": "首",
+  "pinyin": "shǒu",
+  "meaning_ru": "глава; первый; (сч. стихи)",
+  "meaning_en": "head; chief; (cl. poems/songs)",
+  "len_ru": 26,
+  "len_en": 30,
+  "cedict_en": "head/chief/first (occasion, thing etc)/classifier for poems, songs etc",
+  "dataset_meanings": [
+   "head",
+   "chief",
+   "first (occasion, thing etc)",
+   "classifier for poems, songs etc"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "所长",
+     "组长",
+     "领导",
+     "领导人",
+     "领袖"
+    ],
+    "note": "首 = head/chief (literary, also classifier for songs/poems); 组长 = small team/group leader; 所长 = head of an institute or bureau; 领导 = everyday boss/leader (also verb: to lead); 领导人 = official leader (formal title); 领袖 = top political figure/chief (elevated, reverential)"
+   },
+   {
+    "with": [
+     "头",
+     "脑袋"
+    ],
+    "note": "头 is neutral 'head' (body part, also top/beginning); 脑袋 is colloquial/informal; 首 is a classifier for songs/poems or literary 'chief/head' — not the body part"
+   }
+  ]
+ },
+ {
+  "hanzi": "驾照",
+  "pinyin": "jiàzhào",
+  "meaning_ru": "водительские права",
+  "meaning_en": "driver's license",
+  "len_ru": 18,
+  "len_en": 16,
+  "cedict_en": "driver's license (abbr. for 駕駛執照|驾驶执照[jia4 shi3 zhi2 zhao4])",
+  "dataset_meanings": [
+   "driver's license"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "执照"
+    ],
+    "note": "驾照 = driver's license only; 执照 = any business/professional permit or license"
+   }
+  ]
+ },
+ {
+  "hanzi": "骑车",
+  "pinyin": "qíchē",
+  "meaning_ru": "ехать на велосипеде (верхом)",
+  "meaning_en": "ride a bike (straddle)",
+  "len_ru": 28,
+  "len_en": 22,
+  "cedict_en": "to ride a bike (motorbike or bicycle)",
+  "dataset_meanings": [
+   "to ride a bike (motorbike or bicycle)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "乘车",
+     "乘坐",
+     "乘",
+     "搭"
+    ],
+    "note": "骑车 = ride a bicycle/motorbike (straddle-type); 乘车 = travel by car/vehicle (passenger); 乘/乘坐 = ride/travel by (formal; 乘 also means multiply); 搭 = hitch a ride or take public transport (colloquial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "骗子",
+  "pinyin": "piànzi",
+  "meaning_ru": "мошенник (лицо, сущ.)",
+  "meaning_en": "swindler (person, noun)",
+  "len_ru": 21,
+  "len_en": 23,
+  "cedict_en": "swindler/a cheat",
+  "dataset_meanings": [
+   "swindler",
+   "a cheat"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "欺骗",
+     "作弊"
+    ],
+    "note": "欺骗 = to deceive (general verb); 骗子 = a swindler/cheat (person noun); 作弊 = to cheat specifically in an exam, game, or competition (situational)."
+   }
+  ]
+ },
+ {
+  "hanzi": "高于",
+  "pinyin": "gāoyú",
+  "meaning_ru": "выше (для уровней/значений)",
+  "meaning_en": "higher than (levels/values)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "greater than/to exceed",
+  "dataset_meanings": [
+   "greater than",
+   "to exceed"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "超",
+     "超过"
+    ],
+    "note": "超 is a prefix/verb meaning 'exceed a threshold' or 'super-'; 超过 is a verb 'to exceed, surpass' (quantity or performance); 高于 means 'higher than' and is specifically comparative for levels/values"
+   }
+  ]
+ },
+ {
+  "hanzi": "高大",
+  "pinyin": "gāodà",
+  "meaning_ru": "высокий и крупный",
+  "meaning_en": "tall and large/imposing",
+  "len_ru": 17,
+  "len_en": 23,
+  "cedict_en": "tall; lofty; towering",
+  "dataset_meanings": [
+   "tall; lofty; towering"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "挺拔"
+    ],
+    "note": "高大 = tall and large/imposing (physical size, of people or structures); 挺拔 = tall and erect/straight (elegant upright bearing, literary — trees, figures)."
+   }
+  ]
+ },
+ {
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "meaning_ru": "чёрный; тёмный (прилаг.)",
+  "meaning_en": "black; dark (adjective)",
+  "len_ru": 24,
+  "len_en": 23,
+  "cedict_en": "short name for Heilongjiang 黑龍江|黑龙江[Hei1 long2 jiang1]/black/dark/sinister/secret/shady/illegal/to hide (sth) away/to vilify/(loanword) to hack (computing)",
+  "dataset_meanings": [
+   "abbr. for Heilongjiang province 黑龙江",
+   "black",
+   "dark",
+   "sinister",
+   "secret",
+   "shady",
+   "illegal",
+   "to hide (sth) away",
+   "to vilify",
+   "(loanword) to hack (computing)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "黑色",
+     "乌黑"
+    ],
+    "note": "黑色 = black as a color noun (colour category); 黑 = black/dark as predicate adjective; 乌黑 = jet-black (lustrous, used of hair/eyes)"
+   }
+  ]
+ },
+ {
+  "hanzi": "黑暗",
+  "pinyin": "hēiʼàn",
+  "meaning_ru": "тьма; тёмный (физич./морально)",
+  "meaning_en": "darkness (physical or moral)",
+  "len_ru": 30,
+  "len_en": 28,
+  "cedict_en": "dark/darkly/darkness",
+  "dataset_meanings": [
+   "dark",
+   "darkly",
+   "darkness"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "暗"
+    ],
+    "note": "黑暗 is a noun/strong adj (physical or moral darkness); 暗 is a general adj (dim, also covert/secret)"
+   }
+  ]
+ },
+ {
+  "hanzi": "黑色",
+  "pinyin": "hēisè",
+  "meaning_ru": "чёрный (цвет-сущ.)",
+  "meaning_en": "black (as a color noun)",
+  "len_ru": 18,
+  "len_en": 23,
+  "cedict_en": "black",
+  "dataset_meanings": [
+   "black"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "黑",
+     "乌黑"
+    ],
+    "note": "黑色 = black as a color noun (colour category); 黑 = black/dark as predicate adjective; 乌黑 = jet-black (lustrous, used of hair/eyes)"
+   }
+  ]
+ },
+ {
+  "hanzi": "鼠",
+  "pinyin": "shǔ",
+  "meaning_ru": "крыса/мышь (книжн., в словах)",
+  "meaning_en": "rat; mouse (in compounds)",
+  "len_ru": 29,
+  "len_en": 25,
+  "cedict_en": "(bound form) rat; mouse",
+  "dataset_meanings": [
+   "(bound form) rat; mouse"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "老鼠"
+    ],
+    "note": "鼠 = literary/formal form, appears in compounds (鼠疫, 鼠标); 老鼠 = everyday colloquial word for mouse/rat"
+   }
+  ]
+ }
+]

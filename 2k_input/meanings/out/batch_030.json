@@ -1,0 +1,152 @@
+[
+ {
+  "hanzi": "基本上",
+  "pinyin": "jīběnshang",
+  "meaning_ru": "в основном; по сути",
+  "meaning_en": "basically; on the whole",
+  "semantic_tags": [
+   "manner_adverb",
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "预计",
+  "pinyin": "yùjì",
+  "meaning_ru": "прогнозировать; ожидать",
+  "meaning_en": "to estimate; to forecast",
+  "semantic_tags": [
+   "cognition",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "加快",
+  "pinyin": "jiākuài",
+  "meaning_ru": "ускорять",
+  "meaning_en": "to speed up; accelerate",
+  "semantic_tags": [
+   "process_change",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "乐队",
+  "pinyin": "yuèduì",
+  "meaning_ru": "оркестр; группа",
+  "meaning_en": "band; orchestra",
+  "semantic_tags": [
+   "art",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "演唱会",
+  "pinyin": "yǎnchànghuì",
+  "meaning_ru": "концерт (вокальный)",
+  "meaning_en": "concert; recital",
+  "semantic_tags": [
+   "art",
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "演唱",
+  "pinyin": "yǎnchàng",
+  "meaning_ru": "петь (на сцене)",
+  "meaning_en": "to sing; vocal performance",
+  "semantic_tags": [
+   "art",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "会员",
+  "pinyin": "huìyuán",
+  "meaning_ru": "член; участник",
+  "meaning_en": "member",
+  "semantic_tags": [
+   "person",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "生长",
+  "pinyin": "shēngzhǎng",
+  "meaning_ru": "расти; вырастать",
+  "meaning_en": "to grow; grow up",
+  "semantic_tags": [
+   "process_change",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "电视剧",
+  "pinyin": "diànshìjù",
+  "meaning_ru": "телесериал",
+  "meaning_en": "TV series; TV drama",
+  "semantic_tags": [
+   "art",
+   "media_news"
+  ]
+ },
+ {
+  "hanzi": "身份证",
+  "pinyin": "shēnfènzhèng",
+  "meaning_ru": "удостоверение личности",
+  "meaning_en": "ID card",
+  "semantic_tags": [
+   "law_admin_doc",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "收费",
+  "pinyin": "shōufèi",
+  "meaning_ru": "взимать плату",
+  "meaning_en": "to charge a fee",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "头脑",
+  "pinyin": "tóunǎo",
+  "meaning_ru": "ум; рассудок",
+  "meaning_en": "brains; mind",
+  "semantic_tags": [
+   "cognition",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "难度",
+  "pinyin": "nándù",
+  "meaning_ru": "степень сложности",
+  "meaning_en": "difficulty level",
+  "semantic_tags": [
+   "abstract_quality",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "通信",
+  "pinyin": "tōngxìn",
+  "meaning_ru": "связь; переписка",
+  "meaning_en": "communication; correspond",
+  "semantic_tags": [
+   "communication_formal",
+   "technology"
+  ]
+ },
+ {
+  "hanzi": "环保",
+  "pinyin": "huánbǎo",
+  "meaning_ru": "охрана среды; эко",
+  "meaning_en": "environmental protection",
+  "semantic_tags": [
+   "nature",
+   "society_public"
+  ]
+ }
+]

@@ -1,0 +1,138 @@
+[
+ {
+  "hanzi": "月饼",
+  "pinyin": "yuèbǐng",
+  "meaning_ru": "лунный пряник",
+  "meaning_en": "mooncake",
+  "semantic_tags": [
+   "food",
+   "culture"
+  ]
+ },
+ {
+  "hanzi": "毛笔",
+  "pinyin": "máobǐ",
+  "meaning_ru": "кисть для письма",
+  "meaning_en": "writing brush",
+  "semantic_tags": [
+   "object_stationery",
+   "art"
+  ]
+ },
+ {
+  "hanzi": "豆制品",
+  "pinyin": "dòuzhìpǐn",
+  "meaning_ru": "соевые продукты",
+  "meaning_en": "soy products",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "脸盆",
+  "pinyin": "liǎnpén",
+  "meaning_ru": "таз для умывания",
+  "meaning_en": "washbasin",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "中秋节",
+  "pinyin": "zhōngqiūjié",
+  "meaning_ru": "праздник середины осени",
+  "meaning_en": "Mid-Autumn Festival",
+  "semantic_tags": [
+   "culture",
+   "date"
+  ]
+ },
+ {
+  "hanzi": "正版",
+  "pinyin": "zhèngbǎn",
+  "meaning_ru": "лицензионная версия",
+  "meaning_en": "genuine; licensed",
+  "semantic_tags": [
+   "commerce_trade",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "电子版",
+  "pinyin": "diànzǐbǎn",
+  "meaning_ru": "электронная версия",
+  "meaning_en": "digital edition",
+  "semantic_tags": [
+   "technology",
+   "media_news"
+  ]
+ },
+ {
+  "hanzi": "差一点儿",
+  "pinyin": "chàyìdiǎnr",
+  "meaning_ru": "чуть не; почти",
+  "meaning_en": "almost; nearly",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "电饭锅",
+  "pinyin": "diànfànguō",
+  "meaning_ru": "рисоварка",
+  "meaning_en": "rice cooker",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "小偷儿",
+  "pinyin": "xiǎotōur",
+  "meaning_ru": "вор",
+  "meaning_en": "thief",
+  "semantic_tags": [
+   "person",
+   "law_justice"
+  ]
+ },
+ {
+  "hanzi": "胡同儿",
+  "pinyin": "hútòngr",
+  "meaning_ru": "переулок",
+  "meaning_en": "alley; lane",
+  "semantic_tags": [
+   "place",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "二维码",
+  "pinyin": "èrwéimǎ",
+  "meaning_ru": "QR-код",
+  "meaning_en": "QR code",
+  "semantic_tags": [
+   "technology",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "微博",
+  "pinyin": "wēibó",
+  "meaning_ru": "Вэйбо; микроблог",
+  "meaning_en": "Weibo; microblog",
+  "semantic_tags": [
+   "media_news",
+   "technology"
+  ]
+ },
+ {
+  "hanzi": "杀毒",
+  "pinyin": "shādú",
+  "meaning_ru": "удалять вирусы (комп.)",
+  "meaning_en": "antivirus; remove virus",
+  "semantic_tags": [
+   "technology",
+   "action_daily"
+  ]
+ }
+]

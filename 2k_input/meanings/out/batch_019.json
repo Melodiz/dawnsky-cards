@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "住房",
+  "pinyin": "zhùfáng",
+  "meaning_ru": "жильё; жилое помещение",
+  "meaning_en": "housing; dwelling",
+  "semantic_tags": [
+   "building",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "出院",
+  "pinyin": "chūyuàn",
+  "meaning_ru": "выписаться из больницы",
+  "meaning_en": "leave hospital",
+  "semantic_tags": [
+   "health_medical",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "老朋友",
+  "pinyin": "lǎopéngyou",
+  "meaning_ru": "старый друг",
+  "meaning_en": "old friend",
+  "semantic_tags": [
+   "relationship_social",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "走开",
+  "pinyin": "zǒukāi",
+  "meaning_ru": "уходи; отойди",
+  "meaning_en": "go away; move aside",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "笔记",
+  "pinyin": "bǐjì",
+  "meaning_ru": "записи; конспект",
+  "meaning_en": "notes; jot down",
+  "semantic_tags": [
+   "action_learning",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "外地",
+  "pinyin": "wàidì",
+  "meaning_ru": "другой регион; не местный",
+  "meaning_en": "other region; out of town",
+  "semantic_tags": [
+   "place",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "休假",
+  "pinyin": "xiūjià",
+  "meaning_ru": "брать отпуск",
+  "meaning_en": "take leave; vacation",
+  "semantic_tags": [
+   "action_daily",
+   "work_career"
+  ]
+ },
+ {
+  "hanzi": "小声",
+  "pinyin": "xiǎoshēng",
+  "meaning_ru": "тихо; вполголоса",
+  "meaning_en": "in a low voice",
+  "semantic_tags": [
+   "manner_state",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "大自然",
+  "pinyin": "dàzìrán",
+  "meaning_ru": "природа",
+  "meaning_en": "nature",
+  "semantic_tags": [
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "送到",
+  "pinyin": "sòngdào",
+  "meaning_ru": "доставить; довести",
+  "meaning_en": "deliver; send to",
+  "semantic_tags": [
+   "action_movement",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "老年",
+  "pinyin": "lǎonián",
+  "meaning_ru": "старость; пожилой возраст",
+  "meaning_en": "old age; elderly",
+  "semantic_tags": [
+   "time_period",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "动物园",
+  "pinyin": "dòngwùyuán",
+  "meaning_ru": "зоопарк",
+  "meaning_en": "zoo",
+  "semantic_tags": [
+   "place",
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "草地",
+  "pinyin": "cǎodì",
+  "meaning_ru": "лужайка; луг",
+  "meaning_en": "lawn; meadow",
+  "semantic_tags": [
+   "nature",
+   "place"
+  ]
+ },
+ {
+  "hanzi": "药店",
+  "pinyin": "yàodiàn",
+  "meaning_ru": "аптека",
+  "meaning_en": "pharmacy",
+  "semantic_tags": [
+   "place",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "回国",
+  "pinyin": "huíguó",
+  "meaning_ru": "вернуться на родину",
+  "meaning_en": "return to one's country",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ]
+ }
+]

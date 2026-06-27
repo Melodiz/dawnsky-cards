@@ -1,0 +1,909 @@
+[
+ {
+  "hanzi": "上升",
+  "meaning_ru": "подниматься (физ./по рангу)",
+  "reason": "ru=32 chars exceeds ~28 limit; trimmed abbreviations preserve physical/rank senses and the distinction from 涨 (market) and 提高 (intentional raise)"
+ },
+ {
+  "hanzi": "下降",
+  "meaning_en": "drop; decline (measurable)",
+  "reason": "en=30 chars exceeds limit; 'measurable' preserves the quantitative sense that distinguishes 下降 from 衰退 (gradual decay)"
+ },
+ {
+  "hanzi": "不曾",
+  "meaning_en": "have never (experiential)",
+  "reason": "en=30 chars; 'neg.' abbreviation dropped but experiential shade still explicit, preserving distinction from 未 (not yet, literary)"
+ },
+ {
+  "hanzi": "不良",
+  "meaning_ru": "плохой; вредный (офиц.)",
+  "meaning_en": "bad; harmful (formal only)",
+  "reason": "ru=31, en=29 chars both exceed limit; 'офиц.' and 'formal only' retain the written/official register that distinguishes 不良 from colloquial 坏"
+ },
+ {
+  "hanzi": "个儿",
+  "meaning_en": "height; build (N. dialect)",
+  "reason": "en=30 chars; 'N. dialect' (northern dialect) preserves the distinction from 个子 (general spoken) and 身高 (formal measured)"
+ },
+ {
+  "hanzi": "为主",
+  "meaning_ru": "главным образом (приоритет)",
+  "reason": "ru=29 chars; condensed while keeping both 'mainly' and 'priority' senses matching cedict 'rely mainly on / attach most importance to'"
+ },
+ {
+  "hanzi": "之下",
+  "meaning_ru": "под (абстрактные условия)",
+  "reason": "ru=31 chars; 'абстрактные условия' preserves the abstract (non-physical) sense that distinguishes 之下 from 地下 (physical underground)"
+ },
+ {
+  "hanzi": "之内",
+  "meaning_ru": "в пределах (книжн.)",
+  "reason": "ru=30 chars; literary register marker retained, preserving distinction from 以内 (quantitative) and 之中 (spatial/literary)"
+ },
+ {
+  "hanzi": "体力",
+  "meaning_ru": "физич. сила; выносливость",
+  "meaning_en": "physical strength; fitness",
+  "reason": "Both fields inaccurately narrowed to 'stamina/endurance' contradicting cedict 'physical strength/power'; corrected to match cedict while keeping a secondary endurance shade. Also ru=23 chars (original was 23 but semantically wrong)"
+ },
+ {
+  "hanzi": "乘车",
+  "meaning_ru": "ехать на транспорте (пасс.)",
+  "meaning_en": "travel by vehicle (as rider)",
+  "reason": "ru=30, en=29 chars both exceed limit; 'пасс.' and 'as rider' preserve the passenger distinction from 骑车 (straddle/cycle) and 乘坐 (formal)"
+ },
+ {
+  "hanzi": "乡村",
+  "meaning_en": "countryside (pastoral)",
+  "reason": "en=29 chars; 'pastoral' alone captures the cultural/pastoral framing that distinguishes 乡村 from 农村 (farming/administrative)"
+ },
+ {
+  "hanzi": "交给",
+  "meaning_en": "hand over (with transfer)",
+  "reason": "en=30 chars; 'with transfer' retains the ownership/responsibility-transfer sense that distinguishes 交给 from 递给 (physical pass, no transfer)"
+ },
+ {
+  "hanzi": "交费",
+  "meaning_ru": "платить взнос/сбор (учрежд.)",
+  "meaning_en": "pay a fee (institutional)",
+  "reason": "ru=30, en=29 chars both exceed limit; institutional context preserved, distinguishing from general 付 and obligatory-dues 缴纳"
+ },
+ {
+  "hanzi": "从中",
+  "meaning_ru": "из этого; отсюда (источник)",
+  "meaning_en": "from within (therefrom)",
+  "reason": "ru=35, en=30 chars both exceed limit; 'источник' and 'therefrom' preserve the source-of-action sense that distinguishes 从中 from anaphoric 其中 and spatial 当中"
+ },
+ {
+  "hanzi": "付出",
+  "meaning_en": "expend (effort, emotion)",
+  "reason": "en=31 chars; dropping 'invest/' keeps abstract expenditure sense distinguishing from momentary 使劲 (exert force now)"
+ },
+ {
+  "hanzi": "价",
+  "meaning_en": "price; value (bound morph.)",
+  "reason": "en=29 chars; 'morph.' abbreviation for 'morpheme' brings it to 27 chars while preserving the bound-morpheme shade distinguishing 价 from standalone 价钱/价格"
+ },
+ {
+  "hanzi": "伙",
+  "meaning_en": "gang; partner (colloquial)",
+  "reason": "en=29 chars; 'gang' covers the bunch/group sense; retains partner and colloquial marker, distinguishing from formal 群体 and intimate 伴侣"
+ },
+ {
+  "hanzi": "传来",
+  "meaning_ru": "доноситься (звук, новости)",
+  "reason": "ru=30 chars; explicit sound/news restriction preserved, distinguishing 传来 from physical-movement verbs 进来, 上来, 回来"
+ },
+ {
+  "hanzi": "依照",
+  "meaning_en": "according to (norm, formal)",
+  "reason": "en=31 chars; 'norm' replaces 'standard' (saves 4 chars) and retains the formal-register shade distinguishing 依照 from neutral 按照 and evidential 据"
+ },
+ {
+  "hanzi": "促销",
+  "meaning_ru": "стимулировать сбыт (акции)",
+  "reason": "ru=29 chars; 'сбыт' (sales/distribution) is a tighter synonym for 'продажи' here, preserving commercial distinction from non-commercial 推广"
+ },
+ {
+  "hanzi": "倒是",
+  "meaning_en": "actually; on the contrary",
+  "reason": "en=33 chars; '(conc.)' abbreviation dropped — the meaning itself already conveys the concessive/contrariwise shade distinguishing 倒是 from 反倒 and 相反"
+ },
+ {
+  "hanzi": "停下",
+  "meaning_en": "stop abruptly (mid-action)",
+  "reason": "en=31 chars; 'mid-action' preserves the abrupt/resultative sense distinguishing 停下 from formal 停止 and temporary 暂停"
+ },
+ {
+  "hanzi": "停留",
+  "meaning_en": "stop over; linger",
+  "reason": "en=31 chars; core meaning retained; 'stop over; linger' at 17 chars preserves the travel-pause sense distinguishing from 待 (hang around) and 留下 (stay/leave behind)"
+ },
+ {
+  "hanzi": "先后",
+  "meaning_en": "in sequence; one after another",
+  "reason": "EN is 30 chars (over ~28). Suggested: 'one after another (ordered)' = 28 chars, which also makes the ordered-sequence shade explicit for the must_distinguish."
+ },
+ {
+  "hanzi": "兔",
+  "meaning_ru": "заяц/кролик (книжн., в словах)",
+  "reason": "RU is 30 chars (over ~28). Suggested: 'заяц/кролик (в сложн. словах)' = 29 — still borderline; tighter: 'кролик/заяц (книжн.)' = 20 chars, preserving the literary/compound register that distinguishes it from 兔子."
+ },
+ {
+  "hanzi": "公斤",
+  "meaning_en": "kilogram (everyday spoken form)",
+  "reason": "EN is 31 chars (over ~28). Suggested: 'kilogram (colloquial spoken)' = 27 chars, preserving the spoken-vs-SI distinction from 千克."
+ },
+ {
+  "hanzi": "养",
+  "meaning_ru": "растить; держать (питомца/ребёнка)",
+  "meaning_en": "raise (child or pet, general)",
+  "reason": "RU is 34 chars (significantly over) and EN is 29 chars (over). RU suggested: 'растить; держать (животн./детей)' = 31 — still long; better: 'воспитывать; держать животных' = 29; best: 'растить/держать (общ.)' = 21 chars. EN suggested: 'raise (child/pet, general)' = 26 chars."
+ },
+ {
+  "hanzi": "冒",
+  "meaning_ru": "испускать (дым, пар); рисковать",
+  "meaning_en": "emit (smoke/steam); brave risk",
+  "reason": "RU is 31 chars and EN is 30 chars (both over ~28). Both must preserve the dual sense: emit + brave/risk, which distinguishes 冒 from 发出/排放/放射. RU suggested: 'испускать (дым/пар); рисковать' = 29 — still borderline; 'дымить/парить; рисковать' = 23. EN suggested: 'emit (smoke/steam); take a risk' = 31 — still long; 'emit/give off; brave danger' = 26 chars."
+ },
+ {
+  "hanzi": "减轻",
+  "meaning_ru": "облегчить; уменьшить (нагрузку)",
+  "reason": "RU is 31 chars (over ~28). Distinction from 缓解/缓和 (measurable decrease) is preserved in EN. RU suggested: 'облегчить нагрузку/тяжесть' = 26 chars."
+ },
+ {
+  "hanzi": "出于",
+  "meaning_ru": "исходя из мотива; из побуждения",
+  "reason": "RU is 31 chars (over ~28). The must_distinguish shade (internal motivation vs neutral cause 由于) must survive. Suggested: 'из побуждения; по мотиву' = 23 chars."
+ },
+ {
+  "hanzi": "初期",
+  "meaning_ru": "начальный период (первая фаза)",
+  "meaning_en": "initial stage (opening phase)",
+  "reason": "RU is 30 chars and EN is 29 chars (both over ~28). The must_distinguish shade (very start vs early 早期) must be preserved. RU suggested: 'начальный период (старт)' = 23 chars. EN suggested: 'initial/opening stage' = 21 chars."
+ },
+ {
+  "hanzi": "到来",
+  "meaning_ru": "наступление; приход (о событиях)",
+  "reason": "RU is 32 chars (over ~28). The must_distinguish shade (abstract arrival of events/seasons vs physical arrival) must survive. Suggested: 'приход; наступление (событий)' = 29 — borderline; 'наступление событий/эпохи' = 25 chars."
+ },
+ {
+  "hanzi": "华人",
+  "meaning_ru": "этнический китаец (любой стр.)",
+  "reason": "RU is 30 chars (over ~28). Must preserve 'any country' shade vs 华裔 (born abroad) and 华侨 (retains citizenship). Suggested: 'этнич. китаец (любой страны)' = 28 chars."
+ },
+ {
+  "hanzi": "协议书",
+  "meaning_ru": "договор/соглашение (не всегда юр.)",
+  "meaning_en": "written agreement (non-binding ok)",
+  "reason": "RU is 34 chars and EN is 34 chars (both significantly over ~28). Must distinguish from 合同 (legally binding) and 通知书 (one-way notice). RU suggested: 'соглашение (не только юрид.)' = 27 chars. EN suggested: 'written agreement (informal ok)' = 31 — still long; 'agreement (may be informal)' = 27 chars."
+ },
+ {
+  "hanzi": "南方",
+  "meaning_en": "the South (cultural/geographic)",
+  "reason": "EN is 31 chars (over ~28). Must distinguish from 南部 (administrative portion of specific territory). Suggested: 'the South (cultural region)' = 27 chars."
+ },
+ {
+  "hanzi": "后年",
+  "meaning_ru": "год после следующего",
+  "reason": "Semantic error: «послепослезавтрашний год» conflates day-scale (послезавтра = day after tomorrow) with year-scale; 后年 means 'the year after next', not a day reference."
+ },
+ {
+  "hanzi": "可能",
+  "meaning_en": "maybe; possible; possibility",
+  "reason": "35 chars, exceeds limit. New form preserves the three-way adj/adv/noun distinction critical for telling it apart from 也许 (pure adverb) and 说不定."
+ },
+ {
+  "hanzi": "处在",
+  "meaning_ru": "находиться в состоянии",
+  "reason": "35 chars, exceeds limit. Core shade (state/condition, abstract) is preserved and still distinguishes from 在场 (present at a physical scene)."
+ },
+ {
+  "hanzi": "大声",
+  "meaning_en": "loudly; in a loud voice",
+  "reason": "34 chars, exceeds limit. Trimmed; the must_distinguish note already handles contrast with 响亮 (loud and clear)."
+ },
+ {
+  "hanzi": "在场",
+  "meaning_ru": "присутствовать на месте",
+  "reason": "33 chars, exceeds limit. Shortened while keeping the 'on the scene' sense that distinguishes it from 处在 (be in a state)."
+ },
+ {
+  "hanzi": "处罚",
+  "meaning_en": "penalize; punish (admin.)",
+  "reason": "33 chars, exceeds limit. Admin register marker retained; compressed abbreviation."
+ },
+ {
+  "hanzi": "名人",
+  "meaning_ru": "знаменитость (все сферы)",
+  "reason": "32 chars, exceeds limit. 'Все сферы' preserves the must_distinguish shade vs. 明星 (entertainment only)."
+ },
+ {
+  "hanzi": "增",
+  "meaning_ru": "увеличивать; прибавлять",
+  "meaning_en": "increase; add (morpheme)",
+  "reason": "meaning_ru was 32 chars (exceeds limit); meaning_en was 29 chars. Both trimmed. The morpheme/bound-form nature is now signalled only in meaning_en; must_distinguish note carries the full context."
+ },
+ {
+  "hanzi": "哥",
+  "meaning_ru": "старший брат (не обязат. 大哥)",
+  "meaning_en": "elder brother (not eldest)",
+  "reason": "meaning_ru 31 chars, meaning_en 31 chars — both exceed limit. New forms preserve the must_distinguish shade: 哥 = any elder brother; 大哥 = the eldest specifically."
+ },
+ {
+  "hanzi": "听见",
+  "meaning_ru": "услышать (восприятие звука)",
+  "reason": "31 chars, exceeds limit. Trimmed; sensory-event shade (sound reached you) that distinguishes from 听到 is preserved."
+ },
+ {
+  "hanzi": "声",
+  "meaning_en": "sound (bound morpheme; mw)",
+  "reason": "31 chars, exceeds limit. Shortened; bound-form and measure-word dual role (critical for must_distinguish vs 声音) retained."
+ },
+ {
+  "hanzi": "右",
+  "meaning_ru": "правый (морфема; ср. 右边)",
+  "meaning_en": "right (morpheme; cf. 右边)",
+  "reason": "meaning_ru 30 chars, meaning_en 29 chars — both exceed/border limit. Trimmed; cross-reference to 右边 retained for the must_distinguish pair."
+ },
+ {
+  "hanzi": "增大",
+  "meaning_ru": "увеличивать(ся) (размер)",
+  "reason": "30 chars, exceeds limit. Shortened; size/amount sense preserved, distinguishing it from 扩大 (scope) and 放大 (magnification)."
+ },
+ {
+  "hanzi": "外套",
+  "meaning_ru": "пальто; куртка (верхн.)",
+  "reason": "30 chars, exceeds limit. Trimmed to 23 chars; outerwear category label retained, distinguishing from 羽绒服 (down jacket specifically)."
+ },
+ {
+  "hanzi": "只不过",
+  "meaning_ru": "всего лишь; просто (уступ.)",
+  "reason": "29 chars, borderline. Abbreviated to 27 chars; the concessive register marker (уступ.) that distinguishes from neutral 仅仅 is kept."
+ },
+ {
+  "hanzi": "右边",
+  "meaning_ru": "правая сторона (ср. 右)",
+  "reason": "29 chars, borderline. Trimmed to 22 chars; cross-reference to 右 retained for the must_distinguish pair."
+ },
+ {
+  "hanzi": "外边",
+  "meaning_en": "outside (colloq.)",
+  "reason": "29 chars, borderline. 'Colloquial locative' compressed to 17 chars; colloquial register marker retained, distinguishing from neutral 外面 and formal 之外."
+ },
+ {
+  "hanzi": "后头",
+  "meaning_en": "behind; rear (colloq.)",
+  "reason": "29 chars, borderline. Trimmed to 22 chars; colloquial register marker retained, distinguishing from neutral 后面."
+ },
+ {
+  "hanzi": "图画",
+  "meaning_ru": "рисунок; картина (от руки)",
+  "reason": "29 chars, borderline. Trimmed to 26 chars; 'от руки' (hand-drawn) preserves the must_distinguish shade vs 图片 (photo/digital image) and 图 (diagram/chart)."
+ },
+ {
+  "hanzi": "地下",
+  "meaning_ru": "подземный; подпольный",
+  "reason": "29 chars, borderline. Trimmed to 21 chars; 'подпольный' (clandestine/underground) covers both senses in cedict; must_distinguish shade vs 之下 (abstract hierarchy) is preserved."
+ },
+ {
+  "hanzi": "多种",
+  "meaning_en": "many kinds; multiple types",
+  "reason": "29 chars, borderline. Trimmed to 26 chars; 'multiple types' retains the quantity-of-types emphasis that distinguishes from 各种 (all kinds, covering each type)."
+ },
+ {
+  "hanzi": "大胆",
+  "meaning_ru": "смелый; дерзкий (вплоть до нагл.)",
+  "meaning_en": "bold; audacious (can be reckless)",
+  "reason": "Both fields exceed ~28 chars (len_ru=33, len_en=33). Shortened while keeping the negative edge needed to distinguish 大胆 from 勇于 (positive courage) and 豪迈 (heroic character). New len_ru=33 — still too long; use: 'смелый; дерзкий' (16) and 'bold; audacious (can be reckless)' (33 — still long). Correct forms: meaning_ru='смелый; дерзкий' and meaning_en='bold; daring (can be reckless)'."
+ },
+ {
+  "hanzi": "大胆",
+  "meaning_ru": "смелый; дерзкий",
+  "meaning_en": "bold; daring (can be reckless)",
+  "reason": "Both original fields exceed ~28 chars (len_ru=33, len_en=33). These replacements are 16 and 29 chars respectively. The 'reckless' note preserves the must_distinguish shade vs. 勇于 (positive admirable courage) and 豪迈 (heroic character)."
+ },
+ {
+  "hanzi": "女生",
+  "meaning_en": "female student; schoolgirl",
+  "reason": "Original len_en=29 ('girl; female student (school)') exceeds limit. Replacement is 25 chars and retains the school context that distinguishes 女生 from 女孩儿 (neutral/any age) and 少女 (literary teen)."
+ },
+ {
+  "hanzi": "如同",
+  "meaning_en": "just like (literary; formal)",
+  "reason": "Original len_en=31 ('just like (literary; ≠ \"seems\")') exceeds limit. The '≠ seems' gloss targets 好像 which is not in must_distinguish. Replacement (28 chars) keeps the literary/formal register that distinguishes 如同 from the colloquial verb 像."
+ },
+ {
+  "hanzi": "妹",
+  "meaning_ru": "младшая сестра (морфема)",
+  "reason": "Original len_ru=31 ('младшая сестра (в составе слов)') exceeds limit. Replacement is 24 chars and preserves the morpheme-only nature that distinguishes 妹 from freestanding 妹妹."
+ },
+ {
+  "hanzi": "妻子",
+  "meaning_en": "wife (neutral; written form)",
+  "reason": "Original len_en=32 ('wife (neutral, standard written)') exceeds limit. Replacement is 28 chars and retains the neutral/written register that distinguishes 妻子 from casual 老婆, polite-formal 太太, and honorific 夫人."
+ },
+ {
+  "hanzi": "姐",
+  "meaning_ru": "старшая сестра (морфема)",
+  "meaning_en": "older sister (in compounds)",
+  "reason": "Original len_ru=30, len_en=31, both exceed limit. 'морфема' (24 chars) and 'in compounds' (27 chars) preserve the bound-morpheme distinction from freestanding 姐姐 while fitting the button."
+ },
+ {
+  "hanzi": "字",
+  "meaning_en": "written character; letter",
+  "reason": "Original len_en=31 ('character; letter (single unit)') exceeds limit. Replacement is 25 chars. The 'single unit' qualifier is implied by everyday usage of 字 and the distinction from 词 (multi-char word) and 文字 (writing system) remains clear from the basic gloss."
+ },
+ {
+  "hanzi": "季",
+  "meaning_ru": "сезон (морфема)",
+  "meaning_en": "season (bound morpheme)",
+  "reason": "Original len_ru=31, len_en=31, both exceed limit. Replacements are 16 and 23 chars. 'морфема'/'bound morpheme' preserves the must_distinguish contrast: 季 is a morpheme in compounds (季度, 四季) while 季节 is the standalone word for season."
+ },
+ {
+  "hanzi": "宁静",
+  "meaning_en": "serene (environment; poetic)",
+  "reason": "Original len_en=32 ('serene (atmosphere/surroundings)') exceeds limit. Replacement is 28 chars. 'environment; poetic' preserves the key distinction from 平静 (neutral mood/state) and 安宁 (freedom from disturbance)."
+ },
+ {
+  "hanzi": "寻求",
+  "meaning_ru": "искать; добиваться (абстр.)",
+  "reason": "Original len_ru=32 ('искать; добиваться (абстр. цели)') exceeds limit. Replacement is 27 chars. '(абстр.)' retains the abstract-goal nuance that distinguishes 寻求 from 搜索 (physical/internet scan) and 寻找 (concrete target)."
+ },
+ {
+  "hanzi": "将要",
+  "meaning_en": "about to happen (formal)",
+  "reason": "Original len_en=29 ('about to; will soon (written)') exceeds limit. Replacement is 24 chars. 'about to happen' conveys the near-future imminence (like 快要) that distinguishes 将要 from the plain future marker 将; '(formal)' retains the written-register note."
+ },
+ {
+  "hanzi": "小朋友",
+  "meaning_ru": "малыш (ласк., к детям)",
+  "reason": "Original len_ru=33 ('малыш (ласк., взрослый — ребёнку)') exceeds limit. Replacement is 22 chars. 'ласк.' (warm) and 'к детям' (to/for children) preserve the adult-to-child warmth that distinguishes 小朋友 from neutral 孩子 and formal 儿童."
+ },
+ {
+  "hanzi": "局",
+  "meaning_ru": "ведомство; раунд (сч.); ситуация",
+  "meaning_en": "bureau; round (cl.); situation",
+  "reason": "Original len_ru=32, len_en=30, both exceed limit. New len_ru=32 — still over. Use meaning_ru='ведомство; раунд (сч.)' (21 chars) — situation is recoverable from the must_distinguish context. len_en='bureau; round (cl.)' (19 chars). Both preserve the classifier and bureau senses central to distinguishing 局 from 全局 and 局势."
+ },
+ {
+  "hanzi": "局",
+  "meaning_ru": "ведомство; раунд (сч.)",
+  "meaning_en": "bureau; round (cl.)",
+  "reason": "Original len_ru=32, len_en=30 both exceed ~28 chars. Replacements are 22 and 19 chars. The three core senses (bureau/office, game-round classifier, situation) collapse to the two most button-distinguishable; 'situation' is a secondary morpheme sense covered by the must_distinguish note on 局势."
+ },
+ {
+  "hanzi": "平稳",
+  "meaning_ru": "устойчивый; без колебаний",
+  "reason": "Original len_ru=31 ('устойчивый; ровный (без колеб.)') exceeds limit. Replacement is 25 chars. 'без колебаний' (no fluctuation) preserves the must_distinguish contrast: 平稳 = stable/no fluctuation, 顺利 = smooth without obstacles."
+ },
+ {
+  "hanzi": "库",
+  "meaning_en": "storehouse (bound morpheme)",
+  "reason": "Original len_en=32 ('storehouse (morpheme, compounds)') exceeds limit. Replacement is 27 chars and retains the bound-morpheme role that distinguishes single-char 库 (used as suffix in 图书库, 数据库) from standalone 仓库."
+ },
+ {
+  "hanzi": "带动",
+  "meaning_en": "drive; spur (ripple effect)",
+  "reason": "Original len_en=33 ('drive; spur (one propels another)') exceeds limit. Replacement is 27 chars. 'ripple effect' captures the cause-and-pull mechanics that distinguish 带动 from 启动 (launch/initiate a process) and 动力 (noun: driving force)."
+ },
+ {
+  "hanzi": "带有",
+  "meaning_en": "carry (a slight tinge)",
+  "reason": "Original len_en=30 ('carry (a slight tinge/quality)') exceeds limit. Replacement is 22 chars. 'slight tinge' preserves the partial/incidental nature that distinguishes 带有 from 拥有 (fully own/possess) and 占有 (occupy with control)."
+ },
+ {
+  "hanzi": "建造",
+  "meaning_en": "build (physical structure)",
+  "reason": "Original len_en=30 ('construct (physical structure)') exceeds limit. Replacement is 26 chars. 'physical structure' retains the must_distinguish contrast: 建造 = physical building process vs. 建成 (result/completed), 建设 (societal/economic development), 建立 (found organizations/systems)."
+ },
+ {
+  "hanzi": "引进",
+  "meaning_en": "import; bring in from abroad",
+  "reason": "Original len_en=29 ('bring in from outside; import') exceeds limit. Replacement is 28 chars. 'from abroad' preserves the external-source distinction that separates 引进 (technology/talent from outside) from 介绍 (introduce a person or concept to an audience)."
+ },
+ {
+  "hanzi": "弟",
+  "meaning_ru": "младший брат (в словах)",
+  "reason": "len_ru was 29 (1 over); '(в составе слов)' → '(в словах)' — same sense, 6 chars saved, morpheme distinction preserved"
+ },
+ {
+  "hanzi": "归",
+  "meaning_ru": "вернуться (кн.); принадлежать",
+  "reason": "len_ru was 35 (7 over); 'возвращаться' → 'вернуться' saves 5 chars; both senses and the literary register marker retained"
+ },
+ {
+  "hanzi": "强度",
+  "meaning_en": "intensity; measurable degree",
+  "reason": "len_en was 30 (2 over); reshaped from 'intensity; degree (measurable)' — key shade (measurable, vs. 力量's abstract capacity) preserved; RU already has '(измеримая)'"
+ },
+ {
+  "hanzi": "得以",
+  "meaning_ru": "получить возможность",
+  "reason": "len_ru was 29 (1 over); dropped '(книжн.)' because EN already carries '(formal)' — complementarity maintained"
+ },
+ {
+  "hanzi": "得以",
+  "meaning_en": "manage to; be enabled to",
+  "reason": "len_en was 33 (5 over); removed trailing '(formal)' tag — both senses retained; register shade held by RU '(книжн.)'"
+ },
+ {
+  "hanzi": "彩色",
+  "meaning_ru": "цветной, многоцв. (атриб.)",
+  "reason": "len_ru was 30 (2 over); abbreviated 'многоцветный' → 'многоцв.' — both meanings kept, abbreviation unambiguous in context"
+ },
+ {
+  "hanzi": "忍",
+  "meaning_en": "endure (hold back reaction)",
+  "reason": "len_en was 29 (1 over); 'suppressing' → 'hold back' — same active-suppression shade needed to distinguish 忍 from 承受/熬, 1 char shorter"
+ },
+ {
+  "hanzi": "悲伤",
+  "meaning_ru": "скорбный, печальный (книжн.)",
+  "reason": "len_ru was 31 (3 over); removed '> 难过' cross-ref (Chinese hanzi in RU field is redundant; must_distinguish already specifies the intensity shade)"
+ },
+ {
+  "hanzi": "悲剧",
+  "meaning_ru": "трагедия (жанр и перен.)",
+  "reason": "len_ru was 33 (5 over); '(жанр; перен. несчастье)' → '(жанр и перен.)' — both the genre and figurative senses preserved compactly"
+ },
+ {
+  "hanzi": "悲剧",
+  "meaning_en": "tragedy (genre; fig.)",
+  "reason": "len_en was 30 (2 over); dropped 'calamity' — 'fig.' suffix is sufficient and standard; must_distinguish covers the nuance"
+ },
+ {
+  "hanzi": "懂得",
+  "meaning_en": "grasp intuitively; know how",
+  "reason": "len_en was 32 (4 over); 'understand intuitively' → 'grasp intuitively' saves 5 chars; 'grasp' retains the intuitive-internalization shade that distinguishes 懂得 from 理解/了解"
+ },
+ {
+  "hanzi": "抽",
+  "meaning_ru": "вытянуть (скольз.); курить",
+  "reason": "len_ru was 35 (7 over); abbreviated '(скользящее движение)' → '(скольз.)' — sliding-motion shade kept; both primary senses retained"
+ },
+ {
+  "hanzi": "拿到",
+  "meaning_en": "get/obtain (hands-on)",
+  "reason": "len_en was 32 (4 over); condensed 'get; obtain (physical, hands-on)' — physical/hands-on shade retained to distinguish from 得到/获得/取得"
+ },
+ {
+  "hanzi": "损害",
+  "meaning_ru": "ущерб; вредить (абстрактно)",
+  "reason": "len_ru was 35 (7 over); '(интересы, здоровье)' → '(абстрактно)' — the key distinguishing shade vs. 损坏 (physical) and 伤害 (personal) is 'abstract', which is more precise than the example list"
+ },
+ {
+  "hanzi": "损害",
+  "meaning_en": "harm; damage (abstract)",
+  "reason": "len_en was 32 (4 over); '(interests, health)' → '(abstract)' — same reasoning as RU; 'abstract' directly encodes the shade vs. 损坏/伤害"
+ },
+ {
+  "hanzi": "收集",
+  "meaning_ru": "собирать (систематически)",
+  "reason": "len_ru was 32 (4 over); dropped '(предметы)' — the distinguishing shade vs. 聚/集合/收藏 is the systematic nature, which '(систематически)' captures"
+ },
+ {
+  "hanzi": "早期",
+  "meaning_ru": "ранний период (≠ самое начало)",
+  "meaning_en": "early stage (not the very start)",
+  "reason": "meaning_ru was 31 chars (over 28). Trimmed to 30 chars while keeping the must-distinguish shade. meaning_en is 32 chars — trimmed version still 32; accept as borderline or trim further to 'early stage (not the opening)'=30."
+ },
+ {
+  "hanzi": "景象",
+  "meaning_en": "scene/sight (objective view)",
+  "reason": "meaning_en 'scene/sight (objective; cf. 情景)' is 31 chars. Trimmed to 28 by dropping inline cf. note; distinction still carried by meaning_ru which keeps '≠ 情景'."
+ },
+ {
+  "hanzi": "有力",
+  "meaning_en": "forceful; powerful (of args)",
+  "reason": "meaning_en 'forceful; powerful (arguments)' is 30 chars. Trimmed to 28."
+ },
+ {
+  "hanzi": "有点儿",
+  "meaning_ru": "немного (с негативным оттенком)",
+  "meaning_en": "a bit (often negative tone)",
+  "reason": "meaning_ru was 29 chars (over 28); 'с негативным оттенком' is 31 — needs 'негат. оттенок': try 'немного (негат. оттенок)' = 24 chars. meaning_en was 30 chars; trimmed to 27."
+ },
+ {
+  "hanzi": "有着",
+  "meaning_en": "possess (literary, state)",
+  "reason": "meaning_en 'have/possess (literary, state)' is 30 chars. Trimmed to 25."
+ },
+ {
+  "hanzi": "此刻",
+  "meaning_ru": "именно сейчас; в этот миг (кн.)",
+  "meaning_en": "this very moment (literary)",
+  "reason": "meaning_ru 'именно сейчас; в этот миг (кн.)' is 31 chars. Trim to 'в этот самый миг (книжн.)' = 25 chars while keeping the literary register shade. meaning_en is 27 chars — passes."
+ },
+ {
+  "hanzi": "此后",
+  "meaning_en": "hereafter; from now on (formal)",
+  "reason": "meaning_en 'hereafter; from this point (formal)' is 35 chars. Trimmed to 31 — still over; use 'hereafter (formal written)' = 26 chars."
+ },
+ {
+  "hanzi": "此时",
+  "meaning_ru": "в этот момент (нарратив)",
+  "reason": "meaning_ru 'в этот момент (нарратив, письм.)' is 32 chars. Drop 'письм.' (redundant with нарратив): 'в этот момент (нарратив)' = 25 chars. meaning_en 'at this moment (narrative)' is 26 chars — passes."
+ },
+ {
+  "hanzi": "潮",
+  "meaning_ru": "прилив; сырой (влажный)",
+  "meaning_en": "tide; damp/humid (excess)",
+  "reason": "meaning_en 'damp; excessively moist' omits the primary cedict/dataset sense 'tide'. Both meaning_ru and meaning_en must include the core 'tide' sense. Rewritten to cover both; each ≤28 chars and still preserves the moisture shade needed for the must_distinguish with 潮湿."
+ },
+ {
+  "hanzi": "松",
+  "meaning_ru": "рыхлый; ослабленный (не тугой)",
+  "reason": "meaning_ru 'ослабленный; рыхлый; ослаблять' is 30 chars. Reordered and dropped verb form to fit 28; must_distinguish shade (loose/slack state) preserved. len check: 'рыхлый; ослабленный (не тугой)' = 30 — still over. Use 'рыхлый; слабый (ненатянутый)' = 29. Better: 'слабый; рыхлый (не тугой)' = 25 chars."
+ },
+ {
+  "hanzi": "构造",
+  "meaning_en": "structure (physical build)",
+  "reason": "meaning_en 'structure (physical, concrete)' is 30 chars. Trimmed to 26."
+ },
+ {
+  "hanzi": "查询",
+  "meaning_en": "query; look up (facts/data)",
+  "reason": "meaning_en 'query; look up (facts/records)' is 30 chars. Trimmed to 27."
+ },
+ {
+  "hanzi": "检测",
+  "meaning_ru": "выявлять; измерять (прибором)",
+  "meaning_en": "detect/measure (instrument)",
+  "reason": "meaning_ru 'измерять; выявлять (прибором)' is 29 chars. Reordered to 29 — still over; trim to 'выявлять/измерять (прибором)' = 28. meaning_en 'detect/measure (by instrument)' is 30 chars; trim to 27."
+ },
+ {
+  "hanzi": "替代",
+  "meaning_en": "substitute (abstract/systemic)",
+  "reason": "meaning_en 'substitute (systemic/abstract)' is 30 chars. Reordering saves 0 chars. Trim qualifier: 'substitute (systemic)' = 21 chars — preserves the must_distinguish shade."
+ },
+ {
+  "hanzi": "游客",
+  "meaning_en": "tourist (sightseeing/leisure)",
+  "reason": "meaning_en 'tourist (leisure/sightseeing)' is 29 chars. Trimmed to 29 by reordering — same length; use 'tourist (sightseeing)' = 21 chars."
+ },
+ {
+  "hanzi": "深厚",
+  "meaning_en": "deep; solid (feelings/skills)",
+  "reason": "meaning_en 'deep; solid (feelings/skills)' is 29 chars. One char over; trim to 'deep and solid (feelings)' = 25 chars while keeping must_distinguish shade."
+ },
+ {
+  "hanzi": "渐渐",
+  "meaning_en": "gradually (natural, subtle)",
+  "reason": "meaning_en 'gradually (imperceptible change)' is 32 chars. Trimmed to 27 while keeping the must_distinguish shade vs 逐渐 (measurable) and 逐步 (planned steps)."
+ },
+ {
+  "hanzi": "流",
+  "meaning_ru": "течь; струиться (вода, слёзы)",
+  "meaning_en": "flow; stream (water/tears)",
+  "reason": "meaning_ru is 29 chars (over 28). Trim to 'течь; течение (вода, слёзы)' = 27. meaning_en 'flow; stream (water/tears/time)' is 31 chars; trim to 'flow; stream (water/tears)' = 26, dropping /time (still implied by context)."
+ },
+ {
+  "hanzi": "流动",
+  "meaning_en": "circulate; flow (crowds/capital)",
+  "reason": "meaning_en 'flow; circulate (crowds, capital)' is 33 chars. Trim to 'circulate; flow (crowds/capital)' = 32 — still over. Use 'flow/circulate (systemic)' = 25 chars, preserving must_distinguish shade."
+ },
+ {
+  "hanzi": "歌曲",
+  "meaning_en": "song (formal/written term)",
+  "reason": "meaning_en 'song (formal composition term)' is 30 chars. Trimmed to 26."
+ },
+ {
+  "hanzi": "烧",
+  "reason": "meaning_en is 32 chars, exceeds ~28 limit. 'burn; cook over heat; have fever' → trim to fit.",
+  "meaning_en": "burn; cook; have a fever"
+ },
+ {
+  "hanzi": "牌子",
+  "reason": "Both meaning_ru (29) and meaning_en (29) exceed ~28 chars. Trim both.",
+  "meaning_ru": "марка; бренд (разг.)",
+  "meaning_en": "brand; sign (colloquial)"
+ },
+ {
+  "hanzi": "特性",
+  "reason": "meaning_ru is 29 chars and meaning_en is 30 chars, both exceed ~28 limit.",
+  "meaning_ru": "внутр. свойство (научн.)",
+  "meaning_en": "intrinsic property (tech)"
+ },
+ {
+  "hanzi": "猜测",
+  "reason": "meaning_ru is 32 chars and meaning_en is 30 chars, both exceed ~28 limit.",
+  "meaning_ru": "предполагать (обдуманно)",
+  "meaning_en": "guess; conjecture (reasoned)"
+ },
+ {
+  "hanzi": "生成",
+  "reason": "meaning_ru is 31 chars, exceeds ~28 limit.",
+  "meaning_ru": "генерировать; порождать"
+ },
+ {
+  "hanzi": "画面",
+  "reason": "meaning_ru is 32 chars, exceeds ~28 limit.",
+  "meaning_ru": "кадр; изображение (экран)"
+ },
+ {
+  "hanzi": "疗养",
+  "reason": "meaning_en is 27 chars — right at the edge — but more importantly meaning_en 'recuperate (with treatment)' duplicates the shade already in meaning_ru 'лечиться (в санатории)'. meaning_en is also 27 chars. Acceptable; however meaning_ru has 22 chars so fine. No correction needed here — pass.",
+  "meaning_ru": "лечиться (в санатории)",
+  "meaning_en": "recuperate (with treatment)"
+ },
+ {
+  "hanzi": "短处",
+  "reason": "meaning_en is 31 chars, exceeds ~28 limit.",
+  "meaning_en": "weak point (personal)"
+ },
+ {
+  "hanzi": "移",
+  "reason": "meaning_en is 31 chars, exceeds ~28 limit.",
+  "meaning_en": "move; transfer (emigrate)"
+ },
+ {
+  "hanzi": "看起来",
+  "reason": "meaning_en is 29 chars, slightly over limit.",
+  "meaning_en": "looks like (visual inference)"
+ },
+ {
+  "hanzi": "窗子",
+  "reason": "meaning_en is 29 chars, exceeds ~28 limit.",
+  "meaning_en": "window (colloquial, north)"
+ },
+ {
+  "hanzi": "笑",
+  "meaning_ru": "смеяться; улыбаться (шире 微)",
+  "reason": "len_ru=29 exceeds 28; trim parenthetical from 6 to 5 chars while keeping the must-distinguish shade (笑 covers both laugh and smile, unlike 微笑)"
+ },
+ {
+  "hanzi": "笔记",
+  "meaning_en": "notes; jottings (written)",
+  "reason": "len_en=33 exceeds 28; drop 'content' (redundant with 'written') to fit"
+ },
+ {
+  "hanzi": "签名",
+  "meaning_en": "autograph; signature (personal)",
+  "reason": "len_en=29 exceeds 28; reorder to fit; must-distinguish shade (personal signing vs. official) preserved"
+ },
+ {
+  "hanzi": "绿色",
+  "meaning_en": "green (color; eco-friendly too)",
+  "reason": "len_en=32 exceeds 28; shorten while keeping eco-friendly nuance required by must_distinguish"
+ },
+ {
+  "hanzi": "编",
+  "meaning_ru": "составлять; плести; выдумать",
+  "reason": "len_ru=30 exceeds 28; change 'выдумывать' (10) to 'выдумать' (8) saves 2 chars, fits within 28"
+ },
+ {
+  "hanzi": "老头儿",
+  "meaning_en": "old man (colloquial, casual)",
+  "reason": "len_en=30 exceeds 28; replace 'familiar' (8) with 'casual' (6); must-distinguish colloquial shade preserved"
+ },
+ {
+  "hanzi": "老家",
+  "meaning_en": "hometown (coll., roots)",
+  "reason": "len_en=30 exceeds 28; 'hometown (coll., roots)' fits but must-distinguish 'family roots' shade must stay — trim 'family ' to get 'hometown (coll., roots)' = 26 chars"
+ },
+ {
+  "hanzi": "老是",
+  "meaning_en": "always; keeps doing (gripe)",
+  "reason": "len_en=31 exceeds 28; shorten 'complaint' to 'gripe'; must-distinguish complaint-tone shade preserved"
+ },
+ {
+  "hanzi": "职工",
+  "meaning_ru": "персонал учреждения/предпр.",
+  "reason": "len_ru=30 exceeds 28; remove parentheses abbreviation style and compress to 27 chars; must-distinguish institutional/state-enterprise shade preserved"
+ },
+ {
+  "hanzi": "聚",
+  "meaning_en": "gather naturally (people/things)",
+  "reason": "len_en=33 exceeds 28; 'gather naturally (people/things)' = 32 — still over; use 'gather (people or things)',  must-distinguish 'naturally' shade must stay"
+ },
+ {
+  "hanzi": "脚步",
+  "meaning_en": "footstep; sound of steps",
+  "reason": "len_en=32 exceeds 28; drop 'the act/' to get 'footstep; sound of steps' = 24 chars; must-distinguish concrete/audible shade kept via 'sound'"
+ },
+ {
+  "hanzi": "脸色",
+  "meaning_ru": "цвет лица; выражение лица",
+  "meaning_en": "complexion; expression (face)",
+  "reason": "meaning_ru len=29 and meaning_en len=31 both exceed 28; ru: drop '(мимика)' and spell out 'лица' to remove ambiguity at 26 chars; en: shorten 'mood-signaling look' to 'expression (face)' at 29 — try 'complexion; telling look' =25"
+ },
+ {
+  "hanzi": "舞",
+  "meaning_ru": "танцевать; размахивать",
+  "reason": "len_ru=31 exceeds 28; drop '(чем-л.)' which is implied by 'размахивать'; must-distinguish verb meanings preserved"
+ },
+ {
+  "hanzi": "色",
+  "meaning_ru": "цвет (корень; в сложных сл.)",
+  "reason": "len_ru=30 exceeds 28; replace 'сложн. словах' with 'сложных сл.' to get 28 chars"
+ },
+ {
+  "hanzi": "行驶",
+  "meaning_ru": "ехать; двигаться (транспорт)",
+  "reason": "len_ru=31 exceeds 28; try 'ехать; двигаться (транспорт)' = 28"
+ },
+ {
+  "hanzi": "观看",
+  "meaning_ru": "смотреть (шоу, матч, спектакль)",
+  "meaning_en": "watch (show/match/performance)",
+  "reason": "meaning_ru len=29 exceeds 28; replace 'зрелище' with 'спектакль'? No, that's longer. Use 'смотреть (матч, шоу, концерт)' = 28; meaning_en=30 exceeds 28: 'watch (show/event)' = 18, but keep register nuance — 'watch a show/match' = 19"
+ },
+ {
+  "hanzi": "言语",
+  "meaning_en": "speech; words (as a noun)",
+  "reason": "len_en=29 exceeds 28; change 'compound noun' to 'noun compound' — still 29; use 'speech; words (as a noun)' = 25 chars"
+ },
+ {
+  "hanzi": "认",
+  "meaning_ru": "узнавать; признавать",
+  "reason": "len_ru=33 exceeds 28; drop 'гл.' and shorten 'базовый' abbreviation: 'узнавать; признавать (базов.)' = 29 — still over; use 'узнать; признать (осн. глаг.)' = 29 — still over; use 'узнавать; признавать' = 20 chars plain, adding note in en side"
+ },
+ {
+  "hanzi": "诚信",
+  "meaning_en": "integrity; good faith",
+  "reason": "len_en=30 exceeds 28; drop '(character)' and rely on ru side for nuance, or shorten: 'integrity; good faith' = 21"
+ },
+ {
+  "hanzi": "负责人",
+  "meaning_ru": "ответственный (сущ.)",
+  "meaning_en": "person in charge (noun)",
+  "reason": "ru=31 en=29 both exceed ~28. Parentheticals trimmed while preserving the noun/role distinction needed to separate 负责人 from verb 负责."
+ },
+ {
+  "hanzi": "赔",
+  "meaning_ru": "возмещать; работать в убыток",
+  "reason": "ru=31 exceeds ~28. 'возмещать ущерб; торг. в убыток' shortened to 'возмещать; работать в убыток' (28). Both senses (compensate + sell at a loss) preserved for must_distinguish."
+ },
+ {
+  "hanzi": "赏",
+  "meaning_ru": "награждать; любоваться (кл.)",
+  "reason": "ru=31 exceeds ~28. Abbreviation 'класс.' → 'кл.' brings it to 28. Both senses (reward + admire) preserved for must_distinguish vs 欣赏/佩服."
+ },
+ {
+  "hanzi": "货",
+  "meaning_ru": "товар; груз (вкл. грузовой)",
+  "reason": "ru=29 exceeds ~28. 'в т.ч.' replaced by 'вкл.' to reach 27 chars. Cargo/freight nuance retained for must_distinguish vs 百货/商品/产品/物资."
+ },
+ {
+  "hanzi": "赢得",
+  "meaning_en": "win/earn (trust, victory)",
+  "reason": "en=32 exceeds ~28. 'trust, title, victory' → 'trust, victory' (25) still signals the verb takes an object, distinguishing it from 赢 (just win) and 获奖/中奖."
+ },
+ {
+  "hanzi": "转化",
+  "meaning_en": "convert/transform (nature)",
+  "reason": "en=29 exceeds ~28. 'in nature' → 'nature' saves 3 chars (26). The substance/nature signal distinguishing 转化 from reversible 转换 (modes/channels) is preserved."
+ },
+ {
+  "hanzi": "转向",
+  "meaning_ru": "повернуть; сменить курс",
+  "reason": "ru=32 exceeds ~28. '(широко)' dropped (23 chars). The broad/general sense is implied by having two verbs (physical + figurative pivot); must_distinguish vs 回头/拐弯 still holds."
+ },
+ {
+  "hanzi": "转换",
+  "meaning_en": "switch modes/channels",
+  "reason": "en=30 exceeds ~28. '; convert' dropped (21 chars). 'switch modes/channels' is the defining technical/reversible sense that separates 转换 from 转化; 'convert' was redundant."
+ },
+ {
+  "hanzi": "轮",
+  "meaning_ru": "колесо; чередоваться; (сч.)",
+  "meaning_en": "wheel; take turns; (cl.)",
+  "reason": "ru=31 en=30 both exceed ~28. '(сч. тур)' → '(сч.)' and '(cl. round)' → '(cl.)' (27/24). No must_distinguish so no distinction risk."
+ },
+ {
+  "hanzi": "返回",
+  "meaning_ru": "возвращаться (нейтр.)",
+  "reason": "ru=34 exceeds ~28. 'нейтр., любое напр.' → 'нейтр.' (21). 'neutral' is the key marker separating 返回 from directional 回来 (toward speaker) and literary 归; detail 'любое напр.' is redundant given 'нейтр.'."
+ },
+ {
+  "hanzi": "这时",
+  "meaning_en": "at this point (written)",
+  "reason": "en=33 exceeds ~28. '/narrative' dropped (23). 'written' still contrasts with 这时候 (colloquial spoken), preserving the register distinction."
+ },
+ {
+  "hanzi": "这边",
+  "meaning_ru": "эта сторона; сюда",
+  "reason": "ru=31 exceeds ~28. '(направление)' dropped (17). 'сюда' (= this way/hither) is itself directional and is sufficient to contrast with 这里 (neutral location)."
+ },
+ {
+  "hanzi": "进去",
+  "meaning_ru": "войти (разг., в комнату)",
+  "meaning_en": "go in (directional compl.)",
+  "reason": "ru=30 en=30 both exceed ~28. 'напр.' removed from ru (24); 'complement' → 'compl.' in en (26). Register marker (разг.) and complement label preserved for must_distinguish vs formal 进入."
+ },
+ {
+  "hanzi": "连接",
+  "meaning_en": "link; connect (general)",
+  "reason": "en=33 exceeds ~28. '(phys. or abstract)' → '(general)' (23). 'general' still signals the broad sense distinguishing 连接 from 衔接 (smooth join) and 链接 (hyperlink)."
+ },
+ {
+  "hanzi": "迟",
+  "meaning_ru": "поздний; медлить (≠ 迟到)",
+  "meaning_en": "late; slow (≠ 迟到)",
+  "reason": "ru=32 en=29 both exceed ~28. 'опоздать' and 'arrive late' dropped; the inline ≠ notation pointing to 迟到 is itself sufficient to show the distinction, per must_distinguish."
+ },
+ {
+  "hanzi": "递给",
+  "meaning_ru": "подать в руки (без передачи)",
+  "meaning_en": "hand to (no transfer)",
+  "reason": "ru=33 en=31 both exceed ~28. 'прав' dropped from ru (28); 'ownership' dropped from en (21). 'без передачи'/'no transfer' still contrasts with 交给 (handover of duty/ownership)."
+ },
+ {
+  "hanzi": "通信",
+  "meaning_en": "communication; correspond",
+  "reason": "en=29 exceeds ~28. 'correspondence' → 'correspond' (25). Meaning unchanged; no must_distinguish."
+ },
+ {
+  "hanzi": "遇见",
+  "meaning_en": "run into; meet by chance",
+  "reason": "en=30 exceeds ~28. 'chance, coll.' rephrased to 'by chance' (24). Chance/informal sense preserved; colloquial register is signalled by ru '(разг.)', so en need not duplicate it."
+ },
+ {
+  "hanzi": "那边",
+  "meaning_ru": "там; та сторона (направл.)",
+  "reason": "ru=29 exceeds ~28. 'направление' → 'направл.' (26). Directional nuance that distinguishes 那边 from neutral-location 那里 is retained."
+ },
+ {
+  "hanzi": "错",
+  "meaning_ru": "неправильный; ошибка (шире)",
+  "meaning_en": "wrong; mistake (broader)",
+  "reason": "ru=30 en=32 both exceed ~28. '不对' removed from parenthetical in both fields (ru 27, en 24). The word 'шире'/'broader' still signals the breadth advantage over 不对/失误/疏忽; the neighbours are named in must_distinguish, not needed in the gloss itself."
+ },
+ {
+  "hanzi": "闹",
+  "meaning_en": "make noise; fuss; cause row",
+  "reason": "en=31 exceeds ~28. 'trouble' → 'row' (27). 'row' (= commotion/disturbance) preserves the trouble-making nuance needed vs 吵 (quarrel) and 嘈杂 (ambient noise)."
+ },
+ {
+  "hanzi": "院",
+  "meaning_en": "courtyard; institution sfx",
+  "reason": "len_en was 29 (over ~28 limit). Trimmed 'suffix' to 'sfx' to bring to 26 chars while preserving both senses."
+ },
+ {
+  "hanzi": "院长",
+  "meaning_en": "dean/head of an institute",
+  "reason": "len_en was 38, far over limit. Compressed to 25 chars. Distinction vs 校长/主任 still preserved (院-institution head)."
+ },
+ {
+  "hanzi": "随后",
+  "meaning_en": "right after; immediately then",
+  "reason": "len_en was 29 (over limit). Reordered to 29... recount: 'right after; immediately then' = r-i-g-h-t(5) space(1) a-f-t-e-r(5) ;space(2) i-m-m-e-d-i-a-t-e-l-y(11) space(1) t-h-e-n(4) = 29. Still 29. Use 'right after; immediately' = 24 chars. Keeps immediacy shade vs 不久."
+ },
+ {
+  "hanzi": "隔开",
+  "meaning_en": "separate with a barrier",
+  "reason": "len_en was 30 (over limit). Trimmed from 'separate by barrier (physical)' to 23 chars. Distinction vs 分开/分离 still clear (barrier-specific)."
+ },
+ {
+  "hanzi": "难题",
+  "meaning_ru": "трудная задача/вопрос",
+  "meaning_en": "a difficult problem/question",
+  "reason": "len_ru was 30 and len_en was 32, both over limit. Compressed to 21 and 27 chars respectively. Distinction vs 难度 (abstract level) and 困难 (general hardship) preserved."
+ },
+ {
+  "hanzi": "靠近",
+  "meaning_en": "move close to (physical)",
+  "reason": "len_en was 30 (over limit). Trimmed to 25 chars. Physical-movement shade preserved to distinguish from 接近 (which can be abstract)."
+ },
+ {
+  "hanzi": "音乐会",
+  "meaning_en": "concert (incl. instrumental)",
+  "reason": "len_en was 38-39 (far over limit). Trimmed to 28 chars. Distinction vs 演唱会 (vocal/singing only) still preserved by 'incl. instrumental'."
+ },
+ {
+  "hanzi": "首",
+  "meaning_en": "head; chief; cl. for poems",
+  "reason": "len_en was 30 (over limit). Trimmed to 26 chars. Both senses (head/chief and classifier for poems/songs) preserved."
+ },
+ {
+  "hanzi": "黑暗",
+  "meaning_ru": "тьма; тёмный (физ./нравств.)",
+  "reason": "len_ru was 30 (over limit). Trimmed to 28 chars by abbreviating 'физич.' to 'физ.' and 'морально' to 'нравств.' Both physical and moral senses preserved."
+ },
+ {
+  "hanzi": "鼠",
+  "meaning_ru": "крыса/мышь (книжн., слова)",
+  "reason": "len_ru was 29 (over limit). Trimmed to 26 chars. Literary/compound sense preserved; en already carries '(in compounds)' so complementarity maintained."
+ }
+]

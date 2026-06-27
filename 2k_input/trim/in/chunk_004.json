@@ -1,0 +1,482 @@
+[
+ {
+  "hanzi": "列",
+  "pinyin": "liè",
+  "meaning_ru": "ряд-колонка; перечислять (письм.)",
+  "meaning_en": "column/series; enumerate (written)",
+  "len_ru": 33,
+  "len_en": 34
+ },
+ {
+  "hanzi": "归",
+  "pinyin": "guī",
+  "meaning_ru": "возвращаться (книжн.); принадлежать",
+  "meaning_en": "return (literary); belong to",
+  "len_ru": 35,
+  "len_en": 28
+ },
+ {
+  "hanzi": "挑",
+  "pinyin": "tiǎo",
+  "meaning_ru": "выбирать придирчиво; отбирать",
+  "meaning_en": "pick choosily; select (implies fussiness)",
+  "len_ru": 29,
+  "len_en": 41
+ },
+ {
+  "hanzi": "吸",
+  "pinyin": "xī",
+  "meaning_ru": "вдыхать; всасывать (физич. действие)",
+  "meaning_en": "to inhale; suck in (physical action)",
+  "len_ru": 36,
+  "len_en": 36
+ },
+ {
+  "hanzi": "下降",
+  "pinyin": "xiàjiàng",
+  "meaning_ru": "снижаться (количественно)",
+  "meaning_en": "drop; decline (in level/quantity)",
+  "len_ru": 25,
+  "len_en": 33
+ },
+ {
+  "hanzi": "肥",
+  "pinyin": "féi",
+  "meaning_ru": "жирный (о животных, одежде)",
+  "meaning_en": "fat (animals or baggy clothes, not people)",
+  "len_ru": 27,
+  "len_en": 42
+ },
+ {
+  "hanzi": "松",
+  "pinyin": "sōng",
+  "meaning_ru": "ослабленный; рыхлый; ослаблять (сост.)",
+  "meaning_en": "loose; slack; to loosen (state/adj)",
+  "len_ru": 38,
+  "len_en": 35
+ },
+ {
+  "hanzi": "登",
+  "pinyin": "dēng",
+  "meaning_ru": "подниматься (лестница, сцена и т.п.)",
+  "meaning_en": "to climb; ascend (stairs, stage etc.)",
+  "len_ru": 36,
+  "len_en": 37
+ },
+ {
+  "hanzi": "遇",
+  "pinyin": "yù",
+  "meaning_ru": "встретить; столкнуться (корень)",
+  "meaning_en": "to encounter (root; often unplanned)",
+  "len_ru": 31,
+  "len_en": 36
+ },
+ {
+  "hanzi": "引",
+  "pinyin": "yǐn",
+  "meaning_ru": "тянуть; привлекать",
+  "meaning_en": "to pull; to attract; to lead",
+  "len_ru": 18,
+  "len_en": 28
+ },
+ {
+  "hanzi": "降",
+  "pinyin": "jiàng",
+  "meaning_ru": "понижаться; опускаться (корень)",
+  "meaning_en": "to descend; lower (root morpheme)",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "地下",
+  "pinyin": "dìxià",
+  "meaning_ru": "подземный; (перен.) тайный, подпольный",
+  "meaning_en": "underground; clandestine (fig.)",
+  "len_ru": 38,
+  "len_en": 31
+ },
+ {
+  "hanzi": "移",
+  "pinyin": "yí",
+  "meaning_ru": "перемещать; переносить (в т.ч. перен.)",
+  "meaning_en": "move; transfer (incl. fig.: emigrate)",
+  "len_ru": 38,
+  "len_en": 37
+ },
+ {
+  "hanzi": "测",
+  "pinyin": "cè",
+  "meaning_ru": "измерять; тестировать (корень)",
+  "meaning_en": "to measure; test (root morpheme)",
+  "len_ru": 30,
+  "len_en": 32
+ },
+ {
+  "hanzi": "医学",
+  "pinyin": "yīxué",
+  "meaning_ru": "медицина (наука, отрасль)",
+  "meaning_en": "medicine (the science/field)",
+  "len_ru": 25,
+  "len_en": 28
+ },
+ {
+  "hanzi": "外套",
+  "pinyin": "wàitào",
+  "meaning_ru": "пальто; куртка (верхн. одежда общ.)",
+  "meaning_en": "coat; jacket (general outerwear)",
+  "len_ru": 35,
+  "len_en": 32
+ },
+ {
+  "hanzi": "聚",
+  "pinyin": "jù",
+  "meaning_ru": "собираться (стихийно — люди или вещи)",
+  "meaning_en": "gather; assemble (naturally, people or things)",
+  "len_ru": 37,
+  "len_en": 46
+ },
+ {
+  "hanzi": "黑暗",
+  "pinyin": "hēiʼàn",
+  "meaning_ru": "тьма; тёмный (физич. или морально)",
+  "meaning_en": "darkness; dark (physical or moral)",
+  "len_ru": 34,
+  "len_en": 34
+ },
+ {
+  "hanzi": "地面",
+  "pinyin": "dìmiàn",
+  "meaning_ru": "земля; поверхность",
+  "meaning_en": "ground; floor (physical underfoot)",
+  "len_ru": 18,
+  "len_en": 34
+ },
+ {
+  "hanzi": "遇见",
+  "pinyin": "yùjiàn",
+  "meaning_ru": "встретить (разг.; случайно)",
+  "meaning_en": "to run into; meet (colloquial, chance)",
+  "len_ru": 27,
+  "len_en": 38
+ },
+ {
+  "hanzi": "隔",
+  "pinyin": "gé",
+  "meaning_ru": "отделять; через (интервал/преграду)",
+  "meaning_en": "separate; at an interval (barrier/gap)",
+  "len_ru": 35,
+  "len_en": 38
+ },
+ {
+  "hanzi": "战胜",
+  "pinyin": "zhànshèng",
+  "meaning_ru": "победить, одолеть (торж./перен.)",
+  "meaning_en": "overcome (battle/hardship, formal)",
+  "len_ru": 32,
+  "len_en": 34
+ },
+ {
+  "hanzi": "密",
+  "pinyin": "mì",
+  "meaning_ru": "густой (плотный); тайный, секретный",
+  "meaning_en": "dense (close-packed); covert, secret",
+  "len_ru": 35,
+  "len_en": 36
+ },
+ {
+  "hanzi": "大众",
+  "pinyin": "dàzhòng",
+  "meaning_ru": "массы; публика (нейтр./офиц.)",
+  "meaning_en": "the masses; public (neutral/formal)",
+  "len_ru": 29,
+  "len_en": 35
+ },
+ {
+  "hanzi": "减",
+  "pinyin": "jiǎn",
+  "meaning_ru": "уменьшать; вычитать (матем.)",
+  "meaning_en": "reduce; subtract (math/base)",
+  "len_ru": 28,
+  "len_en": 28
+ },
+ {
+  "hanzi": "出售",
+  "pinyin": "chūshòu",
+  "meaning_ru": "продавать (офиц./вывески)",
+  "meaning_en": "offer for sale (formal/written)",
+  "len_ru": 25,
+  "len_en": 31
+ },
+ {
+  "hanzi": "名人",
+  "pinyin": "míngrén",
+  "meaning_ru": "известная личность (любая сфера)",
+  "meaning_en": "notable person (any field)",
+  "len_ru": 32,
+  "len_en": 26
+ },
+ {
+  "hanzi": "无所谓",
+  "pinyin": "wúsuǒwèi",
+  "meaning_ru": "всё равно; без разницы",
+  "meaning_en": "doesn't matter; indifferent",
+  "len_ru": 22,
+  "len_en": 27
+ },
+ {
+  "hanzi": "伙",
+  "pinyin": "huǒ",
+  "meaning_ru": "компания; банда (разг.); партнёр",
+  "meaning_en": "bunch; group (coll.); partner",
+  "len_ru": 32,
+  "len_en": 29
+ },
+ {
+  "hanzi": "装修",
+  "pinyin": "zhuāngxiū",
+  "meaning_ru": "ремонт и отделка (строит. работы)",
+  "meaning_en": "renovate (construction work)",
+  "len_ru": 33,
+  "len_en": 28
+ },
+ {
+  "hanzi": "列车",
+  "pinyin": "lièchē",
+  "meaning_ru": "поезд (офиц.; о рейсах и составах)",
+  "meaning_en": "train (formal; scheduled service)",
+  "len_ru": 34,
+  "len_en": 33
+ },
+ {
+  "hanzi": "喜爱",
+  "pinyin": "xǐʼài",
+  "meaning_ru": "любить; нравиться (предпочтение, мягче)",
+  "meaning_en": "to like; be fond of (preference, lighter)",
+  "len_ru": 39,
+  "len_en": 41
+ },
+ {
+  "hanzi": "败",
+  "pinyin": "bài",
+  "meaning_ru": "потерпеть поражение (книжн., война)",
+  "meaning_en": "to be defeated (literary, war/contest)",
+  "len_ru": 35,
+  "len_en": 38
+ },
+ {
+  "hanzi": "好友",
+  "pinyin": "hǎoyǒu",
+  "meaning_ru": "близкий друг (личн., не родств.)",
+  "meaning_en": "close friend (personal, non-family)",
+  "len_ru": 32,
+  "len_en": 35
+ },
+ {
+  "hanzi": "渐渐",
+  "pinyin": "jiànjiàn",
+  "meaning_ru": "постепенно (незаметно, естеств.)",
+  "meaning_en": "gradually (natural, imperceptible change)",
+  "len_ru": 32,
+  "len_en": 41
+ },
+ {
+  "hanzi": "亲密",
+  "pinyin": "qīnmì",
+  "meaning_ru": "близкий; интимный (об эмоц. связи)",
+  "meaning_en": "intimate; emotionally close (personal)",
+  "len_ru": 34,
+  "len_en": 38
+ },
+ {
+  "hanzi": "含量",
+  "pinyin": "hánliàng",
+  "meaning_ru": "содержание (измеримая доля компонента)",
+  "meaning_en": "measurable content (e.g. sugar %)",
+  "len_ru": 38,
+  "len_en": 33
+ },
+ {
+  "hanzi": "挑选",
+  "pinyin": "tiāoxuǎn",
+  "meaning_ru": "выбирать (по личным предпочтениям)",
+  "meaning_en": "to pick (by personal preference)",
+  "len_ru": 34,
+  "len_en": 32
+ },
+ {
+  "hanzi": "灯光",
+  "pinyin": "dēngguāng",
+  "meaning_ru": "искусственное освещение (≠ 光线 «луч света»)",
+  "meaning_en": "lamplight; artificial lighting (not natural 光线)",
+  "len_ru": 42,
+  "len_en": 47
+ },
+ {
+  "hanzi": "做梦",
+  "pinyin": "zuòmèng",
+  "meaning_ru": "видеть сон; мечтать (вообще)",
+  "meaning_en": "dream (sleep); daydream (general)",
+  "len_ru": 28,
+  "len_en": 33
+ },
+ {
+  "hanzi": "获取",
+  "pinyin": "huòqǔ",
+  "meaning_ru": "добывать, извлекать (активно)",
+  "meaning_en": "acquire (actively fetch: data, info)",
+  "len_ru": 29,
+  "len_en": 36
+ },
+ {
+  "hanzi": "打败",
+  "pinyin": "dǎbài",
+  "meaning_ru": "разбить, победить (соперника)",
+  "meaning_en": "defeat (an opponent, direct)",
+  "len_ru": 29,
+  "len_en": 28
+ },
+ {
+  "hanzi": "含有",
+  "pinyin": "hányǒu",
+  "meaning_ru": "содержать (вещество, компонент)",
+  "meaning_en": "contain (specific substance/element)",
+  "len_ru": 31,
+  "len_en": 36
+ },
+ {
+  "hanzi": "大规模",
+  "pinyin": "dàguīmó",
+  "meaning_ru": "крупномасштабный (по охвату; ≠ 大型 «по размеру»)",
+  "meaning_en": "large-scale (in scope; not physical size 大型)",
+  "len_ru": 47,
+  "len_en": 44
+ },
+ {
+  "hanzi": "大多",
+  "pinyin": "dàduō",
+  "meaning_ru": "большинство; большей частью (о кол-ве)",
+  "meaning_en": "most of; mostly (quantitative)",
+  "len_ru": 38,
+  "len_en": 30
+ },
+ {
+  "hanzi": "男士",
+  "pinyin": "nánshì",
+  "meaning_ru": "мужчина (вежл., в сфере услуг)",
+  "meaning_en": "gentleman (polite address, service contexts)",
+  "len_ru": 30,
+  "len_en": 44
+ },
+ {
+  "hanzi": "泪",
+  "pinyin": "lèi",
+  "meaning_ru": "слёзы (книжн., в составе слов)",
+  "meaning_en": "tears (literary/in compounds)",
+  "len_ru": 30,
+  "len_en": 29
+ },
+ {
+  "hanzi": "汇",
+  "pinyin": "huì",
+  "meaning_ru": "переводить деньги (морфема)",
+  "meaning_en": "remit (money, base morpheme)",
+  "len_ru": 27,
+  "len_en": 28
+ },
+ {
+  "hanzi": "商务",
+  "pinyin": "shāngwù",
+  "meaning_ru": "бизнес (официально-деловой)",
+  "meaning_en": "business (formal/official context)",
+  "len_ru": 27,
+  "len_en": 34
+ },
+ {
+  "hanzi": "替代",
+  "pinyin": "tìdài",
+  "meaning_ru": "замещать (системно, абстрактно)",
+  "meaning_en": "substitute (systemic/abstract)",
+  "len_ru": 31,
+  "len_en": 30
+ },
+ {
+  "hanzi": "美金",
+  "pinyin": "měijīn",
+  "meaning_ru": "доллар США (разг.)",
+  "meaning_en": "US dollar (informal, spoken)",
+  "len_ru": 18,
+  "len_en": 28
+ },
+ {
+  "hanzi": "吸烟",
+  "pinyin": "xīyān",
+  "meaning_ru": "курить (офиц./таблички)",
+  "meaning_en": "smoke (formal/written, signs)",
+  "len_ru": 23,
+  "len_en": 29
+ },
+ {
+  "hanzi": "避",
+  "pinyin": "bì",
+  "meaning_ru": "избегать (намеренно уклоняться)",
+  "meaning_en": "to avoid (deliberately stay away)",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "语音",
+  "pinyin": "yǔyīn",
+  "meaning_ru": "звуки речи; голосовое сообщение",
+  "meaning_en": "speech sounds; voice (message)",
+  "len_ru": 31,
+  "len_en": 30
+ },
+ {
+  "hanzi": "毕业生",
+  "pinyin": "bìyèshēng",
+  "meaning_ru": "выпускник",
+  "meaning_en": "graduate (finished any degree)",
+  "len_ru": 9,
+  "len_en": 30
+ },
+ {
+  "hanzi": "帅哥",
+  "pinyin": "shuàigē",
+  "meaning_ru": "красавчик (разг. обращение)",
+  "meaning_en": "handsome guy (coll. address term)",
+  "len_ru": 27,
+  "len_en": 33
+ },
+ {
+  "hanzi": "老家",
+  "pinyin": "lǎojiā",
+  "meaning_ru": "родина (разг., где корни семьи)",
+  "meaning_en": "hometown (coll., family roots)",
+  "len_ru": 31,
+  "len_en": 30
+ },
+ {
+  "hanzi": "寒冷",
+  "pinyin": "hánlěng",
+  "meaning_ru": "холодный; морозный (общ.)",
+  "meaning_en": "cold; frigid (general adj.)",
+  "len_ru": 25,
+  "len_en": 27
+ },
+ {
+  "hanzi": "冬季",
+  "pinyin": "dōngjì",
+  "meaning_ru": "зимний сезон (офиц., метео.)",
+  "meaning_en": "winter season (formal, weather/stats)",
+  "len_ru": 28,
+  "len_en": 37
+ },
+ {
+  "hanzi": "宁静",
+  "pinyin": "níngjìng",
+  "meaning_ru": "безмятежный (об атмосфере, пейзаже)",
+  "meaning_en": "serene (of atmosphere/surroundings)",
+  "len_ru": 35,
+  "len_en": 35
+ }
+]

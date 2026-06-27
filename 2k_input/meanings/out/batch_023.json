@@ -1,0 +1,146 @@
+[
+ {
+  "hanzi": "听讲",
+  "pinyin": "tīngjiǎng",
+  "meaning_ru": "слушать лекцию",
+  "meaning_en": "attend a lecture",
+  "semantic_tags": [
+   "education",
+   "action_learning"
+  ]
+ },
+ {
+  "hanzi": "考生",
+  "pinyin": "kǎoshēng",
+  "meaning_ru": "экзаменующийся",
+  "meaning_en": "exam candidate",
+  "semantic_tags": [
+   "education",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "读音",
+  "pinyin": "dúyīn",
+  "meaning_ru": "произношение",
+  "meaning_en": "pronunciation",
+  "semantic_tags": [
+   "education",
+   "communication"
+  ]
+ },
+ {
+  "hanzi": "中小学",
+  "pinyin": "zhōngxiǎoxué",
+  "meaning_ru": "школа (средн. и нач.)",
+  "meaning_en": "schools (primary+secondary)",
+  "semantic_tags": [
+   "education",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "西餐",
+  "pinyin": "xīcān",
+  "meaning_ru": "европейская кухня",
+  "meaning_en": "Western food",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "一路平安",
+  "pinyin": "yīlùpíngān",
+  "meaning_ru": "счастливого пути",
+  "meaning_en": "bon voyage; safe trip",
+  "semantic_tags": [
+   "greeting",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "不一会儿",
+  "pinyin": "bùyīhuǐr",
+  "meaning_ru": "вскоре; через миг",
+  "meaning_en": "after a short while",
+  "semantic_tags": [
+   "time_period",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "不太",
+  "pinyin": "bùtài",
+  "meaning_ru": "не очень",
+  "meaning_en": "not very",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "生词",
+  "pinyin": "shēngcí",
+  "meaning_ru": "новое слово",
+  "meaning_en": "new word; vocab",
+  "semantic_tags": [
+   "education",
+   "communication"
+  ]
+ },
+ {
+  "hanzi": "下周",
+  "pinyin": "xiàzhōu",
+  "meaning_ru": "на следующей неделе",
+  "meaning_en": "next week",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "公交车",
+  "pinyin": "gōngjiāochē",
+  "meaning_ru": "автобус",
+  "meaning_en": "city bus",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "快点儿",
+  "pinyin": "kuàidiǎnr",
+  "meaning_ru": "быстрее!; поторопись",
+  "meaning_en": "hurry up!; faster",
+  "semantic_tags": [
+   "manner_adverb",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "挺好",
+  "pinyin": "tǐnghǎo",
+  "meaning_ru": "довольно хорошо",
+  "meaning_en": "quite good",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "有一点儿",
+  "pinyin": "yǒuyīdiǎnr",
+  "meaning_ru": "немного; чуть-чуть",
+  "meaning_en": "a bit; a little",
+  "semantic_tags": [
+   "degree_adverb",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "笑话儿",
+  "pinyin": "xiàohuar",
+  "meaning_ru": "шутка; анекдот",
+  "meaning_en": "joke",
+  "semantic_tags": [
+   "communication"
+  ]
+ }
+]

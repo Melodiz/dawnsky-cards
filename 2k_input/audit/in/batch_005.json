@@ -1,0 +1,1385 @@
+[
+ {
+  "hanzi": "早晨",
+  "pinyin": "zǎochén",
+  "meaning_ru": "утро (разговорное)",
+  "meaning_en": "early morning (colloquial)",
+  "len_ru": 18,
+  "len_en": 26,
+  "cedict_en": "early morning/also pr. [zao3chen5]",
+  "dataset_meanings": [
+   "early morning",
+   "also pr. [zǎo chen]"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "清晨"
+    ],
+    "note": "早晨 = early morning (everyday, colloquial); 清晨 = early morning (literary, poetic register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "早期",
+  "pinyin": "zǎoqī",
+  "meaning_ru": "ранний период (не самый первый)",
+  "meaning_en": "early stage (not the very start)",
+  "len_ru": 31,
+  "len_en": 32,
+  "cedict_en": "early period; early phase; early stage",
+  "dataset_meanings": [
+   "early period; early phase; early stage"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "初期",
+     "初",
+     "阶段",
+     "时期"
+    ],
+    "note": "早期 = relatively early stage (not necessarily the very beginning); 初期 = initial/opening stage (the very start); 初 = the beginning point itself; 阶段 = one phase in a development sequence; 时期 = a broader era or epoch"
+   }
+  ]
+ },
+ {
+  "hanzi": "明亮",
+  "pinyin": "míngliàng",
+  "meaning_ru": "яркий; хорошо освещённый",
+  "meaning_en": "bright; well-lit (physical)",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "bright/shining/glittering/to become clear",
+  "dataset_meanings": [
+   "bright",
+   "shining",
+   "glittering",
+   "to become clear"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "明"
+    ],
+    "note": "明亮 = physically bright, well-lit (describes a room, light source); 明 = bright/clear in a broader sense, including clarity of understanding (明白) and as a literary adjective."
+   }
+  ]
+ },
+ {
+  "hanzi": "景象",
+  "pinyin": "jǐngxiàng",
+  "meaning_ru": "зрелище (объективное; ≠ 情景)",
+  "meaning_en": "scene/sight (objective; cf. 情景)",
+  "len_ru": 27,
+  "len_en": 31,
+  "cedict_en": "scene/sight (to behold)",
+  "dataset_meanings": [
+   "scene",
+   "sight (to behold)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "情景",
+     "场面"
+    ],
+    "note": "景象 = visual scene/panoramic sight (objective); 情景 = scene charged with emotion (atmosphere of a moment); 场面 = visible occasion/spectacle (scale, social impression)"
+   }
+  ]
+ },
+ {
+  "hanzi": "晴天",
+  "pinyin": "qíngtiān",
+  "meaning_ru": "ясный день (сущ.)",
+  "meaning_en": "sunny/clear day (noun)",
+  "len_ru": 17,
+  "len_en": 22,
+  "cedict_en": "clear sky/sunny day",
+  "dataset_meanings": [
+   "clear sky",
+   "sunny day"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "晴朗"
+    ],
+    "note": "晴天 = noun phrase 'sunny/clear day'; 晴朗 = adjective 'sunny and cloudless' (describes weather or sky). 晴天 is a time noun; 晴朗 is a predicative/attributive adjective."
+   }
+  ]
+ },
+ {
+  "hanzi": "暑假",
+  "pinyin": "shǔjià",
+  "meaning_ru": "летние каникулы (учеб.)",
+  "meaning_en": "summer vacation (academic)",
+  "len_ru": 23,
+  "len_en": 26,
+  "cedict_en": "summer vacation/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "summer vacation"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "休假"
+    ],
+    "note": "暑假 = summer vacation (fixed school/academic holiday); 休假 = taking personal leave or a holiday (worker context, voluntary, any time of year)."
+   }
+  ]
+ },
+ {
+  "hanzi": "暖",
+  "pinyin": "nuǎn",
+  "meaning_ru": "тёплый (темп.); согревать",
+  "meaning_en": "warm (temperature); to warm",
+  "len_ru": 25,
+  "len_en": 27,
+  "cedict_en": "old variant of 暖[nuan3]/warm/to warm/variant of 暖[nuan3]/variant of 暖[nuan3], warm",
+  "dataset_meanings": [
+   "old variant of 暖",
+   "warm",
+   "to warm",
+   "variant of 暖",
+   "variant of 暖, warm"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "温暖"
+    ],
+    "note": "暖 = warm (basic adjective/verb for temperature); 温暖 = warm (richer; also figurative emotional warmth)"
+   }
+  ]
+ },
+ {
+  "hanzi": "更换",
+  "pinyin": "gēnghuàn",
+  "meaning_ru": "заменять (вещь; офиц.)",
+  "meaning_en": "replace (object, formally)",
+  "len_ru": 22,
+  "len_en": 26,
+  "cedict_en": "to replace (a worn-out tire etc)/to change (one's address etc)",
+  "dataset_meanings": [
+   "to replace (a worn-out tire etc)",
+   "to change (one's address etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "替",
+     "替代",
+     "代替",
+     "换",
+     "代"
+    ],
+    "note": "更换 = swap out (formal, objects); 替 = do something in place of someone; 替代 = substitute (abstract/systemic); 代替 = replace/act for (general); 换 = exchange or switch; 代 = act for + era/generation (multi-sense morpheme)"
+   }
+  ]
+ },
+ {
+  "hanzi": "替",
+  "pinyin": "tì",
+  "meaning_ru": "вместо кого-л.; замещать",
+  "meaning_en": "in place of; substitute for",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "to substitute for/to take the place of/to replace/for/on behalf of/to stand in for",
+  "dataset_meanings": [
+   "to substitute for",
+   "to take the place of",
+   "to replace",
+   "for",
+   "on behalf of",
+   "to stand in for"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "更换",
+     "替代",
+     "代替",
+     "换",
+     "代"
+    ],
+    "note": "更换 = swap out (formal, objects); 替 = do something in place of someone; 替代 = substitute (abstract/systemic); 代替 = replace/act for (general); 换 = exchange or switch; 代 = act for + era/generation (multi-sense morpheme)"
+   }
+  ]
+ },
+ {
+  "hanzi": "替代",
+  "pinyin": "tìdài",
+  "meaning_ru": "замещать (системно)",
+  "meaning_en": "substitute (systemic/abstract)",
+  "len_ru": 19,
+  "len_en": 30,
+  "cedict_en": "to substitute for/to replace/to supersede",
+  "dataset_meanings": [
+   "to substitute for",
+   "to replace",
+   "to supersede"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "更换",
+     "替",
+     "代替",
+     "换",
+     "代"
+    ],
+    "note": "更换 = swap out (formal, objects); 替 = do something in place of someone; 替代 = substitute (abstract/systemic); 代替 = replace/act for (general); 换 = exchange or switch; 代 = act for + era/generation (multi-sense morpheme)"
+   }
+  ]
+ },
+ {
+  "hanzi": "月球",
+  "pinyin": "yuèqiú",
+  "meaning_ru": "Луна (научн., космич.)",
+  "meaning_en": "the Moon (scientific)",
+  "len_ru": 22,
+  "len_en": 21,
+  "cedict_en": "the moon",
+  "dataset_meanings": [
+   "the moon"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "月亮"
+    ],
+    "note": "月亮 = the moon (everyday, poetic, emotional — moonlight poetry); 月球 = the Moon as a celestial/scientific body (technical: lunar missions, astronomy)."
+   }
+  ]
+ },
+ {
+  "hanzi": "有一些",
+  "pinyin": "yǒuyīxiē",
+  "meaning_ru": "есть немного; несколько",
+  "meaning_en": "there are some; a few",
+  "len_ru": 23,
+  "len_en": 21,
+  "cedict_en": "somewhat/rather/some",
+  "dataset_meanings": [
+   "somewhat",
+   "rather",
+   "some"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "有的",
+     "有些"
+    ],
+    "note": "有的 = some (of a defined set, distributive: 有的人…有的人…); 有一些 = there are some (existential quantity); 有些 (5k) = some/somewhat (also degree adverb before adjectives)"
+   }
+  ]
+ },
+ {
+  "hanzi": "有一点儿",
+  "pinyin": "yǒuyīdiǎnr",
+  "meaning_ru": "немного (нейтр.); чуть-чуть",
+  "meaning_en": "a bit (neutral); slightly",
+  "len_ru": 27,
+  "len_en": 25,
+  "cedict_en": "a bit/a little",
+  "dataset_meanings": [
+   "a bit",
+   "a little"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "有点儿",
+     "有点",
+     "稍微",
+     "略微"
+    ],
+    "note": "有点儿/有点 lean negative/complaint; 有一点儿 is neutral-emphatic; 稍微 is neutral and milder; 略微 is formal/literary"
+   }
+  ]
+ },
+ {
+  "hanzi": "有利于",
+  "pinyin": "yǒulìyú",
+  "meaning_ru": "способствовать; полезно для",
+  "meaning_en": "beneficial to; advantageous",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "to be advantageous to; to be beneficial for",
+  "dataset_meanings": [
+   "to be advantageous to; to be beneficial for"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "有力",
+  "pinyin": "yǒulì",
+  "meaning_ru": "сильный; мощный (о доводах)",
+  "meaning_en": "forceful; powerful (arguments)",
+  "len_ru": 27,
+  "len_en": 30,
+  "cedict_en": "powerful/forceful/vigorous",
+  "dataset_meanings": [
+   "powerful",
+   "forceful",
+   "vigorous"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "体力",
+     "力气",
+     "力量"
+    ],
+    "note": "体力 = physical stamina/endurance; 力气 = brute physical effort (colloquial); 力量 = strength/force (abstract or collective); 有力 = forceful/powerful (attributive adjective)"
+   },
+   {
+    "with": [
+     "强",
+     "强大"
+    ],
+    "note": "有力 = forceful, effective (of arguments, measures, evidence); 强 = strong/powerful in general; 强大 = powerful and formidable (of entities, nations, forces)"
+   }
+  ]
+ },
+ {
+  "hanzi": "有害",
+  "pinyin": "yǒuhài",
+  "meaning_ru": "вредный; пагубный",
+  "meaning_en": "harmful (adj; cf. 危害 verb)",
+  "len_ru": 17,
+  "len_en": 26,
+  "cedict_en": "destructive/harmful/damaging",
+  "dataset_meanings": [
+   "destructive",
+   "harmful",
+   "damaging"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "坏处",
+     "危害",
+     "伤害"
+    ],
+    "note": "坏处 = noun: a downside/drawback; 有害 = adjective: harmful/damaging; 危害 = verb/noun: endanger, pose a threat (systemic); 伤害 = verb: to hurt/injure (person, feelings)"
+   }
+  ]
+ },
+ {
+  "hanzi": "有毒",
+  "pinyin": "yǒudú",
+  "meaning_ru": "ядовитый (предикат. прил.)",
+  "meaning_en": "poisonous; toxic (pred. adj)",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "poisonous",
+  "dataset_meanings": [
+   "poisonous"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "毒",
+     "毒品"
+    ],
+    "note": "毒 = poison/venom (noun/morpheme); 有毒 = poisonous/toxic (predicate adjective); 毒品 = narcotics/illegal drugs (law register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "有点儿",
+  "pinyin": "yǒudiǎnr",
+  "meaning_ru": "немного (с оттенком негатива)",
+  "meaning_en": "a little (often negative tone)",
+  "len_ru": 29,
+  "len_en": 30,
+  "cedict_en": "slightly/a little/somewhat",
+  "dataset_meanings": [
+   "slightly",
+   "a little",
+   "somewhat"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "有一点儿",
+     "有点",
+     "稍微",
+     "略微"
+    ],
+    "note": "有点儿/有点 lean negative/complaint; 有一点儿 is neutral-emphatic; 稍微 is neutral and milder; 略微 is formal/literary"
+   }
+  ]
+ },
+ {
+  "hanzi": "有的",
+  "pinyin": "yǒude",
+  "meaning_ru": "некоторые (одни…другие…)",
+  "meaning_en": "some (distributive: 有的…有的…)",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "(there are) some (who are...)/some (exist)",
+  "dataset_meanings": [
+   "(there are) some (who are...)",
+   "some (exist)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "有一些",
+     "有些"
+    ],
+    "note": "有的 = some (of a defined set, distributive: 有的人…有的人…); 有一些 = there are some (existential quantity); 有些 (5k) = some/somewhat (also degree adverb before adjectives)"
+   }
+  ]
+ },
+ {
+  "hanzi": "有着",
+  "pinyin": "yǒuzhe",
+  "meaning_ru": "обладать (книжн., состояние)",
+  "meaning_en": "have/possess (literary, state)",
+  "len_ru": 28,
+  "len_en": 30,
+  "cedict_en": "to have/to possess",
+  "dataset_meanings": [
+   "to have",
+   "to possess"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "带有",
+     "拥有",
+     "占有"
+    ],
+    "note": "带有 = carry (a slight quality/tinge — partial, incidental); 有着 = have/possess (literary, emphatic state); 拥有 = own/possess (ongoing state, valuables, rights); 占有 = possess/occupy (with control, sometimes forcibly)"
+   }
+  ]
+ },
+ {
+  "hanzi": "本子",
+  "pinyin": "běnzi",
+  "meaning_ru": "тетрадь (физич. объект)",
+  "meaning_en": "notebook (physical object)",
+  "len_ru": 23,
+  "len_en": 26,
+  "cedict_en": "book/notebook/Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"/CL:本[ben3]/edition",
+  "dataset_meanings": [
+   "book",
+   "notebook",
+   "Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"",
+   "edition"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "笔记"
+    ],
+    "note": "笔记 = notes (the written content of what one records); 本子 = notebook (the physical object); learners confuse them when translating 'take notes in a notebook'"
+   }
+  ]
+ },
+ {
+  "hanzi": "杀毒",
+  "pinyin": "shādú",
+  "meaning_ru": "удалять вирусы (комп.)",
+  "meaning_en": "remove virus; disinfect",
+  "len_ru": 22,
+  "len_en": 23,
+  "cedict_en": "to disinfect/(computing) to destroy a computer virus",
+  "dataset_meanings": [
+   "to disinfect",
+   "(computing) to destroy a computer virus"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "松",
+  "pinyin": "sōng",
+  "meaning_ru": "ослабленный; рыхлый; ослаблять",
+  "meaning_en": "loose; slack; to loosen",
+  "len_ru": 30,
+  "len_en": 23,
+  "cedict_en": "surname Song/pine/CL:棵[ke1]/loose/to loosen/to relax/floss (dry, fluffy food product made from shredded, seasoned meat or fish, used as a topping or filling)",
+  "dataset_meanings": [
+   "surname Song",
+   "pine",
+   "loose",
+   "to loosen",
+   "to relax",
+   "floss (dry, fluffy food product made from shredded, seasoned meat or fish, used as a topping or filling)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "放松"
+    ],
+    "note": "松 = loose/slack (state adjective, or verb: loosen); 放松 = relax/let go (deliberate action, often mental relaxation)."
+   }
+  ]
+ },
+ {
+  "hanzi": "极了",
+  "pinyin": "jíle",
+  "meaning_ru": "крайне; очень",
+  "meaning_en": "extremely (suffix)",
+  "len_ru": 13,
+  "len_en": 18,
+  "cedict_en": "extremely/exceedingly",
+  "dataset_meanings": [
+   "extremely",
+   "exceedingly"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "极",
+     "极其",
+     "万分"
+    ],
+    "note": "极了 is a post-adjective suffix (好极了); 极 is the free adverb (pre-adj, neutral); 极其 is formal/written; 万分 is used only with emotional adjectives."
+   }
+  ]
+ },
+ {
+  "hanzi": "构造",
+  "pinyin": "gòuzào",
+  "meaning_ru": "строение (физ., конкретное)",
+  "meaning_en": "structure (physical, concrete)",
+  "len_ru": 27,
+  "len_en": 30,
+  "cedict_en": "structure/composition/tectonic (geology)/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "structure",
+   "composition",
+   "tectonic (geology)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "结构"
+    ],
+    "note": "结构 = abstract/analytical structure or composition; 构造 = concrete physical construction or build (geology, machinery). 构造 implies how something is assembled; 结构 how it is organized."
+   }
+  ]
+ },
+ {
+  "hanzi": "查询",
+  "pinyin": "cháxún",
+  "meaning_ru": "запрашивать данные; справки",
+  "meaning_en": "query; look up (facts/records)",
+  "len_ru": 27,
+  "len_en": 30,
+  "cedict_en": "to check/to inquire/to consult (a document etc)/inquiry/query",
+  "dataset_meanings": [
+   "to check",
+   "to inquire",
+   "to consult (a document etc)",
+   "inquiry",
+   "query"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "咨询"
+    ],
+    "note": "查询 = query facts/data/records (look something up); 咨询 = consult an expert or service for advice."
+   }
+  ]
+ },
+ {
+  "hanzi": "树林",
+  "pinyin": "shùlín",
+  "meaning_ru": "роща; лесок (небольшой)",
+  "meaning_en": "woods; grove (small stand)",
+  "len_ru": 23,
+  "len_en": 26,
+  "cedict_en": "Shulin city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/woods/grove/forest",
+  "dataset_meanings": [
+   "Shulin city in New Taipei City 市, Taiwan",
+   "woods",
+   "grove",
+   "forest"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "森林"
+    ],
+    "note": "树林 = woods/grove (smaller, local stand of trees); 森林 (5k) = forest (large-scale, ecological term)."
+   }
+  ]
+ },
+ {
+  "hanzi": "梦见",
+  "pinyin": "mèngjiàn",
+  "meaning_ru": "увидеть во сне (конкретное)",
+  "meaning_en": "dream of (see sth in dream)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "to dream about (sth or sb)/to see in a dream",
+  "dataset_meanings": [
+   "to dream about (sth or sb)",
+   "to see in a dream"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "做梦",
+     "梦想",
+     "幻想"
+    ],
+    "note": "做梦 = have a dream (while sleeping) or daydream (general). 梦见 = dream of sth specific (see it in a dream). 梦想 = cherished aspiration, to dream of (waking goal). 幻想 = fantasy/daydream (unrealistic imagination)."
+   }
+  ]
+ },
+ {
+  "hanzi": "检测",
+  "pinyin": "jiǎncè",
+  "meaning_ru": "измерять; выявлять (прибором)",
+  "meaning_en": "detect/measure (by instrument)",
+  "len_ru": 29,
+  "len_en": 30,
+  "cedict_en": "to test; to detect",
+  "dataset_meanings": [
+   "to detect",
+   "to test",
+   "detection",
+   "sensing"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "检验",
+     "检查",
+     "测验",
+     "考验",
+     "化验",
+     "探测"
+    ],
+    "note": "检测 = detect/measure (instrument or sensor); 检验 = inspect/test quality or validity; 检查 = routine check/inspection (medical or compliance); 测验 = classroom quiz or test; 考验 = life/moral ordeal, trial; 化验 = lab assay/analysis; 探测 = probe/detect remotely (instruments, space)"
+   }
+  ]
+ },
+ {
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "meaning_ru": "песня (разг.); петь",
+  "meaning_en": "song (colloquial); to sing",
+  "len_ru": 19,
+  "len_en": 26,
+  "cedict_en": "song (CL:首[shou3],支[zhi1])/(bound form) to sing/variant of 歌[ge1]",
+  "dataset_meanings": [
+   "song",
+   "to sing",
+   "variant of 歌"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "歌曲"
+    ],
+    "note": "歌 is colloquial/informal and can refer to the act of singing or a song; 歌曲 is the standard formal/written term for a musical composition (song as a piece)"
+   }
+  ]
+ },
+ {
+  "hanzi": "歌曲",
+  "pinyin": "gēqǔ",
+  "meaning_ru": "песня (офиц., произведение)",
+  "meaning_en": "song (formal composition term)",
+  "len_ru": 27,
+  "len_en": 30,
+  "cedict_en": "song",
+  "dataset_meanings": [
+   "song"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "歌"
+    ],
+    "note": "歌 is colloquial/informal and can refer to the act of singing or a song; 歌曲 is the standard formal/written term for a musical composition (song as a piece)"
+   }
+  ]
+ },
+ {
+  "hanzi": "此刻",
+  "pinyin": "cǐkè",
+  "meaning_ru": "именно сейчас; в этот миг (кн.)",
+  "meaning_en": "this very moment (literary)",
+  "len_ru": 31,
+  "len_en": 27,
+  "cedict_en": "this moment/now/at present",
+  "dataset_meanings": [
+   "this moment",
+   "now",
+   "at present"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "目前",
+     "眼下",
+     "当前"
+    ],
+    "note": "此刻 = 'this very moment' (literary/emotional, pinpoints an instant); 眼下 = 'right now' (spoken, informal); 目前 = 'at present' (neutral time adverb, written); 当前 = 'current/pressing now' (formal, implies urgency or importance of the present task)."
+   }
+  ]
+ },
+ {
+  "hanzi": "此后",
+  "pinyin": "cǐhòu",
+  "meaning_ru": "впредь; с тех пор (книжн.)",
+  "meaning_en": "hereafter; from this point (formal)",
+  "len_ru": 26,
+  "len_en": 35,
+  "cedict_en": "after this/afterwards/hereafter",
+  "dataset_meanings": [
+   "after this",
+   "afterwards",
+   "hereafter"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "之后"
+    ],
+    "note": "此后 = formal/written 'from this point onward; hereafter' (often opens a new phase); 之后 = general neutral 'after; afterwards' (everyday use)"
+   }
+  ]
+ },
+ {
+  "hanzi": "此时",
+  "pinyin": "cǐshí",
+  "meaning_ru": "в этот момент (нарратив, письм.)",
+  "meaning_en": "at this moment (narrative)",
+  "len_ru": 32,
+  "len_en": 26,
+  "cedict_en": "now/this moment",
+  "dataset_meanings": [
+   "now",
+   "this moment"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "今"
+    ],
+    "note": "Both mean 'now': 今 is literary/formal (used in set phrases 今日, 今年, or classical prose); 此时 = 'at this moment/right now' (narrative temporal marker, more vivid but still written-register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "步",
+  "pinyin": "bù",
+  "meaning_ru": "шаг (физ.; счётное слово)",
+  "meaning_en": "step; pace (measure word)",
+  "len_ru": 25,
+  "len_en": 25,
+  "cedict_en": "surname Bu/a step/a pace/walk/march/stages in a process/situation",
+  "dataset_meanings": [
+   "surname Bu",
+   "a step",
+   "a pace",
+   "walk",
+   "march",
+   "stages in a process",
+   "situation"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "步伐",
+     "步骤"
+    ],
+    "note": "步 = a single physical step or pace (also a measure word); 步伐 = gait or collective pace/tempo (figurative: pace of development); 步骤 = procedural step in a sequence (not physical)."
+   }
+  ]
+ },
+ {
+  "hanzi": "毒",
+  "pinyin": "dú",
+  "meaning_ru": "яд; ядовитый (морфема)",
+  "meaning_en": "poison; toxic (morpheme)",
+  "len_ru": 22,
+  "len_en": 24,
+  "cedict_en": "poison/to poison/poisonous/malicious/cruel/fierce/narcotics",
+  "dataset_meanings": [
+   "poison",
+   "to poison",
+   "poisonous",
+   "malicious",
+   "cruel",
+   "fierce",
+   "narcotics"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "有毒",
+     "毒品"
+    ],
+    "note": "毒 = poison/venom (noun/morpheme); 有毒 = poisonous/toxic (predicate adjective); 毒品 = narcotics/illegal drugs (law register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "毕业生",
+  "pinyin": "bìyèshēng",
+  "meaning_ru": "выпускник",
+  "meaning_en": "graduate (any degree)",
+  "len_ru": 9,
+  "len_en": 21,
+  "cedict_en": "graduate",
+  "dataset_meanings": [
+   "graduate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "研究生",
+     "毕业"
+    ],
+    "note": "毕业 = to graduate (the act); 毕业生 = graduate (person who has finished any degree); 研究生 = graduate student (currently enrolled in postgraduate study)"
+   }
+  ]
+ },
+ {
+  "hanzi": "气体",
+  "pinyin": "qìtǐ",
+  "meaning_ru": "газ (состояние вещества)",
+  "meaning_en": "gas (state of matter)",
+  "len_ru": 24,
+  "len_en": 21,
+  "cedict_en": "gas (i.e. gaseous substance)",
+  "dataset_meanings": [
+   "gas (i.e. gaseous substance)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "煤气",
+     "天然气",
+     "燃料",
+     "柴油"
+    ],
+    "note": "气体 = gas as a physical state (science); 天然气 = natural gas (utility); 煤气 = coal gas / domestic gas (cooking/heating); 柴油 = diesel fuel (vehicles); 燃料 = fuel in general (any type)"
+   }
+  ]
+ },
+ {
+  "hanzi": "气温",
+  "pinyin": "qìwēn",
+  "meaning_ru": "температура воздуха (метео)",
+  "meaning_en": "air/atmospheric temperature",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "air temperature",
+  "dataset_meanings": [
+   "air temperature"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "温度"
+    ],
+    "note": "气温 = specifically atmospheric/air temperature (weather/meteorology); 温度 = temperature in any context (body, water, oven, etc.)"
+   }
+  ]
+ },
+ {
+  "hanzi": "水灾",
+  "pinyin": "shuǐzāi",
+  "meaning_ru": "наводнение (стихийное)",
+  "meaning_en": "flood disaster",
+  "len_ru": 22,
+  "len_en": 14,
+  "cedict_en": "flood/flood damage",
+  "dataset_meanings": [
+   "flood",
+   "flood damage"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "洪水"
+    ],
+    "note": "水灾 = flood disaster (the event/calamity, emphasis on damage); 洪水 = floodwater/deluge (the water itself, also used figuratively)."
+   }
+  ]
+ },
+ {
+  "hanzi": "汇",
+  "pinyin": "huì",
+  "meaning_ru": "переводить деньги (морфема)",
+  "meaning_en": "remit money (base morpheme)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "to remit/to converge (of rivers)/to exchange/class/collection/variant of 匯|汇[hui4]",
+  "dataset_meanings": [
+   "to remit",
+   "to converge (of rivers)",
+   "to exchange",
+   "class",
+   "collection",
+   "variant of 汇"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "汇款"
+    ],
+    "note": "汇 = remit money (verb morpheme); 汇款 = remittance as noun or verb phrase (more complete collocation used in transactions)"
+   }
+  ]
+ },
+ {
+  "hanzi": "汇款",
+  "pinyin": "huìkuǎn",
+  "meaning_ru": "денежный перевод",
+  "meaning_en": "remittance; money transfer",
+  "len_ru": 16,
+  "len_en": 26,
+  "cedict_en": "to remit money/remittance",
+  "dataset_meanings": [
+   "to remit money",
+   "remittance"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "汇"
+    ],
+    "note": "汇 = remit money (verb morpheme); 汇款 = remittance as noun or verb phrase (more complete collocation used in transactions)"
+   }
+  ]
+ },
+ {
+  "hanzi": "没事儿",
+  "pinyin": "méishìr",
+  "meaning_ru": "ничего (разг., с эрхуа)",
+  "meaning_en": "it's nothing (erhua form)",
+  "len_ru": 23,
+  "len_en": 25,
+  "cedict_en": "to have spare time/free from work/it's not important/it's nothing/never mind",
+  "dataset_meanings": [
+   "to have spare time",
+   "free from work",
+   "it's not important",
+   "it's nothing",
+   "never mind"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "没什么",
+     "不要紧"
+    ],
+    "note": "All dismiss a concern. 没事儿 is colloquial Beijing-dialect (erhua); 没什么 is neutral ('it's nothing / not much'); 不要紧 is polite reassurance ('it doesn't matter'), slightly more formal."
+   }
+  ]
+ },
+ {
+  "hanzi": "没什么",
+  "pinyin": "méishénme",
+  "meaning_ru": "ничего; пустяки (нейтр.)",
+  "meaning_en": "nothing; not much (neutral)",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "it doesn't matter; it's nothing; never mind/think nothing of it; it's my pleasure; you're welcome",
+  "dataset_meanings": [
+   "nothing",
+   "it doesn't matter",
+   "it's nothing",
+   "never mind"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "没事儿",
+     "不要紧"
+    ],
+    "note": "All dismiss a concern. 没事儿 is colloquial Beijing-dialect (erhua); 没什么 is neutral ('it's nothing / not much'); 不要紧 is polite reassurance ('it doesn't matter'), slightly more formal."
+   }
+  ]
+ },
+ {
+  "hanzi": "泪",
+  "pinyin": "lèi",
+  "meaning_ru": "слёзы (книжн., в словах)",
+  "meaning_en": "tears (literary/compounds)",
+  "len_ru": 24,
+  "len_en": 26,
+  "cedict_en": "(bound form) tears; teardrops",
+  "dataset_meanings": [
+   "tears"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "泪水",
+     "眼泪"
+    ],
+    "note": "泪 is the literary/bare morpheme (poetry, compounds); 泪水 is more expressive/written (emphasizes the physical liquid); 眼泪 is the neutral everyday word for 'tears' (spoken and written)."
+   }
+  ]
+ },
+ {
+  "hanzi": "泪水",
+  "pinyin": "lèishuǐ",
+  "meaning_ru": "слёзы (образно, письменно)",
+  "meaning_en": "tears (expressive, written)",
+  "len_ru": 26,
+  "len_en": 27,
+  "cedict_en": "teardrop/tears",
+  "dataset_meanings": [
+   "teardrop",
+   "tears"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "泪",
+     "眼泪"
+    ],
+    "note": "泪 is the literary/bare morpheme (poetry, compounds); 泪水 is more expressive/written (emphasizes the physical liquid); 眼泪 is the neutral everyday word for 'tears' (spoken and written)."
+   }
+  ]
+ },
+ {
+  "hanzi": "流",
+  "pinyin": "liú",
+  "meaning_ru": "течь; струиться (вода, слёзы)",
+  "meaning_en": "flow; stream (water/tears/time)",
+  "len_ru": 29,
+  "len_en": 31,
+  "cedict_en": "to flow/to disseminate/to circulate or spread/to move or drift/to degenerate/to banish or send into exile/stream of water or sth resembling one/class, rate or grade",
+  "dataset_meanings": [
+   "to flow",
+   "to disseminate",
+   "to circulate or spread",
+   "to move or drift",
+   "to degenerate",
+   "to banish or send into exile",
+   "stream of water or sth resembling one",
+   "class, rate or grade"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "流动"
+    ],
+    "note": "流 = flow/stream (simple verb, tears, water, time); 流动 = flow/circulate (systemic ongoing movement — crowds, capital, liquids in systems)"
+   }
+  ]
+ },
+ {
+  "hanzi": "流动",
+  "pinyin": "liúdòng",
+  "meaning_ru": "циркулировать (толпы, капитал)",
+  "meaning_en": "flow; circulate (crowds, capital)",
+  "len_ru": 30,
+  "len_en": 33,
+  "cedict_en": "to flow; to circulate; to move about; mobile; (of assets) liquid",
+  "dataset_meanings": [
+   "to flow",
+   "to circulate",
+   "to go from place to place",
+   "to be mobile",
+   "(of assets) liquid"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "流"
+    ],
+    "note": "流 = flow/stream (simple verb, tears, water, time); 流动 = flow/circulate (systemic ongoing movement — crowds, capital, liquids in systems)"
+   }
+  ]
+ },
+ {
+  "hanzi": "测",
+  "pinyin": "cè",
+  "meaning_ru": "измерять; тестировать",
+  "meaning_en": "measure; test (root)",
+  "len_ru": 21,
+  "len_en": 20,
+  "cedict_en": "to survey/to measure/to conjecture",
+  "dataset_meanings": [
+   "to survey",
+   "to measure",
+   "to conjecture"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "测量"
+    ],
+    "note": "测 = measure/test (root morpheme, often in compounds); 测量 = measure with instruments (surveying, scientific measurement)."
+   },
+   {
+    "with": [
+     "测量",
+     "调查",
+     "勘探"
+    ],
+    "note": "测 = measure/test (general, incl. estimating); 测量 = measure physical dimensions precisely; 调查 = investigate/survey people or facts; 勘探 = prospect/survey terrain for resources"
+   }
+  ]
+ },
+ {
+  "hanzi": "涨价",
+  "pinyin": "zhǎngjià",
+  "meaning_ru": "дорожать; рост цен",
+  "meaning_en": "prices go up (commerce)",
+  "len_ru": 18,
+  "len_en": 23,
+  "cedict_en": "to appreciate (in value)/to increase in price",
+  "dataset_meanings": [
+   "to appreciate (in value)",
+   "to increase in price"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "上升",
+     "上涨",
+     "升高",
+     "涨",
+     "升",
+     "提高"
+    ],
+    "note": "涨/上涨/涨价 = prices/levels surge (market connotation); 上升/升 = rise physically or in rank; 升高 = rise in measurable degree (temperature, level); 提高 = raise intentionally (quality, standard)"
+   }
+  ]
+ },
+ {
+  "hanzi": "深厚",
+  "pinyin": "shēnhòu",
+  "meaning_ru": "глубокий, прочный (чувства)",
+  "meaning_en": "deep; solid (feelings/skills)",
+  "len_ru": 27,
+  "len_en": 29,
+  "cedict_en": "deep; profound",
+  "dataset_meanings": [
+   "deep; profound"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "深",
+     "深沉"
+    ],
+    "note": "深 (5k) = physically deep or dark (color); 深厚 = deep and solid (feelings, foundation, skills); 深沉 (5k) = deeply reserved or brooding (personality/mood)"
+   }
+  ]
+ },
+ {
+  "hanzi": "渐渐",
+  "pinyin": "jiànjiàn",
+  "meaning_ru": "постепенно (незаметно)",
+  "meaning_en": "gradually (imperceptible change)",
+  "len_ru": 22,
+  "len_en": 32,
+  "cedict_en": "gradually",
+  "dataset_meanings": [
+   "gradually"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "逐渐",
+     "逐步"
+    ],
+    "note": "渐渐 = gradually (natural, often imperceptible change); 逐渐 = gradually (more formal, measurable process); 逐步 = step by step (deliberate, planned stages)"
+   }
+  ]
+ },
+ {
+  "hanzi": "游客",
+  "pinyin": "yóukè",
+  "meaning_ru": "турист (приехал посмотреть)",
+  "meaning_en": "tourist (leisure/sightseeing)",
+  "len_ru": 27,
+  "len_en": 29,
+  "cedict_en": "traveler; tourist/(online gaming) guest player",
+  "dataset_meanings": [
+   "traveler",
+   "tourist",
+   "(online gaming) guest player"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "旅客"
+    ],
+    "note": "游客 = tourist (sightseeing, leisure traveler); 旅客 = traveler/passenger (any traveler, incl. transit)"
+   }
+  ]
+ },
+ {
+  "hanzi": "湿",
+  "pinyin": "shī",
+  "meaning_ru": "мокрый (намочен); влажный",
+  "meaning_en": "wet (soaked); moist",
+  "len_ru": 25,
+  "len_en": 19,
+  "cedict_en": "variant of 濕|湿[shi1]/moist/wet",
+  "dataset_meanings": [
+   "variant of 湿",
+   "moist",
+   "wet"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "潮湿"
+    ],
+    "note": "湿 = wet or moist (something soaked/dampened); 潮湿 = damp/humid (ambient moisture, environment)"
+   }
+  ]
+ },
+ {
+  "hanzi": "演",
+  "pinyin": "yǎn",
+  "meaning_ru": "исполнять (роль, концерт)",
+  "meaning_en": "perform (act/play/lecture)",
+  "len_ru": 25,
+  "len_en": 26,
+  "cedict_en": "to perform (a play etc); to stage (a show)/(bound form) to develop; to play out; to carry out (a task)",
+  "dataset_meanings": [
+   "to develop",
+   "to evolve",
+   "to practice",
+   "to perform",
+   "to play",
+   "to act"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "表演",
+     "扮演"
+    ],
+    "note": "演 = perform broadly (act,演奏 music, lecture); 表演 = perform for an audience (demonstrate a skill or act); 扮演 = play a specific character/role"
+   }
+  ]
+ },
+ {
+  "hanzi": "演唱",
+  "pinyin": "yǎnchàng",
+  "meaning_ru": "петь на сцене (публично)",
+  "meaning_en": "perform (singing on stage)",
+  "len_ru": 24,
+  "len_en": 26,
+  "cedict_en": "to sing (for an audience)/vocal performance",
+  "dataset_meanings": [
+   "sung performance",
+   "to sing for an audience"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "唱"
+    ],
+    "note": "唱 = sing (everyday, any context); 演唱 = sing in a formal or stage performance (implies an audience)"
+   }
+  ]
+ },
+ {
+  "hanzi": "演唱会",
+  "pinyin": "yǎnchànghuì",
+  "meaning_ru": "концерт (вокальный/поп)",
+  "meaning_en": "vocal/pop concert; live show",
+  "len_ru": 23,
+  "len_en": 28,
+  "cedict_en": "vocal recital or concert",
+  "dataset_meanings": [
+   "vocal recital or concert"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "音乐会"
+    ],
+    "note": "音乐会 covers any music concert (instrumental or vocal); 演唱会 is specifically a vocal/singing concert or pop/rock live show"
+   }
+  ]
+ },
+ {
+  "hanzi": "潮",
+  "pinyin": "cháo",
+  "meaning_ru": "сырой (избыточно влажный)",
+  "meaning_en": "damp; excessively moist",
+  "len_ru": 25,
+  "len_en": 23,
+  "cedict_en": "tide/damp; moist; humid/fashionable; trendy/(coll.) inferior; substandard",
+  "dataset_meanings": [
+   "tide",
+   "damp; moist; humid",
+   "fashionable; trendy",
+   "(coll.) inferior; substandard"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "潮湿"
+    ],
+    "note": "潮湿 (5k) is the neutral adjective for damp/humid; 潮 alone adds connotations of excessive or unpleasant moisture (also used colloquially for 'trendy')"
+   }
+  ]
+ },
+ {
+  "hanzi": "灯光",
+  "pinyin": "dēngguāng",
+  "meaning_ru": "искусств. освещение (≠ 光线)",
+  "meaning_en": "artificial lighting (≠ 光线)",
+  "len_ru": 26,
+  "len_en": 26,
+  "cedict_en": "(stage) lighting/light",
+  "dataset_meanings": [
+   "(stage) lighting",
+   "light"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "光线",
+     "光",
+     "灯"
+    ],
+    "note": "All relate to 'light'; 光 = light in general or 'only/merely'; 灯 = lamp/fixture; 光线 = ray or quality of (natural) light; 灯光 = artificial lighting or stage light."
+   }
+  ]
+ },
+ {
+  "hanzi": "灰色",
+  "pinyin": "huīsè",
+  "meaning_ru": "серый цвет",
+  "meaning_en": "gray; also: ambiguous",
+  "len_ru": 10,
+  "len_en": 21,
+  "cedict_en": "gray/ash gray/grizzly/pessimistic/gloomy/dispirited/ambiguous",
+  "dataset_meanings": [
+   "gray",
+   "ash gray",
+   "grizzly",
+   "pessimistic",
+   "gloomy",
+   "dispirited",
+   "ambiguous"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "灰"
+    ],
+    "note": "灰 = ash; gray (basic adjective, also means ash/dust); 灰色 = gray (color noun compound, more specific to the color itself; also used metaphorically for ambiguity)"
+   }
+  ]
+ }
+]

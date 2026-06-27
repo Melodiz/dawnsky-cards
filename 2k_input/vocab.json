@@ -1,0 +1,7466 @@
+[
+ {
+  "hanzi": "出",
+  "pinyin": "chū",
+  "meaning_ru": "выходить; выйти",
+  "meaning_en": "to go out; exit"
+ },
+ {
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "meaning_ru": "любить (глубоко или широко)",
+  "meaning_en": "to love; like (deep feeling)"
+ },
+ {
+  "hanzi": "孩子",
+  "pinyin": "háizi",
+  "meaning_ru": "ребёнок (нейтр.)",
+  "meaning_en": "child; kid (neutral)"
+ },
+ {
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "meaning_ru": "год (возраст); лет",
+  "meaning_en": "years old; age"
+ },
+ {
+  "hanzi": "高",
+  "pinyin": "gāo",
+  "meaning_ru": "высокий",
+  "meaning_en": "high; tall"
+ },
+ {
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "meaning_ru": "входить; войти (нейтр.)",
+  "meaning_en": "enter; go in (neutral)"
+ },
+ {
+  "hanzi": "您",
+  "pinyin": "nín",
+  "meaning_ru": "Вы (вежл.)",
+  "meaning_en": "you (polite)"
+ },
+ {
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "meaning_ru": "смеяться; улыбаться (шире 微)",
+  "meaning_en": "laugh; smile (covers both)"
+ },
+ {
+  "hanzi": "女人",
+  "pinyin": "nǚrén",
+  "meaning_ru": "женщина",
+  "meaning_en": "woman"
+ },
+ {
+  "hanzi": "男人",
+  "pinyin": "nánrén",
+  "meaning_ru": "мужчина (обычн., нейтр.)",
+  "meaning_en": "man (everyday neutral)"
+ },
+ {
+  "hanzi": "正在",
+  "pinyin": "zhèngzài",
+  "meaning_ru": "как раз (делать); сейчас",
+  "meaning_en": "in the middle of; now"
+ },
+ {
+  "hanzi": "外",
+  "pinyin": "wài",
+  "meaning_ru": "снаружи; внешний (морфема)",
+  "meaning_en": "outside; external (morpheme)"
+ },
+ {
+  "hanzi": "球",
+  "pinyin": "qiú",
+  "meaning_ru": "мяч; шар",
+  "meaning_en": "ball; sphere"
+ },
+ {
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "meaning_ru": "неправильный; ошибка (шире)",
+  "meaning_en": "wrong; mistake (broader)"
+ },
+ {
+  "hanzi": "别的",
+  "pinyin": "biéde",
+  "meaning_ru": "другой; иное (разг.)",
+  "meaning_en": "other; else (colloquial)"
+ },
+ {
+  "hanzi": "晚",
+  "pinyin": "wǎn",
+  "meaning_ru": "вечер; поздно",
+  "meaning_en": "evening; late"
+ },
+ {
+  "hanzi": "先生",
+  "pinyin": "xiānsheng",
+  "meaning_ru": "господин; мистер",
+  "meaning_en": "mister; sir"
+ },
+ {
+  "hanzi": "学生",
+  "pinyin": "xuésheng",
+  "meaning_ru": "ученик; студент",
+  "meaning_en": "student"
+ },
+ {
+  "hanzi": "儿子",
+  "pinyin": "érzi",
+  "meaning_ru": "сын",
+  "meaning_en": "son"
+ },
+ {
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "meaning_ru": "песня (разг.); петь",
+  "meaning_en": "song (colloquial); to sing"
+ },
+ {
+  "hanzi": "元",
+  "pinyin": "yuán",
+  "meaning_ru": "юань (валюта)",
+  "meaning_en": "yuan (currency)"
+ },
+ {
+  "hanzi": "介绍",
+  "pinyin": "jièshào",
+  "meaning_ru": "представлять; знакомить",
+  "meaning_en": "to introduce"
+ },
+ {
+  "hanzi": "唱",
+  "pinyin": "chàng",
+  "meaning_ru": "петь (разг., любой контекст)",
+  "meaning_en": "to sing (any context)"
+ },
+ {
+  "hanzi": "看见",
+  "pinyin": "kànjiàn",
+  "meaning_ru": "увидеть (момент восприятия)",
+  "meaning_en": "catch sight of (perception)"
+ },
+ {
+  "hanzi": "女儿",
+  "pinyin": "nǚʼér",
+  "meaning_ru": "дочь",
+  "meaning_en": "daughter"
+ },
+ {
+  "hanzi": "字",
+  "pinyin": "zì",
+  "meaning_ru": "иероглиф; буква (единица)",
+  "meaning_en": "written character; letter"
+ },
+ {
+  "hanzi": "白",
+  "pinyin": "bái",
+  "meaning_ru": "белый (прил./морфема)",
+  "meaning_en": "white (adj./morpheme)"
+ },
+ {
+  "hanzi": "票",
+  "pinyin": "piào",
+  "meaning_ru": "билет (вход, транспорт)",
+  "meaning_en": "ticket (entry/transport)"
+ },
+ {
+  "hanzi": "飞机",
+  "pinyin": "fēijī",
+  "meaning_ru": "самолёт",
+  "meaning_en": "airplane"
+ },
+ {
+  "hanzi": "哥",
+  "pinyin": "gē",
+  "meaning_ru": "старший брат (не обязат. 大哥)",
+  "meaning_en": "elder brother (not eldest)"
+ },
+ {
+  "hanzi": "爸",
+  "pinyin": "bà",
+  "meaning_ru": "папа (разг., неофиц.)",
+  "meaning_en": "dad (informal)"
+ },
+ {
+  "hanzi": "回去",
+  "pinyin": "huíqu",
+  "meaning_ru": "вернуться (туда)",
+  "meaning_en": "go back"
+ },
+ {
+  "hanzi": "病人",
+  "pinyin": "bìngrén",
+  "meaning_ru": "больной; пациент (разг.)",
+  "meaning_en": "patient; sick person"
+ },
+ {
+  "hanzi": "肉",
+  "pinyin": "ròu",
+  "meaning_ru": "мясо",
+  "meaning_en": "meat; flesh"
+ },
+ {
+  "hanzi": "打电话",
+  "pinyin": "dǎdiànhuà",
+  "meaning_ru": "звонить по телефону",
+  "meaning_en": "make a phone call"
+ },
+ {
+  "hanzi": "有的",
+  "pinyin": "yǒude",
+  "meaning_ru": "некоторые (одни…другие…)",
+  "meaning_en": "some (distributive: 有的…有的…)"
+ },
+ {
+  "hanzi": "吃饭",
+  "pinyin": "chīfàn",
+  "meaning_ru": "есть; обедать",
+  "meaning_en": "eat; have a meal"
+ },
+ {
+  "hanzi": "右",
+  "pinyin": "yòu",
+  "meaning_ru": "правый (морфема; ср. 右边)",
+  "meaning_en": "right (morpheme; cf. 右边)"
+ },
+ {
+  "hanzi": "姐姐",
+  "pinyin": "jiějie",
+  "meaning_ru": "старшая сестра",
+  "meaning_en": "older sister"
+ },
+ {
+  "hanzi": "一半",
+  "pinyin": "yíbàn",
+  "meaning_ru": "половина",
+  "meaning_en": "half"
+ },
+ {
+  "hanzi": "小姐",
+  "pinyin": "xiǎojie",
+  "meaning_ru": "девушка; мисс",
+  "meaning_en": "miss; young lady"
+ },
+ {
+  "hanzi": "进去",
+  "pinyin": "jìnqù",
+  "meaning_ru": "войти (разг., в комнату)",
+  "meaning_en": "go in (directional compl.)"
+ },
+ {
+  "hanzi": "没什么",
+  "pinyin": "méishénme",
+  "meaning_ru": "ничего; пустяки (нейтр.)",
+  "meaning_en": "nothing; not much (neutral)"
+ },
+ {
+  "hanzi": "路上",
+  "pinyin": "lùshang",
+  "meaning_ru": "в пути; по дороге",
+  "meaning_en": "on the way; en route"
+ },
+ {
+  "hanzi": "考试",
+  "pinyin": "kǎoshì",
+  "meaning_ru": "экзамен; сдавать экзамен",
+  "meaning_en": "exam; take an exam"
+ },
+ {
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "meaning_ru": "медленный; медленно",
+  "meaning_en": "slow (adj; speed, not gradual)"
+ },
+ {
+  "hanzi": "进来",
+  "pinyin": "jìnlái",
+  "meaning_ru": "войти (внутрь, к говорящему)",
+  "meaning_en": "come in (toward speaker)"
+ },
+ {
+  "hanzi": "好看",
+  "pinyin": "hǎokàn",
+  "meaning_ru": "красивый; интересный",
+  "meaning_en": "good-looking (people/things)"
+ },
+ {
+  "hanzi": "女生",
+  "pinyin": "nǚshēng",
+  "meaning_ru": "девушка-ученица; школьница",
+  "meaning_en": "female student; schoolgirl"
+ },
+ {
+  "hanzi": "雨",
+  "pinyin": "yǔ",
+  "meaning_ru": "дождь",
+  "meaning_en": "rain"
+ },
+ {
+  "hanzi": "车上",
+  "pinyin": "chēshàng",
+  "meaning_ru": "в машине; в транспорте",
+  "meaning_en": "on the vehicle; in transit"
+ },
+ {
+  "hanzi": "考",
+  "pinyin": "kǎo",
+  "meaning_ru": "сдавать экзамен",
+  "meaning_en": "to take an exam; to test"
+ },
+ {
+  "hanzi": "妹妹",
+  "pinyin": "mèimei",
+  "meaning_ru": "младшая сестра",
+  "meaning_en": "younger sister"
+ },
+ {
+  "hanzi": "地上",
+  "pinyin": "dìshang",
+  "meaning_ru": "на земле; на полу",
+  "meaning_en": "on the ground/floor"
+ },
+ {
+  "hanzi": "记住",
+  "pinyin": "jìzhu",
+  "meaning_ru": "запомнить (целенаправленно)",
+  "meaning_en": "memorize; commit to memory"
+ },
+ {
+  "hanzi": "下次",
+  "pinyin": "xiàcì",
+  "meaning_ru": "в следующий раз",
+  "meaning_en": "next time"
+ },
+ {
+  "hanzi": "机场",
+  "pinyin": "jīchǎng",
+  "meaning_ru": "аэропорт",
+  "meaning_en": "airport"
+ },
+ {
+  "hanzi": "老人",
+  "pinyin": "lǎorén",
+  "meaning_ru": "пожилой человек",
+  "meaning_en": "old person; the elderly"
+ },
+ {
+  "hanzi": "那边",
+  "pinyin": "nàbian",
+  "meaning_ru": "там; та сторона (направл.)",
+  "meaning_en": "over there; that side"
+ },
+ {
+  "hanzi": "弟弟",
+  "pinyin": "dìdi",
+  "meaning_ru": "младший брат",
+  "meaning_en": "younger brother"
+ },
+ {
+  "hanzi": "在家",
+  "pinyin": "zàijiā",
+  "meaning_ru": "быть дома",
+  "meaning_en": "to be at home"
+ },
+ {
+  "hanzi": "妹",
+  "pinyin": "mèi",
+  "meaning_ru": "младшая сестра (морфема)",
+  "meaning_en": "younger sister (morpheme)"
+ },
+ {
+  "hanzi": "不对",
+  "pinyin": "búduì",
+  "meaning_ru": "неверно (разг. возражение)",
+  "meaning_en": "not right (mild correction)"
+ },
+ {
+  "hanzi": "中午",
+  "pinyin": "zhōngwǔ",
+  "meaning_ru": "полдень",
+  "meaning_en": "noon; midday"
+ },
+ {
+  "hanzi": "干什么",
+  "pinyin": "gànshénme",
+  "meaning_ru": "что делаешь? (про действие)",
+  "meaning_en": "what are you doing? (action)"
+ },
+ {
+  "hanzi": "奶",
+  "pinyin": "nǎi",
+  "meaning_ru": "молоко; грудь",
+  "meaning_en": "milk; breast"
+ },
+ {
+  "hanzi": "这边",
+  "pinyin": "zhèbiān",
+  "meaning_ru": "эта сторона; сюда",
+  "meaning_en": "this side; this way"
+ },
+ {
+  "hanzi": "男生",
+  "pinyin": "nánshēng",
+  "meaning_ru": "парень; ученик (м.)",
+  "meaning_en": "boy; male student"
+ },
+ {
+  "hanzi": "火车",
+  "pinyin": "huǒchē",
+  "meaning_ru": "поезд",
+  "meaning_en": "train"
+ },
+ {
+  "hanzi": "上次",
+  "pinyin": "shàngcì",
+  "meaning_ru": "прошлый раз",
+  "meaning_en": "last time"
+ },
+ {
+  "hanzi": "右边",
+  "pinyin": "yòubian",
+  "meaning_ru": "правая сторона (ср. 右)",
+  "meaning_en": "right side (location; cf. 右)"
+ },
+ {
+  "hanzi": "上学",
+  "pinyin": "shàngxué",
+  "meaning_ru": "ходить в школу",
+  "meaning_en": "to go to school"
+ },
+ {
+  "hanzi": "牛奶",
+  "pinyin": "niúnǎi",
+  "meaning_ru": "молоко (коровье)",
+  "meaning_en": "cow's milk"
+ },
+ {
+  "hanzi": "女朋友",
+  "pinyin": "nǚpéngyou",
+  "meaning_ru": "девушка (подруга)",
+  "meaning_en": "girlfriend"
+ },
+ {
+  "hanzi": "听见",
+  "pinyin": "tīngjiàn",
+  "meaning_ru": "услышать (восприятие звука)",
+  "meaning_en": "to hear (sound reached you)"
+ },
+ {
+  "hanzi": "新年",
+  "pinyin": "xīnnián",
+  "meaning_ru": "Новый год",
+  "meaning_en": "New Year"
+ },
+ {
+  "hanzi": "下班",
+  "pinyin": "xiàbān",
+  "meaning_ru": "уйти с работы",
+  "meaning_en": "get off work"
+ },
+ {
+  "hanzi": "读书",
+  "pinyin": "dúshū",
+  "meaning_ru": "читать; учиться (разговорн.)",
+  "meaning_en": "read; study (colloquial)"
+ },
+ {
+  "hanzi": "姐",
+  "pinyin": "jiě",
+  "meaning_ru": "старшая сестра (морфема)",
+  "meaning_en": "older sister (in compounds)"
+ },
+ {
+  "hanzi": "坐下",
+  "pinyin": "zuòxia",
+  "meaning_ru": "сесть; присесть",
+  "meaning_en": "sit down"
+ },
+ {
+  "hanzi": "哪些",
+  "pinyin": "nǎxiē",
+  "meaning_ru": "какие; которые",
+  "meaning_en": "which ones"
+ },
+ {
+  "hanzi": "饭店",
+  "pinyin": "fàndiàn",
+  "meaning_ru": "ресторан; отель",
+  "meaning_en": "restaurant; hotel"
+ },
+ {
+  "hanzi": "楼下",
+  "pinyin": "lóuxià",
+  "meaning_ru": "внизу; этажом ниже",
+  "meaning_en": "downstairs"
+ },
+ {
+  "hanzi": "好听",
+  "pinyin": "hǎotīng",
+  "meaning_ru": "приятный на слух",
+  "meaning_en": "pleasant to hear"
+ },
+ {
+  "hanzi": "开会",
+  "pinyin": "kāihuì",
+  "meaning_ru": "проводить собрание",
+  "meaning_en": "hold a meeting"
+ },
+ {
+  "hanzi": "车站",
+  "pinyin": "chēzhàn",
+  "meaning_ru": "станция (автобус/поезд)",
+  "meaning_en": "station (bus/train, general)"
+ },
+ {
+  "hanzi": "走路",
+  "pinyin": "zǒulù",
+  "meaning_ru": "идти пешком",
+  "meaning_en": "walk; go on foot"
+ },
+ {
+  "hanzi": "小朋友",
+  "pinyin": "xiǎopéngyǒu",
+  "meaning_ru": "малыш (ласк., к детям)",
+  "meaning_en": "child (warm, adult to child)"
+ },
+ {
+  "hanzi": "左边",
+  "pinyin": "zuǒbian",
+  "meaning_ru": "левая сторона; слева",
+  "meaning_en": "left side"
+ },
+ {
+  "hanzi": "有用",
+  "pinyin": "yǒuyòng",
+  "meaning_ru": "полезный",
+  "meaning_en": "useful"
+ },
+ {
+  "hanzi": "不大",
+  "pinyin": "búdà",
+  "meaning_ru": "не очень; не часто (частота)",
+  "meaning_en": "not very; not often"
+ },
+ {
+  "hanzi": "上车",
+  "pinyin": "shàngchē",
+  "meaning_ru": "садиться в транспорт",
+  "meaning_en": "to get on (bus, car)"
+ },
+ {
+  "hanzi": "马路",
+  "pinyin": "mǎlù",
+  "meaning_ru": "улица; дорога",
+  "meaning_en": "road; street"
+ },
+ {
+  "hanzi": "门票",
+  "pinyin": "ménpiào",
+  "meaning_ru": "входной билет",
+  "meaning_en": "admission ticket"
+ },
+ {
+  "hanzi": "机票",
+  "pinyin": "jīpiào",
+  "meaning_ru": "билет на самолёт",
+  "meaning_en": "plane ticket"
+ },
+ {
+  "hanzi": "楼上",
+  "pinyin": "lóushàng",
+  "meaning_ru": "наверху; этажом выше",
+  "meaning_en": "upstairs"
+ },
+ {
+  "hanzi": "下雨",
+  "pinyin": "xiàyǔ",
+  "meaning_ru": "идёт дождь",
+  "meaning_en": "to rain"
+ },
+ {
+  "hanzi": "下车",
+  "pinyin": "xiàchē",
+  "meaning_ru": "выходить из транспорта",
+  "meaning_en": "to get off (bus, car)"
+ },
+ {
+  "hanzi": "杯子",
+  "pinyin": "bēizi",
+  "meaning_ru": "чашка; стакан",
+  "meaning_en": "cup; glass"
+ },
+ {
+  "hanzi": "路口",
+  "pinyin": "lùkǒu",
+  "meaning_ru": "перекрёсток",
+  "meaning_en": "intersection; crossing"
+ },
+ {
+  "hanzi": "弟",
+  "pinyin": "dì",
+  "meaning_ru": "младший брат (в словах)",
+  "meaning_en": "younger brother (morpheme)"
+ },
+ {
+  "hanzi": "电视机",
+  "pinyin": "diànshìjī",
+  "meaning_ru": "телевизор",
+  "meaning_en": "television set"
+ },
+ {
+  "hanzi": "放学",
+  "pinyin": "fàngxué",
+  "meaning_ru": "конец уроков",
+  "meaning_en": "school lets out"
+ },
+ {
+  "hanzi": "关上",
+  "pinyin": "guānshàng",
+  "meaning_ru": "закрыть (дверь, окно)",
+  "meaning_en": "close shut (physical objects)"
+ },
+ {
+  "hanzi": "半天",
+  "pinyin": "bàntiān",
+  "meaning_ru": "полдня; долго",
+  "meaning_en": "half a day; a long while"
+ },
+ {
+  "hanzi": "车票",
+  "pinyin": "chēpiào",
+  "meaning_ru": "билет (на транспорт)",
+  "meaning_en": "bus/train ticket"
+ },
+ {
+  "hanzi": "米饭",
+  "pinyin": "mǐfàn",
+  "meaning_ru": "варёный рис (блюдо)",
+  "meaning_en": "cooked/steamed rice (dish)"
+ },
+ {
+  "hanzi": "外语",
+  "pinyin": "wàiyǔ",
+  "meaning_ru": "иностранный язык",
+  "meaning_en": "foreign language"
+ },
+ {
+  "hanzi": "没事儿",
+  "pinyin": "méishìr",
+  "meaning_ru": "ничего (разг., с эрхуа)",
+  "meaning_en": "it's nothing (erhua form)"
+ },
+ {
+  "hanzi": "小学生",
+  "pinyin": "xiǎoxuéshēng",
+  "meaning_ru": "ученик начальной школы",
+  "meaning_en": "primary school pupil"
+ },
+ {
+  "hanzi": "外边",
+  "pinyin": "wàibian",
+  "meaning_ru": "снаружи (разг. место)",
+  "meaning_en": "outside (colloq.)"
+ },
+ {
+  "hanzi": "中学生",
+  "pinyin": "zhōngxuéshēng",
+  "meaning_ru": "школьник средней школы",
+  "meaning_en": "secondary school student"
+ },
+ {
+  "hanzi": "本子",
+  "pinyin": "běnzi",
+  "meaning_ru": "тетрадь (физич. объект)",
+  "meaning_en": "notebook (physical object)"
+ },
+ {
+  "hanzi": "星期日",
+  "pinyin": "xīngqīrì",
+  "meaning_ru": "воскресенье",
+  "meaning_en": "Sunday"
+ },
+ {
+  "hanzi": "课本",
+  "pinyin": "kèběn",
+  "meaning_ru": "учебник",
+  "meaning_en": "textbook"
+ },
+ {
+  "hanzi": "打车",
+  "pinyin": "dǎchē",
+  "meaning_ru": "взять такси",
+  "meaning_en": "to take a taxi"
+ },
+ {
+  "hanzi": "女孩儿",
+  "pinyin": "nǚháir",
+  "meaning_ru": "девочка/девушка (разг.)",
+  "meaning_en": "girl (colloquial, any age)"
+ },
+ {
+  "hanzi": "下边",
+  "pinyin": "xiàbian",
+  "meaning_ru": "внизу; под (разговорн.)",
+  "meaning_en": "below; underneath (spoken)"
+ },
+ {
+  "hanzi": "汉字",
+  "pinyin": "hànzì",
+  "meaning_ru": "иероглиф",
+  "meaning_en": "Chinese character"
+ },
+ {
+  "hanzi": "请进",
+  "pinyin": "qǐngjìn",
+  "meaning_ru": "входите, пожалуйста",
+  "meaning_en": "please come in"
+ },
+ {
+  "hanzi": "好玩儿",
+  "pinyin": "hǎowánr",
+  "meaning_ru": "весёлый; забавный (разг.)",
+  "meaning_en": "fun; amusing (colloquial)"
+ },
+ {
+  "hanzi": "课文",
+  "pinyin": "kèwén",
+  "meaning_ru": "текст (урока)",
+  "meaning_en": "lesson text; reading passage"
+ },
+ {
+  "hanzi": "请坐",
+  "pinyin": "qǐngzuò",
+  "meaning_ru": "садитесь, пожалуйста",
+  "meaning_en": "please sit down"
+ },
+ {
+  "hanzi": "半年",
+  "pinyin": "bànnián",
+  "meaning_ru": "полгода",
+  "meaning_en": "half a year"
+ },
+ {
+  "hanzi": "听写",
+  "pinyin": "tīngxiě",
+  "meaning_ru": "диктант; писать под диктовку",
+  "meaning_en": "dictation"
+ },
+ {
+  "hanzi": "一下儿",
+  "pinyin": "yīxiàr",
+  "meaning_ru": "разок; немного",
+  "meaning_en": "once; a bit"
+ },
+ {
+  "hanzi": "有一些",
+  "pinyin": "yǒuyīxiē",
+  "meaning_ru": "есть немного; несколько",
+  "meaning_en": "there are some; a few"
+ },
+ {
+  "hanzi": "男孩儿",
+  "pinyin": "nánháir",
+  "meaning_ru": "мальчик (маленький ребёнок)",
+  "meaning_en": "boy (young child)"
+ },
+ {
+  "hanzi": "面条儿",
+  "pinyin": "miàntiáor",
+  "meaning_ru": "лапша",
+  "meaning_en": "noodles"
+ },
+ {
+  "hanzi": "让",
+  "pinyin": "ràng",
+  "meaning_ru": "позволять; заставлять",
+  "meaning_en": "to let; to make sb do"
+ },
+ {
+  "hanzi": "为",
+  "pinyin": "wéi",
+  "meaning_ru": "являться; быть (книжн.)",
+  "meaning_en": "to be; act as (literary)"
+ },
+ {
+  "hanzi": "可能",
+  "pinyin": "kěnéng",
+  "meaning_ru": "может быть; возможный",
+  "meaning_en": "maybe; possible; possibility"
+ },
+ {
+  "hanzi": "向",
+  "pinyin": "xiàng",
+  "meaning_ru": "к; в сторону",
+  "meaning_en": "towards; to face"
+ },
+ {
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "meaning_ru": "продавать (разг.)",
+  "meaning_en": "to sell (colloquial)"
+ },
+ {
+  "hanzi": "句",
+  "pinyin": "jù",
+  "meaning_ru": "счётн. сл. фраз; фраза",
+  "meaning_en": "cl. for sentences; sentence"
+ },
+ {
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "meaning_ru": "собака",
+  "meaning_en": "dog"
+ },
+ {
+  "hanzi": "懂",
+  "pinyin": "dǒng",
+  "meaning_ru": "понимать",
+  "meaning_en": "to understand"
+ },
+ {
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "meaning_ru": "чёрный; тёмный (прилаг.)",
+  "meaning_en": "black; dark (adjective)"
+ },
+ {
+  "hanzi": "店",
+  "pinyin": "diàn",
+  "meaning_ru": "магазин; лавка",
+  "meaning_en": "shop; store"
+ },
+ {
+  "hanzi": "眼",
+  "pinyin": "yǎn",
+  "meaning_ru": "глаз",
+  "meaning_en": "eye"
+ },
+ {
+  "hanzi": "停",
+  "pinyin": "tíng",
+  "meaning_ru": "останавливаться",
+  "meaning_en": "to stop; to park"
+ },
+ {
+  "hanzi": "气",
+  "pinyin": "qì",
+  "meaning_ru": "воздух; газ",
+  "meaning_en": "air; gas"
+ },
+ {
+  "hanzi": "红",
+  "pinyin": "hóng",
+  "meaning_ru": "красный",
+  "meaning_en": "red"
+ },
+ {
+  "hanzi": "眼睛",
+  "pinyin": "yǎnjing",
+  "meaning_ru": "глаза",
+  "meaning_en": "eye(s)"
+ },
+ {
+  "hanzi": "做到",
+  "pinyin": "zuòdào",
+  "meaning_ru": "суметь сделать; справиться",
+  "meaning_en": "manage to do; pull off"
+ },
+ {
+  "hanzi": "意思",
+  "pinyin": "yìsi",
+  "meaning_ru": "смысл; значение (слова)",
+  "meaning_en": "meaning (of words/signal)"
+ },
+ {
+  "hanzi": "加油",
+  "pinyin": "jiāyóu",
+  "meaning_ru": "давай; держись",
+  "meaning_en": "go!; keep going"
+ },
+ {
+  "hanzi": "晚安",
+  "pinyin": "wǎnʼān",
+  "meaning_ru": "спокойной ночи",
+  "meaning_en": "good night"
+ },
+ {
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "meaning_ru": "кошка",
+  "meaning_en": "cat"
+ },
+ {
+  "hanzi": "通",
+  "pinyin": "tōng",
+  "meaning_ru": "проходить; соединять",
+  "meaning_en": "to pass through; connect"
+ },
+ {
+  "hanzi": "排",
+  "pinyin": "pái",
+  "meaning_ru": "ряд; выстраивать в ряд",
+  "meaning_en": "row (seats/troops); line up"
+ },
+ {
+  "hanzi": "油",
+  "pinyin": "yóu",
+  "meaning_ru": "масло; жир",
+  "meaning_en": "oil; grease"
+ },
+ {
+  "hanzi": "喂",
+  "pinyin": "wéi",
+  "meaning_ru": "алло; эй",
+  "meaning_en": "hello (on phone); hey"
+ },
+ {
+  "hanzi": "流",
+  "pinyin": "liú",
+  "meaning_ru": "течь; струиться (вода, слёзы)",
+  "meaning_en": "flow; stream (water/tears)"
+ },
+ {
+  "hanzi": "养",
+  "pinyin": "yǎng",
+  "meaning_ru": "растить; держать (питомца/ребёнка)",
+  "meaning_en": "raise (child or pet, general)"
+ },
+ {
+  "hanzi": "船",
+  "pinyin": "chuán",
+  "meaning_ru": "лодка; корабль",
+  "meaning_en": "boat; ship"
+ },
+ {
+  "hanzi": "鸡",
+  "pinyin": "jī",
+  "meaning_ru": "курица; петух",
+  "meaning_en": "chicken"
+ },
+ {
+  "hanzi": "不行",
+  "pinyin": "bùxíng",
+  "meaning_ru": "нельзя; не годится",
+  "meaning_en": "won't do; no good"
+ },
+ {
+  "hanzi": "长大",
+  "pinyin": "zhǎngdà",
+  "meaning_ru": "вырасти; повзрослеть",
+  "meaning_en": "grow up (reach adulthood)"
+ },
+ {
+  "hanzi": "交给",
+  "pinyin": "jiāogěi",
+  "meaning_ru": "передать (с переходом прав)",
+  "meaning_en": "hand over (with transfer)"
+ },
+ {
+  "hanzi": "封",
+  "pinyin": "fēng",
+  "meaning_ru": "запечатать; счётн. для писем",
+  "meaning_en": "to seal; cl. for letters"
+ },
+ {
+  "hanzi": "蛋",
+  "pinyin": "dàn",
+  "meaning_ru": "яйцо",
+  "meaning_en": "egg"
+ },
+ {
+  "hanzi": "想起",
+  "pinyin": "xiǎngqǐ",
+  "meaning_ru": "вспомнить (забытое)",
+  "meaning_en": "recall (something forgotten)"
+ },
+ {
+  "hanzi": "纸",
+  "pinyin": "zhǐ",
+  "meaning_ru": "бумага",
+  "meaning_en": "paper"
+ },
+ {
+  "hanzi": "一生",
+  "pinyin": "yīshēng",
+  "meaning_ru": "вся жизнь; всю жизнь",
+  "meaning_en": "all one's life"
+ },
+ {
+  "hanzi": "急",
+  "pinyin": "jí",
+  "meaning_ru": "срочный; спешить",
+  "meaning_en": "urgent; in a hurry"
+ },
+ {
+  "hanzi": "接到",
+  "pinyin": "jiēdào",
+  "meaning_ru": "получить (звонок, письмо)",
+  "meaning_en": "receive (call/message/letter)"
+ },
+ {
+  "hanzi": "好多",
+  "pinyin": "hǎoduō",
+  "meaning_ru": "много (разг.)",
+  "meaning_en": "a lot; many (colloquial)"
+ },
+ {
+  "hanzi": "颜色",
+  "pinyin": "yánsè",
+  "meaning_ru": "цвет (нейтр. сущ.)",
+  "meaning_en": "color (general noun)"
+ },
+ {
+  "hanzi": "什么样",
+  "pinyin": "shénmeyàng",
+  "meaning_ru": "какой?; что за?",
+  "meaning_en": "what kind?"
+ },
+ {
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "meaning_ru": "снег",
+  "meaning_en": "snow"
+ },
+ {
+  "hanzi": "那时",
+  "pinyin": "nàshí",
+  "meaning_ru": "тогда (о упомянутом времени)",
+  "meaning_en": "at that time (anaphoric)"
+ },
+ {
+  "hanzi": "心中",
+  "pinyin": "xīnzhōng",
+  "meaning_ru": "в душе; в мыслях (книжн.)",
+  "meaning_en": "in one's heart (literary)"
+ },
+ {
+  "hanzi": "高中",
+  "pinyin": "gāozhōng",
+  "meaning_ru": "старшая школа",
+  "meaning_en": "senior high school"
+ },
+ {
+  "hanzi": "讲话",
+  "pinyin": "jiǎnghuà",
+  "meaning_ru": "говорить; произносить речь",
+  "meaning_en": "speak; give a speech"
+ },
+ {
+  "hanzi": "大多数",
+  "pinyin": "dàduōshù",
+  "meaning_ru": "большинство (счётн.)",
+  "meaning_en": "majority (countables)"
+ },
+ {
+  "hanzi": "红色",
+  "pinyin": "hóngsè",
+  "meaning_ru": "красный цвет",
+  "meaning_en": "red (color)"
+ },
+ {
+  "hanzi": "放下",
+  "pinyin": "fàngxià",
+  "meaning_ru": "положить; отложить",
+  "meaning_en": "to put down; set aside"
+ },
+ {
+  "hanzi": "早就",
+  "pinyin": "zǎojiù",
+  "meaning_ru": "давно уже (с нажимом)",
+  "meaning_en": "long ago already (emphatic)"
+ },
+ {
+  "hanzi": "练",
+  "pinyin": "liàn",
+  "meaning_ru": "тренировать; упражняться",
+  "meaning_en": "to practice; to train"
+ },
+ {
+  "hanzi": "多久",
+  "pinyin": "duōjiǔ",
+  "meaning_ru": "как долго; сколько времени",
+  "meaning_en": "how long?"
+ },
+ {
+  "hanzi": "球队",
+  "pinyin": "qiúduì",
+  "meaning_ru": "спортивная команда",
+  "meaning_en": "sports team"
+ },
+ {
+  "hanzi": "上周",
+  "pinyin": "shàngzhōu",
+  "meaning_ru": "на прошлой неделе",
+  "meaning_en": "last week"
+ },
+ {
+  "hanzi": "黑色",
+  "pinyin": "hēisè",
+  "meaning_ru": "чёрный (цвет-сущ.)",
+  "meaning_en": "black (as a color noun)"
+ },
+ {
+  "hanzi": "大人",
+  "pinyin": "dàren",
+  "meaning_ru": "взрослый (разг.)",
+  "meaning_en": "adult; grownup (colloquial)"
+ },
+ {
+  "hanzi": "绿色",
+  "pinyin": "lǜsè",
+  "meaning_ru": "зелёный цвет",
+  "meaning_en": "green (color; eco-friendly too)"
+ },
+ {
+  "hanzi": "公路",
+  "pinyin": "gōnglù",
+  "meaning_ru": "шоссе; дорога",
+  "meaning_en": "highway; road"
+ },
+ {
+  "hanzi": "院",
+  "pinyin": "yuàn",
+  "meaning_ru": "двор; суффикс учреждений",
+  "meaning_en": "courtyard; institution sfx"
+ },
+ {
+  "hanzi": "家长",
+  "pinyin": "jiāzhǎng",
+  "meaning_ru": "родитель; глава семьи",
+  "meaning_en": "parent; family head"
+ },
+ {
+  "hanzi": "白色",
+  "pinyin": "báisè",
+  "meaning_ru": "белый (цвет, название)",
+  "meaning_en": "white (color noun)"
+ },
+ {
+  "hanzi": "出租车",
+  "pinyin": "chūzūchē",
+  "meaning_ru": "такси",
+  "meaning_en": "taxi"
+ },
+ {
+  "hanzi": "好事",
+  "pinyin": "hǎoshì",
+  "meaning_ru": "доброе дело; благо",
+  "meaning_en": "good deed; good thing"
+ },
+ {
+  "hanzi": "提到",
+  "pinyin": "tídào",
+  "meaning_ru": "упоминать",
+  "meaning_en": "to mention; refer to"
+ },
+ {
+  "hanzi": "题",
+  "pinyin": "tí",
+  "meaning_ru": "задача; вопрос (задание)",
+  "meaning_en": "problem; exam question"
+ },
+ {
+  "hanzi": "送给",
+  "pinyin": "sònggěi",
+  "meaning_ru": "дарить; вручать кому-то",
+  "meaning_en": "give as a gift; hand to s.o."
+ },
+ {
+  "hanzi": "不久",
+  "pinyin": "bùjiǔ",
+  "meaning_ru": "вскоре (не сразу)",
+  "meaning_en": "before long (not immediate)"
+ },
+ {
+  "hanzi": "比如说",
+  "pinyin": "bǐrúshuō",
+  "meaning_ru": "например",
+  "meaning_en": "for example"
+ },
+ {
+  "hanzi": "碰",
+  "pinyin": "pèng",
+  "meaning_ru": "коснуться; задеть",
+  "meaning_en": "touch; bump"
+ },
+ {
+  "hanzi": "碰到",
+  "pinyin": "pèngdào",
+  "meaning_ru": "случайно встретить; наткнуться",
+  "meaning_en": "run into; encounter by chance"
+ },
+ {
+  "hanzi": "蓝色",
+  "pinyin": "lánsè",
+  "meaning_ru": "синий (цвет-сущ.)",
+  "meaning_en": "blue (as a color noun)"
+ },
+ {
+  "hanzi": "懂得",
+  "pinyin": "dǒngde",
+  "meaning_ru": "понимать (интуитивно; уметь)",
+  "meaning_en": "grasp intuitively; know how"
+ },
+ {
+  "hanzi": "好久",
+  "pinyin": "hǎojiǔ",
+  "meaning_ru": "долго; давно",
+  "meaning_en": "a long time"
+ },
+ {
+  "hanzi": "夏天",
+  "pinyin": "xiàtiān",
+  "meaning_ru": "лето (разг., повседн.)",
+  "meaning_en": "summer (everyday, spoken)"
+ },
+ {
+  "hanzi": "接下来",
+  "pinyin": "jiēxiàlái",
+  "meaning_ru": "затем; далее",
+  "meaning_en": "next; then"
+ },
+ {
+  "hanzi": "早餐",
+  "pinyin": "zǎocān",
+  "meaning_ru": "завтрак",
+  "meaning_en": "breakfast"
+ },
+ {
+  "hanzi": "车辆",
+  "pinyin": "chēliàng",
+  "meaning_ru": "транспорт; машины",
+  "meaning_en": "vehicles"
+ },
+ {
+  "hanzi": "早晨",
+  "pinyin": "zǎochén",
+  "meaning_ru": "утро (разговорное)",
+  "meaning_en": "early morning (colloquial)"
+ },
+ {
+  "hanzi": "出门",
+  "pinyin": "chūmén",
+  "meaning_ru": "выйти из дома",
+  "meaning_en": "go out; leave home"
+ },
+ {
+  "hanzi": "以外",
+  "pinyin": "yǐwài",
+  "meaning_ru": "кроме; за пределами",
+  "meaning_en": "besides; outside of"
+ },
+ {
+  "hanzi": "做法",
+  "pinyin": "zuòfǎ",
+  "meaning_ru": "способ; метод; рецепт",
+  "meaning_en": "method; way; recipe"
+ },
+ {
+  "hanzi": "全体",
+  "pinyin": "quántǐ",
+  "meaning_ru": "весь коллектив; все члены",
+  "meaning_en": "the whole group; all members"
+ },
+ {
+  "hanzi": "熟",
+  "pinyin": "shú",
+  "meaning_ru": "спелый; готовый; знакомый",
+  "meaning_en": "ripe; cooked; familiar"
+ },
+ {
+  "hanzi": "小时候",
+  "pinyin": "xiǎoshíhou",
+  "meaning_ru": "в детстве",
+  "meaning_en": "in childhood"
+ },
+ {
+  "hanzi": "全身",
+  "pinyin": "quánshēn",
+  "meaning_ru": "всё тело (нейтр.)",
+  "meaning_en": "whole body (neutral)"
+ },
+ {
+  "hanzi": "咱",
+  "pinyin": "zán",
+  "meaning_ru": "мы (с тобой); я",
+  "meaning_en": "we (incl. you); I"
+ },
+ {
+  "hanzi": "平安",
+  "pinyin": "píngʼān",
+  "meaning_ru": "благополучный; невредимый",
+  "meaning_en": "safe and sound"
+ },
+ {
+  "hanzi": "队长",
+  "pinyin": "duìzhǎng",
+  "meaning_ru": "капитан; командир",
+  "meaning_en": "captain; team leader"
+ },
+ {
+  "hanzi": "南方",
+  "pinyin": "nánfāng",
+  "meaning_ru": "юг (культурно-геогр. регион)",
+  "meaning_en": "the South (cultural/geographic)"
+ },
+ {
+  "hanzi": "停车",
+  "pinyin": "tíngchē",
+  "meaning_ru": "парковаться; остановить авто",
+  "meaning_en": "to park; to stop a car"
+ },
+ {
+  "hanzi": "好人",
+  "pinyin": "hǎorén",
+  "meaning_ru": "хороший человек",
+  "meaning_en": "good person"
+ },
+ {
+  "hanzi": "大声",
+  "pinyin": "dàshēng",
+  "meaning_ru": "громко (о голосе)",
+  "meaning_en": "loudly; in a loud voice"
+ },
+ {
+  "hanzi": "分开",
+  "pinyin": "fēnkāi",
+  "meaning_ru": "разделять; расходиться",
+  "meaning_en": "separate; split apart"
+ },
+ {
+  "hanzi": "相机",
+  "pinyin": "xiàngjī",
+  "meaning_ru": "фотоаппарат (сокр. форма)",
+  "meaning_en": "camera (short modern form)"
+ },
+ {
+  "hanzi": "今后",
+  "pinyin": "jīnhòu",
+  "meaning_ru": "впредь; отныне",
+  "meaning_en": "from now on (time adverb)"
+ },
+ {
+  "hanzi": "这时",
+  "pinyin": "zhèshí",
+  "meaning_ru": "в этот момент (повеств.)",
+  "meaning_en": "at this point (written)"
+ },
+ {
+  "hanzi": "大大",
+  "pinyin": "dàdà",
+  "meaning_ru": "сильно; значительно",
+  "meaning_en": "greatly; hugely"
+ },
+ {
+  "hanzi": "科学家",
+  "pinyin": "kēxuéjiā",
+  "meaning_ru": "учёный",
+  "meaning_en": "scientist"
+ },
+ {
+  "hanzi": "晚餐",
+  "pinyin": "wǎncān",
+  "meaning_ru": "ужин",
+  "meaning_en": "dinner; supper"
+ },
+ {
+  "hanzi": "大门",
+  "pinyin": "dàmén",
+  "meaning_ru": "ворота; вход",
+  "meaning_en": "gate; main entrance"
+ },
+ {
+  "hanzi": "晚会",
+  "pinyin": "wǎnhuì",
+  "meaning_ru": "вечеринка; вечер",
+  "meaning_en": "evening party"
+ },
+ {
+  "hanzi": "大小",
+  "pinyin": "dàxiǎo",
+  "meaning_ru": "размер; величина",
+  "meaning_en": "size"
+ },
+ {
+  "hanzi": "不一定",
+  "pinyin": "bùyīdìng",
+  "meaning_ru": "не обязательно",
+  "meaning_en": "not necessarily"
+ },
+ {
+  "hanzi": "计算机",
+  "pinyin": "jìsuànjī",
+  "meaning_ru": "компьютер",
+  "meaning_en": "computer"
+ },
+ {
+  "hanzi": "阴",
+  "pinyin": "yīn",
+  "meaning_ru": "пасмурный",
+  "meaning_en": "overcast; cloudy"
+ },
+ {
+  "hanzi": "凉",
+  "pinyin": "liáng",
+  "meaning_ru": "прохладный (умеренно)",
+  "meaning_en": "cool; mildly cold (neutral)"
+ },
+ {
+  "hanzi": "半夜",
+  "pinyin": "bànyè",
+  "meaning_ru": "полночь; ночь",
+  "meaning_en": "midnight; late night"
+ },
+ {
+  "hanzi": "黄色",
+  "pinyin": "huángsè",
+  "meaning_ru": "жёлтый; порно (перен.)",
+  "meaning_en": "yellow; pornographic"
+ },
+ {
+  "hanzi": "姓名",
+  "pinyin": "xìngmíng",
+  "meaning_ru": "полное имя",
+  "meaning_en": "full name"
+ },
+ {
+  "hanzi": "午餐",
+  "pinyin": "wǔcān",
+  "meaning_ru": "обед",
+  "meaning_en": "lunch"
+ },
+ {
+  "hanzi": "校园",
+  "pinyin": "xiàoyuán",
+  "meaning_ru": "кампус; территория школы",
+  "meaning_en": "campus"
+ },
+ {
+  "hanzi": "等到",
+  "pinyin": "děngdào",
+  "meaning_ru": "дождаться; когда",
+  "meaning_en": "wait until; by the time"
+ },
+ {
+  "hanzi": "球场",
+  "pinyin": "qiúchǎng",
+  "meaning_ru": "спортплощадка; корт",
+  "meaning_en": "sports field; court"
+ },
+ {
+  "hanzi": "住院",
+  "pinyin": "zhùyuàn",
+  "meaning_ru": "лечь в больницу",
+  "meaning_en": "be hospitalized"
+ },
+ {
+  "hanzi": "椅子",
+  "pinyin": "yǐzi",
+  "meaning_ru": "стул",
+  "meaning_en": "chair"
+ },
+ {
+  "hanzi": "游客",
+  "pinyin": "yóukè",
+  "meaning_ru": "турист (приехал посмотреть)",
+  "meaning_en": "tourist (sightseeing/leisure)"
+ },
+ {
+  "hanzi": "拿到",
+  "pinyin": "nádào",
+  "meaning_ru": "получить (физически, руками)",
+  "meaning_en": "get/obtain (hands-on)"
+ },
+ {
+  "hanzi": "全家",
+  "pinyin": "quánjiā",
+  "meaning_ru": "вся семья",
+  "meaning_en": "whole family"
+ },
+ {
+  "hanzi": "从小",
+  "pinyin": "cóngxiǎo",
+  "meaning_ru": "с детства",
+  "meaning_en": "from childhood"
+ },
+ {
+  "hanzi": "公斤",
+  "pinyin": "gōngjīn",
+  "meaning_ru": "килограмм (разг. норма)",
+  "meaning_en": "kilogram (everyday spoken form)"
+ },
+ {
+  "hanzi": "星星",
+  "pinyin": "xīngxing",
+  "meaning_ru": "звезда (разг.)",
+  "meaning_en": "star (in the sky)"
+ },
+ {
+  "hanzi": "不满",
+  "pinyin": "bùmǎn",
+  "meaning_ru": "недовольный",
+  "meaning_en": "dissatisfied; discontent"
+ },
+ {
+  "hanzi": "例子",
+  "pinyin": "lìzi",
+  "meaning_ru": "пример (сущ., не союз)",
+  "meaning_en": "example; instance (noun)"
+ },
+ {
+  "hanzi": "快要",
+  "pinyin": "kuàiyào",
+  "meaning_ru": "вот-вот; скоро",
+  "meaning_en": "about to; soon"
+ },
+ {
+  "hanzi": "常见",
+  "pinyin": "chángjiàn",
+  "meaning_ru": "распространённый; частый",
+  "meaning_en": "common; often encountered"
+ },
+ {
+  "hanzi": "商人",
+  "pinyin": "shāngrén",
+  "meaning_ru": "торговец; бизнесмен",
+  "meaning_en": "merchant; businessman"
+ },
+ {
+  "hanzi": "走过",
+  "pinyin": "zǒuguò",
+  "meaning_ru": "пройти мимо",
+  "meaning_en": "walk past (simple motion)"
+ },
+ {
+  "hanzi": "得出",
+  "pinyin": "déchū",
+  "meaning_ru": "прийти к (выводу)",
+  "meaning_en": "to reach; to obtain"
+ },
+ {
+  "hanzi": "停车场",
+  "pinyin": "tíngchēchǎng",
+  "meaning_ru": "парковка",
+  "meaning_en": "parking lot"
+ },
+ {
+  "hanzi": "大海",
+  "pinyin": "dàhǎi",
+  "meaning_ru": "море; океан",
+  "meaning_en": "sea; ocean"
+ },
+ {
+  "hanzi": "出租",
+  "pinyin": "chūzū",
+  "meaning_ru": "сдавать в аренду (хозяин)",
+  "meaning_en": "rent out (landlord side)"
+ },
+ {
+  "hanzi": "这时候",
+  "pinyin": "zhèshíhòu",
+  "meaning_ru": "в этот момент (разг.)",
+  "meaning_en": "at this moment (colloquial)"
+ },
+ {
+  "hanzi": "老是",
+  "pinyin": "lǎoshì",
+  "meaning_ru": "вечно; всё время (с досадой)",
+  "meaning_en": "always; keeps doing (gripe)"
+ },
+ {
+  "hanzi": "月份",
+  "pinyin": "yuèfèn",
+  "meaning_ru": "месяц (календ.)",
+  "meaning_en": "month (of year)"
+ },
+ {
+  "hanzi": "坏人",
+  "pinyin": "huàirén",
+  "meaning_ru": "плохой человек",
+  "meaning_en": "bad person; villain"
+ },
+ {
+  "hanzi": "天上",
+  "pinyin": "tiānshàng",
+  "meaning_ru": "на небе; в небесах (высок.)",
+  "meaning_en": "in the sky; in the heavens"
+ },
+ {
+  "hanzi": "旅客",
+  "pinyin": "lǚkè",
+  "meaning_ru": "пассажир; путешественник",
+  "meaning_en": "traveler; passenger"
+ },
+ {
+  "hanzi": "大衣",
+  "pinyin": "dàyī",
+  "meaning_ru": "пальто",
+  "meaning_en": "overcoat"
+ },
+ {
+  "hanzi": "路边",
+  "pinyin": "lùbiān",
+  "meaning_ru": "обочина; край дороги",
+  "meaning_en": "roadside"
+ },
+ {
+  "hanzi": "难题",
+  "pinyin": "nántí",
+  "meaning_ru": "трудная задача/вопрос",
+  "meaning_en": "a difficult problem/question"
+ },
+ {
+  "hanzi": "手表",
+  "pinyin": "shǒubiǎo",
+  "meaning_ru": "наручные часы",
+  "meaning_en": "wristwatch"
+ },
+ {
+  "hanzi": "院长",
+  "pinyin": "yuànzhǎng",
+  "meaning_ru": "директор/декан института",
+  "meaning_en": "dean/head of an institute"
+ },
+ {
+  "hanzi": "夜里",
+  "pinyin": "yèli",
+  "meaning_ru": "ночью (разг.)",
+  "meaning_en": "at night (colloquial)"
+ },
+ {
+  "hanzi": "音乐会",
+  "pinyin": "yīnyuèhuì",
+  "meaning_ru": "концерт (инструм. или любой)",
+  "meaning_en": "concert (incl. instrumental)"
+ },
+ {
+  "hanzi": "中年",
+  "pinyin": "zhōngnián",
+  "meaning_ru": "средний возраст",
+  "meaning_en": "middle age"
+ },
+ {
+  "hanzi": "找出",
+  "pinyin": "zhǎochū",
+  "meaning_ru": "найти; отыскать",
+  "meaning_en": "to find out; locate"
+ },
+ {
+  "hanzi": "院子",
+  "pinyin": "yuànzi",
+  "meaning_ru": "двор (жилой, огороженный)",
+  "meaning_en": "enclosed courtyard; yard"
+ },
+ {
+  "hanzi": "分数",
+  "pinyin": "fēnshù",
+  "meaning_ru": "балл; оценка (числовая)",
+  "meaning_en": "score; grade (numeric)"
+ },
+ {
+  "hanzi": "举手",
+  "pinyin": "jǔshǒu",
+  "meaning_ru": "поднять руку (голосование)",
+  "meaning_en": "raise a hand (e.g. to vote)"
+ },
+ {
+  "hanzi": "课堂",
+  "pinyin": "kètáng",
+  "meaning_ru": "класс; урок (пространство)",
+  "meaning_en": "classroom; lesson session"
+ },
+ {
+  "hanzi": "出国",
+  "pinyin": "chūguó",
+  "meaning_ru": "ехать за границу",
+  "meaning_en": "go abroad (cross the border)"
+ },
+ {
+  "hanzi": "下雪",
+  "pinyin": "xiàxuě",
+  "meaning_ru": "идёт снег",
+  "meaning_en": "to snow"
+ },
+ {
+  "hanzi": "气温",
+  "pinyin": "qìwēn",
+  "meaning_ru": "температура воздуха (метео)",
+  "meaning_en": "air/atmospheric temperature"
+ },
+ {
+  "hanzi": "骑车",
+  "pinyin": "qíchē",
+  "meaning_ru": "ехать на велосипеде (верхом)",
+  "meaning_en": "ride a bike (straddle)"
+ },
+ {
+  "hanzi": "西南",
+  "pinyin": "xīnán",
+  "meaning_ru": "юго-запад",
+  "meaning_en": "southwest"
+ },
+ {
+  "hanzi": "西北",
+  "pinyin": "xīběi",
+  "meaning_ru": "северо-запад",
+  "meaning_en": "northwest"
+ },
+ {
+  "hanzi": "住房",
+  "pinyin": "zhùfáng",
+  "meaning_ru": "жильё (как соц. понятие)",
+  "meaning_en": "housing (societal concept)"
+ },
+ {
+  "hanzi": "出院",
+  "pinyin": "chūyuàn",
+  "meaning_ru": "выписаться из больницы",
+  "meaning_en": "leave hospital"
+ },
+ {
+  "hanzi": "老朋友",
+  "pinyin": "lǎopéngyou",
+  "meaning_ru": "старый друг",
+  "meaning_en": "old friend"
+ },
+ {
+  "hanzi": "走开",
+  "pinyin": "zǒukāi",
+  "meaning_ru": "уйди; отойди (резко)",
+  "meaning_en": "go away; step aside (abrupt)"
+ },
+ {
+  "hanzi": "笔记",
+  "pinyin": "bǐjì",
+  "meaning_ru": "записи; конспект",
+  "meaning_en": "notes; jottings (written)"
+ },
+ {
+  "hanzi": "外地",
+  "pinyin": "wàidì",
+  "meaning_ru": "другой регион; не местный",
+  "meaning_en": "other region; out of town"
+ },
+ {
+  "hanzi": "休假",
+  "pinyin": "xiūjià",
+  "meaning_ru": "брать отпуск (работник)",
+  "meaning_en": "take personal leave (work)"
+ },
+ {
+  "hanzi": "小声",
+  "pinyin": "xiǎoshēng",
+  "meaning_ru": "тихо; вполголоса",
+  "meaning_en": "in a low voice (manner)"
+ },
+ {
+  "hanzi": "大自然",
+  "pinyin": "dàzìrán",
+  "meaning_ru": "природа",
+  "meaning_en": "nature"
+ },
+ {
+  "hanzi": "送到",
+  "pinyin": "sòngdào",
+  "meaning_ru": "доставить до места",
+  "meaning_en": "deliver to a destination"
+ },
+ {
+  "hanzi": "老年",
+  "pinyin": "lǎonián",
+  "meaning_ru": "старость; пожилой возраст",
+  "meaning_en": "old age (life stage)"
+ },
+ {
+  "hanzi": "动物园",
+  "pinyin": "dòngwùyuán",
+  "meaning_ru": "зоопарк",
+  "meaning_en": "zoo"
+ },
+ {
+  "hanzi": "草地",
+  "pinyin": "cǎodì",
+  "meaning_ru": "лужайка; луг",
+  "meaning_en": "lawn; meadow"
+ },
+ {
+  "hanzi": "药店",
+  "pinyin": "yàodiàn",
+  "meaning_ru": "аптека",
+  "meaning_en": "pharmacy"
+ },
+ {
+  "hanzi": "回国",
+  "pinyin": "huíguó",
+  "meaning_ru": "вернуться на родину",
+  "meaning_en": "return to one's country"
+ },
+ {
+  "hanzi": "关机",
+  "pinyin": "guānjī",
+  "meaning_ru": "выключить (устройство)",
+  "meaning_en": "turn off; power off"
+ },
+ {
+  "hanzi": "晴",
+  "pinyin": "qíng",
+  "meaning_ru": "ясный, солнечный",
+  "meaning_en": "clear, sunny (weather)"
+ },
+ {
+  "hanzi": "班长",
+  "pinyin": "bānzhǎng",
+  "meaning_ru": "староста класса",
+  "meaning_en": "class monitor"
+ },
+ {
+  "hanzi": "常用",
+  "pinyin": "chángyòng",
+  "meaning_ru": "часто используемый",
+  "meaning_en": "commonly used (in practice)"
+ },
+ {
+  "hanzi": "里头",
+  "pinyin": "lǐtou",
+  "meaning_ru": "внутри (разг.)",
+  "meaning_en": "inside (colloquial spoken)"
+ },
+ {
+  "hanzi": "日报",
+  "pinyin": "rìbào",
+  "meaning_ru": "ежедневная газета",
+  "meaning_en": "daily newspaper"
+ },
+ {
+  "hanzi": "开学",
+  "pinyin": "kāixué",
+  "meaning_ru": "начало учёбы",
+  "meaning_en": "start of term"
+ },
+ {
+  "hanzi": "走进",
+  "pinyin": "zǒujìn",
+  "meaning_ru": "войти, зайти",
+  "meaning_en": "to step into"
+ },
+ {
+  "hanzi": "体育场",
+  "pinyin": "tǐyùchǎng",
+  "meaning_ru": "стадион",
+  "meaning_en": "stadium"
+ },
+ {
+  "hanzi": "组长",
+  "pinyin": "zǔzhǎng",
+  "meaning_ru": "руководитель группы",
+  "meaning_en": "small team/group leader"
+ },
+ {
+  "hanzi": "东南",
+  "pinyin": "dōngnán",
+  "meaning_ru": "юго-восток",
+  "meaning_en": "southeast"
+ },
+ {
+  "hanzi": "有点儿",
+  "pinyin": "yǒudiǎnr",
+  "meaning_ru": "немного (с негативным оттенком)",
+  "meaning_en": "a bit (often negative tone)"
+ },
+ {
+  "hanzi": "地铁站",
+  "pinyin": "dìtiězhàn",
+  "meaning_ru": "станция метро",
+  "meaning_en": "subway station"
+ },
+ {
+  "hanzi": "快餐",
+  "pinyin": "kuàicān",
+  "meaning_ru": "фастфуд",
+  "meaning_en": "fast food"
+ },
+ {
+  "hanzi": "站住",
+  "pinyin": "zhànzhù",
+  "meaning_ru": "стой! (приказ остановиться)",
+  "meaning_en": "halt! (command to stop)"
+ },
+ {
+  "hanzi": "开机",
+  "pinyin": "kāijī",
+  "meaning_ru": "включить (устройство)",
+  "meaning_en": "to boot up; power on"
+ },
+ {
+  "hanzi": "公共汽车",
+  "pinyin": "gōnggòngqìchē",
+  "meaning_ru": "автобус",
+  "meaning_en": "bus"
+ },
+ {
+  "hanzi": "过年",
+  "pinyin": "guònián",
+  "meaning_ru": "китайский Новый год",
+  "meaning_en": "celebrate Chinese New Year"
+ },
+ {
+  "hanzi": "零下",
+  "pinyin": "língxià",
+  "meaning_ru": "ниже нуля",
+  "meaning_en": "below zero"
+ },
+ {
+  "hanzi": "拿出",
+  "pinyin": "náchū",
+  "meaning_ru": "вынимать; доставать",
+  "meaning_en": "take out; produce"
+ },
+ {
+  "hanzi": "中餐",
+  "pinyin": "zhōngcān",
+  "meaning_ru": "китайская еда",
+  "meaning_en": "Chinese food; lunch"
+ },
+ {
+  "hanzi": "晴天",
+  "pinyin": "qíngtiān",
+  "meaning_ru": "ясный день (сущ.)",
+  "meaning_en": "sunny/clear day (noun)"
+ },
+ {
+  "hanzi": "全年",
+  "pinyin": "quánnián",
+  "meaning_ru": "весь год; годовой",
+  "meaning_en": "whole year; annual"
+ },
+ {
+  "hanzi": "那会儿",
+  "pinyin": "nàhuìr",
+  "meaning_ru": "тогда (разг., эрхуа)",
+  "meaning_en": "at that time (coll., er-hua)"
+ },
+ {
+  "hanzi": "外卖",
+  "pinyin": "wàimài",
+  "meaning_ru": "еда навынос; доставка",
+  "meaning_en": "takeout; food delivery"
+ },
+ {
+  "hanzi": "方便面",
+  "pinyin": "fāngbiànmiàn",
+  "meaning_ru": "лапша быстр. пригот.",
+  "meaning_en": "instant noodles"
+ },
+ {
+  "hanzi": "球鞋",
+  "pinyin": "qiúxié",
+  "meaning_ru": "кроссовки",
+  "meaning_en": "sneakers; sports shoes"
+ },
+ {
+  "hanzi": "交朋友",
+  "pinyin": "jiāopéngyou",
+  "meaning_ru": "заводить друзей",
+  "meaning_en": "make friends"
+ },
+ {
+  "hanzi": "一路顺风",
+  "pinyin": "yīlùshùnfēng",
+  "meaning_ru": "счастливого пути",
+  "meaning_en": "have a good trip"
+ },
+ {
+  "hanzi": "晚报",
+  "pinyin": "wǎnbào",
+  "meaning_ru": "вечерняя газета",
+  "meaning_en": "evening newspaper"
+ },
+ {
+  "hanzi": "难听",
+  "pinyin": "nántīng",
+  "meaning_ru": "неприятный на слух",
+  "meaning_en": "unpleasant to hear"
+ },
+ {
+  "hanzi": "药水",
+  "pinyin": "yàoshuǐ",
+  "meaning_ru": "жидкое лекарство",
+  "meaning_en": "liquid medicine; lotion"
+ },
+ {
+  "hanzi": "中医",
+  "pinyin": "zhōngyī",
+  "meaning_ru": "китайская медицина",
+  "meaning_en": "Chinese medicine"
+ },
+ {
+  "hanzi": "坏处",
+  "pinyin": "huàichu",
+  "meaning_ru": "вред; минус",
+  "meaning_en": "downside; drawback (noun)"
+ },
+ {
+  "hanzi": "前年",
+  "pinyin": "qiánnián",
+  "meaning_ru": "позапрошлый год",
+  "meaning_en": "year before last"
+ },
+ {
+  "hanzi": "千克",
+  "pinyin": "qiānkè",
+  "meaning_ru": "килограмм (офиц. ед. СИ)",
+  "meaning_en": "kilogram (official SI term)"
+ },
+ {
+  "hanzi": "问路",
+  "pinyin": "wènlù",
+  "meaning_ru": "спрашивать дорогу",
+  "meaning_en": "ask for directions"
+ },
+ {
+  "hanzi": "叫作",
+  "pinyin": "jiàozuò",
+  "meaning_ru": "называться (разг.)",
+  "meaning_en": "to be called (informal)"
+ },
+ {
+  "hanzi": "午睡",
+  "pinyin": "wǔshuì",
+  "meaning_ru": "дневной сон",
+  "meaning_en": "afternoon nap"
+ },
+ {
+  "hanzi": "药片",
+  "pinyin": "yàopiàn",
+  "meaning_ru": "таблетка",
+  "meaning_en": "pill; tablet"
+ },
+ {
+  "hanzi": "音节",
+  "pinyin": "yīnjié",
+  "meaning_ru": "слог",
+  "meaning_en": "syllable"
+ },
+ {
+  "hanzi": "中级",
+  "pinyin": "zhōngjí",
+  "meaning_ru": "средний уровень",
+  "meaning_en": "intermediate level"
+ },
+ {
+  "hanzi": "春节",
+  "pinyin": "chūnjié",
+  "meaning_ru": "китайский Новый год",
+  "meaning_en": "Spring Festival"
+ },
+ {
+  "hanzi": "阴天",
+  "pinyin": "yīntiān",
+  "meaning_ru": "пасмурный день",
+  "meaning_en": "cloudy day"
+ },
+ {
+  "hanzi": "西医",
+  "pinyin": "xīyī",
+  "meaning_ru": "западная медицина",
+  "meaning_en": "Western medicine"
+ },
+ {
+  "hanzi": "听讲",
+  "pinyin": "tīngjiǎng",
+  "meaning_ru": "слушать лекцию",
+  "meaning_en": "attend a lecture"
+ },
+ {
+  "hanzi": "考生",
+  "pinyin": "kǎoshēng",
+  "meaning_ru": "экзаменующийся",
+  "meaning_en": "exam candidate"
+ },
+ {
+  "hanzi": "读音",
+  "pinyin": "dúyīn",
+  "meaning_ru": "произношение знака/слова",
+  "meaning_en": "pronunciation (char/word)"
+ },
+ {
+  "hanzi": "中小学",
+  "pinyin": "zhōngxiǎoxué",
+  "meaning_ru": "школа (средн. и нач.)",
+  "meaning_en": "schools (primary+secondary)"
+ },
+ {
+  "hanzi": "西餐",
+  "pinyin": "xīcān",
+  "meaning_ru": "западная кухня",
+  "meaning_en": "Western food"
+ },
+ {
+  "hanzi": "一路平安",
+  "pinyin": "yīlùpíngān",
+  "meaning_ru": "счастливого пути",
+  "meaning_en": "bon voyage; safe trip"
+ },
+ {
+  "hanzi": "不一会儿",
+  "pinyin": "bùyīhuìr",
+  "meaning_ru": "вскоре; через миг",
+  "meaning_en": "after a short while"
+ },
+ {
+  "hanzi": "不太",
+  "pinyin": "bùtài",
+  "meaning_ru": "не очень",
+  "meaning_en": "not very"
+ },
+ {
+  "hanzi": "生词",
+  "pinyin": "shēngcí",
+  "meaning_ru": "новое слово",
+  "meaning_en": "new word; vocab"
+ },
+ {
+  "hanzi": "下周",
+  "pinyin": "xiàzhōu",
+  "meaning_ru": "на следующей неделе",
+  "meaning_en": "next week"
+ },
+ {
+  "hanzi": "公交车",
+  "pinyin": "gōngjiāochē",
+  "meaning_ru": "автобус (гор. маршрут)",
+  "meaning_en": "city bus (urban route)"
+ },
+ {
+  "hanzi": "快点儿",
+  "pinyin": "kuàidiǎnr",
+  "meaning_ru": "быстрее! (призыв к другому)",
+  "meaning_en": "hurry up! (urging others)"
+ },
+ {
+  "hanzi": "挺好",
+  "pinyin": "tǐnghǎo",
+  "meaning_ru": "довольно хорошо",
+  "meaning_en": "quite good"
+ },
+ {
+  "hanzi": "有一点儿",
+  "pinyin": "yǒuyīdiǎnr",
+  "meaning_ru": "немного (нейтр.); чуть-чуть",
+  "meaning_en": "a bit (neutral); slightly"
+ },
+ {
+  "hanzi": "笑话儿",
+  "pinyin": "xiàohuar",
+  "meaning_ru": "шутка; анекдот",
+  "meaning_en": "joke"
+ },
+ {
+  "hanzi": "见过",
+  "pinyin": "jiànguò",
+  "meaning_ru": "видеть (раньше)",
+  "meaning_en": "have seen (before)"
+ },
+ {
+  "hanzi": "那时候",
+  "pinyin": "nàshíhou",
+  "meaning_ru": "в то время; тогда (нейтр.)",
+  "meaning_en": "at that time (spoken)"
+ },
+ {
+  "hanzi": "银行卡",
+  "pinyin": "yínhángkǎ",
+  "meaning_ru": "банковская карта",
+  "meaning_en": "bank card"
+ },
+ {
+  "hanzi": "张",
+  "pinyin": "zhāng",
+  "meaning_ru": "счётн. сл. (листы)",
+  "meaning_en": "classifier: flat sheets"
+ },
+ {
+  "hanzi": "极了",
+  "pinyin": "jíle",
+  "meaning_ru": "крайне; очень",
+  "meaning_en": "extremely (suffix)"
+ },
+ {
+  "hanzi": "伤",
+  "pinyin": "shāng",
+  "meaning_ru": "рана; ранить",
+  "meaning_en": "wound; to injure"
+ },
+ {
+  "hanzi": "步",
+  "pinyin": "bù",
+  "meaning_ru": "шаг (физ.; счётное слово)",
+  "meaning_en": "step; pace (measure word)"
+ },
+ {
+  "hanzi": "亲",
+  "pinyin": "qīn",
+  "meaning_ru": "родной; целовать",
+  "meaning_en": "kin; to kiss"
+ },
+ {
+  "hanzi": "跳",
+  "pinyin": "tiào",
+  "meaning_ru": "прыгать",
+  "meaning_en": "to jump; to hop"
+ },
+ {
+  "hanzi": "照",
+  "pinyin": "zhào",
+  "meaning_ru": "светить; снимать фото",
+  "meaning_en": "to shine; take photo"
+ },
+ {
+  "hanzi": "痛",
+  "pinyin": "tòng",
+  "meaning_ru": "боль; болеть (физич.)",
+  "meaning_en": "pain; to ache (physical)"
+ },
+ {
+  "hanzi": "后面",
+  "pinyin": "hòumian",
+  "meaning_ru": "сзади; позади",
+  "meaning_en": "behind; at the back"
+ },
+ {
+  "hanzi": "整",
+  "pinyin": "zhěng",
+  "meaning_ru": "ровно (целых X: 整十年)",
+  "meaning_en": "exactly whole (整十年)"
+ },
+ {
+  "hanzi": "空",
+  "pinyin": "kōng",
+  "meaning_ru": "пустой; небо",
+  "meaning_en": "empty; sky"
+ },
+ {
+  "hanzi": "外面",
+  "pinyin": "wàimiàn",
+  "meaning_ru": "снаружи; вне (нареч.)",
+  "meaning_en": "outside (neutral locative)"
+ },
+ {
+  "hanzi": "架",
+  "pinyin": "jià",
+  "meaning_ru": "рама; (сч. сл. для машин)",
+  "meaning_en": "frame; (cl. for vehicles)"
+ },
+ {
+  "hanzi": "室",
+  "pinyin": "shì",
+  "meaning_ru": "комната; кабинет",
+  "meaning_en": "room; office"
+ },
+ {
+  "hanzi": "哈哈",
+  "pinyin": "hāhā",
+  "meaning_ru": "ха-ха (смех)",
+  "meaning_en": "laughing out loud"
+ },
+ {
+  "hanzi": "准",
+  "pinyin": "zhǔn",
+  "meaning_ru": "точный; разрешать",
+  "meaning_en": "accurate; to allow"
+ },
+ {
+  "hanzi": "皮",
+  "pinyin": "pí",
+  "meaning_ru": "кожа/кожура (не орган)",
+  "meaning_en": "skin/peel/leather (broad)"
+ },
+ {
+  "hanzi": "代",
+  "pinyin": "dài",
+  "meaning_ru": "замещать; поколение; эпоха",
+  "meaning_en": "act for; generation; era"
+ },
+ {
+  "hanzi": "调",
+  "pinyin": "diào",
+  "meaning_ru": "переводить; тон; мелодия",
+  "meaning_en": "to transfer; tone; tune"
+ },
+ {
+  "hanzi": "抓住",
+  "pinyin": "zhuāzhù",
+  "meaning_ru": "схватить; поймать",
+  "meaning_en": "to grab; to seize"
+ },
+ {
+  "hanzi": "美好",
+  "pinyin": "měihǎo",
+  "meaning_ru": "чудесный; прекрасный",
+  "meaning_en": "wonderful (abstract things)"
+ },
+ {
+  "hanzi": "配",
+  "pinyin": "pèi",
+  "meaning_ru": "подходить; сочетать",
+  "meaning_en": "to match; to pair"
+ },
+ {
+  "hanzi": "乐",
+  "pinyin": "lè",
+  "meaning_ru": "радостный; весёлый",
+  "meaning_en": "happy; joyful"
+ },
+ {
+  "hanzi": "事实上",
+  "pinyin": "shìshíshàng",
+  "meaning_ru": "фактически (по фактам)",
+  "meaning_en": "in fact (stressing facts)"
+ },
+ {
+  "hanzi": "保",
+  "pinyin": "bǎo",
+  "meaning_ru": "защищать; гарантировать",
+  "meaning_en": "to protect; to ensure"
+ },
+ {
+  "hanzi": "证",
+  "pinyin": "zhèng",
+  "meaning_ru": "удостоверение; доказывать",
+  "meaning_en": "ID card; pass; to certify"
+ },
+ {
+  "hanzi": "演",
+  "pinyin": "yǎn",
+  "meaning_ru": "исполнять (роль, концерт)",
+  "meaning_en": "perform (act/play/lecture)"
+ },
+ {
+  "hanzi": "胜",
+  "pinyin": "shèng",
+  "meaning_ru": "победить; превосходить",
+  "meaning_en": "beat (an opponent); surpass"
+ },
+ {
+  "hanzi": "慢慢",
+  "pinyin": "mànmàn",
+  "meaning_ru": "медленно; не спеша (разг.)",
+  "meaning_en": "slowly; unhurriedly (coll.)"
+ },
+ {
+  "hanzi": "压",
+  "pinyin": "yā",
+  "meaning_ru": "давить; нажимать",
+  "meaning_en": "to press; push down"
+ },
+ {
+  "hanzi": "队员",
+  "pinyin": "duìyuán",
+  "meaning_ru": "член команды (спорт, отряд)",
+  "meaning_en": "team/squad member"
+ },
+ {
+  "hanzi": "板",
+  "pinyin": "bǎn",
+  "meaning_ru": "доска; плита",
+  "meaning_en": "board; plank"
+ },
+ {
+  "hanzi": "前面",
+  "pinyin": "qiánmiàn",
+  "meaning_ru": "впереди; спереди",
+  "meaning_en": "in front; ahead"
+ },
+ {
+  "hanzi": "付",
+  "pinyin": "fù",
+  "meaning_ru": "платить; вручать",
+  "meaning_en": "to pay; hand over"
+ },
+ {
+  "hanzi": "内心",
+  "pinyin": "nèixīn",
+  "meaning_ru": "душа; в глубине души",
+  "meaning_en": "inner self (literary)"
+ },
+ {
+  "hanzi": "防",
+  "pinyin": "fáng",
+  "meaning_ru": "защищать; предотвращать",
+  "meaning_en": "defend; ward off (a threat)"
+ },
+ {
+  "hanzi": "舞台",
+  "pinyin": "wǔtái",
+  "meaning_ru": "сцена; арена",
+  "meaning_en": "stage; arena"
+ },
+ {
+  "hanzi": "烟",
+  "pinyin": "yān",
+  "meaning_ru": "дым; сигарета",
+  "meaning_en": "smoke; cigarette"
+ },
+ {
+  "hanzi": "生意",
+  "pinyin": "shēngyì",
+  "meaning_ru": "бизнес; торговля",
+  "meaning_en": "business; trade"
+ },
+ {
+  "hanzi": "赶",
+  "pinyin": "gǎn",
+  "meaning_ru": "спешить; успеть (на автобус)",
+  "meaning_en": "hurry; catch (bus/deadline)"
+ },
+ {
+  "hanzi": "迷",
+  "pinyin": "mí",
+  "meaning_ru": "фанат; поклонник",
+  "meaning_en": "fan; enthusiast"
+ },
+ {
+  "hanzi": "上去",
+  "pinyin": "shàngqù",
+  "meaning_ru": "подниматься (вверх)",
+  "meaning_en": "to go up"
+ },
+ {
+  "hanzi": "仅仅",
+  "pinyin": "jǐnjǐn",
+  "meaning_ru": "только; всего лишь",
+  "meaning_en": "merely; only (restrictor)"
+ },
+ {
+  "hanzi": "游",
+  "pinyin": "yóu",
+  "meaning_ru": "плавать",
+  "meaning_en": "to swim"
+ },
+ {
+  "hanzi": "铁",
+  "pinyin": "tiě",
+  "meaning_ru": "железо",
+  "meaning_en": "iron (metal)"
+ },
+ {
+  "hanzi": "录",
+  "pinyin": "lù",
+  "meaning_ru": "записывать (звук/видео)",
+  "meaning_en": "record (audio/video/data)"
+ },
+ {
+  "hanzi": "背后",
+  "pinyin": "bèihòu",
+  "meaning_ru": "сзади; за спиной (втайне)",
+  "meaning_en": "behind; at one's back (fig.)"
+ },
+ {
+  "hanzi": "土",
+  "pinyin": "tǔ",
+  "meaning_ru": "земля; почва (как вещество)",
+  "meaning_en": "soil; earth (as a material)"
+ },
+ {
+  "hanzi": "缺",
+  "pinyin": "quē",
+  "meaning_ru": "не хватать; недостаток",
+  "meaning_en": "lack (verb); shortage"
+ },
+ {
+  "hanzi": "相互",
+  "pinyin": "xiānghù",
+  "meaning_ru": "взаимно; друг друга",
+  "meaning_en": "mutual; each other"
+ },
+ {
+  "hanzi": "眼前",
+  "pinyin": "yǎnqián",
+  "meaning_ru": "перед глазами; сейчас",
+  "meaning_en": "before one's eyes; now"
+ },
+ {
+  "hanzi": "古",
+  "pinyin": "gǔ",
+  "meaning_ru": "древний (морфема/прилаг.)",
+  "meaning_en": "ancient; old (attributive)"
+ },
+ {
+  "hanzi": "羊",
+  "pinyin": "yáng",
+  "meaning_ru": "овца; баран",
+  "meaning_en": "sheep; goat"
+ },
+ {
+  "hanzi": "造",
+  "pinyin": "zào",
+  "meaning_ru": "создавать; строить",
+  "meaning_en": "make; build; create"
+ },
+ {
+  "hanzi": "前进",
+  "pinyin": "qiánjìn",
+  "meaning_ru": "идти вперёд (непереходн.)",
+  "meaning_en": "advance; move forward"
+ },
+ {
+  "hanzi": "看上去",
+  "pinyin": "kànshangqu",
+  "meaning_ru": "на вид; выглядит",
+  "meaning_en": "looks like; appears"
+ },
+ {
+  "hanzi": "环",
+  "pinyin": "huán",
+  "meaning_ru": "кольцо; звено (не украшение)",
+  "meaning_en": "ring/loop (shape or link)"
+ },
+ {
+  "hanzi": "退出",
+  "pinyin": "tuìchū",
+  "meaning_ru": "выйти из (орг-ции/программы)",
+  "meaning_en": "quit (org/app, not a habit)"
+ },
+ {
+  "hanzi": "齐",
+  "pinyin": "qí",
+  "meaning_ru": "ровный; вместе",
+  "meaning_en": "neat; even; all together"
+ },
+ {
+  "hanzi": "上升",
+  "pinyin": "shàngshēng",
+  "meaning_ru": "подниматься (физ./по рангу)",
+  "meaning_en": "rise (physically or in rank)"
+ },
+ {
+  "hanzi": "围",
+  "pinyin": "wéi",
+  "meaning_ru": "окружать; обмотать",
+  "meaning_en": "to surround; wrap around"
+ },
+ {
+  "hanzi": "飞行",
+  "pinyin": "fēixíng",
+  "meaning_ru": "полёт; летать (авиац.)",
+  "meaning_en": "fly; flight (aviation)"
+ },
+ {
+  "hanzi": "福",
+  "pinyin": "fú",
+  "meaning_ru": "счастье; удача (культурн.)",
+  "meaning_en": "blessing; fortune (cultural)"
+ },
+ {
+  "hanzi": "补",
+  "pinyin": "bǔ",
+  "meaning_ru": "чинить; восполнять",
+  "meaning_en": "patch; make up for (fig.)"
+ },
+ {
+  "hanzi": "赶到",
+  "pinyin": "gǎndào",
+  "meaning_ru": "успеть прибыть (впритык)",
+  "meaning_en": "arrive by hurrying (in time)"
+ },
+ {
+  "hanzi": "相比",
+  "pinyin": "xiāngbǐ",
+  "meaning_ru": "сравнивать (в сопоставлении)",
+  "meaning_en": "compare (by contrast, 相比之下)"
+ },
+ {
+  "hanzi": "深入",
+  "pinyin": "shēnrù",
+  "meaning_ru": "углублённый; вникать",
+  "meaning_en": "thorough; to go deep"
+ },
+ {
+  "hanzi": "情感",
+  "pinyin": "qínggǎn",
+  "meaning_ru": "эмоция; чувство (аффект.)",
+  "meaning_en": "emotion; feeling (affective)"
+ },
+ {
+  "hanzi": "人群",
+  "pinyin": "rénqún",
+  "meaning_ru": "толпа",
+  "meaning_en": "crowd"
+ },
+ {
+  "hanzi": "争",
+  "pinyin": "zhēng",
+  "meaning_ru": "бороться; спорить",
+  "meaning_en": "to strive for; argue"
+ },
+ {
+  "hanzi": "订",
+  "pinyin": "dìng",
+  "meaning_ru": "заказать; подписаться",
+  "meaning_en": "to order; subscribe"
+ },
+ {
+  "hanzi": "保安",
+  "pinyin": "bǎo'ān",
+  "meaning_ru": "охранник; охрана",
+  "meaning_en": "security guard; security"
+ },
+ {
+  "hanzi": "歌手",
+  "pinyin": "gēshǒu",
+  "meaning_ru": "певец, певица",
+  "meaning_en": "singer"
+ },
+ {
+  "hanzi": "看起来",
+  "pinyin": "kànqǐlai",
+  "meaning_ru": "на вид (≠ 似乎 «будто бы»)",
+  "meaning_en": "looks like (visual inference)"
+ },
+ {
+  "hanzi": "放到",
+  "pinyin": "fàngdào",
+  "meaning_ru": "поместить (куда-л.)",
+  "meaning_en": "put into; place at"
+ },
+ {
+  "hanzi": "静",
+  "pinyin": "jìng",
+  "meaning_ru": "тихий; спокойный (лит.)",
+  "meaning_en": "quiet; still (inner calm)"
+ },
+ {
+  "hanzi": "谈话",
+  "pinyin": "tánhuà",
+  "meaning_ru": "беседовать; беседа",
+  "meaning_en": "to talk; conversation"
+ },
+ {
+  "hanzi": "能不能",
+  "pinyin": "néngbùnéng",
+  "meaning_ru": "можно ли; можешь ли",
+  "meaning_en": "can you?; is it OK?"
+ },
+ {
+  "hanzi": "打破",
+  "pinyin": "dǎpò",
+  "meaning_ru": "разбить; нарушить (рекорд)",
+  "meaning_en": "smash; break (records too)"
+ },
+ {
+  "hanzi": "上来",
+  "pinyin": "shànglái",
+  "meaning_ru": "подниматься (к говорящему)",
+  "meaning_en": "come up (toward speaker)"
+ },
+ {
+  "hanzi": "西部",
+  "pinyin": "xībù",
+  "meaning_ru": "западная часть (региона)",
+  "meaning_en": "western part (region/country)"
+ },
+ {
+  "hanzi": "改造",
+  "pinyin": "gǎizào",
+  "meaning_ru": "преобразовать; перестроить",
+  "meaning_en": "to transform; remodel"
+ },
+ {
+  "hanzi": "不论",
+  "pinyin": "bùlùn",
+  "meaning_ru": "независимо от; что бы ни",
+  "meaning_en": "no matter; regardless"
+ },
+ {
+  "hanzi": "整天",
+  "pinyin": "zhěngtiān",
+  "meaning_ru": "весь день (нейтр.)",
+  "meaning_en": "all day long (neutral)"
+ },
+ {
+  "hanzi": "观看",
+  "pinyin": "guānkàn",
+  "meaning_ru": "смотреть (шоу, матч, спектакль)",
+  "meaning_en": "watch (show/match/performance)"
+ },
+ {
+  "hanzi": "房屋",
+  "pinyin": "fángwū",
+  "meaning_ru": "дом; строение (книжн.)",
+  "meaning_en": "house; building (formal)"
+ },
+ {
+  "hanzi": "得分",
+  "pinyin": "défēn",
+  "meaning_ru": "набрать очки; счёт",
+  "meaning_en": "to score; score"
+ },
+ {
+  "hanzi": "基本上",
+  "pinyin": "jīběnshang",
+  "meaning_ru": "в основном; по сути",
+  "meaning_en": "basically; on the whole"
+ },
+ {
+  "hanzi": "预计",
+  "pinyin": "yùjì",
+  "meaning_ru": "прогнозировать; ожидать",
+  "meaning_en": "to estimate; to forecast"
+ },
+ {
+  "hanzi": "加快",
+  "pinyin": "jiākuài",
+  "meaning_ru": "ускорять (темп, шире)",
+  "meaning_en": "speed up (pace/progress)"
+ },
+ {
+  "hanzi": "乐队",
+  "pinyin": "yuèduì",
+  "meaning_ru": "оркестр; группа",
+  "meaning_en": "band; orchestra"
+ },
+ {
+  "hanzi": "演唱会",
+  "pinyin": "yǎnchànghuì",
+  "meaning_ru": "концерт (вокальный/поп)",
+  "meaning_en": "vocal/pop concert; live show"
+ },
+ {
+  "hanzi": "演唱",
+  "pinyin": "yǎnchàng",
+  "meaning_ru": "петь на сцене (публично)",
+  "meaning_en": "perform (singing on stage)"
+ },
+ {
+  "hanzi": "会员",
+  "pinyin": "huìyuán",
+  "meaning_ru": "член (клуба/подписки)",
+  "meaning_en": "member (club/subscription)"
+ },
+ {
+  "hanzi": "生长",
+  "pinyin": "shēngzhǎng",
+  "meaning_ru": "расти (биологически)",
+  "meaning_en": "grow (biological, plants)"
+ },
+ {
+  "hanzi": "电视剧",
+  "pinyin": "diànshìjù",
+  "meaning_ru": "телесериал (жанр ТВ)",
+  "meaning_en": "TV drama/series"
+ },
+ {
+  "hanzi": "身份证",
+  "pinyin": "shēnfènzhèng",
+  "meaning_ru": "удостоверение личности",
+  "meaning_en": "ID card"
+ },
+ {
+  "hanzi": "收费",
+  "pinyin": "shōufèi",
+  "meaning_ru": "взимать плату (за услугу)",
+  "meaning_en": "to charge a fee"
+ },
+ {
+  "hanzi": "头脑",
+  "pinyin": "tóunǎo",
+  "meaning_ru": "ум; рассудок",
+  "meaning_en": "brains; mind"
+ },
+ {
+  "hanzi": "难度",
+  "pinyin": "nándù",
+  "meaning_ru": "степень сложности",
+  "meaning_en": "difficulty level"
+ },
+ {
+  "hanzi": "通信",
+  "pinyin": "tōngxìn",
+  "meaning_ru": "связь; переписка",
+  "meaning_en": "communication; correspond"
+ },
+ {
+  "hanzi": "环保",
+  "pinyin": "huánbǎo",
+  "meaning_ru": "охрана среды; эко",
+  "meaning_en": "environmental protection"
+ },
+ {
+  "hanzi": "发送",
+  "pinyin": "fāsòng",
+  "meaning_ru": "отправлять (цифр./офиц.)",
+  "meaning_en": "send (digitally/officially)"
+ },
+ {
+  "hanzi": "播出",
+  "pinyin": "bōchū",
+  "meaning_ru": "транслировать (передачу)",
+  "meaning_en": "to air (a specific broadcast)"
+ },
+ {
+  "hanzi": "巧",
+  "pinyin": "qiǎo",
+  "meaning_ru": "как раз; ловкий (контекст)",
+  "meaning_en": "coincidentally; skillful"
+ },
+ {
+  "hanzi": "整整",
+  "pinyin": "zhěngzhěng",
+  "meaning_ru": "целых (усилит. о длит.: 整整三天)",
+  "meaning_en": "a full (emphatic duration)"
+ },
+ {
+  "hanzi": "亲人",
+  "pinyin": "qīnrén",
+  "meaning_ru": "близкие (родственники)",
+  "meaning_en": "close relatives; loved ones"
+ },
+ {
+  "hanzi": "早已",
+  "pinyin": "zǎoyǐ",
+  "meaning_ru": "давно уже (нейтр.; ≠ 早就)",
+  "meaning_en": "long since (neutral; vs. 早就)"
+ },
+ {
+  "hanzi": "南部",
+  "pinyin": "nánbù",
+  "meaning_ru": "южная часть (территории)",
+  "meaning_en": "southern part (of a region)"
+ },
+ {
+  "hanzi": "没用",
+  "pinyin": "méiyòng",
+  "meaning_ru": "бесполезный",
+  "meaning_en": "useless"
+ },
+ {
+  "hanzi": "另一方面",
+  "pinyin": "lìngyīfāngmiàn",
+  "meaning_ru": "с другой стороны",
+  "meaning_en": "on the other hand"
+ },
+ {
+  "hanzi": "排名",
+  "pinyin": "páimíng",
+  "meaning_ru": "рейтинг; место в списке",
+  "meaning_en": "ranking; to rank"
+ },
+ {
+  "hanzi": "行李",
+  "pinyin": "xíngli",
+  "meaning_ru": "багаж",
+  "meaning_en": "luggage"
+ },
+ {
+  "hanzi": "东部",
+  "pinyin": "dōngbù",
+  "meaning_ru": "восточная часть; восток",
+  "meaning_en": "eastern part"
+ },
+ {
+  "hanzi": "传来",
+  "pinyin": "chuánlái",
+  "meaning_ru": "доноситься (звук, новости)",
+  "meaning_en": "come through (sound/news)"
+ },
+ {
+  "hanzi": "高速公路",
+  "pinyin": "gāosùgōnglù",
+  "meaning_ru": "автомагистраль; шоссе",
+  "meaning_en": "expressway; highway"
+ },
+ {
+  "hanzi": "北部",
+  "pinyin": "běibù",
+  "meaning_ru": "северная часть (места)",
+  "meaning_en": "northern part (of a place)"
+ },
+ {
+  "hanzi": "适用",
+  "pinyin": "shìyòng",
+  "meaning_ru": "применимый; подходящий",
+  "meaning_en": "applicable; to apply to"
+ },
+ {
+  "hanzi": "牌子",
+  "pinyin": "páizi",
+  "meaning_ru": "марка; бренд (разг.)",
+  "meaning_en": "brand; sign (colloquial)"
+ },
+ {
+  "hanzi": "金牌",
+  "pinyin": "jīnpái",
+  "meaning_ru": "золотая медаль",
+  "meaning_en": "gold medal"
+ },
+ {
+  "hanzi": "旅馆",
+  "pinyin": "lǚguǎn",
+  "meaning_ru": "гостиница (общее, устарев.)",
+  "meaning_en": "hotel; inn (generic, older)"
+ },
+ {
+  "hanzi": "志愿者",
+  "pinyin": "zhìyuànzhě",
+  "meaning_ru": "волонтёр; доброволец",
+  "meaning_en": "volunteer"
+ },
+ {
+  "hanzi": "短期",
+  "pinyin": "duǎnqī",
+  "meaning_ru": "краткосрочный",
+  "meaning_en": "short-term"
+ },
+ {
+  "hanzi": "全场",
+  "pinyin": "quánchǎng",
+  "meaning_ru": "весь зал/аудитория (событие)",
+  "meaning_en": "whole venue/audience"
+ },
+ {
+  "hanzi": "价钱",
+  "pinyin": "jiàqian",
+  "meaning_ru": "цена (разг., в сделке)",
+  "meaning_en": "price (colloquial, deal)"
+ },
+ {
+  "hanzi": "干吗",
+  "pinyin": "gànmá",
+  "meaning_ru": "зачем? (разг., нетерпеливо)",
+  "meaning_en": "why? / what for? (coll.)"
+ },
+ {
+  "hanzi": "底下",
+  "pinyin": "dǐxia",
+  "meaning_ru": "прямо под (физически)",
+  "meaning_en": "directly underneath"
+ },
+ {
+  "hanzi": "美食",
+  "pinyin": "měishí",
+  "meaning_ru": "вкусная еда; кулинария",
+  "meaning_en": "fine food; cuisine"
+ },
+ {
+  "hanzi": "中华民族",
+  "pinyin": "zhōnghuámínzú",
+  "meaning_ru": "китайская нация",
+  "meaning_en": "the Chinese nation"
+ },
+ {
+  "hanzi": "前后",
+  "pinyin": "qiánhòu",
+  "meaning_ru": "примерно; от начала до конца",
+  "meaning_en": "around; from start to end"
+ },
+ {
+  "hanzi": "学费",
+  "pinyin": "xuéfèi",
+  "meaning_ru": "плата за обучение",
+  "meaning_en": "tuition fee"
+ },
+ {
+  "hanzi": "中部",
+  "pinyin": "zhōngbù",
+  "meaning_ru": "центральная часть",
+  "meaning_en": "central part"
+ },
+ {
+  "hanzi": "歌声",
+  "pinyin": "gēshēng",
+  "meaning_ru": "пение; звук песни",
+  "meaning_en": "singing; sound of song"
+ },
+ {
+  "hanzi": "认出",
+  "pinyin": "rènchū",
+  "meaning_ru": "узнать с первого взгляда",
+  "meaning_en": "recognize on sight"
+ },
+ {
+  "hanzi": "可乐",
+  "pinyin": "kělè",
+  "meaning_ru": "кола (напиток)",
+  "meaning_en": "cola"
+ },
+ {
+  "hanzi": "近期",
+  "pinyin": "jìnqī",
+  "meaning_ru": "в ближайшее время / недавно",
+  "meaning_en": "near term; recently or soon"
+ },
+ {
+  "hanzi": "歌迷",
+  "pinyin": "gēmí",
+  "meaning_ru": "поклонник певца",
+  "meaning_en": "fan of a singer"
+ },
+ {
+  "hanzi": "解开",
+  "pinyin": "jiěkāi",
+  "meaning_ru": "развязать; разгадать",
+  "meaning_en": "to untie; to solve"
+ },
+ {
+  "hanzi": "初中",
+  "pinyin": "chūzhōng",
+  "meaning_ru": "средняя школа (мл.)",
+  "meaning_en": "junior high school"
+ },
+ {
+  "hanzi": "不光",
+  "pinyin": "bùguāng",
+  "meaning_ru": "не только (разговорн.)",
+  "meaning_en": "not only (colloquial)"
+ },
+ {
+  "hanzi": "子女",
+  "pinyin": "zǐnǚ",
+  "meaning_ru": "дети (офиц., юрид.)",
+  "meaning_en": "children; offspring (formal)"
+ },
+ {
+  "hanzi": "老太太",
+  "pinyin": "lǎotàitai",
+  "meaning_ru": "пожилая дама (уваж.)",
+  "meaning_en": "elderly lady (respectful)"
+ },
+ {
+  "hanzi": "上衣",
+  "pinyin": "shàngyī",
+  "meaning_ru": "куртка; рубашка (верх)",
+  "meaning_en": "jacket; upper garment"
+ },
+ {
+  "hanzi": "建成",
+  "pinyin": "jiànchéng",
+  "meaning_ru": "завершить строительство",
+  "meaning_en": "complete construction"
+ },
+ {
+  "hanzi": "一方面",
+  "pinyin": "yīfāngmiàn",
+  "meaning_ru": "с одной стороны",
+  "meaning_en": "on the one hand"
+ },
+ {
+  "hanzi": "动人",
+  "pinyin": "dòngrén",
+  "meaning_ru": "трогательный",
+  "meaning_en": "touching; moving"
+ },
+ {
+  "hanzi": "剧场",
+  "pinyin": "jùchǎng",
+  "meaning_ru": "театр (здание)",
+  "meaning_en": "theater"
+ },
+ {
+  "hanzi": "开业",
+  "pinyin": "kāiyè",
+  "meaning_ru": "открыть бизнес (открытие)",
+  "meaning_en": "open a business (event)"
+ },
+ {
+  "hanzi": "彩色",
+  "pinyin": "cǎisè",
+  "meaning_ru": "цветной, многоцв. (атриб.)",
+  "meaning_en": "multicolored; color (attr.)"
+ },
+ {
+  "hanzi": "收看",
+  "pinyin": "shōukàn",
+  "meaning_ru": "смотреть (телепередачу)",
+  "meaning_en": "watch (a TV program)"
+ },
+ {
+  "hanzi": "公务员",
+  "pinyin": "gōngwùyuán",
+  "meaning_ru": "госслужащий",
+  "meaning_en": "civil servant"
+ },
+ {
+  "hanzi": "世界杯",
+  "pinyin": "shìjièbēi",
+  "meaning_ru": "Кубок мира",
+  "meaning_en": "World Cup"
+ },
+ {
+  "hanzi": "听众",
+  "pinyin": "tīngzhòng",
+  "meaning_ru": "слушатели; аудитория",
+  "meaning_en": "audience; listeners"
+ },
+ {
+  "hanzi": "变为",
+  "pinyin": "biànwéi",
+  "meaning_ru": "превращаться в (книжн.)",
+  "meaning_en": "become; change into (formal)"
+ },
+ {
+  "hanzi": "志愿",
+  "pinyin": "zhìyuàn",
+  "meaning_ru": "стремление; добровольчество",
+  "meaning_en": "aspiration; to volunteer"
+ },
+ {
+  "hanzi": "职工",
+  "pinyin": "zhígōng",
+  "meaning_ru": "персонал учреждения/предпр.",
+  "meaning_en": "staff; workers (institution)"
+ },
+ {
+  "hanzi": "熟人",
+  "pinyin": "shúrén",
+  "meaning_ru": "знакомый",
+  "meaning_en": "acquaintance"
+ },
+ {
+  "hanzi": "认得",
+  "pinyin": "rènde",
+  "meaning_ru": "узнавать; знать (в лицо)",
+  "meaning_en": "recognize; know"
+ },
+ {
+  "hanzi": "邮票",
+  "pinyin": "yóupiào",
+  "meaning_ru": "почтовая марка",
+  "meaning_en": "postage stamp"
+ },
+ {
+  "hanzi": "推开",
+  "pinyin": "tuīkāi",
+  "meaning_ru": "распахнуть; оттолкнуть",
+  "meaning_en": "push open; push away"
+ },
+ {
+  "hanzi": "短裤",
+  "pinyin": "duǎnkù",
+  "meaning_ru": "шорты",
+  "meaning_en": "shorts"
+ },
+ {
+  "hanzi": "收听",
+  "pinyin": "shōutīng",
+  "meaning_ru": "слушать радио/эфир (≠ 倾听)",
+  "meaning_en": "listen to (broadcast/radio)"
+ },
+ {
+  "hanzi": "电子邮件",
+  "pinyin": "diànzǐyóujiàn",
+  "meaning_ru": "электронная почта",
+  "meaning_en": "email"
+ },
+ {
+  "hanzi": "衬衣",
+  "pinyin": "chènyī",
+  "meaning_ru": "рубашка (разг., общее)",
+  "meaning_en": "shirt (colloquial, generic)"
+ },
+ {
+  "hanzi": "班级",
+  "pinyin": "bānjí",
+  "meaning_ru": "класс (адм. единица)",
+  "meaning_en": "class as admin. group"
+ },
+ {
+  "hanzi": "现代化",
+  "pinyin": "xiàndàihuà",
+  "meaning_ru": "модернизация",
+  "meaning_en": "modernization"
+ },
+ {
+  "hanzi": "旅行社",
+  "pinyin": "lǚxíngshè",
+  "meaning_ru": "турагентство",
+  "meaning_en": "travel agency"
+ },
+ {
+  "hanzi": "话剧",
+  "pinyin": "huàjù",
+  "meaning_ru": "драма; спектакль",
+  "meaning_en": "stage play; drama"
+ },
+ {
+  "hanzi": "沙子",
+  "pinyin": "shāzi",
+  "meaning_ru": "песок",
+  "meaning_en": "sand"
+ },
+ {
+  "hanzi": "分组",
+  "pinyin": "fēnzǔ",
+  "meaning_ru": "делить на группы",
+  "meaning_en": "divide into groups"
+ },
+ {
+  "hanzi": "年底",
+  "pinyin": "niándǐ",
+  "meaning_ru": "конец года",
+  "meaning_en": "year-end"
+ },
+ {
+  "hanzi": "带动",
+  "pinyin": "dàidòng",
+  "meaning_ru": "побуждать; приводить в движ.",
+  "meaning_en": "drive; spur (ripple effect)"
+ },
+ {
+  "hanzi": "交警",
+  "pinyin": "jiāojǐng",
+  "meaning_ru": "сотрудник ДПС (дор. полиция)",
+  "meaning_en": "traffic police (officer)"
+ },
+ {
+  "hanzi": "代表团",
+  "pinyin": "dàibiǎotuán",
+  "meaning_ru": "делегация",
+  "meaning_en": "delegation"
+ },
+ {
+  "hanzi": "影视",
+  "pinyin": "yǐngshì",
+  "meaning_ru": "кино и ТВ",
+  "meaning_en": "film and television"
+ },
+ {
+  "hanzi": "国庆",
+  "pinyin": "guóqìng",
+  "meaning_ru": "День образования КНР (сокр.)",
+  "meaning_en": "National Day (abbrev. 国庆节)"
+ },
+ {
+  "hanzi": "所长",
+  "pinyin": "suǒzhǎng",
+  "meaning_ru": "директор (института)",
+  "meaning_en": "head of an institute/bureau"
+ },
+ {
+  "hanzi": "票价",
+  "pinyin": "piàojià",
+  "meaning_ru": "цена билета",
+  "meaning_en": "ticket price; fare"
+ },
+ {
+  "hanzi": "华人",
+  "pinyin": "huárén",
+  "meaning_ru": "этнический китаец (любой стр.)",
+  "meaning_en": "ethnic Chinese (any country)"
+ },
+ {
+  "hanzi": "有的是",
+  "pinyin": "yǒudeshì",
+  "meaning_ru": "сколько угодно",
+  "meaning_en": "have plenty of"
+ },
+ {
+  "hanzi": "皮包",
+  "pinyin": "píbāo",
+  "meaning_ru": "сумка; портфель",
+  "meaning_en": "handbag; briefcase"
+ },
+ {
+  "hanzi": "图画",
+  "pinyin": "túhuà",
+  "meaning_ru": "рисунок; картина (от руки)",
+  "meaning_en": "drawing; hand-drawn picture"
+ },
+ {
+  "hanzi": "长处",
+  "pinyin": "chángchù",
+  "meaning_ru": "сильная сторона",
+  "meaning_en": "strong point; merit"
+ },
+ {
+  "hanzi": "年初",
+  "pinyin": "niánchū",
+  "meaning_ru": "начало года",
+  "meaning_en": "beginning of the year"
+ },
+ {
+  "hanzi": "试题",
+  "pinyin": "shìtí",
+  "meaning_ru": "экзаменационный вопрос",
+  "meaning_en": "exam question"
+ },
+ {
+  "hanzi": "积极性",
+  "pinyin": "jījíxìng",
+  "meaning_ru": "активность; рвение (качество)",
+  "meaning_en": "enthusiasm; initiative"
+ },
+ {
+  "hanzi": "初一",
+  "pinyin": "chūyī",
+  "meaning_ru": "1-й день лун. мес. / 7-й кл.",
+  "meaning_en": "1st lunar day / 7th grade"
+ },
+ {
+  "hanzi": "奶茶",
+  "pinyin": "nǎichá",
+  "meaning_ru": "чай с молоком",
+  "meaning_en": "milk tea"
+ },
+ {
+  "hanzi": "银牌",
+  "pinyin": "yínpái",
+  "meaning_ru": "серебряная медаль",
+  "meaning_en": "silver medal"
+ },
+ {
+  "hanzi": "老头儿",
+  "pinyin": "lǎotóur",
+  "meaning_ru": "старик (разг., фамильярно)",
+  "meaning_en": "old man (colloquial, casual)"
+ },
+ {
+  "hanzi": "交费",
+  "pinyin": "jiāofèi",
+  "meaning_ru": "платить взнос/сбор (учрежд.)",
+  "meaning_en": "pay a fee (institutional)"
+ },
+ {
+  "hanzi": "凉水",
+  "pinyin": "liángshuǐ",
+  "meaning_ru": "холодная сырая вода",
+  "meaning_en": "cool unboiled water"
+ },
+ {
+  "hanzi": "跳高",
+  "pinyin": "tiàogāo",
+  "meaning_ru": "прыжки в высоту",
+  "meaning_en": "high jump"
+ },
+ {
+  "hanzi": "衣架",
+  "pinyin": "yījià",
+  "meaning_ru": "вешалка (для одежды)",
+  "meaning_en": "clothes hanger"
+ },
+ {
+  "hanzi": "外文",
+  "pinyin": "wàiwén",
+  "meaning_ru": "иностранный язык (письм.)",
+  "meaning_en": "foreign language (written)"
+ },
+ {
+  "hanzi": "短处",
+  "pinyin": "duǎnchù",
+  "meaning_ru": "слабая сторона (разг.)",
+  "meaning_en": "weak point (personal)"
+ },
+ {
+  "hanzi": "跳远",
+  "pinyin": "tiàoyuǎn",
+  "meaning_ru": "прыжки в длину",
+  "meaning_en": "long jump"
+ },
+ {
+  "hanzi": "后年",
+  "pinyin": "hòunián",
+  "meaning_ru": "год после следующего",
+  "meaning_en": "year after next"
+ },
+ {
+  "hanzi": "红酒",
+  "pinyin": "hóngjiǔ",
+  "meaning_ru": "красное вино",
+  "meaning_en": "red wine"
+ },
+ {
+  "hanzi": "首",
+  "pinyin": "shǒu",
+  "meaning_ru": "глава; первый; (сч. стихи)",
+  "meaning_en": "head; chief; cl. for poems"
+ },
+ {
+  "hanzi": "局",
+  "pinyin": "jú",
+  "meaning_ru": "ведомство; раунд (сч.)",
+  "meaning_en": "bureau; round (cl.)"
+ },
+ {
+  "hanzi": "轮",
+  "pinyin": "lún",
+  "meaning_ru": "колесо; чередоваться; (сч.)",
+  "meaning_en": "wheel; take turns; (cl.)"
+ },
+ {
+  "hanzi": "停下",
+  "pinyin": "tíngxià",
+  "meaning_ru": "остановиться (резко, сразу)",
+  "meaning_en": "stop abruptly (mid-action)"
+ },
+ {
+  "hanzi": "妻子",
+  "pinyin": "qīzǐ",
+  "meaning_ru": "жена (нейтр., письм.)",
+  "meaning_en": "wife (neutral; written form)"
+ },
+ {
+  "hanzi": "怪",
+  "pinyin": "guài",
+  "meaning_ru": "странный; винить",
+  "meaning_en": "strange; to blame"
+ },
+ {
+  "hanzi": "盘",
+  "pinyin": "pán",
+  "meaning_ru": "блюдо; поднос; (сч. порция)",
+  "meaning_en": "plate; tray; (cl. dish)"
+ },
+ {
+  "hanzi": "丈夫",
+  "pinyin": "zhàngfu",
+  "meaning_ru": "муж",
+  "meaning_en": "husband"
+ },
+ {
+  "hanzi": "牌",
+  "pinyin": "pái",
+  "meaning_ru": "карта; табличка; марка",
+  "meaning_en": "card; sign; brand"
+ },
+ {
+  "hanzi": "落",
+  "pinyin": "là",
+  "meaning_ru": "забыть; пропустить; отстать",
+  "meaning_en": "to leave out; miss"
+ },
+ {
+  "hanzi": "烧",
+  "pinyin": "shāo",
+  "meaning_ru": "жечь; готовить; жар (темп.)",
+  "meaning_en": "burn; cook; have a fever"
+ },
+ {
+  "hanzi": "季",
+  "pinyin": "jì",
+  "meaning_ru": "сезон (морфема)",
+  "meaning_en": "season (bound morpheme)"
+ },
+ {
+  "hanzi": "抽",
+  "pinyin": "chōu",
+  "meaning_ru": "вытянуть (скольз.); курить",
+  "meaning_en": "draw out (sliding); smoke"
+ },
+ {
+  "hanzi": "货",
+  "pinyin": "huò",
+  "meaning_ru": "товар; груз (вкл. грузовой)",
+  "meaning_en": "goods; cargo (incl. freight)"
+ },
+ {
+  "hanzi": "手里",
+  "pinyin": "shǒulǐ",
+  "meaning_ru": "в руках; на руках",
+  "meaning_en": "in hand; in one's hands"
+ },
+ {
+  "hanzi": "垃圾",
+  "pinyin": "lājī",
+  "meaning_ru": "мусор; хлам",
+  "meaning_en": "trash; garbage"
+ },
+ {
+  "hanzi": "赢得",
+  "pinyin": "yíngdé",
+  "meaning_ru": "завоевать (доверие, победу)",
+  "meaning_en": "win/earn (trust, victory)"
+ },
+ {
+  "hanzi": "替",
+  "pinyin": "tì",
+  "meaning_ru": "вместо кого-л.; замещать",
+  "meaning_en": "in place of; substitute for"
+ },
+ {
+  "hanzi": "色",
+  "pinyin": "sè",
+  "meaning_ru": "цвет (корень; в сложных сл.)",
+  "meaning_en": "color (root; in compounds)"
+ },
+ {
+  "hanzi": "编",
+  "pinyin": "biān",
+  "meaning_ru": "составлять; плести; выдумать",
+  "meaning_en": "compile; weave; make up"
+ },
+ {
+  "hanzi": "宝",
+  "pinyin": "bǎo",
+  "meaning_ru": "сокровище; (разг.) малыш",
+  "meaning_en": "treasure; darling (address)"
+ },
+ {
+  "hanzi": "宝宝",
+  "pinyin": "bǎobao",
+  "meaning_ru": "малыш; детка",
+  "meaning_en": "baby; darling"
+ },
+ {
+  "hanzi": "美女",
+  "pinyin": "měinǚ",
+  "meaning_ru": "красавица",
+  "meaning_en": "beautiful woman"
+ },
+ {
+  "hanzi": "药物",
+  "pinyin": "yàowù",
+  "meaning_ru": "лекарство; медикамент",
+  "meaning_en": "drug; medication (substance)"
+ },
+ {
+  "hanzi": "冰",
+  "pinyin": "bīng",
+  "meaning_ru": "лёд",
+  "meaning_en": "ice"
+ },
+ {
+  "hanzi": "结",
+  "pinyin": "jié",
+  "meaning_ru": "завязывать; узел",
+  "meaning_en": "to tie; knot"
+ },
+ {
+  "hanzi": "烦",
+  "pinyin": "fán",
+  "meaning_ru": "раздражаться; надоедать",
+  "meaning_en": "annoyed; to bother sb"
+ },
+ {
+  "hanzi": "付出",
+  "pinyin": "fùchū",
+  "meaning_ru": "вкладывать (усилия, чувства)",
+  "meaning_en": "expend (effort, emotion)"
+ },
+ {
+  "hanzi": "透",
+  "pinyin": "tòu",
+  "meaning_ru": "проникать; насквозь",
+  "meaning_en": "penetrate; thoroughly"
+ },
+ {
+  "hanzi": "治",
+  "pinyin": "zhì",
+  "meaning_ru": "лечить; управлять",
+  "meaning_en": "to treat; to govern"
+ },
+ {
+  "hanzi": "闹",
+  "pinyin": "nào",
+  "meaning_ru": "шуметь; буянить; скандалить",
+  "meaning_en": "make noise; fuss; cause row"
+ },
+ {
+  "hanzi": "检测",
+  "pinyin": "jiǎncè",
+  "meaning_ru": "выявлять; измерять (прибором)",
+  "meaning_en": "detect/measure (instrument)"
+ },
+ {
+  "hanzi": "列",
+  "pinyin": "liè",
+  "meaning_ru": "ряд; перечислять (письм.)",
+  "meaning_en": "column/series; enumerate"
+ },
+ {
+  "hanzi": "户",
+  "pinyin": "hù",
+  "meaning_ru": "двор; семья (счётн.)",
+  "meaning_en": "household; door"
+ },
+ {
+  "hanzi": "归",
+  "pinyin": "guī",
+  "meaning_ru": "вернуться (кн.); принадлежать",
+  "meaning_en": "return (lit.); belong to"
+ },
+ {
+  "hanzi": "挑",
+  "pinyin": "tiǎo",
+  "meaning_ru": "выбирать придирчиво",
+  "meaning_en": "pick choosily (fussy)"
+ },
+ {
+  "hanzi": "老公",
+  "pinyin": "lǎogōng",
+  "meaning_ru": "муж (разг.)",
+  "meaning_en": "husband (coll.)"
+ },
+ {
+  "hanzi": "吸",
+  "pinyin": "xī",
+  "meaning_ru": "вдыхать; всасывать",
+  "meaning_en": "inhale; suck in"
+ },
+ {
+  "hanzi": "箱",
+  "pinyin": "xiāng",
+  "meaning_ru": "ящик; коробка",
+  "meaning_en": "box; trunk; case"
+ },
+ {
+  "hanzi": "下降",
+  "pinyin": "xiàjiàng",
+  "meaning_ru": "снижаться (количественно)",
+  "meaning_en": "drop; decline (measurable)"
+ },
+ {
+  "hanzi": "兵",
+  "pinyin": "bīng",
+  "meaning_ru": "солдат; войско",
+  "meaning_en": "soldier; troops"
+ },
+ {
+  "hanzi": "回复",
+  "pinyin": "huífù",
+  "meaning_ru": "ответить (на письмо)",
+  "meaning_en": "to reply"
+ },
+ {
+  "hanzi": "牙",
+  "pinyin": "yá",
+  "meaning_ru": "зуб",
+  "meaning_en": "tooth"
+ },
+ {
+  "hanzi": "肥",
+  "pinyin": "féi",
+  "meaning_ru": "жирный (о животных, одежде)",
+  "meaning_en": "fat (animals/baggy clothes)"
+ },
+ {
+  "hanzi": "湿",
+  "pinyin": "shī",
+  "meaning_ru": "мокрый (намочен); влажный",
+  "meaning_en": "wet (soaked); moist"
+ },
+ {
+  "hanzi": "守",
+  "pinyin": "shǒu",
+  "meaning_ru": "охранять; соблюдать",
+  "meaning_en": "to guard; to abide by"
+ },
+ {
+  "hanzi": "法官",
+  "pinyin": "fǎguān",
+  "meaning_ru": "судья",
+  "meaning_en": "judge"
+ },
+ {
+  "hanzi": "松",
+  "pinyin": "sōng",
+  "meaning_ru": "рыхлый; ослабленный (не тугой)",
+  "meaning_en": "loose; slack; to loosen"
+ },
+ {
+  "hanzi": "登",
+  "pinyin": "dēng",
+  "meaning_ru": "подниматься (лестница, сцена)",
+  "meaning_en": "climb; ascend (stairs, stage)"
+ },
+ {
+  "hanzi": "遇",
+  "pinyin": "yù",
+  "meaning_ru": "встретить; столкнуться",
+  "meaning_en": "encounter (often unplanned)"
+ },
+ {
+  "hanzi": "引",
+  "pinyin": "yǐn",
+  "meaning_ru": "тянуть; привлекать",
+  "meaning_en": "pull; attract; lead"
+ },
+ {
+  "hanzi": "降",
+  "pinyin": "jiàng",
+  "meaning_ru": "понижаться; опускаться",
+  "meaning_en": "descend; lower (root)"
+ },
+ {
+  "hanzi": "睡着",
+  "pinyin": "shuìzháo",
+  "meaning_ru": "заснуть",
+  "meaning_en": "to fall asleep"
+ },
+ {
+  "hanzi": "地下",
+  "pinyin": "dìxià",
+  "meaning_ru": "подземный; подпольный",
+  "meaning_en": "underground; clandestine"
+ },
+ {
+  "hanzi": "闪",
+  "pinyin": "shǎn",
+  "meaning_ru": "увернуться; сверкнуть",
+  "meaning_en": "to dodge; to flash"
+ },
+ {
+  "hanzi": "袋",
+  "pinyin": "dài",
+  "meaning_ru": "мешок; сумка",
+  "meaning_en": "bag; sack"
+ },
+ {
+  "hanzi": "散",
+  "pinyin": "sàn",
+  "meaning_ru": "рассеяться; разойтись",
+  "meaning_en": "to scatter; disperse"
+ },
+ {
+  "hanzi": "战士",
+  "pinyin": "zhànshì",
+  "meaning_ru": "боец; солдат",
+  "meaning_en": "soldier; fighter"
+ },
+ {
+  "hanzi": "针",
+  "pinyin": "zhēn",
+  "meaning_ru": "игла; укол",
+  "meaning_en": "needle; injection"
+ },
+ {
+  "hanzi": "装置",
+  "pinyin": "zhuāngzhì",
+  "meaning_ru": "устройство; установка",
+  "meaning_en": "device; installation"
+ },
+ {
+  "hanzi": "划",
+  "pinyin": "huá",
+  "meaning_ru": "грести; чиркнуть",
+  "meaning_en": "to row; to scratch"
+ },
+ {
+  "hanzi": "移",
+  "pinyin": "yí",
+  "meaning_ru": "перемещать; переносить",
+  "meaning_en": "move; transfer (emigrate)"
+ },
+ {
+  "hanzi": "测",
+  "pinyin": "cè",
+  "meaning_ru": "измерять; тестировать",
+  "meaning_en": "measure; test (root)"
+ },
+ {
+  "hanzi": "医学",
+  "pinyin": "yīxué",
+  "meaning_ru": "медицина (наука, отрасль)",
+  "meaning_en": "medicine (the science/field)"
+ },
+ {
+  "hanzi": "运动员",
+  "pinyin": "yùndòngyuán",
+  "meaning_ru": "спортсмен",
+  "meaning_en": "athlete"
+ },
+ {
+  "hanzi": "姐妹",
+  "pinyin": "jiěmèi",
+  "meaning_ru": "сёстры",
+  "meaning_en": "sisters"
+ },
+ {
+  "hanzi": "外套",
+  "pinyin": "wàitào",
+  "meaning_ru": "пальто; куртка (верхн.)",
+  "meaning_en": "coat; jacket (outerwear)"
+ },
+ {
+  "hanzi": "聚",
+  "pinyin": "jù",
+  "meaning_ru": "собираться (люди или вещи)",
+  "meaning_en": "gather naturally (people/things)"
+ },
+ {
+  "hanzi": "黑暗",
+  "pinyin": "hēiʼàn",
+  "meaning_ru": "тьма; тёмный (физ./нравств.)",
+  "meaning_en": "darkness (physical or moral)"
+ },
+ {
+  "hanzi": "含",
+  "pinyin": "hán",
+  "meaning_ru": "содержать; держать во рту",
+  "meaning_en": "to contain; hold in mouth"
+ },
+ {
+  "hanzi": "地面",
+  "pinyin": "dìmiàn",
+  "meaning_ru": "земля; поверхность",
+  "meaning_en": "ground; floor (underfoot)"
+ },
+ {
+  "hanzi": "纯",
+  "pinyin": "chún",
+  "meaning_ru": "чистый; беспримесный",
+  "meaning_en": "pure; unmixed"
+ },
+ {
+  "hanzi": "稳",
+  "pinyin": "wěn",
+  "meaning_ru": "устойчивый (не качается)",
+  "meaning_en": "steady (not wobbling)"
+ },
+ {
+  "hanzi": "遇见",
+  "pinyin": "yùjiàn",
+  "meaning_ru": "встретить (разг.; случайно)",
+  "meaning_en": "run into; meet by chance"
+ },
+ {
+  "hanzi": "夫妻",
+  "pinyin": "fūqī",
+  "meaning_ru": "супруги (разг.-нейтр.)",
+  "meaning_en": "married couple (everyday)"
+ },
+ {
+  "hanzi": "眼泪",
+  "pinyin": "yǎnlèi",
+  "meaning_ru": "слёзы (нейтр., повседнев.)",
+  "meaning_en": "tears (neutral, everyday)"
+ },
+ {
+  "hanzi": "隔",
+  "pinyin": "gé",
+  "meaning_ru": "отделять; через (интервал)",
+  "meaning_en": "separate; at an interval"
+ },
+ {
+  "hanzi": "供应",
+  "pinyin": "gōngyìng",
+  "meaning_ru": "снабжать; поставлять",
+  "meaning_en": "to supply; provide"
+ },
+ {
+  "hanzi": "战胜",
+  "pinyin": "zhànshèng",
+  "meaning_ru": "победить, одолеть (торж.)",
+  "meaning_en": "overcome (battle/hardship)"
+ },
+ {
+  "hanzi": "密",
+  "pinyin": "mì",
+  "meaning_ru": "плотный; тайный, секретный",
+  "meaning_en": "dense; covert, secret"
+ },
+ {
+  "hanzi": "独自",
+  "pinyin": "dúzì",
+  "meaning_ru": "в одиночку; сам",
+  "meaning_en": "alone; by oneself"
+ },
+ {
+  "hanzi": "大哥",
+  "pinyin": "dàgē",
+  "meaning_ru": "старший брат",
+  "meaning_en": "eldest brother"
+ },
+ {
+  "hanzi": "大众",
+  "pinyin": "dàzhòng",
+  "meaning_ru": "массы; публика (офиц.)",
+  "meaning_en": "the masses; public (formal)"
+ },
+ {
+  "hanzi": "减",
+  "pinyin": "jiǎn",
+  "meaning_ru": "уменьшать; вычитать (матем.)",
+  "meaning_en": "reduce; subtract (math)"
+ },
+ {
+  "hanzi": "末",
+  "pinyin": "mò",
+  "meaning_ru": "конец; последний",
+  "meaning_en": "end; last"
+ },
+ {
+  "hanzi": "细",
+  "pinyin": "xì",
+  "meaning_ru": "тонкий (диаметр); мелкий",
+  "meaning_en": "thin (diameter); fine"
+ },
+ {
+  "hanzi": "出售",
+  "pinyin": "chūshòu",
+  "meaning_ru": "продавать (офиц./вывески)",
+  "meaning_en": "offer for sale (formal)"
+ },
+ {
+  "hanzi": "堵",
+  "pinyin": "dǔ",
+  "meaning_ru": "загораживать; пробка",
+  "meaning_en": "to block up; jam"
+ },
+ {
+  "hanzi": "拍照",
+  "pinyin": "pāizhào",
+  "meaning_ru": "фотографировать",
+  "meaning_en": "to take a photo"
+ },
+ {
+  "hanzi": "轻易",
+  "pinyin": "qīngyì",
+  "meaning_ru": "легко; опрометчиво",
+  "meaning_en": "easily; rashly"
+ },
+ {
+  "hanzi": "大楼",
+  "pinyin": "dàlóu",
+  "meaning_ru": "высотное здание",
+  "meaning_en": "large building"
+ },
+ {
+  "hanzi": "名人",
+  "pinyin": "míngrén",
+  "meaning_ru": "знаменитость (все сферы)",
+  "meaning_en": "notable person (any field)"
+ },
+ {
+  "hanzi": "转身",
+  "pinyin": "zhuǎnshēn",
+  "meaning_ru": "повернуться; обернуться",
+  "meaning_en": "to turn around"
+ },
+ {
+  "hanzi": "投诉",
+  "pinyin": "tóusù",
+  "meaning_ru": "жалоба; жаловаться",
+  "meaning_en": "to complain; complaint"
+ },
+ {
+  "hanzi": "体重",
+  "pinyin": "tǐzhòng",
+  "meaning_ru": "вес тела",
+  "meaning_en": "body weight"
+ },
+ {
+  "hanzi": "面试",
+  "pinyin": "miànshì",
+  "meaning_ru": "собеседование",
+  "meaning_en": "job interview"
+ },
+ {
+  "hanzi": "无所谓",
+  "pinyin": "wúsuǒwèi",
+  "meaning_ru": "всё равно; без разницы",
+  "meaning_en": "doesn't matter; indifferent"
+ },
+ {
+  "hanzi": "沉",
+  "pinyin": "chén",
+  "meaning_ru": "тонуть; тяжёлый",
+  "meaning_en": "to sink; heavy"
+ },
+ {
+  "hanzi": "伙",
+  "pinyin": "huǒ",
+  "meaning_ru": "компания; банда (разг.)",
+  "meaning_en": "gang; partner (colloquial)"
+ },
+ {
+  "hanzi": "装修",
+  "pinyin": "zhuāngxiū",
+  "meaning_ru": "ремонт и отделка (строит.)",
+  "meaning_en": "renovate (construction work)"
+ },
+ {
+  "hanzi": "填",
+  "pinyin": "tián",
+  "meaning_ru": "заполнять; набивать",
+  "meaning_en": "to fill in; stuff"
+ },
+ {
+  "hanzi": "唱片",
+  "pinyin": "chàngpiàn",
+  "meaning_ru": "пластинка; альбом",
+  "meaning_en": "record; music album"
+ },
+ {
+  "hanzi": "有限",
+  "pinyin": "yǒuxiàn",
+  "meaning_ru": "ограниченный",
+  "meaning_en": "limited; finite"
+ },
+ {
+  "hanzi": "眼里",
+  "pinyin": "yǎnli",
+  "meaning_ru": "в глазах; на взгляд",
+  "meaning_en": "in one's eyes"
+ },
+ {
+  "hanzi": "不在乎",
+  "pinyin": "bùzàihu",
+  "meaning_ru": "наплевать; всё равно",
+  "meaning_en": "not to care"
+ },
+ {
+  "hanzi": "粗",
+  "pinyin": "cū",
+  "meaning_ru": "толстый (диаметр); грубый",
+  "meaning_en": "thick (diameter); coarse"
+ },
+ {
+  "hanzi": "列车",
+  "pinyin": "lièchē",
+  "meaning_ru": "поезд (офиц., о составах)",
+  "meaning_en": "train (formal; scheduled)"
+ },
+ {
+  "hanzi": "喜爱",
+  "pinyin": "xǐʼài",
+  "meaning_ru": "любить (предпочтение, мягче)",
+  "meaning_en": "like; be fond of (lighter)"
+ },
+ {
+  "hanzi": "败",
+  "pinyin": "bài",
+  "meaning_ru": "потерпеть поражение (книжн.)",
+  "meaning_en": "be defeated (literary)"
+ },
+ {
+  "hanzi": "好友",
+  "pinyin": "hǎoyǒu",
+  "meaning_ru": "близкий друг (личн.)",
+  "meaning_en": "close friend (non-family)"
+ },
+ {
+  "hanzi": "尺",
+  "pinyin": "chǐ",
+  "meaning_ru": "чи (≈1/3 м); линейка",
+  "meaning_en": "chi (unit); ruler"
+ },
+ {
+  "hanzi": "胖子",
+  "pinyin": "pàngzi",
+  "meaning_ru": "толстяк",
+  "meaning_en": "fat person (coll.)"
+ },
+ {
+  "hanzi": "男女",
+  "pinyin": "nánnǚ",
+  "meaning_ru": "мужчины и женщины",
+  "meaning_en": "men and women"
+ },
+ {
+  "hanzi": "收回",
+  "pinyin": "shōuhuí",
+  "meaning_ru": "вернуть; отозвать",
+  "meaning_en": "take back; reclaim"
+ },
+ {
+  "hanzi": "渐渐",
+  "pinyin": "jiànjiàn",
+  "meaning_ru": "постепенно (незаметно)",
+  "meaning_en": "gradually (natural, subtle)"
+ },
+ {
+  "hanzi": "亲密",
+  "pinyin": "qīnmì",
+  "meaning_ru": "близкий; интимный (эмоц.)",
+  "meaning_en": "intimate; emotionally close"
+ },
+ {
+  "hanzi": "口袋",
+  "pinyin": "kǒudài",
+  "meaning_ru": "карман; мешок",
+  "meaning_en": "pocket; bag"
+ },
+ {
+  "hanzi": "无限",
+  "pinyin": "wúxiàn",
+  "meaning_ru": "безграничный",
+  "meaning_en": "unlimited; infinite"
+ },
+ {
+  "hanzi": "嘴巴",
+  "pinyin": "zuǐba",
+  "meaning_ru": "рот",
+  "meaning_en": "mouth"
+ },
+ {
+  "hanzi": "扫",
+  "pinyin": "sǎo",
+  "meaning_ru": "подметать",
+  "meaning_en": "to sweep"
+ },
+ {
+  "hanzi": "含量",
+  "pinyin": "hánliàng",
+  "meaning_ru": "содержание (доля компонента)",
+  "meaning_en": "measurable content (e.g. %)"
+ },
+ {
+  "hanzi": "挑选",
+  "pinyin": "tiāoxuǎn",
+  "meaning_ru": "выбирать (по предпочтениям)",
+  "meaning_en": "pick (by personal preference)"
+ },
+ {
+  "hanzi": "灯光",
+  "pinyin": "dēngguāng",
+  "meaning_ru": "искусств. освещение (≠ 光线)",
+  "meaning_en": "artificial lighting (≠ 光线)"
+ },
+ {
+  "hanzi": "健身",
+  "pinyin": "jiànshēn",
+  "meaning_ru": "фитнес; качаться",
+  "meaning_en": "to work out; fitness"
+ },
+ {
+  "hanzi": "比分",
+  "pinyin": "bǐfēn",
+  "meaning_ru": "счёт (в игре)",
+  "meaning_en": "score (in a game)"
+ },
+ {
+  "hanzi": "江",
+  "pinyin": "jiāng",
+  "meaning_ru": "река (большая)",
+  "meaning_en": "river; large river"
+ },
+ {
+  "hanzi": "办事",
+  "pinyin": "bànshì",
+  "meaning_ru": "вести дела; хлопотать",
+  "meaning_en": "handle affairs; do tasks"
+ },
+ {
+  "hanzi": "塑料",
+  "pinyin": "sùliào",
+  "meaning_ru": "пластик; пластмасса",
+  "meaning_en": "plastic"
+ },
+ {
+  "hanzi": "做梦",
+  "pinyin": "zuòmèng",
+  "meaning_ru": "видеть сон; мечтать (вообще)",
+  "meaning_en": "dream (sleep); daydream"
+ },
+ {
+  "hanzi": "被迫",
+  "pinyin": "bèipò",
+  "meaning_ru": "быть вынужденным",
+  "meaning_en": "to be forced"
+ },
+ {
+  "hanzi": "台上",
+  "pinyin": "táishàng",
+  "meaning_ru": "на сцене",
+  "meaning_en": "on stage"
+ },
+ {
+  "hanzi": "获取",
+  "pinyin": "huòqǔ",
+  "meaning_ru": "добывать, извлекать",
+  "meaning_en": "acquire (actively fetch)"
+ },
+ {
+  "hanzi": "成人",
+  "pinyin": "chéngrén",
+  "meaning_ru": "взрослый (офиц.)",
+  "meaning_en": "adult (formal/written)"
+ },
+ {
+  "hanzi": "招呼",
+  "pinyin": "zhāohu",
+  "meaning_ru": "здороваться; окликать",
+  "meaning_en": "to greet; call out"
+ },
+ {
+  "hanzi": "小型",
+  "pinyin": "xiǎoxíng",
+  "meaning_ru": "малогабаритный",
+  "meaning_en": "small-scale"
+ },
+ {
+  "hanzi": "胸部",
+  "pinyin": "xiōngbù",
+  "meaning_ru": "грудь (анатом.)",
+  "meaning_en": "chest (anatomical area)"
+ },
+ {
+  "hanzi": "楼梯",
+  "pinyin": "lóutī",
+  "meaning_ru": "лестница",
+  "meaning_en": "staircase"
+ },
+ {
+  "hanzi": "没错",
+  "pinyin": "méicuò",
+  "meaning_ru": "верно; точно",
+  "meaning_en": "that's right; correct"
+ },
+ {
+  "hanzi": "身高",
+  "pinyin": "shēngāo",
+  "meaning_ru": "рост",
+  "meaning_en": "height (measured, formal)"
+ },
+ {
+  "hanzi": "玉",
+  "pinyin": "yù",
+  "meaning_ru": "нефрит; жадеит",
+  "meaning_en": "jade"
+ },
+ {
+  "hanzi": "打败",
+  "pinyin": "dǎbài",
+  "meaning_ru": "разбить, победить (соперника)",
+  "meaning_en": "defeat (an opponent, direct)"
+ },
+ {
+  "hanzi": "含有",
+  "pinyin": "hányǒu",
+  "meaning_ru": "содержать (вещество)",
+  "meaning_en": "contain (substance/element)"
+ },
+ {
+  "hanzi": "潮",
+  "pinyin": "cháo",
+  "meaning_ru": "прилив; сырой (влажный)",
+  "meaning_en": "tide; damp/humid (excess)"
+ },
+ {
+  "hanzi": "拉开",
+  "pinyin": "lākāi",
+  "meaning_ru": "раздвинуть; растянуть",
+  "meaning_en": "to pull open; widen gap"
+ },
+ {
+  "hanzi": "大规模",
+  "pinyin": "dàguīmó",
+  "meaning_ru": "крупномасштабный (≠ 大型)",
+  "meaning_en": "large-scale in scope (≠ 大型)"
+ },
+ {
+  "hanzi": "大多",
+  "pinyin": "dàduō",
+  "meaning_ru": "большинство; большей частью",
+  "meaning_en": "most of; mostly (quantity)"
+ },
+ {
+  "hanzi": "男士",
+  "pinyin": "nánshì",
+  "meaning_ru": "мужчина (вежл., услуги)",
+  "meaning_en": "gentleman (polite, service)"
+ },
+ {
+  "hanzi": "上门",
+  "pinyin": "shàngmén",
+  "meaning_ru": "прийти на дом; зайти",
+  "meaning_en": "to visit; call at home"
+ },
+ {
+  "hanzi": "童年",
+  "pinyin": "tóngnián",
+  "meaning_ru": "детство",
+  "meaning_en": "childhood"
+ },
+ {
+  "hanzi": "市区",
+  "pinyin": "shìqū",
+  "meaning_ru": "городской район; центр",
+  "meaning_en": "urban area; downtown"
+ },
+ {
+  "hanzi": "泪",
+  "pinyin": "lèi",
+  "meaning_ru": "слёзы (книжн., в словах)",
+  "meaning_en": "tears (literary/compounds)"
+ },
+ {
+  "hanzi": "汇",
+  "pinyin": "huì",
+  "meaning_ru": "переводить деньги (морфема)",
+  "meaning_en": "remit money (base morpheme)"
+ },
+ {
+  "hanzi": "商务",
+  "pinyin": "shāngwù",
+  "meaning_ru": "бизнес (официально-деловой)",
+  "meaning_en": "business (formal context)"
+ },
+ {
+  "hanzi": "燃料",
+  "pinyin": "ránliào",
+  "meaning_ru": "топливо (любого вида)",
+  "meaning_en": "fuel (any type, general)"
+ },
+ {
+  "hanzi": "替代",
+  "pinyin": "tìdài",
+  "meaning_ru": "замещать (системно)",
+  "meaning_en": "substitute (abstract/systemic)"
+ },
+ {
+  "hanzi": "美金",
+  "pinyin": "měijīn",
+  "meaning_ru": "доллар США (разг.)",
+  "meaning_en": "US dollar (informal, spoken)"
+ },
+ {
+  "hanzi": "箱子",
+  "pinyin": "xiāngzi",
+  "meaning_ru": "чемодан; большой ящик",
+  "meaning_en": "suitcase; large box"
+ },
+ {
+  "hanzi": "严",
+  "pinyin": "yán",
+  "meaning_ru": "строгий; суровый",
+  "meaning_en": "strict; stern"
+ },
+ {
+  "hanzi": "尺寸",
+  "pinyin": "chǐcun",
+  "meaning_ru": "размер; габариты",
+  "meaning_en": "size; dimensions"
+ },
+ {
+  "hanzi": "穿上",
+  "pinyin": "chuānshang",
+  "meaning_ru": "надеть (одежду)",
+  "meaning_en": "to put on (clothes)"
+ },
+ {
+  "hanzi": "吸烟",
+  "pinyin": "xīyān",
+  "meaning_ru": "курить (офиц./таблички)",
+  "meaning_en": "smoke (formal/signs)"
+ },
+ {
+  "hanzi": "途中",
+  "pinyin": "túzhōng",
+  "meaning_ru": "в пути; по дороге",
+  "meaning_en": "en route; on the way"
+ },
+ {
+  "hanzi": "鲜",
+  "pinyin": "xiān",
+  "meaning_ru": "свежий",
+  "meaning_en": "fresh"
+ },
+ {
+  "hanzi": "避",
+  "pinyin": "bì",
+  "meaning_ru": "избегать (намеренно)",
+  "meaning_en": "avoid (deliberately)"
+ },
+ {
+  "hanzi": "诗人",
+  "pinyin": "shīrén",
+  "meaning_ru": "поэт",
+  "meaning_en": "poet"
+ },
+ {
+  "hanzi": "瓜",
+  "pinyin": "guā",
+  "meaning_ru": "тыква; дыня (бахчевые)",
+  "meaning_en": "melon; gourd"
+ },
+ {
+  "hanzi": "语音",
+  "pinyin": "yǔyīn",
+  "meaning_ru": "звуки речи; голосовое сообщ.",
+  "meaning_en": "speech sounds; voice msg"
+ },
+ {
+  "hanzi": "上个月",
+  "pinyin": "shànggèyuè",
+  "meaning_ru": "прошлый месяц",
+  "meaning_en": "last month"
+ },
+ {
+  "hanzi": "毕业生",
+  "pinyin": "bìyèshēng",
+  "meaning_ru": "выпускник",
+  "meaning_en": "graduate (any degree)"
+ },
+ {
+  "hanzi": "帅哥",
+  "pinyin": "shuàigē",
+  "meaning_ru": "красавчик (разг. обращение)",
+  "meaning_en": "handsome guy (coll. address)"
+ },
+ {
+  "hanzi": "老家",
+  "pinyin": "lǎojiā",
+  "meaning_ru": "родина (разг., корни семьи)",
+  "meaning_en": "hometown (coll., roots)"
+ },
+ {
+  "hanzi": "寒冷",
+  "pinyin": "hánlěng",
+  "meaning_ru": "холодный; морозный (общ.)",
+  "meaning_en": "cold; frigid (general adj.)"
+ },
+ {
+  "hanzi": "鲜花",
+  "pinyin": "xiānhuā",
+  "meaning_ru": "(свежие) цветы",
+  "meaning_en": "fresh flowers"
+ },
+ {
+  "hanzi": "冬季",
+  "pinyin": "dōngjì",
+  "meaning_ru": "зимний сезон (офиц., метео.)",
+  "meaning_en": "winter season (formal)"
+ },
+ {
+  "hanzi": "穷人",
+  "pinyin": "qióngrén",
+  "meaning_ru": "бедняк; бедные",
+  "meaning_en": "poor people; the poor"
+ },
+ {
+  "hanzi": "宁静",
+  "pinyin": "níngjìng",
+  "meaning_ru": "безмятежный (атмосфера)",
+  "meaning_en": "serene (environment; poetic)"
+ },
+ {
+  "hanzi": "树林",
+  "pinyin": "shùlín",
+  "meaning_ru": "роща; лесок (небольшой)",
+  "meaning_en": "woods; grove (small stand)"
+ },
+ {
+  "hanzi": "以内",
+  "pinyin": "yǐnèi",
+  "meaning_ru": "не более (количеств.: 一周以内)",
+  "meaning_en": "within; not exceeding (qty)"
+ },
+ {
+  "hanzi": "多种",
+  "pinyin": "duōzhǒng",
+  "meaning_ru": "много видов; разнообразные",
+  "meaning_en": "many kinds; multiple types"
+ },
+ {
+  "hanzi": "型号",
+  "pinyin": "xínghào",
+  "meaning_ru": "модель изделия (с номером)",
+  "meaning_en": "product model number; spec"
+ },
+ {
+  "hanzi": "快递",
+  "pinyin": "kuàidì",
+  "meaning_ru": "экспресс-доставка",
+  "meaning_en": "express delivery"
+ },
+ {
+  "hanzi": "新型",
+  "pinyin": "xīnxíng",
+  "meaning_ru": "новый тип; нового типа",
+  "meaning_en": "new type; novel"
+ },
+ {
+  "hanzi": "酸奶",
+  "pinyin": "suānnǎi",
+  "meaning_ru": "йогурт",
+  "meaning_en": "yogurt"
+ },
+ {
+  "hanzi": "耳机",
+  "pinyin": "ěrjī",
+  "meaning_ru": "наушники",
+  "meaning_en": "headphones; earphones"
+ },
+ {
+  "hanzi": "两边",
+  "pinyin": "liǎngbian",
+  "meaning_ru": "обе стороны (физически)",
+  "meaning_en": "both sides (spatial)"
+ },
+ {
+  "hanzi": "暑假",
+  "pinyin": "shǔjià",
+  "meaning_ru": "летние каникулы (учеб.)",
+  "meaning_en": "summer vacation (academic)"
+ },
+ {
+  "hanzi": "梦见",
+  "pinyin": "mèngjiàn",
+  "meaning_ru": "увидеть во сне (конкретное)",
+  "meaning_en": "dream of (see sth in dream)"
+ },
+ {
+  "hanzi": "夏季",
+  "pinyin": "xiàjì",
+  "meaning_ru": "летний сезон (офиц.)",
+  "meaning_en": "summer (formal/written)"
+ },
+ {
+  "hanzi": "获奖",
+  "pinyin": "huòjiǎng",
+  "meaning_ru": "получить награду (за заслуги)",
+  "meaning_en": "win an award (by merit)"
+ },
+ {
+  "hanzi": "种植",
+  "pinyin": "zhòngzhí",
+  "meaning_ru": "сажать; выращивать",
+  "meaning_en": "to plant; to grow"
+ },
+ {
+  "hanzi": "爱国",
+  "pinyin": "àiguó",
+  "meaning_ru": "патриотичный; любить родину",
+  "meaning_en": "patriotic"
+ },
+ {
+  "hanzi": "种类",
+  "pinyin": "zhǒnglèi",
+  "meaning_ru": "виды; разнообразие типов",
+  "meaning_en": "kinds; range of types"
+ },
+ {
+  "hanzi": "奖学金",
+  "pinyin": "jiǎngxuéjīn",
+  "meaning_ru": "стипендия",
+  "meaning_en": "scholarship"
+ },
+ {
+  "hanzi": "泪水",
+  "pinyin": "lèishuǐ",
+  "meaning_ru": "слёзы (образно, письменно)",
+  "meaning_en": "tears (expressive, written)"
+ },
+ {
+  "hanzi": "步行",
+  "pinyin": "bùxíng",
+  "meaning_ru": "идти пешком",
+  "meaning_en": "to go on foot"
+ },
+ {
+  "hanzi": "使劲",
+  "pinyin": "shǐjìn",
+  "meaning_ru": "напрягаться (в моменте)",
+  "meaning_en": "exert force/effort (now)"
+ },
+ {
+  "hanzi": "中奖",
+  "pinyin": "zhòngjiǎng",
+  "meaning_ru": "выиграть в лотерею",
+  "meaning_en": "win a prize by luck"
+ },
+ {
+  "hanzi": "赏",
+  "pinyin": "shǎng",
+  "meaning_ru": "награждать; любоваться (кл.)",
+  "meaning_en": "reward; admire (classical)"
+ },
+ {
+  "hanzi": "巴士",
+  "pinyin": "bāshì",
+  "meaning_ru": "автобус (заимств.; Гонконг)",
+  "meaning_en": "bus (loanword; coach/HK)"
+ },
+ {
+  "hanzi": "引进",
+  "pinyin": "yǐnjìn",
+  "meaning_ru": "ввозить; внедрять (извне)",
+  "meaning_en": "import; bring in from abroad"
+ },
+ {
+  "hanzi": "列入",
+  "pinyin": "lièrù",
+  "meaning_ru": "включать в список",
+  "meaning_en": "to include on a list"
+ },
+ {
+  "hanzi": "充电",
+  "pinyin": "chōngdiàn",
+  "meaning_ru": "заряжать (батарею)",
+  "meaning_en": "to recharge"
+ },
+ {
+  "hanzi": "分为",
+  "pinyin": "fēnwéi",
+  "meaning_ru": "делить на (по категориям)",
+  "meaning_en": "divide into (by category)"
+ },
+ {
+  "hanzi": "促销",
+  "pinyin": "cùxiāo",
+  "meaning_ru": "стимулировать сбыт (акции)",
+  "meaning_en": "promote sales (campaigns)"
+ },
+ {
+  "hanzi": "体检",
+  "pinyin": "tǐjiǎn",
+  "meaning_ru": "медосмотр",
+  "meaning_en": "medical checkup"
+ },
+ {
+  "hanzi": "宝石",
+  "pinyin": "bǎoshí",
+  "meaning_ru": "драгоценный камень",
+  "meaning_en": "gemstone (physical object)"
+ },
+ {
+  "hanzi": "着火",
+  "pinyin": "zháohuǒ",
+  "meaning_ru": "загореться",
+  "meaning_en": "catch fire"
+ },
+ {
+  "hanzi": "晚点",
+  "pinyin": "wǎndiǎn",
+  "meaning_ru": "опаздывать (о транспорте)",
+  "meaning_en": "be late; delayed (train)"
+ },
+ {
+  "hanzi": "研制",
+  "pinyin": "yánzhì",
+  "meaning_ru": "разрабатывать (НИОКР)",
+  "meaning_en": "develop via R&D"
+ },
+ {
+  "hanzi": "转动",
+  "pinyin": "zhuǎndòng",
+  "meaning_ru": "вращаться (вокруг оси)",
+  "meaning_en": "rotate/spin (on axis)"
+ },
+ {
+  "hanzi": "离不开",
+  "pinyin": "líbukāi",
+  "meaning_ru": "не обойтись без",
+  "meaning_en": "can't do without"
+ },
+ {
+  "hanzi": "列为",
+  "pinyin": "lièwéi",
+  "meaning_ru": "отнести к (категории)",
+  "meaning_en": "classify as"
+ },
+ {
+  "hanzi": "海水",
+  "pinyin": "hǎishuǐ",
+  "meaning_ru": "морская вода",
+  "meaning_en": "seawater"
+ },
+ {
+  "hanzi": "动摇",
+  "pinyin": "dòngyáo",
+  "meaning_ru": "колебаться (в убеждениях)",
+  "meaning_en": "waver (in resolve); shake"
+ },
+ {
+  "hanzi": "体操",
+  "pinyin": "tǐcāo",
+  "meaning_ru": "гимнастика",
+  "meaning_en": "gymnastics"
+ },
+ {
+  "hanzi": "大爷",
+  "pinyin": "dàye",
+  "meaning_ru": "дядя; почтит. обращение",
+  "meaning_en": "uncle; respectful sir"
+ },
+ {
+  "hanzi": "秋季",
+  "pinyin": "qiūjì",
+  "meaning_ru": "осенний сезон (офиц.)",
+  "meaning_en": "autumn (formal/written)"
+ },
+ {
+  "hanzi": "扩展",
+  "pinyin": "kuòzhǎn",
+  "meaning_ru": "расширять охват/функции",
+  "meaning_en": "expand scope or function"
+ },
+ {
+  "hanzi": "平稳",
+  "pinyin": "píngwěn",
+  "meaning_ru": "устойчивый; без колебаний",
+  "meaning_en": "stable; even (no fluctuation)"
+ },
+ {
+  "hanzi": "一般来说",
+  "pinyin": "yībānláishuō",
+  "meaning_ru": "вообще говоря",
+  "meaning_en": "generally speaking"
+ },
+ {
+  "hanzi": "相片",
+  "pinyin": "xiàngpiàn",
+  "meaning_ru": "фотография (печатная)",
+  "meaning_en": "photo (printed/personal)"
+ },
+ {
+  "hanzi": "闹钟",
+  "pinyin": "nàozhōng",
+  "meaning_ru": "будильник",
+  "meaning_en": "alarm clock"
+ },
+ {
+  "hanzi": "大姐",
+  "pinyin": "dàjiě",
+  "meaning_ru": "старшая сестра",
+  "meaning_en": "eldest sister"
+ },
+ {
+  "hanzi": "气球",
+  "pinyin": "qìqiú",
+  "meaning_ru": "воздушный шар",
+  "meaning_en": "balloon"
+ },
+ {
+  "hanzi": "春季",
+  "pinyin": "chūnjì",
+  "meaning_ru": "весна; весенний сезон",
+  "meaning_en": "spring; springtime"
+ },
+ {
+  "hanzi": "赞赏",
+  "pinyin": "zànshǎng",
+  "meaning_ru": "восхищаться и хвалить",
+  "meaning_en": "admire and praise (sincere)"
+ },
+ {
+  "hanzi": "构造",
+  "pinyin": "gòuzào",
+  "meaning_ru": "строение (физ., конкретное)",
+  "meaning_en": "structure (physical build)"
+ },
+ {
+  "hanzi": "虫子",
+  "pinyin": "chóngzi",
+  "meaning_ru": "букашка; червяк (разг.)",
+  "meaning_en": "bug; worm (colloquial)"
+ },
+ {
+  "hanzi": "刷牙",
+  "pinyin": "shuāyá",
+  "meaning_ru": "чистить зубы",
+  "meaning_en": "to brush teeth"
+ },
+ {
+  "hanzi": "轮椅",
+  "pinyin": "lúnyǐ",
+  "meaning_ru": "инвалидная коляска",
+  "meaning_en": "wheelchair"
+ },
+ {
+  "hanzi": "特价",
+  "pinyin": "tèjià",
+  "meaning_ru": "спеццена; скидка",
+  "meaning_en": "special price"
+ },
+ {
+  "hanzi": "暖气",
+  "pinyin": "nuǎnqì",
+  "meaning_ru": "отопление",
+  "meaning_en": "central heating"
+ },
+ {
+  "hanzi": "二手",
+  "pinyin": "èrshǒu",
+  "meaning_ru": "бывший в употреблении",
+  "meaning_en": "second-hand"
+ },
+ {
+  "hanzi": "味儿",
+  "pinyin": "wèir",
+  "meaning_ru": "вкус; запах (разг.)",
+  "meaning_en": "taste; smell (colloquial)"
+ },
+ {
+  "hanzi": "优良",
+  "pinyin": "yōuliáng",
+  "meaning_ru": "отличный по качеству",
+  "meaning_en": "excellent in quality"
+ },
+ {
+  "hanzi": "转弯",
+  "pinyin": "zhuǎnwān",
+  "meaning_ru": "поворачивать",
+  "meaning_en": "to turn; round a corner"
+ },
+ {
+  "hanzi": "期末",
+  "pinyin": "qīmò",
+  "meaning_ru": "конец семестра",
+  "meaning_en": "end of term"
+ },
+ {
+  "hanzi": "上楼",
+  "pinyin": "shànglóu",
+  "meaning_ru": "подниматься наверх",
+  "meaning_en": "to go upstairs"
+ },
+ {
+  "hanzi": "下楼",
+  "pinyin": "xiàlóu",
+  "meaning_ru": "спускаться вниз",
+  "meaning_en": "to go downstairs"
+ },
+ {
+  "hanzi": "百货",
+  "pinyin": "bǎihuò",
+  "meaning_ru": "разнообразные товары (розница)",
+  "meaning_en": "general merchandise (retail)"
+ },
+ {
+  "hanzi": "点名",
+  "pinyin": "diǎnmíng",
+  "meaning_ru": "перекличка",
+  "meaning_en": "roll call"
+ },
+ {
+  "hanzi": "茶叶",
+  "pinyin": "cháyè",
+  "meaning_ru": "чай; чайный лист",
+  "meaning_en": "tea leaves"
+ },
+ {
+  "hanzi": "运动会",
+  "pinyin": "yùndònghuì",
+  "meaning_ru": "спортивные соревнования",
+  "meaning_en": "sports meet"
+ },
+ {
+  "hanzi": "开花",
+  "pinyin": "kāihuā",
+  "meaning_ru": "цвести; зацветать",
+  "meaning_en": "to bloom; to flower"
+ },
+ {
+  "hanzi": "登山",
+  "pinyin": "dēngshān",
+  "meaning_ru": "восхождение в горы (спорт)",
+  "meaning_en": "mountain climbing (sport)"
+ },
+ {
+  "hanzi": "降温",
+  "pinyin": "jiàngwēn",
+  "meaning_ru": "похолодание",
+  "meaning_en": "to cool down"
+ },
+ {
+  "hanzi": "抽奖",
+  "pinyin": "chōujiǎng",
+  "meaning_ru": "розыгрыш призов",
+  "meaning_en": "to draw a prize; raffle"
+ },
+ {
+  "hanzi": "孙女",
+  "pinyin": "sūnnǚ",
+  "meaning_ru": "внучка (по сыну)",
+  "meaning_en": "granddaughter"
+ },
+ {
+  "hanzi": "大巴",
+  "pinyin": "dàbā",
+  "meaning_ru": "автобус (межгород./аренда)",
+  "meaning_en": "coach; large bus (intercity)"
+ },
+ {
+  "hanzi": "树叶",
+  "pinyin": "shùyè",
+  "meaning_ru": "листья; листва",
+  "meaning_en": "tree leaves"
+ },
+ {
+  "hanzi": "高价",
+  "pinyin": "gāojià",
+  "meaning_ru": "высокая цена",
+  "meaning_en": "high price"
+ },
+ {
+  "hanzi": "大妈",
+  "pinyin": "dàmā",
+  "meaning_ru": "тётушка (пожилая)",
+  "meaning_en": "auntie (older woman)"
+ },
+ {
+  "hanzi": "套餐",
+  "pinyin": "tàocān",
+  "meaning_ru": "комплексный обед; пакет",
+  "meaning_en": "set meal; package"
+ },
+ {
+  "hanzi": "率先",
+  "pinyin": "shuàixiān",
+  "meaning_ru": "первым; возглавить",
+  "meaning_en": "take the lead; be first"
+ },
+ {
+  "hanzi": "冰雪",
+  "pinyin": "bīngxuě",
+  "meaning_ru": "лёд и снег",
+  "meaning_en": "ice and snow"
+ },
+ {
+  "hanzi": "牙刷",
+  "pinyin": "yáshuā",
+  "meaning_ru": "зубная щётка",
+  "meaning_en": "toothbrush"
+ },
+ {
+  "hanzi": "诚信",
+  "pinyin": "chéngxìn",
+  "meaning_ru": "честность; порядочность",
+  "meaning_en": "integrity; good faith"
+ },
+ {
+  "hanzi": "窗子",
+  "pinyin": "chuāngzi",
+  "meaning_ru": "окно (разг., северн.)",
+  "meaning_en": "window (colloquial, north)"
+ },
+ {
+  "hanzi": "月底",
+  "pinyin": "yuèdǐ",
+  "meaning_ru": "конец месяца",
+  "meaning_en": "end of the month"
+ },
+ {
+  "hanzi": "深厚",
+  "pinyin": "shēnhòu",
+  "meaning_ru": "глубокий, прочный (чувства)",
+  "meaning_en": "deep; solid (feelings/skills)"
+ },
+ {
+  "hanzi": "降价",
+  "pinyin": "jiàngjià",
+  "meaning_ru": "снижать цену (действие)",
+  "meaning_en": "cut the price (action)"
+ },
+ {
+  "hanzi": "通知书",
+  "pinyin": "tōngzhīshū",
+  "meaning_ru": "уведомление (письм.)",
+  "meaning_en": "written notice"
+ },
+ {
+  "hanzi": "外交官",
+  "pinyin": "wàijiāoguān",
+  "meaning_ru": "дипломат",
+  "meaning_en": "diplomat"
+ },
+ {
+  "hanzi": "培训班",
+  "pinyin": "péixùnbān",
+  "meaning_ru": "учебные курсы (группа)",
+  "meaning_en": "training class (course)"
+ },
+ {
+  "hanzi": "外汇",
+  "pinyin": "wàihuì",
+  "meaning_ru": "валюта; инвалюта",
+  "meaning_en": "foreign exchange"
+ },
+ {
+  "hanzi": "轮子",
+  "pinyin": "lúnzi",
+  "meaning_ru": "колесо",
+  "meaning_en": "wheel"
+ },
+ {
+  "hanzi": "汽水",
+  "pinyin": "qìshuǐ",
+  "meaning_ru": "газировка",
+  "meaning_en": "soda; fizzy drink"
+ },
+ {
+  "hanzi": "学分",
+  "pinyin": "xuéfēn",
+  "meaning_ru": "зачётный балл",
+  "meaning_en": "course credit"
+ },
+ {
+  "hanzi": "摆动",
+  "pinyin": "bǎidòng",
+  "meaning_ru": "качаться; колебаться",
+  "meaning_en": "to swing; to sway"
+ },
+ {
+  "hanzi": "倒车",
+  "pinyin": "dàochē",
+  "meaning_ru": "сдавать назад",
+  "meaning_en": "to reverse a car"
+ },
+ {
+  "hanzi": "后头",
+  "pinyin": "hòutou",
+  "meaning_ru": "позади; сзади (разг.)",
+  "meaning_en": "behind; rear (colloq.)"
+ },
+ {
+  "hanzi": "宽广",
+  "pinyin": "kuānguǎng",
+  "meaning_ru": "широкий и просторный (офиц.)",
+  "meaning_en": "wide and spacious (formal)"
+ },
+ {
+  "hanzi": "前头",
+  "pinyin": "qiántou",
+  "meaning_ru": "впереди; спереди (разг.)",
+  "meaning_en": "in front; ahead (colloquial)"
+ },
+ {
+  "hanzi": "期中",
+  "pinyin": "qīzhōng",
+  "meaning_ru": "середина семестра",
+  "meaning_en": "midterm"
+ },
+ {
+  "hanzi": "吸管",
+  "pinyin": "xīguǎn",
+  "meaning_ru": "трубочка для питья",
+  "meaning_en": "drinking straw"
+ },
+ {
+  "hanzi": "窗台",
+  "pinyin": "chuāngtái",
+  "meaning_ru": "подоконник",
+  "meaning_en": "windowsill"
+ },
+ {
+  "hanzi": "松树",
+  "pinyin": "sōngshù",
+  "meaning_ru": "сосна",
+  "meaning_en": "pine tree"
+ },
+ {
+  "hanzi": "多样",
+  "pinyin": "duōyàng",
+  "meaning_ru": "разнообразный",
+  "meaning_en": "diverse; varied"
+ },
+ {
+  "hanzi": "学年",
+  "pinyin": "xuénián",
+  "meaning_ru": "учебный год",
+  "meaning_en": "academic year"
+ },
+ {
+  "hanzi": "电灯",
+  "pinyin": "diàndēng",
+  "meaning_ru": "электрическая лампа",
+  "meaning_en": "electric light"
+ },
+ {
+  "hanzi": "疗养",
+  "pinyin": "liáoyǎng",
+  "meaning_ru": "лечиться (в санатории)",
+  "meaning_en": "recuperate (with treatment)"
+ },
+ {
+  "hanzi": "矮小",
+  "pinyin": "ǎixiǎo",
+  "meaning_ru": "низкорослый; маленький",
+  "meaning_en": "short and small"
+ },
+ {
+  "hanzi": "刷子",
+  "pinyin": "shuāzi",
+  "meaning_ru": "щётка",
+  "meaning_en": "brush"
+ },
+ {
+  "hanzi": "亚运会",
+  "pinyin": "yàyùnhuì",
+  "meaning_ru": "Азиатские игры",
+  "meaning_en": "Asian Games"
+ },
+ {
+  "hanzi": "高铁",
+  "pinyin": "gāotiě",
+  "meaning_ru": "скоростная ж/д",
+  "meaning_en": "high-speed rail"
+ },
+ {
+  "hanzi": "电动车",
+  "pinyin": "diàndòngchē",
+  "meaning_ru": "электромобиль; электробайк",
+  "meaning_en": "electric vehicle"
+ },
+ {
+  "hanzi": "毫升",
+  "pinyin": "háoshēng",
+  "meaning_ru": "миллилитр",
+  "meaning_en": "milliliter"
+ },
+ {
+  "hanzi": "打雷",
+  "pinyin": "dǎléi",
+  "meaning_ru": "греметь (о громе)",
+  "meaning_en": "to thunder"
+ },
+ {
+  "hanzi": "五颜六色",
+  "pinyin": "wǔyánliùsè",
+  "meaning_ru": "разноцветный; пёстрый",
+  "meaning_en": "multicolored"
+ },
+ {
+  "hanzi": "隔开",
+  "pinyin": "gékāi",
+  "meaning_ru": "разделять преградой (физ.)",
+  "meaning_en": "separate with a barrier"
+ },
+ {
+  "hanzi": "模特儿",
+  "pinyin": "mótèr",
+  "meaning_ru": "модель (манекенщик)",
+  "meaning_en": "fashion model"
+ },
+ {
+  "hanzi": "抄写",
+  "pinyin": "chāoxiě",
+  "meaning_ru": "переписывать (от руки)",
+  "meaning_en": "copy out by hand (transcribe)"
+ },
+ {
+  "hanzi": "括号",
+  "pinyin": "kuòhào",
+  "meaning_ru": "скобки",
+  "meaning_en": "parentheses; brackets"
+ },
+ {
+  "hanzi": "没法儿",
+  "pinyin": "méifǎr",
+  "meaning_ru": "никак; нельзя (разг.)",
+  "meaning_en": "no way; can't (coll.)"
+ },
+ {
+  "hanzi": "纯净水",
+  "pinyin": "chúnjìngshuǐ",
+  "meaning_ru": "очищенная вода",
+  "meaning_en": "purified water"
+ },
+ {
+  "hanzi": "学时",
+  "pinyin": "xuéshí",
+  "meaning_ru": "учебный час",
+  "meaning_en": "class hour"
+ },
+ {
+  "hanzi": "下个月",
+  "pinyin": "xiàgèyuè",
+  "meaning_ru": "в следующем месяце",
+  "meaning_en": "next month"
+ },
+ {
+  "hanzi": "名牌儿",
+  "pinyin": "míngpáir",
+  "meaning_ru": "известный бренд (儿化, разг.)",
+  "meaning_en": "famous brand (儿化, colloq.)"
+ },
+ {
+  "hanzi": "有劲儿",
+  "pinyin": "yǒujìnr",
+  "meaning_ru": "сильный; бодрый",
+  "meaning_en": "strong; energetic"
+ },
+ {
+  "hanzi": "没想到",
+  "pinyin": "méixiǎngdào",
+  "meaning_ru": "не ожидал",
+  "meaning_en": "didn't expect"
+ },
+ {
+  "hanzi": "声",
+  "pinyin": "shēng",
+  "meaning_ru": "звук (морфема; счётное сл.)",
+  "meaning_en": "sound (bound morpheme; mw)"
+ },
+ {
+  "hanzi": "疯",
+  "pinyin": "fēng",
+  "meaning_ru": "сумасшедший",
+  "meaning_en": "crazy; mad"
+ },
+ {
+  "hanzi": "鬼",
+  "pinyin": "guǐ",
+  "meaning_ru": "призрак; чёрт",
+  "meaning_en": "ghost; devil"
+ },
+ {
+  "hanzi": "舞",
+  "pinyin": "wǔ",
+  "meaning_ru": "танцевать; размахивать",
+  "meaning_en": "dance; wield/brandish"
+ },
+ {
+  "hanzi": "愿",
+  "pinyin": "yuàn",
+  "meaning_ru": "желать; быть согласным",
+  "meaning_en": "wish; willing (formal)"
+ },
+ {
+  "hanzi": "射",
+  "pinyin": "shè",
+  "meaning_ru": "стрелять; пускать",
+  "meaning_en": "to shoot; launch"
+ },
+ {
+  "hanzi": "运",
+  "pinyin": "yùn",
+  "meaning_ru": "удача; везение",
+  "meaning_en": "luck; fortune"
+ },
+ {
+  "hanzi": "戏",
+  "pinyin": "xì",
+  "meaning_ru": "пьеса; спектакль",
+  "meaning_en": "drama; play"
+ },
+ {
+  "hanzi": "偷",
+  "pinyin": "tōu",
+  "meaning_ru": "красть; воровать",
+  "meaning_en": "to steal"
+ },
+ {
+  "hanzi": "剩下",
+  "pinyin": "shèngxià",
+  "meaning_ru": "оставаться (после использов.)",
+  "meaning_en": "be left over (after use)"
+ },
+ {
+  "hanzi": "毒",
+  "pinyin": "dú",
+  "meaning_ru": "яд; ядовитый (морфема)",
+  "meaning_en": "poison; toxic (morpheme)"
+ },
+ {
+  "hanzi": "屋",
+  "pinyin": "wū",
+  "meaning_ru": "комната; дом (книжн.)",
+  "meaning_en": "room; house (literary)"
+ },
+ {
+  "hanzi": "启动",
+  "pinyin": "qǐdòng",
+  "meaning_ru": "запускать",
+  "meaning_en": "to start; launch"
+ },
+ {
+  "hanzi": "好运",
+  "pinyin": "hǎoyùn",
+  "meaning_ru": "удача (пожелание)",
+  "meaning_en": "good luck (as a wish)"
+ },
+ {
+  "hanzi": "狂",
+  "pinyin": "kuáng",
+  "meaning_ru": "безумный; буйный",
+  "meaning_en": "mad; wild"
+ },
+ {
+  "hanzi": "为止",
+  "pinyin": "wéizhǐ",
+  "meaning_ru": "до (момента)",
+  "meaning_en": "until; up to"
+ },
+ {
+  "hanzi": "有着",
+  "pinyin": "yǒuzhe",
+  "meaning_ru": "обладать (книжн., состояние)",
+  "meaning_en": "possess (literary, state)"
+ },
+ {
+  "hanzi": "签",
+  "pinyin": "qiān",
+  "meaning_ru": "подписывать (документ)",
+  "meaning_en": "to sign (a document)"
+ },
+ {
+  "hanzi": "价",
+  "pinyin": "jià",
+  "meaning_ru": "цена (морфема в словах)",
+  "meaning_en": "price; value (bound morph.)"
+ },
+ {
+  "hanzi": "躲",
+  "pinyin": "duǒ",
+  "meaning_ru": "прятаться; уклоняться",
+  "meaning_en": "to hide; dodge"
+ },
+ {
+  "hanzi": "冒",
+  "pinyin": "mào",
+  "meaning_ru": "испускать (дым, пар); рисковать",
+  "meaning_en": "emit (smoke/steam); brave risk"
+ },
+ {
+  "hanzi": "礼",
+  "pinyin": "lǐ",
+  "meaning_ru": "этикет; подарок (шире礼貌)",
+  "meaning_en": "ritual propriety; gift"
+ },
+ {
+  "hanzi": "拼",
+  "pinyin": "pīn",
+  "meaning_ru": "соединять; выкладываться",
+  "meaning_en": "to piece together; spell"
+ },
+ {
+  "hanzi": "只不过",
+  "pinyin": "zhǐbuguò",
+  "meaning_ru": "всего лишь; просто (уступ.)",
+  "meaning_en": "only; just (dismissive)"
+ },
+ {
+  "hanzi": "歌曲",
+  "pinyin": "gēqǔ",
+  "meaning_ru": "песня (офиц., произведение)",
+  "meaning_en": "song (formal/written term)"
+ },
+ {
+  "hanzi": "必",
+  "pinyin": "bì",
+  "meaning_ru": "обязательно; непременно",
+  "meaning_en": "must; certainly"
+ },
+ {
+  "hanzi": "所在",
+  "pinyin": "suǒzài",
+  "meaning_ru": "местонахождение (где есть)",
+  "meaning_en": "whereabouts; location of sth"
+ },
+ {
+  "hanzi": "害",
+  "pinyin": "hài",
+  "meaning_ru": "вредить; вред (разг.)",
+  "meaning_en": "harm (colloquial; also noun)"
+ },
+ {
+  "hanzi": "立",
+  "pinyin": "lì",
+  "meaning_ru": "стоять; ставить",
+  "meaning_en": "to stand; set up"
+ },
+ {
+  "hanzi": "稍",
+  "pinyin": "shāo",
+  "meaning_ru": "немного; слегка",
+  "meaning_en": "slightly; a little"
+ },
+ {
+  "hanzi": "滑",
+  "pinyin": "huá",
+  "meaning_ru": "скользкий; скользить",
+  "meaning_en": "slippery; to slide"
+ },
+ {
+  "hanzi": "忍",
+  "pinyin": "rěn",
+  "meaning_ru": "терпеть (сдерживая реакцию)",
+  "meaning_en": "endure (hold back reaction)"
+ },
+ {
+  "hanzi": "回头",
+  "pinyin": "huítóu",
+  "meaning_ru": "обернуться; (разг.) попозже",
+  "meaning_en": "turn back; (colloq.) later"
+ },
+ {
+  "hanzi": "库",
+  "pinyin": "kù",
+  "meaning_ru": "хранилище (морфема, в словах)",
+  "meaning_en": "storehouse (bound morpheme)"
+ },
+ {
+  "hanzi": "答",
+  "pinyin": "dá",
+  "meaning_ru": "отвечать; отзываться",
+  "meaning_en": "to answer; respond"
+ },
+ {
+  "hanzi": "之下",
+  "pinyin": "zhīxià",
+  "meaning_ru": "под (абстрактные условия)",
+  "meaning_en": "under (abstract: conditions)"
+ },
+ {
+  "hanzi": "熊",
+  "pinyin": "xióng",
+  "meaning_ru": "медведь",
+  "meaning_en": "bear"
+ },
+ {
+  "hanzi": "不幸",
+  "pinyin": "búxìng",
+  "meaning_ru": "несчастье; несчастный",
+  "meaning_en": "misfortune; unfortunate"
+ },
+ {
+  "hanzi": "到来",
+  "pinyin": "dàolái",
+  "meaning_ru": "наступление; приход (о событиях)",
+  "meaning_en": "advent; arrival (of events)"
+ },
+ {
+  "hanzi": "一句话",
+  "pinyin": "yījùhuà",
+  "meaning_ru": "одним словом; короче",
+  "meaning_en": "in a word; in short"
+ },
+ {
+  "hanzi": "自杀",
+  "pinyin": "zìshā",
+  "meaning_ru": "покончить с собой",
+  "meaning_en": "to commit suicide"
+ },
+ {
+  "hanzi": "负责人",
+  "pinyin": "fùzérén",
+  "meaning_ru": "ответственный (сущ.)",
+  "meaning_en": "person in charge (noun)"
+ },
+ {
+  "hanzi": "旁",
+  "pinyin": "páng",
+  "meaning_ru": "сторона; рядом",
+  "meaning_en": "side; beside"
+ },
+ {
+  "hanzi": "收集",
+  "pinyin": "shōují",
+  "meaning_ru": "собирать (систематически)",
+  "meaning_en": "collect items (systematically)"
+ },
+ {
+  "hanzi": "盒",
+  "pinyin": "hé",
+  "meaning_ru": "коробка; футляр",
+  "meaning_en": "box; case"
+ },
+ {
+  "hanzi": "报警",
+  "pinyin": "bàojǐng",
+  "meaning_ru": "вызвать полицию",
+  "meaning_en": "to alert the police"
+ },
+ {
+  "hanzi": "剪",
+  "pinyin": "jiǎn",
+  "meaning_ru": "резать (ножницами)",
+  "meaning_en": "to cut; trim"
+ },
+ {
+  "hanzi": "脑子",
+  "pinyin": "nǎozi",
+  "meaning_ru": "мозг; ум (разг., повседн.)",
+  "meaning_en": "brains; mind (colloquial)"
+ },
+ {
+  "hanzi": "局长",
+  "pinyin": "júzhǎng",
+  "meaning_ru": "начальник управления",
+  "meaning_en": "bureau chief"
+ },
+ {
+  "hanzi": "挤",
+  "pinyin": "jǐ",
+  "meaning_ru": "толкаться; выжимать",
+  "meaning_en": "to squeeze; crowd"
+ },
+ {
+  "hanzi": "之内",
+  "pinyin": "zhīnèi",
+  "meaning_ru": "в пределах (книжн.)",
+  "meaning_en": "within (written, boundary)"
+ },
+ {
+  "hanzi": "厅",
+  "pinyin": "tīng",
+  "meaning_ru": "зал; гостиная",
+  "meaning_en": "hall; living room"
+ },
+ {
+  "hanzi": "全都",
+  "pinyin": "quándōu",
+  "meaning_ru": "все до одного (нареч.)",
+  "meaning_en": "all without exception (adv.)"
+ },
+ {
+  "hanzi": "签名",
+  "pinyin": "qiānmíng",
+  "meaning_ru": "подпись; роспись (личная)",
+  "meaning_en": "autograph; signature (personal)"
+ },
+ {
+  "hanzi": "偶像",
+  "pinyin": "ǒuxiàng",
+  "meaning_ru": "кумир; идол",
+  "meaning_en": "idol"
+ },
+ {
+  "hanzi": "认",
+  "pinyin": "rèn",
+  "meaning_ru": "узнавать; признавать",
+  "meaning_en": "recognize; admit (base verb)"
+ },
+ {
+  "hanzi": "在场",
+  "pinyin": "zàichǎng",
+  "meaning_ru": "присутствовать на месте",
+  "meaning_en": "be present (at the scene)"
+ },
+ {
+  "hanzi": "鼠",
+  "pinyin": "shǔ",
+  "meaning_ru": "крыса/мышь (книжн., слова)",
+  "meaning_en": "rat; mouse (in compounds)"
+ },
+ {
+  "hanzi": "乘客",
+  "pinyin": "chéngkè",
+  "meaning_ru": "пассажир (не персонал)",
+  "meaning_en": "passenger (not crew)"
+ },
+ {
+  "hanzi": "专辑",
+  "pinyin": "zhuānjí",
+  "meaning_ru": "альбом (муз.)",
+  "meaning_en": "album (music)"
+ },
+ {
+  "hanzi": "虎",
+  "pinyin": "hǔ",
+  "meaning_ru": "тигр",
+  "meaning_en": "tiger"
+ },
+ {
+  "hanzi": "喷",
+  "pinyin": "pēn",
+  "meaning_ru": "брызгать; распылять",
+  "meaning_en": "to spray; to spurt"
+ },
+ {
+  "hanzi": "靠近",
+  "pinyin": "kàojìn",
+  "meaning_ru": "приближаться (физически)",
+  "meaning_en": "move close to (physical)"
+ },
+ {
+  "hanzi": "罚",
+  "pinyin": "fá",
+  "meaning_ru": "наказывать; штрафовать",
+  "meaning_en": "to punish; to fine"
+ },
+ {
+  "hanzi": "空中",
+  "pinyin": "kōngzhōng",
+  "meaning_ru": "в воздухе; в воздушн. простр.",
+  "meaning_en": "in the air; mid-air"
+ },
+ {
+  "hanzi": "连接",
+  "pinyin": "liánjiē",
+  "meaning_ru": "соединять; связывать (общ.)",
+  "meaning_en": "link; connect (general)"
+ },
+ {
+  "hanzi": "此时",
+  "pinyin": "cǐshí",
+  "meaning_ru": "в этот момент (нарратив)",
+  "meaning_en": "at this moment (narrative)"
+ },
+ {
+  "hanzi": "画面",
+  "pinyin": "huàmiàn",
+  "meaning_ru": "кадр; изображение (экран)",
+  "meaning_en": "frame; scene (screen/visual)"
+ },
+ {
+  "hanzi": "大脑",
+  "pinyin": "dànǎo",
+  "meaning_ru": "головной мозг",
+  "meaning_en": "brain; cerebrum"
+ },
+ {
+  "hanzi": "大事",
+  "pinyin": "dàshì",
+  "meaning_ru": "важное событие",
+  "meaning_en": "major event; big deal"
+ },
+ {
+  "hanzi": "显",
+  "pinyin": "xiǎn",
+  "meaning_ru": "проявлять; заметный",
+  "meaning_en": "to show; conspicuous"
+ },
+ {
+  "hanzi": "看出",
+  "pinyin": "kànchū",
+  "meaning_ru": "разглядеть; понять",
+  "meaning_en": "to make out; to tell"
+ },
+ {
+  "hanzi": "随后",
+  "pinyin": "suíhòu",
+  "meaning_ru": "сразу после; тут же",
+  "meaning_en": "right after; immediately then"
+ },
+ {
+  "hanzi": "加速",
+  "pinyin": "jiāsù",
+  "meaning_ru": "ускорять (физ./офиц.)",
+  "meaning_en": "accelerate (physics/formal)"
+ },
+ {
+  "hanzi": "社",
+  "pinyin": "shè",
+  "meaning_ru": "общество; агентство",
+  "meaning_en": "society; agency"
+ },
+ {
+  "hanzi": "搜",
+  "pinyin": "sōu",
+  "meaning_ru": "обыскивать; искать (сканируя)",
+  "meaning_en": "search by scanning (or online)"
+ },
+ {
+  "hanzi": "悲剧",
+  "pinyin": "bēijù",
+  "meaning_ru": "трагедия (жанр и перен.)",
+  "meaning_en": "tragedy (genre; fig.)"
+ },
+ {
+  "hanzi": "夹",
+  "pinyin": "jiā",
+  "meaning_ru": "зажимать; зажим",
+  "meaning_en": "to clamp; clip"
+ },
+ {
+  "hanzi": "出于",
+  "pinyin": "chūyú",
+  "meaning_ru": "исходя из мотива; из побуждения",
+  "meaning_en": "out of (a motive); driven by"
+ },
+ {
+  "hanzi": "双手",
+  "pinyin": "shuāngshǒu",
+  "meaning_ru": "обе руки",
+  "meaning_en": "both hands"
+ },
+ {
+  "hanzi": "得了",
+  "pinyin": "déle",
+  "meaning_ru": "хватит!; ладно! (разг.)",
+  "meaning_en": "enough!; all right!"
+ },
+ {
+  "hanzi": "买卖",
+  "pinyin": "mǎimài",
+  "meaning_ru": "купля-продажа; торговля",
+  "meaning_en": "buying and selling; trade"
+ },
+ {
+  "hanzi": "悲伤",
+  "pinyin": "bēishāng",
+  "meaning_ru": "скорбный, печальный (книжн.)",
+  "meaning_en": "sorrowful (literary; > 难过)"
+ },
+ {
+  "hanzi": "分离",
+  "pinyin": "fēnlí",
+  "meaning_ru": "разделять(ся); расставаться",
+  "meaning_en": "separate; part (people/parts)"
+ },
+ {
+  "hanzi": "扇",
+  "pinyin": "shān",
+  "meaning_ru": "обмахивать веером",
+  "meaning_en": "to fan"
+ },
+ {
+  "hanzi": "拔",
+  "pinyin": "bá",
+  "meaning_ru": "вытаскивать; выдёргивать",
+  "meaning_en": "to pull out"
+ },
+ {
+  "hanzi": "寻求",
+  "pinyin": "xúnqiú",
+  "meaning_ru": "искать; добиваться (абстр.)",
+  "meaning_en": "seek; pursue (abstract goals)"
+ },
+ {
+  "hanzi": "大厅",
+  "pinyin": "dàtīng",
+  "meaning_ru": "зал; холл; фойе",
+  "meaning_en": "large public hall; lobby"
+ },
+ {
+  "hanzi": "如同",
+  "pinyin": "rútóng",
+  "meaning_ru": "подобно, как (книжн.; ≠ 好像)",
+  "meaning_en": "just like (literary; formal)"
+ },
+ {
+  "hanzi": "提起",
+  "pinyin": "tíqǐ",
+  "meaning_ru": "поднять тему; заводить речь",
+  "meaning_en": "bring up (a topic)"
+ },
+ {
+  "hanzi": "暖",
+  "pinyin": "nuǎn",
+  "meaning_ru": "тёплый (темп.); согревать",
+  "meaning_en": "warm (temperature); to warm"
+ },
+ {
+  "hanzi": "建造",
+  "pinyin": "jiànzào",
+  "meaning_ru": "строить (физически, процесс)",
+  "meaning_en": "build (physical structure)"
+ },
+ {
+  "hanzi": "戒",
+  "pinyin": "jiè",
+  "meaning_ru": "бросить (вредную привычку)",
+  "meaning_en": "quit (a habit, by willpower)"
+ },
+ {
+  "hanzi": "不许",
+  "pinyin": "bùxǔ",
+  "meaning_ru": "нельзя; не разрешать",
+  "meaning_en": "not allowed; must not"
+ },
+ {
+  "hanzi": "饼",
+  "pinyin": "bǐng",
+  "meaning_ru": "лепёшка; печенье",
+  "meaning_en": "flat cake; biscuit"
+ },
+ {
+  "hanzi": "返回",
+  "pinyin": "fǎnhuí",
+  "meaning_ru": "возвращаться (нейтр.)",
+  "meaning_en": "go back (neutral direction)"
+ },
+ {
+  "hanzi": "无疑",
+  "pinyin": "wúyí",
+  "meaning_ru": "несомненно; бесспорно",
+  "meaning_en": "undoubtedly; surely"
+ },
+ {
+  "hanzi": "迟",
+  "pinyin": "chí",
+  "meaning_ru": "поздний; медлить (≠ 迟到)",
+  "meaning_en": "late; slow (≠ 迟到)"
+ },
+ {
+  "hanzi": "广",
+  "pinyin": "guǎng",
+  "meaning_ru": "широкий; обширный (морфема)",
+  "meaning_en": "wide; broad (morpheme)"
+ },
+ {
+  "hanzi": "乡村",
+  "pinyin": "xiāngcūn",
+  "meaning_ru": "деревня; село (пасторальн.)",
+  "meaning_en": "countryside (pastoral)"
+ },
+ {
+  "hanzi": "完了",
+  "pinyin": "wánle",
+  "meaning_ru": "всё, конец; пропал (разг.)",
+  "meaning_en": "it's over; we're done for"
+ },
+ {
+  "hanzi": "火灾",
+  "pinyin": "huǒzāi",
+  "meaning_ru": "пожар",
+  "meaning_en": "fire (disaster)"
+ },
+ {
+  "hanzi": "不利",
+  "pinyin": "bùlì",
+  "meaning_ru": "невыгодный; вредный",
+  "meaning_en": "unfavorable; harmful"
+ },
+ {
+  "hanzi": "倒是",
+  "pinyin": "dàoshi",
+  "meaning_ru": "а вот; наоборот (с уступкой)",
+  "meaning_en": "actually; on the contrary"
+ },
+ {
+  "hanzi": "此刻",
+  "pinyin": "cǐkè",
+  "meaning_ru": "именно сейчас; в этот миг (кн.)",
+  "meaning_en": "this very moment (literary)"
+ },
+ {
+  "hanzi": "向前",
+  "pinyin": "xiàngqián",
+  "meaning_ru": "вперёд",
+  "meaning_en": "forward; onward"
+ },
+ {
+  "hanzi": "一下子",
+  "pinyin": "yīxiàzi",
+  "meaning_ru": "вдруг; разом",
+  "meaning_en": "all at once; suddenly"
+ },
+ {
+  "hanzi": "有力",
+  "pinyin": "yǒulì",
+  "meaning_ru": "сильный; мощный (о доводах)",
+  "meaning_en": "forceful; powerful (of args)"
+ },
+ {
+  "hanzi": "尽可能",
+  "pinyin": "jǐnkěnéng",
+  "meaning_ru": "по возможности",
+  "meaning_en": "as far as possible"
+ },
+ {
+  "hanzi": "寸",
+  "pinyin": "cùn",
+  "meaning_ru": "цунь (мера длины)",
+  "meaning_en": "cun; unit of length"
+ },
+ {
+  "hanzi": "兔",
+  "pinyin": "tù",
+  "meaning_ru": "заяц/кролик (книжн., в словах)",
+  "meaning_en": "rabbit; hare (in compounds)"
+ },
+ {
+  "hanzi": "骗子",
+  "pinyin": "piànzi",
+  "meaning_ru": "мошенник (лицо, сущ.)",
+  "meaning_en": "swindler (person, noun)"
+ },
+ {
+  "hanzi": "增强",
+  "pinyin": "zēngqiáng",
+  "meaning_ru": "усиливать; укреплять",
+  "meaning_en": "to strengthen; enhance"
+ },
+ {
+  "hanzi": "握",
+  "pinyin": "wò",
+  "meaning_ru": "держать; сжимать",
+  "meaning_en": "to hold; to grasp"
+ },
+ {
+  "hanzi": "不良",
+  "pinyin": "bùliáng",
+  "meaning_ru": "плохой; вредный (офиц.)",
+  "meaning_en": "bad; harmful (formal only)"
+ },
+ {
+  "hanzi": "真诚",
+  "pinyin": "zhēnchéng",
+  "meaning_ru": "искренний",
+  "meaning_en": "sincere; genuine"
+ },
+ {
+  "hanzi": "挣",
+  "pinyin": "zhèng",
+  "meaning_ru": "зарабатывать",
+  "meaning_en": "to earn; make money"
+ },
+ {
+  "hanzi": "暂停",
+  "pinyin": "zàntíng",
+  "meaning_ru": "приостановить; пауза",
+  "meaning_en": "to suspend; pause"
+ },
+ {
+  "hanzi": "大胆",
+  "pinyin": "dàdǎn",
+  "meaning_ru": "смелый; дерзкий",
+  "meaning_en": "bold; daring (can be reckless)"
+ },
+ {
+  "hanzi": "也好",
+  "pinyin": "yěhǎo",
+  "meaning_ru": "и ладно; пусть так",
+  "meaning_en": "that's fine; may as well"
+ },
+ {
+  "hanzi": "偷偷",
+  "pinyin": "tōutōu",
+  "meaning_ru": "тайком (скрывая умысел; ≠ 悄悄)",
+  "meaning_en": "secretly (≠ 悄悄 quietly)"
+ },
+ {
+  "hanzi": "决不",
+  "pinyin": "juébù",
+  "meaning_ru": "ни за что; никогда",
+  "meaning_en": "by no means; never"
+ },
+ {
+  "hanzi": "增",
+  "pinyin": "zēng",
+  "meaning_ru": "увеличивать; прибавлять",
+  "meaning_en": "increase; add (morpheme)"
+ },
+ {
+  "hanzi": "肩",
+  "pinyin": "jiān",
+  "meaning_ru": "плечо",
+  "meaning_en": "shoulder"
+ },
+ {
+  "hanzi": "处在",
+  "pinyin": "chǔzài",
+  "meaning_ru": "находиться в состоянии",
+  "meaning_en": "be in a state/condition"
+ },
+ {
+  "hanzi": "睡眠",
+  "pinyin": "shuìmián",
+  "meaning_ru": "сон",
+  "meaning_en": "sleep"
+ },
+ {
+  "hanzi": "困扰",
+  "pinyin": "kùnrǎo",
+  "meaning_ru": "беспокоить; мучить",
+  "meaning_en": "to perplex; to trouble"
+ },
+ {
+  "hanzi": "紧紧",
+  "pinyin": "jǐnjǐn",
+  "meaning_ru": "крепко; плотно",
+  "meaning_en": "tightly; closely"
+ },
+ {
+  "hanzi": "减轻",
+  "pinyin": "jiǎnqīng",
+  "meaning_ru": "облегчить; уменьшить (нагрузку)",
+  "meaning_en": "reduce (burden or severity)"
+ },
+ {
+  "hanzi": "献",
+  "pinyin": "xiàn",
+  "meaning_ru": "преподносить; жертвовать",
+  "meaning_en": "to offer; dedicate"
+ },
+ {
+  "hanzi": "上下",
+  "pinyin": "shàngxià",
+  "meaning_ru": "верх и низ; около",
+  "meaning_en": "up and down; about"
+ },
+ {
+  "hanzi": "军人",
+  "pinyin": "jūnrén",
+  "meaning_ru": "военный; солдат",
+  "meaning_en": "serviceman; soldier"
+ },
+ {
+  "hanzi": "机器人",
+  "pinyin": "jīqìrén",
+  "meaning_ru": "робот",
+  "meaning_en": "robot; android"
+ },
+ {
+  "hanzi": "逃跑",
+  "pinyin": "táopǎo",
+  "meaning_ru": "удирать (с акцентом на бег)",
+  "meaning_en": "flee by running"
+ },
+ {
+  "hanzi": "钢琴",
+  "pinyin": "gāngqín",
+  "meaning_ru": "фортепиано",
+  "meaning_en": "piano"
+ },
+ {
+  "hanzi": "转换",
+  "pinyin": "zhuǎnhuàn",
+  "meaning_ru": "переключать (режим, канал)",
+  "meaning_en": "switch modes/channels"
+ },
+ {
+  "hanzi": "脸色",
+  "pinyin": "liǎnsè",
+  "meaning_ru": "цвет лица; выражение лица",
+  "meaning_en": "complexion; expression (face)"
+ },
+ {
+  "hanzi": "收购",
+  "pinyin": "shōugòu",
+  "meaning_ru": "скупать; поглощать (фирму)",
+  "meaning_en": "to buy up; acquire"
+ },
+ {
+  "hanzi": "琴",
+  "pinyin": "qín",
+  "meaning_ru": "цинь; струнный инструмент",
+  "meaning_en": "qin; zither"
+ },
+ {
+  "hanzi": "中毒",
+  "pinyin": "zhòngdú",
+  "meaning_ru": "отравиться",
+  "meaning_en": "to be poisoned"
+ },
+ {
+  "hanzi": "早期",
+  "pinyin": "zǎoqī",
+  "meaning_ru": "ранний период (≠ самое начало)",
+  "meaning_en": "early stage (not the very start)"
+ },
+ {
+  "hanzi": "深处",
+  "pinyin": "shēnchù",
+  "meaning_ru": "глубина; недра",
+  "meaning_en": "depths; deepest part"
+ },
+ {
+  "hanzi": "损害",
+  "pinyin": "sǔnhài",
+  "meaning_ru": "ущерб; вредить (абстрактно)",
+  "meaning_en": "harm; damage (abstract)"
+ },
+ {
+  "hanzi": "赔",
+  "pinyin": "péi",
+  "meaning_ru": "возмещать; работать в убыток",
+  "meaning_en": "compensate; sell at a loss"
+ },
+ {
+  "hanzi": "糟",
+  "pinyin": "zāo",
+  "meaning_ru": "скверно; ужасно",
+  "meaning_en": "terrible; in a mess"
+ },
+ {
+  "hanzi": "摄影师",
+  "pinyin": "shèyǐngshī",
+  "meaning_ru": "фотограф; оператор",
+  "meaning_en": "photographer; cameraman"
+ },
+ {
+  "hanzi": "四周",
+  "pinyin": "sìzhōu",
+  "meaning_ru": "вокруг; со всех сторон",
+  "meaning_en": "all around"
+ },
+ {
+  "hanzi": "在内",
+  "pinyin": "zàinèi",
+  "meaning_ru": "включая; в том числе",
+  "meaning_en": "included; among them"
+ },
+ {
+  "hanzi": "餐馆",
+  "pinyin": "cānguǎn",
+  "meaning_ru": "ресторан",
+  "meaning_en": "restaurant"
+ },
+ {
+  "hanzi": "得以",
+  "pinyin": "déyǐ",
+  "meaning_ru": "получить возможность",
+  "meaning_en": "manage to; be enabled to"
+ },
+ {
+  "hanzi": "键",
+  "pinyin": "jiàn",
+  "meaning_ru": "клавиша; кнопка",
+  "meaning_en": "key; button"
+ },
+ {
+  "hanzi": "闲",
+  "pinyin": "xián",
+  "meaning_ru": "свободный; праздный (прил.)",
+  "meaning_en": "idle; free (adj., not busy)"
+ },
+ {
+  "hanzi": "猜测",
+  "pinyin": "cāicè",
+  "meaning_ru": "предполагать (обдуманно)",
+  "meaning_en": "guess; conjecture (reasoned)"
+ },
+ {
+  "hanzi": "转向",
+  "pinyin": "zhuǎnxiàng",
+  "meaning_ru": "повернуть; сменить курс",
+  "meaning_en": "change direction; pivot"
+ },
+ {
+  "hanzi": "鼓",
+  "pinyin": "gǔ",
+  "meaning_ru": "барабан; бить в барабан",
+  "meaning_en": "drum; to drum"
+ },
+ {
+  "hanzi": "从中",
+  "pinyin": "cóngzhōng",
+  "meaning_ru": "из этого; отсюда (источник)",
+  "meaning_en": "from within (therefrom)"
+ },
+ {
+  "hanzi": "现有",
+  "pinyin": "xiànyǒu",
+  "meaning_ru": "имеющийся; наличный",
+  "meaning_en": "existing; available"
+ },
+ {
+  "hanzi": "处罚",
+  "pinyin": "chǔfá",
+  "meaning_ru": "наказывать; штрафовать (адм.)",
+  "meaning_en": "penalize; punish (admin.)"
+ },
+ {
+  "hanzi": "行驶",
+  "pinyin": "xíngshǐ",
+  "meaning_ru": "ехать; двигаться (транспорт)",
+  "meaning_en": "to drive; travel (vehicle)"
+ },
+ {
+  "hanzi": "脚步",
+  "pinyin": "jiǎobù",
+  "meaning_ru": "шаг; звук шагов (конкретн.)",
+  "meaning_en": "footstep; sound of steps"
+ },
+ {
+  "hanzi": "流动",
+  "pinyin": "liúdòng",
+  "meaning_ru": "циркулировать (толпы, капитал)",
+  "meaning_en": "circulate; flow (crowds/capital)"
+ },
+ {
+  "hanzi": "带有",
+  "pinyin": "dàiyǒu",
+  "meaning_ru": "иметь оттенок чего-л.",
+  "meaning_en": "carry (a slight tinge)"
+ },
+ {
+  "hanzi": "喜剧",
+  "pinyin": "xǐjù",
+  "meaning_ru": "комедия",
+  "meaning_en": "comedy"
+ },
+ {
+  "hanzi": "签约",
+  "pinyin": "qiānyuē",
+  "meaning_ru": "заключать договор (ком./юр.)",
+  "meaning_en": "sign a contract (com./legal)"
+ },
+ {
+  "hanzi": "群体",
+  "pinyin": "qúntǐ",
+  "meaning_ru": "группа; сообщество",
+  "meaning_en": "social group (formal)"
+ },
+ {
+  "hanzi": "城里",
+  "pinyin": "chénglǐ",
+  "meaning_ru": "в городе",
+  "meaning_en": "in the city"
+ },
+ {
+  "hanzi": "胆",
+  "pinyin": "dǎn",
+  "meaning_ru": "смелость; желчный пузырь",
+  "meaning_en": "courage; gall bladder"
+ },
+ {
+  "hanzi": "共享",
+  "pinyin": "gòngxiǎng",
+  "meaning_ru": "совместно пользоваться",
+  "meaning_en": "share jointly (resources)"
+ },
+ {
+  "hanzi": "愁",
+  "pinyin": "chóu",
+  "meaning_ru": "тосковать, кручиниться",
+  "meaning_en": "brood; feel diffuse sadness"
+ },
+ {
+  "hanzi": "存款",
+  "pinyin": "cúnkuǎn",
+  "meaning_ru": "вклад; класть деньги в банк",
+  "meaning_en": "savings; make a bank deposit"
+ },
+ {
+  "hanzi": "深度",
+  "pinyin": "shēndù",
+  "meaning_ru": "глубина",
+  "meaning_en": "depth"
+ },
+ {
+  "hanzi": "增产",
+  "pinyin": "zēngchǎn",
+  "meaning_ru": "увеличивать производство",
+  "meaning_en": "to raise output"
+ },
+ {
+  "hanzi": "博客",
+  "pinyin": "bókè",
+  "meaning_ru": "блог",
+  "meaning_en": "blog"
+ },
+ {
+  "hanzi": "停留",
+  "pinyin": "tíngliú",
+  "meaning_ru": "задержаться; не ехать дальше",
+  "meaning_en": "stop over; linger"
+ },
+ {
+  "hanzi": "将要",
+  "pinyin": "jiāngyào",
+  "meaning_ru": "вот-вот; скоро (письм.)",
+  "meaning_en": "about to happen (formal)"
+ },
+ {
+  "hanzi": "如下",
+  "pinyin": "rúxià",
+  "meaning_ru": "следующим образом",
+  "meaning_en": "as follows"
+ },
+ {
+  "hanzi": "肠",
+  "pinyin": "cháng",
+  "meaning_ru": "кишечник; кишка",
+  "meaning_en": "intestines; gut"
+ },
+ {
+  "hanzi": "体力",
+  "pinyin": "tǐlì",
+  "meaning_ru": "физич. сила; выносливость",
+  "meaning_en": "physical strength; fitness"
+ },
+ {
+  "hanzi": "气体",
+  "pinyin": "qìtǐ",
+  "meaning_ru": "газ (состояние вещества)",
+  "meaning_en": "gas (state of matter)"
+ },
+ {
+  "hanzi": "视为",
+  "pinyin": "shìwéi",
+  "meaning_ru": "рассматривать как (книжн.)",
+  "meaning_en": "regard as (formal/written)"
+ },
+ {
+  "hanzi": "低于",
+  "pinyin": "dīyú",
+  "meaning_ru": "ниже чем",
+  "meaning_en": "to be lower than"
+ },
+ {
+  "hanzi": "夜间",
+  "pinyin": "yèjiān",
+  "meaning_ru": "в ночное время (офиц.)",
+  "meaning_en": "nighttime (formal/written)"
+ },
+ {
+  "hanzi": "会谈",
+  "pinyin": "huìtán",
+  "meaning_ru": "переговоры (полит./высок.)",
+  "meaning_en": "formal talks (political)"
+ },
+ {
+  "hanzi": "沟",
+  "pinyin": "gōu",
+  "meaning_ru": "канава; ров",
+  "meaning_en": "ditch; groove"
+ },
+ {
+  "hanzi": "地带",
+  "pinyin": "dìdài",
+  "meaning_ru": "зона; пояс",
+  "meaning_en": "zone; belt"
+ },
+ {
+  "hanzi": "违规",
+  "pinyin": "wéiguī",
+  "meaning_ru": "нарушить правила (проц.)",
+  "meaning_en": "break rules (procedural)"
+ },
+ {
+  "hanzi": "分成",
+  "pinyin": "fēnchéng",
+  "meaning_ru": "разделить на части",
+  "meaning_en": "divide into (concrete parts)"
+ },
+ {
+  "hanzi": "慌",
+  "pinyin": "huāng",
+  "meaning_ru": "паниковать; растеряться",
+  "meaning_en": "to panic; flustered"
+ },
+ {
+  "hanzi": "胡子",
+  "pinyin": "húzi",
+  "meaning_ru": "борода; усы (разговорное)",
+  "meaning_en": "beard; mustache (colloquial)"
+ },
+ {
+  "hanzi": "西装",
+  "pinyin": "xīzhuāng",
+  "meaning_ru": "костюм (мужской)",
+  "meaning_en": "suit; Western dress"
+ },
+ {
+  "hanzi": "猴",
+  "pinyin": "hóu",
+  "meaning_ru": "обезьяна (морфема; зодиак)",
+  "meaning_en": "monkey (morpheme; zodiac)"
+ },
+ {
+  "hanzi": "抬头",
+  "pinyin": "táitóu",
+  "meaning_ru": "поднять голову (вверх)",
+  "meaning_en": "raise one's head (look up)"
+ },
+ {
+  "hanzi": "灰色",
+  "pinyin": "huīsè",
+  "meaning_ru": "серый цвет",
+  "meaning_en": "gray; also: ambiguous"
+ },
+ {
+  "hanzi": "向上",
+  "pinyin": "xiàngshàng",
+  "meaning_ru": "вверх; к лучшему",
+  "meaning_en": "upward; to improve"
+ },
+ {
+  "hanzi": "摄像机",
+  "pinyin": "shèxiàngjī",
+  "meaning_ru": "видеокамера",
+  "meaning_en": "video camera"
+ },
+ {
+  "hanzi": "一带",
+  "pinyin": "yīdài",
+  "meaning_ru": "район; местность",
+  "meaning_en": "area; region"
+ },
+ {
+  "hanzi": "更换",
+  "pinyin": "gēnghuàn",
+  "meaning_ru": "заменять (вещь; офиц.)",
+  "meaning_en": "replace (object, formally)"
+ },
+ {
+  "hanzi": "礼拜",
+  "pinyin": "lǐbài",
+  "meaning_ru": "неделя; богослужение",
+  "meaning_en": "week; worship"
+ },
+ {
+  "hanzi": "怨",
+  "pinyin": "yuàn",
+  "meaning_ru": "винить; затаить обиду",
+  "meaning_en": "blame; harbor resentment"
+ },
+ {
+  "hanzi": "言语",
+  "pinyin": "yányǔ",
+  "meaning_ru": "речь; слова (сущ.)",
+  "meaning_en": "speech; words (as a noun)"
+ },
+ {
+  "hanzi": "再也",
+  "pinyin": "zàiyě",
+  "meaning_ru": "больше уже не",
+  "meaning_en": "never again (needs 不: 再也不)"
+ },
+ {
+  "hanzi": "由此",
+  "pinyin": "yóucǐ",
+  "meaning_ru": "отсюда; тем самым",
+  "meaning_en": "hereby; from this"
+ },
+ {
+  "hanzi": "摇头",
+  "pinyin": "yáotóu",
+  "meaning_ru": "качать головой",
+  "meaning_en": "to shake one's head"
+ },
+ {
+  "hanzi": "点燃",
+  "pinyin": "diǎnrán",
+  "meaning_ru": "зажигать; поджигать",
+  "meaning_en": "to ignite; light up"
+ },
+ {
+  "hanzi": "来信",
+  "pinyin": "láixìn",
+  "meaning_ru": "входящее письмо",
+  "meaning_en": "incoming letter"
+ },
+ {
+  "hanzi": "总体",
+  "pinyin": "zǒngtǐ",
+  "meaning_ru": "в целом; суммарный",
+  "meaning_en": "overall; in aggregate"
+ },
+ {
+  "hanzi": "光线",
+  "pinyin": "guāngxiàn",
+  "meaning_ru": "свет, луч (≠ 灯光 «освещение»)",
+  "meaning_en": "light ray (natural; ≠ 灯光)"
+ },
+ {
+  "hanzi": "强度",
+  "pinyin": "qiángdù",
+  "meaning_ru": "интенсивность (измеримая)",
+  "meaning_en": "intensity; measurable degree"
+ },
+ {
+  "hanzi": "高于",
+  "pinyin": "gāoyú",
+  "meaning_ru": "выше (для уровней/значений)",
+  "meaning_en": "higher than (levels/values)"
+ },
+ {
+  "hanzi": "变动",
+  "pinyin": "biàndòng",
+  "meaning_ru": "колебание; сдвиг",
+  "meaning_en": "fluctuation; shift"
+ },
+ {
+  "hanzi": "泉",
+  "pinyin": "quán",
+  "meaning_ru": "родник; источник",
+  "meaning_en": "spring (water)"
+ },
+ {
+  "hanzi": "漏洞",
+  "pinyin": "lòudòng",
+  "meaning_ru": "брешь; лазейка",
+  "meaning_en": "loophole; gap"
+ },
+ {
+  "hanzi": "查询",
+  "pinyin": "cháxún",
+  "meaning_ru": "запрашивать данные; справки",
+  "meaning_en": "query; look up (facts/data)"
+ },
+ {
+  "hanzi": "铃声",
+  "pinyin": "língshēng",
+  "meaning_ru": "звонок; рингтон",
+  "meaning_en": "ring; ringtone"
+ },
+ {
+  "hanzi": "逃走",
+  "pinyin": "táozǒu",
+  "meaning_ru": "сбежать (направленно)",
+  "meaning_en": "flee and leave (directional)"
+ },
+ {
+  "hanzi": "研究所",
+  "pinyin": "yánjiūsuǒ",
+  "meaning_ru": "научный институт",
+  "meaning_en": "research institute"
+ },
+ {
+  "hanzi": "人力",
+  "pinyin": "rénlì",
+  "meaning_ru": "людские ресурсы; кадры",
+  "meaning_en": "manpower; human resources"
+ },
+ {
+  "hanzi": "消费者",
+  "pinyin": "xiāofèizhě",
+  "meaning_ru": "потребитель",
+  "meaning_en": "consumer"
+ },
+ {
+  "hanzi": "加以",
+  "pinyin": "jiāyǐ",
+  "meaning_ru": "произвести действие (книжн.)",
+  "meaning_en": "apply an action to (formal)"
+ },
+ {
+  "hanzi": "不停",
+  "pinyin": "bùtíng",
+  "meaning_ru": "беспрерывно; без остановки",
+  "meaning_en": "incessantly; non-stop"
+ },
+ {
+  "hanzi": "咳",
+  "pinyin": "hāi",
+  "meaning_ru": "эх!; ах! (междометие)",
+  "meaning_en": "oh!; hey! (interjection)"
+ },
+ {
+  "hanzi": "月球",
+  "pinyin": "yuèqiú",
+  "meaning_ru": "Луна (научн., космич.)",
+  "meaning_en": "the Moon (scientific)"
+ },
+ {
+  "hanzi": "景象",
+  "pinyin": "jǐngxiàng",
+  "meaning_ru": "зрелище (объективное; ≠ 情景)",
+  "meaning_en": "scene/sight (objective view)"
+ },
+ {
+  "hanzi": "此后",
+  "pinyin": "cǐhòu",
+  "meaning_ru": "впредь; с тех пор (книжн.)",
+  "meaning_en": "hereafter; from now on (formal)"
+ },
+ {
+  "hanzi": "升高",
+  "pinyin": "shēnggāo",
+  "meaning_ru": "повышаться (темп., уровень)",
+  "meaning_en": "rise in degree (temp/level)"
+ },
+ {
+  "hanzi": "远处",
+  "pinyin": "yuǎnchù",
+  "meaning_ru": "вдали (сущ. места)",
+  "meaning_en": "afar; the distant place"
+ },
+ {
+  "hanzi": "有毒",
+  "pinyin": "yǒudú",
+  "meaning_ru": "ядовитый (предикат. прил.)",
+  "meaning_en": "poisonous; toxic (pred. adj)"
+ },
+ {
+  "hanzi": "叉",
+  "pinyin": "chā",
+  "meaning_ru": "вилка; крест (X)",
+  "meaning_en": "fork; cross mark"
+ },
+ {
+  "hanzi": "墙壁",
+  "pinyin": "qiángbì",
+  "meaning_ru": "стена",
+  "meaning_en": "wall"
+ },
+ {
+  "hanzi": "预备",
+  "pinyin": "yùbèi",
+  "meaning_ru": "готовиться (лично)",
+  "meaning_en": "get ready (personal prep)"
+ },
+ {
+  "hanzi": "有害",
+  "pinyin": "yǒuhài",
+  "meaning_ru": "вредный; пагубный",
+  "meaning_en": "harmful (adj; cf. 危害 verb)"
+ },
+ {
+  "hanzi": "看成",
+  "pinyin": "kànchéng",
+  "meaning_ru": "считать (за кого-л./что-л.)",
+  "meaning_en": "regard as (equate X with Y)"
+ },
+ {
+  "hanzi": "转化",
+  "pinyin": "zhuǎnhuà",
+  "meaning_ru": "преобразовывать (по сути)",
+  "meaning_en": "convert/transform (nature)"
+ },
+ {
+  "hanzi": "有利于",
+  "pinyin": "yǒulìyú",
+  "meaning_ru": "способствовать; полезно для",
+  "meaning_en": "beneficial to; advantageous"
+ },
+ {
+  "hanzi": "高跟鞋",
+  "pinyin": "gāogēnxié",
+  "meaning_ru": "туфли на каблуках",
+  "meaning_en": "high-heeled shoes"
+ },
+ {
+  "hanzi": "上涨",
+  "pinyin": "shàngzhǎng",
+  "meaning_ru": "расти (о ценах, уровнях)",
+  "meaning_en": "rise (prices/figures, econ.)"
+ },
+ {
+  "hanzi": "摔倒",
+  "pinyin": "shuāidǎo",
+  "meaning_ru": "упасть (споткнуться)",
+  "meaning_en": "fall down (trip bodily)"
+ },
+ {
+  "hanzi": "诗歌",
+  "pinyin": "shīgē",
+  "meaning_ru": "поэзия (жанр, собир.)",
+  "meaning_en": "poetry (genre, collective)"
+ },
+ {
+  "hanzi": "热量",
+  "pinyin": "rèliàng",
+  "meaning_ru": "калории; теплота",
+  "meaning_en": "calories; heat"
+ },
+ {
+  "hanzi": "亏",
+  "pinyin": "kuī",
+  "meaning_ru": "терпеть убыток; недостача",
+  "meaning_en": "to lose money; deficit"
+ },
+ {
+  "hanzi": "直线",
+  "pinyin": "zhíxiàn",
+  "meaning_ru": "прямая линия",
+  "meaning_en": "straight line"
+ },
+ {
+  "hanzi": "口号",
+  "pinyin": "kǒuhào",
+  "meaning_ru": "лозунг, призыв",
+  "meaning_en": "slogan"
+ },
+ {
+  "hanzi": "拆除",
+  "pinyin": "chāichú",
+  "meaning_ru": "сносить, демонтировать",
+  "meaning_en": "demolish; remove (officially)"
+ },
+ {
+  "hanzi": "递给",
+  "pinyin": "dìgěi",
+  "meaning_ru": "подать в руки (без передачи)",
+  "meaning_en": "hand to (no transfer)"
+ },
+ {
+  "hanzi": "长度",
+  "pinyin": "chángdù",
+  "meaning_ru": "длина",
+  "meaning_en": "length"
+ },
+ {
+  "hanzi": "煤",
+  "pinyin": "méi",
+  "meaning_ru": "уголь (разг. корень)",
+  "meaning_en": "coal (everyday root word)"
+ },
+ {
+  "hanzi": "不曾",
+  "pinyin": "bùcéng",
+  "meaning_ru": "никогда не (отрицание опыта)",
+  "meaning_en": "have never (experiential)"
+ },
+ {
+  "hanzi": "摄像",
+  "pinyin": "shèxiàng",
+  "meaning_ru": "снимать на видео",
+  "meaning_en": "to videotape; film"
+ },
+ {
+  "hanzi": "鸭子",
+  "pinyin": "yāzi",
+  "meaning_ru": "утка",
+  "meaning_en": "duck"
+ },
+ {
+  "hanzi": "背包",
+  "pinyin": "bēibāo",
+  "meaning_ru": "рюкзак",
+  "meaning_en": "backpack; rucksack"
+ },
+ {
+  "hanzi": "车主",
+  "pinyin": "chēzhǔ",
+  "meaning_ru": "владелец машины",
+  "meaning_en": "car owner"
+ },
+ {
+  "hanzi": "用不着",
+  "pinyin": "yòngbuzháo",
+  "meaning_ru": "не нужно; ни к чему",
+  "meaning_en": "no need; needless"
+ },
+ {
+  "hanzi": "加热",
+  "pinyin": "jiārè",
+  "meaning_ru": "нагревать",
+  "meaning_en": "to heat up"
+ },
+ {
+  "hanzi": "一身",
+  "pinyin": "yīshēn",
+  "meaning_ru": "с головы до ног (一身汗)",
+  "meaning_en": "covered in (set-phrase: 一身汗)"
+ },
+ {
+  "hanzi": "高大",
+  "pinyin": "gāodà",
+  "meaning_ru": "высокий и крупный",
+  "meaning_en": "tall and large/imposing"
+ },
+ {
+  "hanzi": "高温",
+  "pinyin": "gāowēn",
+  "meaning_ru": "высокая температура",
+  "meaning_en": "high temperature"
+ },
+ {
+  "hanzi": "为主",
+  "pinyin": "wéizhǔ",
+  "meaning_ru": "главным образом (приоритет)",
+  "meaning_en": "to give priority to"
+ },
+ {
+  "hanzi": "特性",
+  "pinyin": "tèxìng",
+  "meaning_ru": "внутр. свойство (научн.)",
+  "meaning_en": "intrinsic property (tech)"
+ },
+ {
+  "hanzi": "草原",
+  "pinyin": "cǎoyuán",
+  "meaning_ru": "степь; луга",
+  "meaning_en": "grassland; prairie"
+ },
+ {
+  "hanzi": "灾",
+  "pinyin": "zāi",
+  "meaning_ru": "бедствие (морфема; ср. 灾害)",
+  "meaning_en": "disaster (morpheme; cf. 灾害)"
+ },
+ {
+  "hanzi": "依照",
+  "pinyin": "yīzhào",
+  "meaning_ru": "согласно (норме/закону, кн.)",
+  "meaning_en": "according to (norm, formal)"
+ },
+ {
+  "hanzi": "煤气",
+  "pinyin": "méiqì",
+  "meaning_ru": "бытовой газ (сетевой)",
+  "meaning_en": "domestic gas (coal/piped)"
+ },
+ {
+  "hanzi": "脆",
+  "pinyin": "cuì",
+  "meaning_ru": "хрупкий; хрустящий",
+  "meaning_en": "brittle; crisp"
+ },
+ {
+  "hanzi": "制成",
+  "pinyin": "zhìchéng",
+  "meaning_ru": "изготовить из (до изделия)",
+  "meaning_en": "make into (finished product)"
+ },
+ {
+  "hanzi": "赠",
+  "pinyin": "zèng",
+  "meaning_ru": "дарить; преподносить",
+  "meaning_en": "to give as a gift"
+ },
+ {
+  "hanzi": "初期",
+  "pinyin": "chūqī",
+  "meaning_ru": "начальный период (первая фаза)",
+  "meaning_en": "initial stage (opening phase)"
+ },
+ {
+  "hanzi": "搞好",
+  "pinyin": "gǎohǎo",
+  "meaning_ru": "хорошо сделать; наладить",
+  "meaning_en": "to do well; manage well"
+ },
+ {
+  "hanzi": "敲门",
+  "pinyin": "qiāomén",
+  "meaning_ru": "стучать в дверь",
+  "meaning_en": "to knock on a door"
+ },
+ {
+  "hanzi": "污水",
+  "pinyin": "wūshuǐ",
+  "meaning_ru": "сточные воды",
+  "meaning_en": "sewage; wastewater"
+ },
+ {
+  "hanzi": "增大",
+  "pinyin": "zēngdà",
+  "meaning_ru": "увеличивать(ся) (размер)",
+  "meaning_en": "increase in size or amount"
+ },
+ {
+  "hanzi": "开幕",
+  "pinyin": "kāimù",
+  "meaning_ru": "открываться (о событии)",
+  "meaning_en": "to open (an event)"
+ },
+ {
+  "hanzi": "特有",
+  "pinyin": "tèyǒu",
+  "meaning_ru": "присущий; характерный",
+  "meaning_en": "specific to; distinctive"
+ },
+ {
+  "hanzi": "领带",
+  "pinyin": "lǐngdài",
+  "meaning_ru": "галстук",
+  "meaning_en": "necktie"
+ },
+ {
+  "hanzi": "依法",
+  "pinyin": "yīfǎ",
+  "meaning_ru": "по закону; согласно праву",
+  "meaning_en": "according to law"
+ },
+ {
+  "hanzi": "先后",
+  "pinyin": "xiānhòu",
+  "meaning_ru": "по очереди; в порядке",
+  "meaning_en": "in sequence; one after another"
+ },
+ {
+  "hanzi": "摩托",
+  "pinyin": "mótuō",
+  "meaning_ru": "мотоцикл (сокращ.); мотор",
+  "meaning_en": "motorbike (abbrev.); motor"
+ },
+ {
+  "hanzi": "烤肉",
+  "pinyin": "kǎoròu",
+  "meaning_ru": "жареное мясо; барбекю",
+  "meaning_en": "barbecue; roast meat"
+ },
+ {
+  "hanzi": "明亮",
+  "pinyin": "míngliàng",
+  "meaning_ru": "яркий; хорошо освещённый",
+  "meaning_en": "bright; well-lit (physical)"
+ },
+ {
+  "hanzi": "总数",
+  "pinyin": "zǒngshù",
+  "meaning_ru": "общее число (итог)",
+  "meaning_en": "total count/number (noun)"
+ },
+ {
+  "hanzi": "大于",
+  "pinyin": "dàyú",
+  "meaning_ru": "больше чем",
+  "meaning_en": "greater than"
+ },
+ {
+  "hanzi": "水库",
+  "pinyin": "shuǐkù",
+  "meaning_ru": "водохранилище",
+  "meaning_en": "reservoir"
+ },
+ {
+  "hanzi": "火腿",
+  "pinyin": "huǒtuǐ",
+  "meaning_ru": "ветчина",
+  "meaning_en": "ham"
+ },
+ {
+  "hanzi": "工艺",
+  "pinyin": "gōngyì",
+  "meaning_ru": "ремесло; технология",
+  "meaning_en": "craft; technique"
+ },
+ {
+  "hanzi": "增多",
+  "pinyin": "zēngduō",
+  "meaning_ru": "увеличиваться (непереход.)",
+  "meaning_en": "to grow in number (intrans.)"
+ },
+ {
+  "hanzi": "不能不",
+  "pinyin": "bùnéngbù",
+  "meaning_ru": "не может не (принуждение)",
+  "meaning_en": "cannot but (compulsion)"
+ },
+ {
+  "hanzi": "输出",
+  "pinyin": "shūchū",
+  "meaning_ru": "вывод; экспорт",
+  "meaning_en": "to output; to export"
+ },
+ {
+  "hanzi": "游泳池",
+  "pinyin": "yóuyǒngchí",
+  "meaning_ru": "бассейн",
+  "meaning_en": "swimming pool"
+ },
+ {
+  "hanzi": "信箱",
+  "pinyin": "xìnxiāng",
+  "meaning_ru": "почтовый ящик",
+  "meaning_en": "mailbox"
+ },
+ {
+  "hanzi": "山区",
+  "pinyin": "shānqū",
+  "meaning_ru": "горная местность",
+  "meaning_en": "mountain area"
+ },
+ {
+  "hanzi": "驾照",
+  "pinyin": "jiàzhào",
+  "meaning_ru": "водительские права",
+  "meaning_en": "driver's license"
+ },
+ {
+  "hanzi": "水分",
+  "pinyin": "shuǐfèn",
+  "meaning_ru": "влага; влажность",
+  "meaning_en": "moisture content"
+ },
+ {
+  "hanzi": "辈",
+  "pinyin": "bèi",
+  "meaning_ru": "поколение",
+  "meaning_en": "generation"
+ },
+ {
+  "hanzi": "单一",
+  "pinyin": "dānyī",
+  "meaning_ru": "единообразный; однородный",
+  "meaning_en": "single; uniform (no variety)"
+ },
+ {
+  "hanzi": "儿女",
+  "pinyin": "érnǚ",
+  "meaning_ru": "дети (книжн., эмоц.)",
+  "meaning_en": "sons and daughters (lit.)"
+ },
+ {
+  "hanzi": "生成",
+  "pinyin": "shēngchéng",
+  "meaning_ru": "генерировать; порождать",
+  "meaning_en": "to generate; produce (tech)"
+ },
+ {
+  "hanzi": "原有",
+  "pinyin": "yuányǒu",
+  "meaning_ru": "изначально имевшийся",
+  "meaning_en": "pre-existing; original"
+ },
+ {
+  "hanzi": "雨水",
+  "pinyin": "yǔshuǐ",
+  "meaning_ru": "дождевая вода; осадки",
+  "meaning_en": "rainwater; rainfall"
+ },
+ {
+  "hanzi": "地形",
+  "pinyin": "dìxíng",
+  "meaning_ru": "рельеф (тип местности)",
+  "meaning_en": "terrain (landform types)"
+ },
+ {
+  "hanzi": "柜子",
+  "pinyin": "guìzi",
+  "meaning_ru": "шкаф; тумба",
+  "meaning_en": "cupboard; cabinet"
+ },
+ {
+  "hanzi": "乘车",
+  "pinyin": "chéngchē",
+  "meaning_ru": "ехать на транспорте (пасс.)",
+  "meaning_en": "travel by vehicle (as rider)"
+ },
+ {
+  "hanzi": "学科",
+  "pinyin": "xuékē",
+  "meaning_ru": "академическая дисциплина",
+  "meaning_en": "academic discipline (field)"
+ },
+ {
+  "hanzi": "大都",
+  "pinyin": "dàdū",
+  "meaning_ru": "большей частью (книжн.)",
+  "meaning_en": "mostly (literary adverb)"
+ },
+ {
+  "hanzi": "南北",
+  "pinyin": "nánběi",
+  "meaning_ru": "север и юг",
+  "meaning_en": "north and south"
+ },
+ {
+  "hanzi": "香肠",
+  "pinyin": "xiāngcháng",
+  "meaning_ru": "колбаса; сосиска",
+  "meaning_en": "sausage"
+ },
+ {
+  "hanzi": "餐饮",
+  "pinyin": "cānyǐn",
+  "meaning_ru": "питание; общепит",
+  "meaning_en": "food and beverage; catering"
+ },
+ {
+  "hanzi": "舍得",
+  "pinyin": "shěde",
+  "meaning_ru": "не жалеть; не скупиться",
+  "meaning_en": "to be willing to part with"
+ },
+ {
+  "hanzi": "南极",
+  "pinyin": "nánjí",
+  "meaning_ru": "Южный полюс",
+  "meaning_en": "the South Pole"
+ },
+ {
+  "hanzi": "法制",
+  "pinyin": "fǎzhì",
+  "meaning_ru": "правовая система; законность",
+  "meaning_en": "legal system; rule of law"
+ },
+ {
+  "hanzi": "团长",
+  "pinyin": "tuánzhǎng",
+  "meaning_ru": "командир полка; глава группы",
+  "meaning_en": "regiment/group leader"
+ },
+ {
+  "hanzi": "正如",
+  "pinyin": "zhèngrú",
+  "meaning_ru": "точно как; как и",
+  "meaning_en": "just as; exactly as"
+ },
+ {
+  "hanzi": "高原",
+  "pinyin": "gāoyuán",
+  "meaning_ru": "плато; нагорье",
+  "meaning_en": "plateau; highland"
+ },
+ {
+  "hanzi": "寿司",
+  "pinyin": "shòusī",
+  "meaning_ru": "суши",
+  "meaning_en": "sushi"
+ },
+ {
+  "hanzi": "物业",
+  "pinyin": "wùyè",
+  "meaning_ru": "недвижимость; ЖКХ",
+  "meaning_en": "property management"
+ },
+ {
+  "hanzi": "推行",
+  "pinyin": "tuīxíng",
+  "meaning_ru": "внедрять; продвигать",
+  "meaning_en": "to roll out; implement"
+ },
+ {
+  "hanzi": "水产品",
+  "pinyin": "shuǐchǎnpǐn",
+  "meaning_ru": "морепродукты",
+  "meaning_en": "aquatic products; seafood"
+ },
+ {
+  "hanzi": "胆小",
+  "pinyin": "dǎnxiǎo",
+  "meaning_ru": "трусливый; робкий",
+  "meaning_en": "timid; cowardly"
+ },
+ {
+  "hanzi": "一口气",
+  "pinyin": "yīkǒuqì",
+  "meaning_ru": "на одном дыхании; залпом",
+  "meaning_en": "in one breath; at a stretch"
+ },
+ {
+  "hanzi": "酒鬼",
+  "pinyin": "jiǔguǐ",
+  "meaning_ru": "пьяница; алкаш (разг.)",
+  "meaning_en": "drunkard (coll.)"
+ },
+ {
+  "hanzi": "长寿",
+  "pinyin": "chángshòu",
+  "meaning_ru": "долголетие; долгий век",
+  "meaning_en": "longevity; long-lived"
+ },
+ {
+  "hanzi": "修养",
+  "pinyin": "xiūyǎng",
+  "meaning_ru": "воспитанность; культура",
+  "meaning_en": "self-cultivation; refinement"
+ },
+ {
+  "hanzi": "华语",
+  "pinyin": "huáyǔ",
+  "meaning_ru": "китайский язык (диаспора)",
+  "meaning_en": "Chinese (diaspora term)"
+ },
+ {
+  "hanzi": "白酒",
+  "pinyin": "báijiǔ",
+  "meaning_ru": "байцзю (кит. водка)",
+  "meaning_en": "Chinese grain spirit"
+ },
+ {
+  "hanzi": "涨价",
+  "pinyin": "zhǎngjià",
+  "meaning_ru": "дорожать; рост цен",
+  "meaning_en": "prices go up (commerce)"
+ },
+ {
+  "hanzi": "招生",
+  "pinyin": "zhāoshēng",
+  "meaning_ru": "набор студентов",
+  "meaning_en": "to enroll students"
+ },
+ {
+  "hanzi": "回信",
+  "pinyin": "huíxìn",
+  "meaning_ru": "ответить письмом; ответ",
+  "meaning_en": "reply; write back"
+ },
+ {
+  "hanzi": "入门",
+  "pinyin": "rùmén",
+  "meaning_ru": "освоить азы; введение",
+  "meaning_en": "get started; basics"
+ },
+ {
+  "hanzi": "工作日",
+  "pinyin": "gōngzuòrì",
+  "meaning_ru": "рабочий день; будни",
+  "meaning_en": "workday; weekday"
+ },
+ {
+  "hanzi": "大奖赛",
+  "pinyin": "dàjiǎngsài",
+  "meaning_ru": "гран-при; турнир",
+  "meaning_en": "grand prix"
+ },
+ {
+  "hanzi": "主体",
+  "pinyin": "zhǔtǐ",
+  "meaning_ru": "основная часть; субъект",
+  "meaning_en": "main part; subject"
+ },
+ {
+  "hanzi": "贺卡",
+  "pinyin": "hèkǎ",
+  "meaning_ru": "поздравительная открытка",
+  "meaning_en": "greeting card"
+ },
+ {
+  "hanzi": "招手",
+  "pinyin": "zhāoshǒu",
+  "meaning_ru": "махать рукой; подзывать",
+  "meaning_en": "wave; beckon"
+ },
+ {
+  "hanzi": "出汗",
+  "pinyin": "chūhàn",
+  "meaning_ru": "потеть",
+  "meaning_en": "sweat; perspire"
+ },
+ {
+  "hanzi": "协议书",
+  "pinyin": "xiéyìshū",
+  "meaning_ru": "договор/соглашение (не всегда юр.)",
+  "meaning_en": "written agreement (non-binding ok)"
+ },
+ {
+  "hanzi": "胶带",
+  "pinyin": "jiāodài",
+  "meaning_ru": "клейкая лента; скотч",
+  "meaning_en": "adhesive tape"
+ },
+ {
+  "hanzi": "相声",
+  "pinyin": "xiàngsheng",
+  "meaning_ru": "сяншэн (комич. диалог)",
+  "meaning_en": "comic crosstalk"
+ },
+ {
+  "hanzi": "物价",
+  "pinyin": "wùjià",
+  "meaning_ru": "уровень цен (макро)",
+  "meaning_en": "price level (macro)"
+ },
+ {
+  "hanzi": "汇款",
+  "pinyin": "huìkuǎn",
+  "meaning_ru": "денежный перевод",
+  "meaning_en": "remittance; money transfer"
+ },
+ {
+  "hanzi": "农产品",
+  "pinyin": "nóngchǎnpǐn",
+  "meaning_ru": "сельхозпродукция",
+  "meaning_en": "farm produce"
+ },
+ {
+  "hanzi": "书桌",
+  "pinyin": "shūzhuō",
+  "meaning_ru": "письменный стол",
+  "meaning_en": "desk"
+ },
+ {
+  "hanzi": "桃花",
+  "pinyin": "táohuā",
+  "meaning_ru": "цветок персика",
+  "meaning_en": "peach blossom"
+ },
+ {
+  "hanzi": "不易",
+  "pinyin": "búyì",
+  "meaning_ru": "нелегко; непросто",
+  "meaning_en": "not easy; hard"
+ },
+ {
+  "hanzi": "宽度",
+  "pinyin": "kuāndù",
+  "meaning_ru": "ширина",
+  "meaning_en": "width"
+ },
+ {
+  "hanzi": "年前",
+  "pinyin": "niánqián",
+  "meaning_ru": "перед Новым годом",
+  "meaning_en": "before New Year"
+ },
+ {
+  "hanzi": "钢笔",
+  "pinyin": "gāngbǐ",
+  "meaning_ru": "перьевая ручка",
+  "meaning_en": "fountain pen"
+ },
+ {
+  "hanzi": "岸上",
+  "pinyin": "ànshàng",
+  "meaning_ru": "на берегу",
+  "meaning_en": "ashore; on the bank"
+ },
+ {
+  "hanzi": "大纲",
+  "pinyin": "dàgāng",
+  "meaning_ru": "программа; официальный план",
+  "meaning_en": "syllabus; official outline"
+ },
+ {
+  "hanzi": "灾区",
+  "pinyin": "zāiqū",
+  "meaning_ru": "зона бедствия",
+  "meaning_en": "disaster area"
+ },
+ {
+  "hanzi": "受灾",
+  "pinyin": "shòuzāi",
+  "meaning_ru": "пострадать от бедствия",
+  "meaning_en": "be hit by disaster (formal)"
+ },
+ {
+  "hanzi": "辞典",
+  "pinyin": "cídiǎn",
+  "meaning_ru": "словарь (слов и фраз)",
+  "meaning_en": "word dictionary (not chars)"
+ },
+ {
+  "hanzi": "大熊猫",
+  "pinyin": "dàxióngmāo",
+  "meaning_ru": "большая панда",
+  "meaning_en": "giant panda"
+ },
+ {
+  "hanzi": "差点儿",
+  "pinyin": "chàdiǎnr",
+  "meaning_ru": "чуть не; едва не",
+  "meaning_en": "almost; nearly"
+ },
+ {
+  "hanzi": "两岸",
+  "pinyin": "liǎngʼàn",
+  "meaning_ru": "оба берега",
+  "meaning_en": "both shores"
+ },
+ {
+  "hanzi": "中药",
+  "pinyin": "zhōngyào",
+  "meaning_ru": "традиционная кит. медицина",
+  "meaning_en": "traditional Chinese medicine"
+ },
+ {
+  "hanzi": "盒饭",
+  "pinyin": "héfàn",
+  "meaning_ru": "еда в коробке; ланч-бокс",
+  "meaning_en": "boxed meal"
+ },
+ {
+  "hanzi": "起到",
+  "pinyin": "qǐdào",
+  "meaning_ru": "сыграть (роль); оказать",
+  "meaning_en": "to play a role; have effect"
+ },
+ {
+  "hanzi": "救灾",
+  "pinyin": "jiùzāi",
+  "meaning_ru": "помощь пострадавшим",
+  "meaning_en": "disaster relief"
+ },
+ {
+  "hanzi": "个儿",
+  "pinyin": "gèr",
+  "meaning_ru": "рост; телосложение (разг.)",
+  "meaning_en": "height; build (N. dialect)"
+ },
+ {
+  "hanzi": "闭幕",
+  "pinyin": "bìmù",
+  "meaning_ru": "закрыться (о мероприятии)",
+  "meaning_en": "to close (event/ceremony)"
+ },
+ {
+  "hanzi": "选修",
+  "pinyin": "xuǎnxiū",
+  "meaning_ru": "взять по выбору; факультатив",
+  "meaning_en": "to take as elective"
+ },
+ {
+  "hanzi": "水灾",
+  "pinyin": "shuǐzāi",
+  "meaning_ru": "наводнение (стихийное)",
+  "meaning_en": "flood disaster"
+ },
+ {
+  "hanzi": "剪子",
+  "pinyin": "jiǎnzi",
+  "meaning_ru": "ножницы (разг.; ср. 剪刀)",
+  "meaning_en": "scissors (coll.; cf. 剪刀)"
+ },
+ {
+  "hanzi": "书柜",
+  "pinyin": "shūguì",
+  "meaning_ru": "книжный шкаф",
+  "meaning_en": "bookcase"
+ },
+ {
+  "hanzi": "只见",
+  "pinyin": "zhǐjiàn",
+  "meaning_ru": "и вдруг видишь; видно лишь",
+  "meaning_en": "suddenly one sees"
+ },
+ {
+  "hanzi": "酸甜苦辣",
+  "pinyin": "suāntiánkǔlà",
+  "meaning_ru": "превратности жизни (идиом.)",
+  "meaning_en": "life's ups and downs (idiom)"
+ },
+ {
+  "hanzi": "闭幕式",
+  "pinyin": "bìmùshì",
+  "meaning_ru": "церемония закрытия",
+  "meaning_en": "closing ceremony (cf. 开幕式)"
+ },
+ {
+  "hanzi": "厂长",
+  "pinyin": "chǎngzhǎng",
+  "meaning_ru": "директор завода",
+  "meaning_en": "factory director"
+ },
+ {
+  "hanzi": "桃树",
+  "pinyin": "táoshù",
+  "meaning_ru": "персиковое дерево",
+  "meaning_en": "peach tree"
+ },
+ {
+  "hanzi": "阅览室",
+  "pinyin": "yuèlǎnshì",
+  "meaning_ru": "читальный зал",
+  "meaning_en": "reading room"
+ },
+ {
+  "hanzi": "月饼",
+  "pinyin": "yuèbǐng",
+  "meaning_ru": "лунный пряник",
+  "meaning_en": "mooncake"
+ },
+ {
+  "hanzi": "毛笔",
+  "pinyin": "máobǐ",
+  "meaning_ru": "кисть для письма",
+  "meaning_en": "writing brush"
+ },
+ {
+  "hanzi": "豆制品",
+  "pinyin": "dòuzhìpǐn",
+  "meaning_ru": "соевые продукты",
+  "meaning_en": "soy products"
+ },
+ {
+  "hanzi": "脸盆",
+  "pinyin": "liǎnpén",
+  "meaning_ru": "таз для умывания",
+  "meaning_en": "washbasin"
+ },
+ {
+  "hanzi": "中秋节",
+  "pinyin": "zhōngqiūjié",
+  "meaning_ru": "праздник середины осени",
+  "meaning_en": "Mid-Autumn Festival"
+ },
+ {
+  "hanzi": "正版",
+  "pinyin": "zhèngbǎn",
+  "meaning_ru": "лицензионная версия",
+  "meaning_en": "genuine; licensed"
+ },
+ {
+  "hanzi": "电子版",
+  "pinyin": "diànzǐbǎn",
+  "meaning_ru": "электронная версия (формат)",
+  "meaning_en": "digital edition (format)"
+ },
+ {
+  "hanzi": "差一点儿",
+  "pinyin": "chàyìdiǎnr",
+  "meaning_ru": "чуть не; почти",
+  "meaning_en": "almost; nearly"
+ },
+ {
+  "hanzi": "电饭锅",
+  "pinyin": "diànfànguō",
+  "meaning_ru": "рисоварка",
+  "meaning_en": "rice cooker"
+ },
+ {
+  "hanzi": "小偷儿",
+  "pinyin": "xiǎotōur",
+  "meaning_ru": "вор",
+  "meaning_en": "thief"
+ },
+ {
+  "hanzi": "胡同儿",
+  "pinyin": "hútòngr",
+  "meaning_ru": "переулок",
+  "meaning_en": "alley; lane"
+ },
+ {
+  "hanzi": "二维码",
+  "pinyin": "èrwéimǎ",
+  "meaning_ru": "QR-код",
+  "meaning_en": "QR code"
+ },
+ {
+  "hanzi": "微博",
+  "pinyin": "wēibó",
+  "meaning_ru": "Вэйбо; микроблог",
+  "meaning_en": "Weibo; microblog"
+ },
+ {
+  "hanzi": "杀毒",
+  "pinyin": "shādú",
+  "meaning_ru": "удалять вирусы (комп.)",
+  "meaning_en": "remove virus; disinfect"
+ }
+]

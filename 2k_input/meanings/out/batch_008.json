@@ -1,0 +1,142 @@
+[
+ {
+  "hanzi": "好玩儿",
+  "pinyin": "hǎowánr",
+  "meaning_ru": "весёлый; забавный",
+  "meaning_en": "fun; amusing",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "课文",
+  "pinyin": "kèwén",
+  "meaning_ru": "текст (урока)",
+  "meaning_en": "text (lesson)",
+  "semantic_tags": [
+   "education"
+  ]
+ },
+ {
+  "hanzi": "请坐",
+  "pinyin": "qǐngzuò",
+  "meaning_ru": "садитесь, пожалуйста",
+  "meaning_en": "please sit down",
+  "semantic_tags": [
+   "politeness",
+   "greeting"
+  ]
+ },
+ {
+  "hanzi": "半年",
+  "pinyin": "bànnián",
+  "meaning_ru": "полгода",
+  "meaning_en": "half a year",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "听写",
+  "pinyin": "tīngxiě",
+  "meaning_ru": "диктант; писать под диктовку",
+  "meaning_en": "dictation",
+  "semantic_tags": [
+   "education",
+   "action_learning"
+  ]
+ },
+ {
+  "hanzi": "一下儿",
+  "pinyin": "yīxiàr",
+  "meaning_ru": "разок; немного",
+  "meaning_en": "once; a bit",
+  "semantic_tags": [
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "有一些",
+  "pinyin": "yǒuyīxiē",
+  "meaning_ru": "немного; несколько",
+  "meaning_en": "some; a few",
+  "semantic_tags": [
+   "quantity"
+  ]
+ },
+ {
+  "hanzi": "男孩儿",
+  "pinyin": "nánháir",
+  "meaning_ru": "мальчик",
+  "meaning_en": "boy",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "面条儿",
+  "pinyin": "miàntiáor",
+  "meaning_ru": "лапша",
+  "meaning_en": "noodles",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "让",
+  "pinyin": "ràng",
+  "meaning_ru": "позволять; заставлять",
+  "meaning_en": "to let; to make sb do",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "为",
+  "pinyin": "wéi",
+  "meaning_ru": "быть; являться; делать",
+  "meaning_en": "to be; to act as",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "可能",
+  "pinyin": "kěnéng",
+  "meaning_ru": "возможно; вероятно",
+  "meaning_en": "maybe; possible",
+  "semantic_tags": [
+   "judgement",
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "向",
+  "pinyin": "xiàng",
+  "meaning_ru": "к; в сторону",
+  "meaning_en": "towards; to face",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "meaning_ru": "продавать",
+  "meaning_en": "to sell",
+  "semantic_tags": [
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "句",
+  "pinyin": "jù",
+  "meaning_ru": "фраза; счётн. слово фраз",
+  "meaning_en": "sentence; (cl. phrases)",
+  "semantic_tags": [
+   "communication",
+   "measurement"
+  ]
+ }
+]

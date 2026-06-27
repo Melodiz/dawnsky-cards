@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "尺寸",
+  "pinyin": "chǐcun",
+  "meaning_ru": "размер; габариты",
+  "meaning_en": "size; dimensions",
+  "semantic_tags": [
+   "measurement",
+   "size"
+  ]
+ },
+ {
+  "hanzi": "穿上",
+  "pinyin": "chuānshang",
+  "meaning_ru": "надеть (одежду)",
+  "meaning_en": "to put on (clothes)",
+  "semantic_tags": [
+   "action_daily",
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "吸烟",
+  "pinyin": "xīyān",
+  "meaning_ru": "курить",
+  "meaning_en": "to smoke",
+  "semantic_tags": [
+   "action_daily",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "途中",
+  "pinyin": "túzhōng",
+  "meaning_ru": "в пути; по дороге",
+  "meaning_en": "en route; on the way",
+  "semantic_tags": [
+   "transport_travel",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "鲜",
+  "pinyin": "xiān",
+  "meaning_ru": "свежий",
+  "meaning_en": "fresh",
+  "semantic_tags": [
+   "evaluation_adj",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "避",
+  "pinyin": "bì",
+  "meaning_ru": "избегать; уклоняться",
+  "meaning_en": "to avoid; to evade",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "诗人",
+  "pinyin": "shīrén",
+  "meaning_ru": "поэт",
+  "meaning_en": "poet",
+  "semantic_tags": [
+   "occupation",
+   "art"
+  ]
+ },
+ {
+  "hanzi": "瓜",
+  "pinyin": "guā",
+  "meaning_ru": "тыква; дыня (бахчевые)",
+  "meaning_en": "melon; gourd",
+  "semantic_tags": [
+   "food",
+   "vegetable"
+  ]
+ },
+ {
+  "hanzi": "语音",
+  "pinyin": "yǔyīn",
+  "meaning_ru": "произношение; голос. сообщение",
+  "meaning_en": "pronunciation; voice",
+  "semantic_tags": [
+   "communication_formal",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "上个月",
+  "pinyin": "shànggèyuè",
+  "meaning_ru": "прошлый месяц",
+  "meaning_en": "last month",
+  "semantic_tags": [
+   "time_word",
+   "date"
+  ]
+ },
+ {
+  "hanzi": "毕业生",
+  "pinyin": "bìyèshēng",
+  "meaning_ru": "выпускник",
+  "meaning_en": "graduate",
+  "semantic_tags": [
+   "education",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "帅哥",
+  "pinyin": "shuàigē",
+  "meaning_ru": "красавчик (разг. обращение)",
+  "meaning_en": "handsome guy (coll.)",
+  "semantic_tags": [
+   "person",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "老家",
+  "pinyin": "lǎojiā",
+  "meaning_ru": "родина; родные места",
+  "meaning_en": "hometown; native place",
+  "semantic_tags": [
+   "place",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "寒冷",
+  "pinyin": "hánlěng",
+  "meaning_ru": "холодный; морозный",
+  "meaning_en": "cold; frigid",
+  "semantic_tags": [
+   "weather",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "鲜花",
+  "pinyin": "xiānhuā",
+  "meaning_ru": "(свежие) цветы",
+  "meaning_en": "fresh flowers",
+  "semantic_tags": [
+   "nature"
+  ]
+ }
+]

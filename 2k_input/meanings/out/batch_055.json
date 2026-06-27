@@ -1,0 +1,147 @@
+[
+ {
+  "hanzi": "培训班",
+  "pinyin": "péixùnbān",
+  "meaning_ru": "учебные курсы",
+  "meaning_en": "training class",
+  "semantic_tags": [
+   "education"
+  ]
+ },
+ {
+  "hanzi": "外汇",
+  "pinyin": "wàihuì",
+  "meaning_ru": "валюта; инвалюта",
+  "meaning_en": "foreign exchange",
+  "semantic_tags": [
+   "economy_finance",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "轮子",
+  "pinyin": "lúnzi",
+  "meaning_ru": "колесо",
+  "meaning_en": "wheel",
+  "semantic_tags": [
+   "object_tech",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "汽水",
+  "pinyin": "qìshuǐ",
+  "meaning_ru": "газировка",
+  "meaning_en": "soda; fizzy drink",
+  "semantic_tags": [
+   "drink"
+  ]
+ },
+ {
+  "hanzi": "学分",
+  "pinyin": "xuéfēn",
+  "meaning_ru": "зачётный балл",
+  "meaning_en": "course credit",
+  "semantic_tags": [
+   "education"
+  ]
+ },
+ {
+  "hanzi": "摆动",
+  "pinyin": "bǎidòng",
+  "meaning_ru": "качаться; колебаться",
+  "meaning_en": "to swing; to sway",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "倒车",
+  "pinyin": "dàochē",
+  "meaning_ru": "сдавать назад",
+  "meaning_en": "to reverse a car",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "后头",
+  "pinyin": "hòutou",
+  "meaning_ru": "позади; сзади",
+  "meaning_en": "behind; the rear",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "宽广",
+  "pinyin": "kuānguǎng",
+  "meaning_ru": "широкий; обширный",
+  "meaning_en": "wide; broad; vast",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ]
+ },
+ {
+  "hanzi": "前头",
+  "pinyin": "qiántou",
+  "meaning_ru": "впереди; спереди",
+  "meaning_en": "in front; ahead",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "期中",
+  "pinyin": "qīzhōng",
+  "meaning_ru": "середина семестра",
+  "meaning_en": "midterm",
+  "semantic_tags": [
+   "education",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "吸管",
+  "pinyin": "xīguǎn",
+  "meaning_ru": "трубочка для питья",
+  "meaning_en": "drinking straw",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "窗台",
+  "pinyin": "chuāngtái",
+  "meaning_ru": "подоконник",
+  "meaning_en": "windowsill",
+  "semantic_tags": [
+   "building",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "松树",
+  "pinyin": "sōngshù",
+  "meaning_ru": "сосна",
+  "meaning_en": "pine tree",
+  "semantic_tags": [
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "多样",
+  "pinyin": "duōyàng",
+  "meaning_ru": "разнообразный",
+  "meaning_en": "diverse; varied",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ]
+ }
+]

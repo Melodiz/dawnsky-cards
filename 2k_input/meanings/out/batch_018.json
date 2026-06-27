@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "院长",
+  "pinyin": "yuànzhǎng",
+  "meaning_ru": "директор; декан; ректор",
+  "meaning_en": "director; dean; president",
+  "semantic_tags": [
+   "occupation",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "夜里",
+  "pinyin": "yèli",
+  "meaning_ru": "ночью",
+  "meaning_en": "at night; nighttime",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "音乐会",
+  "pinyin": "yīnyuèhuì",
+  "meaning_ru": "концерт",
+  "meaning_en": "concert",
+  "semantic_tags": [
+   "art",
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "中年",
+  "pinyin": "zhōngnián",
+  "meaning_ru": "средний возраст",
+  "meaning_en": "middle age",
+  "semantic_tags": [
+   "time_period",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "找出",
+  "pinyin": "zhǎochū",
+  "meaning_ru": "найти; отыскать",
+  "meaning_en": "to find out; locate",
+  "semantic_tags": [
+   "action_daily",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "院子",
+  "pinyin": "yuànzi",
+  "meaning_ru": "двор",
+  "meaning_en": "courtyard; yard",
+  "semantic_tags": [
+   "building",
+   "place"
+  ]
+ },
+ {
+  "hanzi": "分数",
+  "pinyin": "fēnshù",
+  "meaning_ru": "балл; оценка",
+  "meaning_en": "grade; score",
+  "semantic_tags": [
+   "education",
+   "number"
+  ]
+ },
+ {
+  "hanzi": "举手",
+  "pinyin": "jǔshǒu",
+  "meaning_ru": "поднять руку",
+  "meaning_en": "to raise a hand",
+  "semantic_tags": [
+   "physical_action",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "课堂",
+  "pinyin": "kètáng",
+  "meaning_ru": "класс; урок",
+  "meaning_en": "classroom; class",
+  "semantic_tags": [
+   "education",
+   "place"
+  ]
+ },
+ {
+  "hanzi": "出国",
+  "pinyin": "chūguó",
+  "meaning_ru": "ехать за границу",
+  "meaning_en": "to go abroad",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "下雪",
+  "pinyin": "xiàxuě",
+  "meaning_ru": "идёт снег",
+  "meaning_en": "to snow",
+  "semantic_tags": [
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "气温",
+  "pinyin": "qìwēn",
+  "meaning_ru": "температура воздуха",
+  "meaning_en": "air temperature",
+  "semantic_tags": [
+   "weather",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "骑车",
+  "pinyin": "qíchē",
+  "meaning_ru": "ехать на велосипеде",
+  "meaning_en": "to ride a bike",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "西南",
+  "pinyin": "xīnán",
+  "meaning_ru": "юго-запад",
+  "meaning_en": "southwest",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "西北",
+  "pinyin": "xīběi",
+  "meaning_ru": "северо-запад",
+  "meaning_en": "northwest",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ]
+ }
+]

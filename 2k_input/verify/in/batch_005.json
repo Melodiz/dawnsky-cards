@@ -1,0 +1,920 @@
+[
+ {
+  "hanzi": "关机",
+  "pinyin": "guānjī",
+  "meaning_ru": "выключить (устройство)",
+  "meaning_en": "turn off; power off",
+  "semantic_tags": [
+   "action_daily",
+   "object_tech"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to turn off (a machine or device)/to finish shooting a film",
+  "dataset_meanings": [
+   "to turn off (a machine or device)",
+   "to finish shooting a film"
+  ]
+ },
+ {
+  "hanzi": "晴",
+  "pinyin": "qíng",
+  "meaning_ru": "ясный, солнечный",
+  "meaning_en": "clear, sunny (weather)",
+  "semantic_tags": [
+   "weather"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "clear/fine (weather)",
+  "dataset_meanings": [
+   "clear",
+   "fine (weather)"
+  ]
+ },
+ {
+  "hanzi": "班长",
+  "pinyin": "bānzhǎng",
+  "meaning_ru": "староста класса",
+  "meaning_en": "class monitor",
+  "semantic_tags": [
+   "education",
+   "person"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "class monitor/squad leader/team leader/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "class monitor",
+   "squad leader",
+   "team leader"
+  ]
+ },
+ {
+  "hanzi": "常用",
+  "pinyin": "chángyòng",
+  "meaning_ru": "часто употребляемый",
+  "meaning_en": "commonly used",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "in common usage",
+  "dataset_meanings": [
+   "in common usage"
+  ]
+ },
+ {
+  "hanzi": "里头",
+  "pinyin": "lǐtou",
+  "meaning_ru": "внутри",
+  "meaning_en": "inside",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "inside; interior",
+  "dataset_meanings": [
+   "inside",
+   "interior"
+  ]
+ },
+ {
+  "hanzi": "日报",
+  "pinyin": "rìbào",
+  "meaning_ru": "ежедневная газета",
+  "meaning_en": "daily newspaper",
+  "semantic_tags": [
+   "media_news"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "daily newspaper",
+  "dataset_meanings": [
+   "daily newspaper"
+  ]
+ },
+ {
+  "hanzi": "开学",
+  "pinyin": "kāixué",
+  "meaning_ru": "начало учёбы",
+  "meaning_en": "start of term",
+  "semantic_tags": [
+   "education",
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "(of a student) to start school/(of a semester) to begin/(old) to found a school/the start of a new term",
+  "dataset_meanings": [
+   "foundation of a University or College",
+   "school opening",
+   "the start of a new term"
+  ]
+ },
+ {
+  "hanzi": "走进",
+  "pinyin": "zǒujìn",
+  "meaning_ru": "войти, зайти",
+  "meaning_en": "to step into",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to enter; to step into",
+  "dataset_meanings": [
+   "to enter"
+  ]
+ },
+ {
+  "hanzi": "体育场",
+  "pinyin": "tǐyùchǎng",
+  "meaning_ru": "стадион",
+  "meaning_en": "stadium",
+  "semantic_tags": [
+   "building",
+   "sport"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "stadium/CL:個|个[ge4],座[zuo4]",
+  "dataset_meanings": [
+   "stadium"
+  ]
+ },
+ {
+  "hanzi": "组长",
+  "pinyin": "zǔzhǎng",
+  "meaning_ru": "руководитель группы",
+  "meaning_en": "group leader",
+  "semantic_tags": [
+   "person",
+   "work_career"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "group leader",
+  "dataset_meanings": [
+   "group leader"
+  ]
+ },
+ {
+  "hanzi": "东南",
+  "pinyin": "dōngnán",
+  "meaning_ru": "юго-восток",
+  "meaning_en": "southeast",
+  "semantic_tags": [
+   "direction"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "southeast",
+  "dataset_meanings": [
+   "southeast"
+  ]
+ },
+ {
+  "hanzi": "有点儿",
+  "pinyin": "yǒudiǎnr",
+  "meaning_ru": "немного, чуть-чуть",
+  "meaning_en": "a little; somewhat",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "slightly/a little/somewhat",
+  "dataset_meanings": [
+   "slightly",
+   "a little",
+   "somewhat"
+  ]
+ },
+ {
+  "hanzi": "地铁站",
+  "pinyin": "dìtiězhàn",
+  "meaning_ru": "станция метро",
+  "meaning_en": "subway station",
+  "semantic_tags": [
+   "transport_travel",
+   "place"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "subway station",
+  "dataset_meanings": [
+   "subway station"
+  ]
+ },
+ {
+  "hanzi": "快餐",
+  "pinyin": "kuàicān",
+  "meaning_ru": "фастфуд",
+  "meaning_en": "fast food",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "fast food/snack/quick meal",
+  "dataset_meanings": [
+   "fast food",
+   "snack",
+   "quick meal"
+  ]
+ },
+ {
+  "hanzi": "站住",
+  "pinyin": "zhànzhù",
+  "meaning_ru": "стой!; остановиться",
+  "meaning_en": "stop!; halt",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to come to a stop; to halt/to keep one's footing; to stay upright/(fig.) to hold one's ground; to gain a firm foothold/(of an assertion etc) to hold up; to be tenable",
+  "dataset_meanings": [
+   "to stand"
+  ]
+ },
+ {
+  "hanzi": "开机",
+  "pinyin": "kāijī",
+  "meaning_ru": "включить (устройство)",
+  "meaning_en": "to boot up; power on",
+  "semantic_tags": [
+   "action_daily",
+   "object_tech"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to start an engine/to boot up (a computer)/to press Ctrl-Alt-Delete/to begin shooting a film or TV show",
+  "dataset_meanings": [
+   "to start an engine",
+   "to boot up (a computer)",
+   "to press Ctrl-Alt-Delete",
+   "to begin shooting a film or TV show"
+  ]
+ },
+ {
+  "hanzi": "公共汽车",
+  "pinyin": "gōnggòngqìchē",
+  "meaning_ru": "автобус",
+  "meaning_en": "bus",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "bus/CL:輛|辆[liang4],班[ban1]",
+  "dataset_meanings": [
+   "bus"
+  ]
+ },
+ {
+  "hanzi": "过年",
+  "pinyin": "guònián",
+  "meaning_ru": "встречать Новый год",
+  "meaning_en": "celebrate New Year",
+  "semantic_tags": [
+   "culture",
+   "date"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to celebrate the Chinese New Year",
+  "dataset_meanings": [
+   "to celebrate the Chinese New Year"
+  ]
+ },
+ {
+  "hanzi": "零下",
+  "pinyin": "língxià",
+  "meaning_ru": "ниже нуля",
+  "meaning_en": "below zero",
+  "semantic_tags": [
+   "weather",
+   "measurement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "below zero (esp. temperature)",
+  "dataset_meanings": [
+   "below zero"
+  ]
+ },
+ {
+  "hanzi": "拿出",
+  "pinyin": "náchū",
+  "meaning_ru": "вынимать; доставать",
+  "meaning_en": "take out; produce",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to take out/to put out/to provide/to put forward (a proposal)/to come up with (evidence)",
+  "dataset_meanings": [
+   "to take out",
+   "to put out",
+   "to provide",
+   "to put forward (a proposal)",
+   "to come up with (evidence)"
+  ]
+ },
+ {
+  "hanzi": "中餐",
+  "pinyin": "zhōngcān",
+  "meaning_ru": "китайская еда",
+  "meaning_en": "Chinese food; lunch",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "lunch/Chinese meal; Chinese food/CL:份[fen4],頓|顿[dun4]",
+  "dataset_meanings": [
+   "lunch",
+   "Chinese meal",
+   "Chinese food"
+  ]
+ },
+ {
+  "hanzi": "晴天",
+  "pinyin": "qíngtiān",
+  "meaning_ru": "ясный день",
+  "meaning_en": "sunny day; clear sky",
+  "semantic_tags": [
+   "weather"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "clear sky/sunny day",
+  "dataset_meanings": [
+   "clear sky",
+   "sunny day"
+  ]
+ },
+ {
+  "hanzi": "全年",
+  "pinyin": "quánnián",
+  "meaning_ru": "весь год",
+  "meaning_en": "whole year",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "the whole year/all year long",
+  "dataset_meanings": [
+   "the whole year",
+   "all year long"
+  ]
+ },
+ {
+  "hanzi": "那会儿",
+  "pinyin": "nàhuìr",
+  "meaning_ru": "тогда; в то время",
+  "meaning_en": "at that time",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "at that time (in the past or the future)/also pr. [nei4 hui4 r5]",
+  "dataset_meanings": [
+   "at that time (in the past or the future)",
+   "also pr. [nèi huì r]"
+  ]
+ },
+ {
+  "hanzi": "外卖",
+  "pinyin": "wàimài",
+  "meaning_ru": "еда навынос; доставка",
+  "meaning_en": "takeout; food delivery",
+  "semantic_tags": [
+   "food",
+   "commerce_trade"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "(of a restaurant) to provide a takeout or home delivery meal/takeout (business)/takeout (meal)",
+  "dataset_meanings": [
+   "(of a restaurant) to provide a takeout or home delivery meal",
+   "takeout (business)",
+   "takeout (meal)"
+  ]
+ },
+ {
+  "hanzi": "方便面",
+  "pinyin": "fāngbiànmiàn",
+  "meaning_ru": "лапша быстр. пригот.",
+  "meaning_en": "instant noodles",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "instant noodles",
+  "dataset_meanings": [
+   "instant noodles"
+  ]
+ },
+ {
+  "hanzi": "球鞋",
+  "pinyin": "qiúxié",
+  "meaning_ru": "кроссовки",
+  "meaning_en": "sneakers; sports shoes",
+  "semantic_tags": [
+   "clothing",
+   "sport"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "athletic shoes",
+  "dataset_meanings": [
+   "athletic shoes"
+  ]
+ },
+ {
+  "hanzi": "交朋友",
+  "pinyin": "jiāopéngyou",
+  "meaning_ru": "заводить друзей",
+  "meaning_en": "make friends",
+  "semantic_tags": [
+   "relationship_social"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to make friends/(dialect) to start an affair with sb",
+  "dataset_meanings": [
+   "to make friends",
+   "(dialect) to start an affair with sb"
+  ]
+ },
+ {
+  "hanzi": "一路顺风",
+  "pinyin": "yīlùshùnfēng",
+  "meaning_ru": "счастливого пути",
+  "meaning_en": "have a good trip",
+  "semantic_tags": [
+   "greeting",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to have a pleasant journey (idiom)",
+  "dataset_meanings": [
+   "to have a pleasant journey (idiom)"
+  ]
+ },
+ {
+  "hanzi": "晚报",
+  "pinyin": "wǎnbào",
+  "meaning_ru": "вечерняя газета",
+  "meaning_en": "evening newspaper",
+  "semantic_tags": [
+   "media_news"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "evening newspaper/(in a newspaper's name) Evening News",
+  "dataset_meanings": [
+   "evening newspaper",
+   "(in a newspaper's name) Evening News"
+  ]
+ },
+ {
+  "hanzi": "难听",
+  "pinyin": "nántīng",
+  "meaning_ru": "неприятный на слух",
+  "meaning_en": "unpleasant to hear",
+  "semantic_tags": [
+   "evaluation_adj",
+   "perception"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "unpleasant to hear/coarse/vulgar/offensive/shameful",
+  "dataset_meanings": [
+   "unpleasant to hear",
+   "coarse",
+   "vulgar",
+   "offensive",
+   "shameful"
+  ]
+ },
+ {
+  "hanzi": "药水",
+  "pinyin": "yàoshuǐ",
+  "meaning_ru": "жидкое лекарство",
+  "meaning_en": "liquid medicine; lotion",
+  "semantic_tags": [
+   "health_medical"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "Yaksu in North Korea, near the border with Liaoning and Jiling province/medicine in liquid form/bottled medicine/lotion",
+  "dataset_meanings": [
+   "Yaksu in North Korea, near the border with Liaoning and Jiling province",
+   "medicine in liquid form",
+   "bottled medicine",
+   "lotion"
+  ]
+ },
+ {
+  "hanzi": "中医",
+  "pinyin": "zhōngyī",
+  "meaning_ru": "китайская медицина",
+  "meaning_en": "Chinese medicine",
+  "semantic_tags": [
+   "health_medical"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "traditional Chinese medical science/a doctor trained in Chinese medicine",
+  "dataset_meanings": [
+   "traditional Chinese medical science",
+   "a doctor trained in Chinese medicine"
+  ]
+ },
+ {
+  "hanzi": "坏处",
+  "pinyin": "huàichu",
+  "meaning_ru": "вред; минус",
+  "meaning_en": "harm; downside",
+  "semantic_tags": [
+   "abstract_quality",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "harm/troubles/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "harm",
+   "troubles"
+  ]
+ },
+ {
+  "hanzi": "前年",
+  "pinyin": "qiánnián",
+  "meaning_ru": "позапрошлый год",
+  "meaning_en": "year before last",
+  "semantic_tags": [
+   "time_word",
+   "date"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "the year before last",
+  "dataset_meanings": [
+   "the year before last"
+  ]
+ },
+ {
+  "hanzi": "千克",
+  "pinyin": "qiānkè",
+  "meaning_ru": "килограмм",
+  "meaning_en": "kilogram",
+  "semantic_tags": [
+   "measurement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "kilogram",
+  "dataset_meanings": [
+   "kilogram"
+  ]
+ },
+ {
+  "hanzi": "问路",
+  "pinyin": "wènlù",
+  "meaning_ru": "спрашивать дорогу",
+  "meaning_en": "ask for directions",
+  "semantic_tags": [
+   "action_communication",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to ask for directions/to ask the way (to some place)",
+  "dataset_meanings": [
+   "to ask for directions",
+   "to ask the way (to some place)"
+  ]
+ },
+ {
+  "hanzi": "叫作",
+  "pinyin": "jiàozuò",
+  "meaning_ru": "называться",
+  "meaning_en": "to be called",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to call/to be called",
+  "dataset_meanings": [
+   "to call",
+   "to be called"
+  ]
+ },
+ {
+  "hanzi": "午睡",
+  "pinyin": "wǔshuì",
+  "meaning_ru": "дневной сон",
+  "meaning_en": "afternoon nap",
+  "semantic_tags": [
+   "action_daily",
+   "body_state"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to take a nap in the afternoon",
+  "dataset_meanings": [
+   "to take a nap",
+   "siesta"
+  ]
+ },
+ {
+  "hanzi": "药片",
+  "pinyin": "yàopiàn",
+  "meaning_ru": "таблетка",
+  "meaning_en": "pill; tablet",
+  "semantic_tags": [
+   "health_medical"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "a (medicine) pill or tablet/CL:片[pian4]",
+  "dataset_meanings": [
+   "a (medicine) pill or tablet"
+  ]
+ },
+ {
+  "hanzi": "音节",
+  "pinyin": "yīnjié",
+  "meaning_ru": "слог",
+  "meaning_en": "syllable",
+  "semantic_tags": [
+   "communication_formal"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "syllable",
+  "dataset_meanings": [
+   "syllable"
+  ]
+ },
+ {
+  "hanzi": "中级",
+  "pinyin": "zhōngjí",
+  "meaning_ru": "средний уровень",
+  "meaning_en": "intermediate level",
+  "semantic_tags": [
+   "evaluation_adj",
+   "education"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "middle level (in a hierarchy)",
+  "dataset_meanings": [
+   "middle level (in a hierarchy)"
+  ]
+ },
+ {
+  "hanzi": "春节",
+  "pinyin": "chūnjié",
+  "meaning_ru": "китайский Новый год",
+  "meaning_en": "Spring Festival",
+  "semantic_tags": [
+   "culture",
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "Spring Festival (Chinese New Year)",
+  "dataset_meanings": [
+   "Spring Festival (Chinese New Year)"
+  ]
+ },
+ {
+  "hanzi": "阴天",
+  "pinyin": "yīntiān",
+  "meaning_ru": "пасмурный день",
+  "meaning_en": "cloudy day",
+  "semantic_tags": [
+   "weather"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "cloudy day; overcast sky",
+  "dataset_meanings": [
+   "cloudy day; overcast sky"
+  ]
+ },
+ {
+  "hanzi": "西医",
+  "pinyin": "xīyī",
+  "meaning_ru": "западная медицина",
+  "meaning_en": "Western medicine",
+  "semantic_tags": [
+   "health_medical"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "Western medicine/a doctor trained in Western medicine",
+  "dataset_meanings": [
+   "Western medicine",
+   "a doctor trained in Western medicine"
+  ]
+ },
+ {
+  "hanzi": "听讲",
+  "pinyin": "tīngjiǎng",
+  "meaning_ru": "слушать лекцию",
+  "meaning_en": "attend a lecture",
+  "semantic_tags": [
+   "education",
+   "action_learning"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to attend a lecture/to listen to a talk",
+  "dataset_meanings": [
+   "to attend a lecture",
+   "to listen to a talk"
+  ]
+ },
+ {
+  "hanzi": "考生",
+  "pinyin": "kǎoshēng",
+  "meaning_ru": "экзаменующийся",
+  "meaning_en": "exam candidate",
+  "semantic_tags": [
+   "education",
+   "person"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "exam candidate/student whose name has been put forward for an exam",
+  "dataset_meanings": [
+   "exam candidate",
+   "student whose name has been put forward for an exam"
+  ]
+ },
+ {
+  "hanzi": "读音",
+  "pinyin": "dúyīn",
+  "meaning_ru": "произношение",
+  "meaning_en": "pronunciation",
+  "semantic_tags": [
+   "education",
+   "communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "pronunciation/literary (rather than colloquial) pronunciation of a Chinese character",
+  "dataset_meanings": [
+   "pronunciation",
+   "literary (rather than colloquial) pronunciation of a Chinese character"
+  ]
+ },
+ {
+  "hanzi": "中小学",
+  "pinyin": "zhōngxiǎoxué",
+  "meaning_ru": "школа (средн. и нач.)",
+  "meaning_en": "schools (primary+secondary)",
+  "semantic_tags": [
+   "education",
+   "building"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "middle and elementary school",
+  "dataset_meanings": [
+   "middle and elementary school"
+  ]
+ },
+ {
+  "hanzi": "西餐",
+  "pinyin": "xīcān",
+  "meaning_ru": "европейская кухня",
+  "meaning_en": "Western food",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "Western-style food/CL:份[fen4],頓|顿[dun4]",
+  "dataset_meanings": [
+   "Western-style food"
+  ]
+ },
+ {
+  "hanzi": "一路平安",
+  "pinyin": "yīlùpíngān",
+  "meaning_ru": "счастливого пути",
+  "meaning_en": "bon voyage; safe trip",
+  "semantic_tags": [
+   "greeting",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to have a pleasant journey/Bon voyage!",
+  "dataset_meanings": [
+   "to have a pleasant journey",
+   "Bon voyage!"
+  ]
+ },
+ {
+  "hanzi": "不一会儿",
+  "pinyin": "bùyīhuǐr",
+  "meaning_ru": "вскоре; через миг",
+  "meaning_en": "after a short while",
+  "semantic_tags": [
+   "time_period",
+   "manner_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Take a short while"
+  ]
+ },
+ {
+  "hanzi": "不太",
+  "pinyin": "bùtài",
+  "meaning_ru": "не очень",
+  "meaning_en": "not very",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Not too"
+  ]
+ },
+ {
+  "hanzi": "生词",
+  "pinyin": "shēngcí",
+  "meaning_ru": "новое слово",
+  "meaning_en": "new word; vocab",
+  "semantic_tags": [
+   "education",
+   "communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "new word (in textbook)/word that is unfamiliar or not yet studied/CL:組|组[zu3],個|个[ge4]",
+  "dataset_meanings": [
+   "new word (in textbook)",
+   "word that is unfamiliar or not yet studied"
+  ]
+ },
+ {
+  "hanzi": "下周",
+  "pinyin": "xiàzhōu",
+  "meaning_ru": "на следующей неделе",
+  "meaning_en": "next week",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "next week",
+  "dataset_meanings": [
+   "next week"
+  ]
+ },
+ {
+  "hanzi": "公交车",
+  "pinyin": "gōngjiāochē",
+  "meaning_ru": "автобус",
+  "meaning_en": "city bus",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "public transport vehicle/town bus/CL:輛|辆[liang4]",
+  "dataset_meanings": [
+   "public transport vehicle",
+   "town bus"
+  ]
+ },
+ {
+  "hanzi": "快点儿",
+  "pinyin": "kuàidiǎnr",
+  "meaning_ru": "быстрее!; поторопись",
+  "meaning_en": "hurry up!; faster",
+  "semantic_tags": [
+   "manner_adverb",
+   "action_communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "erhua variant of 快點|快点[kuai4 dian3]",
+  "dataset_meanings": [
+   "erhua variant of 快点",
+   "to do smh more quickly",
+   "Hurry up!"
+  ]
+ },
+ {
+  "hanzi": "挺好",
+  "pinyin": "tǐnghǎo",
+  "meaning_ru": "довольно хорошо",
+  "meaning_en": "quite good",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "very good",
+  "dataset_meanings": [
+   "very good"
+  ]
+ },
+ {
+  "hanzi": "有一点儿",
+  "pinyin": "yǒuyīdiǎnr",
+  "meaning_ru": "немного; чуть-чуть",
+  "meaning_en": "a bit; a little",
+  "semantic_tags": [
+   "degree_adverb",
+   "quantity_abstract"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "a bit/a little",
+  "dataset_meanings": [
+   "a bit",
+   "a little"
+  ]
+ },
+ {
+  "hanzi": "笑话儿",
+  "pinyin": "xiàohuar",
+  "meaning_ru": "шутка; анекдот",
+  "meaning_en": "joke",
+  "semantic_tags": [
+   "communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "erhua form of 笑話|笑话[xiao4 hua5]",
+  "dataset_meanings": [
+   "Joke"
+  ]
+ }
+]

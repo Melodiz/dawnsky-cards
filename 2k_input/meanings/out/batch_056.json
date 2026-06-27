@@ -1,0 +1,140 @@
+[
+ {
+  "hanzi": "学年",
+  "pinyin": "xuénián",
+  "meaning_ru": "учебный год",
+  "meaning_en": "academic year",
+  "semantic_tags": [
+   "education",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "电灯",
+  "pinyin": "diàndēng",
+  "meaning_ru": "электрическая лампа",
+  "meaning_en": "electric light",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "疗养",
+  "pinyin": "liáoyǎng",
+  "meaning_ru": "лечиться; поправлять здоровье",
+  "meaning_en": "recuperate; convalesce",
+  "semantic_tags": [
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "矮小",
+  "pinyin": "ǎixiǎo",
+  "meaning_ru": "низкорослый; маленький",
+  "meaning_en": "short and small",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ]
+ },
+ {
+  "hanzi": "刷子",
+  "pinyin": "shuāzi",
+  "meaning_ru": "щётка",
+  "meaning_en": "brush",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "亚运会",
+  "pinyin": "yàyùnhuì",
+  "meaning_ru": "Азиатские игры",
+  "meaning_en": "Asian Games",
+  "semantic_tags": [
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "高铁",
+  "pinyin": "gāotiě",
+  "meaning_ru": "скоростная ж/д",
+  "meaning_en": "high-speed rail",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "电动车",
+  "pinyin": "diàndòngchē",
+  "meaning_ru": "электромобиль; электробайк",
+  "meaning_en": "electric vehicle",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "毫升",
+  "pinyin": "háoshēng",
+  "meaning_ru": "миллилитр",
+  "meaning_en": "milliliter",
+  "semantic_tags": [
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "打雷",
+  "pinyin": "dǎléi",
+  "meaning_ru": "греметь (о громе)",
+  "meaning_en": "to thunder",
+  "semantic_tags": [
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "五颜六色",
+  "pinyin": "wǔyánliùsè",
+  "meaning_ru": "разноцветный; пёстрый",
+  "meaning_en": "multicolored",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "隔开",
+  "pinyin": "gékāi",
+  "meaning_ru": "разделять; отделять",
+  "meaning_en": "to separate",
+  "semantic_tags": [
+   "physical_action",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "模特儿",
+  "pinyin": "mótèr",
+  "meaning_ru": "модель (манекенщик)",
+  "meaning_en": "fashion model",
+  "semantic_tags": [
+   "occupation"
+  ]
+ },
+ {
+  "hanzi": "抄写",
+  "pinyin": "chāoxiě",
+  "meaning_ru": "переписывать",
+  "meaning_en": "to copy out; transcribe",
+  "semantic_tags": [
+   "action_learning"
+  ]
+ },
+ {
+  "hanzi": "括号",
+  "pinyin": "kuòhào",
+  "meaning_ru": "скобки",
+  "meaning_en": "parentheses; brackets",
+  "semantic_tags": [
+   "object_stationery"
+  ]
+ }
+]

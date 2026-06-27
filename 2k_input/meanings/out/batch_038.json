@@ -1,0 +1,142 @@
+[
+ {
+  "hanzi": "牌",
+  "pinyin": "pái",
+  "meaning_ru": "карта; табличка; марка",
+  "meaning_en": "card; sign; brand",
+  "semantic_tags": [
+   "object_home",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "落",
+  "pinyin": "là",
+  "meaning_ru": "забыть; пропустить; отстать",
+  "meaning_en": "to leave out; miss",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "烧",
+  "pinyin": "shāo",
+  "meaning_ru": "жечь; варить; жар",
+  "meaning_en": "to burn; cook; fever",
+  "semantic_tags": [
+   "action_daily",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "季",
+  "pinyin": "jì",
+  "meaning_ru": "сезон; время года",
+  "meaning_en": "season",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "抽",
+  "pinyin": "chōu",
+  "meaning_ru": "вытаскивать; курить",
+  "meaning_en": "to pull out; smoke",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "货",
+  "pinyin": "huò",
+  "meaning_ru": "товар; груз",
+  "meaning_en": "goods; commodity",
+  "semantic_tags": [
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "手里",
+  "pinyin": "shǒulǐ",
+  "meaning_ru": "в руках; на руках",
+  "meaning_en": "in hand; in one's hands",
+  "semantic_tags": [
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "垃圾",
+  "pinyin": "lājī",
+  "meaning_ru": "мусор; хлам",
+  "meaning_en": "trash; garbage",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "赢得",
+  "pinyin": "yíngdé",
+  "meaning_ru": "выиграть; завоевать",
+  "meaning_en": "to win; gain",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "替",
+  "pinyin": "tì",
+  "meaning_ru": "заменять; вместо",
+  "meaning_en": "to replace; on behalf of",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "色",
+  "pinyin": "sè",
+  "meaning_ru": "цвет; окраска",
+  "meaning_en": "color",
+  "semantic_tags": [
+   "color",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "编",
+  "pinyin": "biān",
+  "meaning_ru": "составлять; плести; сочинять",
+  "meaning_en": "to compile; weave; make up",
+  "semantic_tags": [
+   "action_communication",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "宝",
+  "pinyin": "bǎo",
+  "meaning_ru": "сокровище; драгоценность",
+  "meaning_en": "treasure; precious",
+  "semantic_tags": [
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "宝宝",
+  "pinyin": "bǎobao",
+  "meaning_ru": "малыш; детка",
+  "meaning_en": "baby; darling",
+  "semantic_tags": [
+   "person",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "美女",
+  "pinyin": "měinǚ",
+  "meaning_ru": "красавица",
+  "meaning_en": "beautiful woman",
+  "semantic_tags": [
+   "person"
+  ]
+ }
+]

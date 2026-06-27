@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "加以",
+  "pinyin": "jiāyǐ",
+  "meaning_ru": "подвергнуть; произвести (действие)",
+  "meaning_en": "to apply (action) to",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "不停",
+  "pinyin": "bùtíng",
+  "meaning_ru": "беспрерывно; без остановки",
+  "meaning_en": "incessantly; non-stop",
+  "semantic_tags": [
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "咳",
+  "pinyin": "hāi",
+  "meaning_ru": "эх!; ах! (междометие)",
+  "meaning_en": "oh!; hey! (interjection)",
+  "semantic_tags": [
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "月球",
+  "pinyin": "yuèqiú",
+  "meaning_ru": "Луна",
+  "meaning_en": "the Moon",
+  "semantic_tags": [
+   "nature",
+   "science_research"
+  ]
+ },
+ {
+  "hanzi": "景象",
+  "pinyin": "jǐngxiàng",
+  "meaning_ru": "картина; зрелище",
+  "meaning_en": "scene; sight",
+  "semantic_tags": [
+   "perception",
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "此后",
+  "pinyin": "cǐhòu",
+  "meaning_ru": "после этого; впредь",
+  "meaning_en": "after this; hereafter",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "升高",
+  "pinyin": "shēnggāo",
+  "meaning_ru": "повышаться; подниматься",
+  "meaning_en": "to rise; to go up",
+  "semantic_tags": [
+   "process_change",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "远处",
+  "pinyin": "yuǎnchù",
+  "meaning_ru": "далёкое место; вдали",
+  "meaning_en": "distant place; afar",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "有毒",
+  "pinyin": "yǒudú",
+  "meaning_ru": "ядовитый; токсичный",
+  "meaning_en": "poisonous; toxic",
+  "semantic_tags": [
+   "evaluation_adj",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "叉",
+  "pinyin": "chā",
+  "meaning_ru": "вилка; крест (X)",
+  "meaning_en": "fork; cross mark",
+  "semantic_tags": [
+   "object_home",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "墙壁",
+  "pinyin": "qiángbì",
+  "meaning_ru": "стена",
+  "meaning_en": "wall",
+  "semantic_tags": [
+   "building",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "预备",
+  "pinyin": "yùbèi",
+  "meaning_ru": "готовить(ся); подготовка",
+  "meaning_en": "to prepare; preparatory",
+  "semantic_tags": [
+   "action_daily",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "有害",
+  "pinyin": "yǒuhài",
+  "meaning_ru": "вредный; пагубный",
+  "meaning_en": "harmful; damaging",
+  "semantic_tags": [
+   "evaluation_adj",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "看成",
+  "pinyin": "kànchéng",
+  "meaning_ru": "считать (за); принимать за",
+  "meaning_en": "to regard as",
+  "semantic_tags": [
+   "cognition",
+   "judgement"
+  ]
+ },
+ {
+  "hanzi": "转化",
+  "pinyin": "zhuǎnhuà",
+  "meaning_ru": "превращаться; преобразовывать",
+  "meaning_en": "to transform; to convert",
+  "semantic_tags": [
+   "process_change",
+   "cause_effect"
+  ]
+ }
+]

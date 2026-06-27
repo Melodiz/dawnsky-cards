@@ -1,0 +1,956 @@
+[
+ {
+  "hanzi": "平稳",
+  "pinyin": "píngwěn",
+  "meaning_ru": "устойчивый; плавный",
+  "meaning_en": "stable; smooth",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "smooth; steady",
+  "dataset_meanings": [
+   "smooth",
+   "steady"
+  ]
+ },
+ {
+  "hanzi": "一般来说",
+  "pinyin": "yībānláishuō",
+  "meaning_ru": "вообще говоря",
+  "meaning_en": "generally speaking",
+  "semantic_tags": [
+   "logic_connective",
+   "manner_adverb"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "generally speaking",
+  "dataset_meanings": [
+   "generally speaking"
+  ]
+ },
+ {
+  "hanzi": "相片",
+  "pinyin": "xiàngpiàn",
+  "meaning_ru": "фотография",
+  "meaning_en": "photo",
+  "semantic_tags": [
+   "object_home",
+   "art"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "image/photograph/CL:張|张[zhang1]",
+  "dataset_meanings": [
+   "image",
+   "photograph"
+  ]
+ },
+ {
+  "hanzi": "闹钟",
+  "pinyin": "nàozhōng",
+  "meaning_ru": "будильник",
+  "meaning_en": "alarm clock",
+  "semantic_tags": [
+   "object_home",
+   "time_word"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "alarm clock",
+  "dataset_meanings": [
+   "alarm clock"
+  ]
+ },
+ {
+  "hanzi": "大姐",
+  "pinyin": "dàjiě",
+  "meaning_ru": "старшая сестра",
+  "meaning_en": "eldest sister",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "big sister/elder sister/older sister (also polite term of address for a girl or woman slightly older than the speaker)",
+  "dataset_meanings": [
+   "big sister",
+   "elder sister",
+   "older sister (also polite term of address for a girl or woman slightly older than the speaker)"
+  ]
+ },
+ {
+  "hanzi": "气球",
+  "pinyin": "qìqiú",
+  "meaning_ru": "воздушный шар",
+  "meaning_en": "balloon",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "balloon",
+  "dataset_meanings": [
+   "balloon"
+  ]
+ },
+ {
+  "hanzi": "春季",
+  "pinyin": "chūnjì",
+  "meaning_ru": "весна; весенний сезон",
+  "meaning_en": "spring; springtime",
+  "semantic_tags": [
+   "time_period",
+   "nature"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "springtime",
+  "dataset_meanings": [
+   "springtime"
+  ]
+ },
+ {
+  "hanzi": "赞赏",
+  "pinyin": "zànshǎng",
+  "meaning_ru": "восхищаться; хвалить",
+  "meaning_en": "to admire; praise",
+  "semantic_tags": [
+   "communication_emotion",
+   "attitude"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to admire/to praise/to appreciate",
+  "dataset_meanings": [
+   "to admire",
+   "to praise",
+   "to appreciate"
+  ]
+ },
+ {
+  "hanzi": "构造",
+  "pinyin": "gòuzào",
+  "meaning_ru": "структура; строение",
+  "meaning_en": "structure",
+  "semantic_tags": [
+   "abstract_relation",
+   "shape_form"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "structure/composition/tectonic (geology)/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "structure",
+   "composition",
+   "tectonic (geology)"
+  ]
+ },
+ {
+  "hanzi": "虫子",
+  "pinyin": "chóngzi",
+  "meaning_ru": "насекомое; червяк",
+  "meaning_en": "insect; bug",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "insect/bug/worm/CL:條|条[tiao2],隻|只[zhi1]",
+  "dataset_meanings": [
+   "insect",
+   "bug",
+   "worm"
+  ]
+ },
+ {
+  "hanzi": "刷牙",
+  "pinyin": "shuāyá",
+  "meaning_ru": "чистить зубы",
+  "meaning_en": "to brush teeth",
+  "semantic_tags": [
+   "action_daily",
+   "body"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to brush one's teeth",
+  "dataset_meanings": [
+   "to brush one's teeth"
+  ]
+ },
+ {
+  "hanzi": "轮椅",
+  "pinyin": "lúnyǐ",
+  "meaning_ru": "инвалидная коляска",
+  "meaning_en": "wheelchair",
+  "semantic_tags": [
+   "health_medical",
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "wheelchair",
+  "dataset_meanings": [
+   "wheelchair"
+  ]
+ },
+ {
+  "hanzi": "特价",
+  "pinyin": "tèjià",
+  "meaning_ru": "спеццена; скидка",
+  "meaning_en": "special price",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "special price",
+  "dataset_meanings": [
+   "special price"
+  ]
+ },
+ {
+  "hanzi": "暖气",
+  "pinyin": "nuǎnqì",
+  "meaning_ru": "отопление",
+  "meaning_en": "central heating",
+  "semantic_tags": [
+   "object_home",
+   "building"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "central heating/heater/warm air",
+  "dataset_meanings": [
+   "central heating",
+   "heater",
+   "warm air"
+  ]
+ },
+ {
+  "hanzi": "二手",
+  "pinyin": "èrshǒu",
+  "meaning_ru": "бывший в употреблении",
+  "meaning_en": "second-hand",
+  "semantic_tags": [
+   "evaluation_adj",
+   "commerce_trade"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "indirectly acquired/second-hand (information, equipment etc)/assistant",
+  "dataset_meanings": [
+   "indirectly acquired",
+   "second-hand (information, equipment etc)",
+   "assistant"
+  ]
+ },
+ {
+  "hanzi": "味儿",
+  "pinyin": "wèir",
+  "meaning_ru": "вкус; запах",
+  "meaning_en": "taste; smell",
+  "semantic_tags": [
+   "taste",
+   "perception"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "taste",
+  "dataset_meanings": [
+   "taste"
+  ]
+ },
+ {
+  "hanzi": "优良",
+  "pinyin": "yōuliáng",
+  "meaning_ru": "отличный; превосходный",
+  "meaning_en": "fine; first-rate",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "fine/good/first-rate",
+  "dataset_meanings": [
+   "fine",
+   "good",
+   "first-rate"
+  ]
+ },
+ {
+  "hanzi": "转弯",
+  "pinyin": "zhuǎnwān",
+  "meaning_ru": "поворачивать",
+  "meaning_en": "to turn; round a corner",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to turn/to go around a corner",
+  "dataset_meanings": [
+   "to turn",
+   "to go around a corner"
+  ]
+ },
+ {
+  "hanzi": "期末",
+  "pinyin": "qīmò",
+  "meaning_ru": "конец семестра",
+  "meaning_en": "end of term",
+  "semantic_tags": [
+   "education",
+   "time_period"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "the end of a term or semester (in school)",
+  "dataset_meanings": [
+   "end of term"
+  ]
+ },
+ {
+  "hanzi": "上楼",
+  "pinyin": "shànglóu",
+  "meaning_ru": "подниматься наверх",
+  "meaning_en": "to go upstairs",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to go upstairs",
+  "dataset_meanings": [
+   "to go upstairs"
+  ]
+ },
+ {
+  "hanzi": "下楼",
+  "pinyin": "xiàlóu",
+  "meaning_ru": "спускаться вниз",
+  "meaning_en": "to go downstairs",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to go downstairs",
+  "dataset_meanings": [
+   "to go downstairs"
+  ]
+ },
+ {
+  "hanzi": "百货",
+  "pinyin": "bǎihuò",
+  "meaning_ru": "товары; ширпотреб",
+  "meaning_en": "general merchandise",
+  "semantic_tags": [
+   "commerce_trade"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "general merchandise",
+  "dataset_meanings": [
+   "general merchandise"
+  ]
+ },
+ {
+  "hanzi": "点名",
+  "pinyin": "diǎnmíng",
+  "meaning_ru": "перекличка",
+  "meaning_en": "roll call",
+  "semantic_tags": [
+   "action_communication",
+   "education"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "roll call/to mention sb by name/(to call or praise or criticize sb) by name",
+  "dataset_meanings": [
+   "roll call",
+   "to mention sb by name",
+   "(to call or praise or criticize sb) by name"
+  ]
+ },
+ {
+  "hanzi": "茶叶",
+  "pinyin": "cháyè",
+  "meaning_ru": "чай; чайный лист",
+  "meaning_en": "tea leaves",
+  "semantic_tags": [
+   "drink",
+   "food"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "tea/tea leaves/CL:盒[he2],罐[guan4],包[bao1],片[pian4]",
+  "dataset_meanings": [
+   "tea",
+   "tea leaves"
+  ]
+ },
+ {
+  "hanzi": "运动会",
+  "pinyin": "yùndònghuì",
+  "meaning_ru": "спортивные соревнования",
+  "meaning_en": "sports meet",
+  "semantic_tags": [
+   "sport",
+   "event_situation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "sports competition/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "sports competition"
+  ]
+ },
+ {
+  "hanzi": "开花",
+  "pinyin": "kāihuā",
+  "meaning_ru": "цвести; зацветать",
+  "meaning_en": "to bloom; to flower",
+  "semantic_tags": [
+   "nature",
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to bloom; to blossom; to flower/(fig.) to burst; to split open/(fig.) to burst with joy/(fig.) to spring up everywhere; to flourish",
+  "dataset_meanings": [
+   "to bloom; to blossom; to flower",
+   "(fig.) to burst; to split open",
+   "(fig.) to burst with joy",
+   "(fig.) to spring up everywhere; to flourish"
+  ]
+ },
+ {
+  "hanzi": "登山",
+  "pinyin": "dēngshān",
+  "meaning_ru": "восхождение в горы",
+  "meaning_en": "to climb a mountain",
+  "semantic_tags": [
+   "sport",
+   "action_movement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to climb a mountain/climbing/mountaineering",
+  "dataset_meanings": [
+   "to climb a mountain",
+   "climbing",
+   "mountaineering"
+  ]
+ },
+ {
+  "hanzi": "降温",
+  "pinyin": "jiàngwēn",
+  "meaning_ru": "похолодание",
+  "meaning_en": "to cool down",
+  "semantic_tags": [
+   "weather",
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to become cooler/to lower the temperature/cooling/(of interest, activity etc) to decline",
+  "dataset_meanings": [
+   "to become cooler",
+   "to lower the temperature",
+   "cooling",
+   "(of interest, activity etc) to decline"
+  ]
+ },
+ {
+  "hanzi": "抽奖",
+  "pinyin": "chōujiǎng",
+  "meaning_ru": "розыгрыш призов",
+  "meaning_en": "to draw a prize; raffle",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to draw a prize/a lottery/a raffle",
+  "dataset_meanings": [
+   "to draw a prize",
+   "a lottery",
+   "a raffle"
+  ]
+ },
+ {
+  "hanzi": "孙女",
+  "pinyin": "sūnnǚ",
+  "meaning_ru": "внучка (по сыну)",
+  "meaning_en": "granddaughter",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "son's daughter/granddaughter",
+  "dataset_meanings": [
+   "son's daughter",
+   "granddaughter"
+  ]
+ },
+ {
+  "hanzi": "大巴",
+  "pinyin": "dàbā",
+  "meaning_ru": "автобус; туристический",
+  "meaning_en": "coach; large bus",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "(coll.) large bus/coach/(abbr. for 大型巴士)",
+  "dataset_meanings": [
+   "(coll.) large bus",
+   "coach",
+   "(abbr. for 大型巴士)"
+  ]
+ },
+ {
+  "hanzi": "树叶",
+  "pinyin": "shùyè",
+  "meaning_ru": "листья; листва",
+  "meaning_en": "tree leaves",
+  "semantic_tags": [
+   "nature"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "tree leaves",
+  "dataset_meanings": [
+   "tree leaves"
+  ]
+ },
+ {
+  "hanzi": "高价",
+  "pinyin": "gāojià",
+  "meaning_ru": "высокая цена",
+  "meaning_en": "high price",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "high price",
+  "dataset_meanings": [
+   "high price"
+  ]
+ },
+ {
+  "hanzi": "大妈",
+  "pinyin": "dàmā",
+  "meaning_ru": "тётушка (пожилая)",
+  "meaning_en": "auntie (older woman)",
+  "semantic_tags": [
+   "person",
+   "family"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "father's elder brother's wife/aunt (affectionate term for an elderly woman)",
+  "dataset_meanings": [
+   "father's elder brother's wife",
+   "aunt (affectionate term for an elderly woman)"
+  ]
+ },
+ {
+  "hanzi": "套餐",
+  "pinyin": "tàocān",
+  "meaning_ru": "комплексный обед; пакет",
+  "meaning_en": "set meal; package",
+  "semantic_tags": [
+   "food",
+   "commerce_trade"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "set meal/(fig.) product or service package (e.g. for a cell phone subscription)",
+  "dataset_meanings": [
+   "set meal",
+   "(fig.) product or service package (e.g. for a cell phone subscription)"
+  ]
+ },
+ {
+  "hanzi": "率先",
+  "pinyin": "shuàixiān",
+  "meaning_ru": "первым; возглавить",
+  "meaning_en": "take the lead; be first",
+  "semantic_tags": [
+   "manner_adverb",
+   "action_movement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to take the lead/to show initiative",
+  "dataset_meanings": [
+   "to take the lead",
+   "to show initiative"
+  ]
+ },
+ {
+  "hanzi": "冰雪",
+  "pinyin": "bīngxuě",
+  "meaning_ru": "лёд и снег",
+  "meaning_en": "ice and snow",
+  "semantic_tags": [
+   "nature",
+   "weather"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "ice and snow",
+  "dataset_meanings": [
+   "ice and snow"
+  ]
+ },
+ {
+  "hanzi": "牙刷",
+  "pinyin": "yáshuā",
+  "meaning_ru": "зубная щётка",
+  "meaning_en": "toothbrush",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "toothbrush/CL:把[ba3]",
+  "dataset_meanings": [
+   "toothbrush"
+  ]
+ },
+ {
+  "hanzi": "诚信",
+  "pinyin": "chéngxìn",
+  "meaning_ru": "честность; добросовестность",
+  "meaning_en": "honesty; integrity",
+  "semantic_tags": [
+   "abstract_quality",
+   "personality_trait"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "honesty; trustworthiness; good faith",
+  "dataset_meanings": [
+   "genuine",
+   "honest",
+   "in good faith",
+   "honesty",
+   "integrity"
+  ]
+ },
+ {
+  "hanzi": "窗子",
+  "pinyin": "chuāngzi",
+  "meaning_ru": "окно",
+  "meaning_en": "window",
+  "semantic_tags": [
+   "building",
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "window",
+  "dataset_meanings": [
+   "window"
+  ]
+ },
+ {
+  "hanzi": "月底",
+  "pinyin": "yuèdǐ",
+  "meaning_ru": "конец месяца",
+  "meaning_en": "end of the month",
+  "semantic_tags": [
+   "time_word",
+   "time_period"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "end of the month",
+  "dataset_meanings": [
+   "end of the month"
+  ]
+ },
+ {
+  "hanzi": "深厚",
+  "pinyin": "shēnhòu",
+  "meaning_ru": "глубокий; прочный",
+  "meaning_en": "deep; profound",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "deep; profound",
+  "dataset_meanings": [
+   "deep; profound"
+  ]
+ },
+ {
+  "hanzi": "降价",
+  "pinyin": "jiàngjià",
+  "meaning_ru": "снижать цену",
+  "meaning_en": "cut the price",
+  "semantic_tags": [
+   "commerce_trade",
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to cut the price/to drive down the price/to get cheaper",
+  "dataset_meanings": [
+   "to cut the price",
+   "to drive down the price",
+   "to get cheaper"
+  ]
+ },
+ {
+  "hanzi": "通知书",
+  "pinyin": "tōngzhīshū",
+  "meaning_ru": "уведомление (письм.)",
+  "meaning_en": "written notice",
+  "semantic_tags": [
+   "communication_formal",
+   "law_admin_doc"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "written notice",
+  "dataset_meanings": [
+   "written notice"
+  ]
+ },
+ {
+  "hanzi": "外交官",
+  "pinyin": "wàijiāoguān",
+  "meaning_ru": "дипломат",
+  "meaning_en": "diplomat",
+  "semantic_tags": [
+   "occupation",
+   "politics_government"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "diplomat",
+  "dataset_meanings": [
+   "diplomat"
+  ]
+ },
+ {
+  "hanzi": "培训班",
+  "pinyin": "péixùnbān",
+  "meaning_ru": "учебные курсы",
+  "meaning_en": "training class",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "training class",
+  "dataset_meanings": [
+   "training class"
+  ]
+ },
+ {
+  "hanzi": "外汇",
+  "pinyin": "wàihuì",
+  "meaning_ru": "валюта; инвалюта",
+  "meaning_en": "foreign exchange",
+  "semantic_tags": [
+   "economy_finance",
+   "money"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "foreign (currency) exchange",
+  "dataset_meanings": [
+   "foreign (currency) exchange"
+  ]
+ },
+ {
+  "hanzi": "轮子",
+  "pinyin": "lúnzi",
+  "meaning_ru": "колесо",
+  "meaning_en": "wheel",
+  "semantic_tags": [
+   "object_tech",
+   "transport_travel"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "wheel/(derog.) Falun Gong practitioner/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "wheel",
+   "(derog.) Falun Gong practitioner"
+  ]
+ },
+ {
+  "hanzi": "汽水",
+  "pinyin": "qìshuǐ",
+  "meaning_ru": "газировка",
+  "meaning_en": "soda; fizzy drink",
+  "semantic_tags": [
+   "drink"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "soda pop; carbonated soft drink",
+  "dataset_meanings": [
+   "soda pop; carbonated soft drink"
+  ]
+ },
+ {
+  "hanzi": "学分",
+  "pinyin": "xuéfēn",
+  "meaning_ru": "зачётный балл",
+  "meaning_en": "course credit",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "course credit",
+  "dataset_meanings": [
+   "course credit"
+  ]
+ },
+ {
+  "hanzi": "摆动",
+  "pinyin": "bǎidòng",
+  "meaning_ru": "качаться; колебаться",
+  "meaning_en": "to swing; to sway",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to sway/to swing/to move back and forth/to oscillate",
+  "dataset_meanings": [
+   "to sway",
+   "to swing",
+   "to move back and forth",
+   "to oscillate"
+  ]
+ },
+ {
+  "hanzi": "倒车",
+  "pinyin": "dàochē",
+  "meaning_ru": "сдавать назад",
+  "meaning_en": "to reverse a car",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to change buses, trains etc/to reverse (a vehicle)/to drive backwards",
+  "dataset_meanings": [
+   "to change buses, trains etc",
+   "to reverse (a vehicle)",
+   "to drive backwards"
+  ]
+ },
+ {
+  "hanzi": "后头",
+  "pinyin": "hòutou",
+  "meaning_ru": "позади; сзади",
+  "meaning_en": "behind; the rear",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "behind/the back/the rear/later/afterwards/(in) the future",
+  "dataset_meanings": [
+   "behind",
+   "the back",
+   "the rear",
+   "later",
+   "afterwards",
+   "(in) the future"
+  ]
+ },
+ {
+  "hanzi": "宽广",
+  "pinyin": "kuānguǎng",
+  "meaning_ru": "широкий; обширный",
+  "meaning_en": "wide; broad; vast",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "wide/broad/extensive/vast",
+  "dataset_meanings": [
+   "wide",
+   "broad",
+   "extensive",
+   "vast"
+  ]
+ },
+ {
+  "hanzi": "前头",
+  "pinyin": "qiántou",
+  "meaning_ru": "впереди; спереди",
+  "meaning_en": "in front; ahead",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "in front/at the head/ahead/above",
+  "dataset_meanings": [
+   "in front",
+   "at the head",
+   "ahead",
+   "above"
+  ]
+ },
+ {
+  "hanzi": "期中",
+  "pinyin": "qīzhōng",
+  "meaning_ru": "середина семестра",
+  "meaning_en": "midterm",
+  "semantic_tags": [
+   "education",
+   "time_period"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "interim/midterm",
+  "dataset_meanings": [
+   "interim",
+   "midterm"
+  ]
+ },
+ {
+  "hanzi": "吸管",
+  "pinyin": "xīguǎn",
+  "meaning_ru": "трубочка для питья",
+  "meaning_en": "drinking straw",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "(drinking) straw/pipette/eyedropper/snorkel/CL:支[zhi1]",
+  "dataset_meanings": [
+   "(drinking) straw",
+   "pipette",
+   "eyedropper",
+   "snorkel"
+  ]
+ },
+ {
+  "hanzi": "窗台",
+  "pinyin": "chuāngtái",
+  "meaning_ru": "подоконник",
+  "meaning_en": "windowsill",
+  "semantic_tags": [
+   "building",
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "windowsill; window ledge",
+  "dataset_meanings": [
+   "window sill",
+   "window ledge"
+  ]
+ },
+ {
+  "hanzi": "松树",
+  "pinyin": "sōngshù",
+  "meaning_ru": "сосна",
+  "meaning_en": "pine tree",
+  "semantic_tags": [
+   "nature"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "pine/pine tree/CL:棵[ke1]",
+  "dataset_meanings": [
+   "pine",
+   "pine tree"
+  ]
+ },
+ {
+  "hanzi": "多样",
+  "pinyin": "duōyàng",
+  "meaning_ru": "разнообразный",
+  "meaning_en": "diverse; varied",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "diverse/diversity/manifold",
+  "dataset_meanings": [
+   "diverse",
+   "diversity",
+   "manifold"
+  ]
+ }
+]

@@ -1,0 +1,1093 @@
+[
+ {
+  "hanzi": "箱",
+  "pinyin": "xiāng",
+  "meaning_ru": "ящик; коробка",
+  "meaning_en": "box; trunk; case",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "box/trunk/chest",
+  "dataset_meanings": [
+   "box",
+   "trunk",
+   "chest"
+  ]
+ },
+ {
+  "hanzi": "下降",
+  "pinyin": "xiàjiàng",
+  "meaning_ru": "снижаться; падать",
+  "meaning_en": "to drop; to decline",
+  "semantic_tags": [
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to decline/to drop/to fall/to go down/to decrease",
+  "dataset_meanings": [
+   "to decline",
+   "to drop",
+   "to fall",
+   "to go down",
+   "to decrease"
+  ]
+ },
+ {
+  "hanzi": "兵",
+  "pinyin": "bīng",
+  "meaning_ru": "солдат; войско",
+  "meaning_en": "soldier; troops",
+  "semantic_tags": [
+   "military_conflict",
+   "occupation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "soldiers/a force/an army/weapons/arms/military/warlike/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "soldiers",
+   "a force",
+   "an army",
+   "weapons",
+   "arms",
+   "military",
+   "warlike"
+  ]
+ },
+ {
+  "hanzi": "回复",
+  "pinyin": "huífù",
+  "meaning_ru": "ответить (на письмо)",
+  "meaning_en": "to reply",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to recover; to revert; to return to (good health, normal condition etc)/variant of 回覆[hui2 fu4]",
+  "dataset_meanings": [
+   "to reply",
+   "to recover",
+   "to return (to a previous condition)",
+   "Re: in reply to (email)"
+  ]
+ },
+ {
+  "hanzi": "牙",
+  "pinyin": "yá",
+  "meaning_ru": "зуб",
+  "meaning_en": "tooth",
+  "semantic_tags": [
+   "body"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "tooth/ivory/CL:顆|颗[ke1]",
+  "dataset_meanings": [
+   "tooth",
+   "ivory"
+  ]
+ },
+ {
+  "hanzi": "肥",
+  "pinyin": "féi",
+  "meaning_ru": "жирный; тучный",
+  "meaning_en": "fat; plump",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "fat/fertile/loose-fitting or large/to fertilize/to become rich by illegal means/fertilizer/manure",
+  "dataset_meanings": [
+   "fat",
+   "fertile",
+   "loose-fitting or large",
+   "to fertilize",
+   "to become rich by illegal means",
+   "fertilizer",
+   "manure"
+  ]
+ },
+ {
+  "hanzi": "湿",
+  "pinyin": "shī",
+  "meaning_ru": "мокрый; влажный",
+  "meaning_en": "wet; moist",
+  "semantic_tags": [
+   "manner_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "variant of 濕|湿[shi1]/moist/wet",
+  "dataset_meanings": [
+   "variant of 湿",
+   "moist",
+   "wet"
+  ]
+ },
+ {
+  "hanzi": "守",
+  "pinyin": "shǒu",
+  "meaning_ru": "охранять; соблюдать",
+  "meaning_en": "to guard; to abide by",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to guard/to defend/to keep watch/to abide by the law/to observe (rules or ritual)/nearby/adjoining",
+  "dataset_meanings": [
+   "to guard",
+   "to defend",
+   "to keep watch",
+   "to abide by the law",
+   "to observe (rules or ritual)",
+   "nearby",
+   "adjoining"
+  ]
+ },
+ {
+  "hanzi": "法官",
+  "pinyin": "fǎguān",
+  "meaning_ru": "судья",
+  "meaning_en": "judge",
+  "semantic_tags": [
+   "occupation",
+   "law_justice"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "judge (in court)",
+  "dataset_meanings": [
+   "judge (in court)"
+  ]
+ },
+ {
+  "hanzi": "松",
+  "pinyin": "sōng",
+  "meaning_ru": "ослаблять; рыхлый",
+  "meaning_en": "to loosen; loose",
+  "semantic_tags": [
+   "manner_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "surname Song/pine/CL:棵[ke1]/loose/to loosen/to relax/floss (dry, fluffy food product made from shredded, seasoned meat or fish, used as a topping or filling)",
+  "dataset_meanings": [
+   "surname Song",
+   "pine",
+   "loose",
+   "to loosen",
+   "to relax",
+   "floss (dry, fluffy food product made from shredded, seasoned meat or fish, used as a topping or filling)"
+  ]
+ },
+ {
+  "hanzi": "登",
+  "pinyin": "dēng",
+  "meaning_ru": "подниматься; восходить",
+  "meaning_en": "to climb; to ascend",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to scale (a height)/to ascend/to mount/to publish or record/to enter (e.g. in a register)/to press down with the foot/to step or tread on/to put on (shoes or trousers) (dialect)/to be gathered and taken to the threshing ground (old)",
+  "dataset_meanings": [
+   "to scale (a height)",
+   "to ascend",
+   "to mount",
+   "to publish or record",
+   "to enter (e.g. in a register)",
+   "to press down with the foot",
+   "to step or tread on",
+   "to put on (shoes or trousers) (dialect)",
+   "to be gathered and taken to the threshing ground (old)"
+  ]
+ },
+ {
+  "hanzi": "遇",
+  "pinyin": "yù",
+  "meaning_ru": "встретить; столкнуться",
+  "meaning_en": "to meet; to encounter",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "surname Yu/(bound form) to encounter; to happen upon; to meet unplanned/(bound form) to treat; to receive",
+  "dataset_meanings": [
+   "surname Yu",
+   "to meet",
+   "to encounter",
+   "to treat",
+   "to receive",
+   "opportunity",
+   "chance"
+  ]
+ },
+ {
+  "hanzi": "引",
+  "pinyin": "yǐn",
+  "meaning_ru": "тянуть; привлекать",
+  "meaning_en": "to pull; to attract; to lead",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to draw (e.g. a bow)/to pull/to stretch sth/to extend/to lengthen/to involve or implicate in/to attract/to lead/to guide/to leave/to provide evidence or justification for/old unit of distance equal to 10 丈[zhang4], one-thirtieth of a km or 33.33 meters",
+  "dataset_meanings": [
+   "to draw (e.g. a bow)",
+   "to pull",
+   "to stretch sth",
+   "to extend",
+   "to lengthen",
+   "to involve or implicate in",
+   "to attract",
+   "to lead",
+   "to guide",
+   "to leave",
+   "to provide evidence or justification for",
+   "old unit of distance equal to 10 丈, one-thirtieth of a km or 33.33 meters"
+  ]
+ },
+ {
+  "hanzi": "降",
+  "pinyin": "jiàng",
+  "meaning_ru": "понижаться; опускаться",
+  "meaning_en": "to lower; to descend",
+  "semantic_tags": [
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to drop/to fall/to come down/to descend/to surrender; to capitulate/to subdue; to conquer; to tame",
+  "dataset_meanings": [
+   "to drop",
+   "to fall",
+   "to come down",
+   "to descend",
+   "to surrender",
+   "to capitulate",
+   "to subdue",
+   "to tame"
+  ]
+ },
+ {
+  "hanzi": "睡着",
+  "pinyin": "shuìzháo",
+  "meaning_ru": "заснуть",
+  "meaning_en": "to fall asleep",
+  "semantic_tags": [
+   "action_daily",
+   "body_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to fall asleep",
+  "dataset_meanings": [
+   "to fall asleep"
+  ]
+ },
+ {
+  "hanzi": "地下",
+  "pinyin": "dìxià",
+  "meaning_ru": "подземный; подполье",
+  "meaning_en": "underground",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "underground/subterranean/covert",
+  "dataset_meanings": [
+   "underground",
+   "subterranean",
+   "covert"
+  ]
+ },
+ {
+  "hanzi": "闪",
+  "pinyin": "shǎn",
+  "meaning_ru": "увернуться; сверкнуть",
+  "meaning_en": "to dodge; to flash",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "surname Shan/to dodge/to duck out of the way/to beat it/shaken (by a fall)/to sprain/to pull a muscle/lightning/spark/a flash/to flash (across one's mind)/to leave behind/(Internet slang) (of a display of affection) \"dazzlingly\" saccharine",
+  "dataset_meanings": [
+   "surname Shan",
+   "to dodge",
+   "to duck out of the way",
+   "to beat it",
+   "shaken (by a fall)",
+   "to sprain",
+   "to pull a muscle",
+   "lightning",
+   "spark",
+   "a flash",
+   "to flash (across one's mind)",
+   "to leave behind",
+   "(Internet slang) (of a display of affection) \"dazzlingly\" saccharine"
+  ]
+ },
+ {
+  "hanzi": "袋",
+  "pinyin": "dài",
+  "meaning_ru": "мешок; сумка",
+  "meaning_en": "bag; sack",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "pouch/bag/sack/pocket",
+  "dataset_meanings": [
+   "pouch",
+   "bag",
+   "sack",
+   "pocket"
+  ]
+ },
+ {
+  "hanzi": "散",
+  "pinyin": "sàn",
+  "meaning_ru": "рассеяться; разойтись",
+  "meaning_en": "to scatter; disperse",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "variant of 散[san4]/scattered/loose/to come loose/to fall apart/leisurely/powdered medicine/to scatter/to break up (a meeting etc)/to disperse/to disseminate/to dispel/(coll.) to sack",
+  "dataset_meanings": [
+   "variant of 散",
+   "scattered",
+   "loose",
+   "to come loose",
+   "to fall apart",
+   "leisurely",
+   "powdered medicine",
+   "to scatter",
+   "to break up (a meeting etc)",
+   "to disperse",
+   "to disseminate",
+   "to dispel",
+   "(coll.) to sack"
+  ]
+ },
+ {
+  "hanzi": "战士",
+  "pinyin": "zhànshì",
+  "meaning_ru": "боец; солдат",
+  "meaning_en": "soldier; fighter",
+  "semantic_tags": [
+   "military_conflict",
+   "person"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "fighter/soldier/warrior/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "fighter",
+   "soldier",
+   "warrior"
+  ]
+ },
+ {
+  "hanzi": "针",
+  "pinyin": "zhēn",
+  "meaning_ru": "игла; укол",
+  "meaning_en": "needle; injection",
+  "semantic_tags": [
+   "object_home",
+   "health_medical"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "needle/pin/injection/stitch/CL:根[gen1],支[zhi1]/variant of 針|针[zhen1], needle",
+  "dataset_meanings": [
+   "needle",
+   "pin",
+   "injection",
+   "stitch",
+   "variant of 针, needle"
+  ]
+ },
+ {
+  "hanzi": "装置",
+  "pinyin": "zhuāngzhì",
+  "meaning_ru": "устройство; установка",
+  "meaning_en": "device; installation",
+  "semantic_tags": [
+   "object_tech",
+   "technology"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to install/installation/equipment/system/unit/device",
+  "dataset_meanings": [
+   "to install",
+   "installation",
+   "equipment",
+   "system",
+   "unit",
+   "device"
+  ]
+ },
+ {
+  "hanzi": "划",
+  "pinyin": "huá",
+  "meaning_ru": "грести; чиркнуть",
+  "meaning_en": "to row; to scratch",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to row/to paddle/profitable/worth (the effort)/it pays (to do sth)/to cut/to slash/to scratch (cut into the surface of sth)/to strike (a match)/to delimit/to transfer/to assign/to plan/to draw (a line)/stroke of a Chinese character",
+  "dataset_meanings": [
+   "to row",
+   "to paddle",
+   "profitable",
+   "worth (the effort)",
+   "it pays (to do sth)",
+   "to cut",
+   "to slash",
+   "to scratch (cut into the surface of sth)",
+   "to strike (a match)",
+   "to delimit",
+   "to transfer",
+   "to assign",
+   "to plan",
+   "to draw (a line)",
+   "stroke of a Chinese character"
+  ]
+ },
+ {
+  "hanzi": "移",
+  "pinyin": "yí",
+  "meaning_ru": "перемещать; сдвигать",
+  "meaning_en": "to move; to shift",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to move/to shift/to change/to alter/to remove",
+  "dataset_meanings": [
+   "to move",
+   "to shift",
+   "to change",
+   "to alter",
+   "to remove"
+  ]
+ },
+ {
+  "hanzi": "测",
+  "pinyin": "cè",
+  "meaning_ru": "измерять; замерять",
+  "meaning_en": "to measure; survey",
+  "semantic_tags": [
+   "action_learning",
+   "science_research"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to survey/to measure/to conjecture",
+  "dataset_meanings": [
+   "to survey",
+   "to measure",
+   "to conjecture"
+  ]
+ },
+ {
+  "hanzi": "医学",
+  "pinyin": "yīxué",
+  "meaning_ru": "медицина",
+  "meaning_en": "medicine; medical science",
+  "semantic_tags": [
+   "health_medical",
+   "science_research"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "medicine/medical science/study of medicine",
+  "dataset_meanings": [
+   "medicine",
+   "medical science",
+   "study of medicine"
+  ]
+ },
+ {
+  "hanzi": "运动员",
+  "pinyin": "yùndòngyuán",
+  "meaning_ru": "спортсмен",
+  "meaning_en": "athlete",
+  "semantic_tags": [
+   "sport",
+   "occupation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "athlete/CL:名[ming2],個|个[ge4]",
+  "dataset_meanings": [
+   "athlete"
+  ]
+ },
+ {
+  "hanzi": "姐妹",
+  "pinyin": "jiěmèi",
+  "meaning_ru": "сёстры",
+  "meaning_en": "sisters",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "sisters/siblings/sister (school, city etc)",
+  "dataset_meanings": [
+   "sisters",
+   "siblings",
+   "sister (school, city etc)"
+  ]
+ },
+ {
+  "hanzi": "外套",
+  "pinyin": "wàitào",
+  "meaning_ru": "пальто; куртка",
+  "meaning_en": "coat; jacket",
+  "semantic_tags": [
+   "clothing"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "outer garment; jacket; coat/CL:件[jian4]",
+  "dataset_meanings": [
+   "coat",
+   "jacket"
+  ]
+ },
+ {
+  "hanzi": "聚",
+  "pinyin": "jù",
+  "meaning_ru": "собираться; скапливаться",
+  "meaning_en": "to gather; assemble",
+  "semantic_tags": [
+   "action_movement",
+   "relationship_social"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to assemble; to gather (transitive or intransitive)/(chemistry) poly-",
+  "dataset_meanings": [
+   "to congregate",
+   "to assemble",
+   "to mass",
+   "to gather together",
+   "to amass",
+   "to polymerize"
+  ]
+ },
+ {
+  "hanzi": "黑暗",
+  "pinyin": "hēiʼàn",
+  "meaning_ru": "тьма; тёмный",
+  "meaning_en": "darkness; dark",
+  "semantic_tags": [
+   "abstract_quality",
+   "perception"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "dark/darkly/darkness",
+  "dataset_meanings": [
+   "dark",
+   "darkly",
+   "darkness"
+  ]
+ },
+ {
+  "hanzi": "含",
+  "pinyin": "hán",
+  "meaning_ru": "содержать; держать во рту",
+  "meaning_en": "to contain; hold in mouth",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to keep in the mouth/to contain",
+  "dataset_meanings": [
+   "to keep in the mouth",
+   "to contain"
+  ]
+ },
+ {
+  "hanzi": "地面",
+  "pinyin": "dìmiàn",
+  "meaning_ru": "земля; поверхность",
+  "meaning_en": "ground; surface",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "floor/ground/surface",
+  "dataset_meanings": [
+   "floor",
+   "ground",
+   "surface"
+  ]
+ },
+ {
+  "hanzi": "纯",
+  "pinyin": "chún",
+  "meaning_ru": "чистый; беспримесный",
+  "meaning_en": "pure; unmixed",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "pure/simple/unmixed/genuine",
+  "dataset_meanings": [
+   "pure",
+   "simple",
+   "unmixed",
+   "genuine"
+  ]
+ },
+ {
+  "hanzi": "稳",
+  "pinyin": "wěn",
+  "meaning_ru": "устойчивый; стабильный",
+  "meaning_en": "steady; stable",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "settled; steady; stable",
+  "dataset_meanings": [
+   "settled",
+   "steady",
+   "stable"
+  ]
+ },
+ {
+  "hanzi": "遇见",
+  "pinyin": "yùjiàn",
+  "meaning_ru": "встретить",
+  "meaning_en": "to meet; run into",
+  "semantic_tags": [
+   "action_movement",
+   "relationship_social"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to meet",
+  "dataset_meanings": [
+   "to meet"
+  ]
+ },
+ {
+  "hanzi": "夫妻",
+  "pinyin": "fūqī",
+  "meaning_ru": "супруги",
+  "meaning_en": "married couple",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "husband and wife; married couple",
+  "dataset_meanings": [
+   "husband and wife; married couple"
+  ]
+ },
+ {
+  "hanzi": "眼泪",
+  "pinyin": "yǎnlèi",
+  "meaning_ru": "слёзы",
+  "meaning_en": "tears",
+  "semantic_tags": [
+   "body",
+   "emotion"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "tear; teardrop/CL:滴[di1]",
+  "dataset_meanings": [
+   "tears",
+   "crying"
+  ]
+ },
+ {
+  "hanzi": "隔",
+  "pinyin": "gé",
+  "meaning_ru": "отделять; через (интервал)",
+  "meaning_en": "to separate; at interval",
+  "semantic_tags": [
+   "spatial_relation",
+   "physical_action"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to separate/to partition/to stand or lie between/at a distance from/after or at an interval of",
+  "dataset_meanings": [
+   "to separate",
+   "to partition",
+   "to stand or lie between",
+   "at a distance from",
+   "after or at an interval of"
+  ]
+ },
+ {
+  "hanzi": "供应",
+  "pinyin": "gōngyìng",
+  "meaning_ru": "снабжать; поставлять",
+  "meaning_en": "to supply; provide",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to supply; to provide (goods, services etc)",
+  "dataset_meanings": [
+   "to supply",
+   "to provide",
+   "to offer"
+  ]
+ },
+ {
+  "hanzi": "战胜",
+  "pinyin": "zhànshèng",
+  "meaning_ru": "победить; одолеть",
+  "meaning_en": "to defeat; overcome",
+  "semantic_tags": [
+   "military_conflict",
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to prevail over/to defeat/to surmount",
+  "dataset_meanings": [
+   "to prevail over",
+   "to defeat",
+   "to surmount"
+  ]
+ },
+ {
+  "hanzi": "密",
+  "pinyin": "mì",
+  "meaning_ru": "густой; тайный",
+  "meaning_en": "dense; secret",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "surname Mi/name of an ancient state/dense; close; thick/intimate; close/(bound form) secret; confidential/(Internet slang) to send a private message to (sb); to DM",
+  "dataset_meanings": [
+   "surname Mi",
+   "name of an ancient state",
+   "secret",
+   "confidential",
+   "close",
+   "thick",
+   "dense"
+  ]
+ },
+ {
+  "hanzi": "独自",
+  "pinyin": "dúzì",
+  "meaning_ru": "в одиночку; сам",
+  "meaning_en": "alone; by oneself",
+  "semantic_tags": [
+   "manner_adverb"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "alone",
+  "dataset_meanings": [
+   "alone"
+  ]
+ },
+ {
+  "hanzi": "大哥",
+  "pinyin": "dàgē",
+  "meaning_ru": "старший брат",
+  "meaning_en": "eldest brother",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "eldest brother/big brother (polite address for a man of about the same age as oneself)/gang leader; boss",
+  "dataset_meanings": [
+   "eldest brother",
+   "big brother (polite address for a man of about the same age as oneself)",
+   "gang leader",
+   "boss"
+  ]
+ },
+ {
+  "hanzi": "大众",
+  "pinyin": "dàzhòng",
+  "meaning_ru": "массы; широкая публика",
+  "meaning_en": "the masses; public",
+  "semantic_tags": [
+   "society_public",
+   "person"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "Volkswagen (automobile manufacturer)/the masses/the great bulk of the population/popular (of music, science etc)",
+  "dataset_meanings": [
+   "Volkswagen (automobile manufacturer)",
+   "the masses",
+   "the great bulk of the population",
+   "popular (of music, science etc)"
+  ]
+ },
+ {
+  "hanzi": "减",
+  "pinyin": "jiǎn",
+  "meaning_ru": "уменьшать; вычитать",
+  "meaning_en": "reduce; subtract",
+  "semantic_tags": [
+   "process_change",
+   "quantity_abstract"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to lower/to decrease/to reduce/to subtract/to diminish",
+  "dataset_meanings": [
+   "to lower",
+   "to decrease",
+   "to reduce",
+   "to subtract",
+   "to diminish"
+  ]
+ },
+ {
+  "hanzi": "末",
+  "pinyin": "mò",
+  "meaning_ru": "конец; последний",
+  "meaning_en": "end; last",
+  "semantic_tags": [
+   "time_word",
+   "spatial_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "variant of 麼|么[me5]/tip/end/final stage/latter part/inessential detail/powder/dust/opera role of old man",
+  "dataset_meanings": [
+   "tip",
+   "end",
+   "final stage",
+   "latter part",
+   "inessential detail",
+   "powder",
+   "dust",
+   "opera role of old man"
+  ]
+ },
+ {
+  "hanzi": "细",
+  "pinyin": "xì",
+  "meaning_ru": "тонкий; мелкий",
+  "meaning_en": "thin; fine",
+  "semantic_tags": [
+   "evaluation_adj",
+   "shape_form"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "thin or slender/finely particulate/thin and soft/fine/delicate/trifling/(of a sound) quiet/frugal",
+  "dataset_meanings": [
+   "thin or slender",
+   "finely particulate",
+   "thin and soft",
+   "fine",
+   "delicate",
+   "trifling",
+   "(of a sound) quiet",
+   "frugal"
+  ]
+ },
+ {
+  "hanzi": "出售",
+  "pinyin": "chūshòu",
+  "meaning_ru": "продавать",
+  "meaning_en": "to sell; offer for sale",
+  "semantic_tags": [
+   "commerce_trade",
+   "transaction"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to sell/to offer for sale/to put on the market",
+  "dataset_meanings": [
+   "to sell",
+   "to offer for sale",
+   "to put on the market"
+  ]
+ },
+ {
+  "hanzi": "堵",
+  "pinyin": "dǔ",
+  "meaning_ru": "загораживать; пробка",
+  "meaning_en": "to block up; jam",
+  "semantic_tags": [
+   "physical_action",
+   "transport_travel"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to block up (a road, pipe etc)/to stop up (a hole)/(fig.) (of a person) choked up with anxiety or stress/wall (literary)/(classifier for walls)",
+  "dataset_meanings": [
+   "to block up (a road, pipe etc)",
+   "to stop up (a hole)",
+   "(fig.) (of a person) choked up with anxiety or stress",
+   "wall (literary)",
+   "(classifier for walls)"
+  ]
+ },
+ {
+  "hanzi": "拍照",
+  "pinyin": "pāizhào",
+  "meaning_ru": "фотографировать",
+  "meaning_en": "to take a photo",
+  "semantic_tags": [
+   "action_daily",
+   "hobby"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to take a picture",
+  "dataset_meanings": [
+   "to take a picture"
+  ]
+ },
+ {
+  "hanzi": "轻易",
+  "pinyin": "qīngyì",
+  "meaning_ru": "легко; опрометчиво",
+  "meaning_en": "easily; rashly",
+  "semantic_tags": [
+   "manner_adverb",
+   "degree_adverb"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "easy; simple/rashly; offhandedly",
+  "dataset_meanings": [
+   "easily",
+   "lightly",
+   "rashly"
+  ]
+ },
+ {
+  "hanzi": "大楼",
+  "pinyin": "dàlóu",
+  "meaning_ru": "высотное здание",
+  "meaning_en": "large building",
+  "semantic_tags": [
+   "building"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "building (a relatively large, multistory one)/CL:幢[zhuang4],座[zuo4]",
+  "dataset_meanings": [
+   "building (a relatively large, multistory one)"
+  ]
+ },
+ {
+  "hanzi": "名人",
+  "pinyin": "míngrén",
+  "meaning_ru": "знаменитость",
+  "meaning_en": "celebrity; famous person",
+  "semantic_tags": [
+   "person",
+   "society_public"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "personage/celebrity",
+  "dataset_meanings": [
+   "personage",
+   "celebrity"
+  ]
+ },
+ {
+  "hanzi": "转身",
+  "pinyin": "zhuǎnshēn",
+  "meaning_ru": "повернуться; обернуться",
+  "meaning_en": "to turn around",
+  "semantic_tags": [
+   "action_movement",
+   "body"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "(of a person) to turn round/to face about/(of a widow) to remarry (archaic)",
+  "dataset_meanings": [
+   "(of a person) to turn round",
+   "to face about",
+   "(of a widow) to remarry (archaic)"
+  ]
+ },
+ {
+  "hanzi": "投诉",
+  "pinyin": "tóusù",
+  "meaning_ru": "жалоба; жаловаться",
+  "meaning_en": "to complain; complaint",
+  "semantic_tags": [
+   "action_communication",
+   "commerce_trade"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to lodge a complaint",
+  "dataset_meanings": [
+   "complaint",
+   "to complain",
+   "to register a complaint (esp. as a customer)"
+  ]
+ },
+ {
+  "hanzi": "体重",
+  "pinyin": "tǐzhòng",
+  "meaning_ru": "вес тела",
+  "meaning_en": "body weight",
+  "semantic_tags": [
+   "body",
+   "health_medical"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "body weight",
+  "dataset_meanings": [
+   "body weight"
+  ]
+ },
+ {
+  "hanzi": "面试",
+  "pinyin": "miànshì",
+  "meaning_ru": "собеседование",
+  "meaning_en": "job interview",
+  "semantic_tags": [
+   "work_career",
+   "communication_formal"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to be interviewed (as a candidate)/interview",
+  "dataset_meanings": [
+   "to be interviewed (as a candidate)",
+   "interview"
+  ]
+ },
+ {
+  "hanzi": "无所谓",
+  "pinyin": "wúsuǒwèi",
+  "meaning_ru": "всё равно; без разницы",
+  "meaning_en": "doesn't matter; indifferent",
+  "semantic_tags": [
+   "attitude",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to be indifferent/not to matter/cannot be said to be",
+  "dataset_meanings": [
+   "to be indifferent",
+   "not to matter",
+   "cannot be said to be"
+  ]
+ },
+ {
+  "hanzi": "沉",
+  "pinyin": "chén",
+  "meaning_ru": "тонуть; тяжёлый",
+  "meaning_en": "to sink; heavy",
+  "semantic_tags": [
+   "action_movement",
+   "manner_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "variant of 沉[chen2]/to submerge/to immerse/to sink/to keep down/to lower/to drop/deep/profound/heavy",
+  "dataset_meanings": [
+   "to submerge",
+   "to immerse",
+   "to sink",
+   "to keep down",
+   "to lower",
+   "to drop",
+   "deep",
+   "profound",
+   "heavy"
+  ]
+ }
+]

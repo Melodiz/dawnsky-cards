@@ -1,0 +1,482 @@
+[
+ {
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "meaning_ru": "любить (глубоко или широко)",
+  "meaning_en": "to love; like (deep or broad feeling)",
+  "len_ru": 27,
+  "len_en": 37
+ },
+ {
+  "hanzi": "孩子",
+  "pinyin": "háizi",
+  "meaning_ru": "ребёнок (нейтр.)",
+  "meaning_en": "child; kid (neutral everyday)",
+  "len_ru": 16,
+  "len_en": 29
+ },
+ {
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "meaning_ru": "входить; войти (нейтр.)",
+  "meaning_en": "enter; go in (neutral direction)",
+  "len_ru": 23,
+  "len_en": 32
+ },
+ {
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "meaning_ru": "смеяться; улыбаться (шире, чем 微笑)",
+  "meaning_en": "to laugh; smile (covers both)",
+  "len_ru": 34,
+  "len_en": 29
+ },
+ {
+  "hanzi": "外",
+  "pinyin": "wài",
+  "meaning_ru": "снаружи; внешний (связ. морфема)",
+  "meaning_en": "outside; external (bound morpheme)",
+  "len_ru": 32,
+  "len_en": 34
+ },
+ {
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "meaning_ru": "неправильный; ошибка (шире 不对)",
+  "meaning_en": "wrong; mistake (broader than 不对)",
+  "len_ru": 30,
+  "len_en": 32
+ },
+ {
+  "hanzi": "别的",
+  "pinyin": "biéde",
+  "meaning_ru": "другой; иное (разг., о людях и вещах)",
+  "meaning_en": "other; else (colloquial, people+things)",
+  "len_ru": 37,
+  "len_en": 39
+ },
+ {
+  "hanzi": "唱",
+  "pinyin": "chàng",
+  "meaning_ru": "петь (разг., любой контекст)",
+  "meaning_en": "to sing (everyday, any context)",
+  "len_ru": 28,
+  "len_en": 31
+ },
+ {
+  "hanzi": "看见",
+  "pinyin": "kànjiàn",
+  "meaning_ru": "увидеть (момент восприятия)",
+  "meaning_en": "catch sight of (moment of perception)",
+  "len_ru": 27,
+  "len_en": 37
+ },
+ {
+  "hanzi": "字",
+  "pinyin": "zì",
+  "meaning_ru": "иероглиф; буква (одна единица)",
+  "meaning_en": "character; letter (single unit)",
+  "len_ru": 30,
+  "len_en": 31
+ },
+ {
+  "hanzi": "白",
+  "pinyin": "bái",
+  "meaning_ru": "белый (прил./морфема, не назв. цвета)",
+  "meaning_en": "white (adj./morpheme, not color noun)",
+  "len_ru": 37,
+  "len_en": 37
+ },
+ {
+  "hanzi": "哥",
+  "pinyin": "gē",
+  "meaning_ru": "старший брат (любой, не обязательно самый старший)",
+  "meaning_en": "elder brother (any, not necessarily eldest)",
+  "len_ru": 50,
+  "len_en": 43
+ },
+ {
+  "hanzi": "病人",
+  "pinyin": "bìngrén",
+  "meaning_ru": "больной; пациент (разг.)",
+  "meaning_en": "patient; sick person (everyday)",
+  "len_ru": 24,
+  "len_en": 31
+ },
+ {
+  "hanzi": "有的",
+  "pinyin": "yǒude",
+  "meaning_ru": "некоторые (распред.: одни…другие…)",
+  "meaning_en": "some (distributive: 有的…有的…)",
+  "len_ru": 34,
+  "len_en": 27
+ },
+ {
+  "hanzi": "右",
+  "pinyin": "yòu",
+  "meaning_ru": "правый (морфема/прил.; ср. 右边)",
+  "meaning_en": "right (morpheme/adj.; cf. 右边 for location)",
+  "len_ru": 30,
+  "len_en": 42
+ },
+ {
+  "hanzi": "进去",
+  "pinyin": "jìnqù",
+  "meaning_ru": "войти (разг., напр. в комнату)",
+  "meaning_en": "go in (spoken, directional complement)",
+  "len_ru": 30,
+  "len_en": 38
+ },
+ {
+  "hanzi": "没什么",
+  "pinyin": "méishénme",
+  "meaning_ru": "ничего; пустяки (нейтр.)",
+  "meaning_en": "it's nothing; not much (neutral)",
+  "len_ru": 24,
+  "len_en": 32
+ },
+ {
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "meaning_ru": "медленный; медленно",
+  "meaning_en": "slow (adj; basic speed, not gradual)",
+  "len_ru": 19,
+  "len_en": 36
+ },
+ {
+  "hanzi": "进来",
+  "pinyin": "jìnlái",
+  "meaning_ru": "войти (внутрь, к говорящему)",
+  "meaning_en": "come in (into space, toward speaker)",
+  "len_ru": 28,
+  "len_en": 36
+ },
+ {
+  "hanzi": "好看",
+  "pinyin": "hǎokàn",
+  "meaning_ru": "красивый; интересный",
+  "meaning_en": "good-looking (people or things)",
+  "len_ru": 20,
+  "len_en": 31
+ },
+ {
+  "hanzi": "女生",
+  "pinyin": "nǚshēng",
+  "meaning_ru": "девушка-ученица; школьница",
+  "meaning_en": "girl; female student (school context)",
+  "len_ru": 26,
+  "len_en": 37
+ },
+ {
+  "hanzi": "记住",
+  "pinyin": "jìzhu",
+  "meaning_ru": "запомнить (целенаправленно)",
+  "meaning_en": "memorize; commit to memory",
+  "len_ru": 27,
+  "len_en": 26
+ },
+ {
+  "hanzi": "那边",
+  "pinyin": "nàbian",
+  "meaning_ru": "там; та сторона (направление)",
+  "meaning_en": "over there; that side (direction)",
+  "len_ru": 29,
+  "len_en": 33
+ },
+ {
+  "hanzi": "妹",
+  "pinyin": "mèi",
+  "meaning_ru": "младшая сестра (в составе слов)",
+  "meaning_en": "younger sister (morpheme, in compounds)",
+  "len_ru": 31,
+  "len_en": 39
+ },
+ {
+  "hanzi": "不对",
+  "pinyin": "búduì",
+  "meaning_ru": "неверно (разг. возражение: 不对吧?)",
+  "meaning_en": "not right (coll. mild correction)",
+  "len_ru": 32,
+  "len_en": 33
+ },
+ {
+  "hanzi": "干什么",
+  "pinyin": "gànshénme",
+  "meaning_ru": "что делаешь? (про действие)",
+  "meaning_en": "what are you doing? (action focus)",
+  "len_ru": 27,
+  "len_en": 34
+ },
+ {
+  "hanzi": "这边",
+  "pinyin": "zhèbiān",
+  "meaning_ru": "эта сторона; сюда (направление)",
+  "meaning_en": "this side; this way (directional)",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "右边",
+  "pinyin": "yòubian",
+  "meaning_ru": "правая сторона (место; ср. 右)",
+  "meaning_en": "the right side (location noun; cf. 右)",
+  "len_ru": 29,
+  "len_en": 37
+ },
+ {
+  "hanzi": "听见",
+  "pinyin": "tīngjiàn",
+  "meaning_ru": "услышать (акцент на восприятии звука)",
+  "meaning_en": "to hear (sensory event — sound reached you)",
+  "len_ru": 37,
+  "len_en": 43
+ },
+ {
+  "hanzi": "读书",
+  "pinyin": "dúshū",
+  "meaning_ru": "читать; учиться (разговорн.)",
+  "meaning_en": "read; study (colloquial, broadly)",
+  "len_ru": 28,
+  "len_en": 33
+ },
+ {
+  "hanzi": "姐",
+  "pinyin": "jiě",
+  "meaning_ru": "старшая сестра (связ., в составе слов)",
+  "meaning_en": "older sister (bound form, compounds)",
+  "len_ru": 38,
+  "len_en": 36
+ },
+ {
+  "hanzi": "车站",
+  "pinyin": "chēzhàn",
+  "meaning_ru": "станция (автобус/поезд, общ.)",
+  "meaning_en": "station (bus/train, general)",
+  "len_ru": 29,
+  "len_en": 28
+ },
+ {
+  "hanzi": "小朋友",
+  "pinyin": "xiǎopéngyǒu",
+  "meaning_ru": "малыш (ласк., взрослый — ребёнку)",
+  "meaning_en": "child (warm, adult to child)",
+  "len_ru": 33,
+  "len_en": 28
+ },
+ {
+  "hanzi": "不大",
+  "pinyin": "búdà",
+  "meaning_ru": "не очень; не часто (частота)",
+  "meaning_en": "not very; not often (frequency)",
+  "len_ru": 28,
+  "len_en": 31
+ },
+ {
+  "hanzi": "弟",
+  "pinyin": "dì",
+  "meaning_ru": "младший брат (в составе слов)",
+  "meaning_en": "younger brother (morpheme, in compounds)",
+  "len_ru": 29,
+  "len_en": 40
+ },
+ {
+  "hanzi": "关上",
+  "pinyin": "guānshàng",
+  "meaning_ru": "закрыть (дверь, окно); выключить",
+  "meaning_en": "to close shut (physical objects)",
+  "len_ru": 32,
+  "len_en": 32
+ },
+ {
+  "hanzi": "没事儿",
+  "pinyin": "méishìr",
+  "meaning_ru": "ничего (разг., с эрхуа)",
+  "meaning_en": "it's nothing (colloquial, erhua form)",
+  "len_ru": 23,
+  "len_en": 37
+ },
+ {
+  "hanzi": "外边",
+  "pinyin": "wàibian",
+  "meaning_ru": "снаружи (разг. наречие места)",
+  "meaning_en": "outside (colloquial locative)",
+  "len_ru": 29,
+  "len_en": 29
+ },
+ {
+  "hanzi": "本子",
+  "pinyin": "běnzi",
+  "meaning_ru": "тетрадь (физический объект)",
+  "meaning_en": "notebook (physical object)",
+  "len_ru": 27,
+  "len_en": 26
+ },
+ {
+  "hanzi": "女孩儿",
+  "pinyin": "nǚháir",
+  "meaning_ru": "девочка/девушка (разг., нейтр.)",
+  "meaning_en": "girl (colloquial, neutral, any age)",
+  "len_ru": 31,
+  "len_en": 35
+ },
+ {
+  "hanzi": "下边",
+  "pinyin": "xiàbian",
+  "meaning_ru": "внизу; под (нейтр., разговорн.)",
+  "meaning_en": "below; underneath (neutral spoken)",
+  "len_ru": 31,
+  "len_en": 34
+ },
+ {
+  "hanzi": "好玩儿",
+  "pinyin": "hǎowánr",
+  "meaning_ru": "весёлый; забавный (разг.)",
+  "meaning_en": "fun; amusing (colloquial, of activities)",
+  "len_ru": 25,
+  "len_en": 40
+ },
+ {
+  "hanzi": "课文",
+  "pinyin": "kèwén",
+  "meaning_ru": "текст (урока)",
+  "meaning_en": "lesson text; reading passage",
+  "len_ru": 13,
+  "len_en": 28
+ },
+ {
+  "hanzi": "听写",
+  "pinyin": "tīngxiě",
+  "meaning_ru": "диктант; писать под диктовку",
+  "meaning_en": "dictation",
+  "len_ru": 28,
+  "len_en": 9
+ },
+ {
+  "hanzi": "有一些",
+  "pinyin": "yǒuyīxiē",
+  "meaning_ru": "есть немного; несколько (колич.)",
+  "meaning_en": "there are some; a few (existential)",
+  "len_ru": 32,
+  "len_en": 35
+ },
+ {
+  "hanzi": "男孩儿",
+  "pinyin": "nánháir",
+  "meaning_ru": "мальчик (маленький ребёнок)",
+  "meaning_en": "boy (young child)",
+  "len_ru": 27,
+  "len_en": 17
+ },
+ {
+  "hanzi": "为",
+  "pinyin": "wéi",
+  "meaning_ru": "являться; выступать в роли (книжн.)",
+  "meaning_en": "to be; act as (literary copula/role)",
+  "len_ru": 35,
+  "len_en": 36
+ },
+ {
+  "hanzi": "可能",
+  "pinyin": "kěnéng",
+  "meaning_ru": "может быть; возможный; возможность",
+  "meaning_en": "maybe; possible (also noun: possibility)",
+  "len_ru": 34,
+  "len_en": 40
+ },
+ {
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "meaning_ru": "продавать (разг.)",
+  "meaning_en": "to sell (colloquial, everyday)",
+  "len_ru": 17,
+  "len_en": 30
+ },
+ {
+  "hanzi": "句",
+  "pinyin": "jù",
+  "meaning_ru": "счётн. сл. фраз; фраза",
+  "meaning_en": "(cl. for sentences); sentence",
+  "len_ru": 22,
+  "len_en": 29
+ },
+ {
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "meaning_ru": "чёрный; тёмный (прилагательное)",
+  "meaning_en": "black; dark (adjective/predicate)",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "意思",
+  "pinyin": "yìsi",
+  "meaning_ru": "смысл; значение (слова/сигнала)",
+  "meaning_en": "meaning (of words or a signal)",
+  "len_ru": 31,
+  "len_en": 30
+ },
+ {
+  "hanzi": "排",
+  "pinyin": "pái",
+  "meaning_ru": "ряд (физич.); выстраивать (сиденья, войска)",
+  "meaning_en": "row (physical: seats, troops); line up",
+  "len_ru": 43,
+  "len_en": 38
+ },
+ {
+  "hanzi": "流",
+  "pinyin": "liú",
+  "meaning_ru": "течь; струиться (простой глагол — вода, слёзы, время)",
+  "meaning_en": "to flow; stream (simple verb — water, tears, time)",
+  "len_ru": 53,
+  "len_en": 50
+ },
+ {
+  "hanzi": "养",
+  "pinyin": "yǎng",
+  "meaning_ru": "растить; держать (питомца или ребёнка)",
+  "meaning_en": "raise (child or pet, general)",
+  "len_ru": 38,
+  "len_en": 29
+ },
+ {
+  "hanzi": "长大",
+  "pinyin": "zhǎngdà",
+  "meaning_ru": "вырасти, повзрослеть (о людях)",
+  "meaning_en": "grow up (humans reaching adulthood)",
+  "len_ru": 30,
+  "len_en": 35
+ },
+ {
+  "hanzi": "交给",
+  "pinyin": "jiāogěi",
+  "meaning_ru": "передать (с переходом ответственности или права)",
+  "meaning_en": "hand over (transfer responsibility or ownership)",
+  "len_ru": 48,
+  "len_en": 48
+ },
+ {
+  "hanzi": "封",
+  "pinyin": "fēng",
+  "meaning_ru": "запечатать; счётн. для писем",
+  "meaning_en": "to seal; cl. for letters",
+  "len_ru": 28,
+  "len_en": 24
+ },
+ {
+  "hanzi": "想起",
+  "pinyin": "xiǎngqǐ",
+  "meaning_ru": "вспомнить (забытое)",
+  "meaning_en": "recall (something forgotten)",
+  "len_ru": 19,
+  "len_en": 28
+ },
+ {
+  "hanzi": "接到",
+  "pinyin": "jiēdào",
+  "meaning_ru": "получить (звонок, письмо)",
+  "meaning_en": "receive (call/message/letter)",
+  "len_ru": 25,
+  "len_en": 29
+ }
+]

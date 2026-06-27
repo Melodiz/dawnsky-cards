@@ -1,0 +1,143 @@
+[
+ {
+  "hanzi": "票价",
+  "pinyin": "piàojià",
+  "meaning_ru": "цена билета",
+  "meaning_en": "ticket price; fare",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "华人",
+  "pinyin": "huárén",
+  "meaning_ru": "этнический китаец",
+  "meaning_en": "ethnic Chinese person",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "有的是",
+  "pinyin": "yǒudeshì",
+  "meaning_ru": "сколько угодно",
+  "meaning_en": "have plenty of",
+  "semantic_tags": [
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "皮包",
+  "pinyin": "píbāo",
+  "meaning_ru": "сумка; портфель",
+  "meaning_en": "handbag; briefcase",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "图画",
+  "pinyin": "túhuà",
+  "meaning_ru": "рисунок; картинка",
+  "meaning_en": "drawing; picture",
+  "semantic_tags": [
+   "art"
+  ]
+ },
+ {
+  "hanzi": "长处",
+  "pinyin": "chángchù",
+  "meaning_ru": "сильная сторона",
+  "meaning_en": "strong point; merit",
+  "semantic_tags": [
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "年初",
+  "pinyin": "niánchū",
+  "meaning_ru": "начало года",
+  "meaning_en": "beginning of the year",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "试题",
+  "pinyin": "shìtí",
+  "meaning_ru": "экзаменационный вопрос",
+  "meaning_en": "exam question",
+  "semantic_tags": [
+   "education"
+  ]
+ },
+ {
+  "hanzi": "积极性",
+  "pinyin": "jījíxìng",
+  "meaning_ru": "активность; рвение",
+  "meaning_en": "enthusiasm; initiative",
+  "semantic_tags": [
+   "abstract_quality",
+   "personality_trait"
+  ]
+ },
+ {
+  "hanzi": "初一",
+  "pinyin": "chūyī",
+  "meaning_ru": "1-е число лун. месяца",
+  "meaning_en": "first day of lunar month",
+  "semantic_tags": [
+   "date",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "奶茶",
+  "pinyin": "nǎichá",
+  "meaning_ru": "чай с молоком",
+  "meaning_en": "milk tea",
+  "semantic_tags": [
+   "drink"
+  ]
+ },
+ {
+  "hanzi": "银牌",
+  "pinyin": "yínpái",
+  "meaning_ru": "серебряная медаль",
+  "meaning_en": "silver medal",
+  "semantic_tags": [
+   "sport",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "老头儿",
+  "pinyin": "lǎotóur",
+  "meaning_ru": "старик (разг.)",
+  "meaning_en": "old man (coll.)",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "交费",
+  "pinyin": "jiāofèi",
+  "meaning_ru": "платить (взнос)",
+  "meaning_en": "to pay a fee",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "凉水",
+  "pinyin": "liángshuǐ",
+  "meaning_ru": "холодная вода",
+  "meaning_en": "cool water",
+  "semantic_tags": [
+   "drink",
+   "material_substance"
+  ]
+ }
+]

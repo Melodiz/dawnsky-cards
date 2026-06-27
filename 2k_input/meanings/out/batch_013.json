@@ -1,0 +1,143 @@
+[
+ {
+  "hanzi": "不久",
+  "pinyin": "bùjiǔ",
+  "meaning_ru": "вскоре; скоро",
+  "meaning_en": "soon; before long",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "比如说",
+  "pinyin": "bǐrúshuō",
+  "meaning_ru": "например",
+  "meaning_en": "for example",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "碰",
+  "pinyin": "pèng",
+  "meaning_ru": "коснуться; задеть",
+  "meaning_en": "touch; bump",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "碰到",
+  "pinyin": "pèngdào",
+  "meaning_ru": "встретить; столкнуться",
+  "meaning_en": "run into; encounter",
+  "semantic_tags": [
+   "physical_action",
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "蓝色",
+  "pinyin": "lánsè",
+  "meaning_ru": "синий цвет",
+  "meaning_en": "blue (color)",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "懂得",
+  "pinyin": "dǒngde",
+  "meaning_ru": "понимать; знать",
+  "meaning_en": "understand; know",
+  "semantic_tags": [
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "好久",
+  "pinyin": "hǎojiǔ",
+  "meaning_ru": "долго; давно",
+  "meaning_en": "a long time",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "夏天",
+  "pinyin": "xiàtiān",
+  "meaning_ru": "лето",
+  "meaning_en": "summer",
+  "semantic_tags": [
+   "time_period",
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "接下来",
+  "pinyin": "jiēxiàlái",
+  "meaning_ru": "затем; далее",
+  "meaning_en": "next; then",
+  "semantic_tags": [
+   "time_word",
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "早餐",
+  "pinyin": "zǎocān",
+  "meaning_ru": "завтрак",
+  "meaning_en": "breakfast",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "车辆",
+  "pinyin": "chēliàng",
+  "meaning_ru": "транспорт; машины",
+  "meaning_en": "vehicles",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "早晨",
+  "pinyin": "zǎochén",
+  "meaning_ru": "утро; раннее утро",
+  "meaning_en": "early morning",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "出门",
+  "pinyin": "chūmén",
+  "meaning_ru": "выйти из дома",
+  "meaning_en": "go out; leave home",
+  "semantic_tags": [
+   "action_daily",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "以外",
+  "pinyin": "yǐwài",
+  "meaning_ru": "кроме; за пределами",
+  "meaning_en": "besides; outside of",
+  "semantic_tags": [
+   "spatial_relation",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "做法",
+  "pinyin": "zuòfǎ",
+  "meaning_ru": "способ; метод; рецепт",
+  "meaning_en": "method; way; recipe",
+  "semantic_tags": [
+   "abstract_relation",
+   "action_daily"
+  ]
+ }
+]

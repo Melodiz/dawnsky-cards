@@ -1,0 +1,144 @@
+[
+ {
+  "hanzi": "做梦",
+  "pinyin": "zuòmèng",
+  "meaning_ru": "видеть сон; мечтать",
+  "meaning_en": "to dream; daydream",
+  "semantic_tags": [
+   "action_daily",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "被迫",
+  "pinyin": "bèipò",
+  "meaning_ru": "быть вынужденным",
+  "meaning_en": "to be forced",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "台上",
+  "pinyin": "táishàng",
+  "meaning_ru": "на сцене",
+  "meaning_en": "on stage",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "获取",
+  "pinyin": "huòqǔ",
+  "meaning_ru": "получать; добывать",
+  "meaning_en": "to obtain; acquire",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "成人",
+  "pinyin": "chéngrén",
+  "meaning_ru": "взрослый",
+  "meaning_en": "adult",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "招呼",
+  "pinyin": "zhāohu",
+  "meaning_ru": "здороваться; окликать",
+  "meaning_en": "to greet; call out",
+  "semantic_tags": [
+   "greeting",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "小型",
+  "pinyin": "xiǎoxíng",
+  "meaning_ru": "малогабаритный",
+  "meaning_en": "small-scale",
+  "semantic_tags": [
+   "size",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "胸部",
+  "pinyin": "xiōngbù",
+  "meaning_ru": "грудь",
+  "meaning_en": "chest",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "楼梯",
+  "pinyin": "lóutī",
+  "meaning_ru": "лестница",
+  "meaning_en": "staircase",
+  "semantic_tags": [
+   "building"
+  ]
+ },
+ {
+  "hanzi": "没错",
+  "pinyin": "méicuò",
+  "meaning_ru": "верно; точно",
+  "meaning_en": "that's right; correct",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "身高",
+  "pinyin": "shēngāo",
+  "meaning_ru": "рост",
+  "meaning_en": "height (person)",
+  "semantic_tags": [
+   "body",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "玉",
+  "pinyin": "yù",
+  "meaning_ru": "нефрит; яшма",
+  "meaning_en": "jade",
+  "semantic_tags": [
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "打败",
+  "pinyin": "dǎbài",
+  "meaning_ru": "победить; разбить",
+  "meaning_en": "to defeat",
+  "semantic_tags": [
+   "action_movement",
+   "military_conflict"
+  ]
+ },
+ {
+  "hanzi": "含有",
+  "pinyin": "hányǒu",
+  "meaning_ru": "содержать",
+  "meaning_en": "to contain",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "潮",
+  "pinyin": "cháo",
+  "meaning_ru": "сырой; влажный",
+  "meaning_en": "damp; moist",
+  "semantic_tags": [
+   "manner_state",
+   "weather"
+  ]
+ }
+]

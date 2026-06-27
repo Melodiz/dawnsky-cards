@@ -1,0 +1,1381 @@
+[
+ {
+  "hanzi": "偷偷",
+  "pinyin": "tōutōu",
+  "meaning_ru": "тайком (скрывая умысел; ≠ 悄悄)",
+  "meaning_en": "secretly (≠ 悄悄 quietly)",
+  "len_ru": 29,
+  "len_en": 23,
+  "cedict_en": "stealthily/secretly/covertly/furtively/on the sly",
+  "dataset_meanings": [
+   "stealthily",
+   "secretly",
+   "covertly",
+   "furtively",
+   "on the sly"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "悄悄"
+    ],
+    "note": "偷偷 = secretly, concealing intent or action from others; 悄悄 = quietly, without noise — may or may not involve secrecy"
+   }
+  ]
+ },
+ {
+  "hanzi": "儿女",
+  "pinyin": "érnǚ",
+  "meaning_ru": "дети (книжн., эмоц.)",
+  "meaning_en": "sons and daughters (lit.)",
+  "len_ru": 20,
+  "len_en": 25,
+  "cedict_en": "children; sons and daughters/a young man and a young woman (in love)",
+  "dataset_meanings": [
+   "children; sons and daughters",
+   "a young man and a young woman (in love)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "子女"
+    ],
+    "note": "子女 = sons and daughters (neutral formal, legal/statistical contexts); 儿女 = sons and daughters (slightly more literary/emotional register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "先后",
+  "pinyin": "xiānhòu",
+  "meaning_ru": "по очереди; в порядке",
+  "meaning_en": "in sequence; one after another",
+  "len_ru": 21,
+  "len_en": 30,
+  "cedict_en": "early or late; first and last; priority/in succession; one after another",
+  "dataset_meanings": [
+   "early or late",
+   "priority",
+   "in succession",
+   "one after another"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "陆续",
+     "接连",
+     "纷纷"
+    ],
+    "note": "All mean 'one after another'. 先后 stresses ordered sequence; 陆续 stresses a gradual continuous stream; 接连 stresses unbroken succession (no gap); 纷纷 stresses many acting simultaneously/in a rush (en masse)."
+   }
+  ]
+ },
+ {
+  "hanzi": "光线",
+  "pinyin": "guāngxiàn",
+  "meaning_ru": "свет, луч (≠ 灯光 «освещение»)",
+  "meaning_en": "light ray (natural; ≠ 灯光)",
+  "len_ru": 28,
+  "len_en": 25,
+  "cedict_en": "light ray/CL:條|条[tiao2],道[dao4]/light/illumination/lighting (for a photograph)",
+  "dataset_meanings": [
+   "light ray",
+   "light",
+   "illumination",
+   "lighting (for a photograph)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "灯光",
+     "光",
+     "灯"
+    ],
+    "note": "All relate to 'light'; 光 = light in general or 'only/merely'; 灯 = lamp/fixture; 光线 = ray or quality of (natural) light; 灯光 = artificial lighting or stage light."
+   }
+  ]
+ },
+ {
+  "hanzi": "兔",
+  "pinyin": "tù",
+  "meaning_ru": "заяц/кролик (книжн., в словах)",
+  "meaning_en": "rabbit; hare (in compounds)",
+  "len_ru": 30,
+  "len_en": 27,
+  "cedict_en": "variant of 兔[tu4]/rabbit",
+  "dataset_meanings": [
+   "variant of 兔",
+   "rabbit"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "兔子"
+    ],
+    "note": "兔 = literary/zodiac form, used in compounds (兔年); 兔子 = everyday colloquial word for rabbit/hare"
+   }
+  ]
+ },
+ {
+  "hanzi": "全体",
+  "pinyin": "quántǐ",
+  "meaning_ru": "весь коллектив; все члены",
+  "meaning_en": "the whole group; all members",
+  "len_ru": 25,
+  "len_en": 28,
+  "cedict_en": "all/entire",
+  "dataset_meanings": [
+   "all",
+   "entire"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "全都",
+     "全部"
+    ],
+    "note": "全体 = the whole group/collective (noun-like, e.g. 全体成员); 全部 = the entire amount/all of it (noun modifier); 全都 = adverb 'all without exception' (modifies verbs)"
+   }
+  ]
+ },
+ {
+  "hanzi": "全场",
+  "pinyin": "quánchǎng",
+  "meaning_ru": "весь зал/аудитория (событие)",
+  "meaning_en": "whole venue/audience",
+  "len_ru": 28,
+  "len_en": 20,
+  "cedict_en": "everyone present/the whole audience/across-the-board/unanimously/whole duration (of a competition or match)",
+  "dataset_meanings": [
+   "everyone present",
+   "the whole audience",
+   "across-the-board",
+   "unanimously",
+   "whole duration (of a competition or match)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "全部",
+     "整",
+     "整整",
+     "整个",
+     "整体"
+    ],
+    "note": "全场 = whole audience/venue; 全部 (5k) = the total amount/all of it; 整 = exactly whole (整十年); 整整 = a full emphatic duration (整整三天); 整个 (5k) = the entire X as modifier; 整体 (5k) = the whole as a unified entity (noun)."
+   }
+  ]
+ },
+ {
+  "hanzi": "全年",
+  "pinyin": "quánnián",
+  "meaning_ru": "весь год; годовой",
+  "meaning_en": "whole year; annual",
+  "len_ru": 17,
+  "len_en": 18,
+  "cedict_en": "the whole year/all year long",
+  "dataset_meanings": [
+   "the whole year",
+   "all year long"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "终年",
+     "常年"
+    ],
+    "note": "全年 = the whole year / annual (total: 全年产量); 终年 (5k) = all year round OR age at death (literary); 常年 (5k) = year-round habitually / for years on end (habitual duration)."
+   }
+  ]
+ },
+ {
+  "hanzi": "全身",
+  "pinyin": "quánshēn",
+  "meaning_ru": "всё тело (нейтр.)",
+  "meaning_en": "whole body (neutral)",
+  "len_ru": 17,
+  "len_en": 20,
+  "cedict_en": "the whole body/(typography) em",
+  "dataset_meanings": [
+   "the whole body",
+   "(typography) em"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "一身",
+     "浑身"
+    ],
+    "note": "全身 is neutral 'the whole body'; 浑身 (5k) adds emotional weight, often 'all over / soaked / aching'; 一身 emphasizes a state covering the person (一身汗 = covered in sweat), often in set phrases."
+   }
+  ]
+ },
+ {
+  "hanzi": "全都",
+  "pinyin": "quándōu",
+  "meaning_ru": "все до одного (нареч.)",
+  "meaning_en": "all without exception (adv.)",
+  "len_ru": 22,
+  "len_en": 28,
+  "cedict_en": "all/without exception",
+  "dataset_meanings": [
+   "all",
+   "without exception"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "全体",
+     "全部"
+    ],
+    "note": "全体 = the whole group/collective (noun-like, e.g. 全体成员); 全部 = the entire amount/all of it (noun modifier); 全都 = adverb 'all without exception' (modifies verbs)"
+   }
+  ]
+ },
+ {
+  "hanzi": "公交车",
+  "pinyin": "gōngjiāochē",
+  "meaning_ru": "автобус (гор. маршрут)",
+  "meaning_en": "city bus (urban route)",
+  "len_ru": 22,
+  "len_en": 22,
+  "cedict_en": "public transport vehicle/town bus/CL:輛|辆[liang4]",
+  "dataset_meanings": [
+   "public transport vehicle",
+   "town bus"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大巴"
+    ],
+    "note": "公交车 = city transit bus (urban public transport system); 大巴 = coach/large bus (intercity or hired, not a scheduled city line)"
+   }
+  ]
+ },
+ {
+  "hanzi": "公斤",
+  "pinyin": "gōngjīn",
+  "meaning_ru": "килограмм (разг. норма)",
+  "meaning_en": "kilogram (everyday spoken form)",
+  "len_ru": 23,
+  "len_en": 31,
+  "cedict_en": "kilogram (kg)",
+  "dataset_meanings": [
+   "kilogram (kg)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "千克"
+    ],
+    "note": "Both mean kilogram. 公斤 is the everyday spoken form; 千克 is the official SI/scientific term, used in technical and written contexts."
+   }
+  ]
+ },
+ {
+  "hanzi": "共享",
+  "pinyin": "gòngxiǎng",
+  "meaning_ru": "совместно пользоваться",
+  "meaning_en": "share jointly (resources)",
+  "len_ru": 22,
+  "len_en": 25,
+  "cedict_en": "to share/to enjoy together",
+  "dataset_meanings": [
+   "to share",
+   "to enjoy together"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "分享"
+    ],
+    "note": "共享 = jointly share/use something (shared resources, infrastructure); 分享 = share with others by passing on or communicating (feelings, content, experiences)"
+   }
+  ]
+ },
+ {
+  "hanzi": "关上",
+  "pinyin": "guānshàng",
+  "meaning_ru": "закрыть (дверь, окно)",
+  "meaning_en": "close shut (physical objects)",
+  "len_ru": 21,
+  "len_en": 29,
+  "cedict_en": "to close (a door)/to turn off (light, electrical equipment etc)",
+  "dataset_meanings": [
+   "to close (a door)",
+   "to turn off (light, electrical equipment etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "闭幕"
+    ],
+    "note": "关上 = close/shut (physical objects: door, window; also turn off); 闭幕 = close/end an event (ceremony, conference, exhibition — formal)."
+   }
+  ]
+ },
+ {
+  "hanzi": "养",
+  "pinyin": "yǎng",
+  "meaning_ru": "растить; держать (питомца/ребёнка)",
+  "meaning_en": "raise (child or pet, general)",
+  "len_ru": 34,
+  "len_en": 29,
+  "cedict_en": "to raise (animals)/to bring up (children)/to keep (pets)/to support/to give birth",
+  "dataset_meanings": [
+   "to raise (animals)",
+   "to bring up (children)",
+   "to keep (pets)",
+   "to support",
+   "to give birth"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "饲养",
+     "抚养",
+     "培养"
+    ],
+    "note": "养 = general raise/keep (children or pets); 饲养 = feed and raise animals (husbandry); 抚养 = raise and provide for children (legal/familial); 培养 = nurture/develop people or skills (education context)"
+   }
+  ]
+ },
+ {
+  "hanzi": "内心",
+  "pinyin": "nèixīn",
+  "meaning_ru": "душа; в глубине души",
+  "meaning_en": "inner self (literary)",
+  "len_ru": 20,
+  "len_en": 21,
+  "cedict_en": "heart; innermost being/(math.) incenter",
+  "dataset_meanings": [
+   "heart; innermost being",
+   "(math.) incenter"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "心里"
+    ],
+    "note": "内心 = one's inner self/depths (literary, formal introspection); 心里 = in one's heart/mind right now (colloquial, situational feeling)"
+   }
+  ]
+ },
+ {
+  "hanzi": "再也",
+  "pinyin": "zàiyě",
+  "meaning_ru": "больше уже не",
+  "meaning_en": "never again (needs 不: 再也不)",
+  "len_ru": 13,
+  "len_en": 26,
+  "cedict_en": "(not) ever again; (not) any longer",
+  "dataset_meanings": [
+   "(not) any more"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "不再"
+    ],
+    "note": "再也 requires an explicit negative (再也不/没); 不再 already contains the negation and stands alone"
+   }
+  ]
+ },
+ {
+  "hanzi": "冒",
+  "pinyin": "mào",
+  "meaning_ru": "испускать (дым, пар); рисковать",
+  "meaning_en": "emit (smoke/steam); brave risk",
+  "len_ru": 31,
+  "len_en": 30,
+  "cedict_en": "old variant of 冒[mao4]/surname Mao/to emit; to give off; to send out (or up, forth)/to brave; to face/(bound form) reckless/to falsely adopt (sb's identity etc); to feign/(literary) to cover",
+  "dataset_meanings": [
+   "old variant of 冒",
+   "surname Mao",
+   "to emit",
+   "to give off",
+   "to send out (or up, forth)",
+   "to brave",
+   "to face",
+   "reckless",
+   "to falsely adopt (sb's identity etc)",
+   "to feign",
+   "(literary) to cover"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "发出",
+     "排放",
+     "放射"
+    ],
+    "note": "发出 = emit/send out (sound, light, signals, notifications). 排放 = discharge/emit (pollutants, gases, industrial waste). 放射 = radiate (radiation, rays, spreading outward from a point). 冒 = emit/give off (smoke, steam, bubble up; also 'brave')."
+   }
+  ]
+ },
+ {
+  "hanzi": "冬季",
+  "pinyin": "dōngjì",
+  "meaning_ru": "зимний сезон (офиц., метео.)",
+  "meaning_en": "winter season (formal)",
+  "len_ru": 28,
+  "len_en": 22,
+  "cedict_en": "winter",
+  "dataset_meanings": [
+   "winter"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "冬"
+    ],
+    "note": "冬 (5k) = winter (basic morpheme, used in compounds); 冬季 = the winter season (fuller, used in weather forecasts, formal contexts)."
+   }
+  ]
+ },
+ {
+  "hanzi": "凉",
+  "pinyin": "liáng",
+  "meaning_ru": "прохладный (умеренно)",
+  "meaning_en": "cool; mildly cold (neutral)",
+  "len_ru": 21,
+  "len_en": 27,
+  "cedict_en": "the five Liang of the Sixteen Kingdoms, namely: Former Liang 前涼|前凉 (314-376), Later Liang 後涼|后凉 (386-403), Northern Liang 北涼|北凉 (398-439), Southern Liang 南涼|南凉[Nan2 Liang2] (397-414), Western Liang 西涼|西凉 (400-421)/cool/cold/to let sth cool down",
+  "dataset_meanings": [
+   "the five Liang of the Sixteen Kingdoms, namely: Former Liang 前凉 (314-376), Later Liang 后凉 (386-403), Northern Liang 北凉 (398-439), Southern Liang 南凉 (397-414), Western Liang 西凉 (400-421)",
+   "cool",
+   "cold",
+   "to let sth cool down"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "寒冷",
+     "严寒",
+     "冻"
+    ],
+    "note": "凉 is mildly cool/cold (pleasant or neutral); 寒冷 is unpleasantly cold (weather adjective); 严寒 (5k) is literary 'bitter/severe cold'; 冻 (5k) is the physical sensation/action of freezing"
+   }
+  ]
+ },
+ {
+  "hanzi": "凉水",
+  "pinyin": "liángshuǐ",
+  "meaning_ru": "холодная сырая вода",
+  "meaning_en": "cool unboiled water",
+  "len_ru": 19,
+  "len_en": 19,
+  "cedict_en": "cool water/unboiled water",
+  "dataset_meanings": [
+   "cool water",
+   "unboiled water"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "开水"
+    ],
+    "note": "开水 (5k) = boiled water (hot or cooled but safe); 凉水 = cool/unboiled water (raw tap water, not safe to drink by Chinese convention)"
+   }
+  ]
+ },
+ {
+  "hanzi": "减",
+  "pinyin": "jiǎn",
+  "meaning_ru": "уменьшать; вычитать (матем.)",
+  "meaning_en": "reduce; subtract (math)",
+  "len_ru": 28,
+  "len_en": 23,
+  "cedict_en": "to lower/to decrease/to reduce/to subtract/to diminish",
+  "dataset_meanings": [
+   "to lower",
+   "to decrease",
+   "to reduce",
+   "to subtract",
+   "to diminish"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "减少",
+     "缩小",
+     "压缩",
+     "降低"
+    ],
+    "note": "减 = subtract/reduce (math, general morpheme); 减少 = reduce in quantity/amount; 缩小 = shrink in size/scope; 压缩 = compress (file, gas, cut budget tightly); 降低 = bring down a level or standard"
+   }
+  ]
+ },
+ {
+  "hanzi": "减轻",
+  "pinyin": "jiǎnqīng",
+  "meaning_ru": "облегчить; уменьшить (нагрузку)",
+  "meaning_en": "reduce (burden or severity)",
+  "len_ru": 31,
+  "len_en": 27,
+  "cedict_en": "to lighten/to ease/to alleviate",
+  "dataset_meanings": [
+   "to lighten",
+   "to ease",
+   "to alleviate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "缓解",
+     "缓和"
+    ],
+    "note": "减轻 = reduce the weight/burden/severity (measurable decrease); 缓解 = ease/relieve temporarily (symptoms, pressure); 缓和 = relax/defuse (tension, conflict, relations)."
+   }
+  ]
+ },
+ {
+  "hanzi": "出于",
+  "pinyin": "chūyú",
+  "meaning_ru": "исходя из мотива; из побуждения",
+  "meaning_en": "out of (a motive); driven by",
+  "len_ru": 31,
+  "len_en": 28,
+  "cedict_en": "due to/to stem from",
+  "dataset_meanings": [
+   "due to",
+   "to stem from"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "由于"
+    ],
+    "note": "Both introduce a cause: 由于 = 'due to' (neutral, factual cause, can precede or follow the result clause); 出于 = 'out of' a motive or feeling (always introduces internal motivation, e.g. 出于好意)"
+   }
+  ]
+ },
+ {
+  "hanzi": "出售",
+  "pinyin": "chūshòu",
+  "meaning_ru": "продавать (офиц./вывески)",
+  "meaning_en": "offer for sale (formal)",
+  "len_ru": 25,
+  "len_en": 23,
+  "cedict_en": "to sell/to offer for sale/to put on the market",
+  "dataset_meanings": [
+   "to sell",
+   "to offer for sale",
+   "to put on the market"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "卖",
+     "销售"
+    ],
+    "note": "卖 = everyday sell (colloquial, any context); 出售 = offer for sale (formal/written, e.g. signs); 销售 = sell as a business activity or sales volume (corporate/econ.)"
+   }
+  ]
+ },
+ {
+  "hanzi": "出国",
+  "pinyin": "chūguó",
+  "meaning_ru": "ехать за границу",
+  "meaning_en": "go abroad (cross the border)",
+  "len_ru": 16,
+  "len_en": 28,
+  "cedict_en": "to go abroad; to leave the country",
+  "dataset_meanings": [
+   "to go abroad; to leave the country"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "国外",
+     "海外",
+     "留学"
+    ],
+    "note": "出国 = go abroad (verb-action, crossing the border); 国外 = abroad/overseas (location noun, neutral); 海外 = overseas (location noun, implies sea crossing, often diaspora/global); 留学 = study abroad (verb, specifically for education)"
+   }
+  ]
+ },
+ {
+  "hanzi": "出租",
+  "pinyin": "chūzū",
+  "meaning_ru": "сдавать в аренду (хозяин)",
+  "meaning_en": "rent out (landlord side)",
+  "len_ru": 25,
+  "len_en": 24,
+  "cedict_en": "to rent",
+  "dataset_meanings": [
+   "to rent"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "租赁"
+    ],
+    "note": "出租 = rent out to someone (landlord/lessor perspective); 租赁 = lease/rental arrangement (neutral legal term, used by either party)"
+   }
+  ]
+ },
+ {
+  "hanzi": "分为",
+  "pinyin": "fēnwéi",
+  "meaning_ru": "делить на (по категориям)",
+  "meaning_en": "divide into (by category)",
+  "len_ru": 25,
+  "len_en": 25,
+  "cedict_en": "to divide sth into (parts); to subdivide",
+  "dataset_meanings": [
+   "to divide sth into (parts)",
+   "to subdivide"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "分成",
+     "划分"
+    ],
+    "note": "分为 = formally classified as (describes result category). 分成 = split into (concrete partitioning, focus on outcome parts). 划分 = demarcate/divide (official boundaries or categories)."
+   }
+  ]
+ },
+ {
+  "hanzi": "分开",
+  "pinyin": "fēnkāi",
+  "meaning_ru": "разделять; расходиться",
+  "meaning_en": "separate; split apart",
+  "len_ru": 22,
+  "len_en": 21,
+  "cedict_en": "to separate/to part",
+  "dataset_meanings": [
+   "to separate",
+   "to part"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "隔开",
+     "隔",
+     "分离",
+     "分散"
+    ],
+    "note": "隔/隔开 = separate by physical barrier or interval; 分开 = split apart (general, reversible); 分离 = separate with a sense of parting (often people/components); 分散 = scatter/disperse into multiple parts"
+   }
+  ]
+ },
+ {
+  "hanzi": "分成",
+  "pinyin": "fēnchéng",
+  "meaning_ru": "разделить на части",
+  "meaning_en": "divide into (concrete parts)",
+  "len_ru": 18,
+  "len_en": 28,
+  "cedict_en": "to divide (into)/to split a bonus/to break into/tenths/percentage allotment",
+  "dataset_meanings": [
+   "to divide (into)",
+   "to split a bonus",
+   "to break into",
+   "tenths",
+   "percentage allotment"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "分为",
+     "划分"
+    ],
+    "note": "分为 = formally classified as (describes result category). 分成 = split into (concrete partitioning, focus on outcome parts). 划分 = demarcate/divide (official boundaries or categories)."
+   }
+  ]
+ },
+ {
+  "hanzi": "分数",
+  "pinyin": "fēnshù",
+  "meaning_ru": "балл; оценка (числовая)",
+  "meaning_en": "score; grade (numeric)",
+  "len_ru": 23,
+  "len_en": 22,
+  "cedict_en": "(exam) grade/mark/score/fraction",
+  "dataset_meanings": [
+   "(exam) grade",
+   "mark",
+   "score",
+   "fraction"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "级别",
+     "等级",
+     "档次"
+    ],
+    "note": "分数 = score/grade (numeric, exam result); 等级 = rank/grade (hierarchical tier, formal); 级别 = level/rank (position in a system or organization); 档次 = quality tier/class (consumer or social grade, colloquial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "分离",
+  "pinyin": "fēnlí",
+  "meaning_ru": "разделять(ся); расставаться",
+  "meaning_en": "separate; part (people/parts)",
+  "len_ru": 27,
+  "len_en": 29,
+  "cedict_en": "to separate",
+  "dataset_meanings": [
+   "to separate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "隔开",
+     "隔",
+     "分开",
+     "分散"
+    ],
+    "note": "隔/隔开 = separate by physical barrier or interval; 分开 = split apart (general, reversible); 分离 = separate with a sense of parting (often people/components); 分散 = scatter/disperse into multiple parts"
+   }
+  ]
+ },
+ {
+  "hanzi": "列",
+  "pinyin": "liè",
+  "meaning_ru": "ряд; перечислять (письм.)",
+  "meaning_en": "column/series; enumerate",
+  "len_ru": 25,
+  "len_en": 24,
+  "cedict_en": "to arrange/to line up/file/series/(in data tables) column/(Tw) row",
+  "dataset_meanings": [
+   "to arrange",
+   "to line up",
+   "file",
+   "series",
+   "(in data tables) column",
+   "(Tw) row"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "排",
+     "排列"
+    ],
+    "note": "排 = a physical row (seats, troops); 列 = a column/series, also 'to enumerate'; 排列 = to arrange in order (verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "列车",
+  "pinyin": "lièchē",
+  "meaning_ru": "поезд (офиц., о составах)",
+  "meaning_en": "train (formal; scheduled)",
+  "len_ru": 25,
+  "len_en": 25,
+  "cedict_en": "(railway) train",
+  "dataset_meanings": [
+   "(railway) train"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "火车"
+    ],
+    "note": "火车 = train (everyday spoken word); 列车 = train (formal/written, also used for scheduled train services)"
+   }
+  ]
+ },
+ {
+  "hanzi": "初一",
+  "pinyin": "chūyī",
+  "meaning_ru": "1-й день лун. мес. / 7-й кл.",
+  "meaning_en": "1st lunar day / 7th grade",
+  "len_ru": 28,
+  "len_en": 25,
+  "cedict_en": "first year in junior middle school/first day of a lunar month",
+  "dataset_meanings": [
+   "first day of lunar month",
+   "New Year's Day",
+   "first year in junior middle school"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "初期",
+  "pinyin": "chūqī",
+  "meaning_ru": "начальный период (первая фаза)",
+  "meaning_en": "initial stage (opening phase)",
+  "len_ru": 30,
+  "len_en": 29,
+  "cedict_en": "initial stage/beginning period",
+  "dataset_meanings": [
+   "initial stage",
+   "beginning period"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "早期",
+     "初",
+     "阶段",
+     "时期"
+    ],
+    "note": "早期 = relatively early stage (not necessarily the very beginning); 初期 = initial/opening stage (the very start); 初 = the beginning point itself; 阶段 = one phase in a development sequence; 时期 = a broader era or epoch"
+   }
+  ]
+ },
+ {
+  "hanzi": "别的",
+  "pinyin": "biéde",
+  "meaning_ru": "другой; иное (разг.)",
+  "meaning_en": "other; else (colloquial)",
+  "len_ru": 20,
+  "len_en": 24,
+  "cedict_en": "else/other",
+  "dataset_meanings": [
+   "else",
+   "other"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "其他",
+     "其它"
+    ],
+    "note": "All mean 'other': 别的 = colloquial 'other/else' (can modify both people and things); 其他 = neutral 'other' (people or things, standard written form); 其它 = variant of 其他 restricted to non-person referents"
+   }
+  ]
+ },
+ {
+  "hanzi": "到来",
+  "pinyin": "dàolái",
+  "meaning_ru": "наступление; приход (о событиях)",
+  "meaning_en": "advent; arrival (of events)",
+  "len_ru": 32,
+  "len_en": 27,
+  "cedict_en": "to arrive/arrival; advent",
+  "dataset_meanings": [
+   "to arrive",
+   "arrival; advent"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "到达",
+     "抵达",
+     "来到"
+    ],
+    "note": "到来 = arrival of events/seasons/eras (often abstract); 到达 = neutral physical arrival at a place; 抵达 = formal written arrival; 来到 = arrive toward the speaker/scene"
+   }
+  ]
+ },
+ {
+  "hanzi": "制成",
+  "pinyin": "zhìchéng",
+  "meaning_ru": "изготовить из (до изделия)",
+  "meaning_en": "make into (finished product)",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "to manufacture/to turn out (a product)",
+  "dataset_meanings": [
+   "to manufacture",
+   "to turn out (a product)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "造"
+    ],
+    "note": "造 = make/build/create (general, broad); 制成 = manufacture into a finished product (stresses the end result of production)."
+   }
+  ]
+ },
+ {
+  "hanzi": "前头",
+  "pinyin": "qiántou",
+  "meaning_ru": "впереди; спереди (разг.)",
+  "meaning_en": "in front; ahead (colloquial)",
+  "len_ru": 24,
+  "len_en": 28,
+  "cedict_en": "in front/at the head/ahead/above",
+  "dataset_meanings": [
+   "in front",
+   "at the head",
+   "ahead",
+   "above"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "前面",
+     "前",
+     "面前"
+    ],
+    "note": "前 is the base morpheme (front/before); 前面 and 前头 are synonymous locatives (ahead/in front), 前头 being slightly more colloquial; 面前 means 'in front of / before (someone)', always person-referential"
+   },
+   {
+    "with": [
+     "前面",
+     "前",
+     "面前",
+     "跟前"
+    ],
+    "note": "All relate to 'in front'. 前 is the bare morpheme; 前面 is neutral 'in front (of sth)'; 前头 is colloquial spoken; 面前 is 'before sb' (relational, often figurative); 跟前 is 'right beside/in front of sb' (very close proximity)."
+   }
+  ]
+ },
+ {
+  "hanzi": "前进",
+  "pinyin": "qiánjìn",
+  "meaning_ru": "идти вперёд (непереходн.)",
+  "meaning_en": "advance; move forward",
+  "len_ru": 25,
+  "len_en": 21,
+  "cedict_en": "to go forward/to forge ahead/to advance/onward",
+  "dataset_meanings": [
+   "to go forward",
+   "to forge ahead",
+   "to advance",
+   "onward"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "推进"
+    ],
+    "note": "前进 = move forward / advance (intransitive, of people, armies, causes); 推进 = push forward / propel (transitive, someone/something drives a process or object ahead)."
+   },
+   {
+    "with": [
+     "推进",
+     "飞跃"
+    ],
+    "note": "前进 = move/march forward (physical or metaphorical progress); 推进 = drive/advance sth forward (active effort, project or policy); 飞跃 = leap/make a great advance (dramatic, non-linear progress)."
+   }
+  ]
+ },
+ {
+  "hanzi": "剩下",
+  "pinyin": "shèngxià",
+  "meaning_ru": "оставаться (после использов.)",
+  "meaning_en": "be left over (after use)",
+  "len_ru": 29,
+  "len_en": 24,
+  "cedict_en": "to remain; to be left over",
+  "dataset_meanings": [
+   "to remain; to be left over"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "剩",
+     "残留"
+    ],
+    "note": "剩/剩下 = be left over after use/consumption; 残留 = linger on as a remnant or residue (often negative connotation: pollutant, trace)"
+   }
+  ]
+ },
+ {
+  "hanzi": "剪子",
+  "pinyin": "jiǎnzi",
+  "meaning_ru": "ножницы (разг.; ср. 剪刀)",
+  "meaning_en": "scissors (coll.; cf. 剪刀)",
+  "len_ru": 23,
+  "len_en": 24,
+  "cedict_en": "clippers/scissors/shears/CL:把[ba3]",
+  "dataset_meanings": [
+   "clippers",
+   "scissors",
+   "shears"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "剪刀"
+    ],
+    "note": "剪子 = scissors (colloquial/dialectal); 剪刀 = scissors (standard written form); same object, register differs"
+   }
+  ]
+ },
+ {
+  "hanzi": "加以",
+  "pinyin": "jiāyǐ",
+  "meaning_ru": "произвести действие (книжн.)",
+  "meaning_en": "apply an action to (formal)",
+  "len_ru": 28,
+  "len_en": 27,
+  "cedict_en": "(formal) to apply; to carry out; to take action to (do sth) (used before a disyllabic verb, indicating that the action is directed at sth previously mentioned, e.g. 加以說明|加以说明[jia1 yi3 shuo1 ming2]); to apply (restrictions etc); to give (support, consideration etc)/(literary) moreover; in addition",
+  "dataset_meanings": [
+   "in addition",
+   "moreover",
+   "(used before a disyllabic verb to indicate that the action of the verb is applied to sth or sb previously mentioned)",
+   "to apply (restrictions etc) to (sb)",
+   "to give (support, consideration etc) to (sth)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "予以",
+     "给予"
+    ],
+    "note": "加以 = apply an action to sth (followed by a verb: 加以解释, 加以改进); 予以 = grant/give formally (official contexts: 予以表彰); 给予 = give/render (literary/formal, broader objects: attention, support)."
+   }
+  ]
+ },
+ {
+  "hanzi": "加快",
+  "pinyin": "jiākuài",
+  "meaning_ru": "ускорять (темп, шире)",
+  "meaning_en": "speed up (pace/progress)",
+  "len_ru": 21,
+  "len_en": 24,
+  "cedict_en": "to accelerate; to speed up; to hasten",
+  "dataset_meanings": [
+   "to accelerate",
+   "to speed up"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "加速"
+    ],
+    "note": "加速 = accelerate (physics/formal, rate of speed); 加快 = speed up a pace or progress (broader, less technical)"
+   }
+  ]
+ },
+ {
+  "hanzi": "加速",
+  "pinyin": "jiāsù",
+  "meaning_ru": "ускорять (физ./офиц.)",
+  "meaning_en": "accelerate (physics/formal)",
+  "len_ru": 21,
+  "len_en": 27,
+  "cedict_en": "to accelerate; to speed up; to expedite",
+  "dataset_meanings": [
+   "to speed up",
+   "to expedite"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "加快"
+    ],
+    "note": "加速 = accelerate (physics/formal, rate of speed); 加快 = speed up a pace or progress (broader, less technical)"
+   }
+  ]
+ },
+ {
+  "hanzi": "动摇",
+  "pinyin": "dòngyáo",
+  "meaning_ru": "колебаться (в убеждениях)",
+  "meaning_en": "waver (in resolve); shake",
+  "len_ru": 25,
+  "len_en": 25,
+  "cedict_en": "to sway/to waver/to rock/to rattle/to destabilize/to pose a challenge to",
+  "dataset_meanings": [
+   "to sway",
+   "to waver",
+   "to rock",
+   "to rattle",
+   "to destabilize",
+   "to pose a challenge to"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "摇摆",
+     "摇"
+    ],
+    "note": "动摇 = waver in resolve/conviction (figurative, about willpower or stance); 摇 = physically shake or rock; 摇摆 = sway back and forth (physical or figurative indecision)"
+   }
+  ]
+ },
+ {
+  "hanzi": "北部",
+  "pinyin": "běibù",
+  "meaning_ru": "северная часть (места)",
+  "meaning_en": "northern part (of a place)",
+  "len_ru": 22,
+  "len_en": 26,
+  "cedict_en": "northern part",
+  "dataset_meanings": [
+   "northern part"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "北方",
+     "北"
+    ],
+    "note": "北 is the basic direction word; 北方 denotes 'the north' as a broad cultural/geographic region; 北部 is 'the northern part of' a specific entity (country, city)."
+   }
+  ]
+ },
+ {
+  "hanzi": "医学",
+  "pinyin": "yīxué",
+  "meaning_ru": "медицина (наука, отрасль)",
+  "meaning_en": "medicine (the science/field)",
+  "len_ru": 25,
+  "len_en": 28,
+  "cedict_en": "medicine/medical science/study of medicine",
+  "dataset_meanings": [
+   "medicine",
+   "medical science",
+   "study of medicine"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "药物"
+    ],
+    "note": "药物 = a drug or medication (the substance); 医学 = medicine as a scientific field of study — both translate to 'medicine' in English"
+   }
+  ]
+ },
+ {
+  "hanzi": "千克",
+  "pinyin": "qiānkè",
+  "meaning_ru": "килограмм (офиц. ед. СИ)",
+  "meaning_en": "kilogram (official SI term)",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "kilogram",
+  "dataset_meanings": [
+   "kilogram"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "公斤"
+    ],
+    "note": "Both mean kilogram. 公斤 is the everyday spoken form; 千克 is the official SI/scientific term, used in technical and written contexts."
+   }
+  ]
+ },
+ {
+  "hanzi": "升高",
+  "pinyin": "shēnggāo",
+  "meaning_ru": "повышаться (темп., уровень)",
+  "meaning_en": "rise in degree (temp/level)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "to raise/to ascend",
+  "dataset_meanings": [
+   "to raise",
+   "to ascend"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "上升",
+     "上涨",
+     "涨价",
+     "涨",
+     "升",
+     "提高"
+    ],
+    "note": "涨/上涨/涨价 = prices/levels surge (market connotation); 上升/升 = rise physically or in rank; 升高 = rise in measurable degree (temperature, level); 提高 = raise intentionally (quality, standard)"
+   }
+  ]
+ },
+ {
+  "hanzi": "华人",
+  "pinyin": "huárén",
+  "meaning_ru": "этнический китаец (любой стр.)",
+  "meaning_en": "ethnic Chinese (any country)",
+  "len_ru": 30,
+  "len_en": 28,
+  "cedict_en": "ethnic Chinese person or people",
+  "dataset_meanings": [
+   "ethnic Chinese person or people"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "华裔",
+     "华侨"
+    ],
+    "note": "华人 = any ethnic Chinese person (worldwide); 华裔 = person of Chinese descent born/raised abroad; 华侨 = Chinese national residing overseas (retains PRC/ROC citizenship)"
+   }
+  ]
+ },
+ {
+  "hanzi": "华语",
+  "pinyin": "huáyǔ",
+  "meaning_ru": "китайский язык (диаспора)",
+  "meaning_en": "Chinese (diaspora term)",
+  "len_ru": 25,
+  "len_en": 23,
+  "cedict_en": "Chinese language",
+  "dataset_meanings": [
+   "Chinese language"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "语言",
+     "语",
+     "母语"
+    ],
+    "note": "华语 = Chinese language (term used in SE Asia diaspora communities); 语言 = language in general (abstract noun); 语 = language/speech (suffix/root in compounds); 母语 = native/mother tongue (any language)"
+   }
+  ]
+ },
+ {
+  "hanzi": "协议书",
+  "pinyin": "xiéyìshū",
+  "meaning_ru": "договор/соглашение (не всегда юр.)",
+  "meaning_en": "written agreement (non-binding ok)",
+  "len_ru": 34,
+  "len_en": 34,
+  "cedict_en": "contract/protocol",
+  "dataset_meanings": [
+   "contract",
+   "protocol"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "合同"
+    ],
+    "note": "合同 (5k) = contract (legally binding, commercial); 协议书 = written agreement (broader, may be less formal than a contract — MOUs, protocols)."
+   },
+   {
+    "with": [
+     "通知书"
+    ],
+    "note": "通知书 = one-way written notice (authority → recipient); 协议书 = bilateral written agreement between parties"
+   }
+  ]
+ },
+ {
+  "hanzi": "单一",
+  "pinyin": "dānyī",
+  "meaning_ru": "единообразный; однородный",
+  "meaning_en": "single; uniform (no variety)",
+  "len_ru": 25,
+  "len_en": 28,
+  "cedict_en": "single/only/sole",
+  "dataset_meanings": [
+   "single",
+   "only",
+   "sole"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "单"
+    ],
+    "note": "单一 = single/uniform/homogeneous (adjective describing lack of variety, e.g. 单一结构); 单 = single/odd number/a bill or form (broader: also means receipt, list, unpaired)."
+   }
+  ]
+ },
+ {
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "meaning_ru": "продавать (разг.)",
+  "meaning_en": "to sell (colloquial)",
+  "len_ru": 17,
+  "len_en": 20,
+  "cedict_en": "to sell/to betray/to spare no effort/to show off or flaunt",
+  "dataset_meanings": [
+   "to sell",
+   "to betray",
+   "to spare no effort",
+   "to show off or flaunt"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "出售",
+     "销售"
+    ],
+    "note": "卖 = everyday sell (colloquial, any context); 出售 = offer for sale (formal/written, e.g. signs); 销售 = sell as a business activity or sales volume (corporate/econ.)"
+   }
+  ]
+ },
+ {
+  "hanzi": "南方",
+  "pinyin": "nánfāng",
+  "meaning_ru": "юг (культурно-геогр. регион)",
+  "meaning_en": "the South (cultural/geographic)",
+  "len_ru": 28,
+  "len_en": 31,
+  "cedict_en": "south; southern direction/(in China) southern regions, often referring to areas south of the Yangtze River",
+  "dataset_meanings": [
+   "south",
+   "the southern part of the country",
+   "the South"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "南部"
+    ],
+    "note": "南方 = the South as a cultural/geographic region (e.g. 南方人); 南部 = the southern portion of a specific territory or country (administrative sub-area)"
+   }
+  ]
+ },
+ {
+  "hanzi": "南部",
+  "pinyin": "nánbù",
+  "meaning_ru": "южная часть (территории)",
+  "meaning_en": "southern part (of a region)",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "southern part",
+  "dataset_meanings": [
+   "southern part"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "南方"
+    ],
+    "note": "南方 = the South as a cultural/geographic region (e.g. 南方人); 南部 = the southern portion of a specific territory or country (administrative sub-area)"
+   }
+  ]
+ },
+ {
+  "hanzi": "厅",
+  "pinyin": "tīng",
+  "meaning_ru": "зал; гостиная",
+  "meaning_en": "hall; living room",
+  "len_ru": 13,
+  "len_en": 17,
+  "cedict_en": "(reception) hall/living room/office/provincial government department",
+  "dataset_meanings": [
+   "(reception) hall",
+   "living room",
+   "office",
+   "provincial government department"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大厅",
+     "客厅"
+    ],
+    "note": "厅 = hall or living room (general); 大厅 = large public lobby/hall (e.g. hotel, station); 客厅 = living room specifically in a home"
+   }
+  ]
+ },
+ {
+  "hanzi": "原有",
+  "pinyin": "yuányǒu",
+  "meaning_ru": "изначально имевшийся",
+  "meaning_en": "pre-existing; original",
+  "len_ru": 20,
+  "len_en": 22,
+  "cedict_en": "original/former",
+  "dataset_meanings": [
+   "original",
+   "former"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "原",
+     "原始"
+    ],
+    "note": "All relate to 'original': 原 = attributive 'former/original' (literary); 原有 = 'pre-existing, what was already there' (factual); 原始 = 'primitive/primordial' or 'raw/source' (strongest sense of going back to origins)"
+   }
+  ]
+ }
+]

@@ -1,0 +1,999 @@
+[
+ {
+  "hanzi": "到来",
+  "pinyin": "dàolái",
+  "meaning_ru": "наступление; приход",
+  "meaning_en": "arrival; advent",
+  "semantic_tags": [
+   "process_change",
+   "time_word"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to arrive/arrival; advent",
+  "dataset_meanings": [
+   "to arrive",
+   "arrival; advent"
+  ]
+ },
+ {
+  "hanzi": "一句话",
+  "pinyin": "yījùhuà",
+  "meaning_ru": "одним словом; короче",
+  "meaning_en": "in a word; in short",
+  "semantic_tags": [
+   "communication_formal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "in a word; in short",
+  "dataset_meanings": [
+   "in a word",
+   "in short"
+  ]
+ },
+ {
+  "hanzi": "自杀",
+  "pinyin": "zìshā",
+  "meaning_ru": "покончить с собой",
+  "meaning_en": "to commit suicide",
+  "semantic_tags": [
+   "action_daily",
+   "health_medical"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to kill oneself/to commit suicide/to attempt suicide",
+  "dataset_meanings": [
+   "to kill oneself",
+   "to commit suicide",
+   "to attempt suicide"
+  ]
+ },
+ {
+  "hanzi": "负责人",
+  "pinyin": "fùzérén",
+  "meaning_ru": "ответственный; глава",
+  "meaning_en": "person in charge",
+  "semantic_tags": [
+   "person",
+   "occupation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "person in charge",
+  "dataset_meanings": [
+   "person in charge"
+  ]
+ },
+ {
+  "hanzi": "旁",
+  "pinyin": "páng",
+  "meaning_ru": "сторона; рядом",
+  "meaning_en": "side; beside",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "one side/other/different/lateral component of a Chinese character (such as 刂[dao1], 亻[ren2] etc)",
+  "dataset_meanings": [
+   "one side",
+   "other",
+   "different",
+   "lateral component of a Chinese character (such as 刂, 亻 etc)"
+  ]
+ },
+ {
+  "hanzi": "收集",
+  "pinyin": "shōují",
+  "meaning_ru": "собирать; коллекционировать",
+  "meaning_en": "to gather; collect",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to gather/to collect",
+  "dataset_meanings": [
+   "to gather",
+   "to collect"
+  ]
+ },
+ {
+  "hanzi": "盒",
+  "pinyin": "hé",
+  "meaning_ru": "коробка; футляр",
+  "meaning_en": "box; case",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "small box/case",
+  "dataset_meanings": [
+   "small box",
+   "case"
+  ]
+ },
+ {
+  "hanzi": "报警",
+  "pinyin": "bàojǐng",
+  "meaning_ru": "вызвать полицию",
+  "meaning_en": "to alert the police",
+  "semantic_tags": [
+   "action_communication",
+   "law_justice"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to sound an alarm/to report sth to the police",
+  "dataset_meanings": [
+   "to sound an alarm",
+   "to report sth to the police"
+  ]
+ },
+ {
+  "hanzi": "剪",
+  "pinyin": "jiǎn",
+  "meaning_ru": "резать (ножницами)",
+  "meaning_en": "to cut; trim",
+  "semantic_tags": [
+   "physical_action",
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "surname Jian/(bound form) scissors or similar tool/to cut as with scissors/(bound form) to wipe out; to exterminate/to edit (video, audio etc)",
+  "dataset_meanings": [
+   "surname Jian",
+   "scissors",
+   "shears",
+   "clippers",
+   "to cut with scissors",
+   "to trim",
+   "to wipe out or exterminate"
+  ]
+ },
+ {
+  "hanzi": "脑子",
+  "pinyin": "nǎozi",
+  "meaning_ru": "мозг; ум, голова",
+  "meaning_en": "brains; mind",
+  "semantic_tags": [
+   "body",
+   "cognition"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "brains/mind/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "brains",
+   "mind"
+  ]
+ },
+ {
+  "hanzi": "局长",
+  "pinyin": "júzhǎng",
+  "meaning_ru": "начальник управления",
+  "meaning_en": "bureau chief",
+  "semantic_tags": [
+   "occupation",
+   "politics_government"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "bureau chief/CL:位[wei4],個|个[ge4]",
+  "dataset_meanings": [
+   "bureau chief"
+  ]
+ },
+ {
+  "hanzi": "挤",
+  "pinyin": "jǐ",
+  "meaning_ru": "толкаться; выжимать",
+  "meaning_en": "to squeeze; crowd",
+  "semantic_tags": [
+   "physical_action",
+   "action_movement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to crowd in/to cram in/to force others aside/to press/to squeeze/to find (time in one's busy schedule)",
+  "dataset_meanings": [
+   "to crowd in",
+   "to cram in",
+   "to force others aside",
+   "to press",
+   "to squeeze",
+   "to find (time in one's busy schedule)"
+  ]
+ },
+ {
+  "hanzi": "之内",
+  "pinyin": "zhīnèi",
+  "meaning_ru": "в пределах; внутри",
+  "meaning_en": "within; inside",
+  "semantic_tags": [
+   "spatial_relation",
+   "abstract_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "inside; within",
+  "dataset_meanings": [
+   "inside",
+   "within"
+  ]
+ },
+ {
+  "hanzi": "厅",
+  "pinyin": "tīng",
+  "meaning_ru": "зал; гостиная",
+  "meaning_en": "hall; living room",
+  "semantic_tags": [
+   "building",
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(reception) hall/living room/office/provincial government department",
+  "dataset_meanings": [
+   "(reception) hall",
+   "living room",
+   "office",
+   "provincial government department"
+  ]
+ },
+ {
+  "hanzi": "全都",
+  "pinyin": "quándōu",
+  "meaning_ru": "все; полностью",
+  "meaning_en": "all; without exception",
+  "semantic_tags": [
+   "degree_adverb",
+   "quantity_abstract"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "all/without exception",
+  "dataset_meanings": [
+   "all",
+   "without exception"
+  ]
+ },
+ {
+  "hanzi": "签名",
+  "pinyin": "qiānmíng",
+  "meaning_ru": "подпись; расписаться",
+  "meaning_en": "signature; to sign",
+  "semantic_tags": [
+   "action_communication",
+   "law_admin_doc"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to sign (one's name with a pen etc)/to autograph/signature",
+  "dataset_meanings": [
+   "to sign (one's name with a pen etc)",
+   "to autograph",
+   "signature"
+  ]
+ },
+ {
+  "hanzi": "偶像",
+  "pinyin": "ǒuxiàng",
+  "meaning_ru": "кумир; идол",
+  "meaning_en": "idol",
+  "semantic_tags": [
+   "person",
+   "culture"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "idol",
+  "dataset_meanings": [
+   "idol"
+  ]
+ },
+ {
+  "hanzi": "认",
+  "pinyin": "rèn",
+  "meaning_ru": "узнавать; признавать",
+  "meaning_en": "to recognize; to admit",
+  "semantic_tags": [
+   "cognition",
+   "action_communication"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to recognize/to know/to admit",
+  "dataset_meanings": [
+   "to recognize",
+   "to know",
+   "to admit"
+  ]
+ },
+ {
+  "hanzi": "在场",
+  "pinyin": "zàichǎng",
+  "meaning_ru": "присутствовать",
+  "meaning_en": "to be present",
+  "semantic_tags": [
+   "event_situation",
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to be present; to be on the scene",
+  "dataset_meanings": [
+   "to be present",
+   "to be on the scene"
+  ]
+ },
+ {
+  "hanzi": "鼠",
+  "pinyin": "shǔ",
+  "meaning_ru": "крыса; мышь",
+  "meaning_en": "rat; mouse",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(bound form) rat; mouse",
+  "dataset_meanings": [
+   "(bound form) rat; mouse"
+  ]
+ },
+ {
+  "hanzi": "乘客",
+  "pinyin": "chéngkè",
+  "meaning_ru": "пассажир",
+  "meaning_en": "passenger",
+  "semantic_tags": [
+   "person",
+   "transport_travel"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "passenger",
+  "dataset_meanings": [
+   "passenger"
+  ]
+ },
+ {
+  "hanzi": "专辑",
+  "pinyin": "zhuānjí",
+  "meaning_ru": "альбом (муз.)",
+  "meaning_en": "album (music)",
+  "semantic_tags": [
+   "art",
+   "media_news"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "album/record (music)/special collection of printed or broadcast material",
+  "dataset_meanings": [
+   "album",
+   "record (music)",
+   "special collection of printed or broadcast material"
+  ]
+ },
+ {
+  "hanzi": "虎",
+  "pinyin": "hǔ",
+  "meaning_ru": "тигр",
+  "meaning_en": "tiger",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "tiger/CL:隻|只[zhi1]",
+  "dataset_meanings": [
+   "tiger"
+  ]
+ },
+ {
+  "hanzi": "喷",
+  "pinyin": "pēn",
+  "meaning_ru": "брызгать; распылять",
+  "meaning_en": "to spray; to spurt",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to spout; to spurt; to spray; to puff/(slang) to criticize scathingly (esp. online)/(of a smell) strong/peak season (of a crop)/(classifier for the ordinal number of a crop, in the context of multiple harvests)",
+  "dataset_meanings": [
+   "to puff",
+   "to spout",
+   "to spray",
+   "to spurt",
+   "(of a smell) strong",
+   "peak season (of a crop)",
+   "(classifier for the ordinal number of a crop, in the context of multiple harvests)"
+  ]
+ },
+ {
+  "hanzi": "靠近",
+  "pinyin": "kàojìn",
+  "meaning_ru": "приближаться к",
+  "meaning_en": "to approach; near",
+  "semantic_tags": [
+   "action_movement",
+   "spatial_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to be close to/to approach; to draw near",
+  "dataset_meanings": [
+   "to be close to",
+   "to approach; to draw near"
+  ]
+ },
+ {
+  "hanzi": "罚",
+  "pinyin": "fá",
+  "meaning_ru": "наказывать; штрафовать",
+  "meaning_en": "to punish; to fine",
+  "semantic_tags": [
+   "law_justice",
+   "action_communication"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to punish; to penalize; to fine/variant of 罰|罚[fa2]",
+  "dataset_meanings": [
+   "to punish",
+   "to penalize",
+   "variant of 罚"
+  ]
+ },
+ {
+  "hanzi": "空中",
+  "pinyin": "kōngzhōng",
+  "meaning_ru": "в воздухе; в небе",
+  "meaning_en": "in the air; in the sky",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "in the sky/in the air",
+  "dataset_meanings": [
+   "in the sky",
+   "in the air"
+  ]
+ },
+ {
+  "hanzi": "连接",
+  "pinyin": "liánjiē",
+  "meaning_ru": "соединять; связывать",
+  "meaning_en": "to link; to connect",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to link; to join; to connect",
+  "dataset_meanings": [
+   "to link; to join; to connect"
+  ]
+ },
+ {
+  "hanzi": "此时",
+  "pinyin": "cǐshí",
+  "meaning_ru": "в этот момент; сейчас",
+  "meaning_en": "now; this moment",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "now/this moment",
+  "dataset_meanings": [
+   "now",
+   "this moment"
+  ]
+ },
+ {
+  "hanzi": "画面",
+  "pinyin": "huàmiàn",
+  "meaning_ru": "изображение; кадр",
+  "meaning_en": "picture; frame; screen",
+  "semantic_tags": [
+   "art",
+   "object_tech"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "scene/tableau/picture/image/screen (displayed by a computer)/(motion picture) frame/field of view",
+  "dataset_meanings": [
+   "scene",
+   "tableau",
+   "picture",
+   "image",
+   "screen (displayed by a computer)",
+   "(motion picture) frame",
+   "field of view"
+  ]
+ },
+ {
+  "hanzi": "大脑",
+  "pinyin": "dànǎo",
+  "meaning_ru": "головной мозг",
+  "meaning_en": "brain; cerebrum",
+  "semantic_tags": [
+   "body"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "brain/cerebrum",
+  "dataset_meanings": [
+   "brain",
+   "cerebrum"
+  ]
+ },
+ {
+  "hanzi": "大事",
+  "pinyin": "dàshì",
+  "meaning_ru": "важное событие",
+  "meaning_en": "major event; big deal",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "major event/major political event (war or change of regime)/major social event (wedding or funeral)/(do sth) in a big way/CL:件[jian4],樁|桩[zhuang1]",
+  "dataset_meanings": [
+   "major event",
+   "major political event (war or change of regime)",
+   "major social event (wedding or funeral)",
+   "(do sth) in a big way"
+  ]
+ },
+ {
+  "hanzi": "显",
+  "pinyin": "xiǎn",
+  "meaning_ru": "проявлять; заметный",
+  "meaning_en": "to show; conspicuous",
+  "semantic_tags": [
+   "perception"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to make visible/to reveal/prominent/conspicuous/(prefix) phanero-",
+  "dataset_meanings": [
+   "to make visible",
+   "to reveal",
+   "prominent",
+   "conspicuous",
+   "(prefix) phanero-"
+  ]
+ },
+ {
+  "hanzi": "看出",
+  "pinyin": "kànchū",
+  "meaning_ru": "разглядеть; понять",
+  "meaning_en": "to make out; to tell",
+  "semantic_tags": [
+   "perception",
+   "cognition"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to make out/to see",
+  "dataset_meanings": [
+   "to make out",
+   "to see"
+  ]
+ },
+ {
+  "hanzi": "随后",
+  "pinyin": "suíhòu",
+  "meaning_ru": "вскоре после; затем",
+  "meaning_en": "soon after; then",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "afterward; later; subsequently; following that",
+  "dataset_meanings": [
+   "soon after"
+  ]
+ },
+ {
+  "hanzi": "加速",
+  "pinyin": "jiāsù",
+  "meaning_ru": "ускорять",
+  "meaning_en": "to speed up",
+  "semantic_tags": [
+   "process_change",
+   "action_movement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to accelerate; to speed up; to expedite",
+  "dataset_meanings": [
+   "to speed up",
+   "to expedite"
+  ]
+ },
+ {
+  "hanzi": "社",
+  "pinyin": "shè",
+  "meaning_ru": "общество; агентство",
+  "meaning_en": "society; agency",
+  "semantic_tags": [
+   "society_public"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(bound form) society; organization; agency/(old) god of the land",
+  "dataset_meanings": [
+   "(bound form) society; organization; agency",
+   "(old) god of the land"
+  ]
+ },
+ {
+  "hanzi": "搜",
+  "pinyin": "sōu",
+  "meaning_ru": "искать; обыскивать",
+  "meaning_en": "to search",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to search/variant of 蒐|搜[sou1]/(bound form) to collect; to gather",
+  "dataset_meanings": [
+   "to search"
+  ]
+ },
+ {
+  "hanzi": "悲剧",
+  "pinyin": "bēijù",
+  "meaning_ru": "трагедия",
+  "meaning_en": "tragedy",
+  "semantic_tags": [
+   "art",
+   "event_situation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "tragedy/CL:齣|出[chu1]",
+  "dataset_meanings": [
+   "tragedy"
+  ]
+ },
+ {
+  "hanzi": "夹",
+  "pinyin": "jiā",
+  "meaning_ru": "зажимать; зажим",
+  "meaning_en": "to clamp; clip",
+  "semantic_tags": [
+   "physical_action",
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "used in 夾肢窩|夹肢窝[ga1 zhi5 wo1]/to press from either side/to place in between/to sandwich/to carry sth under armpit/wedged between/between/to intersperse/to mix/to mingle/clip/folder/Taiwan pr. [jia2]/double-layered (quilt); lined (garment)/Taiwan pr. used in 夾生|夹生[jia1 sheng1] and 夾竹桃|夹竹桃[jia1 zhu2 tao2]/variant of 夾|夹[jia2]",
+  "dataset_meanings": [
+   "to press from either side",
+   "to place in between",
+   "to sandwich",
+   "to carry sth under armpit",
+   "wedged between",
+   "between",
+   "to intersperse",
+   "to mix",
+   "to mingle",
+   "clip",
+   "folder",
+   "Taiwan pr. [jiá]",
+   "double-layered",
+   "lined (garment)",
+   "Taiwan pr. used in 夹生 and 夹竹桃",
+   "variant of 夹"
+  ]
+ },
+ {
+  "hanzi": "出于",
+  "pinyin": "chūyú",
+  "meaning_ru": "исходя из; из-за",
+  "meaning_en": "out of; due to",
+  "semantic_tags": [
+   "cause_effect"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "due to/to stem from",
+  "dataset_meanings": [
+   "due to",
+   "to stem from"
+  ]
+ },
+ {
+  "hanzi": "双手",
+  "pinyin": "shuāngshǒu",
+  "meaning_ru": "обе руки",
+  "meaning_en": "both hands",
+  "semantic_tags": [
+   "body"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "both hands",
+  "dataset_meanings": [
+   "both hands"
+  ]
+ },
+ {
+  "hanzi": "得了",
+  "pinyin": "déle",
+  "meaning_ru": "хватит!; ладно! (разг.)",
+  "meaning_en": "enough!; all right!",
+  "semantic_tags": [
+   "communication_emotion"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "all right!/that's enough!/(emphatically, in rhetorical questions) possible",
+  "dataset_meanings": [
+   "all right!",
+   "that's enough!",
+   "(emphatically, in rhetorical questions) possible"
+  ]
+ },
+ {
+  "hanzi": "买卖",
+  "pinyin": "mǎimài",
+  "meaning_ru": "купля-продажа; торговля",
+  "meaning_en": "buying and selling; trade",
+  "semantic_tags": [
+   "commerce_trade"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to buy and sell/purchase and sale; transaction/shop; store",
+  "dataset_meanings": [
+   "buying and selling",
+   "business",
+   "business transactions"
+  ]
+ },
+ {
+  "hanzi": "悲伤",
+  "pinyin": "bēishāng",
+  "meaning_ru": "печальный; скорбный",
+  "meaning_en": "sad; sorrowful",
+  "semantic_tags": [
+   "emotion"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "sad; sorrowful",
+  "dataset_meanings": [
+   "sad; sorrowful"
+  ]
+ },
+ {
+  "hanzi": "分离",
+  "pinyin": "fēnlí",
+  "meaning_ru": "разделять(ся); отделять",
+  "meaning_en": "to separate; part",
+  "semantic_tags": [
+   "process_change",
+   "abstract_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to separate",
+  "dataset_meanings": [
+   "to separate"
+  ]
+ },
+ {
+  "hanzi": "扇",
+  "pinyin": "shān",
+  "meaning_ru": "обмахивать веером",
+  "meaning_en": "to fan",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to fan/to slap sb on the face/fan/sliding, hinged or detachable flat part of sth/classifier for doors, windows etc",
+  "dataset_meanings": [
+   "to fan",
+   "to slap sb on the face",
+   "fan",
+   "sliding, hinged or detachable flat part of sth",
+   "classifier for doors, windows etc"
+  ]
+ },
+ {
+  "hanzi": "拔",
+  "pinyin": "bá",
+  "meaning_ru": "вытаскивать; выдёргивать",
+  "meaning_en": "to pull out",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to pull up/to pull out/to draw out by suction/to select/to pick/to stand out (above level)/to surpass/to seize",
+  "dataset_meanings": [
+   "to pull up",
+   "to pull out",
+   "to draw out by suction",
+   "to select",
+   "to pick",
+   "to stand out (above level)",
+   "to surpass",
+   "to seize"
+  ]
+ },
+ {
+  "hanzi": "寻求",
+  "pinyin": "xúnqiú",
+  "meaning_ru": "искать; добиваться",
+  "meaning_en": "to seek; pursue",
+  "semantic_tags": [
+   "cognition",
+   "action_movement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to seek; to look for",
+  "dataset_meanings": [
+   "to seek; to look for"
+  ]
+ },
+ {
+  "hanzi": "大厅",
+  "pinyin": "dàtīng",
+  "meaning_ru": "зал; холл; фойе",
+  "meaning_en": "hall; lobby",
+  "semantic_tags": [
+   "building",
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "hall; concourse; public lounge; (hotel) lobby",
+  "dataset_meanings": [
+   "hall",
+   "lounge"
+  ]
+ },
+ {
+  "hanzi": "如同",
+  "pinyin": "rútóng",
+  "meaning_ru": "как; подобно",
+  "meaning_en": "like; as if",
+  "semantic_tags": [
+   "abstract_relation",
+   "logic_connective"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "like/as",
+  "dataset_meanings": [
+   "like",
+   "as"
+  ]
+ },
+ {
+  "hanzi": "提起",
+  "pinyin": "tíqǐ",
+  "meaning_ru": "упоминать; заводить речь",
+  "meaning_en": "to mention; bring up",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to mention; to bring up/(lit. and fig.) to lift; to raise/to initiate (legal proceedings)",
+  "dataset_meanings": [
+   "to mention",
+   "to speak of",
+   "to lift",
+   "to pick up",
+   "to arouse",
+   "to raise (a topic, a heavy weight, one's fist, one's spirits etc)"
+  ]
+ },
+ {
+  "hanzi": "暖",
+  "pinyin": "nuǎn",
+  "meaning_ru": "тёплый; согревать",
+  "meaning_en": "warm; to warm",
+  "semantic_tags": [
+   "weather",
+   "sensation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "old variant of 暖[nuan3]/warm/to warm/variant of 暖[nuan3]/variant of 暖[nuan3], warm",
+  "dataset_meanings": [
+   "old variant of 暖",
+   "warm",
+   "to warm",
+   "variant of 暖",
+   "variant of 暖, warm"
+  ]
+ },
+ {
+  "hanzi": "建造",
+  "pinyin": "jiànzào",
+  "meaning_ru": "строить; возводить",
+  "meaning_en": "to build; construct",
+  "semantic_tags": [
+   "industry_production",
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to construct; to build",
+  "dataset_meanings": [
+   "to construct",
+   "to build"
+  ]
+ },
+ {
+  "hanzi": "戒",
+  "pinyin": "jiè",
+  "meaning_ru": "бросать (привычку); остерегаться",
+  "meaning_en": "to quit; guard against",
+  "semantic_tags": [
+   "action_daily",
+   "cognition"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to guard against/to exhort/to admonish or warn/to give up or stop doing sth/Buddhist monastic discipline/ring (for a finger)",
+  "dataset_meanings": [
+   "to guard against",
+   "to exhort",
+   "to admonish or warn",
+   "to give up or stop doing sth",
+   "Buddhist monastic discipline",
+   "ring (for a finger)"
+  ]
+ },
+ {
+  "hanzi": "不许",
+  "pinyin": "bùxǔ",
+  "meaning_ru": "нельзя; не разрешать",
+  "meaning_en": "not allowed; must not",
+  "semantic_tags": [
+   "judgement",
+   "law_admin_doc"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "not to allow/must not/can't",
+  "dataset_meanings": [
+   "not to allow",
+   "must not",
+   "can't"
+  ]
+ },
+ {
+  "hanzi": "饼",
+  "pinyin": "bǐng",
+  "meaning_ru": "лепёшка; печенье",
+  "meaning_en": "flat cake; biscuit",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "round flat cake/cookie/cake/pastry/CL:張|张[zhang1]",
+  "dataset_meanings": [
+   "round flat cake",
+   "cookie",
+   "cake",
+   "pastry"
+  ]
+ },
+ {
+  "hanzi": "返回",
+  "pinyin": "fǎnhuí",
+  "meaning_ru": "возвращаться",
+  "meaning_en": "to return; go back",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to return to/to come (or go) back",
+  "dataset_meanings": [
+   "to return to",
+   "to come (or go) back"
+  ]
+ },
+ {
+  "hanzi": "无疑",
+  "pinyin": "wúyí",
+  "meaning_ru": "несомненно; бесспорно",
+  "meaning_en": "undoubtedly; surely",
+  "semantic_tags": [
+   "manner_adverb",
+   "judgement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "undoubtedly; without doubt; for sure",
+  "dataset_meanings": [
+   "undoubtedly; without doubt; for sure"
+  ]
+ },
+ {
+  "hanzi": "迟",
+  "pinyin": "chí",
+  "meaning_ru": "поздний; опаздывать",
+  "meaning_en": "late; slow",
+  "semantic_tags": [
+   "time_word",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "surname Chi/late/delayed/slow",
+  "dataset_meanings": [
+   "surname Chi",
+   "late",
+   "delayed",
+   "slow"
+  ]
+ }
+]

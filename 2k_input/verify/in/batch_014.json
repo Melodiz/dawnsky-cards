@@ -1,0 +1,1006 @@
+[
+ {
+  "hanzi": "学年",
+  "pinyin": "xuénián",
+  "meaning_ru": "учебный год",
+  "meaning_en": "academic year",
+  "semantic_tags": [
+   "education",
+   "time_period"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "academic year",
+  "dataset_meanings": [
+   "academic year"
+  ]
+ },
+ {
+  "hanzi": "电灯",
+  "pinyin": "diàndēng",
+  "meaning_ru": "электрическая лампа",
+  "meaning_en": "electric light",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "electric light/CL:盞|盏[zhan3]",
+  "dataset_meanings": [
+   "electric light"
+  ]
+ },
+ {
+  "hanzi": "疗养",
+  "pinyin": "liáoyǎng",
+  "meaning_ru": "лечиться; поправлять здоровье",
+  "meaning_en": "recuperate; convalesce",
+  "semantic_tags": [
+   "health_medical"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to get well/to heal/to recuperate/to convalesce/convalescence/to nurse",
+  "dataset_meanings": [
+   "to get well",
+   "to heal",
+   "to recuperate",
+   "to convalesce",
+   "convalescence",
+   "to nurse"
+  ]
+ },
+ {
+  "hanzi": "矮小",
+  "pinyin": "ǎixiǎo",
+  "meaning_ru": "низкорослый; маленький",
+  "meaning_en": "short and small",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "short and small/low and small/undersized",
+  "dataset_meanings": [
+   "short and small",
+   "low and small",
+   "undersized"
+  ]
+ },
+ {
+  "hanzi": "刷子",
+  "pinyin": "shuāzi",
+  "meaning_ru": "щётка",
+  "meaning_en": "brush",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "brush/scrub/CL:把[ba3]",
+  "dataset_meanings": [
+   "brush",
+   "scrub"
+  ]
+ },
+ {
+  "hanzi": "亚运会",
+  "pinyin": "yàyùnhuì",
+  "meaning_ru": "Азиатские игры",
+  "meaning_en": "Asian Games",
+  "semantic_tags": [
+   "sport"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "Asian Games",
+  "dataset_meanings": [
+   "Asian Games"
+  ]
+ },
+ {
+  "hanzi": "高铁",
+  "pinyin": "gāotiě",
+  "meaning_ru": "скоростная ж/д",
+  "meaning_en": "high-speed rail",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "high speed rail",
+  "dataset_meanings": [
+   "high speed rail"
+  ]
+ },
+ {
+  "hanzi": "电动车",
+  "pinyin": "diàndòngchē",
+  "meaning_ru": "электромобиль; электробайк",
+  "meaning_en": "electric vehicle",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "electric vehicle (commonly refers to e-bikes, scooters or electric cars)",
+  "dataset_meanings": [
+   "Electric vehicle"
+  ]
+ },
+ {
+  "hanzi": "毫升",
+  "pinyin": "háoshēng",
+  "meaning_ru": "миллилитр",
+  "meaning_en": "milliliter",
+  "semantic_tags": [
+   "measurement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "milliliter",
+  "dataset_meanings": [
+   "milliliter"
+  ]
+ },
+ {
+  "hanzi": "打雷",
+  "pinyin": "dǎléi",
+  "meaning_ru": "греметь (о громе)",
+  "meaning_en": "to thunder",
+  "semantic_tags": [
+   "weather"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to rumble with thunder/clap of thunder",
+  "dataset_meanings": [
+   "to rumble with thunder",
+   "clap of thunder"
+  ]
+ },
+ {
+  "hanzi": "五颜六色",
+  "pinyin": "wǔyánliùsè",
+  "meaning_ru": "разноцветный; пёстрый",
+  "meaning_en": "multicolored",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "multicolored/every color under the sun",
+  "dataset_meanings": [
+   "multicolored",
+   "every color under the sun"
+  ]
+ },
+ {
+  "hanzi": "隔开",
+  "pinyin": "gékāi",
+  "meaning_ru": "разделять; отделять",
+  "meaning_en": "to separate",
+  "semantic_tags": [
+   "physical_action",
+   "spatial_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to separate",
+  "dataset_meanings": [
+   "to separate"
+  ]
+ },
+ {
+  "hanzi": "模特儿",
+  "pinyin": "mótèr",
+  "meaning_ru": "модель (манекенщик)",
+  "meaning_en": "fashion model",
+  "semantic_tags": [
+   "occupation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "(fashion) model (loanword)",
+  "dataset_meanings": [
+   "(fashion) model (loanword)"
+  ]
+ },
+ {
+  "hanzi": "抄写",
+  "pinyin": "chāoxiě",
+  "meaning_ru": "переписывать",
+  "meaning_en": "to copy out; transcribe",
+  "semantic_tags": [
+   "action_learning"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to copy/to transcribe",
+  "dataset_meanings": [
+   "to copy",
+   "to transcribe"
+  ]
+ },
+ {
+  "hanzi": "括号",
+  "pinyin": "kuòhào",
+  "meaning_ru": "скобки",
+  "meaning_en": "parentheses; brackets",
+  "semantic_tags": [
+   "object_stationery"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "parentheses; brackets",
+  "dataset_meanings": [
+   "parentheses",
+   "brackets"
+  ]
+ },
+ {
+  "hanzi": "没法儿",
+  "pinyin": "méifǎr",
+  "meaning_ru": "никак; нельзя (разг.)",
+  "meaning_en": "no way; can't (coll.)",
+  "semantic_tags": [
+   "abstract_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "(coll.) can't do anything about it/(coll.) there's no way that ...; it's simply not credible that .../(coll.) couldn't be (better) (i.e. simply wonderful)",
+  "dataset_meanings": [
+   "Can't"
+  ]
+ },
+ {
+  "hanzi": "纯净水",
+  "pinyin": "chúnjìngshuǐ",
+  "meaning_ru": "очищенная вода",
+  "meaning_en": "purified water",
+  "semantic_tags": [
+   "drink"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "purified water",
+  "dataset_meanings": [
+   "purified water"
+  ]
+ },
+ {
+  "hanzi": "学时",
+  "pinyin": "xuéshí",
+  "meaning_ru": "учебный час",
+  "meaning_en": "class hour",
+  "semantic_tags": [
+   "education",
+   "time_period"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "class hour/period",
+  "dataset_meanings": [
+   "class hour",
+   "period"
+  ]
+ },
+ {
+  "hanzi": "下个月",
+  "pinyin": "xiàgèyuè",
+  "meaning_ru": "в следующем месяце",
+  "meaning_en": "next month",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "next month",
+  "dataset_meanings": [
+   "next month"
+  ]
+ },
+ {
+  "hanzi": "名牌儿",
+  "pinyin": "míngpáir",
+  "meaning_ru": "известный бренд",
+  "meaning_en": "famous brand",
+  "semantic_tags": [
+   "commerce_trade"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "erhua form of 名牌[ming2 pai2]",
+  "dataset_meanings": [
+   "Famous brand"
+  ]
+ },
+ {
+  "hanzi": "有劲儿",
+  "pinyin": "yǒujìnr",
+  "meaning_ru": "сильный; бодрый",
+  "meaning_en": "strong; energetic",
+  "semantic_tags": [
+   "body_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Strength"
+  ]
+ },
+ {
+  "hanzi": "没想到",
+  "pinyin": "méixiǎngdào",
+  "meaning_ru": "не ожидал",
+  "meaning_en": "didn't expect",
+  "semantic_tags": [
+   "cognition"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "didn't expect",
+  "dataset_meanings": [
+   "didn't expect"
+  ]
+ },
+ {
+  "hanzi": "声",
+  "pinyin": "shēng",
+  "meaning_ru": "звук; голос",
+  "meaning_en": "sound; voice",
+  "semantic_tags": [
+   "perception"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "sound/voice/tone/noise/reputation/classifier for sounds",
+  "dataset_meanings": [
+   "sound",
+   "voice",
+   "tone",
+   "noise",
+   "reputation",
+   "classifier for sounds"
+  ]
+ },
+ {
+  "hanzi": "疯",
+  "pinyin": "fēng",
+  "meaning_ru": "сумасшедший",
+  "meaning_en": "crazy; mad",
+  "semantic_tags": [
+   "manner_state"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "insane/mad/wild",
+  "dataset_meanings": [
+   "insane",
+   "mad",
+   "wild"
+  ]
+ },
+ {
+  "hanzi": "鬼",
+  "pinyin": "guǐ",
+  "meaning_ru": "призрак; чёрт",
+  "meaning_en": "ghost; devil",
+  "semantic_tags": [
+   "religion_belief"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "disembodied spirit; ghost; devil/(suffix) person with a certain vice or addiction etc/sly; crafty; resourceful (variant of 詭|诡[gui3])/one of the 28 constellations of ancient Chinese astronomy",
+  "dataset_meanings": [
+   "disembodied spirit; ghost; devil",
+   "(suffix) person with a certain vice or addiction etc",
+   "sly; crafty; resourceful (variant of 诡)",
+   "one of the 28 constellations of ancient Chinese astronomy"
+  ]
+ },
+ {
+  "hanzi": "舞",
+  "pinyin": "wǔ",
+  "meaning_ru": "танцевать; танец",
+  "meaning_en": "to dance; dance",
+  "semantic_tags": [
+   "art",
+   "action_movement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to dance/to wield/to brandish",
+  "dataset_meanings": [
+   "to dance",
+   "to wield",
+   "to brandish"
+  ]
+ },
+ {
+  "hanzi": "愿",
+  "pinyin": "yuàn",
+  "meaning_ru": "желать; готов",
+  "meaning_en": "to wish; willing",
+  "semantic_tags": [
+   "cognition"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "honest and prudent/variant of 願|愿[yuan4]/(bound form) wish; hope; desire/to be willing/to wish (that sth may happen); may .../vow; pledge",
+  "dataset_meanings": [
+   "honest",
+   "prudent",
+   "variant of 愿",
+   "to hope",
+   "to wish",
+   "to desire",
+   "hoped-for",
+   "ready",
+   "willing"
+  ]
+ },
+ {
+  "hanzi": "射",
+  "pinyin": "shè",
+  "meaning_ru": "стрелять; пускать",
+  "meaning_en": "to shoot; launch",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "old variant of 射[she4]/to shoot/to launch/to allude to/radio- (chemistry)",
+  "dataset_meanings": [
+   "old variant of 射",
+   "to shoot",
+   "to launch",
+   "to allude to",
+   "radio- (chemistry)"
+  ]
+ },
+ {
+  "hanzi": "运",
+  "pinyin": "yùn",
+  "meaning_ru": "удача; везение",
+  "meaning_en": "luck; fortune",
+  "semantic_tags": [
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to move/to transport/to use/to apply/fortune/luck/fate",
+  "dataset_meanings": [
+   "to move",
+   "to transport",
+   "to use",
+   "to apply",
+   "fortune",
+   "luck",
+   "fate"
+  ]
+ },
+ {
+  "hanzi": "戏",
+  "pinyin": "xì",
+  "meaning_ru": "пьеса; спектакль",
+  "meaning_en": "drama; play",
+  "semantic_tags": [
+   "art"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "variant of 戲|戏[xi4]/trick/drama/play/show/CL:齣|出[chu1],場|场[chang3],臺|台[tai2]",
+  "dataset_meanings": [
+   "variant of 戏",
+   "trick",
+   "drama",
+   "play",
+   "show"
+  ]
+ },
+ {
+  "hanzi": "偷",
+  "pinyin": "tōu",
+  "meaning_ru": "красть; воровать",
+  "meaning_en": "to steal",
+  "semantic_tags": [
+   "physical_action",
+   "law_justice"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to steal/to pilfer/to snatch/thief/stealthily",
+  "dataset_meanings": [
+   "to steal",
+   "to pilfer",
+   "to snatch",
+   "thief",
+   "stealthily"
+  ]
+ },
+ {
+  "hanzi": "剩下",
+  "pinyin": "shèngxià",
+  "meaning_ru": "оставаться",
+  "meaning_en": "to remain; be left",
+  "semantic_tags": [
+   "process_change"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to remain; to be left over",
+  "dataset_meanings": [
+   "to remain; to be left over"
+  ]
+ },
+ {
+  "hanzi": "毒",
+  "pinyin": "dú",
+  "meaning_ru": "яд; ядовитый",
+  "meaning_en": "poison; toxic",
+  "semantic_tags": [
+   "material_substance",
+   "health_medical"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "poison/to poison/poisonous/malicious/cruel/fierce/narcotics",
+  "dataset_meanings": [
+   "poison",
+   "to poison",
+   "poisonous",
+   "malicious",
+   "cruel",
+   "fierce",
+   "narcotics"
+  ]
+ },
+ {
+  "hanzi": "屋",
+  "pinyin": "wū",
+  "meaning_ru": "дом; комната",
+  "meaning_en": "house; room",
+  "semantic_tags": [
+   "building"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(bound form) house/(bound form) room",
+  "dataset_meanings": [
+   "(bound form) house",
+   "(bound form) room"
+  ]
+ },
+ {
+  "hanzi": "启动",
+  "pinyin": "qǐdòng",
+  "meaning_ru": "запускать",
+  "meaning_en": "to start; launch",
+  "semantic_tags": [
+   "process_change",
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to start (a machine)/(fig.) to set in motion/to launch (an operation)/to activate (a plan)",
+  "dataset_meanings": [
+   "to start (a machine)",
+   "(fig.) to set in motion",
+   "to launch (an operation)",
+   "to activate (a plan)"
+  ]
+ },
+ {
+  "hanzi": "好运",
+  "pinyin": "hǎoyùn",
+  "meaning_ru": "удача",
+  "meaning_en": "good luck",
+  "semantic_tags": [
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "good luck",
+  "dataset_meanings": [
+   "good luck"
+  ]
+ },
+ {
+  "hanzi": "狂",
+  "pinyin": "kuáng",
+  "meaning_ru": "безумный; буйный",
+  "meaning_en": "mad; wild",
+  "semantic_tags": [
+   "manner_state",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "mad/wild/violent",
+  "dataset_meanings": [
+   "mad",
+   "wild",
+   "violent"
+  ]
+ },
+ {
+  "hanzi": "为止",
+  "pinyin": "wéizhǐ",
+  "meaning_ru": "до (момента)",
+  "meaning_en": "until; up to",
+  "semantic_tags": [
+   "time_word",
+   "logic_connective"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "until/(used in combination with words like 到[dao4] or 至[zhi4] in constructs of the form 到...為止|到...为止)",
+  "dataset_meanings": [
+   "until",
+   "(used in combination with words like 到 or 至 in constructs of the form 到...到...为止)"
+  ]
+ },
+ {
+  "hanzi": "有着",
+  "pinyin": "yǒuzhe",
+  "meaning_ru": "обладать",
+  "meaning_en": "to have; possess",
+  "semantic_tags": [
+   "abstract_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to have/to possess",
+  "dataset_meanings": [
+   "to have",
+   "to possess"
+  ]
+ },
+ {
+  "hanzi": "签",
+  "pinyin": "qiān",
+  "meaning_ru": "подписывать",
+  "meaning_en": "to sign",
+  "semantic_tags": [
+   "action_communication",
+   "law_admin_doc"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to sign one's name/to write brief comments on a document/inscribed bamboo stick (variant of 籤|签[qian1])/visa/inscribed bamboo stick (used in divination, gambling, drawing lots etc)/small wood sliver/label/tag",
+  "dataset_meanings": [
+   "to sign one's name",
+   "to write brief comments on a document",
+   "inscribed bamboo stick (variant of 签)",
+   "visa",
+   "Japanese variant of 签",
+   "inscribed bamboo stick (used in divination, gambling, drawing lots etc)",
+   "small wood sliver",
+   "label",
+   "tag"
+  ]
+ },
+ {
+  "hanzi": "价",
+  "pinyin": "jià",
+  "meaning_ru": "цена; стоимость",
+  "meaning_en": "price; value",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(literary) messenger; servant/price/value/(chemistry) valence/particle used between an adverb and a verb or adjective/(dialect) particle used after a negative adverb such as 不[bu4] or 別|别[bie2] without any other following element",
+  "dataset_meanings": [
+   "price",
+   "value",
+   "(chemistry) valence",
+   "great",
+   "good",
+   "middleman",
+   "servant"
+  ]
+ },
+ {
+  "hanzi": "躲",
+  "pinyin": "duǒ",
+  "meaning_ru": "прятаться; уклоняться",
+  "meaning_en": "to hide; dodge",
+  "semantic_tags": [
+   "physical_action",
+   "action_movement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to hide/to dodge/to avoid",
+  "dataset_meanings": [
+   "to hide",
+   "to dodge",
+   "to avoid"
+  ]
+ },
+ {
+  "hanzi": "冒",
+  "pinyin": "mào",
+  "meaning_ru": "испускать; рисковать",
+  "meaning_en": "to emit; to brave",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "old variant of 冒[mao4]/surname Mao/to emit; to give off; to send out (or up, forth)/to brave; to face/(bound form) reckless/to falsely adopt (sb's identity etc); to feign/(literary) to cover",
+  "dataset_meanings": [
+   "old variant of 冒",
+   "surname Mao",
+   "to emit",
+   "to give off",
+   "to send out (or up, forth)",
+   "to brave",
+   "to face",
+   "reckless",
+   "to falsely adopt (sb's identity etc)",
+   "to feign",
+   "(literary) to cover"
+  ]
+ },
+ {
+  "hanzi": "礼",
+  "pinyin": "lǐ",
+  "meaning_ru": "этикет; подарок",
+  "meaning_en": "etiquette; gift",
+  "semantic_tags": [
+   "culture",
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "surname Li/abbr. for 禮記|礼记[Li3 ji4], Classic of Rites/gift/rite/ceremony/CL:份[fen4]/propriety/etiquette/courtesy",
+  "dataset_meanings": [
+   "surname Li",
+   "abbr. for 礼记, Classic of Rites",
+   "gift",
+   "rite",
+   "ceremony",
+   "propriety",
+   "etiquette",
+   "courtesy"
+  ]
+ },
+ {
+  "hanzi": "拼",
+  "pinyin": "pīn",
+  "meaning_ru": "соединять; выкладываться",
+  "meaning_en": "to piece together; spell",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to piece together; to put together/to pool (resources etc); to share/to risk all; to go all out/to spell (words)",
+  "dataset_meanings": [
+   "to piece together",
+   "to join together",
+   "to stake all",
+   "adventurous",
+   "at the risk of one's life",
+   "to spell"
+  ]
+ },
+ {
+  "hanzi": "只不过",
+  "pinyin": "zhǐbuguò",
+  "meaning_ru": "всего лишь; просто",
+  "meaning_en": "only; merely; just",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "only; merely; nothing but; no more than/it's just that ...",
+  "dataset_meanings": [
+   "only",
+   "merely",
+   "nothing but",
+   "no more than",
+   "it's just that ..."
+  ]
+ },
+ {
+  "hanzi": "歌曲",
+  "pinyin": "gēqǔ",
+  "meaning_ru": "песня",
+  "meaning_en": "song",
+  "semantic_tags": [
+   "art"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "song",
+  "dataset_meanings": [
+   "song"
+  ]
+ },
+ {
+  "hanzi": "必",
+  "pinyin": "bì",
+  "meaning_ru": "обязательно; непременно",
+  "meaning_en": "must; certainly",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "certainly/must/will/necessarily",
+  "dataset_meanings": [
+   "certainly",
+   "must",
+   "will",
+   "necessarily"
+  ]
+ },
+ {
+  "hanzi": "所在",
+  "pinyin": "suǒzài",
+  "meaning_ru": "место; местонахождение",
+  "meaning_en": "place; location",
+  "semantic_tags": [
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "place/location/(after a noun) place where it is located",
+  "dataset_meanings": [
+   "place",
+   "location",
+   "(after a noun) place where it is located"
+  ]
+ },
+ {
+  "hanzi": "害",
+  "pinyin": "hài",
+  "meaning_ru": "вредить; вред",
+  "meaning_en": "to harm; harm",
+  "semantic_tags": [
+   "cause_effect"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to do harm to/to cause trouble to/harm/evil/calamity",
+  "dataset_meanings": [
+   "to do harm to",
+   "to cause trouble to",
+   "harm",
+   "evil",
+   "calamity"
+  ]
+ },
+ {
+  "hanzi": "立",
+  "pinyin": "lì",
+  "meaning_ru": "стоять; ставить",
+  "meaning_en": "to stand; set up",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "surname Li/to stand/to set up/to establish/to lay down/to draw up/at once/immediately",
+  "dataset_meanings": [
+   "surname Li",
+   "to stand",
+   "to set up",
+   "to establish",
+   "to lay down",
+   "to draw up",
+   "at once",
+   "immediately"
+  ]
+ },
+ {
+  "hanzi": "稍",
+  "pinyin": "shāo",
+  "meaning_ru": "немного; слегка",
+  "meaning_en": "slightly; a little",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "somewhat/a little/used in 稍息[shao4 xi1]",
+  "dataset_meanings": [
+   "somewhat",
+   "a little",
+   "see 息"
+  ]
+ },
+ {
+  "hanzi": "滑",
+  "pinyin": "huá",
+  "meaning_ru": "скользкий; скользить",
+  "meaning_en": "slippery; to slide",
+  "semantic_tags": [
+   "manner_state",
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "surname Hua/to slip; to slide/slippery; smooth/sly; slippery; not to be trusted",
+  "dataset_meanings": [
+   "surname Hua",
+   "to slip; to slide",
+   "slippery; smooth",
+   "sly; slippery; not to be trusted"
+  ]
+ },
+ {
+  "hanzi": "忍",
+  "pinyin": "rěn",
+  "meaning_ru": "терпеть; сдерживать",
+  "meaning_en": "to endure; bear",
+  "semantic_tags": [
+   "emotion"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to bear/to endure/to tolerate/to restrain oneself",
+  "dataset_meanings": [
+   "to bear",
+   "to endure",
+   "to tolerate",
+   "to restrain oneself"
+  ]
+ },
+ {
+  "hanzi": "回头",
+  "pinyin": "huítóu",
+  "meaning_ru": "обернуться; попозже",
+  "meaning_en": "turn one's head; later",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to turn round; to turn one's head/later; by and by",
+  "dataset_meanings": [
+   "to turn round; to turn one's head",
+   "later; by and by"
+  ]
+ },
+ {
+  "hanzi": "库",
+  "pinyin": "kù",
+  "meaning_ru": "склад; хранилище",
+  "meaning_en": "warehouse; storehouse",
+  "semantic_tags": [
+   "building"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "warehouse/storehouse/(file) library",
+  "dataset_meanings": [
+   "warehouse",
+   "storehouse",
+   "(file) library"
+  ]
+ },
+ {
+  "hanzi": "答",
+  "pinyin": "dā",
+  "meaning_ru": "отвечать; отзываться",
+  "meaning_en": "to answer; respond",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "bound form having the same meaning as the free word 答[da2], used in 答應|答应[da1 ying5], 答理[da1 li5] etc/to answer/to reply/to respond",
+  "dataset_meanings": [
+   "bound form having the same meaning as the free word 答, used in 答应, 理 etc",
+   "to answer",
+   "to reply",
+   "to respond"
+  ]
+ },
+ {
+  "hanzi": "之下",
+  "pinyin": "zhīxià",
+  "meaning_ru": "под; ниже",
+  "meaning_en": "under; beneath",
+  "semantic_tags": [
+   "spatial_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "under/beneath/less than",
+  "dataset_meanings": [
+   "under",
+   "beneath",
+   "less than"
+  ]
+ },
+ {
+  "hanzi": "熊",
+  "pinyin": "xióng",
+  "meaning_ru": "медведь",
+  "meaning_en": "bear",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "surname Xiong/bear/(coll.) to scold; to rebuke/(coll.) weak; incapable",
+  "dataset_meanings": [
+   "surname Xiong",
+   "bear",
+   "(coll.) to scold",
+   "to rebuke",
+   "(coll.) weak",
+   "incapable"
+  ]
+ },
+ {
+  "hanzi": "不幸",
+  "pinyin": "búxìng",
+  "meaning_ru": "несчастье; несчастный",
+  "meaning_en": "misfortune; unfortunate",
+  "semantic_tags": [
+   "event_situation",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "misfortune/adversity/unfortunate/sad/unfortunately/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "misfortune",
+   "adversity",
+   "unfortunate",
+   "sad",
+   "unfortunately"
+  ]
+ }
+]

@@ -1,0 +1,1416 @@
+[
+ {
+  "hanzi": "大多",
+  "pinyin": "dàduō",
+  "meaning_ru": "большинство; большей частью",
+  "meaning_en": "most of; mostly (quantity)",
+  "len_ru": 27,
+  "len_en": 26,
+  "cedict_en": "for the most part/many/most/the greater part/mostly",
+  "dataset_meanings": [
+   "for the most part",
+   "many",
+   "most",
+   "the greater part",
+   "mostly"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大都"
+    ],
+    "note": "大都 is a manner adverb (generally, for the most part — literary/formal); 大多 is a quantifier-adverb (most of — focuses on proportion of a set, more colloquial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "大多数",
+  "pinyin": "dàduōshù",
+  "meaning_ru": "большинство (счётн.)",
+  "meaning_en": "majority (countables)",
+  "len_ru": 20,
+  "len_en": 21,
+  "cedict_en": "(great) majority",
+  "dataset_meanings": [
+   "(great) majority"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大部分"
+    ],
+    "note": "大多数 = the majority (more than half, counting individual items or people — used with countables); 大部分 = most of / a large portion (emphasises share or fraction of a whole — used with mass or abstract quantities too)."
+   }
+  ]
+ },
+ {
+  "hanzi": "大巴",
+  "pinyin": "dàbā",
+  "meaning_ru": "автобус (межгород./аренда)",
+  "meaning_en": "coach; large bus (intercity)",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "(coll.) large bus/coach/(abbr. for 大型巴士)",
+  "dataset_meanings": [
+   "(coll.) large bus",
+   "coach",
+   "(abbr. for 大型巴士)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "公交车"
+    ],
+    "note": "公交车 = city transit bus (urban public transport system); 大巴 = coach/large bus (intercity or hired, not a scheduled city line)"
+   }
+  ]
+ },
+ {
+  "hanzi": "大爷",
+  "pinyin": "dàye",
+  "meaning_ru": "дядя; почтит. обращение",
+  "meaning_en": "uncle; respectful sir",
+  "len_ru": 23,
+  "len_en": 21,
+  "cedict_en": "arrogant idler/self-centered show-off/(coll.) father's older brother/uncle/term of respect for older man",
+  "dataset_meanings": [
+   "arrogant idler",
+   "self-centered show-off",
+   "(coll.) father's older brother",
+   "uncle",
+   "term of respect for older man"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "叔叔",
+     "舅舅"
+    ],
+    "note": "大爷 = polite address to an older man / paternal uncle (father's elder brother); 叔叔 = uncle (father's younger brother, also polite address to middle-aged man); 舅舅 = uncle (mother's brother)"
+   }
+  ]
+ },
+ {
+  "hanzi": "大纲",
+  "pinyin": "dàgāng",
+  "meaning_ru": "программа; официальный план",
+  "meaning_en": "syllabus; official outline",
+  "len_ru": 27,
+  "len_en": 26,
+  "cedict_en": "synopsis/outline/program/leading principles",
+  "dataset_meanings": [
+   "synopsis",
+   "outline",
+   "program",
+   "leading principles"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "提纲"
+    ],
+    "note": "Both mean 'outline/synopsis': 大纲 is an official or curricular syllabus (broader scope); 提纲 is a working outline or notes-skeleton for a speech/essay (personal use)"
+   }
+  ]
+ },
+ {
+  "hanzi": "大胆",
+  "pinyin": "dàdǎn",
+  "meaning_ru": "смелый; дерзкий (вплоть до нагл.)",
+  "meaning_en": "bold; daring (may imply reckless)",
+  "len_ru": 33,
+  "len_en": 33,
+  "cedict_en": "brazen/audacious/outrageous/bold/daring/fearless",
+  "dataset_meanings": [
+   "brazen",
+   "audacious",
+   "outrageous",
+   "bold",
+   "daring",
+   "fearless"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "勇于",
+     "豪迈"
+    ],
+    "note": "大胆 = bold/daring (neutral to mildly pejorative — can imply recklessness); 勇于 = have the courage to do X (positive, always tied to a specific admirable action); 豪迈 = bold-spirited/heroic (literary, broad character trait)"
+   }
+  ]
+ },
+ {
+  "hanzi": "大规模",
+  "pinyin": "dàguīmó",
+  "meaning_ru": "крупномасштабный (≠ 大型)",
+  "meaning_en": "large-scale in scope (≠ 大型)",
+  "len_ru": 23,
+  "len_en": 27,
+  "cedict_en": "large scale/extensive/wide scale/broad scale",
+  "dataset_meanings": [
+   "large scale",
+   "extensive",
+   "wide scale",
+   "broad scale"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大型",
+     "大量"
+    ],
+    "note": "All cluster around 'large' but differ: 大规模 = large in scope/scale (of operations or projects); 大型 = large in physical size or category; 大量 = large in quantity/amount."
+   }
+  ]
+ },
+ {
+  "hanzi": "大都",
+  "pinyin": "dàdū",
+  "meaning_ru": "большей частью (книжн.)",
+  "meaning_en": "mostly (literary adverb)",
+  "len_ru": 23,
+  "len_en": 24,
+  "cedict_en": "Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing/for the most part/on the whole/also pr. [da4 du1]/metropolitan",
+  "dataset_meanings": [
+   "Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing",
+   "for the most part",
+   "on the whole",
+   "also pr. [dà dū]",
+   "metropolitan"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大多"
+    ],
+    "note": "大都 is a manner adverb (generally, for the most part — literary/formal); 大多 is a quantifier-adverb (most of — focuses on proportion of a set, more colloquial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "天上",
+  "pinyin": "tiānshàng",
+  "meaning_ru": "на небе; в небесах (высок.)",
+  "meaning_en": "in the sky; in the heavens",
+  "len_ru": 27,
+  "len_en": 26,
+  "cedict_en": "the sky; the heavens",
+  "dataset_meanings": [
+   "celestial",
+   "heavenly"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "空中",
+     "天空",
+     "太空"
+    ],
+    "note": "All involve sky/air. 空中 = mid-air/airspace (where planes fly); 天上 = up in the sky/heavens (celestial, poetic); 天空 = the sky as a visual expanse (noun); 太空 = outer space (beyond atmosphere)."
+   }
+  ]
+ },
+ {
+  "hanzi": "夫妻",
+  "pinyin": "fūqī",
+  "meaning_ru": "супруги (разг.-нейтр.)",
+  "meaning_en": "married couple (everyday)",
+  "len_ru": 22,
+  "len_en": 25,
+  "cedict_en": "husband and wife; married couple",
+  "dataset_meanings": [
+   "husband and wife; married couple"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "夫妇"
+    ],
+    "note": "夫妻 = everyday word for a couple (husband and wife, informal/neutral); 夫妇 = slightly more formal/written register"
+   }
+  ]
+ },
+ {
+  "hanzi": "女孩儿",
+  "pinyin": "nǚháir",
+  "meaning_ru": "девочка/девушка (разг.)",
+  "meaning_en": "girl (colloquial, any age)",
+  "len_ru": 23,
+  "len_en": 26,
+  "cedict_en": "erhua form of 女孩[nu : 3 hai2]",
+  "dataset_meanings": [
+   "erhua variant of 女孩",
+   "girl"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "女生",
+     "女朋友",
+     "女孩",
+     "少女",
+     "姑娘"
+    ],
+    "note": "女孩/女孩儿 = girl any age (neutral); 女生 = female student/schoolgirl context; 少女 = teenage/maiden (literary); 姑娘 = warm colloquial young woman; 女朋友 = romantic girlfriend only"
+   }
+  ]
+ },
+ {
+  "hanzi": "女生",
+  "pinyin": "nǚshēng",
+  "meaning_ru": "девушка-ученица; школьница",
+  "meaning_en": "girl; female student (school)",
+  "len_ru": 26,
+  "len_en": 29,
+  "cedict_en": "schoolgirl/female student/girl",
+  "dataset_meanings": [
+   "schoolgirl",
+   "female student",
+   "girl"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "女孩儿",
+     "女朋友",
+     "女孩",
+     "少女",
+     "姑娘"
+    ],
+    "note": "女孩/女孩儿 = girl any age (neutral); 女生 = female student/schoolgirl context; 少女 = teenage/maiden (literary); 姑娘 = warm colloquial young woman; 女朋友 = romantic girlfriend only"
+   }
+  ]
+ },
+ {
+  "hanzi": "好友",
+  "pinyin": "hǎoyǒu",
+  "meaning_ru": "близкий друг (личн.)",
+  "meaning_en": "close friend (non-family)",
+  "len_ru": 20,
+  "len_en": 25,
+  "cedict_en": "close friend/pal/(social networking website) friend/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "close friend",
+   "pal",
+   "(social networking website) friend"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "亲人",
+     "伙伴"
+    ],
+    "note": "好友 = close personal friend (emotional intimacy, non-family); 亲人 = close relatives/loved ones (family bond); 伙伴 = companion/partner (cooperative relationship, not necessarily intimate)"
+   }
+  ]
+ },
+ {
+  "hanzi": "好多",
+  "pinyin": "hǎoduō",
+  "meaning_ru": "много (разг.)",
+  "meaning_en": "a lot; many (colloquial)",
+  "len_ru": 13,
+  "len_en": 24,
+  "cedict_en": "many/quite a lot/much better",
+  "dataset_meanings": [
+   "many",
+   "quite a lot",
+   "much better"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "许多",
+     "不少",
+     "众多"
+    ],
+    "note": "好多 = colloquial 'a lot'; 许多 = neutral written 'many'; 不少 = litotes 'quite a few' (understatement); 众多 = formal 'numerous' (large collectives)"
+   }
+  ]
+ },
+ {
+  "hanzi": "好玩儿",
+  "pinyin": "hǎowánr",
+  "meaning_ru": "весёлый; забавный (разг.)",
+  "meaning_en": "fun; amusing (colloquial)",
+  "len_ru": 25,
+  "len_en": 25,
+  "cedict_en": "erhua variant of 好玩[hao3 wan2]",
+  "dataset_meanings": [
+   "erhua variant of 好玩",
+   "amusing",
+   "fun",
+   "interesting"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "有趣",
+     "乐趣",
+     "趣味",
+     "娱乐"
+    ],
+    "note": "好玩儿 = fun/amusing (colloquial, about an activity); 有趣 = interesting/amusing (neutral adj); 乐趣 = joy/delight (noun, inner feeling); 趣味 = personal taste/liking or charm (noun); 娱乐 = entertainment/leisure (noun/verb, broader)"
+   }
+  ]
+ },
+ {
+  "hanzi": "好看",
+  "pinyin": "hǎokàn",
+  "meaning_ru": "красивый; интересный",
+  "meaning_en": "good-looking (people/things)",
+  "len_ru": 20,
+  "len_en": 28,
+  "cedict_en": "good-looking; nice-looking/(of a movie, book, TV show etc) good/in an embarrassing situation",
+  "dataset_meanings": [
+   "good-looking",
+   "nice-looking",
+   "good (of a movie, book, TV show etc)",
+   "embarrassed",
+   "humiliated"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "英俊"
+    ],
+    "note": "好看 = good-looking / nice (general, any gender, also means 'enjoyable to watch'); 英俊 = handsome (specifically of men, more literary/formal)"
+   },
+   {
+    "with": [
+     "帅哥",
+     "帅",
+     "英俊"
+    ],
+    "note": "好看 = good-looking (anything: people, objects, scenery); 帅 = handsome/cool (adjective, colloquial praise); 帅哥 = handsome guy (vocative address term, colloquial); 英俊 = handsome (formal adjective, men only)"
+   }
+  ]
+ },
+ {
+  "hanzi": "好运",
+  "pinyin": "hǎoyùn",
+  "meaning_ru": "удача (пожелание)",
+  "meaning_en": "good luck (as a wish)",
+  "len_ru": 17,
+  "len_en": 21,
+  "cedict_en": "good luck",
+  "dataset_meanings": [
+   "good luck"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "福",
+     "运气",
+     "福气"
+    ],
+    "note": "运气 = luck (good or bad, neutral); 好运 = good luck (simply positive); 福 = blessing/fortune (cultural, ceremonial); 福气 = blessed lot/good fortune (earned or destined, warm)"
+   }
+  ]
+ },
+ {
+  "hanzi": "如同",
+  "pinyin": "rútóng",
+  "meaning_ru": "подобно, как (книжн.; ≠ 好像)",
+  "meaning_en": "just like (literary; ≠ 'seems')",
+  "len_ru": 27,
+  "len_en": 31,
+  "cedict_en": "like/as",
+  "dataset_meanings": [
+   "like",
+   "as"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "犹如",
+     "像"
+    ],
+    "note": "All express comparison 'like/as'; 像 is the common verb 'to resemble'; 如同 and 犹如 are more literary equivalents used in written or formal comparisons, with 犹如 slightly more poetic."
+   }
+  ]
+ },
+ {
+  "hanzi": "妹",
+  "pinyin": "mèi",
+  "meaning_ru": "младшая сестра (в составе слов)",
+  "meaning_en": "younger sister (morpheme)",
+  "len_ru": 31,
+  "len_en": 25,
+  "cedict_en": "younger sister",
+  "dataset_meanings": [
+   "younger sister"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "妹妹"
+    ],
+    "note": "妹 = morpheme used in compounds (姐妹, 妹夫); 妹妹 = standalone colloquial word for younger sister"
+   }
+  ]
+ },
+ {
+  "hanzi": "妻子",
+  "pinyin": "qīzǐ",
+  "meaning_ru": "жена (нейтр., письм.)",
+  "meaning_en": "wife (neutral, standard written)",
+  "len_ru": 21,
+  "len_en": 32,
+  "cedict_en": "wife and children/wife",
+  "dataset_meanings": [
+   "wife and children",
+   "wife"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "太太",
+     "老婆",
+     "夫人"
+    ],
+    "note": "老婆 (5k) = wife (casual/intimate); 妻子 = wife (standard/neutral written); 太太 (5k) = Mrs./wife (polite, slightly formal); 夫人 (5k) = wife (honorific, used for dignitaries or respectfully of others)."
+   }
+  ]
+ },
+ {
+  "hanzi": "姐",
+  "pinyin": "jiě",
+  "meaning_ru": "старшая сестра (связ. морфема)",
+  "meaning_en": "older sister (bound, compounds)",
+  "len_ru": 30,
+  "len_en": 31,
+  "cedict_en": "older sister",
+  "dataset_meanings": [
+   "older sister"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "姐姐"
+    ],
+    "note": "Same meaning; 姐 is the short bound form used in compounds (e.g. 大姐) or addressing; 姐姐 is the freestanding spoken form for 'older sister'"
+   }
+  ]
+ },
+ {
+  "hanzi": "子女",
+  "pinyin": "zǐnǚ",
+  "meaning_ru": "дети (офиц., юрид.)",
+  "meaning_en": "children; offspring (formal)",
+  "len_ru": 19,
+  "len_en": 28,
+  "cedict_en": "children; sons and daughters",
+  "dataset_meanings": [
+   "children; sons and daughters"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "儿女"
+    ],
+    "note": "子女 = sons and daughters (neutral formal, legal/statistical contexts); 儿女 = sons and daughters (slightly more literary/emotional register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "字",
+  "pinyin": "zì",
+  "meaning_ru": "иероглиф; буква (единица)",
+  "meaning_en": "character; letter (single unit)",
+  "len_ru": 25,
+  "len_en": 31,
+  "cedict_en": "letter/symbol/character/word/CL:個|个[ge4]/courtesy or style name traditionally given to males aged 20 in dynastic China",
+  "dataset_meanings": [
+   "letter",
+   "symbol",
+   "character",
+   "word",
+   "courtesy or style name traditionally given to males aged 20 in dynastic China"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "汉字",
+     "词",
+     "文字"
+    ],
+    "note": "字 = single character/letter (unit of script); 汉字 = Chinese character specifically; 词 = word as a lexical unit (may be multi-character); 文字 = writing system/script (collective, abstract)"
+   }
+  ]
+ },
+ {
+  "hanzi": "存款",
+  "pinyin": "cúnkuǎn",
+  "meaning_ru": "вклад; класть деньги в банк",
+  "meaning_en": "savings; make a bank deposit",
+  "len_ru": 27,
+  "len_en": 28,
+  "cedict_en": "to deposit money (in a bank etc)/bank savings/bank deposit",
+  "dataset_meanings": [
+   "to deposit money (in a bank etc)",
+   "bank savings",
+   "bank deposit"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "存",
+     "押金"
+    ],
+    "note": "存款 = bank savings/deposit (noun); 存 = verb to deposit or store; 押金 = refundable security deposit, not savings"
+   }
+  ]
+ },
+ {
+  "hanzi": "季",
+  "pinyin": "jì",
+  "meaning_ru": "сезон (морфема в сложн. словах)",
+  "meaning_en": "season (morpheme, in compounds)",
+  "len_ru": 31,
+  "len_en": 31,
+  "cedict_en": "surname Ji/season/the last month of a season/fourth or youngest amongst brothers/classifier for seasonal crop yields",
+  "dataset_meanings": [
+   "surname Ji",
+   "season",
+   "the last month of a season",
+   "fourth or youngest amongst brothers",
+   "classifier for seasonal crop yields"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "季节",
+     "淡季"
+    ],
+    "note": "季 = season as a morpheme (in compounds: 季度, 四季); 季节 = standalone word for season; 淡季 = off-season (commerce/tourism)"
+   }
+  ]
+ },
+ {
+  "hanzi": "学科",
+  "pinyin": "xuékē",
+  "meaning_ru": "академическая дисциплина",
+  "meaning_en": "academic discipline (field)",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "subject/branch of learning/course/academic discipline",
+  "dataset_meanings": [
+   "subject",
+   "branch of learning",
+   "course",
+   "academic discipline"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "科目"
+    ],
+    "note": "学科 = academic discipline or field of study (broad: linguistics, biology); 科目 = specific subject item on a curriculum or examination list (narrower, administrative)."
+   }
+  ]
+ },
+ {
+  "hanzi": "孩子",
+  "pinyin": "háizi",
+  "meaning_ru": "ребёнок (нейтр.)",
+  "meaning_en": "child; kid (neutral)",
+  "len_ru": 16,
+  "len_en": 20,
+  "cedict_en": "child",
+  "dataset_meanings": [
+   "child"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "小朋友",
+     "儿童",
+     "小孩"
+    ],
+    "note": "孩子 = child/kid (neutral everyday); 小朋友 = child/little friend (warm, adult addressing a child); 儿童 = children (formal/official, e.g. 儿童节); 小孩 = kid (colloquial, slightly diminutive)"
+   }
+  ]
+ },
+ {
+  "hanzi": "宁静",
+  "pinyin": "níngjìng",
+  "meaning_ru": "безмятежный (атмосфера)",
+  "meaning_en": "serene (atmosphere/surroundings)",
+  "len_ru": 23,
+  "len_en": 32,
+  "cedict_en": "tranquil/tranquility/serenity",
+  "dataset_meanings": [
+   "tranquil",
+   "tranquility",
+   "serenity"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "安宁",
+     "平静",
+     "镇静",
+     "沉着"
+    ],
+    "note": "宁静 = serene (of environment/atmosphere, poetic); 安宁 = peaceful tranquility (freedom from disturbance); 平静 = calm (of a state or mood, neutral); 镇静 = composure, calm oneself down (after agitation); 沉着 = cool-headed under pressure (personality, action context)"
+   }
+  ]
+ },
+ {
+  "hanzi": "宝",
+  "pinyin": "bǎo",
+  "meaning_ru": "сокровище; (разг.) малыш",
+  "meaning_en": "treasure; darling (address)",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "variant of 寶|宝[bao3]/jewel/gem/treasure/precious",
+  "dataset_meanings": [
+   "variant of 宝",
+   "jewel",
+   "gem",
+   "treasure",
+   "precious"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "宝贵",
+     "珍贵",
+     "珍稀"
+    ],
+    "note": "宝 = treasure (noun, also term of endearment); 宝贵 = valuable (experience, time, opportunities — abstract); 珍贵 = precious (rare objects, keepsakes, memories); 珍稀 = rare and scarce (species, resources — emphasises rarity)"
+   }
+  ]
+ },
+ {
+  "hanzi": "宝石",
+  "pinyin": "bǎoshí",
+  "meaning_ru": "драгоценный камень",
+  "meaning_en": "gemstone (physical object)",
+  "len_ru": 18,
+  "len_en": 26,
+  "cedict_en": "precious stone; gem/CL:枚[mei2],顆|颗[ke1]",
+  "dataset_meanings": [
+   "precious stone; gem"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "宝贵",
+     "珍贵",
+     "珍稀"
+    ],
+    "note": "宝石 = gemstone (physical object); 宝贵 = valuable/precious (abstract: time, experience); 珍贵 = precious/rare (of objects or moments); 珍稀 = rare and precious (emphasis on scarcity, of species/resources)"
+   }
+  ]
+ },
+ {
+  "hanzi": "害",
+  "pinyin": "hài",
+  "meaning_ru": "вредить; вред (разг.)",
+  "meaning_en": "harm (colloquial; also noun)",
+  "len_ru": 21,
+  "len_en": 28,
+  "cedict_en": "to do harm to/to cause trouble to/harm/evil/calamity",
+  "dataset_meanings": [
+   "to do harm to",
+   "to cause trouble to",
+   "harm",
+   "evil",
+   "calamity"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "损害",
+     "危害",
+     "伤害",
+     "损坏",
+     "破坏"
+    ],
+    "note": "害 = harm (basic, colloquial, can also be noun); 伤害 = hurt/injure (personal, bodily or emotional); 损害 = damage/harm (formal, abstract — interests, health, reputation); 损坏 = damage (physical objects); 危害 = endanger (serious systemic threat); 破坏 = destroy/sabotage (deliberate structural damage)"
+   },
+   {
+    "with": [
+     "危害",
+     "伤害"
+    ],
+    "note": "害 is the general root (harm as verb/noun); 危害 stresses endangering/threatening (health, society); 伤害 means physically or emotionally hurt (a person)."
+   }
+  ]
+ },
+ {
+  "hanzi": "宽广",
+  "pinyin": "kuānguǎng",
+  "meaning_ru": "широкий и просторный (офиц.)",
+  "meaning_en": "wide and spacious (formal)",
+  "len_ru": 28,
+  "len_en": 26,
+  "cedict_en": "wide/broad/extensive/vast",
+  "dataset_meanings": [
+   "wide",
+   "broad",
+   "extensive",
+   "vast"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "广",
+     "宽",
+     "广阔"
+    ],
+    "note": "宽 (5k) = wide in physical dimension (宽两米); 广 = broad/extensive (often figurative or as morpheme); 宽广 = wide and spacious (combined adj., formal); 广阔 (5k) = vast expanse of space or prospects (literary)."
+   }
+  ]
+ },
+ {
+  "hanzi": "密",
+  "pinyin": "mì",
+  "meaning_ru": "плотный; тайный, секретный",
+  "meaning_en": "dense; covert, secret",
+  "len_ru": 26,
+  "len_en": 21,
+  "cedict_en": "surname Mi/name of an ancient state/dense; close; thick/intimate; close/(bound form) secret; confidential/(Internet slang) to send a private message to (sb); to DM",
+  "dataset_meanings": [
+   "surname Mi",
+   "name of an ancient state",
+   "secret",
+   "confidential",
+   "close",
+   "thick",
+   "dense"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "秘密",
+     "保密"
+    ],
+    "note": "密 adj = dense OR covert; 秘密 = secret (noun/adj, purely about secrecy); 保密 = the act of keeping something secret"
+   }
+  ]
+ },
+ {
+  "hanzi": "寒冷",
+  "pinyin": "hánlěng",
+  "meaning_ru": "холодный; морозный (общ.)",
+  "meaning_en": "cold; frigid (general adj.)",
+  "len_ru": 25,
+  "len_en": 27,
+  "cedict_en": "cold (climate)/frigid/very cold",
+  "dataset_meanings": [
+   "cold (climate)",
+   "frigid",
+   "very cold"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "炎热",
+     "严寒"
+    ],
+    "note": "寒冷 = cold/frigid (general descriptive adj); 严寒 = bitter/severe cold (stronger, literary); 炎热 = scorching hot (weather, intense)"
+   },
+   {
+    "with": [
+     "凉",
+     "严寒",
+     "冻"
+    ],
+    "note": "凉 is mildly cool/cold (pleasant or neutral); 寒冷 is unpleasantly cold (weather adjective); 严寒 (5k) is literary 'bitter/severe cold'; 冻 (5k) is the physical sensation/action of freezing"
+   }
+  ]
+ },
+ {
+  "hanzi": "寸",
+  "pinyin": "cùn",
+  "meaning_ru": "цунь (мера длины)",
+  "meaning_en": "cun; unit of length",
+  "len_ru": 17,
+  "len_en": 19,
+  "cedict_en": "a unit of length/inch/thumb",
+  "dataset_meanings": [
+   "a unit of length",
+   "inch",
+   "thumb"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "寻求",
+  "pinyin": "xúnqiú",
+  "meaning_ru": "искать; добиваться (абстр. цели)",
+  "meaning_en": "seek; pursue (abstract goals)",
+  "len_ru": 32,
+  "len_en": 29,
+  "cedict_en": "to seek; to look for",
+  "dataset_meanings": [
+   "to seek; to look for"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "搜",
+     "搜索",
+     "寻觅",
+     "寻找"
+    ],
+    "note": "搜/搜索 = search by scanning (physical search, internet); 寻找 = look for a specific target; 寻求 = seek/pursue (abstract goals, solutions); 寻觅 = search with longing (literary/emotional)"
+   }
+  ]
+ },
+ {
+  "hanzi": "将要",
+  "pinyin": "jiāngyào",
+  "meaning_ru": "вот-вот; скоро (письм.)",
+  "meaning_en": "about to; will soon (written)",
+  "len_ru": 23,
+  "len_en": 29,
+  "cedict_en": "will/shall/to be going to",
+  "dataset_meanings": [
+   "will",
+   "shall",
+   "to be going to"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "将"
+    ],
+    "note": "将 (5k) is the written/formal future marker (将于明年); 将要 is a slightly fuller written form meaning 'is about to / will soon', closer to 快要 in timing."
+   }
+  ]
+ },
+ {
+  "hanzi": "小声",
+  "pinyin": "xiǎoshēng",
+  "meaning_ru": "тихо; вполголоса",
+  "meaning_en": "in a low voice (manner)",
+  "len_ru": 16,
+  "len_en": 23,
+  "cedict_en": "in a low voice/(speak) in whispers",
+  "dataset_meanings": [
+   "in a low voice",
+   "(speak) in whispers"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "口气",
+     "声音",
+     "嗓子"
+    ],
+    "note": "小声 is a manner adverb 'in a low voice'; 声音 is 'sound/voice' as a physical phenomenon; 嗓子 is the physical throat/vocal organ; 口气 is the tone or attitude conveyed by speech"
+   }
+  ]
+ },
+ {
+  "hanzi": "小朋友",
+  "pinyin": "xiǎopéngyǒu",
+  "meaning_ru": "малыш (ласк., взрослый — ребёнку)",
+  "meaning_en": "child (warm, adult to child)",
+  "len_ru": 33,
+  "len_en": 28,
+  "cedict_en": "child; kid (used to refer to a child, or by an adult to address a child, or, in Taiwan, to refer to sb's own child)",
+  "dataset_meanings": [
+   "child"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "孩子",
+     "儿童",
+     "小孩"
+    ],
+    "note": "孩子 = child/kid (neutral everyday); 小朋友 = child/little friend (warm, adult addressing a child); 儿童 = children (formal/official, e.g. 儿童节); 小孩 = kid (colloquial, slightly diminutive)"
+   }
+  ]
+ },
+ {
+  "hanzi": "局",
+  "pinyin": "jú",
+  "meaning_ru": "ведомство; партия (сч.); ситуац.",
+  "meaning_en": "bureau; round (cl.); situation",
+  "len_ru": 32,
+  "len_en": 30,
+  "cedict_en": "narrow/office/situation/classifier for games: match, set, round etc/cramped; narrow",
+  "dataset_meanings": [
+   "narrow",
+   "office",
+   "situation",
+   "classifier for games: match, set, round etc"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "全局",
+     "局势"
+    ],
+    "note": "局 = bureau/office OR a round/game (classifier); 全局 = the overall situation as a whole; 局势 = the (political/strategic) situation at a given moment — all share the 局 root but differ sharply in meaning"
+   }
+  ]
+ },
+ {
+  "hanzi": "屋",
+  "pinyin": "wū",
+  "meaning_ru": "комната; дом (книжн.)",
+  "meaning_en": "room; house (literary)",
+  "len_ru": 21,
+  "len_en": 22,
+  "cedict_en": "(bound form) house/(bound form) room",
+  "dataset_meanings": [
+   "(bound form) house",
+   "(bound form) room"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "房屋",
+     "屋子",
+     "住房",
+     "公寓"
+    ],
+    "note": "房屋 is formal 'building/house'; 屋 is literary/short for room or house; 屋子 is colloquial 'room'; 住房 emphasises residential function/housing as a social concept; 公寓 specifically means apartment building"
+   }
+  ]
+ },
+ {
+  "hanzi": "巧",
+  "pinyin": "qiǎo",
+  "meaning_ru": "как раз; ловкий (контекст)",
+  "meaning_en": "coincidentally; skillful",
+  "len_ru": 26,
+  "len_en": 24,
+  "cedict_en": "opportunely/coincidentally/as it happens/skillful/timely",
+  "dataset_meanings": [
+   "opportunely",
+   "coincidentally",
+   "as it happens",
+   "skillful",
+   "timely"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "正好"
+    ],
+    "note": "巧 = coincidentally; also means skillful (dual meaning, context-dependent); 正好 = just right/as it happens (timing/fit without the skillful nuance)"
+   }
+  ]
+ },
+ {
+  "hanzi": "巴士",
+  "pinyin": "bāshì",
+  "meaning_ru": "автобус (заимств.; Гонконг)",
+  "meaning_en": "bus (loanword; coach/HK)",
+  "len_ru": 27,
+  "len_en": 24,
+  "cedict_en": "bus (loanword)/motor coach",
+  "dataset_meanings": [
+   "bus (loanword)",
+   "motor coach"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "公共汽车"
+    ],
+    "note": "公共汽车 is the standard mainland Chinese term for city bus; 巴士 is a loanword used in Hong Kong/Taiwan and for intercity coaches in the mainland — more informal or regional."
+   }
+  ]
+ },
+ {
+  "hanzi": "帅哥",
+  "pinyin": "shuàigē",
+  "meaning_ru": "красавчик (разг. обращение)",
+  "meaning_en": "handsome guy (coll. address)",
+  "len_ru": 27,
+  "len_en": 28,
+  "cedict_en": "handsome guy/lady-killer/handsome (form of address)",
+  "dataset_meanings": [
+   "handsome guy",
+   "lady-killer",
+   "handsome (form of address)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "好看",
+     "帅",
+     "英俊"
+    ],
+    "note": "好看 = good-looking (anything: people, objects, scenery); 帅 = handsome/cool (adjective, colloquial praise); 帅哥 = handsome guy (vocative address term, colloquial); 英俊 = handsome (formal adjective, men only)"
+   }
+  ]
+ },
+ {
+  "hanzi": "带动",
+  "pinyin": "dàidòng",
+  "meaning_ru": "побуждать; приводить в движ.",
+  "meaning_en": "drive; spur (one propels another)",
+  "len_ru": 28,
+  "len_en": 33,
+  "cedict_en": "to spur; to provide impetus; to drive",
+  "dataset_meanings": [
+   "to spur; to provide impetus; to drive"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "启动"
+    ],
+    "note": "启动 = start/launch (initiate a process: engine, project, system); 帤动 = drive/spur one thing by means of another (cause-effect, pulling effect)"
+   },
+   {
+    "with": [
+     "动力"
+    ],
+    "note": "带动 = to drive/spur (active verb: one thing drives another); 动力 = driving force/impetus (noun: the force or motivation itself)"
+   }
+  ]
+ },
+ {
+  "hanzi": "带有",
+  "pinyin": "dàiyǒu",
+  "meaning_ru": "иметь оттенок чего-л.",
+  "meaning_en": "carry (a slight tinge/quality)",
+  "len_ru": 21,
+  "len_en": 30,
+  "cedict_en": "to have as a feature or characteristic; to have an element of (confidence, sweetness, malevolence etc); to carry (a pathogen, connotation etc)",
+  "dataset_meanings": [
+   "to have as a feature or characteristic; to have an element of (confidence, sweetness, malevolence etc); to carry (a pathogen, connotation etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "有着",
+     "拥有",
+     "占有"
+    ],
+    "note": "带有 = carry (a slight quality/tinge — partial, incidental); 有着 = have/possess (literary, emphatic state); 拥有 = own/possess (ongoing state, valuables, rights); 占有 = possess/occupy (with control, sometimes forcibly)"
+   }
+  ]
+ },
+ {
+  "hanzi": "常用",
+  "pinyin": "chángyòng",
+  "meaning_ru": "часто используемый",
+  "meaning_en": "commonly used (in practice)",
+  "len_ru": 18,
+  "len_en": 27,
+  "cedict_en": "in common usage",
+  "dataset_meanings": [
+   "in common usage"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "常见",
+     "普通",
+     "罕见"
+    ],
+    "note": "常见 = often encountered (frequency of sighting); 常用 = frequently used in practice; 普通 (5k) = ordinary/unremarkable (neutral quality judgment); 罕见 (5k) = seldom seen (opposite anchor)"
+   }
+  ]
+ },
+ {
+  "hanzi": "常见",
+  "pinyin": "chángjiàn",
+  "meaning_ru": "распространённый; частый",
+  "meaning_en": "common; often encountered",
+  "len_ru": 24,
+  "len_en": 25,
+  "cedict_en": "commonly seen/common/to see sth frequently",
+  "dataset_meanings": [
+   "commonly seen",
+   "common",
+   "to see sth frequently"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "常用",
+     "普通",
+     "罕见"
+    ],
+    "note": "常见 = often encountered (frequency of sighting); 常用 = frequently used in practice; 普通 (5k) = ordinary/unremarkable (neutral quality judgment); 罕见 (5k) = seldom seen (opposite anchor)"
+   }
+  ]
+ },
+ {
+  "hanzi": "干什么",
+  "pinyin": "gànshénme",
+  "meaning_ru": "что делаешь? (про действие)",
+  "meaning_en": "what are you doing? (action)",
+  "len_ru": 27,
+  "len_en": 28,
+  "cedict_en": "what are you doing?/what's he up to?",
+  "dataset_meanings": [
+   "what are you doing?",
+   "what's he up to?"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "干吗"
+    ],
+    "note": "干什么 asks 'what are you doing?' (action-focused); 干吗 is more colloquial and skews toward 'why? / what for?' (reason-focused), often with impatience."
+   }
+  ]
+ },
+ {
+  "hanzi": "干吗",
+  "pinyin": "gànmá",
+  "meaning_ru": "зачем? (разг., нетерпеливо)",
+  "meaning_en": "why? / what for? (coll.)",
+  "len_ru": 27,
+  "len_en": 24,
+  "cedict_en": "variant of 幹嘛|干嘛[gan4 ma2]",
+  "dataset_meanings": [
+   "see 干嘛"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "干什么"
+    ],
+    "note": "干什么 asks 'what are you doing?' (action-focused); 干吗 is more colloquial and skews toward 'why? / what for?' (reason-focused), often with impatience."
+   }
+  ]
+ },
+ {
+  "hanzi": "平安",
+  "pinyin": "píngʼān",
+  "meaning_ru": "благополучный; невредимый",
+  "meaning_en": "safe and sound",
+  "len_ru": 25,
+  "len_en": 14,
+  "cedict_en": "see 平安區|平安区[Ping2 an1 Qu1]/safe and sound/well/without mishap/quiet and safe/at peace",
+  "dataset_meanings": [
+   "safe and sound",
+   "well",
+   "without mishap",
+   "quiet and safe",
+   "at peace"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "平稳",
+  "pinyin": "píngwěn",
+  "meaning_ru": "устойчивый; ровный (без колеб.)",
+  "meaning_en": "stable; even (no fluctuation)",
+  "len_ru": 31,
+  "len_en": 29,
+  "cedict_en": "smooth; steady",
+  "dataset_meanings": [
+   "smooth",
+   "steady"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "顺利"
+    ],
+    "note": "平稳 = stable and even (no fluctuation, physical or abstract steadiness); 顺利 (5k) = going smoothly without obstacles or hitches (process succeeds as hoped)"
+   }
+  ]
+ },
+ {
+  "hanzi": "广",
+  "pinyin": "guǎng",
+  "meaning_ru": "широкий; обширный (морфема)",
+  "meaning_en": "wide; broad (morpheme)",
+  "len_ru": 27,
+  "len_en": 22,
+  "cedict_en": "\"house on a cliff\" radical in Chinese characters (Kangxi radical 53), occurring in 店, 序, 底 etc/surname Guang/wide/numerous/to spread",
+  "dataset_meanings": [
+   "\"house on a cliff\" radical in Chinese characters (Kangxi radical 53), occurring in 店, 序, 底 etc",
+   "surname Guang",
+   "wide",
+   "numerous",
+   "to spread"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "宽广",
+     "宽",
+     "广阔"
+    ],
+    "note": "宽 (5k) = wide in physical dimension (宽两米); 广 = broad/extensive (often figurative or as morpheme); 宽广 = wide and spacious (combined adj., formal); 广阔 (5k) = vast expanse of space or prospects (literary)."
+   }
+  ]
+ },
+ {
+  "hanzi": "库",
+  "pinyin": "kù",
+  "meaning_ru": "хранилище (морфема, в словах)",
+  "meaning_en": "storehouse (morpheme, compounds)",
+  "len_ru": 29,
+  "len_en": 32,
+  "cedict_en": "warehouse/storehouse/(file) library",
+  "dataset_meanings": [
+   "warehouse",
+   "storehouse",
+   "(file) library"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "仓库"
+    ],
+    "note": "库 = warehouse/storehouse (single morpheme; often a suffix in compounds: 图书库, 数据库); 仓库 = warehouse (the standard standalone word)"
+   }
+  ]
+ },
+ {
+  "hanzi": "底下",
+  "pinyin": "dǐxia",
+  "meaning_ru": "прямо под (физически)",
+  "meaning_en": "directly underneath",
+  "len_ru": 21,
+  "len_en": 19,
+  "cedict_en": "the location below sth/afterwards",
+  "dataset_meanings": [
+   "the location below sth",
+   "afterwards"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "下边",
+     "下面",
+     "以下"
+    ],
+    "note": "下边 = below/underneath (neutral spoken); 底下 = directly underneath (physical, colloquial); 下面 = below (also 'the following' in discourse); 以下 = below a threshold or 'hereafter' (formal written)"
+   }
+  ]
+ },
+ {
+  "hanzi": "建成",
+  "pinyin": "jiànchéng",
+  "meaning_ru": "завершить строительство",
+  "meaning_en": "complete construction",
+  "len_ru": 23,
+  "len_en": 21,
+  "cedict_en": "to establish/to build",
+  "dataset_meanings": [
+   "to establish",
+   "to build"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "建造",
+     "修建",
+     "建设",
+     "建立"
+    ],
+    "note": "建成 = complete construction (result, project finished); 建造 = construct/build (physical structure, process); 修建 = build/construct (infrastructure, official tone); 建设 = build and develop (large-scale, incl. society/economy); 建立 = found/establish (an organization, system, or relationship)."
+   }
+  ]
+ },
+ {
+  "hanzi": "建造",
+  "pinyin": "jiànzào",
+  "meaning_ru": "строить (физически, процесс)",
+  "meaning_en": "construct (physical structure)",
+  "len_ru": 28,
+  "len_en": 30,
+  "cedict_en": "to construct; to build",
+  "dataset_meanings": [
+   "to construct",
+   "to build"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "建成",
+     "修建",
+     "建设",
+     "建立"
+    ],
+    "note": "建成 = complete construction (result, project finished); 建造 = construct/build (physical structure, process); 修建 = build/construct (infrastructure, official tone); 建设 = build and develop (large-scale, incl. society/economy); 建立 = found/establish (an organization, system, or relationship)."
+   }
+  ]
+ },
+ {
+  "hanzi": "开业",
+  "pinyin": "kāiyè",
+  "meaning_ru": "открыть бизнес (открытие)",
+  "meaning_en": "open a business (event)",
+  "len_ru": 25,
+  "len_en": 23,
+  "cedict_en": "to open a business/to open a practice/open (for business)",
+  "dataset_meanings": [
+   "to open a business",
+   "to open a practice",
+   "open (for business)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "营业"
+    ],
+    "note": "开业 = to open a business for the first time (event, inauguration); 营业 = to be in business/operation (ongoing state, e.g. 营业时间 = business hours)"
+   }
+  ]
+ },
+ {
+  "hanzi": "引",
+  "pinyin": "yǐn",
+  "meaning_ru": "тянуть; привлекать",
+  "meaning_en": "pull; attract; lead",
+  "len_ru": 18,
+  "len_en": 19,
+  "cedict_en": "to draw (e.g. a bow)/to pull/to stretch sth/to extend/to lengthen/to involve or implicate in/to attract/to lead/to guide/to leave/to provide evidence or justification for/old unit of distance equal to 10 丈[zhang4], one-thirtieth of a km or 33.33 meters",
+  "dataset_meanings": [
+   "to draw (e.g. a bow)",
+   "to pull",
+   "to stretch sth",
+   "to extend",
+   "to lengthen",
+   "to involve or implicate in",
+   "to attract",
+   "to lead",
+   "to guide",
+   "to leave",
+   "to provide evidence or justification for",
+   "old unit of distance equal to 10 丈, one-thirtieth of a km or 33.33 meters"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "拔",
+     "抽",
+     "拉"
+    ],
+    "note": "拔 = pull out forcefully (stuck objects: teeth, nails, weeds); 抽 = extract with sliding motion (cards, draw liquid, smoke); 引 = pull/attract/lead (abstract or directional, guide); 拉 = pull toward oneself (rope, handle, bow strings)"
+   }
+  ]
+ },
+ {
+  "hanzi": "引进",
+  "pinyin": "yǐnjìn",
+  "meaning_ru": "ввозить; внедрять (извне)",
+  "meaning_en": "bring in from outside; import",
+  "len_ru": 25,
+  "len_en": 29,
+  "cedict_en": "to recommend/to introduce (from outside)",
+  "dataset_meanings": [
+   "to recommend",
+   "to introduce (from outside)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "介绍"
+    ],
+    "note": "介绍 = introduce a person, concept, or product to an audience; 引进 = bring in/import from outside (technology, talent, foreign goods)."
+   }
+  ]
+ }
+]

@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "黑暗",
+  "pinyin": "hēiʼàn",
+  "meaning_ru": "тьма; тёмный",
+  "meaning_en": "darkness; dark",
+  "semantic_tags": [
+   "abstract_quality",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "含",
+  "pinyin": "hán",
+  "meaning_ru": "содержать; держать во рту",
+  "meaning_en": "to contain; hold in mouth",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "地面",
+  "pinyin": "dìmiàn",
+  "meaning_ru": "земля; поверхность",
+  "meaning_en": "ground; surface",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "纯",
+  "pinyin": "chún",
+  "meaning_ru": "чистый; беспримесный",
+  "meaning_en": "pure; unmixed",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "稳",
+  "pinyin": "wěn",
+  "meaning_ru": "устойчивый; стабильный",
+  "meaning_en": "steady; stable",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "遇见",
+  "pinyin": "yùjiàn",
+  "meaning_ru": "встретить",
+  "meaning_en": "to meet; run into",
+  "semantic_tags": [
+   "action_movement",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "夫妻",
+  "pinyin": "fūqī",
+  "meaning_ru": "супруги",
+  "meaning_en": "married couple",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "眼泪",
+  "pinyin": "yǎnlèi",
+  "meaning_ru": "слёзы",
+  "meaning_en": "tears",
+  "semantic_tags": [
+   "body",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "隔",
+  "pinyin": "gé",
+  "meaning_ru": "отделять; через (интервал)",
+  "meaning_en": "to separate; at interval",
+  "semantic_tags": [
+   "spatial_relation",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "供应",
+  "pinyin": "gōngyìng",
+  "meaning_ru": "снабжать; поставлять",
+  "meaning_en": "to supply; provide",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "战胜",
+  "pinyin": "zhànshèng",
+  "meaning_ru": "победить; одолеть",
+  "meaning_en": "to defeat; overcome",
+  "semantic_tags": [
+   "military_conflict",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "密",
+  "pinyin": "mì",
+  "meaning_ru": "густой; тайный",
+  "meaning_en": "dense; secret",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "独自",
+  "pinyin": "dúzì",
+  "meaning_ru": "в одиночку; сам",
+  "meaning_en": "alone; by oneself",
+  "semantic_tags": [
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "大哥",
+  "pinyin": "dàgē",
+  "meaning_ru": "старший брат",
+  "meaning_en": "eldest brother",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "大众",
+  "pinyin": "dàzhòng",
+  "meaning_ru": "массы; широкая публика",
+  "meaning_en": "the masses; public",
+  "semantic_tags": [
+   "society_public",
+   "person"
+  ]
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "hanzi": "制成",
+  "pinyin": "zhìchéng",
+  "meaning_ru": "изготовить; сделать из",
+  "meaning_en": "to make into; manufacture",
+  "semantic_tags": [
+   "industry_production",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "赠",
+  "pinyin": "zèng",
+  "meaning_ru": "дарить; преподносить",
+  "meaning_en": "to give as a gift",
+  "semantic_tags": [
+   "action_daily",
+   "transaction"
+  ]
+ },
+ {
+  "hanzi": "初期",
+  "pinyin": "chūqī",
+  "meaning_ru": "начальный период",
+  "meaning_en": "early stage",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "搞好",
+  "pinyin": "gǎohǎo",
+  "meaning_ru": "хорошо сделать; наладить",
+  "meaning_en": "to do well; manage well",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "敲门",
+  "pinyin": "qiāomén",
+  "meaning_ru": "стучать в дверь",
+  "meaning_en": "to knock on a door",
+  "semantic_tags": [
+   "action_daily",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "污水",
+  "pinyin": "wūshuǐ",
+  "meaning_ru": "сточные воды",
+  "meaning_en": "sewage; wastewater",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "增大",
+  "pinyin": "zēngdà",
+  "meaning_ru": "увеличивать(ся)",
+  "meaning_en": "to enlarge; increase",
+  "semantic_tags": [
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "开幕",
+  "pinyin": "kāimù",
+  "meaning_ru": "открываться (о событии)",
+  "meaning_en": "to open (an event)",
+  "semantic_tags": [
+   "event_situation",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "特有",
+  "pinyin": "tèyǒu",
+  "meaning_ru": "присущий; характерный",
+  "meaning_en": "specific to; distinctive",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "领带",
+  "pinyin": "lǐngdài",
+  "meaning_ru": "галстук",
+  "meaning_en": "necktie",
+  "semantic_tags": [
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "依法",
+  "pinyin": "yīfǎ",
+  "meaning_ru": "по закону; согласно праву",
+  "meaning_en": "according to law",
+  "semantic_tags": [
+   "law_justice",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "先后",
+  "pinyin": "xiānhòu",
+  "meaning_ru": "по очереди; один за другим",
+  "meaning_en": "in succession; order",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "摩托",
+  "pinyin": "mótuō",
+  "meaning_ru": "мотоцикл; мотор",
+  "meaning_en": "motorbike; motor",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "烤肉",
+  "pinyin": "kǎoròu",
+  "meaning_ru": "жареное мясо; барбекю",
+  "meaning_en": "barbecue; roast meat",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "明亮",
+  "pinyin": "míngliàng",
+  "meaning_ru": "яркий; светлый",
+  "meaning_en": "bright; well-lit",
+  "semantic_tags": [
+   "evaluation_adj",
+   "perception"
+  ]
+ }
+]

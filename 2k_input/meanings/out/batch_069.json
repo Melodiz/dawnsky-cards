@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "停留",
+  "pinyin": "tíngliú",
+  "meaning_ru": "задержаться; остановиться",
+  "meaning_en": "to stay; stop over",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "将要",
+  "pinyin": "jiāngyào",
+  "meaning_ru": "вот-вот; скоро",
+  "meaning_en": "will; be about to",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "如下",
+  "pinyin": "rúxià",
+  "meaning_ru": "следующим образом",
+  "meaning_en": "as follows",
+  "semantic_tags": [
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "肠",
+  "pinyin": "cháng",
+  "meaning_ru": "кишечник; кишка",
+  "meaning_en": "intestines; gut",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "体力",
+  "pinyin": "tǐlì",
+  "meaning_ru": "физическая сила",
+  "meaning_en": "physical strength",
+  "semantic_tags": [
+   "body_state",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "气体",
+  "pinyin": "qìtǐ",
+  "meaning_ru": "газ",
+  "meaning_en": "gas (substance)",
+  "semantic_tags": [
+   "material_substance",
+   "science_research"
+  ]
+ },
+ {
+  "hanzi": "视为",
+  "pinyin": "shìwéi",
+  "meaning_ru": "считать; рассматривать как",
+  "meaning_en": "to regard as",
+  "semantic_tags": [
+   "cognition",
+   "judgement"
+  ]
+ },
+ {
+  "hanzi": "低于",
+  "pinyin": "dīyú",
+  "meaning_ru": "ниже чем",
+  "meaning_en": "to be lower than",
+  "semantic_tags": [
+   "abstract_relation",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "夜间",
+  "pinyin": "yèjiān",
+  "meaning_ru": "ночью; в ночное время",
+  "meaning_en": "at night; nighttime",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "会谈",
+  "pinyin": "huìtán",
+  "meaning_ru": "переговоры",
+  "meaning_en": "talks; discussions",
+  "semantic_tags": [
+   "communication_formal",
+   "politics_government"
+  ]
+ },
+ {
+  "hanzi": "沟",
+  "pinyin": "gōu",
+  "meaning_ru": "канава; ров",
+  "meaning_en": "ditch; groove",
+  "semantic_tags": [
+   "geography",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "地带",
+  "pinyin": "dìdài",
+  "meaning_ru": "зона; пояс",
+  "meaning_en": "zone; belt",
+  "semantic_tags": [
+   "geography",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "违规",
+  "pinyin": "wéiguī",
+  "meaning_ru": "нарушить правила",
+  "meaning_en": "to break the rules",
+  "semantic_tags": [
+   "law_admin_doc",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "分成",
+  "pinyin": "fēnchéng",
+  "meaning_ru": "разделить на",
+  "meaning_en": "to divide into",
+  "semantic_tags": [
+   "process_change",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "慌",
+  "pinyin": "huāng",
+  "meaning_ru": "паниковать; растеряться",
+  "meaning_en": "to panic; flustered",
+  "semantic_tags": [
+   "emotion",
+   "body_state"
+  ]
+ }
+]

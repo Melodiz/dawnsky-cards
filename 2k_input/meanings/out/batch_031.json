@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "发送",
+  "pinyin": "fāsòng",
+  "meaning_ru": "отправлять; посылать",
+  "meaning_en": "to send; transmit",
+  "semantic_tags": [
+   "action_communication",
+   "technology"
+  ]
+ },
+ {
+  "hanzi": "播出",
+  "pinyin": "bōchū",
+  "meaning_ru": "транслировать; вещать",
+  "meaning_en": "to broadcast; air",
+  "semantic_tags": [
+   "media_news",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "巧",
+  "pinyin": "qiǎo",
+  "meaning_ru": "как раз; кстати; ловкий",
+  "meaning_en": "coincidentally; skillful",
+  "semantic_tags": [
+   "manner_adverb",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "整整",
+  "pinyin": "zhěngzhěng",
+  "meaning_ru": "целых; ровно (весь)",
+  "meaning_en": "whole; full",
+  "semantic_tags": [
+   "degree_adverb",
+   "quantity"
+  ]
+ },
+ {
+  "hanzi": "亲人",
+  "pinyin": "qīnrén",
+  "meaning_ru": "близкие родственники",
+  "meaning_en": "close relatives",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "早已",
+  "pinyin": "zǎoyǐ",
+  "meaning_ru": "давно; уже давно",
+  "meaning_en": "long since",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "南部",
+  "pinyin": "nánbù",
+  "meaning_ru": "южная часть; юг",
+  "meaning_en": "southern part",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "没用",
+  "pinyin": "méiyòng",
+  "meaning_ru": "бесполезный",
+  "meaning_en": "useless",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "另一方面",
+  "pinyin": "lìngyīfāngmiàn",
+  "meaning_ru": "с другой стороны",
+  "meaning_en": "on the other hand",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "排名",
+  "pinyin": "páimíng",
+  "meaning_ru": "рейтинг; место в списке",
+  "meaning_en": "ranking; to rank",
+  "semantic_tags": [
+   "abstract_relation",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "行李",
+  "pinyin": "xíngli",
+  "meaning_ru": "багаж",
+  "meaning_en": "luggage",
+  "semantic_tags": [
+   "transport_travel",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "东部",
+  "pinyin": "dōngbù",
+  "meaning_ru": "восточная часть; восток",
+  "meaning_en": "eastern part",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "传来",
+  "pinyin": "chuánlái",
+  "meaning_ru": "доноситься; приходить (о вестях)",
+  "meaning_en": "to come through (sound/news)",
+  "semantic_tags": [
+   "action_movement",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "高速公路",
+  "pinyin": "gāosùgōnglù",
+  "meaning_ru": "автомагистраль; шоссе",
+  "meaning_en": "expressway; highway",
+  "semantic_tags": [
+   "transport_travel",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "北部",
+  "pinyin": "běibù",
+  "meaning_ru": "северная часть; север",
+  "meaning_en": "northern part",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ]
+ }
+]

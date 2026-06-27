@@ -1,0 +1,7862 @@
+[
+ {
+  "members": [
+   "再也",
+   "不再"
+  ],
+  "sides": {
+   "再也": "2k",
+   "不再": "5k"
+  },
+  "kind": "join_existing",
+  "note": "再也 requires an explicit negative (再也不/没); 不再 already contains the negation and stands alone",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "有一点儿",
+   "有点儿",
+   "有点",
+   "稍微",
+   "略微"
+  ],
+  "sides": {
+   "有一点儿": "2k",
+   "有点儿": "2k",
+   "有点": "5k",
+   "稍微": "5k",
+   "略微": "5k"
+  },
+  "kind": "join_existing",
+  "note": "有点儿/有点 lean negative/complaint; 有一点儿 is neutral-emphatic; 稍微 is neutral and milder; 略微 is formal/literary",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "差一点儿",
+   "差点儿",
+   "几乎",
+   "将近"
+  ],
+  "sides": {
+   "差一点儿": "2k",
+   "差点儿": "2k",
+   "几乎": "5k",
+   "将近": "5k"
+  },
+  "kind": "join_existing",
+  "note": "差一点儿/差点儿 = narrowly avoided an outcome; 几乎 = close to complete/total; 将近 = close to a quantity (number/amount)",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "成人",
+   "大人"
+  ],
+  "sides": {
+   "成人": "2k",
+   "大人": "2k"
+  },
+  "kind": "new",
+  "note": "成人 is formal/written (legal, official contexts); 大人 is colloquial/spoken, used esp. when talking to children",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "依照",
+   "按照",
+   "据"
+  ],
+  "sides": {
+   "依照": "2k",
+   "按照": "5k",
+   "据": "5k"
+  },
+  "kind": "join_existing",
+  "note": "依照 = according to a standard/procedure (formal); 按照 = according to a rule/plan (neutral); 据 = according to a source/information (can introduce evidence)",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "倒是",
+   "反倒",
+   "相反"
+  ],
+  "sides": {
+   "倒是": "2k",
+   "反倒": "5k",
+   "相反": "5k"
+  },
+  "kind": "join_existing",
+  "note": "倒是 softens or concedes with mild contrast; 反倒 stresses an unexpected reversal (colloquial); 相反 is a neutral adjective/connector meaning 'opposite'",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "全体",
+   "全都",
+   "全部"
+  ],
+  "sides": {
+   "全体": "2k",
+   "全都": "2k",
+   "全部": "5k"
+  },
+  "kind": "join_existing",
+  "note": "全体 = the whole group/collective (noun-like, e.g. 全体成员); 全部 = the entire amount/all of it (noun modifier); 全都 = adverb 'all without exception' (modifies verbs)",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "古",
+   "古老",
+   "古代",
+   "悠久"
+  ],
+  "sides": {
+   "古": "2k",
+   "古老": "5k",
+   "古代": "5k",
+   "悠久": "5k"
+  },
+  "kind": "join_existing",
+  "note": "古 = ancient as attributive morpheme/adj (古城); 古老 = age-old (people/things still existing); 古代 = noun 'ancient times'; 悠久 = long-standing (history/tradition, formal praise)",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "烦",
+   "烦恼",
+   "恼火"
+  ],
+  "sides": {
+   "烦": "2k",
+   "烦恼": "5k",
+   "恼火": "5k"
+  },
+  "kind": "join_existing",
+  "note": "烦 = feel irritated or to bother sb (verb/adj, surface reaction); 烦恼 = inner vexation, worried trouble (deeper emotional state); 恼火 = angry-annoyed (stronger, outward irritation)",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "整天",
+   "成天"
+  ],
+  "sides": {
+   "整天": "2k",
+   "成天": "5k"
+  },
+  "kind": "join_existing",
+  "note": "整天 = neutral 'all day long'; 成天 = colloquial, often implies complaint or tedium",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "好多",
+   "许多",
+   "不少",
+   "众多"
+  ],
+  "sides": {
+   "好多": "2k",
+   "许多": "5k",
+   "不少": "5k",
+   "众多": "5k"
+  },
+  "kind": "join_existing",
+  "note": "好多 = colloquial 'a lot'; 许多 = neutral written 'many'; 不少 = litotes 'quite a few' (understatement); 众多 = formal 'numerous' (large collectives)",
+  "shared_tag": "quantity"
+ },
+ {
+  "members": [
+   "老是",
+   "总",
+   "向来",
+   "历来"
+  ],
+  "sides": {
+   "老是": "2k",
+   "总": "5k",
+   "向来": "5k",
+   "历来": "5k"
+  },
+  "kind": "join_existing",
+  "note": "老是 = colloquial 'always keeps doing' (complaint tone); 总 = general 'always/overall'; 向来 = habitual 'has always been (this way)'; 历来 = historical precedent 'has always been (by tradition)'",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "独自",
+   "单独"
+  ],
+  "sides": {
+   "独自": "2k",
+   "单独": "5k"
+  },
+  "kind": "join_existing",
+  "note": "独自 = alone, by oneself (manner adverb, emphasizes solitude); 单独 = separately/individually (can modify nouns or verbs, emphasizes separation from a group)",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "胡同儿",
+   "胡同",
+   "巷"
+  ],
+  "sides": {
+   "胡同儿": "2k",
+   "胡同": "5k",
+   "巷": "5k"
+  },
+  "kind": "join_existing",
+  "note": "胡同儿/胡同 are Beijing erhua variants denoting the traditional hutong alley (culturally specific); 巷 is a general literary word for any narrow lane or alley",
+  "shared_tag": "place"
+ },
+ {
+  "members": [
+   "不一会儿",
+   "片刻"
+  ],
+  "sides": {
+   "不一会儿": "2k",
+   "片刻": "5k"
+  },
+  "kind": "join_existing",
+  "note": "不一会儿 = colloquial 'in a short while' (narrative); 片刻 = literary/formal 'a moment, brief spell'",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "此后",
+   "之后"
+  ],
+  "sides": {
+   "此后": "2k",
+   "之后": "5k"
+  },
+  "kind": "join_existing",
+  "note": "此后 = formal/written 'from this point onward; hereafter' (often opens a new phase); 之后 = general neutral 'after; afterwards' (everyday use)",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "气温",
+   "温度"
+  ],
+  "sides": {
+   "气温": "2k",
+   "温度": "5k"
+  },
+  "kind": "join_existing",
+  "note": "气温 = specifically atmospheric/air temperature (weather/meteorology); 温度 = temperature in any context (body, water, oven, etc.)",
+  "shared_tag": "measurement"
+ },
+ {
+  "members": [
+   "夜里",
+   "夜间",
+   "夜"
+  ],
+  "sides": {
+   "夜里": "2k",
+   "夜间": "2k",
+   "夜": "5k"
+  },
+  "kind": "join_existing",
+  "note": "夜里 = colloquial spoken 'at night'; 夜间 = formal/written 'nighttime' (used in official/technical contexts); 夜 = literary/classical monosyllable",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "那会儿",
+   "那时候"
+  ],
+  "sides": {
+   "那会儿": "2k",
+   "那时候": "2k"
+  },
+  "kind": "new",
+  "note": "那会儿 = colloquial Beijing er-hua; 那时候 = neutral spoken; both mean 'at that time' but register differs",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "这时",
+   "这时候"
+  ],
+  "sides": {
+   "这时": "2k",
+   "这时候": "2k"
+  },
+  "kind": "new",
+  "note": "这时 = written/narrative 'at this point'; 这时候 = colloquial spoken equivalent; interchangeable in meaning, differ in register",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "一带",
+   "区",
+   "地区",
+   "区域"
+  ],
+  "sides": {
+   "一带": "2k",
+   "区": "5k",
+   "地区": "5k",
+   "区域": "5k"
+  },
+  "kind": "join_existing",
+  "note": "一带 = vague 'the area around X' (imprecise, spoken); 区 = administrative district; 地区 = region (geographic/political); 区域 = defined zone (more abstract/technical)",
+  "shared_tag": "place"
+ },
+ {
+  "members": [
+   "尽可能",
+   "尽量"
+  ],
+  "sides": {
+   "尽可能": "2k",
+   "尽量": "5k"
+  },
+  "kind": "join_existing",
+  "note": "尽可能 = 'as far as possible' (emphasizes feasibility limit); 尽量 = 'as much as possible' (emphasizes maximizing effort); overlap is large but 尽量 is shorter and more colloquial",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "志愿",
+   "抱负",
+   "愿望"
+  ],
+  "sides": {
+   "志愿": "2k",
+   "抱负": "5k",
+   "愿望": "5k"
+  },
+  "kind": "join_existing",
+  "note": "志愿 = aspiration + concrete act of volunteering; 抱负 = high ambition (formal, no action); 愿望 = personal wish or desire (emotional, not necessarily acted on)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "宝宝",
+   "宝贝",
+   "娃娃",
+   "婴儿"
+  ],
+  "sides": {
+   "宝宝": "2k",
+   "宝贝": "5k",
+   "娃娃": "5k",
+   "婴儿": "5k"
+  },
+  "kind": "join_existing",
+  "note": "宝宝 = affectionate term for young child (spoken); 宝贝 = broader 'treasure/darling' (child or partner); 娃娃 = child or doll; 婴儿 = formal 'infant/newborn' (clinical)",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "听众",
+   "观众"
+  ],
+  "sides": {
+   "听众": "2k",
+   "观众": "5k"
+  },
+  "kind": "join_existing",
+  "note": "听众 = audience that listens (radio, concert, lecture); 观众 = audience that watches (TV, theater, sports); distinguish by sense organ",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "到来",
+   "到达",
+   "抵达",
+   "来到"
+  ],
+  "sides": {
+   "到来": "2k",
+   "到达": "5k",
+   "抵达": "5k",
+   "来到": "5k"
+  },
+  "kind": "join_existing",
+  "note": "到来 = arrival of events/seasons/eras (often abstract); 到达 = neutral physical arrival at a place; 抵达 = formal written arrival; 来到 = arrive toward the speaker/scene",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "不良",
+   "坏"
+  ],
+  "sides": {
+   "不良": "2k",
+   "坏": "5k"
+  },
+  "kind": "join_existing",
+  "note": "不良 = formal/written 'bad; harmful' (behavior, influence, records); 坏 = general colloquial 'bad; broken/spoiled'; 不良 never used for broken objects",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "秋季",
+   "秋"
+  ],
+  "sides": {
+   "秋季": "2k",
+   "秋": "5k"
+  },
+  "kind": "join_existing",
+  "note": "秋季 = formal/written 'autumn season' (used in official, sports, or compound contexts); 秋 = general spoken/written 'autumn', also used in idioms",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "后面",
+   "背后",
+   "后头",
+   "后"
+  ],
+  "sides": {
+   "后面": "2k",
+   "背后": "2k",
+   "后头": "2k",
+   "后": "5k"
+  },
+  "kind": "join_existing",
+  "note": "后面 = neutral spatial 'behind'; 背后 = behind s.o.'s back (literal or figurative scheming); 后头 = colloquial synonym of 后面; 后 = particle/literary 'after; behind'",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "下边",
+   "底下",
+   "下面",
+   "以下"
+  ],
+  "sides": {
+   "下边": "2k",
+   "底下": "2k",
+   "下面": "5k",
+   "以下": "5k"
+  },
+  "kind": "join_existing",
+  "note": "下边 = below/underneath (neutral spoken); 底下 = directly underneath (physical, colloquial); 下面 = below (also 'the following' in discourse); 以下 = below a threshold or 'hereafter' (formal written)",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "黑色",
+   "黑",
+   "乌黑"
+  ],
+  "sides": {
+   "黑色": "2k",
+   "黑": "2k",
+   "乌黑": "5k"
+  },
+  "kind": "join_existing",
+  "note": "黑色 = black as a color noun (colour category); 黑 = black/dark as predicate adjective; 乌黑 = jet-black (lustrous, used of hair/eyes)",
+  "shared_tag": "color"
+ },
+ {
+  "members": [
+   "蓝色",
+   "蓝",
+   "青"
+  ],
+  "sides": {
+   "蓝色": "2k",
+   "蓝": "5k",
+   "青": "5k"
+  },
+  "kind": "join_existing",
+  "note": "蓝色 = blue as color noun; 蓝 = standard blue adjective; 青 = blue-green/cyan (traditional color term, also means 'young')",
+  "shared_tag": "color"
+ },
+ {
+  "members": [
+   "美好",
+   "美丽",
+   "美"
+  ],
+  "sides": {
+   "美好": "2k",
+   "美丽": "5k",
+   "美": "5k"
+  },
+  "kind": "join_existing",
+  "note": "美好 = beautiful/wonderful applied to abstract things (life, future, memories); 美丽 = physically beautiful (appearance); 美 = root adjective (beautiful) or abbreviation for America",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "盒",
+   "盒子",
+   "箱"
+  ],
+  "sides": {
+   "盒": "2k",
+   "盒子": "5k",
+   "箱": "2k"
+  },
+  "kind": "join_existing",
+  "note": "盒 = small box/case (used as classifier 一盒); 盒子 = small box (standalone noun); 箱 = large box/trunk/suitcase",
+  "shared_tag": "object_home"
+ },
+ {
+  "members": [
+   "男孩儿",
+   "男生",
+   "少年",
+   "小伙子",
+   "青年"
+  ],
+  "sides": {
+   "男孩儿": "2k",
+   "男生": "2k",
+   "少年": "5k",
+   "小伙子": "5k",
+   "青年": "5k"
+  },
+  "kind": "join_existing",
+  "note": "男孩儿 = young boy (child); 男生 = male student/boy (school context); 少年 = teenage youth (10–16); 小伙子 = young man/lad (informal); 青年 = young adult (18–35, formal/official)",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "基本上",
+   "基本"
+  ],
+  "sides": {
+   "基本上": "2k",
+   "基本": "5k"
+  },
+  "kind": "join_existing",
+  "note": "基本上 = purely adverbial 'basically; on the whole'; 基本 = 'basic' (adjective) or 'basically' (adverb) — more versatile but less emphatic as adverb",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "受灾",
+   "灾害",
+   "遭殃"
+  ],
+  "sides": {
+   "受灾": "2k",
+   "灾害": "5k",
+   "遭殃": "5k"
+  },
+  "kind": "join_existing",
+  "note": "灾害 = disaster as a noun (objective); 受灾 = be hit by a disaster (formal verb, official/news register); 遭殃 = suffer a calamity (colloquial, more dramatic/personal)",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "得以",
+   "能够"
+  ],
+  "sides": {
+   "得以": "2k",
+   "能够": "5k"
+  },
+  "kind": "join_existing",
+  "note": "能够 = neutral modal 'can; be able to'; 得以 = formal/literary 'manage to; be enabled to' — implies a prior condition made it possible, cannot start a sentence alone",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "以外",
+   "之外"
+  ],
+  "sides": {
+   "以外": "2k",
+   "之外": "5k"
+  },
+  "kind": "join_existing",
+  "note": "以外 = 'besides; outside of' (common in speech and writing after noun phrases); 之外 = same meaning but more formal/written register",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "两边",
+   "双方"
+  ],
+  "sides": {
+   "两边": "2k",
+   "双方": "5k"
+  },
+  "kind": "join_existing",
+  "note": "两边 = both sides physically (spatial); 双方 = both parties (people or groups in an interaction or negotiation)",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "眼前",
+   "眼下",
+   "目前",
+   "当前"
+  ],
+  "sides": {
+   "眼前": "2k",
+   "眼下": "5k",
+   "目前": "5k",
+   "当前": "5k"
+  },
+  "kind": "join_existing",
+  "note": "眼前 = before one's eyes / spatially in front (can mean 'right now'); 眼下 = right now (spoken, informal); 目前 = at present (neutral formal time adverb); 当前 = current/pressing (formal, implies urgency)",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "年前",
+   "年初"
+  ],
+  "sides": {
+   "年前": "2k",
+   "年初": "2k"
+  },
+  "kind": "new",
+  "note": "年前 = the period before New Year (approaching the holiday); 年初 = the beginning of the year (just after New Year); learners confuse these as both concern the New Year boundary",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "胡子",
+   "胡须"
+  ],
+  "sides": {
+   "胡子": "2k",
+   "胡须": "5k"
+  },
+  "kind": "join_existing",
+  "note": "胡子 = beard/mustache (everyday colloquial); 胡须 = beard/whiskers (more formal or written register)",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "大胆",
+   "勇于",
+   "豪迈"
+  ],
+  "sides": {
+   "大胆": "2k",
+   "勇于": "5k",
+   "豪迈": "5k"
+  },
+  "kind": "join_existing",
+  "note": "大胆 = bold/daring (neutral to mildly pejorative — can imply recklessness); 勇于 = have the courage to do X (positive, always tied to a specific admirable action); 豪迈 = bold-spirited/heroic (literary, broad character trait)",
+  "shared_tag": "personality_trait"
+ },
+ {
+  "members": [
+   "箱",
+   "盒子"
+  ],
+  "sides": {
+   "箱": "2k",
+   "盒子": "5k"
+  },
+  "kind": "join_existing",
+  "note": "箱 is a large rigid container (trunk, chest, suitcase body); 盒子 is a small box or case (jewellery box, gift box). Size and sturdiness distinguish them.",
+  "shared_tag": "object_home"
+ },
+ {
+  "members": [
+   "大脑",
+   "头脑",
+   "脑子"
+  ],
+  "sides": {
+   "大脑": "2k",
+   "头脑": "2k",
+   "脑子": "2k"
+  },
+  "kind": "new",
+  "note": "大脑 = anatomical brain (cerebrum, medical/scientific); 头脑 = intellect/judgement (figurative, somewhat formal: 头脑清醒); 脑子 = brains/mind in everyday colloquial speech (用脑子想想).",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "牌子",
+   "牌"
+  ],
+  "sides": {
+   "牌子": "2k",
+   "牌": "2k"
+  },
+  "kind": "new",
+  "note": "牌子 is the colloquial spoken form for brand or sign (名牌子); 牌 is the base form and also covers playing cards and game tiles — wider range than 牌子.",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "公共汽车",
+   "巴士"
+  ],
+  "sides": {
+   "公共汽车": "2k",
+   "巴士": "2k"
+  },
+  "kind": "new",
+  "note": "公共汽车 is the standard mainland Chinese term for city bus; 巴士 is a loanword used in Hong Kong/Taiwan and for intercity coaches in the mainland — more informal or regional.",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "商务",
+   "生意",
+   "买卖",
+   "商业"
+  ],
+  "sides": {
+   "商务": "2k",
+   "生意": "2k",
+   "买卖": "2k",
+   "商业": "5k"
+  },
+  "kind": "join_existing",
+  "note": "商务 = business in a formal/official sense (商务舱, 商务部); 商业 = commerce as an industry or sector; 生意 = everyday running of a trade or shop; 买卖 = the concrete act of buying and selling (transactions).",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "变为",
+   "变成",
+   "变得",
+   "变",
+   "成为",
+   "成"
+  ],
+  "sides": {
+   "变为": "2k",
+   "变成": "5k",
+   "变得": "5k",
+   "变": "5k",
+   "成为": "5k",
+   "成": "5k"
+  },
+  "kind": "join_existing",
+  "note": "变为 = transform into (formal/written); 变成 = turn into (neutral, result-focused); 变得 = become + adj (only used before adjectives); 变 = to change/shift (bare verb); 成为 = become in the sense of taking on a role/status; 成 = succeed/become (short, often in complements like 变成).",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "相机",
+   "照相机"
+  ],
+  "sides": {
+   "相机": "2k",
+   "照相机": "5k"
+  },
+  "kind": "join_existing",
+  "note": "照相机 is the full traditional form (photo-taking machine); 相机 is the shortened modern everyday form. 相机 also informally covers digital cameras and some video cameras.",
+  "shared_tag": "object_tech"
+ },
+ {
+  "members": [
+   "不能不",
+   "不得不",
+   "不免",
+   "势必"
+  ],
+  "sides": {
+   "不能不": "2k",
+   "不得不": "5k",
+   "不免": "5k",
+   "势必": "5k"
+  },
+  "kind": "join_existing",
+  "note": "不能不 = logical double negation 'cannot not do' (moral/logical compulsion, slightly emphatic); 不得不 = have no choice but (external circumstances force it); 不免 = unavoidably/can't help but (natural, emotionally toned); 势必 = bound to/inevitably (predicting an outcome, formal).",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "证",
+   "证明",
+   "证书"
+  ],
+  "sides": {
+   "证": "2k",
+   "证明": "5k",
+   "证书": "5k"
+  },
+  "kind": "join_existing",
+  "note": "证 = an ID document or pass (身份证); also a bound morpheme 'to certify'; 证明 = to prove something / a letter of proof (less formal document); 证书 = a formal certificate, diploma, or credentials.",
+  "shared_tag": "law_admin_doc"
+ },
+ {
+  "members": [
+   "名人",
+   "明星"
+  ],
+  "sides": {
+   "名人": "2k",
+   "明星": "5k"
+  },
+  "kind": "join_existing",
+  "note": "名人 = famous or notable person in any field (history, politics, sport, arts); 明星 = star/celebrity, typically in entertainment (film, music, sport).",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "明亮",
+   "明"
+  ],
+  "sides": {
+   "明亮": "2k",
+   "明": "5k"
+  },
+  "kind": "join_existing",
+  "note": "明亮 = physically bright, well-lit (describes a room, light source); 明 = bright/clear in a broader sense, including clarity of understanding (明白) and as a literary adjective.",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "变为",
+   "变",
+   "改变",
+   "变化",
+   "变动"
+  ],
+  "sides": {
+   "变为": "2k",
+   "变": "5k",
+   "改变": "5k",
+   "变化": "5k",
+   "变动": "2k"
+  },
+  "kind": "join_existing",
+  "note": "变为 = become/turn into (directional result); 变 = general change/become (simple verb); 改变 = change intentionally (transitive, deliberate); 变化 = change/variation (noun/verb, natural process); 变动 = fluctuation/shift (noun, often institutional or unstable)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "孩子",
+   "小朋友",
+   "儿童",
+   "小孩"
+  ],
+  "sides": {
+   "孩子": "2k",
+   "小朋友": "2k",
+   "儿童": "5k",
+   "小孩": "5k"
+  },
+  "kind": "join_existing",
+  "note": "孩子 = child/kid (neutral everyday); 小朋友 = child/little friend (warm, adult addressing a child); 儿童 = children (formal/official, e.g. 儿童节); 小孩 = kid (colloquial, slightly diminutive)",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "子女",
+   "儿女"
+  ],
+  "sides": {
+   "子女": "2k",
+   "儿女": "2k"
+  },
+  "kind": "new",
+  "note": "子女 = sons and daughters (neutral formal, legal/statistical contexts); 儿女 = sons and daughters (slightly more literary/emotional register)",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "字",
+   "汉字",
+   "词",
+   "文字"
+  ],
+  "sides": {
+   "字": "2k",
+   "汉字": "2k",
+   "词": "5k",
+   "文字": "5k"
+  },
+  "kind": "join_existing",
+  "note": "字 = single character/letter (unit of script); 汉字 = Chinese character specifically; 词 = word as a lexical unit (may be multi-character); 文字 = writing system/script (collective, abstract)",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "胸部",
+   "胸",
+   "胸膛"
+  ],
+  "sides": {
+   "胸部": "2k",
+   "胸": "5k",
+   "胸膛": "5k"
+  },
+  "kind": "join_existing",
+  "note": "胸 = chest (bare root, used in compounds); 胸部 = chest area (clinical/anatomical, with 部 suffix); 胸膛 = chest/bosom (physical cavity, more literary/vivid)",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "公交车",
+   "大巴"
+  ],
+  "sides": {
+   "公交车": "2k",
+   "大巴": "2k"
+  },
+  "kind": "new",
+  "note": "公交车 = city transit bus (urban public transport system); 大巴 = coach/large bus (intercity or hired, not a scheduled city line)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "华语",
+   "语言",
+   "语",
+   "母语"
+  ],
+  "sides": {
+   "华语": "2k",
+   "语言": "5k",
+   "语": "5k",
+   "母语": "5k"
+  },
+  "kind": "join_existing",
+  "note": "华语 = Chinese language (term used in SE Asia diaspora communities); 语言 = language in general (abstract noun); 语 = language/speech (suffix/root in compounds); 母语 = native/mother tongue (any language)",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "班级",
+   "课堂"
+  ],
+  "sides": {
+   "班级": "2k",
+   "课堂": "2k"
+  },
+  "kind": "new",
+  "note": "班级 = class as an administrative unit (the homeroom group); 课堂 = classroom/class as the instructional space or session",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "寒冷",
+   "炎热",
+   "严寒"
+  ],
+  "sides": {
+   "寒冷": "2k",
+   "炎热": "5k",
+   "严寒": "5k"
+  },
+  "kind": "join_existing",
+  "note": "寒冷 = cold/frigid (general descriptive adj); 严寒 = bitter/severe cold (stronger, literary); 炎热 = scorching hot (weather, intense)",
+  "shared_tag": "weather"
+ },
+ {
+  "members": [
+   "色",
+   "颜色",
+   "色彩"
+  ],
+  "sides": {
+   "色": "2k",
+   "颜色": "2k",
+   "色彩": "5k"
+  },
+  "kind": "join_existing",
+  "note": "颜色 = color (neutral everyday noun); 色 = color (root morpheme, used in compounds, also literary); 色彩 = color with tonal/figurative nuance (also: flavor, hue in art/rhetoric)",
+  "shared_tag": "color"
+ },
+ {
+  "members": [
+   "闭幕式",
+   "开幕式",
+   "典礼",
+   "仪式"
+  ],
+  "sides": {
+   "闭幕式": "2k",
+   "开幕式": "5k",
+   "典礼": "5k",
+   "仪式": "5k"
+  },
+  "kind": "join_existing",
+  "note": "闭幕式 = closing ceremony (specific); 开幕式 = opening ceremony (specific); 典礼 = formal solemn ceremony (graduation, state); 仪式 = ritual/rite (broader, including religious or symbolic acts)",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "好友",
+   "亲人",
+   "伙伴"
+  ],
+  "sides": {
+   "好友": "2k",
+   "亲人": "2k",
+   "伙伴": "5k"
+  },
+  "kind": "join_existing",
+  "note": "好友 = close personal friend (emotional intimacy, non-family); 亲人 = close relatives/loved ones (family bond); 伙伴 = companion/partner (cooperative relationship, not necessarily intimate)",
+  "shared_tag": "relationship_social"
+ },
+ {
+  "members": [
+   "巧",
+   "正好"
+  ],
+  "sides": {
+   "巧": "2k",
+   "正好": "5k"
+  },
+  "kind": "join_existing",
+  "note": "巧 = coincidentally; also means skillful (dual meaning, context-dependent); 正好 = just right/as it happens (timing/fit without the skillful nuance)",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "煤",
+   "煤炭"
+  ],
+  "sides": {
+   "煤": "2k",
+   "煤炭": "5k"
+  },
+  "kind": "join_existing",
+  "note": "煤 = coal (common root word, everyday use); 煤炭 = coal (fuller formal/industrial term, e.g. in reports or energy sector)",
+  "shared_tag": "material_substance"
+ },
+ {
+  "members": [
+   "外套",
+   "羽绒服"
+  ],
+  "sides": {
+   "外套": "2k",
+   "羽绒服": "5k"
+  },
+  "kind": "join_existing",
+  "note": "外套 = coat/jacket (general outerwear, any material); 羽绒服 = down jacket (specific insulated garment type)",
+  "shared_tag": "clothing"
+ },
+ {
+  "members": [
+   "色",
+   "颜色",
+   "彩色",
+   "色彩"
+  ],
+  "sides": {
+   "色": "2k",
+   "颜色": "2k",
+   "彩色": "2k",
+   "色彩": "5k"
+  },
+  "kind": "join_existing",
+  "note": "色 is a morpheme/literary noun; 颜色 is the everyday neutral noun for 'color'; 彩色 means 'multicolored/color' as an attribute (彩色电视); 色彩 (5k) is literary/figurative 'hue/flavor'",
+  "shared_tag": "color"
+ },
+ {
+  "members": [
+   "寒冷",
+   "凉",
+   "严寒",
+   "冻"
+  ],
+  "sides": {
+   "寒冷": "2k",
+   "凉": "2k",
+   "严寒": "5k",
+   "冻": "5k"
+  },
+  "kind": "join_existing",
+  "note": "凉 is mildly cool/cold (pleasant or neutral); 寒冷 is unpleasantly cold (weather adjective); 严寒 (5k) is literary 'bitter/severe cold'; 冻 (5k) is the physical sensation/action of freezing",
+  "shared_tag": "weather"
+ },
+ {
+  "members": [
+   "潮",
+   "潮湿"
+  ],
+  "sides": {
+   "潮": "2k",
+   "潮湿": "5k"
+  },
+  "kind": "join_existing",
+  "note": "潮湿 (5k) is the neutral adjective for damp/humid; 潮 alone adds connotations of excessive or unpleasant moisture (also used colloquially for 'trendy')",
+  "shared_tag": "weather"
+ },
+ {
+  "members": [
+   "脸色",
+   "气色",
+   "神色",
+   "神情",
+   "表情"
+  ],
+  "sides": {
+   "脸色": "2k",
+   "气色": "5k",
+   "神色": "5k",
+   "神情": "5k",
+   "表情": "5k"
+  },
+  "kind": "join_existing",
+  "note": "脸色 = facial color/complexion or mood-signaling look; 气色 (5k) = overall complexion/vitality; 神色 (5k) = expression/air (more literary); 神情 (5k) = mental/emotional look; 表情 (5k) = facial expression (deliberate/mimicked)",
+  "shared_tag": "body_state"
+ },
+ {
+  "members": [
+   "常见",
+   "常用",
+   "普通",
+   "罕见"
+  ],
+  "sides": {
+   "常见": "2k",
+   "常用": "2k",
+   "普通": "5k",
+   "罕见": "5k"
+  },
+  "kind": "join_existing",
+  "note": "常见 = often encountered (frequency of sighting); 常用 = frequently used in practice; 普通 (5k) = ordinary/unremarkable (neutral quality judgment); 罕见 (5k) = seldom seen (opposite anchor)",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "音乐会",
+   "演唱会"
+  ],
+  "sides": {
+   "音乐会": "2k",
+   "演唱会": "2k"
+  },
+  "kind": "new",
+  "note": "音乐会 covers any music concert (instrumental or vocal); 演唱会 is specifically a vocal/singing concert or pop/rock live show",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "喜剧",
+   "相声",
+   "漫画"
+  ],
+  "sides": {
+   "喜剧": "2k",
+   "相声": "2k",
+   "漫画": "5k"
+  },
+  "kind": "join_existing",
+  "note": "喜剧 = comedy as a dramatic genre (film/stage); 相声 = traditional Chinese two-person comic dialogue (performance art); 漫画 (5k) = visual comic/manga/cartoon",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "深厚",
+   "深",
+   "深沉"
+  ],
+  "sides": {
+   "深厚": "2k",
+   "深": "5k",
+   "深沉": "5k"
+  },
+  "kind": "join_existing",
+  "note": "深 (5k) = physically deep or dark (color); 深厚 = deep and solid (feelings, foundation, skills); 深沉 (5k) = deeply reserved or brooding (personality/mood)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "院",
+   "院子",
+   "花园"
+  ],
+  "sides": {
+   "院": "2k",
+   "院子": "2k",
+   "花园": "5k"
+  },
+  "kind": "join_existing",
+  "note": "院子 = an enclosed courtyard/yard (residential); 院 = courtyard morpheme, also suffix for institutions (医院, 法院); 花园 (5k) = a planted garden, not just a bare yard",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "米饭",
+   "米",
+   "稻谷"
+  ],
+  "sides": {
+   "米饭": "2k",
+   "米": "5k",
+   "稻谷": "5k"
+  },
+  "kind": "join_existing",
+  "note": "稻谷 (5k) = unhusked paddy rice (field/raw grain); 米 (5k) = husked uncooked rice (also 'meter'); 米饭 = cooked/steamed rice served as food",
+  "shared_tag": "food"
+ },
+ {
+  "members": [
+   "凉水",
+   "开水"
+  ],
+  "sides": {
+   "凉水": "2k",
+   "开水": "5k"
+  },
+  "kind": "join_existing",
+  "note": "开水 (5k) = boiled water (hot or cooled but safe); 凉水 = cool/unboiled water (raw tap water, not safe to drink by Chinese convention)",
+  "shared_tag": "drink"
+ },
+ {
+  "members": [
+   "赔",
+   "亏损",
+   "损失",
+   "吃亏"
+  ],
+  "sides": {
+   "赔": "2k",
+   "亏损": "5k",
+   "损失": "5k",
+   "吃亏": "5k"
+  },
+  "kind": "join_existing",
+  "note": "赔 = to compensate someone for a loss or sell at a loss; 损失 (5k) = loss/damage (the noun); 亏损 (5k) = financial deficit (business accounting); 吃亏 (5k) = to come out worse off, be at a disadvantage (colloquial)",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "物价",
+   "价格",
+   "代价",
+   "降价"
+  ],
+  "sides": {
+   "物价": "2k",
+   "价格": "5k",
+   "代价": "5k",
+   "降价": "2k"
+  },
+  "kind": "join_existing",
+  "note": "价格 (5k) = market price of a specific item; 物价 = commodity price level in general (macro); 代价 (5k) = figurative cost/sacrifice; 降价 = the action of cutting the price",
+  "shared_tag": "money"
+ },
+ {
+  "members": [
+   "含量",
+   "内容"
+  ],
+  "sides": {
+   "含量": "2k",
+   "内容": "5k"
+  },
+  "kind": "join_existing",
+  "note": "内容 (5k) = content as subject matter/substance of a text or topic; 含量 = measurable amount/proportion of a component (e.g. sugar content, nutrient content)",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "爸",
+   "父亲"
+  ],
+  "sides": {
+   "爸": "2k",
+   "父亲": "5k"
+  },
+  "kind": "join_existing",
+  "note": "爸 is the everyday informal word for 'dad'; 父亲 (5k) is the formal/written term for 'father'",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "黑暗",
+   "暗"
+  ],
+  "sides": {
+   "黑暗": "2k",
+   "暗": "5k"
+  },
+  "kind": "join_existing",
+  "note": "黑暗 is a noun/strong adj (physical or moral darkness); 暗 is a general adj (dim, also covert/secret)",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "难题",
+   "难度",
+   "困难"
+  ],
+  "sides": {
+   "难题": "2k",
+   "难度": "2k",
+   "困难": "5k"
+  },
+  "kind": "join_existing",
+  "note": "难题 = a specific hard problem (noun); 难度 = abstract difficulty level (measure); 困难 = general hardship/difficulty (noun or adj)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "密",
+   "秘密",
+   "保密"
+  ],
+  "sides": {
+   "密": "2k",
+   "秘密": "5k",
+   "保密": "5k"
+  },
+  "kind": "join_existing",
+  "note": "密 adj = dense OR covert; 秘密 = secret (noun/adj, purely about secrecy); 保密 = the act of keeping something secret",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "存款",
+   "存",
+   "押金"
+  ],
+  "sides": {
+   "存款": "2k",
+   "存": "5k",
+   "押金": "5k"
+  },
+  "kind": "join_existing",
+  "note": "存款 = bank savings/deposit (noun); 存 = verb to deposit or store; 押金 = refundable security deposit, not savings",
+  "shared_tag": "money"
+ },
+ {
+  "members": [
+   "研制",
+   "开发",
+   "发展"
+  ],
+  "sides": {
+   "研制": "2k",
+   "开发": "5k",
+   "发展": "5k"
+  },
+  "kind": "join_existing",
+  "note": "研制 = R&D-based creation of a specific product; 开发 = exploit/open up (resources, software, land); 发展 = grow/expand something already existing",
+  "shared_tag": "industry_production"
+ },
+ {
+  "members": [
+   "辞典",
+   "字典"
+  ],
+  "sides": {
+   "辞典": "2k",
+   "字典": "5k"
+  },
+  "kind": "join_existing",
+  "note": "辞典 = dictionary of words and phrases; 字典 = dictionary of individual characters (by stroke/radical)",
+  "shared_tag": "object_stationery"
+ },
+ {
+  "members": [
+   "送到",
+   "捎",
+   "转达"
+  ],
+  "sides": {
+   "送到": "2k",
+   "捎": "5k",
+   "转达": "5k"
+  },
+  "kind": "join_existing",
+  "note": "送到 = physically deliver to a destination; 捎 = deliver/bring along en passant; 转达 = relay a verbal or written message via a third party",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "图画",
+   "图片",
+   "图"
+  ],
+  "sides": {
+   "图画": "2k",
+   "图片": "5k",
+   "图": "5k"
+  },
+  "kind": "join_existing",
+  "note": "图画 = hand-drawn or painted picture (artwork); 图片 = photo or printed/digital image; 图 = functional visual: diagram, chart, or map",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "灾",
+   "灾害"
+  ],
+  "sides": {
+   "灾": "2k",
+   "灾害": "5k"
+  },
+  "kind": "join_existing",
+  "note": "灾 often functions as a morpheme in compounds (灾区, 救灾); 灾害 is the standard standalone formal noun for disaster",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "院长",
+   "校长",
+   "主任"
+  ],
+  "sides": {
+   "院长": "2k",
+   "校长": "5k",
+   "主任": "5k"
+  },
+  "kind": "join_existing",
+  "note": "院长 = head of an institute/hospital/college (院); 校长 = head of a school or university (校); 主任 = head of a department or office",
+  "shared_tag": "occupation"
+ },
+ {
+  "members": [
+   "远处",
+   "遥远"
+  ],
+  "sides": {
+   "远处": "2k",
+   "遥远": "5k"
+  },
+  "kind": "join_existing",
+  "note": "远处 = location noun (the distant place/afar); 遥远 = adjective describing something as remote/far-off",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "电子版",
+   "版本"
+  ],
+  "sides": {
+   "电子版": "2k",
+   "版本": "5k"
+  },
+  "kind": "join_existing",
+  "note": "电子版 = specifically the electronic/digital format; 版本 = any version or edition regardless of medium",
+  "shared_tag": "media_news"
+ },
+ {
+  "members": [
+   "驾照",
+   "执照"
+  ],
+  "sides": {
+   "驾照": "2k",
+   "执照": "5k"
+  },
+  "kind": "join_existing",
+  "note": "驾照 = driver's license only; 执照 = any business/professional permit or license",
+  "shared_tag": "law_admin_doc"
+ },
+ {
+  "members": [
+   "早晨",
+   "清晨"
+  ],
+  "sides": {
+   "早晨": "2k",
+   "清晨": "5k"
+  },
+  "kind": "join_existing",
+  "note": "早晨 = early morning (everyday, colloquial); 清晨 = early morning (literary, poetic register)",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "早期",
+   "初期",
+   "初",
+   "阶段",
+   "时期"
+  ],
+  "sides": {
+   "早期": "2k",
+   "初期": "2k",
+   "初": "5k",
+   "阶段": "5k",
+   "时期": "5k"
+  },
+  "kind": "join_existing",
+  "note": "早期 = relatively early stage (not necessarily the very beginning); 初期 = initial/opening stage (the very start); 初 = the beginning point itself; 阶段 = one phase in a development sequence; 时期 = a broader era or epoch",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "末",
+   "月底",
+   "期末"
+  ],
+  "sides": {
+   "末": "2k",
+   "月底": "2k",
+   "期末": "2k"
+  },
+  "kind": "new",
+  "note": "末 = end/last in general (literary); 月底 = the end of the current month (time marker); 期末 = end-of-term (educational context only)",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "华人",
+   "华裔",
+   "华侨"
+  ],
+  "sides": {
+   "华人": "2k",
+   "华裔": "5k",
+   "华侨": "5k"
+  },
+  "kind": "join_existing",
+  "note": "华人 = any ethnic Chinese person (worldwide); 华裔 = person of Chinese descent born/raised abroad; 华侨 = Chinese national residing overseas (retains PRC/ROC citizenship)",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "扩展",
+   "扩张",
+   "扩充",
+   "扩大"
+  ],
+  "sides": {
+   "扩展": "2k",
+   "扩张": "5k",
+   "扩充": "5k",
+   "扩大": "5k"
+  },
+  "kind": "join_existing",
+  "note": "扩展 = broaden scope or function (neutral); 扩张 = aggressive territorial/political expansion; 扩充 = expand by adding members or items; 扩大 = increase in scale or size",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "积极性",
+   "干劲",
+   "劲头"
+  ],
+  "sides": {
+   "积极性": "2k",
+   "干劲": "5k",
+   "劲头": "5k"
+  },
+  "kind": "join_existing",
+  "note": "积极性 = enthusiasm as an abstract capacity or quality (formal); 干劲 = work drive, practical zeal (colloquial); 劲头 = vigor or spirit in the moment (colloquial, vivid)",
+  "shared_tag": "attitude"
+ },
+ {
+  "members": [
+   "轻易",
+   "容易"
+  ],
+  "sides": {
+   "轻易": "2k",
+   "容易": "5k"
+  },
+  "kind": "join_existing",
+  "note": "轻易 = carelessly easy; often used in negative 不轻易 (\"not lightly/rashly\"); 容易 = inherently easy or prone to (neutral, describes nature of thing)",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "礼",
+   "礼节",
+   "礼貌"
+  ],
+  "sides": {
+   "礼": "2k",
+   "礼节": "5k",
+   "礼貌": "5k"
+  },
+  "kind": "join_existing",
+  "note": "礼 = broad concept: ritual propriety AND gift; 礼节 = specific ceremonial etiquette and rites; 礼貌 = everyday polite manner/courtesy",
+  "shared_tag": "culture"
+ },
+ {
+  "members": [
+   "电灯",
+   "灯"
+  ],
+  "sides": {
+   "电灯": "2k",
+   "灯": "5k"
+  },
+  "kind": "join_existing",
+  "note": "电灯 = electric lamp specifically (contrasts with oil/candle); 灯 = any lamp or light source",
+  "shared_tag": "object_home"
+ },
+ {
+  "members": [
+   "哥",
+   "大哥"
+  ],
+  "sides": {
+   "哥": "2k",
+   "大哥": "2k"
+  },
+  "kind": "new",
+  "note": "哥 = any elder brother (non-specific); 大哥 = the eldest brother specifically, or respectful address to an older male",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "例子",
+   "案例",
+   "榜样"
+  ],
+  "sides": {
+   "例子": "2k",
+   "案例": "5k",
+   "榜样": "5k"
+  },
+  "kind": "join_existing",
+  "note": "例子 = a general illustrative instance or example; 案例 = a documented case study or legal precedent; 榜样 = a role model, a positive example to emulate",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "途中",
+   "一路"
+  ],
+  "sides": {
+   "途中": "2k",
+   "一路": "5k"
+  },
+  "kind": "join_existing",
+  "note": "途中 = at some point during the journey (locational/temporal mid-way); 一路 = throughout the entire journey, all the way (adverbial, emphasises continuity)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "眼",
+   "眼睛"
+  ],
+  "sides": {
+   "眼": "2k",
+   "眼睛": "2k"
+  },
+  "kind": "new",
+  "note": "眼 is the morpheme/bound form (used in compounds); 眼睛 is the standalone noun for 'eye(s)' in everyday speech.",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "比如说",
+   "比如",
+   "例如",
+   "譬如"
+  ],
+  "sides": {
+   "比如说": "2k",
+   "比如": "5k",
+   "例如": "5k",
+   "譬如": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'for example': 比如说 is spoken/emphatic (adds 说); 比如 is casual spoken; 例如 is neutral written; 譬如 is literary/formal.",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "例子",
+   "案例",
+   "典型",
+   "榜样"
+  ],
+  "sides": {
+   "例子": "2k",
+   "案例": "5k",
+   "典型": "5k",
+   "榜样": "5k"
+  },
+  "kind": "join_existing",
+  "note": "例子 = neutral instance/example; 案例 = case/precedent (legal or analytical); 典型 = classic/representative example; 榜样 = role model to emulate.",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "极了",
+   "极",
+   "极其",
+   "万分"
+  ],
+  "sides": {
+   "极了": "2k",
+   "极": "5k",
+   "极其": "5k",
+   "万分": "5k"
+  },
+  "kind": "join_existing",
+  "note": "极了 is a post-adjective suffix (好极了); 极 is the free adverb (pre-adj, neutral); 极其 is formal/written; 万分 is used only with emotional adjectives.",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "迷",
+   "歌迷",
+   "球迷"
+  ],
+  "sides": {
+   "迷": "2k",
+   "歌迷": "2k",
+   "球迷": "5k"
+  },
+  "kind": "join_existing",
+  "note": "迷 is the general 'fan/enthusiast' (used as suffix or standalone); 歌迷 = music/singer fan specifically; 球迷 = sports fan specifically.",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "肥",
+   "胖"
+  ],
+  "sides": {
+   "肥": "2k",
+   "胖": "5k"
+  },
+  "kind": "join_existing",
+  "note": "胖 = fat/plump (of people); 肥 = fat (of animals, or clothes that are loose/baggy); using 肥 for a person is blunt/pejorative.",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "外文",
+   "外语"
+  ],
+  "sides": {
+   "外文": "2k",
+   "外语": "2k"
+  },
+  "kind": "new",
+  "note": "外语 = foreign language (general, spoken or written); 外文 = foreign language in its written/textual form (used for books, documents, written materials).",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "名牌儿",
+   "名牌"
+  ],
+  "sides": {
+   "名牌儿": "2k",
+   "名牌": "5k"
+  },
+  "kind": "join_existing",
+  "note": "名牌儿 is the 儿化 colloquial/Beijing spoken variant of 名牌; same meaning but 名牌 is the standard written/formal form used in most contexts.",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "美食",
+   "佳肴"
+  ],
+  "sides": {
+   "美食": "2k",
+   "佳肴": "5k"
+  },
+  "kind": "join_existing",
+  "note": "美食 = fine food/cuisine (everyday word, also used as a category: 美食文化); 佳肴 = delicious dishes (literary/formal, used in toasts or written descriptions).",
+  "shared_tag": "food"
+ },
+ {
+  "members": [
+   "优良",
+   "一流"
+  ],
+  "sides": {
+   "优良": "2k",
+   "一流": "5k"
+  },
+  "kind": "join_existing",
+  "note": "一流 = top-ranked, first-rate (comparative rank: 一流大学); 优良 = excellent in quality/character (traits, breeds, traditions — not a rank comparison).",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "水灾",
+   "洪水"
+  ],
+  "sides": {
+   "水灾": "2k",
+   "洪水": "5k"
+  },
+  "kind": "join_existing",
+  "note": "水灾 = flood disaster (the event/calamity, emphasis on damage); 洪水 = floodwater/deluge (the water itself, also used figuratively).",
+  "shared_tag": "nature"
+ },
+ {
+  "members": [
+   "脚步",
+   "步伐"
+  ],
+  "sides": {
+   "脚步": "2k",
+   "步伐": "5k"
+  },
+  "kind": "join_existing",
+  "note": "脚步 = footstep (concrete, audible — the sound or act of steps); 步伐 = pace/gait (manner and rhythm of walking, more abstract/formal).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "情感",
+   "感觉"
+  ],
+  "sides": {
+   "情感": "2k",
+   "感觉": "5k"
+  },
+  "kind": "join_existing",
+  "note": "情感 = emotion/feeling (affective, emotional bond — 情感上的联系); 感觉 = feeling/sensation (perception via senses or gut impression — more neutral/cognitive).",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "厂长",
+   "主任",
+   "经理"
+  ],
+  "sides": {
+   "厂长": "2k",
+   "主任": "5k",
+   "经理": "5k"
+  },
+  "kind": "join_existing",
+  "note": "厂长 = factory director (industrial plant head); 主任 = department/office director/head (institutional); 经理 = manager/director (commercial company).",
+  "shared_tag": "occupation"
+ },
+ {
+  "members": [
+   "从中",
+   "其中",
+   "当中"
+  ],
+  "sides": {
+   "从中": "2k",
+   "其中": "5k",
+   "当中": "5k"
+  },
+  "kind": "join_existing",
+  "note": "从中 = from within a situation (source of action: 从中学习); 其中 = among them (anaphoric reference to a set); 当中 = in the middle/among (spatial or centered focus).",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "高速公路",
+   "高速"
+  ],
+  "sides": {
+   "高速公路": "2k",
+   "高速": "5k"
+  },
+  "kind": "join_existing",
+  "note": "高速公路 = expressway (full formal name, the road itself); 高速 alone = high-speed (adj) or informal short for 高速公路 — also means speed level, not just a road.",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "女孩儿",
+   "女生",
+   "女朋友",
+   "女孩",
+   "少女",
+   "姑娘"
+  ],
+  "sides": {
+   "女孩儿": "2k",
+   "女生": "2k",
+   "女朋友": "2k",
+   "女孩": "5k",
+   "少女": "5k",
+   "姑娘": "5k"
+  },
+  "kind": "join_existing",
+  "note": "女孩/女孩儿 = girl any age (neutral); 女生 = female student/schoolgirl context; 少女 = teenage/maiden (literary); 姑娘 = warm colloquial young woman; 女朋友 = romantic girlfriend only",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "煤气",
+   "气体",
+   "天然气",
+   "燃料",
+   "柴油"
+  ],
+  "sides": {
+   "煤气": "2k",
+   "气体": "2k",
+   "天然气": "5k",
+   "燃料": "2k",
+   "柴油": "5k"
+  },
+  "kind": "join_existing",
+  "note": "气体 = gas as a physical state (science); 天然气 = natural gas (utility); 煤气 = coal gas / domestic gas (cooking/heating); 柴油 = diesel fuel (vehicles); 燃料 = fuel in general (any type)",
+  "shared_tag": "material_substance"
+ },
+ {
+  "members": [
+   "好玩儿",
+   "有趣",
+   "乐趣",
+   "趣味",
+   "娱乐"
+  ],
+  "sides": {
+   "好玩儿": "2k",
+   "有趣": "5k",
+   "乐趣": "5k",
+   "趣味": "5k",
+   "娱乐": "5k"
+  },
+  "kind": "join_existing",
+  "note": "好玩儿 = fun/amusing (colloquial, about an activity); 有趣 = interesting/amusing (neutral adj); 乐趣 = joy/delight (noun, inner feeling); 趣味 = personal taste/liking or charm (noun); 娱乐 = entertainment/leisure (noun/verb, broader)",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "福",
+   "好运",
+   "运气",
+   "福气"
+  ],
+  "sides": {
+   "福": "2k",
+   "好运": "2k",
+   "运气": "5k",
+   "福气": "5k"
+  },
+  "kind": "join_existing",
+  "note": "运气 = luck (good or bad, neutral); 好运 = good luck (simply positive); 福 = blessing/fortune (cultural, ceremonial); 福气 = blessed lot/good fortune (earned or destined, warm)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "渐渐",
+   "逐渐",
+   "逐步"
+  ],
+  "sides": {
+   "渐渐": "2k",
+   "逐渐": "5k",
+   "逐步": "5k"
+  },
+  "kind": "join_existing",
+  "note": "渐渐 = gradually (natural, often imperceptible change); 逐渐 = gradually (more formal, measurable process); 逐步 = step by step (deliberate, planned stages)",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "货",
+   "百货",
+   "商品",
+   "产品",
+   "物资"
+  ],
+  "sides": {
+   "货": "2k",
+   "百货": "2k",
+   "商品": "5k",
+   "产品": "5k",
+   "物资": "5k"
+  },
+  "kind": "join_existing",
+  "note": "货 = goods/cargo (general, incl. freight); 百货 = general merchandise (retail variety); 商品 = commodity (market economics term); 产品 = product (manufactured output); 物资 = supplies/materials (logistics, often strategic)",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "拿到",
+   "取得",
+   "得到",
+   "获得",
+   "获"
+  ],
+  "sides": {
+   "拿到": "2k",
+   "取得": "5k",
+   "得到": "5k",
+   "获得": "5k",
+   "获": "5k"
+  },
+  "kind": "join_existing",
+  "note": "拿到 = get/grab (physical, hands-on); 得到 = get/receive (general, neutral); 获得 = obtain/gain (formal, achievements/awards); 取得 = achieve/obtain (formal, results/qualifications); 获 = obtain/capture (formal morpheme, written style)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "男士",
+   "男子",
+   "绅士"
+  ],
+  "sides": {
+   "男士": "2k",
+   "男子": "5k",
+   "绅士": "5k"
+  },
+  "kind": "join_existing",
+  "note": "男子 = man/male (formal noun, e.g. in 男子组); 男士 = gentleman/man (polite address, service contexts); 绅士 = gentleman (implies refined conduct, Western overtone)",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "走开",
+   "离开"
+  ],
+  "sides": {
+   "走开": "2k",
+   "离开": "5k"
+  },
+  "kind": "join_existing",
+  "note": "走开 = go away / move aside (imperative, abrupt, short-range); 离开 = leave/depart (neutral, from a place or person, any distance)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "从中",
+   "其中"
+  ],
+  "sides": {
+   "从中": "2k",
+   "其中": "5k"
+  },
+  "kind": "join_existing",
+  "note": "其中 = among them / from them (anaphoric reference, pointing back); 从中 = from within that / therefrom (extracting benefit or information from a situation)",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "今后",
+   "未来",
+   "前途"
+  ],
+  "sides": {
+   "今后": "2k",
+   "未来": "5k",
+   "前途": "5k"
+  },
+  "kind": "join_existing",
+  "note": "今后 = from now on (time adverb, forward-looking); 未来 = the future (general noun/adj); 前途 = personal prospects/career future (evaluative, about a person's potential)",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "宝石",
+   "宝贵",
+   "珍贵",
+   "珍稀"
+  ],
+  "sides": {
+   "宝石": "2k",
+   "宝贵": "5k",
+   "珍贵": "5k",
+   "珍稀": "5k"
+  },
+  "kind": "join_existing",
+  "note": "宝石 = gemstone (physical object); 宝贵 = valuable/precious (abstract: time, experience); 珍贵 = precious/rare (of objects or moments); 珍稀 = rare and precious (emphasis on scarcity, of species/resources)",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "分数",
+   "级别",
+   "等级",
+   "档次"
+  ],
+  "sides": {
+   "分数": "2k",
+   "级别": "5k",
+   "等级": "5k",
+   "档次": "5k"
+  },
+  "kind": "join_existing",
+  "note": "分数 = score/grade (numeric, exam result); 等级 = rank/grade (hierarchical tier, formal); 级别 = level/rank (position in a system or organization); 档次 = quality tier/class (consumer or social grade, colloquial)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "进去",
+   "进入"
+  ],
+  "sides": {
+   "进去": "2k",
+   "进入": "5k"
+  },
+  "kind": "join_existing",
+  "note": "进去 = go in / enter (directional complement, spoken, toward speaker's perspective); 进入 = enter/go into (formal verb, used in writing and fixed phrases)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "好看",
+   "英俊"
+  ],
+  "sides": {
+   "好看": "2k",
+   "英俊": "5k"
+  },
+  "kind": "join_existing",
+  "note": "好看 = good-looking / nice (general, any gender, also means 'enjoyable to watch'); 英俊 = handsome (specifically of men, more literary/formal)",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "大门",
+   "入口"
+  ],
+  "sides": {
+   "大门": "2k",
+   "入口": "5k"
+  },
+  "kind": "join_existing",
+  "note": "大门 = main gate / grand entrance (physical structure, often imposing); 入口 = entrance/entry (functional point of access, also used abstractly)",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "货",
+   "商品",
+   "产品",
+   "物资"
+  ],
+  "sides": {
+   "货": "2k",
+   "商品": "5k",
+   "产品": "5k",
+   "物资": "5k"
+  },
+  "kind": "join_existing",
+  "note": "货 = physical goods in transit/trade (cargo emphasis); 商品 = commodity as market item; 产品 = manufactured product; 物资 = supplies/material resources (logistics/state context)",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "厅",
+   "大厅",
+   "客厅"
+  ],
+  "sides": {
+   "厅": "2k",
+   "大厅": "2k",
+   "客厅": "5k"
+  },
+  "kind": "join_existing",
+  "note": "厅 = hall or living room (general); 大厅 = large public lobby/hall (e.g. hotel, station); 客厅 = living room specifically in a home",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "身高",
+   "个儿",
+   "个子"
+  ],
+  "sides": {
+   "身高": "2k",
+   "个儿": "2k",
+   "个子": "5k"
+  },
+  "kind": "join_existing",
+  "note": "身高 = measured height (formal, e.g. medical records); 个子 = colloquial stature (general spoken); 个儿 = colloquial stature (northern/Beijing dialect variant)",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "坏处",
+   "有害",
+   "危害",
+   "伤害"
+  ],
+  "sides": {
+   "坏处": "2k",
+   "有害": "2k",
+   "危害": "5k",
+   "伤害": "5k"
+  },
+  "kind": "join_existing",
+  "note": "坏处 = noun: a downside/drawback; 有害 = adjective: harmful/damaging; 危害 = verb/noun: endanger, pose a threat (systemic); 伤害 = verb: to hurt/injure (person, feelings)",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "群体",
+   "伙",
+   "团"
+  ],
+  "sides": {
+   "群体": "2k",
+   "伙": "2k",
+   "团": "5k"
+  },
+  "kind": "join_existing",
+  "note": "群体 = sociological group/community (formal, written); 伙 = colloquial bunch/gang or partner (informal); 团 = a lump/group (also classifier for lumps/troops)",
+  "shared_tag": "society_public"
+ },
+ {
+  "members": [
+   "伙",
+   "伙伴",
+   "伴侣"
+  ],
+  "sides": {
+   "伙": "2k",
+   "伙伴": "5k",
+   "伴侣": "5k"
+  },
+  "kind": "join_existing",
+  "note": "伙 = colloquial group or gang-mate (informal, can be pejorative); 伙伴 = companion/partner (social, friendship); 伴侣 = romantic/life partner (intimate relationship)",
+  "shared_tag": "relationship_social"
+ },
+ {
+  "members": [
+   "好看",
+   "帅哥",
+   "帅",
+   "英俊"
+  ],
+  "sides": {
+   "好看": "2k",
+   "帅哥": "2k",
+   "帅": "5k",
+   "英俊": "5k"
+  },
+  "kind": "join_existing",
+  "note": "好看 = good-looking (anything: people, objects, scenery); 帅 = handsome/cool (adjective, colloquial praise); 帅哥 = handsome guy (vocative address term, colloquial); 英俊 = handsome (formal adjective, men only)",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "内心",
+   "心里"
+  ],
+  "sides": {
+   "内心": "2k",
+   "心里": "5k"
+  },
+  "kind": "join_existing",
+  "note": "内心 = one's inner self/depths (literary, formal introspection); 心里 = in one's heart/mind right now (colloquial, situational feeling)",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "贺卡",
+   "请帖",
+   "请柬",
+   "名片"
+  ],
+  "sides": {
+   "贺卡": "2k",
+   "请帖": "5k",
+   "请柬": "5k",
+   "名片": "5k"
+  },
+  "kind": "join_existing",
+  "note": "贺卡 = greeting/congratulations card (holidays, birthdays); 请帖 = invitation card (traditional style); 请柬 = formal invitation card (official/written); 名片 = business card (professional identity)",
+  "shared_tag": "object_stationery"
+ },
+ {
+  "members": [
+   "地面",
+   "面",
+   "平面"
+  ],
+  "sides": {
+   "地面": "2k",
+   "面": "5k",
+   "平面": "5k"
+  },
+  "kind": "join_existing",
+  "note": "地面 = the ground/floor (physical underfoot surface); 面 = any face or surface (general, also spatial classifier); 平面 = flat plane (geometric/technical term)",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "毕业生",
+   "研究生",
+   "毕业"
+  ],
+  "sides": {
+   "毕业生": "2k",
+   "研究生": "5k",
+   "毕业": "5k"
+  },
+  "kind": "join_existing",
+  "note": "毕业 = to graduate (the act); 毕业生 = graduate (person who has finished any degree); 研究生 = graduate student (currently enrolled in postgraduate study)",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "所长",
+   "组长",
+   "首",
+   "领导",
+   "领导人",
+   "领袖"
+  ],
+  "sides": {
+   "所长": "2k",
+   "组长": "2k",
+   "首": "2k",
+   "领导": "5k",
+   "领导人": "5k",
+   "领袖": "5k"
+  },
+  "kind": "join_existing",
+  "note": "首 = head/chief (literary, also classifier for songs/poems); 组长 = small team/group leader; 所长 = head of an institute or bureau; 领导 = everyday boss/leader (also verb: to lead); 领导人 = official leader (formal title); 领袖 = top political figure/chief (elevated, reverential)",
+  "shared_tag": "occupation"
+ },
+ {
+  "members": [
+   "灰色",
+   "灰"
+  ],
+  "sides": {
+   "灰色": "2k",
+   "灰": "5k"
+  },
+  "kind": "join_existing",
+  "note": "灰 = ash; gray (basic adjective, also means ash/dust); 灰色 = gray (color noun compound, more specific to the color itself; also used metaphorically for ambiguity)",
+  "shared_tag": "color"
+ },
+ {
+  "members": [
+   "绿色",
+   "绿",
+   "青"
+  ],
+  "sides": {
+   "绿色": "2k",
+   "绿": "5k",
+   "青": "5k"
+  },
+  "kind": "join_existing",
+  "note": "绿 = green (basic color adjective); 绿色 = green (color noun; also metaphor for eco-friendly); 青 = blue-green (traditional color term, also means young/unripe)",
+  "shared_tag": "color"
+ },
+ {
+  "members": [
+   "头",
+   "脑袋",
+   "首"
+  ],
+  "sides": {
+   "头": "5k",
+   "脑袋": "5k",
+   "首": "2k"
+  },
+  "kind": "join_existing",
+  "note": "头 is neutral 'head' (body part, also top/beginning); 脑袋 is colloquial/informal; 首 is a classifier for songs/poems or literary 'chief/head' — not the body part",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "旅馆",
+   "宾馆",
+   "酒店"
+  ],
+  "sides": {
+   "旅馆": "2k",
+   "宾馆": "5k",
+   "酒店": "5k"
+  },
+  "kind": "join_existing",
+  "note": "旅馆 is a generic/older word for inn or hotel; 宾馆 is a standard/state-run hotel; 酒店 is modern, often upscale — same concept but grading in formality and class",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "房屋",
+   "屋",
+   "屋子",
+   "住房",
+   "公寓"
+  ],
+  "sides": {
+   "房屋": "2k",
+   "屋": "2k",
+   "屋子": "5k",
+   "住房": "2k",
+   "公寓": "5k"
+  },
+  "kind": "join_existing",
+  "note": "房屋 is formal 'building/house'; 屋 is literary/short for room or house; 屋子 is colloquial 'room'; 住房 emphasises residential function/housing as a social concept; 公寓 specifically means apartment building",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "老家",
+   "故乡",
+   "家乡"
+  ],
+  "sides": {
+   "老家": "2k",
+   "故乡": "5k",
+   "家乡": "5k"
+  },
+  "kind": "join_existing",
+  "note": "老家 is colloquial 'native hometown' (where family roots are); 家乡 is the everyday spoken word for hometown; 故乡 is literary/formal for native place",
+  "shared_tag": "place"
+ },
+ {
+  "members": [
+   "丈夫",
+   "老公"
+  ],
+  "sides": {
+   "丈夫": "2k",
+   "老公": "2k"
+  },
+  "kind": "new",
+  "note": "丈夫 is the neutral/formal word for husband; 老公 is colloquial and affectionate — same referent, different register",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "前头",
+   "前面",
+   "前",
+   "面前"
+  ],
+  "sides": {
+   "前头": "2k",
+   "前面": "2k",
+   "前": "5k",
+   "面前": "5k"
+  },
+  "kind": "join_existing",
+  "note": "前 is the base morpheme (front/before); 前面 and 前头 are synonymous locatives (ahead/in front), 前头 being slightly more colloquial; 面前 means 'in front of / before (someone)', always person-referential",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "事实上",
+   "实际上",
+   "其实"
+  ],
+  "sides": {
+   "事实上": "2k",
+   "实际上": "5k",
+   "其实": "5k"
+  },
+  "kind": "join_existing",
+  "note": "事实上 stresses known facts ('the fact is...'); 实际上 stresses practical/real-world reality; 其实 is conversational and corrects an assumption ('actually...')",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "快点儿",
+   "赶快",
+   "赶紧"
+  ],
+  "sides": {
+   "快点儿": "2k",
+   "赶快": "5k",
+   "赶紧": "5k"
+  },
+  "kind": "join_existing",
+  "note": "快点儿 is an exclamatory urge ('hurry up!', often directed at others); 赶快 is an adverb meaning 'quickly, hurry' (neutral volition); 赶紧 emphasises self-motivated promptness to avoid missing an opportunity",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "多久",
+   "久"
+  ],
+  "sides": {
+   "多久": "2k",
+   "久": "5k"
+  },
+  "kind": "join_existing",
+  "note": "多久 is a question word asking 'how long?'; 久 is a plain adjective/adverb meaning 'long (time)' used in statements",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "公路",
+   "道路",
+   "高速"
+  ],
+  "sides": {
+   "公路": "2k",
+   "道路": "5k",
+   "高速": "5k"
+  },
+  "kind": "join_existing",
+  "note": "公路 is a public road/highway (general); 道路 is formal 'road/path' (also figurative); 高速 specifically means expressway/motorway (also 'high speed')",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "闲",
+   "空闲",
+   "休闲"
+  ],
+  "sides": {
+   "闲": "2k",
+   "空闲": "5k",
+   "休闲": "5k"
+  },
+  "kind": "join_existing",
+  "note": "闲 is an adjective 'idle, free (not busy)'; 空闲 is a noun/adj for free time/spare time; 休闲 specifically means leisure, relaxation as an activity",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "超",
+   "超过",
+   "高于"
+  ],
+  "sides": {
+   "超": "5k",
+   "超过": "5k",
+   "高于": "2k"
+  },
+  "kind": "join_existing",
+  "note": "超 is a prefix/verb meaning 'exceed a threshold' or 'super-'; 超过 is a verb 'to exceed, surpass' (quantity or performance); 高于 means 'higher than' and is specifically comparative for levels/values",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "诚信",
+   "名誉"
+  ],
+  "sides": {
+   "诚信": "2k",
+   "名誉": "5k"
+  },
+  "kind": "join_existing",
+  "note": "诚信 is an internal quality — honesty and integrity as character; 名誉 is one's external reputation / good name as perceived by others",
+  "shared_tag": "personality_trait"
+ },
+ {
+  "members": [
+   "小声",
+   "口气",
+   "声音",
+   "嗓子"
+  ],
+  "sides": {
+   "小声": "2k",
+   "口气": "5k",
+   "声音": "5k",
+   "嗓子": "5k"
+  },
+  "kind": "join_existing",
+  "note": "小声 is a manner adverb 'in a low voice'; 声音 is 'sound/voice' as a physical phenomenon; 嗓子 is the physical throat/vocal organ; 口气 is the tone or attitude conveyed by speech",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "前头",
+   "前面",
+   "前",
+   "面前",
+   "跟前"
+  ],
+  "sides": {
+   "前头": "2k",
+   "前面": "2k",
+   "前": "5k",
+   "面前": "5k",
+   "跟前": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All relate to 'in front'. 前 is the bare morpheme; 前面 is neutral 'in front (of sth)'; 前头 is colloquial spoken; 面前 is 'before sb' (relational, often figurative); 跟前 is 'right beside/in front of sb' (very close proximity).",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "里头",
+   "里面",
+   "内"
+  ],
+  "sides": {
+   "里头": "2k",
+   "里面": "5k",
+   "内": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'inside/interior'. 内 is a formal/written morpheme (内部, 国内); 里面 is everyday spoken (physical space); 里头 is colloquial/northern spoken.",
+  "shared_tag": "location"
+ },
+ {
+  "members": [
+   "空中",
+   "天上",
+   "天空",
+   "太空"
+  ],
+  "sides": {
+   "空中": "2k",
+   "天上": "2k",
+   "天空": "5k",
+   "太空": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All involve sky/air. 空中 = mid-air/airspace (where planes fly); 天上 = up in the sky/heavens (celestial, poetic); 天空 = the sky as a visual expanse (noun); 太空 = outer space (beyond atmosphere).",
+  "shared_tag": "location"
+ },
+ {
+  "members": [
+   "没事儿",
+   "没什么",
+   "不要紧"
+  ],
+  "sides": {
+   "没事儿": "2k",
+   "没什么": "2k",
+   "不要紧": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All dismiss a concern. 没事儿 is colloquial Beijing-dialect (erhua); 没什么 is neutral ('it's nothing / not much'); 不要紧 is polite reassurance ('it doesn't matter'), slightly more formal.",
+  "shared_tag": "communication_emotion"
+ },
+ {
+  "members": [
+   "先后",
+   "陆续",
+   "接连",
+   "纷纷"
+  ],
+  "sides": {
+   "先后": "2k",
+   "陆续": "5k",
+   "接连": "5k",
+   "纷纷": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'one after another'. 先后 stresses ordered sequence; 陆续 stresses a gradual continuous stream; 接连 stresses unbroken succession (no gap); 纷纷 stresses many acting simultaneously/in a rush (en masse).",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "种类",
+   "类",
+   "类型",
+   "品种"
+  ],
+  "sides": {
+   "种类": "2k",
+   "类": "5k",
+   "类型": "5k",
+   "品种": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All relate to 'kind/type'. 类 is the abstract class/category (morpheme); 种类 = the variety/range of types (diverse spread); 类型 = a specific classified type; 品种 = breed or commercial variety (biological/product).",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "公斤",
+   "千克"
+  ],
+  "sides": {
+   "公斤": "2k",
+   "千克": "2k"
+  },
+  "kind": "new",
+  "note": "Both mean kilogram. 公斤 is the everyday spoken form; 千克 is the official SI/scientific term, used in technical and written contexts.",
+  "shared_tag": "measurement"
+ },
+ {
+  "members": [
+   "亲密",
+   "密切",
+   "亲热"
+  ],
+  "sides": {
+   "亲密": "2k",
+   "密切": "5k",
+   "亲热": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'close/intimate'. 亲密 = emotional intimacy between people; 密切 = close (of formal relations, connections, cooperation — not personal warmth); 亲热 = warm and affectionate in manner/behavior.",
+  "shared_tag": "relationship_social"
+ },
+ {
+  "members": [
+   "心中",
+   "心里"
+  ],
+  "sides": {
+   "心中": "2k",
+   "心里": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both mean 'in one's heart/mind'. 心里 is everyday spoken; 心中 is literary/formal, often used in written or elevated registers.",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "看上去",
+   "似乎",
+   "好像"
+  ],
+  "sides": {
+   "看上去": "2k",
+   "似乎": "5k",
+   "好像": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All express 'seems like'. 看上去 is specifically visual ('looks like', based on sight); 好像 is colloquial general resemblance; 似乎 is literary/tentative ('it would appear').",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "强度",
+   "力量",
+   "力气"
+  ],
+  "sides": {
+   "强度": "2k",
+   "力量": "5k",
+   "力气": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All involve strength/force. 强度 = measurable intensity/degree (of effort, light, exercise — not personal); 力量 = strength/power as capacity or force (abstract, can be moral); 力气 = physical bodily strength (colloquial, effort of muscles).",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "初中",
+   "中学"
+  ],
+  "sides": {
+   "初中": "2k",
+   "中学": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both name secondary-school institutions. 中学 is the general term covering junior and senior high; 初中 is specifically junior high (grades 7–9), the first three years of 中学.",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "虫子",
+   "昆虫"
+  ],
+  "sides": {
+   "虫子": "2k",
+   "昆虫": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both translate as 'insect'. 昆虫 is the scientific/formal term (true insects only); 虫子 is colloquial and broader — covers bugs, worms, caterpillars, and any crawling creature.",
+  "shared_tag": "animal"
+ },
+ {
+  "members": [
+   "来信",
+   "信"
+  ],
+  "sides": {
+   "来信": "2k",
+   "信": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both involve letters. 信 = letter in general (also: to trust); 来信 = specifically an incoming/received letter (directional: 来 = coming in).",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "早就",
+   "早已",
+   "已"
+  ],
+  "sides": {
+   "早就": "2k",
+   "早已": "2k",
+   "已": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All express 'already/long since'; 早就 stresses the speaker's emphasis (often mild exasperation), 早已 is slightly more literary/neutral, 已 is a literary particle seldom used alone in speech.",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "种类",
+   "类",
+   "类型",
+   "样式",
+   "品种"
+  ],
+  "sides": {
+   "种类": "2k",
+   "类": "5k",
+   "类型": "5k",
+   "样式": "5k",
+   "品种": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All express 'type/kind/variety'; 种类 = range of categories (countable set); 类 = broad class/genus; 类型 = formal typed classification; 样式 = visible style or pattern; 品种 = variety/breed (biological or product).",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "大规模",
+   "大型",
+   "大量"
+  ],
+  "sides": {
+   "大规模": "2k",
+   "大型": "5k",
+   "大量": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All cluster around 'large' but differ: 大规模 = large in scope/scale (of operations or projects); 大型 = large in physical size or category; 大量 = large in quantity/amount.",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "光线",
+   "灯光",
+   "光",
+   "灯"
+  ],
+  "sides": {
+   "光线": "2k",
+   "灯光": "2k",
+   "光": "5k",
+   "灯": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All relate to 'light'; 光 = light in general or 'only/merely'; 灯 = lamp/fixture; 光线 = ray or quality of (natural) light; 灯光 = artificial lighting or stage light.",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "如同",
+   "犹如",
+   "像"
+  ],
+  "sides": {
+   "如同": "2k",
+   "犹如": "5k",
+   "像": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All express comparison 'like/as'; 像 is the common verb 'to resemble'; 如同 and 犹如 are more literary equivalents used in written or formal comparisons, with 犹如 slightly more poetic.",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "好像",
+   "似乎",
+   "看起来"
+  ],
+  "sides": {
+   "好像": "5k",
+   "似乎": "5k",
+   "看起来": "2k"
+  },
+  "kind": "join_existing",
+  "note": "All express 'seems/appears'; 好像 is colloquial and can also mean 'like'; 似乎 is more tentative and written; 看起来 is literal 'looking at it, it seems' — visual-based inference.",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "迟",
+   "迟到"
+  ],
+  "sides": {
+   "迟": "2k",
+   "迟到": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both involve lateness; 迟 is an adjective/adverb ('late; slow') used attributively or in compounds, 迟到 is a resultative verb meaning 'to arrive late' and takes a subject.",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "大声",
+   "响亮",
+   "响"
+  ],
+  "sides": {
+   "大声": "2k",
+   "响亮": "5k",
+   "响": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All describe loudness; 响 = to make sound / be loud (verb/adj, broad); 响亮 = loud and clear (evaluative adj, positive); 大声 = loudly, in a loud voice (manner adverb, neutral).",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "收听",
+   "倾听"
+  ],
+  "sides": {
+   "收听": "2k",
+   "倾听": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both mean 'to listen'; 收听 = tune in to / listen to (radio or broadcast, receiver-oriented); 倾听 = listen attentively to a person (deferential, relational).",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "打电话",
+   "拨打"
+  ],
+  "sides": {
+   "打电话": "2k",
+   "拨打": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both mean to make a phone call; 打电话 is the everyday general expression; 拨打 is more formal/written (used in announcements, instructions: 'please dial…').",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "大都",
+   "大多"
+  ],
+  "sides": {
+   "大都": "2k",
+   "大多": "2k"
+  },
+  "kind": "new",
+  "note": "大都 is a manner adverb (generally, for the most part — literary/formal); 大多 is a quantifier-adverb (most of — focuses on proportion of a set, more colloquial)",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "男人",
+   "男子",
+   "男性",
+   "男"
+  ],
+  "sides": {
+   "男人": "2k",
+   "男子": "5k",
+   "男性": "5k",
+   "男": "5k"
+  },
+  "kind": "join_existing",
+  "note": "男人 = everyday neutral 'man'; 男子 = formal/literary noun (sports, legal); 男性 = gender-category term (demographic/scientific); 男 = bound prefix in compounds",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "会员",
+   "成员",
+   "委员"
+  ],
+  "sides": {
+   "会员": "2k",
+   "成员": "5k",
+   "委员": "5k"
+  },
+  "kind": "join_existing",
+  "note": "会员 = paid/club member (subscription or dues-based); 成员 = member of any group or team (neutral); 委员 = committee member (official role)",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "夫妻",
+   "夫妇"
+  ],
+  "sides": {
+   "夫妻": "2k",
+   "夫妇": "5k"
+  },
+  "kind": "join_existing",
+  "note": "夫妻 = everyday word for a couple (husband and wife, informal/neutral); 夫妇 = slightly more formal/written register",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "意思",
+   "想法",
+   "主意",
+   "大意"
+  ],
+  "sides": {
+   "意思": "2k",
+   "想法": "5k",
+   "主意": "5k",
+   "大意": "5k"
+  },
+  "kind": "join_existing",
+  "note": "意思 = the meaning/sense of words or a signal; 想法 = one's personal viewpoint or thought; 主意 = a concrete plan or idea (actionable); 大意 = the gist or main point of a text",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "可能",
+   "也许",
+   "说不定"
+  ],
+  "sides": {
+   "可能": "2k",
+   "也许": "5k",
+   "说不定": "5k"
+  },
+  "kind": "join_existing",
+  "note": "可能 = possible/maybe (also adj and noun: 'possibility'); 也许 = maybe (pure adverb, colloquial); 说不定 = maybe/who knows (implies genuine uncertainty, idiomatic)",
+  "shared_tag": "judgement"
+ },
+ {
+  "members": [
+   "摩托",
+   "摩托车"
+  ],
+  "sides": {
+   "摩托": "2k",
+   "摩托车": "5k"
+  },
+  "kind": "join_existing",
+  "note": "摩托车 is the standard full word for motorcycle; 摩托 is the abbreviated colloquial form, also used in compounds (摩托艇 etc.)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "猴",
+   "猴子"
+  ],
+  "sides": {
+   "猴": "2k",
+   "猴子": "5k"
+  },
+  "kind": "join_existing",
+  "note": "猴子 is the everyday standalone word for monkey; 猴 is the morpheme/character used in compounds and as the zodiac animal name",
+  "shared_tag": "animal"
+ },
+ {
+  "members": [
+   "型号",
+   "型"
+  ],
+  "sides": {
+   "型号": "2k",
+   "型": "5k"
+  },
+  "kind": "join_existing",
+  "note": "型 = type/model as a bound suffix in compounds; 型号 = the full product model/spec designation (number + type, e.g. iPhone型号)",
+  "shared_tag": "object_tech"
+ },
+ {
+  "members": [
+   "人力",
+   "人工",
+   "劳动"
+  ],
+  "sides": {
+   "人力": "2k",
+   "人工": "5k",
+   "劳动": "5k"
+  },
+  "kind": "join_existing",
+  "note": "人力 = human manpower/capacity (resource planning); 人工 = manual/human-operated (as adj: artificial; or noun: manual labor cost); 劳动 = labor as physical toil (ideological/economic sense)",
+  "shared_tag": "work_career"
+ },
+ {
+  "members": [
+   "药物",
+   "医学"
+  ],
+  "sides": {
+   "药物": "2k",
+   "医学": "2k"
+  },
+  "kind": "new",
+  "note": "药物 = a drug or medication (the substance); 医学 = medicine as a scientific field of study — both translate to 'medicine' in English",
+  "shared_tag": "health_medical"
+ },
+ {
+  "members": [
+   "小姐",
+   "太太",
+   "夫人"
+  ],
+  "sides": {
+   "小姐": "2k",
+   "太太": "5k",
+   "夫人": "5k"
+  },
+  "kind": "join_existing",
+  "note": "小姐 = Miss/young lady (unmarried or customer-service address); 太太 = Mrs./wife (informal respectful); 夫人 = Mrs./wife (formal/honorific, official contexts)",
+  "shared_tag": "politeness"
+ },
+ {
+  "members": [
+   "山区",
+   "地区",
+   "区"
+  ],
+  "sides": {
+   "山区": "2k",
+   "地区": "5k",
+   "区": "5k"
+  },
+  "kind": "join_existing",
+  "note": "区 = administrative district (bound morpheme); 地区 = broader geographic region/area; 山区 = mountain area specifically (topographic subtype)",
+  "shared_tag": "place"
+ },
+ {
+  "members": [
+   "相互",
+   "彼此",
+   "相"
+  ],
+  "sides": {
+   "相互": "2k",
+   "彼此": "5k",
+   "相": "5k"
+  },
+  "kind": "join_existing",
+  "note": "相互 is adverb (modifies a verb: 相互帮助); 彼此 is a pronoun (subject/object slot: 彼此了解); 相 is a literary verb-prefix, not a free adverb.",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "大自然",
+   "自然"
+  ],
+  "sides": {
+   "大自然": "2k",
+   "自然": "5k"
+  },
+  "kind": "join_existing",
+  "note": "大自然 is noun only (the natural world); 自然 is both noun and adverb (naturally, of course). Use 大自然 when emphasizing nature as a whole entity.",
+  "shared_tag": "nature"
+ },
+ {
+  "members": [
+   "嘴巴",
+   "嘴",
+   "口腔"
+  ],
+  "sides": {
+   "嘴巴": "2k",
+   "嘴": "5k",
+   "口腔": "5k"
+  },
+  "kind": "join_existing",
+  "note": "嘴巴 is colloquial (everyday speech); 嘴 is the neutral general form and extends to spouts/nozzles; 口腔 is anatomical/medical (oral cavity).",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "不一定",
+   "未必",
+   "不见得"
+  ],
+  "sides": {
+   "不一定": "2k",
+   "未必": "5k",
+   "不见得": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'not necessarily'. 未必 is written/formal; 不见得 is colloquial spoken; 不一定 is neutral, usable in both registers.",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "用不着",
+   "不必",
+   "甭"
+  ],
+  "sides": {
+   "用不着": "2k",
+   "不必": "5k",
+   "甭": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'no need to'. 不必 is written/formal; 用不着 is colloquial neutral; 甭 is informal Beijing spoken dialect.",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "不曾",
+   "未"
+  ],
+  "sides": {
+   "不曾": "2k",
+   "未": "5k"
+  },
+  "kind": "join_existing",
+  "note": "不曾 stresses experiential negation (have never done); 未 is a literary/written particle meaning 'not yet' with no such experiential nuance.",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "接下来",
+   "接着",
+   "其次"
+  ],
+  "sides": {
+   "接下来": "2k",
+   "接着": "5k",
+   "其次": "5k"
+  },
+  "kind": "join_existing",
+  "note": "接下来 = 'what comes next' in a sequence (neutral); 接着 = immediately following in time (temporal continuity); 其次 = 'secondly' in an enumeration (discourse listing).",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "不光",
+   "不但"
+  ],
+  "sides": {
+   "不光": "2k",
+   "不但": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both mean 'not only'. 不光 is colloquial spoken; 不但 is neutral/written. Both pair with 还/也/而且 in the second clause.",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "不论",
+   "不管",
+   "无论"
+  ],
+  "sides": {
+   "不论": "2k",
+   "不管": "5k",
+   "无论": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'no matter (what/how)'. 不管 is colloquial; 无论 is formal/written; 不论 is intermediate, slightly more formal than 不管.",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "北部",
+   "北方",
+   "北"
+  ],
+  "sides": {
+   "北部": "2k",
+   "北方": "5k",
+   "北": "5k"
+  },
+  "kind": "join_existing",
+  "note": "北 is the basic direction word; 北方 denotes 'the north' as a broad cultural/geographic region; 北部 is 'the northern part of' a specific entity (country, city).",
+  "shared_tag": "direction"
+ },
+ {
+  "members": [
+   "近期",
+   "目前"
+  ],
+  "sides": {
+   "近期": "2k",
+   "目前": "5k"
+  },
+  "kind": "join_existing",
+  "note": "目前 = at present, the current moment (point in time); 近期 = the near term, a span of time close to now (can be past or future).",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "新年",
+   "元旦",
+   "除夕"
+  ],
+  "sides": {
+   "新年": "2k",
+   "元旦": "5k",
+   "除夕": "5k"
+  },
+  "kind": "join_existing",
+  "note": "新年 = New Year in general, often the Lunar New Year; 元旦 = specifically January 1st (solar calendar); 除夕 = New Year's Eve (the night before).",
+  "shared_tag": "date"
+ },
+ {
+  "members": [
+   "国庆",
+   "国庆节"
+  ],
+  "sides": {
+   "国庆": "2k",
+   "国庆节": "5k"
+  },
+  "kind": "join_existing",
+  "note": "国庆节 is the full name of the PRC National Day holiday; 国庆 is the short form used attributively (国庆假期) or in contexts where 节 is understood.",
+  "shared_tag": "date"
+ },
+ {
+  "members": [
+   "面条儿",
+   "面条"
+  ],
+  "sides": {
+   "面条儿": "2k",
+   "面条": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Same food; 面条儿 is the Beijing-dialect erhua variant, more colloquial and regional; 面条 is the standard Mandarin form used in writing and across regions.",
+  "shared_tag": "food"
+ },
+ {
+  "members": [
+   "不在乎",
+   "在乎"
+  ],
+  "sides": {
+   "不在乎": "2k",
+   "在乎": "5k"
+  },
+  "kind": "join_existing",
+  "note": "在乎 = to care/mind (affirmative); 不在乎 = not to care — learners may treat them as interchangeable synonyms rather than a negation pair; each must be used with the correct polarity",
+  "shared_tag": "attitude"
+ },
+ {
+  "members": [
+   "不太",
+   "不大"
+  ],
+  "sides": {
+   "不太": "2k",
+   "不大": "2k"
+  },
+  "kind": "new",
+  "note": "Both mean 'not very', but 不大 also carries 'not often/rarely' (frequency sense); 不太 is neutral degree attenuation only",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "姐",
+   "姐姐"
+  ],
+  "sides": {
+   "姐": "2k",
+   "姐姐": "2k"
+  },
+  "kind": "new",
+  "note": "Same meaning; 姐 is the short bound form used in compounds (e.g. 大姐) or addressing; 姐姐 is the freestanding spoken form for 'older sister'",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "外",
+   "外边",
+   "外面",
+   "之外"
+  ],
+  "sides": {
+   "外": "2k",
+   "外边": "2k",
+   "外面": "2k",
+   "之外": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'outside': 外 is a bound morpheme/prefix; 外边 (colloq.) and 外面 (neutral) are interchangeable locatives; 之外 is a formal/written postposition meaning 'apart from/beyond'",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "一方面",
+   "另一方面"
+  ],
+  "sides": {
+   "一方面": "2k",
+   "另一方面": "2k"
+  },
+  "kind": "new",
+  "note": "Paired connectives: 一方面…另一方面 = 'on the one hand…on the other hand'; learners confuse which clause each introduces or omit the counterpart",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "仅仅",
+   "只不过",
+   "只是",
+   "无非",
+   "不过",
+   "仅"
+  ],
+  "sides": {
+   "仅仅": "2k",
+   "只不过": "2k",
+   "只是": "5k",
+   "无非": "5k",
+   "不过": "5k",
+   "仅": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All restrict scope to 'merely/only': 仅/仅仅 are neutral restrictors; 只不过 and 只是 add a mild dismissive/concessive shade; 无非 = 'nothing but' (slightly emphatic); 不过 doubles as a concessive connector ('however')",
+  "shared_tag": "degree_adverb"
+ },
+ {
+  "members": [
+   "老人",
+   "老头儿",
+   "老年",
+   "年纪"
+  ],
+  "sides": {
+   "老人": "2k",
+   "老头儿": "2k",
+   "老年": "2k",
+   "年纪": "5k"
+  },
+  "kind": "join_existing",
+  "note": "老人 = old person (neutral, general); 老头儿 = old man (colloquial, slightly familiar); 老年 = old age (the life stage/period, not a person label); 年纪 = age in years (often of elderly, colloquial)",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "痛",
+   "疼",
+   "痛苦"
+  ],
+  "sides": {
+   "痛": "2k",
+   "疼": "5k",
+   "痛苦": "5k"
+  },
+  "kind": "join_existing",
+  "note": "痛 = physical pain/ache (neutral); 疼 = physical ache, often with tenderness or affection ('dote on'); 痛苦 = suffering/anguish (emotional or profound physical — a noun/adj)",
+  "shared_tag": "sensation"
+ },
+ {
+  "members": [
+   "大纲",
+   "提纲"
+  ],
+  "sides": {
+   "大纲": "2k",
+   "提纲": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both mean 'outline/synopsis': 大纲 is an official or curricular syllabus (broader scope); 提纲 is a working outline or notes-skeleton for a speech/essay (personal use)",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "出于",
+   "由于"
+  ],
+  "sides": {
+   "出于": "2k",
+   "由于": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both introduce a cause: 由于 = 'due to' (neutral, factual cause, can precede or follow the result clause); 出于 = 'out of' a motive or feeling (always introduces internal motivation, e.g. 出于好意)",
+  "shared_tag": "cause_effect"
+ },
+ {
+  "members": [
+   "原有",
+   "原",
+   "原始"
+  ],
+  "sides": {
+   "原有": "2k",
+   "原": "5k",
+   "原始": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All relate to 'original': 原 = attributive 'former/original' (literary); 原有 = 'pre-existing, what was already there' (factual); 原始 = 'primitive/primordial' or 'raw/source' (strongest sense of going back to origins)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "总体",
+   "全局",
+   "格局"
+  ],
+  "sides": {
+   "总体": "2k",
+   "全局": "5k",
+   "格局": "5k"
+  },
+  "kind": "join_existing",
+  "note": "总体 = overall/in aggregate (scope adverb or adj, e.g. 总体来看); 全局 = the whole situation considered as one unit (often strategic); 格局 = the underlying pattern/configuration of a situation (structural, big-picture framing)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "别的",
+   "其他",
+   "其它"
+  ],
+  "sides": {
+   "别的": "2k",
+   "其他": "5k",
+   "其它": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All mean 'other': 别的 = colloquial 'other/else' (can modify both people and things); 其他 = neutral 'other' (people or things, standard written form); 其它 = variant of 其他 restricted to non-person referents",
+  "shared_tag": "pronoun"
+ },
+ {
+  "members": [
+   "开业",
+   "营业"
+  ],
+  "sides": {
+   "开业": "2k",
+   "营业": "5k"
+  },
+  "kind": "join_existing",
+  "note": "开业 = to open a business for the first time (event, inauguration); 营业 = to be in business/operation (ongoing state, e.g. 营业时间 = business hours)",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "那边",
+   "那里"
+  ],
+  "sides": {
+   "那边": "2k",
+   "那里": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both mean 'over there': 那里 = neutral 'that place/there'; 那边 = 'that side/direction over there' (emphasises spatial direction or side rather than just location)",
+  "shared_tag": "location"
+ },
+ {
+  "members": [
+   "此时",
+   "今"
+  ],
+  "sides": {
+   "此时": "2k",
+   "今": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both mean 'now': 今 is literary/formal (used in set phrases 今日, 今年, or classical prose); 此时 = 'at this moment/right now' (narrative temporal marker, more vivid but still written-register)",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "局",
+   "全局",
+   "局势"
+  ],
+  "sides": {
+   "局": "2k",
+   "全局": "5k",
+   "局势": "5k"
+  },
+  "kind": "join_existing",
+  "note": "局 = bureau/office OR a round/game (classifier); 全局 = the overall situation as a whole; 局势 = the (political/strategic) situation at a given moment — all share the 局 root but differ sharply in meaning",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "笔记",
+   "本子"
+  ],
+  "sides": {
+   "笔记": "2k",
+   "本子": "2k"
+  },
+  "kind": "new",
+  "note": "笔记 = notes (the written content of what one records); 本子 = notebook (the physical object); learners confuse them when translating 'take notes in a notebook'",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "处罚",
+   "惩罚",
+   "制裁"
+  ],
+  "sides": {
+   "处罚": "2k",
+   "惩罚": "5k",
+   "制裁": "5k"
+  },
+  "kind": "join_existing",
+  "note": "处罚 = penalize (administrative, fines); 惩罚 = punish (moral/disciplinary); 制裁 = sanctions (political/legal, formal register)",
+  "shared_tag": "law_justice"
+ },
+ {
+  "members": [
+   "病人",
+   "患者"
+  ],
+  "sides": {
+   "病人": "2k",
+   "患者": "5k"
+  },
+  "kind": "join_existing",
+  "note": "病人 = sick person/patient (everyday spoken); 患者 = patient (formal medical/written context)",
+  "shared_tag": "health_medical"
+ },
+ {
+  "members": [
+   "诗歌",
+   "诗"
+  ],
+  "sides": {
+   "诗歌": "2k",
+   "诗": "5k"
+  },
+  "kind": "join_existing",
+  "note": "诗 = poem or poetry (single work or the art); 诗歌 = poetry as a genre/collective term (slightly more formal)",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "毒",
+   "有毒",
+   "毒品"
+  ],
+  "sides": {
+   "毒": "2k",
+   "有毒": "2k",
+   "毒品": "5k"
+  },
+  "kind": "join_existing",
+  "note": "毒 = poison/venom (noun/morpheme); 有毒 = poisonous/toxic (predicate adjective); 毒品 = narcotics/illegal drugs (law register)",
+  "shared_tag": "health_medical"
+ },
+ {
+  "members": [
+   "体力",
+   "力气",
+   "力量",
+   "有力"
+  ],
+  "sides": {
+   "体力": "2k",
+   "力气": "5k",
+   "力量": "5k",
+   "有力": "2k"
+  },
+  "kind": "join_existing",
+  "note": "体力 = physical stamina/endurance; 力气 = brute physical effort (colloquial); 力量 = strength/force (abstract or collective); 有力 = forceful/powerful (attributive adjective)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "价钱",
+   "价格",
+   "代价",
+   "成本"
+  ],
+  "sides": {
+   "价钱": "2k",
+   "价格": "5k",
+   "代价": "5k",
+   "成本": "5k"
+  },
+  "kind": "join_existing",
+  "note": "价钱 = price (everyday spoken transaction); 价格 = price (market/listed, formal); 代价 = cost/price (figurative sacrifice); 成本 = production/unit cost (business)",
+  "shared_tag": "money"
+ },
+ {
+  "members": [
+   "相片",
+   "图片",
+   "画面"
+  ],
+  "sides": {
+   "相片": "2k",
+   "图片": "5k",
+   "画面": "2k"
+  },
+  "kind": "join_existing",
+  "note": "相片 = photograph (physical/personal print); 图片 = image/picture (digital or generic); 画面 = visual frame/scene (video, screen, painted composition)",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "所在",
+   "地点"
+  ],
+  "sides": {
+   "所在": "2k",
+   "地点": "5k"
+  },
+  "kind": "join_existing",
+  "note": "所在 = whereabouts/location of something (abstract, 'where X is'); 地点 = specific concrete place/venue",
+  "shared_tag": "location"
+ },
+ {
+  "members": [
+   "乘客",
+   "乘务员"
+  ],
+  "sides": {
+   "乘客": "2k",
+   "乘务员": "5k"
+  },
+  "kind": "join_existing",
+  "note": "乘客 = passenger (the rider); 乘务员 = cabin/train attendant (crew serving passengers)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "负责人",
+   "负责"
+  ],
+  "sides": {
+   "负责人": "2k",
+   "负责": "5k"
+  },
+  "kind": "join_existing",
+  "note": "负责人 = the person in charge (noun, a role); 负责 = to be responsible for / to take charge of (verb/adjective)",
+  "shared_tag": "work_career"
+ },
+ {
+  "members": [
+   "价钱",
+   "价",
+   "价格"
+  ],
+  "sides": {
+   "价钱": "2k",
+   "价": "2k",
+   "价格": "5k"
+  },
+  "kind": "join_existing",
+  "note": "价钱 = spoken/retail price (colloquial); 价 = bound morpheme in compounds (不等价, 价值); 价格 = formal market/listed price",
+  "shared_tag": "money"
+ },
+ {
+  "members": [
+   "读音",
+   "语音",
+   "口音"
+  ],
+  "sides": {
+   "读音": "2k",
+   "语音": "2k",
+   "口音": "5k"
+  },
+  "kind": "join_existing",
+  "note": "读音 = pronunciation of a specific character/word (how to read it); 语音 = speech sounds broadly, or voice (tech: voice message); 口音 = regional accent/speech flavor",
+  "shared_tag": "communication_formal"
+ },
+ {
+  "members": [
+   "特性",
+   "特点",
+   "性质"
+  ],
+  "sides": {
+   "特性": "2k",
+   "特点": "5k",
+   "性质": "5k"
+  },
+  "kind": "join_existing",
+  "note": "特性 = intrinsic property, often scientific/technical; 特点 = distinctive feature/trait (neutral, everyday); 性质 = essential nature or character of something",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "纯",
+   "纯洁",
+   "单纯"
+  ],
+  "sides": {
+   "纯": "2k",
+   "纯洁": "5k",
+   "单纯": "5k"
+  },
+  "kind": "join_existing",
+  "note": "纯 = pure/unmixed (physical substance); 纯洁 = morally pure, innocent (of heart); 单纯 = simple, naive (personality trait)",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "静",
+   "安静",
+   "寂静"
+  ],
+  "sides": {
+   "静": "2k",
+   "安静": "5k",
+   "寂静": "5k"
+  },
+  "kind": "join_existing",
+  "note": "静 = quiet/still (literary adj, inner calm); 安静 = quiet without disturbance (environment/behavior, everyday); 寂静 = deep silence (literary, atmospheric)",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "兔",
+   "兔子"
+  ],
+  "sides": {
+   "兔": "2k",
+   "兔子": "5k"
+  },
+  "kind": "join_existing",
+  "note": "兔 = literary/zodiac form, used in compounds (兔年); 兔子 = everyday colloquial word for rabbit/hare",
+  "shared_tag": "animal"
+ },
+ {
+  "members": [
+   "鼠",
+   "老鼠"
+  ],
+  "sides": {
+   "鼠": "2k",
+   "老鼠": "5k"
+  },
+  "kind": "join_existing",
+  "note": "鼠 = literary/formal form, appears in compounds (鼠疫, 鼠标); 老鼠 = everyday colloquial word for mouse/rat",
+  "shared_tag": "animal"
+ },
+ {
+  "members": [
+   "雨",
+   "雨水"
+  ],
+  "sides": {
+   "雨": "2k",
+   "雨水": "2k"
+  },
+  "kind": "new",
+  "note": "雨 = rain as a weather phenomenon; 雨水 = rainwater as a substance, or accumulated rainfall (also a solar term)",
+  "shared_tag": "weather"
+ },
+ {
+  "members": [
+   "读书",
+   "阅读",
+   "朗读",
+   "念"
+  ],
+  "sides": {
+   "读书": "2k",
+   "阅读": "5k",
+   "朗读": "5k",
+   "念": "5k"
+  },
+  "kind": "join_existing",
+  "note": "读书 = read/study broadly (colloquial, often = attend school); 阅读 = read silently (formal, written texts); 朗读 = read aloud expressively; 念 = recite or read aloud (casual)",
+  "shared_tag": "action_learning"
+ },
+ {
+  "members": [
+   "认得",
+   "辨认",
+   "识别"
+  ],
+  "sides": {
+   "认得": "2k",
+   "辨认": "5k",
+   "识别": "5k"
+  },
+  "kind": "join_existing",
+  "note": "认得 = recognize/know someone by face (colloquial, personal acquaintance); 辨认 = identify by careful scrutiny; 识别 = identify/distinguish systematically (technical)",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "餐馆",
+   "饭店",
+   "宾馆",
+   "酒店"
+  ],
+  "sides": {
+   "餐馆": "2k",
+   "饭店": "2k",
+   "宾馆": "5k",
+   "酒店": "5k"
+  },
+  "kind": "join_existing",
+  "note": "餐馆 = restaurant only; 饭店 = restaurant OR hotel (regionally ambiguous); 宾馆 = standard/state hotel; 酒店 = upscale modern hotel",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "有力",
+   "强",
+   "强大"
+  ],
+  "sides": {
+   "有力": "2k",
+   "强": "5k",
+   "强大": "5k"
+  },
+  "kind": "join_existing",
+  "note": "有力 = forceful, effective (of arguments, measures, evidence); 强 = strong/powerful in general; 强大 = powerful and formidable (of entities, nations, forces)",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "疗养",
+   "休养"
+  ],
+  "sides": {
+   "疗养": "2k",
+   "休养": "5k"
+  },
+  "kind": "join_existing",
+  "note": "疗养 = recuperate with medical treatment (sanatorium-style); 休养 = recover through rest (no emphasis on treatment)",
+  "shared_tag": "health_medical"
+ },
+ {
+  "members": [
+   "排名",
+   "名次",
+   "级别",
+   "等级"
+  ],
+  "sides": {
+   "排名": "2k",
+   "名次": "5k",
+   "级别": "5k",
+   "等级": "5k"
+  },
+  "kind": "join_existing",
+  "note": "排名 = ranking/placing (act of ranking or one's rank in a list); 名次 = specific placing in a competition; 级别 = rank level in a hierarchy/system; 等级 = grade or tier in a classification",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "右",
+   "右边"
+  ],
+  "sides": {
+   "右": "2k",
+   "右边": "2k"
+  },
+  "kind": "new",
+  "note": "右 = directional morpheme/adjective (right); 右边 = noun phrase for the right side as a location",
+  "shared_tag": "direction"
+ },
+ {
+  "members": [
+   "排",
+   "列",
+   "排列"
+  ],
+  "sides": {
+   "排": "2k",
+   "列": "2k",
+   "排列": "5k"
+  },
+  "kind": "join_existing",
+  "note": "排 = a physical row (seats, troops); 列 = a column/series, also 'to enumerate'; 排列 = to arrange in order (verb)",
+  "shared_tag": "shape_form"
+ },
+ {
+  "members": [
+   "大海",
+   "海水",
+   "海洋",
+   "海"
+  ],
+  "sides": {
+   "大海": "2k",
+   "海水": "2k",
+   "海洋": "5k",
+   "海": "5k"
+  },
+  "kind": "join_existing",
+  "note": "海 = sea/ocean (generic morpheme); 大海 = the open sea (expressive, vast); 海洋 = the oceans collectively (formal/scientific); 海水 = seawater (the substance, not the body)",
+  "shared_tag": "nature"
+ },
+ {
+  "members": [
+   "季",
+   "季节",
+   "淡季"
+  ],
+  "sides": {
+   "季": "2k",
+   "季节": "5k",
+   "淡季": "5k"
+  },
+  "kind": "join_existing",
+  "note": "季 = season as a morpheme (in compounds: 季度, 四季); 季节 = standalone word for season; 淡季 = off-season (commerce/tourism)",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "悲伤",
+   "难过",
+   "伤心"
+  ],
+  "sides": {
+   "悲伤": "2k",
+   "难过": "5k",
+   "伤心": "5k"
+  },
+  "kind": "join_existing",
+  "note": "难过 = general feeling of sadness/upset (colloquial); 伤心 = heartbroken, deeply pained; 悲伤 = sorrowful, mournful (more literary/formal)",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "马路",
+   "道路",
+   "街",
+   "街道"
+  ],
+  "sides": {
+   "马路": "2k",
+   "道路": "5k",
+   "街": "5k",
+   "街道": "5k"
+  },
+  "kind": "join_existing",
+  "note": "马路 = paved urban road/avenue; 道路 = road or path (general/formal); 街 = street (the road itself); 街道 = street with admin-unit sense (also: residential district)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "环",
+   "戒指"
+  ],
+  "sides": {
+   "环": "2k",
+   "戒指": "5k"
+  },
+  "kind": "join_existing",
+  "note": "环 = ring/loop shape (generic, also a link/component); 戒指 = finger ring (jewelry only)",
+  "shared_tag": "shape_form"
+ },
+ {
+  "members": [
+   "铃声",
+   "铃",
+   "钟"
+  ],
+  "sides": {
+   "铃声": "2k",
+   "铃": "5k",
+   "钟": "5k"
+  },
+  "kind": "join_existing",
+  "note": "铃 = the bell/buzzer object; 钟 = wall clock or large bell; 铃声 = the sound of a bell/ringtone (the sound, not the object)",
+  "shared_tag": "object_home"
+ },
+ {
+  "members": [
+   "剪子",
+   "剪刀"
+  ],
+  "sides": {
+   "剪子": "2k",
+   "剪刀": "5k"
+  },
+  "kind": "join_existing",
+  "note": "剪子 = scissors (colloquial/dialectal); 剪刀 = scissors (standard written form); same object, register differs",
+  "shared_tag": "object_home"
+ },
+ {
+  "members": [
+   "景象",
+   "情景",
+   "场面"
+  ],
+  "sides": {
+   "景象": "2k",
+   "情景": "5k",
+   "场面": "5k"
+  },
+  "kind": "join_existing",
+  "note": "景象 = visual scene/panoramic sight (objective); 情景 = scene charged with emotion (atmosphere of a moment); 场面 = visible occasion/spectacle (scale, social impression)",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "偷偷",
+   "悄悄"
+  ],
+  "sides": {
+   "偷偷": "2k",
+   "悄悄": "5k"
+  },
+  "kind": "join_existing",
+  "note": "偷偷 = secretly, concealing intent or action from others; 悄悄 = quietly, without noise — may or may not involve secrecy",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "碰到",
+   "逢",
+   "见",
+   "会晤"
+  ],
+  "sides": {
+   "碰到": "2k",
+   "逢": "5k",
+   "见": "5k",
+   "会晤": "5k"
+  },
+  "kind": "join_existing",
+  "note": "碰到 = run into accidentally; 见 = to see/meet (neutral, general); 逢 = happen to meet, on a recurring occasion (literary); 会晤 = formal meeting (diplomatic/official)",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "转动",
+   "围绕",
+   "绕"
+  ],
+  "sides": {
+   "转动": "2k",
+   "围绕": "5k",
+   "绕": "5k"
+  },
+  "kind": "join_existing",
+  "note": "转动 = rotate/spin on an axis; 围绕 = revolve around a center, or center a topic on; 绕 = wind around, detour, wrap",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "签名",
+   "签字",
+   "签署",
+   "签订"
+  ],
+  "sides": {
+   "签名": "2k",
+   "签字": "5k",
+   "签署": "5k",
+   "签订": "5k"
+  },
+  "kind": "join_existing",
+  "note": "签名 = personal autograph or casual signing; 签字 = official signature on a document; 签署 = formally sign (agreement/declaration); 签订 = conclude AND sign (a contract/treaty).",
+  "shared_tag": "law_admin_doc"
+ },
+ {
+  "members": [
+   "句",
+   "句子"
+  ],
+  "sides": {
+   "句": "2k",
+   "句子": "5k"
+  },
+  "kind": "join_existing",
+  "note": "句 is primarily a measure word/classifier for sentences and set phrases; 句子 is the standalone noun 'sentence'. 句 as a noun is literary/abbreviated.",
+  "shared_tag": "action_learning"
+ },
+ {
+  "members": [
+   "真诚",
+   "真挚",
+   "诚挚",
+   "诚恳",
+   "衷心"
+  ],
+  "sides": {
+   "真诚": "2k",
+   "真挚": "5k",
+   "诚挚": "5k",
+   "诚恳": "5k",
+   "衷心": "5k"
+  },
+  "kind": "join_existing",
+  "note": "真诚 = general sincerity (everyday); 真挚 = deep heartfelt sincerity (written/emotional); 诚挚 = formal/literary heartfelt; 诚恳 = earnest sincerity in attitude/manner; 衷心 = from the bottom of one's heart (fixed expressions, e.g. 衷心感谢).",
+  "shared_tag": "personality_trait"
+ },
+ {
+  "members": [
+   "短处",
+   "缺点",
+   "弱点"
+  ],
+  "sides": {
+   "短处": "2k",
+   "缺点": "5k",
+   "弱点": "5k"
+  },
+  "kind": "join_existing",
+  "note": "短处 = personal weak point, informal and often self-deprecating; 缺点 = general flaw or shortcoming in anything; 弱点 = a vulnerability or soft spot that can be exploited.",
+  "shared_tag": "abstract_quality"
+ },
+ {
+  "members": [
+   "慢",
+   "慢慢",
+   "迟缓"
+  ],
+  "sides": {
+   "慢": "2k",
+   "慢慢": "2k",
+   "迟缓": "5k"
+  },
+  "kind": "join_existing",
+  "note": "慢 = adjective/predicate 'slow'; 慢慢 = adverb 'slowly/gradually' (also implies patience); 迟缓 = slow and sluggish (often negative, of reaction or movement).",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "慢慢",
+   "逐渐",
+   "逐步"
+  ],
+  "sides": {
+   "慢慢": "2k",
+   "逐渐": "5k",
+   "逐步": "5k"
+  },
+  "kind": "join_existing",
+  "note": "慢慢 = slowly, at a relaxed pace (pace focus); 逐渐 = gradually over time (time focus); 逐步 = step by step, in stages (process focus, more formal).",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "大小",
+   "尺寸",
+   "规模"
+  ],
+  "sides": {
+   "大小": "2k",
+   "尺寸": "2k",
+   "规模": "5k"
+  },
+  "kind": "join_existing",
+  "note": "大小 = general size (big-or-small dimension, colloquial); 尺寸 = precise measurements/dimensions (garments, objects); 规模 = scale or magnitude of an organisation, project, or event.",
+  "shared_tag": "measurement"
+ },
+ {
+  "members": [
+   "小型",
+   "大型",
+   "庞大"
+  ],
+  "sides": {
+   "小型": "2k",
+   "大型": "5k",
+   "庞大": "5k"
+  },
+  "kind": "join_existing",
+  "note": "小型 = small-scale (attributive, neutral); 大型 = large-scale (attributive, neutral); 庞大 = huge and unwieldy — implies excess or burden, not merely size.",
+  "shared_tag": "size"
+ },
+ {
+  "members": [
+   "衬衣",
+   "衬衫"
+  ],
+  "sides": {
+   "衬衣": "2k",
+   "衬衫": "5k"
+  },
+  "kind": "join_existing",
+  "note": "衬衣 = shirt (colloquial, generic); 衬衫 = shirt/blouse (slightly more formal, can refer to both men's shirts and women's blouses).",
+  "shared_tag": "clothing"
+ },
+ {
+  "members": [
+   "肩",
+   "肩膀"
+  ],
+  "sides": {
+   "肩": "2k",
+   "肩膀": "5k"
+  },
+  "kind": "join_existing",
+  "note": "肩 = shoulder (morpheme, literary, used in compounds like 双肩); 肩膀 = shoulder (full colloquial noun, used in everyday speech).",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "球鞋",
+   "鞋",
+   "皮鞋"
+  ],
+  "sides": {
+   "球鞋": "2k",
+   "鞋": "5k",
+   "皮鞋": "5k"
+  },
+  "kind": "join_existing",
+  "note": "鞋 = shoes (general term); 皮鞋 = leather shoes (formal/dress shoes); 球鞋 = sneakers/athletic shoes (sports context).",
+  "shared_tag": "clothing"
+ },
+ {
+  "members": [
+   "皮",
+   "皮肤"
+  ],
+  "sides": {
+   "皮": "2k",
+   "皮肤": "5k"
+  },
+  "kind": "join_existing",
+  "note": "皮 = skin/peel/leather (broad: body skin, fruit skin, leather material); 皮肤 = skin specifically as a body organ (medical/biological usage).",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "单一",
+   "单"
+  ],
+  "sides": {
+   "单一": "2k",
+   "单": "5k"
+  },
+  "kind": "join_existing",
+  "note": "单一 = single/uniform/homogeneous (adjective describing lack of variety, e.g. 单一结构); 单 = single/odd number/a bill or form (broader: also means receipt, list, unpaired).",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "战士",
+   "兵",
+   "士兵"
+  ],
+  "sides": {
+   "战士": "2k",
+   "兵": "2k",
+   "士兵": "5k"
+  },
+  "kind": "join_existing",
+  "note": "战士 = fighter/warrior (heroic or ideological connotation); 兵 = soldier as morpheme or collective troops; 士兵 (5k) = plain common soldier (neutral, rank-and-file)",
+  "shared_tag": "military_conflict"
+ },
+ {
+  "members": [
+   "有的",
+   "有一些",
+   "有些"
+  ],
+  "sides": {
+   "有的": "2k",
+   "有一些": "2k",
+   "有些": "5k"
+  },
+  "kind": "join_existing",
+  "note": "有的 = some (of a defined set, distributive: 有的人…有的人…); 有一些 = there are some (existential quantity); 有些 (5k) = some/somewhat (also degree adverb before adjectives)",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "歌",
+   "歌曲"
+  ],
+  "sides": {
+   "歌": "2k",
+   "歌曲": "2k"
+  },
+  "kind": "new",
+  "note": "歌 is colloquial/informal and can refer to the act of singing or a song; 歌曲 is the standard formal/written term for a musical composition (song as a piece)",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "随后",
+   "不久"
+  ],
+  "sides": {
+   "随后": "2k",
+   "不久": "2k"
+  },
+  "kind": "new",
+  "note": "随后 = immediately following in sequence (right after); 不久 = an unspecified short time later (temporal gap, not necessarily immediate)",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "南方",
+   "南部"
+  ],
+  "sides": {
+   "南方": "2k",
+   "南部": "2k"
+  },
+  "kind": "new",
+  "note": "南方 = the South as a cultural/geographic region (e.g. 南方人); 南部 = the southern portion of a specific territory or country (administrative sub-area)",
+  "shared_tag": "geography"
+ },
+ {
+  "members": [
+   "声",
+   "声音"
+  ],
+  "sides": {
+   "声": "2k",
+   "声音": "5k"
+  },
+  "kind": "join_existing",
+  "note": "声 is a bound morpheme/literary unit (also a measure word for sounds); 声音 is the standalone spoken word for sound or voice in everyday use",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "球场",
+   "操场",
+   "体育场"
+  ],
+  "sides": {
+   "球场": "2k",
+   "操场": "5k",
+   "体育场": "2k"
+  },
+  "kind": "join_existing",
+  "note": "球场 = court or field for ball games; 操场 (5k) = school exercise yard / drill ground; 体育场 = full stadium (spectator venue)",
+  "shared_tag": "sport"
+ },
+ {
+  "members": [
+   "春节",
+   "除夕",
+   "元旦"
+  ],
+  "sides": {
+   "春节": "2k",
+   "除夕": "5k",
+   "元旦": "5k"
+  },
+  "kind": "join_existing",
+  "note": "春节 = the Lunar New Year holiday (multi-day festival); 除夕 (5k) = Lunar New Year's Eve (the night before); 元旦 (5k) = January 1st (Gregorian New Year's Day)",
+  "shared_tag": "culture"
+ },
+ {
+  "members": [
+   "职工",
+   "员工"
+  ],
+  "sides": {
+   "职工": "2k",
+   "员工": "5k"
+  },
+  "kind": "join_existing",
+  "note": "职工 = workers/staff of an institution, factory, or state enterprise (collective, official); 员工 (5k) = employees of a company (corporate/modern usage)",
+  "shared_tag": "work_career"
+ },
+ {
+  "members": [
+   "土",
+   "土地"
+  ],
+  "sides": {
+   "土": "2k",
+   "土地": "5k"
+  },
+  "kind": "join_existing",
+  "note": "土 = soil/earth as a material substance; 土地 (5k) = land as property, territory, or arable ground",
+  "shared_tag": "nature"
+ },
+ {
+  "members": [
+   "平稳",
+   "顺利"
+  ],
+  "sides": {
+   "平稳": "2k",
+   "顺利": "5k"
+  },
+  "kind": "join_existing",
+  "note": "平稳 = stable and even (no fluctuation, physical or abstract steadiness); 顺利 (5k) = going smoothly without obstacles or hitches (process succeeds as hoped)",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "言语",
+   "言",
+   "语"
+  ],
+  "sides": {
+   "言语": "2k",
+   "言": "5k",
+   "语": "5k"
+  },
+  "kind": "join_existing",
+  "note": "言语 = speech/words as a compound noun (everyday or formal); 言 (5k) = literary bound morpheme for words/speech; 语 (5k) = literary bound morpheme for language/utterance",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "夏天",
+   "夏季",
+   "夏"
+  ],
+  "sides": {
+   "夏天": "2k",
+   "夏季": "2k",
+   "夏": "5k"
+  },
+  "kind": "join_existing",
+  "note": "夏 is a bare morpheme (mostly in compounds); 夏天 is spoken/everyday 'summer'; 夏季 is written/formal 'summer season' — not interchangeable in register.",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "职工",
+   "员工",
+   "工人"
+  ],
+  "sides": {
+   "职工": "2k",
+   "员工": "5k",
+   "工人": "5k"
+  },
+  "kind": "join_existing",
+  "note": "工人 = blue-collar manual worker; 员工 = collective term for company staff (white- and blue-collar); 职工 = workers and staff of an institution/factory (official/formal, implies employment relationship).",
+  "shared_tag": "occupation"
+ },
+ {
+  "members": [
+   "构造",
+   "结构"
+  ],
+  "sides": {
+   "构造": "2k",
+   "结构": "5k"
+  },
+  "kind": "join_existing",
+  "note": "结构 = abstract/analytical structure or composition; 构造 = concrete physical construction or build (geology, machinery). 构造 implies how something is assembled; 结构 how it is organized.",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "稳",
+   "稳定"
+  ],
+  "sides": {
+   "稳": "2k",
+   "稳定": "5k"
+  },
+  "kind": "join_existing",
+  "note": "稳 is a monosyllabic adjective ('steady, not wobbling'); 稳定 is a disyllabic adj/noun/verb meaning 'stable; stability; to stabilize' — broader, used in formal and abstract contexts.",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "步",
+   "步伐",
+   "步骤"
+  ],
+  "sides": {
+   "步": "2k",
+   "步伐": "5k",
+   "步骤": "5k"
+  },
+  "kind": "join_existing",
+  "note": "步 = a single physical step or pace (also a measure word); 步伐 = gait or collective pace/tempo (figurative: pace of development); 步骤 = procedural step in a sequence (not physical).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "站住",
+   "停止",
+   "阻止",
+   "拦"
+  ],
+  "sides": {
+   "站住": "2k",
+   "停止": "5k",
+   "阻止": "5k",
+   "拦": "5k"
+  },
+  "kind": "join_existing",
+  "note": "站住 = imperative 'halt!/stop!' (physical, directed at a person); 停止 = cease an ongoing action (neutral, intransitive); 阻止 = block/prevent something already underway (transitive); 拦 = physically intercept or block passage.",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "味儿",
+   "味道",
+   "滋味",
+   "口味"
+  ],
+  "sides": {
+   "味儿": "2k",
+   "味道": "5k",
+   "滋味": "5k",
+   "口味": "5k"
+  },
+  "kind": "join_existing",
+  "note": "味道 = flavor/smell (neutral, most common); 味儿 = colloquial/dialectal variant of 味道; 滋味 = taste plus the feeling/aftertaste (can be figurative); 口味 = one's personal taste preference or a food's flavor profile.",
+  "shared_tag": "taste"
+ },
+ {
+  "members": [
+   "学科",
+   "科目"
+  ],
+  "sides": {
+   "学科": "2k",
+   "科目": "5k"
+  },
+  "kind": "join_existing",
+  "note": "学科 = academic discipline or field of study (broad: linguistics, biology); 科目 = specific subject item on a curriculum or examination list (narrower, administrative).",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "车站",
+   "地铁站"
+  ],
+  "sides": {
+   "车站": "2k",
+   "地铁站": "2k"
+  },
+  "kind": "new",
+  "note": "车站 = general term for a bus or train station; 地铁站 = specifically a subway/metro station. 地铁站 is a subset of 车站 but learners confuse them when describing urban transit stops.",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "箱子",
+   "行李箱",
+   "盒子"
+  ],
+  "sides": {
+   "箱子": "2k",
+   "行李箱": "5k",
+   "盒子": "5k"
+  },
+  "kind": "join_existing",
+  "note": "盒子 = small box or case (cosmetics, gift); 箱子 = large box or suitcase (general); 行李箱 = specifically a travel suitcase or luggage trunk.",
+  "shared_tag": "object_home"
+ },
+ {
+  "members": [
+   "暑假",
+   "休假"
+  ],
+  "sides": {
+   "暑假": "2k",
+   "休假": "2k"
+  },
+  "kind": "new",
+  "note": "暑假 = summer vacation (fixed school/academic holiday); 休假 = taking personal leave or a holiday (worker context, voluntary, any time of year).",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "星期日",
+   "礼拜天"
+  ],
+  "sides": {
+   "星期日": "2k",
+   "礼拜天": "5k"
+  },
+  "kind": "join_existing",
+  "note": "星期日 = Sunday (standard written form); 礼拜天 = Sunday (colloquial, with religious connotation 礼拜 = worship). Same day, different registers.",
+  "shared_tag": "weekday"
+ },
+ {
+  "members": [
+   "晴天",
+   "晴朗"
+  ],
+  "sides": {
+   "晴天": "2k",
+   "晴朗": "5k"
+  },
+  "kind": "join_existing",
+  "note": "晴天 = noun phrase 'sunny/clear day'; 晴朗 = adjective 'sunny and cloudless' (describes weather or sky). 晴天 is a time noun; 晴朗 is a predicative/attributive adjective.",
+  "shared_tag": "weather"
+ },
+ {
+  "members": [
+   "会谈",
+   "洽谈",
+   "会晤"
+  ],
+  "sides": {
+   "会谈": "2k",
+   "洽谈": "5k",
+   "会晤": "5k"
+  },
+  "kind": "join_existing",
+  "note": "会晤 = formal diplomatic meeting (heads of state, official); 会谈 = formal talks (political or high-level, may involve multiple sessions); 洽谈 = negotiate/discuss for business purposes (commercial register).",
+  "shared_tag": "communication_formal"
+ },
+ {
+  "members": [
+   "骗子",
+   "欺骗",
+   "作弊"
+  ],
+  "sides": {
+   "骗子": "2k",
+   "欺骗": "5k",
+   "作弊": "5k"
+  },
+  "kind": "join_existing",
+  "note": "欺骗 = to deceive (general verb); 骗子 = a swindler/cheat (person noun); 作弊 = to cheat specifically in an exam, game, or competition (situational).",
+  "shared_tag": "law_justice"
+ },
+ {
+  "members": [
+   "泪",
+   "泪水",
+   "眼泪"
+  ],
+  "sides": {
+   "泪": "2k",
+   "泪水": "2k",
+   "眼泪": "2k"
+  },
+  "kind": "new",
+  "note": "泪 is the literary/bare morpheme (poetry, compounds); 泪水 is more expressive/written (emphasizes the physical liquid); 眼泪 is the neutral everyday word for 'tears' (spoken and written).",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "虎",
+   "老虎"
+  ],
+  "sides": {
+   "虎": "2k",
+   "老虎": "5k"
+  },
+  "kind": "join_existing",
+  "note": "老虎 is the common spoken/everyday word for tiger; 虎 is the literary/formal morpheme used in idioms, compounds (虎年, 虎威), and written prose.",
+  "shared_tag": "animal"
+ },
+ {
+  "members": [
+   "小偷儿",
+   "小偷",
+   "贼"
+  ],
+  "sides": {
+   "小偷儿": "2k",
+   "小偷": "5k",
+   "贼": "5k"
+  },
+  "kind": "join_existing",
+  "note": "小偷 is the neutral everyday word for thief/pickpocket; 小偷儿 is a colloquial Beijing-dialect diminutive of 小偷; 贼 is broader (any criminal/bandit) and also used colloquially as an intensifier (贼厉害 = damn impressive).",
+  "shared_tag": "law_justice"
+ },
+ {
+  "members": [
+   "地形",
+   "地势"
+  ],
+  "sides": {
+   "地形": "2k",
+   "地势": "5k"
+  },
+  "kind": "join_existing",
+  "note": "地形 = terrain/landforms (types of physical features: hills, plains, rivers — descriptive); 地势 = the lie/configuration of the land (how high/low/sloped it sits — positional).",
+  "shared_tag": "geography"
+ },
+ {
+  "members": [
+   "此刻",
+   "目前",
+   "眼下",
+   "当前"
+  ],
+  "sides": {
+   "此刻": "2k",
+   "目前": "5k",
+   "眼下": "5k",
+   "当前": "5k"
+  },
+  "kind": "join_existing",
+  "note": "此刻 = 'this very moment' (literary/emotional, pinpoints an instant); 眼下 = 'right now' (spoken, informal); 目前 = 'at present' (neutral time adverb, written); 当前 = 'current/pressing now' (formal, implies urgency or importance of the present task).",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "那时",
+   "当年",
+   "昔日"
+  ],
+  "sides": {
+   "那时": "2k",
+   "当年": "5k",
+   "昔日": "5k"
+  },
+  "kind": "join_existing",
+  "note": "那时 = 'at that time' (anaphoric: refers back to a time just mentioned); 当年 = 'back in those years / in that era' (nostalgic retrospect, specific period); 昔日 = 'in former days' (literary/elevated register, often lyrical).",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "这边",
+   "这里"
+  ],
+  "sides": {
+   "这边": "2k",
+   "这里": "5k"
+  },
+  "kind": "join_existing",
+  "note": "这里 = 'here / this place' (neutral location); 这边 = 'this side / this way' (directional, often contrasted with 那边; also used to gesture someone over).",
+  "shared_tag": "location"
+ },
+ {
+  "members": [
+   "高大",
+   "挺拔"
+  ],
+  "sides": {
+   "高大": "2k",
+   "挺拔": "5k"
+  },
+  "kind": "join_existing",
+  "note": "高大 = tall and large/imposing (physical size, of people or structures); 挺拔 = tall and erect/straight (elegant upright bearing, literary — trees, figures).",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "队员",
+   "成员"
+  ],
+  "sides": {
+   "队员": "2k",
+   "成员": "5k"
+  },
+  "kind": "join_existing",
+  "note": "队员 = member of a team or squad (sports, military unit, specific crew); 成员 = member of any group or organization (broader, also used for families, committees, states).",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "做到",
+   "完成",
+   "实现",
+   "取得"
+  ],
+  "sides": {
+   "做到": "2k",
+   "完成": "5k",
+   "实现": "5k",
+   "取得": "5k"
+  },
+  "kind": "join_existing",
+  "note": "做到 = 'manage to do / succeed in doing' (emphasis on effort overcoming difficulty); 完成 = 'complete / finish' (a task or assignment reaches its end); 实现 = 'realize / bring into being' (a goal, dream, or plan); 取得 = 'obtain / achieve' (results, qualifications, a concrete gain).",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "赞赏",
+   "欣赏",
+   "佩服",
+   "羡慕"
+  ],
+  "sides": {
+   "赞赏": "2k",
+   "欣赏": "5k",
+   "佩服": "5k",
+   "羡慕": "5k"
+  },
+  "kind": "join_existing",
+  "note": "赞赏 = admire and praise (both feeling + verbal expression); 欣赏 = enjoy/appreciate aesthetically (art, scenery, talent — internal pleasure); 佩服 = admire someone's skill or character (colloquial, often heartfelt); 羡慕 = envy/admire what someone has (desire to have it yourself).",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "赞赏",
+   "表扬",
+   "夸",
+   "吹捧"
+  ],
+  "sides": {
+   "赞赏": "2k",
+   "表扬": "5k",
+   "夸": "5k",
+   "吹捧": "5k"
+  },
+  "kind": "join_existing",
+  "note": "赞赏 = admire and praise (sincere, can be peer-to-peer); 表扬 = official/public praise (from above, institutional); 夸 = casual verbal praise, also 'exaggerate' (colloquial); 吹捧 = lavish over-the-top praise, flattery (often insincere/sycophantic).",
+  "shared_tag": "judgement"
+ },
+ {
+  "members": [
+   "前进",
+   "推进"
+  ],
+  "sides": {
+   "前进": "2k",
+   "推进": "5k"
+  },
+  "kind": "join_existing",
+  "note": "前进 = move forward / advance (intransitive, of people, armies, causes); 推进 = push forward / propel (transitive, someone/something drives a process or object ahead).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "票",
+   "票价",
+   "彩票"
+  ],
+  "sides": {
+   "票": "2k",
+   "票价": "2k",
+   "彩票": "5k"
+  },
+  "kind": "join_existing",
+  "note": "票 = ticket (general: transport, event, admission); 票价 = the price of a ticket / fare; 彩票 = lottery ticket (a ticket bought for a chance to win, not for entry).",
+  "shared_tag": "transaction"
+ },
+ {
+  "members": [
+   "月球",
+   "月亮"
+  ],
+  "sides": {
+   "月球": "2k",
+   "月亮": "5k"
+  },
+  "kind": "join_existing",
+  "note": "月亮 = the moon (everyday, poetic, emotional — moonlight poetry); 月球 = the Moon as a celestial/scientific body (technical: lunar missions, astronomy).",
+  "shared_tag": "nature"
+ },
+ {
+  "members": [
+   "粗",
+   "细",
+   "薄"
+  ],
+  "sides": {
+   "粗": "2k",
+   "细": "2k",
+   "薄": "5k"
+  },
+  "kind": "join_existing",
+  "note": "粗 = thick/coarse in diameter (also 'rough' in texture or manner); 细 = thin/fine in diameter or detail (also 'meticulous'); 薄 = thin in flat thickness (paper, slices, walls) — not about diameter.",
+  "shared_tag": "size"
+ },
+ {
+  "members": [
+   "大多数",
+   "大部分"
+  ],
+  "sides": {
+   "大多数": "2k",
+   "大部分": "5k"
+  },
+  "kind": "join_existing",
+  "note": "大多数 = the majority (more than half, counting individual items or people — used with countables); 大部分 = most of / a large portion (emphasises share or fraction of a whole — used with mass or abstract quantities too).",
+  "shared_tag": "quantity"
+ },
+ {
+  "members": [
+   "中华民族",
+   "民族"
+  ],
+  "sides": {
+   "中华民族": "2k",
+   "民族": "5k"
+  },
+  "kind": "join_existing",
+  "note": "民族 = ethnic group / nation / people (general term for any ethnicity or nationality); 中华民族 = the Chinese nation (a specific political-cultural concept encompassing all ethnic groups of China).",
+  "shared_tag": "society_public"
+ },
+ {
+  "members": [
+   "大众",
+   "老百姓"
+  ],
+  "sides": {
+   "大众": "2k",
+   "老百姓": "5k"
+  },
+  "kind": "join_existing",
+  "note": "大众 = the masses / the general public (neutral to formal, used in media/slogans: 大众文化); 老百姓 = ordinary folks / the common people (colloquial, warm, emphasises everyday citizens).",
+  "shared_tag": "society_public"
+ },
+ {
+  "members": [
+   "赞赏",
+   "欣赏",
+   "佩服",
+   "羡慕",
+   "表扬",
+   "夸",
+   "吹捧"
+  ],
+  "sides": {
+   "赞赏": "2k",
+   "欣赏": "5k",
+   "佩服": "5k",
+   "羡慕": "5k",
+   "表扬": "5k",
+   "夸": "5k",
+   "吹捧": "5k"
+  },
+  "kind": "join_existing",
+  "note": "赞赏 = admire + praise (mixed feeling+speech); 欣赏 = appreciate/enjoy aesthetically (no envy, no praise); 佩服 = respect/admire someone's skill (colloquial, internal); 羡慕 = envy/admire (wanting what they have); 表扬 = official praise from above; 夸 = casually praise or exaggerate; 吹捧 = lavish/excessive flattery (pejorative).",
+  "shared_tag": "judgement"
+ },
+ {
+  "members": [
+   "靠近",
+   "接近",
+   "靠拢"
+  ],
+  "sides": {
+   "靠近": "2k",
+   "接近": "5k",
+   "靠拢": "5k"
+  },
+  "kind": "join_existing",
+  "note": "靠近 = move physically close to (everyday); 接近 = approach / be close to (physical or abstract, neutral); 靠拢 = close up / draw together (military or group formation).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "建成",
+   "建造",
+   "修建",
+   "建设",
+   "建立"
+  ],
+  "sides": {
+   "建成": "2k",
+   "建造": "2k",
+   "修建": "5k",
+   "建设": "5k",
+   "建立": "5k"
+  },
+  "kind": "join_existing",
+  "note": "建成 = complete construction (result, project finished); 建造 = construct/build (physical structure, process); 修建 = build/construct (infrastructure, official tone); 建设 = build and develop (large-scale, incl. society/economy); 建立 = found/establish (an organization, system, or relationship).",
+  "shared_tag": "industry_production"
+ },
+ {
+  "members": [
+   "打破",
+   "破",
+   "断"
+  ],
+  "sides": {
+   "打破": "2k",
+   "破": "5k",
+   "断": "5k"
+  },
+  "kind": "join_existing",
+  "note": "打破 = shatter/smash (also break records or limits); 破 = broken state or the act of breaking (broad); 断 = snap/cut off (linear things: rope, signal, contact).",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "违规",
+   "违反",
+   "侵犯"
+  ],
+  "sides": {
+   "违规": "2k",
+   "违反": "5k",
+   "侵犯": "5k"
+  },
+  "kind": "join_existing",
+  "note": "违规 = break a rule/regulation (procedural, administrative); 违反 = violate a law, rule, or principle (broader, incl. laws); 侵犯 = infringe/encroach (rights, territory — implies harming another).",
+  "shared_tag": "law_justice"
+ },
+ {
+  "members": [
+   "播出",
+   "广播"
+  ],
+  "sides": {
+   "播出": "2k",
+   "广播": "5k"
+  },
+  "kind": "join_existing",
+  "note": "播出 = to air/broadcast (a specific program, one-time output); 广播 = radio broadcasting as medium, or to broadcast generally (also a noun for radio).",
+  "shared_tag": "media_news"
+ },
+ {
+  "members": [
+   "挑选",
+   "筛选",
+   "拣",
+   "选拔",
+   "选择"
+  ],
+  "sides": {
+   "挑选": "2k",
+   "筛选": "5k",
+   "拣": "5k",
+   "选拔": "5k",
+   "选择": "5k"
+  },
+  "kind": "join_existing",
+  "note": "挑选 = pick by personal preference (everyday shopping, choosing); 筛选 = screen/filter by criteria (systematic, analytical); 拣 = pick out by hand/visually (physical, informal); 选拔 = select the best candidates (competitive, talent-focused); 选择 = choose from options (general, neutral).",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "叫作",
+   "称为",
+   "称"
+  ],
+  "sides": {
+   "叫作": "2k",
+   "称为": "5k",
+   "称": "5k"
+  },
+  "kind": "join_existing",
+  "note": "叫作 = be called/known as (everyday, informal naming); 称为 = be called/designated (neutral to formal, written); 称 = call or name (also means 'to weigh'; broader literary usage).",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "避",
+   "逃"
+  ],
+  "sides": {
+   "避": "2k",
+   "逃": "5k"
+  },
+  "kind": "join_existing",
+  "note": "避 = avoid/evade (deliberate effort to stay away from sth); 逃 = flee/escape (physical movement away from danger).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "加以",
+   "予以",
+   "给予"
+  ],
+  "sides": {
+   "加以": "2k",
+   "予以": "5k",
+   "给予": "5k"
+  },
+  "kind": "join_existing",
+  "note": "加以 = apply an action to sth (followed by a verb: 加以解释, 加以改进); 予以 = grant/give formally (official contexts: 予以表彰); 给予 = give/render (literary/formal, broader objects: attention, support).",
+  "shared_tag": "logic_connective"
+ },
+ {
+  "members": [
+   "怨",
+   "指责",
+   "责怪"
+  ],
+  "sides": {
+   "怨": "2k",
+   "指责": "5k",
+   "责怪": "5k"
+  },
+  "kind": "join_existing",
+  "note": "怨 = resent/blame (internal feeling, often directed at fate/others); 指责 = criticize/blame publicly (formal, accusatory); 责怪 = reproach informally (interpersonal, casual register).",
+  "shared_tag": "communication_emotion"
+ },
+ {
+  "members": [
+   "登山",
+   "登",
+   "攀登"
+  ],
+  "sides": {
+   "登山": "2k",
+   "登": "2k",
+   "攀登": "5k"
+  },
+  "kind": "join_existing",
+  "note": "登山 = mountain climbing (sport/activity as a whole); 登 = ascend/climb (general, incl. stairs, stages); 攀登 = scale/climb (effort-intensive, figurative too: 攀登高峰).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "败",
+   "失败",
+   "输"
+  ],
+  "sides": {
+   "败": "2k",
+   "失败": "5k",
+   "输": "5k"
+  },
+  "kind": "join_existing",
+  "note": "败 = be defeated (war, competition — formal/literary); 失败 = fail/suffer defeat (general: project, attempt, battle); 输 = lose a contest/game (colloquial, zero-sum, also 'input').",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "收费",
+   "免费",
+   "无偿"
+  ],
+  "sides": {
+   "收费": "2k",
+   "免费": "5k",
+   "无偿": "5k"
+  },
+  "kind": "join_existing",
+  "note": "收费 = charge a fee (the act of collecting payment); 免费 = free of charge (everyday, consumer context); 无偿 = free/without compensation (formal/legal, e.g. 无偿援助).",
+  "shared_tag": "transaction"
+ },
+ {
+  "members": [
+   "为",
+   "成为",
+   "充当",
+   "变成"
+  ],
+  "sides": {
+   "为": "2k",
+   "成为": "5k",
+   "充当": "5k",
+   "变成": "5k"
+  },
+  "kind": "join_existing",
+  "note": "为 = be/act as (literary/formal copula or role); 成为 = become (take on a new status/role, lasting change); 充当 = serve as / fill the role of (temporary, functional); 变成 = turn into (physical/qualitative transformation).",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "关上",
+   "闭幕"
+  ],
+  "sides": {
+   "关上": "2k",
+   "闭幕": "2k"
+  },
+  "kind": "new",
+  "note": "关上 = close/shut (physical objects: door, window; also turn off); 闭幕 = close/end an event (ceremony, conference, exhibition — formal).",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "前进",
+   "推进",
+   "飞跃"
+  ],
+  "sides": {
+   "前进": "2k",
+   "推进": "5k",
+   "飞跃": "5k"
+  },
+  "kind": "join_existing",
+  "note": "前进 = move/march forward (physical or metaphorical progress); 推进 = drive/advance sth forward (active effort, project or policy); 飞跃 = leap/make a great advance (dramatic, non-linear progress).",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "烧",
+   "烘",
+   "煮"
+  ],
+  "sides": {
+   "烧": "2k",
+   "烘": "5k",
+   "煮": "5k"
+  },
+  "kind": "join_existing",
+  "note": "烧 = burn / cook by heat / have a fever (broad, colloquial); 烘 = bake/dry using indirect heat (oven, fire nearby); 煮 = boil/cook by simmering in liquid.",
+  "shared_tag": "action_daily"
+ },
+ {
+  "members": [
+   "在场",
+   "处在"
+  ],
+  "sides": {
+   "在场": "2k",
+   "处在": "2k"
+  },
+  "kind": "new",
+  "note": "在场 = be present at an event/scene (often legal/official: witness present); 处在 = be situated in a state or condition (abstract or physical location in a state).",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "收购",
+   "购买"
+  ],
+  "sides": {
+   "收购": "2k",
+   "购买": "5k"
+  },
+  "kind": "join_existing",
+  "note": "收购 = buy up in bulk / acquire (a company or commodities at scale); no 购买 in this window — group limited to 收购 alone, skip.",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "进来",
+   "上来",
+   "传来",
+   "进",
+   "回来"
+  ],
+  "sides": {
+   "进来": "2k",
+   "上来": "2k",
+   "传来": "2k",
+   "进": "2k",
+   "回来": "5k"
+  },
+  "kind": "join_existing",
+  "note": "All involve movement toward the speaker. 进 = enter (neutral). 进来 = come in (into enclosed space, toward speaker). 上来 = come up (upward toward speaker). 传来 = reach the speaker (sound/news only, not physical). 回来 = come back (returning).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "含有",
+   "含",
+   "包含"
+  ],
+  "sides": {
+   "含有": "2k",
+   "含": "2k",
+   "包含": "5k"
+  },
+  "kind": "join_existing",
+  "note": "含 = hold in mouth/contain (physical or abstract, single character). 含有 = contain (specific substance/element, formal). 包含 = contain/include (broader set membership, formal).",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "分为",
+   "分成",
+   "划分"
+  ],
+  "sides": {
+   "分为": "2k",
+   "分成": "2k",
+   "划分": "5k"
+  },
+  "kind": "join_existing",
+  "note": "分为 = formally classified as (describes result category). 分成 = split into (concrete partitioning, focus on outcome parts). 划分 = demarcate/divide (official boundaries or categories).",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "做梦",
+   "梦见",
+   "梦想",
+   "幻想"
+  ],
+  "sides": {
+   "做梦": "2k",
+   "梦见": "2k",
+   "梦想": "5k",
+   "幻想": "5k"
+  },
+  "kind": "join_existing",
+  "note": "做梦 = have a dream (while sleeping) or daydream (general). 梦见 = dream of sth specific (see it in a dream). 梦想 = cherished aspiration, to dream of (waking goal). 幻想 = fantasy/daydream (unrealistic imagination).",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "打败",
+   "战胜",
+   "赢"
+  ],
+  "sides": {
+   "打败": "2k",
+   "战胜": "2k",
+   "赢": "5k"
+  },
+  "kind": "join_existing",
+  "note": "赢 = win (general, colloquial). 打败 = beat/defeat (an opponent, often physical contest). 战胜 = overcome/prevail over (battle or hardship, more formal/literary).",
+  "shared_tag": "military_conflict"
+ },
+ {
+  "members": [
+   "防",
+   "保护",
+   "守护",
+   "爱护",
+   "掩护",
+   "预防",
+   "避免"
+  ],
+  "sides": {
+   "防": "2k",
+   "保护": "5k",
+   "守护": "5k",
+   "爱护": "5k",
+   "掩护": "5k",
+   "预防": "5k",
+   "避免": "5k"
+  },
+  "kind": "join_existing",
+  "note": "防 = defend/prevent (ward off threats, proactive). 保护 = protect (general safeguarding). 守护 = guard/watch over (ongoing devoted protection). 爱护 = care for (out of affection, not threat-based). 掩护 = cover/shield (military or covert protection). 预防 = prevent (health/risk precaution before harm). 避免 = avoid (steer clear of sth undesirable).",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "抄写",
+   "抄",
+   "复印",
+   "复制"
+  ],
+  "sides": {
+   "抄写": "2k",
+   "抄": "5k",
+   "复印": "5k",
+   "复制": "5k"
+  },
+  "kind": "join_existing",
+  "note": "抄 = copy by hand / plagiarize. 抄写 = copy out by hand (deliberate transcription, study context). 复印 = photocopy (machine reproduction of document). 复制 = duplicate/replicate (digital or physical, broader).",
+  "shared_tag": "action_learning"
+ },
+ {
+  "members": [
+   "拆除",
+   "拆"
+  ],
+  "sides": {
+   "拆除": "2k",
+   "拆": "5k"
+  },
+  "kind": "join_existing",
+  "note": "拆 = dismantle/tear down (single action, physical). 拆除 = demolish/remove (official, often structural, typically permanent).",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "相比",
+   "对比",
+   "对照"
+  ],
+  "sides": {
+   "相比": "2k",
+   "对比": "5k",
+   "对照": "5k"
+  },
+  "kind": "join_existing",
+  "note": "相比 = compare (general, often in 相比之下 'by comparison'). 对比 = contrast (highlight differences, includes noun 'contrast'). 对照 = compare side-by-side (check against, verify).",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "编",
+   "编织",
+   "编辑"
+  ],
+  "sides": {
+   "编": "2k",
+   "编织": "5k",
+   "编辑": "5k"
+  },
+  "kind": "join_existing",
+  "note": "编 = weave/compile/make up (broad: stories, baskets, numbers). 编织 = weave/knit (physical interlacing of threads/strands). 编辑 = edit/revise (text, media); also 'editor' (person).",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "下降",
+   "衰退"
+  ],
+  "sides": {
+   "下降": "2k",
+   "衰退": "5k"
+  },
+  "kind": "join_existing",
+  "note": "下降 = drop/decline (measurable fall in quantity or level). 衰退 = decline/recession (gradual deterioration, economic or physical decay).",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "预计",
+   "预测",
+   "估计",
+   "预报"
+  ],
+  "sides": {
+   "预计": "2k",
+   "预测": "5k",
+   "估计": "5k",
+   "预报": "5k"
+  },
+  "kind": "join_existing",
+  "note": "估计 = estimate/reckon (rough calculation or personal judgment). 预计 = forecast/expect (planned projection, often official). 预测 = predict (analytical, data-based). 预报 = forecast (broadcast prediction, esp. weather).",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "增大",
+   "放大",
+   "扩大"
+  ],
+  "sides": {
+   "增大": "2k",
+   "放大": "5k",
+   "扩大": "5k"
+  },
+  "kind": "join_existing",
+  "note": "增大 = increase in size or amount (general growth). 放大 = magnify/enlarge (optical or signal amplification). 扩大 = expand/broaden (scope, scale, influence).",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "忍",
+   "忍耐",
+   "吃苦",
+   "挨",
+   "承受",
+   "熬"
+  ],
+  "sides": {
+   "忍": "2k",
+   "忍耐": "5k",
+   "吃苦": "5k",
+   "挨": "5k",
+   "承受": "5k",
+   "熬": "5k"
+  },
+  "kind": "join_existing",
+  "note": "忍 = endure by holding back (suppress reaction). 忍耐 = endure with sustained self-restraint. 承受 = withstand (bear a load or blow). 熬 = tough it out slowly (simmer through difficulty). 挨 = endure passively (stall or suffer through). 吃苦 = endure hardship (accept a hard life).",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "使劲",
+   "使劲儿"
+  ],
+  "sides": {
+   "使劲": "2k",
+   "使劲儿": "5k"
+  },
+  "kind": "join_existing",
+  "note": "使劲 and 使劲儿 are near-identical in meaning (exert force/effort); 使劲儿 is the Beijing erhua colloquial form. Learners may treat them as different words — they are stylistic variants.",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "冒",
+   "发出",
+   "排放",
+   "放射"
+  ],
+  "sides": {
+   "冒": "2k",
+   "发出": "5k",
+   "排放": "5k",
+   "放射": "5k"
+  },
+  "kind": "join_existing",
+  "note": "发出 = emit/send out (sound, light, signals, notifications). 排放 = discharge/emit (pollutants, gases, industrial waste). 放射 = radiate (radiation, rays, spreading outward from a point). 冒 = emit/give off (smoke, steam, bubble up; also 'brave').",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "摔倒",
+   "摔",
+   "倒",
+   "掉"
+  ],
+  "sides": {
+   "摔倒": "2k",
+   "摔": "5k",
+   "倒": "5k",
+   "掉": "5k"
+  },
+  "kind": "join_existing",
+  "note": "摔 = fall/smash (fall with impact or throw down). 摔倒 = fall down (trip and land, bodily fall). 倒 = topple/fall over (object or person collapsing sideways). 掉 = fall off/drop (detach and drop, often implies separation).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "舞",
+   "舞蹈"
+  ],
+  "sides": {
+   "舞": "2k",
+   "舞蹈": "5k"
+  },
+  "kind": "join_existing",
+  "note": "舞 = dance (verb) / wield/brandish (verb); colloquial. 舞蹈 = dance (noun, art form / choreography); more formal.",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "抽奖",
+   "彩票"
+  ],
+  "sides": {
+   "抽奖": "2k",
+   "彩票": "5k"
+  },
+  "kind": "join_existing",
+  "note": "抽奖 = draw a prize / raffle (the act of drawing). 彩票 = lottery ticket (the physical ticket). Often confused as both relate to lottery/prize contexts.",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "付出",
+   "使劲"
+  ],
+  "sides": {
+   "付出": "2k",
+   "使劲": "2k"
+  },
+  "kind": "new",
+  "note": "使劲 = exert physical force or effort (push hard in the moment). 付出 = expend/invest (effort, time, emotion — abstract commitment over time).",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "逃走",
+   "逃跑",
+   "逃"
+  ],
+  "sides": {
+   "逃走": "2k",
+   "逃跑": "2k",
+   "逃": "5k"
+  },
+  "kind": "join_existing",
+  "note": "逃 = base verb (flee/escape); 逃跑 = flee by running (emphasises running motion); 逃走 = escape and leave (directional completion, not necessarily running)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "流",
+   "流动"
+  ],
+  "sides": {
+   "流": "2k",
+   "流动": "2k"
+  },
+  "kind": "new",
+  "note": "流 = flow/stream (simple verb, tears, water, time); 流动 = flow/circulate (systemic ongoing movement — crowds, capital, liquids in systems)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "长大",
+   "生长",
+   "成长",
+   "栽培"
+  ],
+  "sides": {
+   "长大": "2k",
+   "生长": "2k",
+   "成长": "5k",
+   "栽培": "5k"
+  },
+  "kind": "join_existing",
+  "note": "长大 = grow up (humans reaching adulthood); 成长 = grow/mature (personal development, also broad); 生长 = grow (biological — plants, organisms); 栽培 = cultivate (plants) or mentor (people, formal)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "生成",
+   "形成",
+   "产生"
+  ],
+  "sides": {
+   "生成": "2k",
+   "形成": "5k",
+   "产生": "5k"
+  },
+  "kind": "join_existing",
+  "note": "生成 = generate/produce (technical/computational output); 形成 = form/take shape (gradual structural emergence); 产生 = arise/generate (cause-effect, broad — results, emotions, problems)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "交给",
+   "递给"
+  ],
+  "sides": {
+   "交给": "2k",
+   "递给": "2k"
+  },
+  "kind": "new",
+  "note": "递给 = pass to (physical hand-to-hand, no ownership transfer); 交给 = hand over (transfer responsibility, duty, or ownership)",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "损害",
+   "害",
+   "危害",
+   "伤害",
+   "损坏",
+   "破坏"
+  ],
+  "sides": {
+   "损害": "2k",
+   "害": "2k",
+   "危害": "5k",
+   "伤害": "5k",
+   "损坏": "5k",
+   "破坏": "5k"
+  },
+  "kind": "join_existing",
+  "note": "害 = harm (basic, colloquial, can also be noun); 伤害 = hurt/injure (personal, bodily or emotional); 损害 = damage/harm (formal, abstract — interests, health, reputation); 损坏 = damage (physical objects); 危害 = endanger (serious systemic threat); 破坏 = destroy/sabotage (deliberate structural damage)",
+  "shared_tag": "cause_effect"
+ },
+ {
+  "members": [
+   "带有",
+   "有着",
+   "拥有",
+   "占有"
+  ],
+  "sides": {
+   "带有": "2k",
+   "有着": "2k",
+   "拥有": "5k",
+   "占有": "5k"
+  },
+  "kind": "join_existing",
+  "note": "带有 = carry (a slight quality/tinge — partial, incidental); 有着 = have/possess (literary, emphatic state); 拥有 = own/possess (ongoing state, valuables, rights); 占有 = possess/occupy (with control, sometimes forcibly)",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "猜测",
+   "推测",
+   "猜",
+   "蒙"
+  ],
+  "sides": {
+   "猜测": "2k",
+   "推测": "5k",
+   "猜": "5k",
+   "蒙": "5k"
+  },
+  "kind": "join_existing",
+  "note": "蒙 = bluff/guess blindly (colloquial, no basis); 猜 = guess (everyday, intuitive); 猜测 = guess/conjecture (more considered, some basis); 推测 = surmise/infer (reasoned, evidence-based deduction)",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "飞行",
+   "飞",
+   "航行",
+   "航空"
+  ],
+  "sides": {
+   "飞行": "2k",
+   "飞": "5k",
+   "航行": "5k",
+   "航空": "5k"
+  },
+  "kind": "join_existing",
+  "note": "飞 = fly (everyday verb); 飞行 = fly/flight (formal technical, aviation context); 航行 = navigate/sail or fly (sea or air voyage); 航空 = aviation (noun/adj, industry term)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "聚",
+   "收集",
+   "集合",
+   "采集",
+   "收藏"
+  ],
+  "sides": {
+   "聚": "2k",
+   "收集": "2k",
+   "集合": "5k",
+   "采集": "5k",
+   "收藏": "5k"
+  },
+  "kind": "join_existing",
+  "note": "聚 = gather/assemble (people or things, naturally); 集合 = assemble (organised, commanded); 采集 = collect/harvest (specimens, data, natural resources); 收集 = gather/collect (items systematically); 收藏 = collect/keep (for pleasure or preservation — hobby)",
+  "shared_tag": "action_daily"
+ },
+ {
+  "members": [
+   "听见",
+   "听到"
+  ],
+  "sides": {
+   "听见": "2k",
+   "听到": "5k"
+  },
+  "kind": "join_existing",
+  "note": "Both mean 'to hear'; 听见 = hear (emphasises the sensory event — sound reached you); 听到 = hear (neutral completion — you received the sound)",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "使劲",
+   "使劲儿",
+   "拼命",
+   "付出",
+   "全力以赴"
+  ],
+  "sides": {
+   "使劲": "2k",
+   "使劲儿": "5k",
+   "拼命": "5k",
+   "付出": "2k",
+   "全力以赴": "5k"
+  },
+  "kind": "join_existing",
+  "note": "付出 = expend/invest (effort, money, emotion — what you give); 使劲/使劲儿 = exert force (physical effort, push hard; 儿 is spoken Beijing variant); 拼命 = with all one's might (desperate, intense manner adverb); 全力以赴 = go all out (idiom, total commitment)",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "出国",
+   "国外",
+   "海外",
+   "留学"
+  ],
+  "sides": {
+   "出国": "2k",
+   "国外": "5k",
+   "海外": "5k",
+   "留学": "5k"
+  },
+  "kind": "join_existing",
+  "note": "出国 = go abroad (verb-action, crossing the border); 国外 = abroad/overseas (location noun, neutral); 海外 = overseas (location noun, implies sea crossing, often diaspora/global); 留学 = study abroad (verb, specifically for education)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "害",
+   "危害",
+   "伤害"
+  ],
+  "sides": {
+   "害": "2k",
+   "危害": "5k",
+   "伤害": "5k"
+  },
+  "kind": "join_existing",
+  "note": "害 is the general root (harm as verb/noun); 危害 stresses endangering/threatening (health, society); 伤害 means physically or emotionally hurt (a person).",
+  "shared_tag": "cause_effect"
+ },
+ {
+  "members": [
+   "赶",
+   "赶到",
+   "赶快",
+   "赶紧",
+   "催",
+   "匆忙"
+  ],
+  "sides": {
+   "赶": "2k",
+   "赶到": "2k",
+   "赶快": "5k",
+   "赶紧": "5k",
+   "催": "5k",
+   "匆忙": "5k"
+  },
+  "kind": "join_existing",
+  "note": "赶 = hurry/catch (general verb); 赶到 = arrive by hurrying (resultative); 赶快 = imperative adverb 'hurry up!'; 赶紧 = hurry (self-motivated, softer than 赶快); 催 = to rush someone else; 匆忙 = in a rush (manner adjective/adverb).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "增",
+   "增多",
+   "增加",
+   "增长",
+   "增添",
+   "递增"
+  ],
+  "sides": {
+   "增": "2k",
+   "增多": "2k",
+   "增加": "5k",
+   "增长": "5k",
+   "增添": "5k",
+   "递增": "5k"
+  },
+  "kind": "join_existing",
+  "note": "增 = root morpheme (increase/add); 增多 = grow in number (intransitive, count nouns); 增加 = increase (transitive or intransitive, most neutral); 增长 = grow (often GDP/population, with scale sense); 增添 = add to/enrich (positive connotation); 递增 = increase incrementally/steadily.",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "介绍",
+   "引进"
+  ],
+  "sides": {
+   "介绍": "2k",
+   "引进": "2k"
+  },
+  "kind": "new",
+  "note": "介绍 = introduce a person, concept, or product to an audience; 引进 = bring in/import from outside (technology, talent, foreign goods).",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "推行",
+   "实行"
+  ],
+  "sides": {
+   "推行": "2k",
+   "实行": "5k"
+  },
+  "kind": "join_existing",
+  "note": "推行 = roll out/implement (pushing adoption, often policy); 实行 = put into practice (execute an already-decided plan). 推行 implies active promotion; 实行 implies execution.",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "跳",
+   "蹦",
+   "跳跃"
+  ],
+  "sides": {
+   "跳": "2k",
+   "蹦": "5k",
+   "跳跃": "5k"
+  },
+  "kind": "join_existing",
+  "note": "跳 = general jump/hop; 蹦 = bounce/spring (short, lively hops); 跳跃 = leap (formal/literary, often figurative).",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "爱",
+   "喜爱",
+   "热爱",
+   "恋爱"
+  ],
+  "sides": {
+   "爱": "2k",
+   "喜爱": "2k",
+   "热爱": "5k",
+   "恋爱": "5k"
+  },
+  "kind": "join_existing",
+  "note": "爱 = love/like (broad, deep); 喜爱 = like/be fond of (preference, lighter); 热爱 = love ardently (a cause, career, country); 恋爱 = be romantically in love (relationship state).",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "降",
+   "降低",
+   "降落",
+   "降临"
+  ],
+  "sides": {
+   "降": "2k",
+   "降低": "5k",
+   "降落": "5k",
+   "降临": "5k"
+  },
+  "kind": "join_existing",
+  "note": "降 = descend/lower (root); 降低 = reduce a level or quantity (transitive: lower costs); 降落 = physically land (aircraft, object); 降临 = befall/descend upon (events, literary).",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "遇",
+   "遇见",
+   "碰见",
+   "逢",
+   "会晤"
+  ],
+  "sides": {
+   "遇": "2k",
+   "遇见": "2k",
+   "碰见": "5k",
+   "逢": "5k",
+   "会晤": "5k"
+  },
+  "kind": "join_existing",
+  "note": "遇 = encounter (root, often unplanned); 遇见 = run into (colloquial, neutral); 碰见 = bump into (casual, chance); 逢 = meet/on the occasion of (literary/set phrases); 会晤 = meet formally (diplomatic/official).",
+  "shared_tag": "relationship_social"
+ },
+ {
+  "members": [
+   "连接",
+   "衔接",
+   "链接"
+  ],
+  "sides": {
+   "连接": "2k",
+   "衔接": "5k",
+   "链接": "5k"
+  },
+  "kind": "join_existing",
+  "note": "连接 = connect/link (general, physical or abstract); 衔接 = link up smoothly (join segments without gap); 链接 = hyperlink (tech/internet context).",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "吸",
+   "吸收",
+   "吸取",
+   "摄取"
+  ],
+  "sides": {
+   "吸": "2k",
+   "吸收": "5k",
+   "吸取": "5k",
+   "摄取": "5k"
+  },
+  "kind": "join_existing",
+  "note": "吸 = inhale/suck in (physical action); 吸收 = absorb/assimilate (physics, nutrients, ideas); 吸取 = draw/extract (lessons, experience); 摄取 = intake/ingest (nutritional/biological).",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "减轻",
+   "缓解",
+   "缓和"
+  ],
+  "sides": {
+   "减轻": "2k",
+   "缓解": "5k",
+   "缓和": "5k"
+  },
+  "kind": "join_existing",
+  "note": "减轻 = reduce the weight/burden/severity (measurable decrease); 缓解 = ease/relieve temporarily (symptoms, pressure); 缓和 = relax/defuse (tension, conflict, relations).",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "笑",
+   "微笑"
+  ],
+  "sides": {
+   "笑": "2k",
+   "微笑": "5k"
+  },
+  "kind": "join_existing",
+  "note": "笑 = laugh or smile broadly (covers both laughter and smiling); 微笑 = smile gently (no laughing, often warm/polite).",
+  "shared_tag": "communication_emotion"
+ },
+ {
+  "members": [
+   "补",
+   "修",
+   "修复",
+   "修理"
+  ],
+  "sides": {
+   "补": "2k",
+   "修": "5k",
+   "修复": "5k",
+   "修理": "5k"
+  },
+  "kind": "join_existing",
+  "note": "补 = patch/mend or make up for (also figurative:补缺); 修 = repair (colloquial, general); 修理 = fix a specific broken object (hands-on); 修复 = restore damaged or destroyed items (includes digital/ecological).",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "测",
+   "测量"
+  ],
+  "sides": {
+   "测": "2k",
+   "测量": "5k"
+  },
+  "kind": "join_existing",
+  "note": "测 = measure/test (root morpheme, often in compounds); 测量 = measure with instruments (surveying, scientific measurement).",
+  "shared_tag": "science_research"
+ },
+ {
+  "members": [
+   "查询",
+   "咨询"
+  ],
+  "sides": {
+   "查询": "2k",
+   "咨询": "5k"
+  },
+  "kind": "join_existing",
+  "note": "查询 = query facts/data/records (look something up); 咨询 = consult an expert or service for advice.",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "松",
+   "放松"
+  ],
+  "sides": {
+   "松": "2k",
+   "放松": "5k"
+  },
+  "kind": "join_existing",
+  "note": "松 = loose/slack (state adjective, or verb: loosen); 放松 = relax/let go (deliberate action, often mental relaxation).",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "闹",
+   "吵",
+   "嘈杂"
+  ],
+  "sides": {
+   "闹": "2k",
+   "吵": "5k",
+   "嘈杂": "5k"
+  },
+  "kind": "join_existing",
+  "note": "闹 = make noise/fuss/cause trouble (includes rowdy behavior); 吵 = quarrel or be noisy (implies conflict or grating noise); 嘈杂 = clamorous/noisy (adjective, ambient sound, no conflict).",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "敲门",
+   "敲",
+   "磕"
+  ],
+  "sides": {
+   "敲门": "2k",
+   "敲": "5k",
+   "磕": "5k"
+  },
+  "kind": "join_existing",
+  "note": "敲门 = knock on a door (fixed phrase); 敲 = knock/rap (deliberate strike on a surface); 磕 = accidentally knock/tap against something.",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "缺",
+   "贫乏"
+  ],
+  "sides": {
+   "缺": "2k",
+   "贫乏": "5k"
+  },
+  "kind": "join_existing",
+  "note": "缺 = to lack (verb) or shortage (noun), specific deficit; 贫乏 = scarce/impoverished (adjective), general insufficiency of resources or content.",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "造",
+   "制成"
+  ],
+  "sides": {
+   "造": "2k",
+   "制成": "2k"
+  },
+  "kind": "new",
+  "note": "造 = make/build/create (general, broad); 制成 = manufacture into a finished product (stresses the end result of production).",
+  "shared_tag": "industry_production"
+ },
+ {
+  "members": [
+   "遇见",
+   "遇",
+   "逢",
+   "遭到"
+  ],
+  "sides": {
+   "遇见": "2k",
+   "遇": "2k",
+   "逢": "5k",
+   "遭到": "5k"
+  },
+  "kind": "join_existing",
+  "note": "遇见 = colloquial chance meeting (person); 遇 = literary/compound base (encounter, also adversity); 逢 = literary every-time-occasion sense; 遭到 = meet with something bad only",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "遇见",
+   "接",
+   "见",
+   "会晤"
+  ],
+  "sides": {
+   "遇见": "2k",
+   "接": "5k",
+   "见": "5k",
+   "会晤": "5k"
+  },
+  "kind": "join_existing",
+  "note": "接 = go to meet/receive (arranged, pick up); 见 = see/meet (perception-based); 遇见 = chance run-in; 会晤 = formal talks between officials",
+  "shared_tag": "relationship_social"
+ },
+ {
+  "members": [
+   "提起",
+   "提到",
+   "提"
+  ],
+  "sides": {
+   "提起": "2k",
+   "提到": "2k",
+   "提": "5k"
+  },
+  "kind": "join_existing",
+  "note": "提 = base verb (carry/mention); 提到 = neutral reference to a topic; 提起 = initiate a topic or stir up (emotionally charged, often formal)",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "交费",
+   "付",
+   "付款",
+   "缴纳"
+  ],
+  "sides": {
+   "交费": "2k",
+   "付": "2k",
+   "付款": "5k",
+   "缴纳": "5k"
+  },
+  "kind": "join_existing",
+  "note": "付 = pay/hand over (general); 付款 = make a payment (transaction); 交费 = pay a fee to an institution; 缴纳 = pay obligatory dues/taxes (formal)",
+  "shared_tag": "transaction"
+ },
+ {
+  "members": [
+   "配",
+   "合",
+   "符合"
+  ],
+  "sides": {
+   "配": "2k",
+   "合": "5k",
+   "符合": "5k"
+  },
+  "kind": "join_existing",
+  "note": "配 = actively pair/complement (colors, partners, flavors); 合 = join so parts fit together; 符合 = conform to a standard or requirement",
+  "shared_tag": "abstract_relation"
+ },
+ {
+  "members": [
+   "测",
+   "测量",
+   "调查",
+   "勘探"
+  ],
+  "sides": {
+   "测": "2k",
+   "测量": "5k",
+   "调查": "5k",
+   "勘探": "5k"
+  },
+  "kind": "join_existing",
+  "note": "测 = measure/test (general, incl. estimating); 测量 = measure physical dimensions precisely; 调查 = investigate/survey people or facts; 勘探 = prospect/survey terrain for resources",
+  "shared_tag": "science_research"
+ },
+ {
+  "members": [
+   "获取",
+   "获得"
+  ],
+  "sides": {
+   "获取": "2k",
+   "获得": "5k"
+  },
+  "kind": "join_existing",
+  "note": "获取 = actively fetch/acquire (information, data, resources — process-focused); 获得 = obtain a result or achievement (outcome-focused, slightly more formal)",
+  "shared_tag": "action_daily"
+ },
+ {
+  "members": [
+   "预备",
+   "筹备"
+  ],
+  "sides": {
+   "预备": "2k",
+   "筹备": "5k"
+  },
+  "kind": "join_existing",
+  "note": "预备 = get ready personally (simple preparation, also adj. preparatory); 筹备 = organize and arrange (events, projects — involves coordination)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "演",
+   "表演",
+   "扮演"
+  ],
+  "sides": {
+   "演": "2k",
+   "表演": "5k",
+   "扮演": "5k"
+  },
+  "kind": "join_existing",
+  "note": "演 = perform broadly (act,演奏 music, lecture); 表演 = perform for an audience (demonstrate a skill or act); 扮演 = play a specific character/role",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "促销",
+   "推广"
+  ],
+  "sides": {
+   "促销": "2k",
+   "推广": "5k"
+  },
+  "kind": "join_existing",
+  "note": "促销 = promote sales via discounts/campaigns (commercial); 推广 = popularize/roll out broadly (policy, methods, technology — not necessarily commercial)",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "练",
+   "练习",
+   "操练",
+   "演习"
+  ],
+  "sides": {
+   "练": "2k",
+   "练习": "5k",
+   "操练": "5k",
+   "演习": "5k"
+  },
+  "kind": "join_existing",
+  "note": "练 = practice a skill (general); 练习 = do exercises/drills (educational setting); 操练 = military or physical drill by repetition; 演习 = full-scale military exercise/maneuver",
+  "shared_tag": "action_learning"
+ },
+ {
+  "members": [
+   "保",
+   "保护",
+   "爱护",
+   "守护"
+  ],
+  "sides": {
+   "保": "2k",
+   "保护": "5k",
+   "爱护": "5k",
+   "守护": "5k"
+  },
+  "kind": "join_existing",
+  "note": "保 = protect/ensure (general base verb); 保护 = safeguard (standard neutral term); 爱护 = care for out of affection (people, things one values); 守护 = stand guard over (vigil, devoted protection)",
+  "shared_tag": "action_daily"
+ },
+ {
+  "members": [
+   "拔",
+   "抽",
+   "引",
+   "拉"
+  ],
+  "sides": {
+   "拔": "2k",
+   "抽": "2k",
+   "引": "2k",
+   "拉": "5k"
+  },
+  "kind": "join_existing",
+  "note": "拔 = pull out forcefully (stuck objects: teeth, nails, weeds); 抽 = extract with sliding motion (cards, draw liquid, smoke); 引 = pull/attract/lead (abstract or directional, guide); 拉 = pull toward oneself (rope, handle, bow strings)",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "移",
+   "挪"
+  ],
+  "sides": {
+   "移": "2k",
+   "挪": "5k"
+  },
+  "kind": "join_existing",
+  "note": "移 = move/shift (general, can be figurative: emigrate, transfer); 挪 = physically nudge/shift a small object to make room (colloquial, concrete)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "挑",
+   "拣",
+   "选拔"
+  ],
+  "sides": {
+   "挑": "2k",
+   "拣": "5k",
+   "选拔": "5k"
+  },
+  "kind": "join_existing",
+  "note": "挑 = pick with a discerning/picky eye (implies fussiness); 拣 = sort and pick out (practical selection); 选拔 = formally select talent or candidates (competitive)",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "放下",
+   "搁",
+   "放"
+  ],
+  "sides": {
+   "放下": "2k",
+   "搁": "5k",
+   "放": "5k"
+  },
+  "kind": "join_existing",
+  "note": "放 = put down/release (general); 放下 = set down and let go (also fig. let go emotionally); 搁 = set aside/shelve (implies leaving it there, often indefinitely)",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "退出",
+   "戒",
+   "撤退",
+   "退"
+  ],
+  "sides": {
+   "退出": "2k",
+   "戒": "2k",
+   "撤退": "5k",
+   "退": "5k"
+  },
+  "kind": "join_existing",
+  "note": "退出 = exit a place/app/organization; 戒 = quit a habit (smoking, drinking) by self-discipline; 撤退 = military/tactical withdrawal; 退 = back up or return something",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "认出",
+   "认",
+   "识别",
+   "辨认",
+   "承认"
+  ],
+  "sides": {
+   "认出": "2k",
+   "认": "2k",
+   "识别": "5k",
+   "辨认": "5k",
+   "承认": "5k"
+  },
+  "kind": "join_existing",
+  "note": "认出 = recognize a known person/thing on sight; 认 = recognize or admit (broad base verb); 识别 = identify by category/system; 辨认 = identify by careful scrutiny; 承认 = admit/acknowledge (a fact, guilt)",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "更换",
+   "替",
+   "替代",
+   "代替",
+   "换",
+   "代"
+  ],
+  "sides": {
+   "更换": "2k",
+   "替": "2k",
+   "替代": "2k",
+   "代替": "5k",
+   "换": "5k",
+   "代": "2k"
+  },
+  "kind": "join_existing",
+  "note": "更换 = swap out (formal, objects); 替 = do something in place of someone; 替代 = substitute (abstract/systemic); 代替 = replace/act for (general); 换 = exchange or switch; 代 = act for + era/generation (multi-sense morpheme)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "上升",
+   "上涨",
+   "升高",
+   "涨价",
+   "涨",
+   "升",
+   "提高"
+  ],
+  "sides": {
+   "上升": "2k",
+   "上涨": "2k",
+   "升高": "2k",
+   "涨价": "2k",
+   "涨": "5k",
+   "升": "5k",
+   "提高": "5k"
+  },
+  "kind": "join_existing",
+  "note": "涨/上涨/涨价 = prices/levels surge (market connotation); 上升/升 = rise physically or in rank; 升高 = rise in measurable degree (temperature, level); 提高 = raise intentionally (quality, standard)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "养",
+   "饲养",
+   "抚养",
+   "培养"
+  ],
+  "sides": {
+   "养": "2k",
+   "饲养": "5k",
+   "抚养": "5k",
+   "培养": "5k"
+  },
+  "kind": "join_existing",
+  "note": "养 = general raise/keep (children or pets); 饲养 = feed and raise animals (husbandry); 抚养 = raise and provide for children (legal/familial); 培养 = nurture/develop people or skills (education context)",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "归",
+   "返回",
+   "回来",
+   "归还"
+  ],
+  "sides": {
+   "归": "2k",
+   "返回": "2k",
+   "回来": "5k",
+   "归还": "5k"
+  },
+  "kind": "join_existing",
+  "note": "返回 = go/travel back (neutral direction); 回来 = come back toward speaker; 归 = return to one's place/origin (literary) or belong to; 归还 = give back a borrowed object",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "看成",
+   "视为",
+   "看待",
+   "认为"
+  ],
+  "sides": {
+   "看成": "2k",
+   "视为": "2k",
+   "看待": "5k",
+   "认为": "5k"
+  },
+  "kind": "join_existing",
+  "note": "看成/视为 = regard X as Y (equating two things); 视为 is more formal/written; 看待 = treat/view (attitude toward something); 认为 = hold an opinion, think that",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "剩下",
+   "剩",
+   "残留"
+  ],
+  "sides": {
+   "剩下": "2k",
+   "剩": "5k",
+   "残留": "5k"
+  },
+  "kind": "join_existing",
+  "note": "剩/剩下 = be left over after use/consumption; 残留 = linger on as a remnant or residue (often negative connotation: pollutant, trace)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "记住",
+   "想起",
+   "想到",
+   "记忆"
+  ],
+  "sides": {
+   "记住": "2k",
+   "想起": "2k",
+   "想到": "5k",
+   "记忆": "5k"
+  },
+  "kind": "join_existing",
+  "note": "记住 = commit to memory (active memorizing); 想起 = recall something previously forgotten; 想到 = think of/realize (may be spontaneous); 记忆 = memory as faculty or stored recollection (noun/verb)",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "减",
+   "减少",
+   "缩小",
+   "压缩",
+   "降低"
+  ],
+  "sides": {
+   "减": "2k",
+   "减少": "5k",
+   "缩小": "5k",
+   "压缩": "5k",
+   "降低": "5k"
+  },
+  "kind": "join_existing",
+  "note": "减 = subtract/reduce (math, general morpheme); 减少 = reduce in quantity/amount; 缩小 = shrink in size/scope; 压缩 = compress (file, gas, cut budget tightly); 降低 = bring down a level or standard",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "接到",
+   "接受",
+   "受到",
+   "受"
+  ],
+  "sides": {
+   "接到": "2k",
+   "接受": "5k",
+   "受到": "5k",
+   "受": "5k"
+  },
+  "kind": "join_existing",
+  "note": "接到 = receive a specific communication (call, letter); 接受 = accept/take in (implies willingness); 受到 = be subjected to / undergo (often impact or treatment); 受 = receive or endure (broad base verb)",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "汇",
+   "汇款"
+  ],
+  "sides": {
+   "汇": "2k",
+   "汇款": "2k"
+  },
+  "kind": "new",
+  "note": "汇 = remit money (verb morpheme); 汇款 = remittance as noun or verb phrase (more complete collocation used in transactions)",
+  "shared_tag": "transaction"
+ },
+ {
+  "members": [
+   "录",
+   "抄",
+   "复印"
+  ],
+  "sides": {
+   "录": "2k",
+   "抄": "5k",
+   "复印": "5k"
+  },
+  "kind": "join_existing",
+  "note": "录 = record (audio/video/data); 抄 = hand-copy text (also plagiarize); 复印 = photocopy a document (machine reproduction)",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "骑车",
+   "乘车",
+   "乘坐",
+   "乘",
+   "搭"
+  ],
+  "sides": {
+   "骑车": "2k",
+   "乘车": "2k",
+   "乘坐": "5k",
+   "乘": "5k",
+   "搭": "5k"
+  },
+  "kind": "join_existing",
+  "note": "骑车 = ride a bicycle/motorbike (straddle-type); 乘车 = travel by car/vehicle (passenger); 乘/乘坐 = ride/travel by (formal; 乘 also means multiply); 搭 = hitch a ride or take public transport (colloquial)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "赏",
+   "欣赏",
+   "佩服"
+  ],
+  "sides": {
+   "赏": "2k",
+   "欣赏": "5k",
+   "佩服": "5k"
+  },
+  "kind": "join_existing",
+  "note": "欣赏 = appreciate beauty/art/performance (enjoyment); 赏 = admire scenery OR reward/bestow (classical, dual sense); 佩服 = admire someone's skill or character (colloquial respect)",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "出租",
+   "租赁"
+  ],
+  "sides": {
+   "出租": "2k",
+   "租赁": "5k"
+  },
+  "kind": "join_existing",
+  "note": "出租 = rent out to someone (landlord/lessor perspective); 租赁 = lease/rental arrangement (neutral legal term, used by either party)",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "举手",
+   "抬头",
+   "举"
+  ],
+  "sides": {
+   "举手": "2k",
+   "抬头": "2k",
+   "举": "5k"
+  },
+  "kind": "join_existing",
+  "note": "举手 = raise one's hand (specific gesture, e.g. voting or asking); 抬头 = raise one's head (look up); 举 = lift/raise in general or cite an example (broader base verb)",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "装修",
+   "装饰"
+  ],
+  "sides": {
+   "装修": "2k",
+   "装饰": "5k"
+  },
+  "kind": "join_existing",
+  "note": "装修 = renovate/fit out a building (construction work); 装饰 = decorate with ornaments (aesthetic embellishment, no structural work)",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "加速",
+   "加快"
+  ],
+  "sides": {
+   "加速": "2k",
+   "加快": "2k"
+  },
+  "kind": "new",
+  "note": "加速 = accelerate (physics/formal, rate of speed); 加快 = speed up a pace or progress (broader, less technical)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "卖",
+   "出售",
+   "销售"
+  ],
+  "sides": {
+   "卖": "2k",
+   "出售": "2k",
+   "销售": "5k"
+  },
+  "kind": "join_existing",
+  "note": "卖 = everyday sell (colloquial, any context); 出售 = offer for sale (formal/written, e.g. signs); 销售 = sell as a business activity or sales volume (corporate/econ.)",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "隔开",
+   "隔",
+   "分离",
+   "分开",
+   "分散"
+  ],
+  "sides": {
+   "隔开": "2k",
+   "隔": "2k",
+   "分离": "2k",
+   "分开": "2k",
+   "分散": "5k"
+  },
+  "kind": "join_existing",
+  "note": "隔/隔开 = separate by physical barrier or interval; 分开 = split apart (general, reversible); 分离 = separate with a sense of parting (often people/components); 分散 = scatter/disperse into multiple parts",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "搜",
+   "寻求",
+   "搜索",
+   "寻觅",
+   "寻找"
+  ],
+  "sides": {
+   "搜": "2k",
+   "寻求": "2k",
+   "搜索": "5k",
+   "寻觅": "5k",
+   "寻找": "5k"
+  },
+  "kind": "join_existing",
+  "note": "搜/搜索 = search by scanning (physical search, internet); 寻找 = look for a specific target; 寻求 = seek/pursue (abstract goals, solutions); 寻觅 = search with longing (literary/emotional)",
+  "shared_tag": "action_daily"
+ },
+ {
+  "members": [
+   "看见",
+   "看到"
+  ],
+  "sides": {
+   "看见": "2k",
+   "看到": "5k"
+  },
+  "kind": "join_existing",
+  "note": "看见 = catch sight of (emphasises moment of visual perception); 看到 = see/notice (slightly broader, neutral result)",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "送给",
+   "发送"
+  ],
+  "sides": {
+   "送给": "2k",
+   "发送": "2k"
+  },
+  "kind": "new",
+  "note": "送给 = give as a gift or hand something to someone; 发送 = transmit/send digitally or officially (messages, signals)",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "签",
+   "签约",
+   "签证"
+  ],
+  "sides": {
+   "签": "2k",
+   "签约": "2k",
+   "签证": "5k"
+  },
+  "kind": "join_existing",
+  "note": "签 = sign (a document, general); 签约 = sign a contract (verb-object, commercial/legal); 签证 = visa (noun, admin document bearing official signature/stamp)",
+  "shared_tag": "law_admin_doc"
+ },
+ {
+  "members": [
+   "唱",
+   "演唱"
+  ],
+  "sides": {
+   "唱": "2k",
+   "演唱": "2k"
+  },
+  "kind": "new",
+  "note": "唱 = sing (everyday, any context); 演唱 = sing in a formal or stage performance (implies an audience)",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "吸烟",
+   "抽烟"
+  ],
+  "sides": {
+   "吸烟": "2k",
+   "抽烟": "5k"
+  },
+  "kind": "join_existing",
+  "note": "吸烟 = smoke (formal/written, e.g. no-smoking signs); 抽烟 = smoke (colloquial everyday speech)",
+  "shared_tag": "action_daily"
+ },
+ {
+  "members": [
+   "讲话",
+   "讲",
+   "发言"
+  ],
+  "sides": {
+   "讲话": "2k",
+   "讲": "5k",
+   "发言": "5k"
+  },
+  "kind": "join_existing",
+  "note": "讲 = speak/explain (general, any register); 讲话 = speak or give a speech (semi-formal, implies a speech act); 发言 = make a public statement or address (formal/institutional)",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "共享",
+   "分享"
+  ],
+  "sides": {
+   "共享": "2k",
+   "分享": "5k"
+  },
+  "kind": "join_existing",
+  "note": "共享 = jointly share/use something (shared resources, infrastructure); 分享 = share with others by passing on or communicating (feelings, content, experiences)",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "启动",
+   "带动"
+  ],
+  "sides": {
+   "启动": "2k",
+   "带动": "2k"
+  },
+  "kind": "new",
+  "note": "启动 = start/launch (initiate a process: engine, project, system); 帤动 = drive/spur one thing by means of another (cause-effect, pulling effect)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "带动",
+   "动力"
+  ],
+  "sides": {
+   "带动": "2k",
+   "动力": "5k"
+  },
+  "kind": "join_existing",
+  "note": "带动 = to drive/spur (active verb: one thing drives another); 动力 = driving force/impetus (noun: the force or motivation itself)",
+  "shared_tag": "cause_effect"
+ },
+ {
+  "members": [
+   "停",
+   "停下",
+   "停止",
+   "暂停",
+   "停顿"
+  ],
+  "sides": {
+   "停": "2k",
+   "停下": "2k",
+   "停止": "5k",
+   "暂停": "2k",
+   "停顿": "5k"
+  },
+  "kind": "join_existing",
+  "note": "停 = general stop/park; 停下 = abrupt stop of movement/action (spoken); 停止 = cease (formal, ongoing action); 暂停 = temporary pause (resumes later); 停顿 = brief pause mid-flow (speech, music)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "停留",
+   "待",
+   "留",
+   "留下"
+  ],
+  "sides": {
+   "停留": "2k",
+   "待": "5k",
+   "留": "5k",
+   "留下": "5k"
+  },
+  "kind": "join_existing",
+  "note": "停留 = stop over at a place (movement context); 待 = idle stay, hang around (colloquial); 留 = remain/keep (general, incl. leaving sth behind); 留下 = stay on OR leave sth behind (resultative)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "转换",
+   "转化",
+   "转变",
+   "改造",
+   "改变"
+  ],
+  "sides": {
+   "转换": "2k",
+   "转化": "2k",
+   "转变": "5k",
+   "改造": "2k",
+   "改变": "5k"
+  },
+  "kind": "join_existing",
+  "note": "转换 = switch between modes/channels (technical, reversible); 转化 = convert/transform substance or nature into sth new; 转变 = shift direction or stance (abstract, purposeful); 改造 = physically remodel or restructure; 改变 = intentionally change (broad, everyday)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "供应",
+   "供给",
+   "供",
+   "提供"
+  ],
+  "sides": {
+   "供应": "2k",
+   "供给": "5k",
+   "供": "5k",
+   "提供": "5k"
+  },
+  "kind": "join_existing",
+  "note": "供应 = supply goods/materials (commercial, ongoing flow); 供给 = supply in economic sense (econ. term, supply-demand); 供 = provide for (literary/formal base verb); 提供 = provide/offer (widest, incl. services, information)",
+  "shared_tag": "commerce_trade"
+ },
+ {
+  "members": [
+   "偷",
+   "盗窃",
+   "抢"
+  ],
+  "sides": {
+   "偷": "2k",
+   "盗窃": "5k",
+   "抢": "5k"
+  },
+  "kind": "join_existing",
+  "note": "偷 = steal covertly (everyday verb); 盗窃 = theft/steal (legal/formal, written); 抢 = snatch or rob by force (overt violence)",
+  "shared_tag": "law_justice"
+ },
+ {
+  "members": [
+   "走进",
+   "进入",
+   "入"
+  ],
+  "sides": {
+   "走进": "2k",
+   "进入": "5k",
+   "入": "5k"
+  },
+  "kind": "join_existing",
+  "note": "走进 = walk/step into (physical, directional movement); 进入 = enter (broad: place, field, phase); 入 = enter/join (literary or compound base)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "转弯",
+   "拐弯",
+   "转身"
+  ],
+  "sides": {
+   "转弯": "2k",
+   "拐弯": "5k",
+   "转身": "2k"
+  },
+  "kind": "join_existing",
+  "note": "转弯 = turn a corner (vehicle/road, neutral); 拐弯 = turn a corner (slightly colloquial, also fig. 'beat around the bush'); 转身 = turn one's body around (person, not a road)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "懂",
+   "理解",
+   "领会",
+   "清楚"
+  ],
+  "sides": {
+   "懂": "2k",
+   "理解": "5k",
+   "领会": "5k",
+   "清楚": "5k"
+  },
+  "kind": "join_existing",
+  "note": "懂 = understand intuitively (know how/what, colloquial); 理解 = grasp meaning through reasoning; 领会 = comprehend through instruction or reflection; 清楚 = clear-headed, know clearly (also adj.)",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "检测",
+   "检验",
+   "检查",
+   "测验",
+   "考验",
+   "化验",
+   "探测"
+  ],
+  "sides": {
+   "检测": "2k",
+   "检验": "5k",
+   "检查": "5k",
+   "测验": "5k",
+   "考验": "5k",
+   "化验": "5k",
+   "探测": "5k"
+  },
+  "kind": "join_existing",
+  "note": "检测 = detect/measure (instrument or sensor); 检验 = inspect/test quality or validity; 检查 = routine check/inspection (medical or compliance); 测验 = classroom quiz or test; 考验 = life/moral ordeal, trial; 化验 = lab assay/analysis; 探测 = probe/detect remotely (instruments, space)",
+  "shared_tag": "science_research"
+ },
+ {
+  "members": [
+   "中奖",
+   "获奖",
+   "赢"
+  ],
+  "sides": {
+   "中奖": "2k",
+   "获奖": "2k",
+   "赢": "5k"
+  },
+  "kind": "join_existing",
+  "note": "中奖 = win by chance (lottery, lucky draw); 获奖 = receive a merit-based award/prize; 赢 = win (competition, game — broadest)",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "谈话",
+   "谈",
+   "商量"
+  ],
+  "sides": {
+   "谈话": "2k",
+   "谈": "5k",
+   "商量": "5k"
+  },
+  "kind": "join_existing",
+  "note": "谈话 = a talk or conversation (can be noun; often semi-formal); 谈 = talk/discuss (general verb); 商量 = consult and talk it over (informal, mutual)",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "增强",
+   "加强",
+   "增加"
+  ],
+  "sides": {
+   "增强": "2k",
+   "加强": "5k",
+   "增加": "5k"
+  },
+  "kind": "join_existing",
+  "note": "增强 = strengthen/enhance quality or capability; 加强 = reinforce/intensify (often formal: security, ties); 增加 = increase in quantity or amount (quantitative)",
+  "shared_tag": "process_change"
+ },
+ {
+  "members": [
+   "围",
+   "包围",
+   "周围"
+  ],
+  "sides": {
+   "围": "2k",
+   "包围": "5k",
+   "周围": "5k"
+  },
+  "kind": "join_existing",
+  "note": "围 = surround or wrap (verb, physical action); 包围 = encircle/surround completely (military or tight closure); 周围 = surroundings, the area around (location noun/adverb)",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "结",
+   "捆绑",
+   "系领带"
+  ],
+  "sides": {
+   "结": "2k",
+   "捆绑": "5k",
+   "系领带": "5k"
+  },
+  "kind": "join_existing",
+  "note": "结 = tie a knot (general, also: knot as noun); 捆绑 = bind/tie up tightly (restraining a person or bundle); 系领带 = tie a necktie (specific clothing action)",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "拍照",
+   "摄像"
+  ],
+  "sides": {
+   "拍照": "2k",
+   "摄像": "2k"
+  },
+  "kind": "new",
+  "note": "拍照 = take a still photograph; 摄像 = record video/film (moving image)",
+  "shared_tag": "action_daily"
+ },
+ {
+  "members": [
+   "中奖",
+   "获奖",
+   "赢得",
+   "胜",
+   "赢",
+   "胜利"
+  ],
+  "sides": {
+   "中奖": "2k",
+   "获奖": "2k",
+   "赢得": "2k",
+   "胜": "2k",
+   "赢": "5k",
+   "胜利": "5k"
+  },
+  "kind": "join_existing",
+  "note": "中奖 = win a lottery/prize draw (chance); 获奖 = receive a formal award/prize (achievement); 赢得 = win/gain something through effort (takes an object: trust, title); 赢 = simply win a contest/game; 胜 = beat an opponent (verb, also adj 'superior'); 胜利 = victory (noun, often military/political)",
+  "shared_tag": "event_situation"
+ },
+ {
+  "members": [
+   "愁",
+   "担心",
+   "操心",
+   "顾虑"
+  ],
+  "sides": {
+   "愁": "2k",
+   "担心": "5k",
+   "操心": "5k",
+   "顾虑": "5k"
+  },
+  "kind": "join_existing",
+  "note": "愁 = sad, melancholic worry (diffuse, emotional); 担心 = worry about something specific; 操心 = actively worry on behalf of others; 顾虑 = misgivings/reservations that hold you back",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "愿",
+   "愿意",
+   "乐意"
+  ],
+  "sides": {
+   "愿": "2k",
+   "愿意": "5k",
+   "乐意": "5k"
+  },
+  "kind": "join_existing",
+  "note": "愿 = wish/desire (also used in set phrases); 愿意 = be willing to do sth (neutral); 乐意 = be glad/happy to do sth (positive affect)",
+  "shared_tag": "attitude"
+ },
+ {
+  "members": [
+   "总数",
+   "总和",
+   "共计",
+   "总共",
+   "共"
+  ],
+  "sides": {
+   "总数": "2k",
+   "总和": "5k",
+   "共计": "5k",
+   "总共": "5k",
+   "共": "5k"
+  },
+  "kind": "join_existing",
+  "note": "总数 = total count/number (noun, refers to a quantity of items); 总和 = sum/total (noun, mathematical); 共计 = to total, amounts to (verb/adv, formal); 总共 = in total (adverb, pure quantity); 共 = together/in total (shortest, also means 'together')",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "列车",
+   "火车"
+  ],
+  "sides": {
+   "列车": "2k",
+   "火车": "2k"
+  },
+  "kind": "new",
+  "note": "火车 = train (everyday spoken word); 列车 = train (formal/written, also used for scheduled train services)",
+  "shared_tag": "transport_travel"
+ },
+ {
+  "members": [
+   "游客",
+   "旅客"
+  ],
+  "sides": {
+   "游客": "2k",
+   "旅客": "2k"
+  },
+  "kind": "new",
+  "note": "游客 = tourist (sightseeing, leisure traveler); 旅客 = traveler/passenger (any traveler, incl. transit)",
+  "shared_tag": "person"
+ },
+ {
+  "members": [
+   "培训班",
+   "培训",
+   "培养",
+   "训练"
+  ],
+  "sides": {
+   "培训班": "2k",
+   "培训": "5k",
+   "培养": "5k",
+   "训练": "5k"
+  },
+  "kind": "join_existing",
+  "note": "培训班 = training class (a scheduled course/class); 培训 = vocational training (the process, workplace-oriented); 培养 = nurture/develop over time (people, skills, habits); 训练 = drill/train (repeated practice, sport or military)",
+  "shared_tag": "education"
+ },
+ {
+  "members": [
+   "宁静",
+   "安宁",
+   "平静",
+   "镇静",
+   "沉着"
+  ],
+  "sides": {
+   "宁静": "2k",
+   "安宁": "5k",
+   "平静": "5k",
+   "镇静": "5k",
+   "沉着": "5k"
+  },
+  "kind": "join_existing",
+  "note": "宁静 = serene (of environment/atmosphere, poetic); 安宁 = peaceful tranquility (freedom from disturbance); 平静 = calm (of a state or mood, neutral); 镇静 = composure, calm oneself down (after agitation); 沉着 = cool-headed under pressure (personality, action context)",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "懂得",
+   "了解",
+   "理解",
+   "领会",
+   "清楚"
+  ],
+  "sides": {
+   "懂得": "2k",
+   "了解": "5k",
+   "理解": "5k",
+   "领会": "5k",
+   "清楚": "5k"
+  },
+  "kind": "join_existing",
+  "note": "懂得 = know how to / understand (intuitive grasp, often of principles); 了解 = know about / find out (factual knowledge, investigation); 理解 = understand (grasp meaning/reasoning); 领会 = comprehend by guidance (absorb instruction/spirit); 清楚 = clear / understand clearly (adj. and verb)",
+  "shared_tag": "cognition"
+ },
+ {
+  "members": [
+   "之下",
+   "地下"
+  ],
+  "sides": {
+   "之下": "2k",
+   "地下": "2k"
+  },
+  "kind": "new",
+  "note": "之下 = under/beneath (abstract hierarchy: rule, pressure, conditions); 地下 = underground (physical location, also fig. clandestine)",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "转向",
+   "回头",
+   "拐弯"
+  ],
+  "sides": {
+   "转向": "2k",
+   "回头": "2k",
+   "拐弯": "5k"
+  },
+  "kind": "join_existing",
+  "note": "转向 = change direction / pivot (vehicle, policy, broad turn); 回头 = turn one's head back / return; also colloquial 'later'; 拐弯 = turn a corner (physical, road/path)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "交警",
+   "警察",
+   "警方"
+  ],
+  "sides": {
+   "交警": "2k",
+   "警察": "5k",
+   "警方": "5k"
+  },
+  "kind": "join_existing",
+  "note": "交警 = traffic police specifically; 警察 = police / police officer (general term); 警方 = the police as an institution / police side (used in news)",
+  "shared_tag": "occupation"
+ },
+ {
+  "members": [
+   "电视剧",
+   "连续剧",
+   "戏剧",
+   "悲剧"
+  ],
+  "sides": {
+   "电视剧": "2k",
+   "连续剧": "5k",
+   "戏剧": "5k",
+   "悲剧": "2k"
+  },
+  "kind": "join_existing",
+  "note": "电视剧 = TV drama/series (medium-specific); 连续剧 = serial/series (emphasises ongoing episodes); 戏剧 = drama/theater (art form, stage or screen); 悲剧 = tragedy (a genre, also fig. 'a tragedy')",
+  "shared_tag": "art"
+ },
+ {
+  "members": [
+   "宝",
+   "宝贵",
+   "珍贵",
+   "珍稀"
+  ],
+  "sides": {
+   "宝": "2k",
+   "宝贵": "5k",
+   "珍贵": "5k",
+   "珍稀": "5k"
+  },
+  "kind": "join_existing",
+  "note": "宝 = treasure (noun, also term of endearment); 宝贵 = valuable (experience, time, opportunities — abstract); 珍贵 = precious (rare objects, keepsakes, memories); 珍稀 = rare and scarce (species, resources — emphasises rarity)",
+  "shared_tag": "evaluation_adj"
+ },
+ {
+  "members": [
+   "大爷",
+   "叔叔",
+   "舅舅"
+  ],
+  "sides": {
+   "大爷": "2k",
+   "叔叔": "5k",
+   "舅舅": "5k"
+  },
+  "kind": "join_existing",
+  "note": "大爷 = polite address to an older man / paternal uncle (father's elder brother); 叔叔 = uncle (father's younger brother, also polite address to middle-aged man); 舅舅 = uncle (mother's brother)",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "观看",
+   "观察"
+  ],
+  "sides": {
+   "观看": "2k",
+   "观察": "5k"
+  },
+  "kind": "join_existing",
+  "note": "观看 = watch/view (entertainment, a performance, screen); 观察 = observe/study (with attention, scientific or investigative)",
+  "shared_tag": "perception"
+ },
+ {
+  "members": [
+   "走过",
+   "经过",
+   "穿越"
+  ],
+  "sides": {
+   "走过": "2k",
+   "经过": "5k",
+   "穿越": "5k"
+  },
+  "kind": "join_existing",
+  "note": "走过 = walk past (simple motion past a point); 经过 = pass through / by (also means 'the process of', broader); 穿越 = pass through / traverse (crossing through a space, also time-travel fiction)",
+  "shared_tag": "action_movement"
+ },
+ {
+  "members": [
+   "向",
+   "方向",
+   "导向"
+  ],
+  "sides": {
+   "向": "2k",
+   "方向": "5k",
+   "导向": "5k"
+  },
+  "kind": "join_existing",
+  "note": "向 = towards (preposition/direction marker); 方向 = direction (noun, the course one heads); 导向 = orientation/guide toward (institutional or ideological steering)",
+  "shared_tag": "direction"
+ },
+ {
+  "members": [
+   "急",
+   "紧急",
+   "紧迫",
+   "迫切",
+   "急切",
+   "焦急"
+  ],
+  "sides": {
+   "急": "2k",
+   "紧急": "5k",
+   "紧迫": "5k",
+   "迫切": "5k",
+   "急切": "5k",
+   "焦急": "5k"
+  },
+  "kind": "join_existing",
+  "note": "急 = hurried/urgent (general, also emotional impatience); 紧急 = urgent as emergency/crisis (objective); 紧迫 = pressing time pressure; 迫切 = urgent felt need/desire; 急切 = eagerly impatient (anxious tone); 焦急 = anxious worry",
+  "shared_tag": "emotion"
+ },
+ {
+  "members": [
+   "无疑",
+   "果然"
+  ],
+  "sides": {
+   "无疑": "2k",
+   "果然": "5k"
+  },
+  "kind": "join_existing",
+  "note": "无疑 = undoubtedly (speaker asserts certainty with no doubt); 果然 = sure enough / as expected (confirms a prior prediction)",
+  "shared_tag": "manner_adverb"
+ },
+ {
+  "members": [
+   "美金",
+   "美元"
+  ],
+  "sides": {
+   "美金": "2k",
+   "美元": "5k"
+  },
+  "kind": "join_existing",
+  "note": "美金 = US dollar (informal/spoken, mainland China); 美元 = US dollar (neutral formal term used in writing and official contexts)",
+  "shared_tag": "money"
+ },
+ {
+  "members": [
+   "乡村",
+   "村",
+   "农村"
+  ],
+  "sides": {
+   "乡村": "2k",
+   "村": "5k",
+   "农村": "5k"
+  },
+  "kind": "join_existing",
+  "note": "乡村 = countryside/rural area (pastoral, cultural concept); 村 = a specific village (settlement); 农村 = rural/farming area (administrative or economic framing)",
+  "shared_tag": "place"
+ },
+ {
+  "members": [
+   "墙壁",
+   "墙"
+  ],
+  "sides": {
+   "墙壁": "2k",
+   "墙": "5k"
+  },
+  "kind": "join_existing",
+  "note": "墙壁 = wall (emphatic compound; both characters mean wall; used in descriptive/formal contexts); 墙 = wall (everyday basic term)",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "库",
+   "仓库"
+  ],
+  "sides": {
+   "库": "2k",
+   "仓库": "5k"
+  },
+  "kind": "join_existing",
+  "note": "库 = warehouse/storehouse (single morpheme; often a suffix in compounds: 图书库, 数据库); 仓库 = warehouse (the standard standalone word)",
+  "shared_tag": "building"
+ },
+ {
+  "members": [
+   "暖",
+   "温暖"
+  ],
+  "sides": {
+   "暖": "2k",
+   "温暖": "5k"
+  },
+  "kind": "join_existing",
+  "note": "暖 = warm (basic adjective/verb for temperature); 温暖 = warm (richer; also figurative emotional warmth)",
+  "shared_tag": "sensation"
+ },
+ {
+  "members": [
+   "湿",
+   "潮湿"
+  ],
+  "sides": {
+   "湿": "2k",
+   "潮湿": "5k"
+  },
+  "kind": "join_existing",
+  "note": "湿 = wet or moist (something soaked/dampened); 潮湿 = damp/humid (ambient moisture, environment)",
+  "shared_tag": "manner_state"
+ },
+ {
+  "members": [
+   "动摇",
+   "摇摆",
+   "摇"
+  ],
+  "sides": {
+   "动摇": "2k",
+   "摇摆": "5k",
+   "摇": "5k"
+  },
+  "kind": "join_existing",
+  "note": "动摇 = waver in resolve/conviction (figurative, about willpower or stance); 摇 = physically shake or rock; 摇摆 = sway back and forth (physical or figurative indecision)",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "招手",
+   "挥"
+  ],
+  "sides": {
+   "招手": "2k",
+   "挥": "5k"
+  },
+  "kind": "join_existing",
+  "note": "招手 = wave/beckon to attract someone's attention; 挥 = wave/brandish (swing an arm, weapon, etc.) without the beckoning intent",
+  "shared_tag": "physical_action"
+ },
+ {
+  "members": [
+   "多种",
+   "各种"
+  ],
+  "sides": {
+   "多种": "2k",
+   "各种": "5k"
+  },
+  "kind": "join_existing",
+  "note": "多种 = many kinds/varieties (stresses quantity of types); 各种 = all kinds/every sort (stresses variety covering each type)",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "西部",
+   "西方"
+  ],
+  "sides": {
+   "西部": "2k",
+   "西方": "5k"
+  },
+  "kind": "join_existing",
+  "note": "西部 = the western part/region (geographic section of a country or area); 西方 = the West (civilizational/cultural concept; also used in religion)",
+  "shared_tag": "direction"
+ },
+ {
+  "members": [
+   "摄像机",
+   "照相机"
+  ],
+  "sides": {
+   "摄像机": "2k",
+   "照相机": "5k"
+  },
+  "kind": "join_existing",
+  "note": "摄像机 = video camera (records moving images); 照相机 = still camera (takes photographs)",
+  "shared_tag": "object_tech"
+ },
+ {
+  "members": [
+   "白",
+   "白色"
+  ],
+  "sides": {
+   "白": "2k",
+   "白色": "2k"
+  },
+  "kind": "new",
+  "note": "白 is the adjective/morpheme (白雪, 白天); 白色 is the standalone noun 'the color white' used in naming or labeling.",
+  "shared_tag": "color"
+ },
+ {
+  "members": [
+   "全身",
+   "一身",
+   "浑身"
+  ],
+  "sides": {
+   "全身": "2k",
+   "一身": "2k",
+   "浑身": "5k"
+  },
+  "kind": "join_existing",
+  "note": "全身 is neutral 'the whole body'; 浑身 (5k) adds emotional weight, often 'all over / soaked / aching'; 一身 emphasizes a state covering the person (一身汗 = covered in sweat), often in set phrases.",
+  "shared_tag": "body"
+ },
+ {
+  "members": [
+   "全场",
+   "全部",
+   "整",
+   "整整",
+   "整个",
+   "整体"
+  ],
+  "sides": {
+   "全场": "2k",
+   "全部": "5k",
+   "整": "2k",
+   "整整": "2k",
+   "整个": "5k",
+   "整体": "5k"
+  },
+  "kind": "join_existing",
+  "note": "全场 = whole audience/venue; 全部 (5k) = the total amount/all of it; 整 = exactly whole (整十年); 整整 = a full emphatic duration (整整三天); 整个 (5k) = the entire X as modifier; 整体 (5k) = the whole as a unified entity (noun).",
+  "shared_tag": "quantity_abstract"
+ },
+ {
+  "members": [
+   "全家",
+   "一家"
+  ],
+  "sides": {
+   "全家": "2k",
+   "一家": "5k"
+  },
+  "kind": "join_existing",
+  "note": "全家 = the whole family (emphasis on completeness); 一家 (5k) = the whole family OR one firm/establishment (ambiguous without context).",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "干什么",
+   "干吗"
+  ],
+  "sides": {
+   "干什么": "2k",
+   "干吗": "2k"
+  },
+  "kind": "new",
+  "note": "干什么 asks 'what are you doing?' (action-focused); 干吗 is more colloquial and skews toward 'why? / what for?' (reason-focused), often with impatience.",
+  "shared_tag": "action_communication"
+ },
+ {
+  "members": [
+   "之内",
+   "以内",
+   "之中"
+  ],
+  "sides": {
+   "之内": "2k",
+   "以内": "2k",
+   "之中": "5k"
+  },
+  "kind": "join_existing",
+  "note": "之内 = within a limit/boundary (written); 以内 = within/not exceeding (often quantitative: 一周以内); 之中 (5k) = amid/within a set or space (书中之中 — more literary, spatial or figurative).",
+  "shared_tag": "spatial_relation"
+ },
+ {
+  "members": [
+   "广",
+   "宽广",
+   "宽",
+   "广阔"
+  ],
+  "sides": {
+   "广": "2k",
+   "宽广": "2k",
+   "宽": "5k",
+   "广阔": "5k"
+  },
+  "kind": "join_existing",
+  "note": "宽 (5k) = wide in physical dimension (宽两米); 广 = broad/extensive (often figurative or as morpheme); 宽广 = wide and spacious (combined adj., formal); 广阔 (5k) = vast expanse of space or prospects (literary).",
+  "shared_tag": "size"
+ },
+ {
+  "members": [
+   "窗子",
+   "窗户"
+  ],
+  "sides": {
+   "窗子": "2k",
+   "窗户": "5k"
+  },
+  "kind": "join_existing",
+  "note": "窗子 and 窗户 (5k) both mean 'window' and are nearly interchangeable in speech; 窗子 is slightly more colloquial/northern, 窗户 is the standard everyday form.",
+  "shared_tag": "object_home"
+ },
+ {
+  "members": [
+   "妻子",
+   "太太",
+   "老婆",
+   "夫人"
+  ],
+  "sides": {
+   "妻子": "2k",
+   "太太": "5k",
+   "老婆": "5k",
+   "夫人": "5k"
+  },
+  "kind": "join_existing",
+  "note": "老婆 (5k) = wife (casual/intimate); 妻子 = wife (standard/neutral written); 太太 (5k) = Mrs./wife (polite, slightly formal); 夫人 (5k) = wife (honorific, used for dignitaries or respectfully of others).",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "将要",
+   "将"
+  ],
+  "sides": {
+   "将要": "2k",
+   "将": "5k"
+  },
+  "kind": "join_existing",
+  "note": "将 (5k) is the written/formal future marker (将于明年); 将要 is a slightly fuller written form meaning 'is about to / will soon', closer to 快要 in timing.",
+  "shared_tag": "time_word"
+ },
+ {
+  "members": [
+   "不对",
+   "错"
+  ],
+  "sides": {
+   "不对": "2k",
+   "错": "2k"
+  },
+  "kind": "new",
+  "note": "不对 = 'that's not right' (colloquial response, mild correction: 不对吧?); 错 = wrong/mistake (can be noun or adj., broader use: 你错了, 犯错).",
+  "shared_tag": "judgement"
+ },
+ {
+  "members": [
+   "树林",
+   "森林"
+  ],
+  "sides": {
+   "树林": "2k",
+   "森林": "5k"
+  },
+  "kind": "join_existing",
+  "note": "树林 = woods/grove (smaller, local stand of trees); 森林 (5k) = forest (large-scale, ecological term).",
+  "shared_tag": "nature"
+ },
+ {
+  "members": [
+   "协议书",
+   "合同"
+  ],
+  "sides": {
+   "协议书": "2k",
+   "合同": "5k"
+  },
+  "kind": "join_existing",
+  "note": "合同 (5k) = contract (legally binding, commercial); 协议书 = written agreement (broader, may be less formal than a contract — MOUs, protocols).",
+  "shared_tag": "law_admin_doc"
+ },
+ {
+  "members": [
+   "冬季",
+   "冬"
+  ],
+  "sides": {
+   "冬季": "2k",
+   "冬": "5k"
+  },
+  "kind": "join_existing",
+  "note": "冬 (5k) = winter (basic morpheme, used in compounds); 冬季 = the winter season (fuller, used in weather forecasts, formal contexts).",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "全年",
+   "终年",
+   "常年"
+  ],
+  "sides": {
+   "全年": "2k",
+   "终年": "5k",
+   "常年": "5k"
+  },
+  "kind": "join_existing",
+  "note": "全年 = the whole year / annual (total: 全年产量); 终年 (5k) = all year round OR age at death (literary); 常年 (5k) = year-round habitually / for years on end (habitual duration).",
+  "shared_tag": "time_period"
+ },
+ {
+  "members": [
+   "错",
+   "失误",
+   "疏忽"
+  ],
+  "sides": {
+   "错": "2k",
+   "失误": "5k",
+   "疏忽": "5k"
+  },
+  "kind": "join_existing",
+  "note": "错 = general wrong/mistake (everyday); 失误 (5k) = a slip-up or operational error (performance context — sports, work); 疏忽 (5k) = negligence, oversight (blame/duty context).",
+  "shared_tag": "judgement"
+ },
+ {
+  "members": [
+   "不对",
+   "错",
+   "失误",
+   "疏忽"
+  ],
+  "sides": {
+   "不对": "2k",
+   "错": "2k",
+   "失误": "5k",
+   "疏忽": "5k"
+  },
+  "kind": "join_existing",
+  "note": "错 = general wrong/mistake (adj+noun); 不对 = predicative spoken judgment ('that's not right'); 失误 = concrete performance slip (sports/work); 疏忽 = careless lapse due to inattention",
+  "shared_tag": "judgement"
+ },
+ {
+  "members": [
+   "通知书",
+   "协议书"
+  ],
+  "sides": {
+   "通知书": "2k",
+   "协议书": "2k"
+  },
+  "kind": "new",
+  "note": "通知书 = one-way written notice (authority → recipient); 协议书 = bilateral written agreement between parties",
+  "shared_tag": "communication_formal"
+ },
+ {
+  "members": [
+   "弟",
+   "弟弟"
+  ],
+  "sides": {
+   "弟": "2k",
+   "弟弟": "2k"
+  },
+  "kind": "new",
+  "note": "弟 = morpheme used in compounds (兄弟, 弟子); 弟弟 = standalone colloquial word for younger brother",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "妹",
+   "妹妹"
+  ],
+  "sides": {
+   "妹": "2k",
+   "妹妹": "2k"
+  },
+  "kind": "new",
+  "note": "妹 = morpheme used in compounds (姐妹, 妹夫); 妹妹 = standalone colloquial word for younger sister",
+  "shared_tag": "family"
+ },
+ {
+  "members": [
+   "黄色",
+   "黄"
+  ],
+  "sides": {
+   "黄色": "2k",
+   "黄": "5k"
+  },
+  "kind": "join_existing",
+  "note": "黄 = pure color adjective (yellow); 黄色 = yellow as a noun-modifier, and colloquially pornographic/lewd content",
+  "shared_tag": "color"
+ },
+ {
+  "members": [
+   "地带",
+   "温带"
+  ],
+  "sides": {
+   "地带": "2k",
+   "温带": "5k"
+  },
+  "kind": "join_existing",
+  "note": "地带 = general zone/belt (any area); 温带 = specifically the temperate climate zone (geographic term)",
+  "shared_tag": "geography"
+ }
+]

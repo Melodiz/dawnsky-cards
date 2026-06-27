@@ -1,0 +1,1884 @@
+{
+ "window_id": "009",
+ "members": [
+  {
+   "hanzi": "鲜",
+   "side": "2k",
+   "pinyin": "xiān",
+   "meaning_ru": "свежий",
+   "meaning_en": "fresh",
+   "tags": [
+    "evaluation_adj",
+    "food"
+   ]
+  },
+  {
+   "hanzi": "鲜花",
+   "side": "2k",
+   "pinyin": "xiānhuā",
+   "meaning_ru": "(свежие) цветы",
+   "meaning_en": "fresh flowers",
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "hanzi": "从小",
+   "side": "2k",
+   "pinyin": "cóngxiǎo",
+   "meaning_ru": "с детства",
+   "meaning_en": "from childhood",
+   "tags": [
+    "time_word",
+    "manner_adverb"
+   ]
+  },
+  {
+   "hanzi": "今后",
+   "side": "2k",
+   "pinyin": "jīnhòu",
+   "meaning_ru": "впредь; в дальнейшем",
+   "meaning_en": "from now on; henceforth",
+   "tags": [
+    "time_word"
+   ]
+  },
+  {
+   "hanzi": "从中",
+   "side": "2k",
+   "pinyin": "cóngzhōng",
+   "meaning_ru": "из этого; отсюда",
+   "meaning_en": "from within; therefrom",
+   "tags": [
+    "spatial_relation",
+    "abstract_relation"
+   ]
+  },
+  {
+   "hanzi": "燃料",
+   "side": "2k",
+   "pinyin": "ránliào",
+   "meaning_ru": "топливо",
+   "meaning_en": "fuel",
+   "tags": [
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "姓名",
+   "side": "2k",
+   "pinyin": "xìngmíng",
+   "meaning_ru": "полное имя",
+   "meaning_en": "full name",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "好玩儿",
+   "side": "2k",
+   "pinyin": "hǎowánr",
+   "meaning_ru": "весёлый; забавный",
+   "meaning_en": "fun; amusing",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "煤气",
+   "side": "2k",
+   "pinyin": "méiqì",
+   "meaning_ru": "газ (бытовой)",
+   "meaning_en": "gas (fuel)",
+   "tags": [
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "气体",
+   "side": "2k",
+   "pinyin": "qìtǐ",
+   "meaning_ru": "газ",
+   "meaning_en": "gas (substance)",
+   "tags": [
+    "material_substance",
+    "science_research"
+   ]
+  },
+  {
+   "hanzi": "大门",
+   "side": "2k",
+   "pinyin": "dàmén",
+   "meaning_ru": "ворота; вход",
+   "meaning_en": "gate; main entrance",
+   "tags": [
+    "building"
+   ]
+  },
+  {
+   "hanzi": "宝石",
+   "side": "2k",
+   "pinyin": "bǎoshí",
+   "meaning_ru": "драгоценный камень",
+   "meaning_en": "gem; precious stone",
+   "tags": [
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "百货",
+   "side": "2k",
+   "pinyin": "bǎihuò",
+   "meaning_ru": "товары; ширпотреб",
+   "meaning_en": "general merchandise",
+   "tags": [
+    "commerce_trade"
+   ]
+  },
+  {
+   "hanzi": "一般来说",
+   "side": "2k",
+   "pinyin": "yībānláishuō",
+   "meaning_ru": "вообще говоря",
+   "meaning_en": "generally speaking",
+   "tags": [
+    "logic_connective",
+    "manner_adverb"
+   ]
+  },
+  {
+   "hanzi": "辈",
+   "side": "2k",
+   "pinyin": "bèi",
+   "meaning_ru": "поколение",
+   "meaning_en": "generation",
+   "tags": [
+    "family",
+    "relationship_social"
+   ]
+  },
+  {
+   "hanzi": "男士",
+   "side": "2k",
+   "pinyin": "nánshì",
+   "meaning_ru": "мужчина (вежл.)",
+   "meaning_en": "gentleman; man",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "正版",
+   "side": "2k",
+   "pinyin": "zhèngbǎn",
+   "meaning_ru": "лицензионная версия",
+   "meaning_en": "genuine; licensed",
+   "tags": [
+    "commerce_trade",
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "下班",
+   "side": "2k",
+   "pinyin": "xiàbān",
+   "meaning_ru": "уйти с работы",
+   "meaning_en": "get off work",
+   "tags": [
+    "work_career",
+    "action_daily"
+   ]
+  },
+  {
+   "hanzi": "入门",
+   "side": "2k",
+   "pinyin": "rùmén",
+   "meaning_ru": "освоить азы; введение",
+   "meaning_en": "get started; basics",
+   "tags": [
+    "action_learning",
+    "education"
+   ]
+  },
+  {
+   "hanzi": "拿到",
+   "side": "2k",
+   "pinyin": "nádào",
+   "meaning_ru": "получить; достать",
+   "meaning_en": "get; obtain",
+   "tags": [
+    "action_daily",
+    "physical_action"
+   ]
+  },
+  {
+   "hanzi": "鬼",
+   "side": "2k",
+   "pinyin": "guǐ",
+   "meaning_ru": "призрак; чёрт",
+   "meaning_en": "ghost; devil",
+   "tags": [
+    "religion_belief"
+   ]
+  },
+  {
+   "hanzi": "大熊猫",
+   "side": "2k",
+   "pinyin": "dàxióngmāo",
+   "meaning_ru": "большая панда",
+   "meaning_en": "giant panda",
+   "tags": [
+    "animal"
+   ]
+  },
+  {
+   "hanzi": "女孩儿",
+   "side": "2k",
+   "pinyin": "nǚháir",
+   "meaning_ru": "девочка; девушка",
+   "meaning_en": "girl",
+   "tags": [
+    "person",
+    "family"
+   ]
+  },
+  {
+   "hanzi": "女生",
+   "side": "2k",
+   "pinyin": "nǚshēng",
+   "meaning_ru": "девушка; ученица",
+   "meaning_en": "girl; female student",
+   "tags": [
+    "person",
+    "education"
+   ]
+  },
+  {
+   "hanzi": "女朋友",
+   "side": "2k",
+   "pinyin": "nǚpéngyou",
+   "meaning_ru": "девушка (подруга)",
+   "meaning_en": "girlfriend",
+   "tags": [
+    "relationship_social",
+    "person"
+   ]
+  },
+  {
+   "hanzi": "走开",
+   "side": "2k",
+   "pinyin": "zǒukāi",
+   "meaning_ru": "уходи; отойди",
+   "meaning_en": "go away; move aside",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "回去",
+   "side": "2k",
+   "pinyin": "huíqu",
+   "meaning_ru": "вернуться (туда)",
+   "meaning_en": "go back",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "进去",
+   "side": "2k",
+   "pinyin": "jìnqù",
+   "meaning_ru": "войти (туда)",
+   "meaning_en": "go in; enter",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "出门",
+   "side": "2k",
+   "pinyin": "chūmén",
+   "meaning_ru": "выйти из дома",
+   "meaning_en": "go out; leave home",
+   "tags": [
+    "action_daily",
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "加油",
+   "side": "2k",
+   "pinyin": "jiāyóu",
+   "meaning_ru": "давай; держись",
+   "meaning_en": "go!; keep going",
+   "tags": [
+    "communication_emotion"
+   ]
+  },
+  {
+   "hanzi": "金牌",
+   "side": "2k",
+   "pinyin": "jīnpái",
+   "meaning_ru": "золотая медаль",
+   "meaning_en": "gold medal",
+   "tags": [
+    "sport"
+   ]
+  },
+  {
+   "hanzi": "好事",
+   "side": "2k",
+   "pinyin": "hǎoshì",
+   "meaning_ru": "доброе дело; благо",
+   "meaning_en": "good deed; good thing",
+   "tags": [
+    "event_situation"
+   ]
+  },
+  {
+   "hanzi": "福",
+   "side": "2k",
+   "pinyin": "fú",
+   "meaning_ru": "счастье; удача",
+   "meaning_en": "good fortune; luck",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "好运",
+   "side": "2k",
+   "pinyin": "hǎoyùn",
+   "meaning_ru": "удача",
+   "meaning_en": "good luck",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "晚安",
+   "side": "2k",
+   "pinyin": "wǎnʼān",
+   "meaning_ru": "спокойной ночи",
+   "meaning_en": "good night",
+   "tags": [
+    "greeting"
+   ]
+  },
+  {
+   "hanzi": "好人",
+   "side": "2k",
+   "pinyin": "hǎorén",
+   "meaning_ru": "хороший человек",
+   "meaning_en": "good person",
+   "tags": [
+    "person",
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "好看",
+   "side": "2k",
+   "pinyin": "hǎokàn",
+   "meaning_ru": "красивый; интересный",
+   "meaning_en": "good-looking; nice",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "货",
+   "side": "2k",
+   "pinyin": "huò",
+   "meaning_ru": "товар; груз",
+   "meaning_en": "goods; commodity",
+   "tags": [
+    "commerce_trade"
+   ]
+  },
+  {
+   "hanzi": "分数",
+   "side": "2k",
+   "pinyin": "fēnshù",
+   "meaning_ru": "балл; оценка",
+   "meaning_en": "grade; score",
+   "tags": [
+    "education",
+    "number"
+   ]
+  },
+  {
+   "hanzi": "渐渐",
+   "side": "2k",
+   "pinyin": "jiànjiàn",
+   "meaning_ru": "постепенно",
+   "meaning_en": "gradually; little by little",
+   "tags": [
+    "manner_adverb",
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "个别",
+   "side": "5k",
+   "pinyin": "gèbié",
+   "meaning_ru": "отдельный; лишь единичный",
+   "meaning_en": "individual; just a rare few",
+   "tags": [
+    "quantity_abstract",
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "衰老",
+   "side": "5k",
+   "pinyin": "shuāilǎo",
+   "meaning_ru": "дряхлеть, стареть",
+   "meaning_en": "to age, grow old",
+   "tags": [
+    "body_state",
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "古老",
+   "side": "5k",
+   "pinyin": "gǔlǎo",
+   "meaning_ru": "древний; старинный",
+   "meaning_en": "ancient; age-old",
+   "tags": []
+  },
+  {
+   "hanzi": "悠久",
+   "side": "5k",
+   "pinyin": "yōujiǔ",
+   "meaning_ru": "давний, многовековой",
+   "meaning_en": "long-standing; age-old",
+   "tags": [
+    "time_period"
+   ]
+  },
+  {
+   "hanzi": "旧",
+   "side": "5k",
+   "pinyin": "jiù",
+   "meaning_ru": "старый, поношенный",
+   "meaning_en": "old; worn (not new)",
+   "tags": []
+  },
+  {
+   "hanzi": "新陈代谢",
+   "side": "5k",
+   "pinyin": "xīnchén-dàixiè",
+   "meaning_ru": "обмен веществ; смена поколений",
+   "meaning_en": "metabolism; old replaced by new",
+   "tags": [
+    "science_research"
+   ]
+  },
+  {
+   "hanzi": "朵",
+   "side": "5k",
+   "pinyin": "duǒ",
+   "meaning_ru": "сч. сл. (цветы, облака)",
+   "meaning_en": "classifier (flowers, clouds)",
+   "tags": [
+    "quantity"
+   ]
+  },
+  {
+   "hanzi": "年纪",
+   "side": "5k",
+   "pinyin": "niánjì",
+   "meaning_ru": "возраст (разг., часто о пожилых)",
+   "meaning_en": "age (coll., often of elderly)",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "终年",
+   "side": "5k",
+   "pinyin": "zhōngnián",
+   "meaning_ru": "круглый год; возраст смерти",
+   "meaning_en": "all year; age at death",
+   "tags": [
+    "time_period"
+   ]
+  },
+  {
+   "hanzi": "时代",
+   "side": "5k",
+   "pinyin": "shídài",
+   "meaning_ru": "эпоха (историческая)",
+   "meaning_en": "era (historical age)",
+   "tags": [
+    "time_period"
+   ]
+  },
+  {
+   "hanzi": "前途",
+   "side": "5k",
+   "pinyin": "qiántú",
+   "meaning_ru": "перспективы (личные)",
+   "meaning_en": "prospects; future (personal)",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "继往开来",
+   "side": "5k",
+   "pinyin": "jìwǎngkāilái",
+   "meaning_ru": "продолжать и открывать путь",
+   "meaning_en": "inherit past, open future",
+   "tags": [
+    "culture"
+   ]
+  },
+  {
+   "hanzi": "锦绣前程",
+   "side": "5k",
+   "pinyin": "jǐnxiù qiánchéng",
+   "meaning_ru": "блестящее будущее",
+   "meaning_en": "bright future, prospects",
+   "tags": []
+  },
+  {
+   "hanzi": "未来",
+   "side": "5k",
+   "pinyin": "wèilái",
+   "meaning_ru": "будущее; грядущий",
+   "meaning_en": "future; coming",
+   "tags": [
+    "time_period"
+   ]
+  },
+  {
+   "hanzi": "迄今为止",
+   "side": "5k",
+   "pinyin": "qìjīnwéizhǐ",
+   "meaning_ru": "до сих пор",
+   "meaning_en": "up to now; so far",
+   "tags": [
+    "time_word"
+   ]
+  },
+  {
+   "hanzi": "暂时",
+   "side": "5k",
+   "pinyin": "zànshí",
+   "meaning_ru": "временно, на короткий срок",
+   "meaning_en": "temporarily; for now",
+   "tags": [
+    "time_word"
+   ]
+  },
+  {
+   "hanzi": "其中",
+   "side": "5k",
+   "pinyin": "qízhōng",
+   "meaning_ru": "среди них (отсылка)",
+   "meaning_en": "among them (referring back)",
+   "tags": [
+    "abstract_relation",
+    "spatial_relation"
+   ]
+  },
+  {
+   "hanzi": "之间",
+   "side": "5k",
+   "pinyin": "zhījiān",
+   "meaning_ru": "между, среди",
+   "meaning_en": "between; among",
+   "tags": [
+    "spatial_relation"
+   ]
+  },
+  {
+   "hanzi": "当中",
+   "side": "5k",
+   "pinyin": "dāngzhōng",
+   "meaning_ru": "среди; посередине (акцент на центре)",
+   "meaning_en": "in the middle; among (centered)",
+   "tags": [
+    "spatial_relation"
+   ]
+  },
+  {
+   "hanzi": "民间",
+   "side": "5k",
+   "pinyin": "mínjiān",
+   "meaning_ru": "народный; неофициальный",
+   "meaning_en": "folk; among the people",
+   "tags": [
+    "society_public"
+   ]
+  },
+  {
+   "hanzi": "它们",
+   "side": "5k",
+   "pinyin": "tāmen",
+   "meaning_ru": "они (о вещах/животных)",
+   "meaning_en": "they; them (non-human)",
+   "tags": [
+    "pronoun"
+   ]
+  },
+  {
+   "hanzi": "俩",
+   "side": "5k",
+   "pinyin": "liǎ",
+   "meaning_ru": "двое (разг.)",
+   "meaning_en": "two (of them) (coll.)",
+   "tags": [
+    "quantity"
+   ]
+  },
+  {
+   "hanzi": "柴油",
+   "side": "5k",
+   "pinyin": "cháiyóu",
+   "meaning_ru": "дизельное топливо",
+   "meaning_en": "diesel fuel",
+   "tags": [
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "既然",
+   "side": "5k",
+   "pinyin": "jìrán",
+   "meaning_ru": "раз уж, поскольку",
+   "meaning_en": "since, given that",
+   "tags": [
+    "logic_connective"
+   ]
+  },
+  {
+   "hanzi": "鉴于",
+   "side": "5k",
+   "pinyin": "jiànyú",
+   "meaning_ru": "ввиду; учитывая",
+   "meaning_en": "in view of; given that",
+   "tags": [
+    "logic_connective"
+   ]
+  },
+  {
+   "hanzi": "丰满",
+   "side": "5k",
+   "pinyin": "fēngmǎn",
+   "meaning_ru": "пышный, полнотелый",
+   "meaning_en": "full-figured, plump",
+   "tags": [
+    "manner_state"
+   ]
+  },
+  {
+   "hanzi": "施展",
+   "side": "5k",
+   "pinyin": "shīzhǎn",
+   "meaning_ru": "проявить (талант), пустить в ход",
+   "meaning_en": "put to full use (skills/talent)",
+   "tags": []
+  },
+  {
+   "hanzi": "朝气蓬勃",
+   "side": "5k",
+   "pinyin": "zhāoqì-péngbó",
+   "meaning_ru": "полный юношеского задора",
+   "meaning_en": "full of youthful vigor",
+   "tags": [
+    "personality_trait"
+   ]
+  },
+  {
+   "hanzi": "兴致勃勃",
+   "side": "5k",
+   "pinyin": "xìngzhìbóbó",
+   "meaning_ru": "с азартом, увлечённо",
+   "meaning_en": "full of zest; eagerly",
+   "tags": [
+    "emotion",
+    "personality_trait"
+   ]
+  },
+  {
+   "hanzi": "有趣",
+   "side": "5k",
+   "pinyin": "yǒuqù",
+   "meaning_ru": "интересный, занятный",
+   "meaning_en": "interesting; amusing",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "娱乐",
+   "side": "5k",
+   "pinyin": "yúlè",
+   "meaning_ru": "развлечение, досуг",
+   "meaning_en": "entertainment; fun",
+   "tags": [
+    "hobby"
+   ]
+  },
+  {
+   "hanzi": "乐趣",
+   "side": "5k",
+   "pinyin": "lèqù",
+   "meaning_ru": "удовольствие, отрада",
+   "meaning_en": "delight, joy, fun",
+   "tags": [
+    "emotion"
+   ]
+  },
+  {
+   "hanzi": "趣味",
+   "side": "5k",
+   "pinyin": "qùwèi",
+   "meaning_ru": "интерес; вкус, склонность",
+   "meaning_en": "fun; taste, liking",
+   "tags": [
+    "hobby"
+   ]
+  },
+  {
+   "hanzi": "天然气",
+   "side": "5k",
+   "pinyin": "tiānránqì",
+   "meaning_ru": "природный газ",
+   "meaning_en": "natural gas",
+   "tags": [
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "加油站",
+   "side": "5k",
+   "pinyin": "jiāyóuzhàn",
+   "meaning_ru": "заправка, АЗС",
+   "meaning_en": "gas station",
+   "tags": [
+    "building",
+    "transport_travel"
+   ]
+  },
+  {
+   "hanzi": "煤炭",
+   "side": "5k",
+   "pinyin": "méitàn",
+   "meaning_ru": "уголь",
+   "meaning_en": "coal",
+   "tags": [
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "固体",
+   "side": "5k",
+   "pinyin": "gùtǐ",
+   "meaning_ru": "твёрдое тело",
+   "meaning_en": "solid (substance)",
+   "tags": [
+    "science_research",
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "物质",
+   "side": "5k",
+   "pinyin": "wùzhì",
+   "meaning_ru": "вещество; материя",
+   "meaning_en": "matter; substance",
+   "tags": [
+    "material_substance",
+    "science_research"
+   ]
+  },
+  {
+   "hanzi": "实质",
+   "side": "5k",
+   "pinyin": "shízhì",
+   "meaning_ru": "суть (в отличие от видимости)",
+   "meaning_en": "substance (vs. appearance)",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "岩石",
+   "side": "5k",
+   "pinyin": "yánshí",
+   "meaning_ru": "горная порода, скала",
+   "meaning_en": "rock (geology)",
+   "tags": [
+    "nature",
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "摇",
+   "side": "5k",
+   "pinyin": "yáo",
+   "meaning_ru": "качать, трясти",
+   "meaning_en": "to shake, rock",
+   "tags": [
+    "physical_action"
+   ]
+  },
+  {
+   "hanzi": "摇滚",
+   "side": "5k",
+   "pinyin": "yáogǔn",
+   "meaning_ru": "рок (музыка)",
+   "meaning_en": "rock 'n' roll",
+   "tags": [
+    "art"
+   ]
+  },
+  {
+   "hanzi": "石头",
+   "side": "5k",
+   "pinyin": "shítou",
+   "meaning_ru": "камень",
+   "meaning_en": "stone, rock",
+   "tags": [
+    "nature",
+    "material_substance"
+   ]
+  },
+  {
+   "hanzi": "家人",
+   "side": "5k",
+   "pinyin": "jiārén",
+   "meaning_ru": "члены семьи (разг., близкие)",
+   "meaning_en": "family members (informal, warm)",
+   "tags": [
+    "family"
+   ]
+  },
+  {
+   "hanzi": "出身",
+   "side": "5k",
+   "pinyin": "chūshēn",
+   "meaning_ru": "происхождение (социальное)",
+   "meaning_en": "family background",
+   "tags": [
+    "society_public"
+   ]
+  },
+  {
+   "hanzi": "一举两得",
+   "side": "5k",
+   "pinyin": "yījǔliǎngdé",
+   "meaning_ru": "убить двух зайцев",
+   "meaning_en": "two birds, one stone",
+   "tags": []
+  },
+  {
+   "hanzi": "宝贵",
+   "side": "5k",
+   "pinyin": "bǎoguì",
+   "meaning_ru": "ценный (опыт, время)",
+   "meaning_en": "valuable; precious",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "珍稀",
+   "side": "5k",
+   "pinyin": "zhēnxī",
+   "meaning_ru": "редкий и ценный (вид, ресурс)",
+   "meaning_en": "rare and precious (scarce)",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "珍贵",
+   "side": "5k",
+   "pinyin": "zhēnguì",
+   "meaning_ru": "драгоценный (редкий предмет)",
+   "meaning_en": "precious; rare (of objects)",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "规则",
+   "side": "5k",
+   "pinyin": "guīzé",
+   "meaning_ru": "правило (принцип, норма)",
+   "meaning_en": "rule (general principle)",
+   "tags": [
+    "abstract_quality",
+    "law_admin_doc"
+   ]
+  },
+  {
+   "hanzi": "通用",
+   "side": "5k",
+   "pinyin": "tōngyòng",
+   "meaning_ru": "универсальный, общепринятый",
+   "meaning_en": "general-purpose",
+   "tags": []
+  },
+  {
+   "hanzi": "效果",
+   "side": "5k",
+   "pinyin": "xiàoguǒ",
+   "meaning_ru": "эффект; результат (общее)",
+   "meaning_en": "effect; result (general)",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "意向",
+   "side": "5k",
+   "pinyin": "yìxiàng",
+   "meaning_ru": "намерение, склонность",
+   "meaning_en": "inclination, general intent",
+   "tags": [
+    "cognition"
+   ]
+  },
+  {
+   "hanzi": "将军",
+   "side": "5k",
+   "pinyin": "jiāngjūn",
+   "meaning_ru": "генерал; шах (шахм.)",
+   "meaning_en": "general; checkmate (chess)",
+   "tags": [
+    "military_conflict",
+    "occupation"
+   ]
+  },
+  {
+   "hanzi": "开支",
+   "side": "5k",
+   "pinyin": "kāizhī",
+   "meaning_ru": "расходы (общие); тратить",
+   "meaning_en": "expenses (general); to spend",
+   "tags": [
+    "money",
+    "economy_finance"
+   ]
+  },
+  {
+   "hanzi": "公认",
+   "side": "5k",
+   "pinyin": "gōngrèn",
+   "meaning_ru": "общепризнанный",
+   "meaning_en": "generally acknowledged",
+   "tags": [
+    "judgement"
+   ]
+  },
+  {
+   "hanzi": "杰出",
+   "side": "5k",
+   "pinyin": "jiéchū",
+   "meaning_ru": "выдающийся (формальн., о людях)",
+   "meaning_en": "outstanding (formal, of people)",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "培养",
+   "side": "5k",
+   "pinyin": "péiyǎng",
+   "meaning_ru": "воспитывать; обучать",
+   "meaning_en": "nurture (people/skills); train",
+   "tags": [
+    "education",
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "络绎不绝",
+   "side": "5k",
+   "pinyin": "luòyìbùjué",
+   "meaning_ru": "нескончаемым потоком (о людях)",
+   "meaning_en": "endless procession of people",
+   "tags": [
+    "manner_adverb"
+   ]
+  },
+  {
+   "hanzi": "老百姓",
+   "side": "5k",
+   "pinyin": "lǎobǎixìng",
+   "meaning_ru": "простые люди, народ",
+   "meaning_en": "ordinary people",
+   "tags": [
+    "person",
+    "society_public"
+   ]
+  },
+  {
+   "hanzi": "人们",
+   "side": "5k",
+   "pinyin": "rénmen",
+   "meaning_ru": "люди (мн.)",
+   "meaning_en": "people, folks",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "人为",
+   "side": "5k",
+   "pinyin": "rénwéi",
+   "meaning_ru": "искусственный; рукотворный",
+   "meaning_en": "man-made; artificial",
+   "tags": []
+  },
+  {
+   "hanzi": "英俊",
+   "side": "5k",
+   "pinyin": "yīngjùn",
+   "meaning_ru": "красивый (о мужчине)",
+   "meaning_en": "handsome (man)",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "男子",
+   "side": "5k",
+   "pinyin": "nánzǐ",
+   "meaning_ru": "мужчина (офиц. существит.)",
+   "meaning_en": "man; male (formal noun)",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "绅士",
+   "side": "5k",
+   "pinyin": "shēnshì",
+   "meaning_ru": "джентльмен",
+   "meaning_en": "gentleman",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "取缔",
+   "side": "5k",
+   "pinyin": "qǔdì",
+   "meaning_ru": "запрещать, пресекать",
+   "meaning_en": "to ban, crack down",
+   "tags": [
+    "law_justice"
+   ]
+  },
+  {
+   "hanzi": "禁止",
+   "side": "5k",
+   "pinyin": "jìnzhǐ",
+   "meaning_ru": "запрещать",
+   "meaning_en": "prohibit; ban",
+   "tags": [
+    "law_justice"
+   ]
+  },
+  {
+   "hanzi": "见",
+   "side": "5k",
+   "pinyin": "jiàn",
+   "meaning_ru": "видеть; встречать",
+   "meaning_en": "to see; to meet",
+   "tags": [
+    "perception"
+   ]
+  },
+  {
+   "hanzi": "哦",
+   "side": "5k",
+   "pinyin": "ò",
+   "meaning_ru": "о! (понятно)",
+   "meaning_en": "oh (I see)",
+   "tags": []
+  },
+  {
+   "hanzi": "法人",
+   "side": "5k",
+   "pinyin": "fǎrén",
+   "meaning_ru": "юридическое лицо",
+   "meaning_en": "legal person, corporation",
+   "tags": [
+    "law_justice"
+   ]
+  },
+  {
+   "hanzi": "赔偿",
+   "side": "5k",
+   "pinyin": "péicháng",
+   "meaning_ru": "возмещать ущерб (юрид.)",
+   "meaning_en": "compensate for damages (legal)",
+   "tags": [
+    "law_justice",
+    "economy_finance"
+   ]
+  },
+  {
+   "hanzi": "服务",
+   "side": "5k",
+   "pinyin": "fúwù",
+   "meaning_ru": "обслуживать; сервис",
+   "meaning_en": "to serve; service",
+   "tags": [
+    "work_career"
+   ]
+  },
+  {
+   "hanzi": "维修",
+   "side": "5k",
+   "pinyin": "wéixiū",
+   "meaning_ru": "ремонт; техобслуживание",
+   "meaning_en": "maintain; service (upkeep)",
+   "tags": [
+    "physical_action"
+   ]
+  },
+  {
+   "hanzi": "门诊",
+   "side": "5k",
+   "pinyin": "ménzhěn",
+   "meaning_ru": "амбулаторный приём",
+   "meaning_en": "outpatient service",
+   "tags": [
+    "health_medical"
+   ]
+  },
+  {
+   "hanzi": "寿命",
+   "side": "5k",
+   "pinyin": "shòumìng",
+   "meaning_ru": "срок жизни; ресурс",
+   "meaning_en": "lifespan; service life",
+   "tags": []
+  },
+  {
+   "hanzi": "作品",
+   "side": "5k",
+   "pinyin": "zuòpǐn",
+   "meaning_ru": "произведение (искусства)",
+   "meaning_en": "work (of art)",
+   "tags": [
+    "art"
+   ]
+  },
+  {
+   "hanzi": "干活儿",
+   "side": "5k",
+   "pinyin": "gànhuór",
+   "meaning_ru": "работать (физически)",
+   "meaning_en": "to work, do a job",
+   "tags": [
+    "work_career"
+   ]
+  },
+  {
+   "hanzi": "入口",
+   "side": "5k",
+   "pinyin": "rùkǒu",
+   "meaning_ru": "вход",
+   "meaning_en": "entrance; entry",
+   "tags": [
+    "location"
+   ]
+  },
+  {
+   "hanzi": "进入",
+   "side": "5k",
+   "pinyin": "jìnrù",
+   "meaning_ru": "входить, вступать",
+   "meaning_en": "to enter, go into",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "入",
+   "side": "5k",
+   "pinyin": "rù",
+   "meaning_ru": "входить; вступать",
+   "meaning_en": "enter; join",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "男",
+   "side": "5k",
+   "pinyin": "nán",
+   "meaning_ru": "мужской (префикс)",
+   "meaning_en": "male (attributive prefix)",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "借鉴",
+   "side": "5k",
+   "pinyin": "jièjiàn",
+   "meaning_ru": "перенимать опыт, учиться у",
+   "meaning_en": "to draw on, learn from",
+   "tags": [
+    "cognition"
+   ]
+  },
+  {
+   "hanzi": "达到",
+   "side": "5k",
+   "pinyin": "dádào",
+   "meaning_ru": "достигать (цели, уровня)",
+   "meaning_en": "to reach (a goal/level)",
+   "tags": [
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "取得",
+   "side": "5k",
+   "pinyin": "qǔdé",
+   "meaning_ru": "добиться; получить",
+   "meaning_en": "obtain; achieve",
+   "tags": [
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "得到",
+   "side": "5k",
+   "pinyin": "dédào",
+   "meaning_ru": "получить, обрести",
+   "meaning_en": "to get, obtain",
+   "tags": []
+  },
+  {
+   "hanzi": "获",
+   "side": "5k",
+   "pinyin": "huò",
+   "meaning_ru": "добывать; получать",
+   "meaning_en": "obtain; capture",
+   "tags": [
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "力争",
+   "side": "5k",
+   "pinyin": "lìzhēng",
+   "meaning_ru": "добиваться, бороться за",
+   "meaning_en": "strive to obtain; contend for",
+   "tags": []
+  },
+  {
+   "hanzi": "谋求",
+   "side": "5k",
+   "pinyin": "móuqiú",
+   "meaning_ru": "добиваться (стратег.)",
+   "meaning_en": "strive to obtain (strateg.)",
+   "tags": []
+  },
+  {
+   "hanzi": "获得",
+   "side": "5k",
+   "pinyin": "huòdé",
+   "meaning_ru": "получить, обрести",
+   "meaning_en": "to obtain; gain",
+   "tags": [
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "机智",
+   "side": "5k",
+   "pinyin": "jīzhì",
+   "meaning_ru": "находчивый, остроумный",
+   "meaning_en": "resourceful, witty",
+   "tags": [
+    "personality_trait"
+   ]
+  },
+  {
+   "hanzi": "狡猾",
+   "side": "5k",
+   "pinyin": "jiǎohuá",
+   "meaning_ru": "хитрый, коварный",
+   "meaning_en": "cunning; sly",
+   "tags": [
+    "personality_trait"
+   ]
+  },
+  {
+   "hanzi": "天文",
+   "side": "5k",
+   "pinyin": "tiānwén",
+   "meaning_ru": "астрономия",
+   "meaning_en": "astronomy",
+   "tags": [
+    "science_research"
+   ]
+  },
+  {
+   "hanzi": "古典",
+   "side": "5k",
+   "pinyin": "gǔdiǎn",
+   "meaning_ru": "классический (древний стиль)",
+   "meaning_en": "classical (ancient style)",
+   "tags": [
+    "art",
+    "culture"
+   ]
+  },
+  {
+   "hanzi": "古代",
+   "side": "5k",
+   "pinyin": "gǔdài",
+   "meaning_ru": "древность; в древности",
+   "meaning_en": "ancient times",
+   "tags": [
+    "time_period"
+   ]
+  },
+  {
+   "hanzi": "熊猫",
+   "side": "5k",
+   "pinyin": "xióngmāo",
+   "meaning_ru": "панда",
+   "meaning_en": "panda",
+   "tags": [
+    "animal"
+   ]
+  },
+  {
+   "hanzi": "女孩",
+   "side": "5k",
+   "pinyin": "nǚhái",
+   "meaning_ru": "девочка; девушка (нейтр.)",
+   "meaning_en": "girl (neutral, any age)",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "少女",
+   "side": "5k",
+   "pinyin": "shàonǚ",
+   "meaning_ru": "девушка, девица",
+   "meaning_en": "young girl, maiden",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "姑娘",
+   "side": "5k",
+   "pinyin": "gūniang",
+   "meaning_ru": "девушка (разг., тепло)",
+   "meaning_en": "girl; young lady (coll., warm)",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "配套",
+   "side": "5k",
+   "pinyin": "pèitào",
+   "meaning_ru": "комплектный, согласованный",
+   "meaning_en": "to form a set; matching",
+   "tags": []
+  },
+  {
+   "hanzi": "表",
+   "side": "5k",
+   "pinyin": "biǎo",
+   "meaning_ru": "таблица; часы (наручные)",
+   "meaning_en": "table, form; watch",
+   "tags": []
+  },
+  {
+   "hanzi": "养成",
+   "side": "5k",
+   "pinyin": "yǎngchéng",
+   "meaning_ru": "вырабатывать (привычку)",
+   "meaning_en": "to form (a habit/trait)",
+   "tags": [
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "雌雄",
+   "side": "5k",
+   "pinyin": "cíxióng",
+   "meaning_ru": "самец и самка; пол",
+   "meaning_en": "male and female (animals)",
+   "tags": [
+    "animal"
+   ]
+  },
+  {
+   "hanzi": "她们",
+   "side": "5k",
+   "pinyin": "tāmen",
+   "meaning_ru": "они (о женщинах)",
+   "meaning_en": "they (female)",
+   "tags": [
+    "pronoun"
+   ]
+  },
+  {
+   "hanzi": "女性",
+   "side": "5k",
+   "pinyin": "nǚxìng",
+   "meaning_ru": "женщина; женский пол",
+   "meaning_en": "female (gender category)",
+   "tags": [
+    "person"
+   ]
+  },
+  {
+   "hanzi": "留恋",
+   "side": "5k",
+   "pinyin": "liúliàn",
+   "meaning_ru": "не хотеть расставаться",
+   "meaning_en": "loath to leave",
+   "tags": [
+    "emotion"
+   ]
+  },
+  {
+   "hanzi": "离开",
+   "side": "5k",
+   "pinyin": "líkāi",
+   "meaning_ru": "уходить, покидать",
+   "meaning_en": "to leave, depart",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "省略",
+   "side": "5k",
+   "pinyin": "shěnglüè",
+   "meaning_ru": "опускать, пропускать",
+   "meaning_en": "to omit, leave out",
+   "tags": []
+  },
+  {
+   "hanzi": "请假",
+   "side": "5k",
+   "pinyin": "qǐngjià",
+   "meaning_ru": "отпроситься, взять отгул",
+   "meaning_en": "to ask for leave",
+   "tags": [
+    "work_career"
+   ]
+  },
+  {
+   "hanzi": "告辞",
+   "side": "5k",
+   "pinyin": "gàocí",
+   "meaning_ru": "откланяться, прощаться",
+   "meaning_en": "take one's leave",
+   "tags": [
+    "greeting"
+   ]
+  },
+  {
+   "hanzi": "留",
+   "side": "5k",
+   "pinyin": "liú",
+   "meaning_ru": "оставить, сохранить",
+   "meaning_en": "to keep, stay, leave",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "退",
+   "side": "5k",
+   "pinyin": "tuì",
+   "meaning_ru": "отступать; возвращать",
+   "meaning_en": "retreat; return back",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "归还",
+   "side": "5k",
+   "pinyin": "guīhuán",
+   "meaning_ru": "возвращать (вещь)",
+   "meaning_en": "to give back, return",
+   "tags": []
+  },
+  {
+   "hanzi": "回报",
+   "side": "5k",
+   "pinyin": "huíbào",
+   "meaning_ru": "отплатить; отдача",
+   "meaning_en": "repay; return (reward)",
+   "tags": [
+    "cause_effect"
+   ]
+  },
+  {
+   "hanzi": "回到",
+   "side": "5k",
+   "pinyin": "huídào",
+   "meaning_ru": "вернуться к",
+   "meaning_en": "to return to",
+   "tags": [
+    "action_movement"
+   ]
+  },
+  {
+   "hanzi": "收益",
+   "side": "5k",
+   "pinyin": "shōuyì",
+   "meaning_ru": "доход, прибыль",
+   "meaning_en": "earnings, return",
+   "tags": [
+    "economy_finance"
+   ]
+  },
+  {
+   "hanzi": "一流",
+   "side": "5k",
+   "pinyin": "yīliú",
+   "meaning_ru": "первоклассный",
+   "meaning_en": "first-rate, top",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "头",
+   "side": "5k",
+   "pinyin": "tóu",
+   "meaning_ru": "голова; верхушка; начало",
+   "meaning_en": "head; top; beginning",
+   "tags": [
+    "body"
+   ]
+  },
+  {
+   "hanzi": "上面",
+   "side": "5k",
+   "pinyin": "shàngmiàn",
+   "meaning_ru": "сверху (физически); над",
+   "meaning_en": "above (spatial); on top of",
+   "tags": [
+    "location",
+    "spatial_relation"
+   ]
+  },
+  {
+   "hanzi": "领袖",
+   "side": "5k",
+   "pinyin": "lǐngxiù",
+   "meaning_ru": "вождь (высший лидер)",
+   "meaning_en": "leader (top political figure)",
+   "tags": [
+    "politics_government",
+    "person",
+    "occupation"
+   ]
+  },
+  {
+   "hanzi": "当务之急",
+   "side": "5k",
+   "pinyin": "dāngwùzhījí",
+   "meaning_ru": "первоочередная задача",
+   "meaning_en": "top priority; urgent",
+   "tags": [
+    "event_situation"
+   ]
+  },
+  {
+   "hanzi": "顶",
+   "side": "5k",
+   "pinyin": "dǐng",
+   "meaning_ru": "вершина; нести на голове",
+   "meaning_en": "top, peak; carry on head",
+   "tags": [
+    "spatial_relation"
+   ]
+  },
+  {
+   "hanzi": "黄金",
+   "side": "5k",
+   "pinyin": "huángjīn",
+   "meaning_ru": "золото; золотой (расцвет)",
+   "meaning_en": "gold (bullion); prime, golden",
+   "tags": [
+    "material_substance",
+    "money"
+   ]
+  },
+  {
+   "hanzi": "金",
+   "side": "5k",
+   "pinyin": "jīn",
+   "meaning_ru": "золото; деньги (морфема)",
+   "meaning_en": "gold; metal; money",
+   "tags": [
+    "material_substance",
+    "money"
+   ]
+  },
+  {
+   "hanzi": "福气",
+   "side": "5k",
+   "pinyin": "fúqi",
+   "meaning_ru": "счастливая доля, удача",
+   "meaning_en": "good fortune; blessing",
+   "tags": []
+  },
+  {
+   "hanzi": "善于",
+   "side": "5k",
+   "pinyin": "shànyú",
+   "meaning_ru": "умело делать, мастер в",
+   "meaning_en": "to be good at",
+   "tags": []
+  },
+  {
+   "hanzi": "实惠",
+   "side": "5k",
+   "pinyin": "shíhuì",
+   "meaning_ru": "выгодный, недорогой",
+   "meaning_en": "economical, good-value",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "拿手",
+   "side": "5k",
+   "pinyin": "náshǒu",
+   "meaning_ru": "мастерский, коронный",
+   "meaning_en": "good at; one's forte",
+   "tags": []
+  },
+  {
+   "hanzi": "名誉",
+   "side": "5k",
+   "pinyin": "míngyù",
+   "meaning_ru": "честь; доброе имя",
+   "meaning_en": "honor; good name (personal)",
+   "tags": [
+    "personality_trait"
+   ]
+  },
+  {
+   "hanzi": "物美价廉",
+   "side": "5k",
+   "pinyin": "wù měi jià lián",
+   "meaning_ru": "хорошее по низкой цене",
+   "meaning_en": "good and cheap",
+   "tags": []
+  },
+  {
+   "hanzi": "运气",
+   "side": "5k",
+   "pinyin": "yùnqi",
+   "meaning_ru": "удача; везение",
+   "meaning_en": "luck (good or bad)",
+   "tags": []
+  },
+  {
+   "hanzi": "商品",
+   "side": "5k",
+   "pinyin": "shāngpǐn",
+   "meaning_ru": "товар, продукция",
+   "meaning_en": "goods, commodity",
+   "tags": [
+    "commerce_trade"
+   ]
+  },
+  {
+   "hanzi": "流通",
+   "side": "5k",
+   "pinyin": "liútōng",
+   "meaning_ru": "циркулировать (товары/деньги)",
+   "meaning_en": "circulate (goods/money, econ.)",
+   "tags": [
+    "economy_finance",
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "产品",
+   "side": "5k",
+   "pinyin": "chǎnpǐn",
+   "meaning_ru": "продукция, товар",
+   "meaning_en": "product, goods",
+   "tags": [
+    "commerce_trade",
+    "industry_production"
+   ]
+  },
+  {
+   "hanzi": "次品",
+   "side": "5k",
+   "pinyin": "cìpǐn",
+   "meaning_ru": "брак; некондиция",
+   "meaning_en": "defective goods, seconds",
+   "tags": [
+    "industry_production"
+   ]
+  },
+  {
+   "hanzi": "物资",
+   "side": "5k",
+   "pinyin": "wù zī",
+   "meaning_ru": "ресурсы, припасы",
+   "meaning_en": "supplies, goods",
+   "tags": [
+    "economy_finance"
+   ]
+  },
+  {
+   "hanzi": "奖金",
+   "side": "5k",
+   "pinyin": "jiǎngjīn",
+   "meaning_ru": "премия, бонус",
+   "meaning_en": "bonus, prize money",
+   "tags": [
+    "money"
+   ]
+  },
+  {
+   "hanzi": "级别",
+   "side": "5k",
+   "pinyin": "jíbié",
+   "meaning_ru": "уровень, ранг (иерархия)",
+   "meaning_en": "rank; grade (hierarchy)",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "档次",
+   "side": "5k",
+   "pinyin": "dàngcì",
+   "meaning_ru": "класс; уровень качества",
+   "meaning_en": "quality tier; grade level",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "等级",
+   "side": "5k",
+   "pinyin": "děngjí",
+   "meaning_ru": "разряд, ранг (в иерархии)",
+   "meaning_en": "rank; grade (hierarchy)",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "高档",
+   "side": "5k",
+   "pinyin": "gāodàng",
+   "meaning_ru": "высокого класса",
+   "meaning_en": "high-grade, premium",
+   "tags": [
+    "evaluation_adj",
+    "commerce_trade"
+   ]
+  },
+  {
+   "hanzi": "高级",
+   "side": "5k",
+   "pinyin": "gāojí",
+   "meaning_ru": "высший (по рангу/качеству)",
+   "meaning_en": "high-grade; advanced",
+   "tags": [
+    "evaluation_adj"
+   ]
+  },
+  {
+   "hanzi": "级",
+   "side": "5k",
+   "pinyin": "jí",
+   "meaning_ru": "уровень; ступень (в иерархии)",
+   "meaning_en": "level; grade (rank)",
+   "tags": [
+    "abstract_quality"
+   ]
+  },
+  {
+   "hanzi": "蔓延",
+   "side": "5k",
+   "pinyin": "mànyán",
+   "meaning_ru": "расползаться (медленно, негативно)",
+   "meaning_en": "spread (creep gradually, neg.)",
+   "tags": [
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "逐步",
+   "side": "5k",
+   "pinyin": "zhúbù",
+   "meaning_ru": "постепенно; шаг за шагом",
+   "meaning_en": "step by step, gradually",
+   "tags": [
+    "manner_adverb"
+   ]
+  },
+  {
+   "hanzi": "失去",
+   "side": "5k",
+   "pinyin": "shīqù",
+   "meaning_ru": "утрачивать (абстрактно)",
+   "meaning_en": "to lose (gradually/abstractly)",
+   "tags": [
+    "process_change"
+   ]
+  },
+  {
+   "hanzi": "攒",
+   "side": "5k",
+   "pinyin": "zǎn",
+   "meaning_ru": "копить (постепенно)",
+   "meaning_en": "save up (accumulate gradually)",
+   "tags": [
+    "transaction"
+   ]
+  },
+  {
+   "hanzi": "逐渐",
+   "side": "5k",
+   "pinyin": "zhújiàn",
+   "meaning_ru": "постепенно",
+   "meaning_en": "gradually",
+   "tags": [
+    "manner_adverb"
+   ]
+  },
+  {
+   "hanzi": "逐年",
+   "side": "5k",
+   "pinyin": "zhúnián",
+   "meaning_ru": "год от года",
+   "meaning_en": "year by year (gradually)",
+   "tags": [
+    "time_word"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+[
+ {
+  "hanzi": "握",
+  "pinyin": "wò",
+  "meaning_ru": "держать; сжимать",
+  "meaning_en": "to hold; to grasp",
+  "semantic_tags": [
+   "physical_action",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "不良",
+  "pinyin": "bùliáng",
+  "meaning_ru": "плохой; вредный",
+  "meaning_en": "bad; harmful",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "真诚",
+  "pinyin": "zhēnchéng",
+  "meaning_ru": "искренний",
+  "meaning_en": "sincere; genuine",
+  "semantic_tags": [
+   "personality_trait",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "挣",
+  "pinyin": "zhèng",
+  "meaning_ru": "зарабатывать (деньги)",
+  "meaning_en": "to earn (money)",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "暂停",
+  "pinyin": "zàntíng",
+  "meaning_ru": "приостановить; пауза",
+  "meaning_en": "to suspend; pause",
+  "semantic_tags": [
+   "process_change",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "大胆",
+  "pinyin": "dàdǎn",
+  "meaning_ru": "смелый; дерзкий",
+  "meaning_en": "bold; daring",
+  "semantic_tags": [
+   "personality_trait",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "也好",
+  "pinyin": "yěhǎo",
+  "meaning_ru": "и ладно; пусть так",
+  "meaning_en": "that's fine; may as well",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "偷偷",
+  "pinyin": "tōutōu",
+  "meaning_ru": "украдкой; тайком",
+  "meaning_en": "secretly; stealthily",
+  "semantic_tags": [
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "决不",
+  "pinyin": "juébù",
+  "meaning_ru": "ни за что; никогда",
+  "meaning_en": "by no means; never",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "增",
+  "pinyin": "zēng",
+  "meaning_ru": "увеличивать; прибавлять",
+  "meaning_en": "to increase; to add",
+  "semantic_tags": [
+   "process_change",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "肩",
+  "pinyin": "jiān",
+  "meaning_ru": "плечо",
+  "meaning_en": "shoulder",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "处在",
+  "pinyin": "chǔzài",
+  "meaning_ru": "находиться в (положении)",
+  "meaning_en": "to be situated in",
+  "semantic_tags": [
+   "manner_state",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "睡眠",
+  "pinyin": "shuìmián",
+  "meaning_ru": "сон",
+  "meaning_en": "sleep",
+  "semantic_tags": [
+   "body_state",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "困扰",
+  "pinyin": "kùnrǎo",
+  "meaning_ru": "беспокоить; мучить",
+  "meaning_en": "to perplex; to trouble",
+  "semantic_tags": [
+   "communication_emotion",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "紧紧",
+  "pinyin": "jǐnjǐn",
+  "meaning_ru": "крепко; плотно",
+  "meaning_en": "tightly; closely",
+  "semantic_tags": [
+   "manner_adverb"
+  ]
+ }
+]

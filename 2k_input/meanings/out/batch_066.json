@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "减轻",
+  "pinyin": "jiǎnqīng",
+  "meaning_ru": "облегчить; смягчить",
+  "meaning_en": "to lighten; alleviate",
+  "semantic_tags": [
+   "process_change",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "献",
+  "pinyin": "xiàn",
+  "meaning_ru": "преподносить; жертвовать",
+  "meaning_en": "to offer; dedicate",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "上下",
+  "pinyin": "shàngxià",
+  "meaning_ru": "верх и низ; около",
+  "meaning_en": "up and down; about",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "军人",
+  "pinyin": "jūnrén",
+  "meaning_ru": "военный; солдат",
+  "meaning_en": "serviceman; soldier",
+  "semantic_tags": [
+   "occupation",
+   "military_conflict"
+  ]
+ },
+ {
+  "hanzi": "机器人",
+  "pinyin": "jīqìrén",
+  "meaning_ru": "робот",
+  "meaning_en": "robot; android",
+  "semantic_tags": [
+   "object_tech",
+   "technology"
+  ]
+ },
+ {
+  "hanzi": "逃跑",
+  "pinyin": "táopǎo",
+  "meaning_ru": "сбегать; удирать",
+  "meaning_en": "to flee; run away",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "钢琴",
+  "pinyin": "gāngqín",
+  "meaning_ru": "фортепиано",
+  "meaning_en": "piano",
+  "semantic_tags": [
+   "art",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "转换",
+  "pinyin": "zhuǎnhuàn",
+  "meaning_ru": "переключать; преобразовывать",
+  "meaning_en": "to switch; convert",
+  "semantic_tags": [
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "脸色",
+  "pinyin": "liǎnsè",
+  "meaning_ru": "цвет лица; выражение",
+  "meaning_en": "complexion; look",
+  "semantic_tags": [
+   "body_state",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "收购",
+  "pinyin": "shōugòu",
+  "meaning_ru": "скупать; поглощать (фирму)",
+  "meaning_en": "to buy up; acquire",
+  "semantic_tags": [
+   "commerce_trade",
+   "economy_finance"
+  ]
+ },
+ {
+  "hanzi": "琴",
+  "pinyin": "qín",
+  "meaning_ru": "цинь; струнный инструмент",
+  "meaning_en": "qin; zither",
+  "semantic_tags": [
+   "art",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "中毒",
+  "pinyin": "zhòngdú",
+  "meaning_ru": "отравиться",
+  "meaning_en": "to be poisoned",
+  "semantic_tags": [
+   "health_medical",
+   "body_state"
+  ]
+ },
+ {
+  "hanzi": "早期",
+  "pinyin": "zǎoqī",
+  "meaning_ru": "ранний период; начальная стадия",
+  "meaning_en": "early period; stage",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "深处",
+  "pinyin": "shēnchù",
+  "meaning_ru": "глубина; недра",
+  "meaning_en": "depths; deepest part",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "损害",
+  "pinyin": "sǔnhài",
+  "meaning_ru": "вредить; ущерб",
+  "meaning_en": "to harm; damage",
+  "semantic_tags": [
+   "process_change",
+   "cause_effect"
+  ]
+ }
+]

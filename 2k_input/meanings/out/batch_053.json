@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "味儿",
+  "pinyin": "wèir",
+  "meaning_ru": "вкус; запах",
+  "meaning_en": "taste; smell",
+  "semantic_tags": [
+   "taste",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "优良",
+  "pinyin": "yōuliáng",
+  "meaning_ru": "отличный; превосходный",
+  "meaning_en": "fine; first-rate",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "转弯",
+  "pinyin": "zhuǎnwān",
+  "meaning_ru": "поворачивать",
+  "meaning_en": "to turn; round a corner",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "期末",
+  "pinyin": "qīmò",
+  "meaning_ru": "конец семестра",
+  "meaning_en": "end of term",
+  "semantic_tags": [
+   "education",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "上楼",
+  "pinyin": "shànglóu",
+  "meaning_ru": "подниматься наверх",
+  "meaning_en": "to go upstairs",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "下楼",
+  "pinyin": "xiàlóu",
+  "meaning_ru": "спускаться вниз",
+  "meaning_en": "to go downstairs",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "百货",
+  "pinyin": "bǎihuò",
+  "meaning_ru": "товары; ширпотреб",
+  "meaning_en": "general merchandise",
+  "semantic_tags": [
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "点名",
+  "pinyin": "diǎnmíng",
+  "meaning_ru": "перекличка",
+  "meaning_en": "roll call",
+  "semantic_tags": [
+   "action_communication",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "茶叶",
+  "pinyin": "cháyè",
+  "meaning_ru": "чай; чайный лист",
+  "meaning_en": "tea leaves",
+  "semantic_tags": [
+   "drink",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "运动会",
+  "pinyin": "yùndònghuì",
+  "meaning_ru": "спортивные соревнования",
+  "meaning_en": "sports meet",
+  "semantic_tags": [
+   "sport",
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "开花",
+  "pinyin": "kāihuā",
+  "meaning_ru": "цвести; зацветать",
+  "meaning_en": "to bloom; to flower",
+  "semantic_tags": [
+   "nature",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "登山",
+  "pinyin": "dēngshān",
+  "meaning_ru": "восхождение в горы",
+  "meaning_en": "to climb a mountain",
+  "semantic_tags": [
+   "sport",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "降温",
+  "pinyin": "jiàngwēn",
+  "meaning_ru": "похолодание",
+  "meaning_en": "to cool down",
+  "semantic_tags": [
+   "weather",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "抽奖",
+  "pinyin": "chōujiǎng",
+  "meaning_ru": "розыгрыш призов",
+  "meaning_en": "to draw a prize; raffle",
+  "semantic_tags": [
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "孙女",
+  "pinyin": "sūnnǚ",
+  "meaning_ru": "внучка (по сыну)",
+  "meaning_en": "granddaughter",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ }
+]

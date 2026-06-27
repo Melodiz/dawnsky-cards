@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "伙",
+  "pinyin": "huǒ",
+  "meaning_ru": "компания; партнёр",
+  "meaning_en": "group; partner",
+  "semantic_tags": [
+   "person",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "装修",
+  "pinyin": "zhuāngxiū",
+  "meaning_ru": "ремонт; отделка",
+  "meaning_en": "to renovate; decorate",
+  "semantic_tags": [
+   "action_daily",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "填",
+  "pinyin": "tián",
+  "meaning_ru": "заполнять; набивать",
+  "meaning_en": "to fill in; stuff",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "唱片",
+  "pinyin": "chàngpiàn",
+  "meaning_ru": "пластинка; альбом",
+  "meaning_en": "record; music album",
+  "semantic_tags": [
+   "art",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "有限",
+  "pinyin": "yǒuxiàn",
+  "meaning_ru": "ограниченный",
+  "meaning_en": "limited; finite",
+  "semantic_tags": [
+   "evaluation_adj",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "眼里",
+  "pinyin": "yǎnli",
+  "meaning_ru": "в глазах; на взгляд",
+  "meaning_en": "in one's eyes",
+  "semantic_tags": [
+   "cognition",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "不在乎",
+  "pinyin": "bùzàihu",
+  "meaning_ru": "наплевать; всё равно",
+  "meaning_en": "not to care",
+  "semantic_tags": [
+   "attitude",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "粗",
+  "pinyin": "cū",
+  "meaning_ru": "толстый; грубый",
+  "meaning_en": "thick; coarse, rough",
+  "semantic_tags": [
+   "evaluation_adj",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "列车",
+  "pinyin": "lièchē",
+  "meaning_ru": "поезд",
+  "meaning_en": "train",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "喜爱",
+  "pinyin": "xǐʼài",
+  "meaning_ru": "любить; нравиться",
+  "meaning_en": "to like; be fond of",
+  "semantic_tags": [
+   "emotion",
+   "attitude"
+  ]
+ },
+ {
+  "hanzi": "败",
+  "pinyin": "bài",
+  "meaning_ru": "проиграть; потерпеть крах",
+  "meaning_en": "to be defeated; fail",
+  "semantic_tags": [
+   "process_change",
+   "military_conflict"
+  ]
+ },
+ {
+  "hanzi": "好友",
+  "pinyin": "hǎoyǒu",
+  "meaning_ru": "близкий друг",
+  "meaning_en": "close friend; pal",
+  "semantic_tags": [
+   "relationship_social",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "尺",
+  "pinyin": "chǐ",
+  "meaning_ru": "чи (≈1/3 м); линейка",
+  "meaning_en": "chi (unit); ruler",
+  "semantic_tags": [
+   "measurement",
+   "object_stationery"
+  ]
+ },
+ {
+  "hanzi": "胖子",
+  "pinyin": "pàngzi",
+  "meaning_ru": "толстяк",
+  "meaning_en": "fat person (coll.)",
+  "semantic_tags": [
+   "person",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "男女",
+  "pinyin": "nánnǚ",
+  "meaning_ru": "мужчины и женщины",
+  "meaning_en": "men and women",
+  "semantic_tags": [
+   "person",
+   "relationship_social"
+  ]
+ }
+]

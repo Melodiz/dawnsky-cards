@@ -1,0 +1,942 @@
+[
+ {
+  "hanzi": "适用",
+  "pinyin": "shìyòng",
+  "meaning_ru": "применимый; подходящий",
+  "meaning_en": "applicable; to apply to",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_relation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to be applicable",
+  "dataset_meanings": [
+   "to be applicable"
+  ]
+ },
+ {
+  "hanzi": "牌子",
+  "pinyin": "páizi",
+  "meaning_ru": "марка; бренд; табличка",
+  "meaning_en": "brand; sign",
+  "semantic_tags": [
+   "commerce_trade",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "sign/trademark/brand",
+  "dataset_meanings": [
+   "sign",
+   "trademark",
+   "brand"
+  ]
+ },
+ {
+  "hanzi": "金牌",
+  "pinyin": "jīnpái",
+  "meaning_ru": "золотая медаль",
+  "meaning_en": "gold medal",
+  "semantic_tags": [
+   "sport",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "gold medal/CL:枚[mei2]",
+  "dataset_meanings": [
+   "gold medal"
+  ]
+ },
+ {
+  "hanzi": "旅馆",
+  "pinyin": "lǚguǎn",
+  "meaning_ru": "гостиница; отель",
+  "meaning_en": "hotel; inn",
+  "semantic_tags": [
+   "building",
+   "transport_travel"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "hotel/CL:家[jia1]",
+  "dataset_meanings": [
+   "hotel"
+  ]
+ },
+ {
+  "hanzi": "志愿者",
+  "pinyin": "zhìyuànzhě",
+  "meaning_ru": "волонтёр; доброволец",
+  "meaning_en": "volunteer",
+  "semantic_tags": [
+   "person",
+   "society_public"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "volunteer",
+  "dataset_meanings": [
+   "volunteer"
+  ]
+ },
+ {
+  "hanzi": "短期",
+  "pinyin": "duǎnqī",
+  "meaning_ru": "краткосрочный",
+  "meaning_en": "short-term",
+  "semantic_tags": [
+   "time_period",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "short-term",
+  "dataset_meanings": [
+   "short term",
+   "short-term"
+  ]
+ },
+ {
+  "hanzi": "全场",
+  "pinyin": "quánchǎng",
+  "meaning_ru": "весь зал; все присутствующие",
+  "meaning_en": "whole audience; all present",
+  "semantic_tags": [
+   "quantity_abstract",
+   "society_public"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "everyone present/the whole audience/across-the-board/unanimously/whole duration (of a competition or match)",
+  "dataset_meanings": [
+   "everyone present",
+   "the whole audience",
+   "across-the-board",
+   "unanimously",
+   "whole duration (of a competition or match)"
+  ]
+ },
+ {
+  "hanzi": "价钱",
+  "pinyin": "jiàqian",
+  "meaning_ru": "цена; стоимость",
+  "meaning_en": "price",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "price",
+  "dataset_meanings": [
+   "price"
+  ]
+ },
+ {
+  "hanzi": "干吗",
+  "pinyin": "gànmá",
+  "meaning_ru": "зачем?; что делаешь? (разг.)",
+  "meaning_en": "why?; what for? (coll.)",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "variant of 幹嘛|干嘛[gan4 ma2]",
+  "dataset_meanings": [
+   "see 干嘛"
+  ]
+ },
+ {
+  "hanzi": "底下",
+  "pinyin": "dǐxia",
+  "meaning_ru": "внизу; под",
+  "meaning_en": "below; underneath",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "the location below sth/afterwards",
+  "dataset_meanings": [
+   "the location below sth",
+   "afterwards"
+  ]
+ },
+ {
+  "hanzi": "美食",
+  "pinyin": "měishí",
+  "meaning_ru": "деликатес; вкусная еда",
+  "meaning_en": "fine food; delicacy",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "culinary delicacy/fine food/gourmet food",
+  "dataset_meanings": [
+   "culinary delicacy",
+   "fine food",
+   "gourmet food"
+  ]
+ },
+ {
+  "hanzi": "中华民族",
+  "pinyin": "zhōnghuámínzú",
+  "meaning_ru": "китайская нация",
+  "meaning_en": "the Chinese nation",
+  "semantic_tags": [
+   "country",
+   "society_public"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "the Chinese nation/the Chinese people (collective reference to all the ethnic groups in China)",
+  "dataset_meanings": [
+   "the Chinese nation",
+   "the Chinese people (collective reference to all the ethnic groups in China)"
+  ]
+ },
+ {
+  "hanzi": "前后",
+  "pinyin": "qiánhòu",
+  "meaning_ru": "примерно; от начала до конца",
+  "meaning_en": "around; from start to end",
+  "semantic_tags": [
+   "time_period",
+   "spatial_relation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "around/from beginning to end/all around/front and rear",
+  "dataset_meanings": [
+   "around",
+   "from beginning to end",
+   "all around",
+   "front and rear"
+  ]
+ },
+ {
+  "hanzi": "学费",
+  "pinyin": "xuéfèi",
+  "meaning_ru": "плата за обучение",
+  "meaning_en": "tuition fee",
+  "semantic_tags": [
+   "education",
+   "money"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "tuition fee/tuition/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "tuition fee",
+   "tuition"
+  ]
+ },
+ {
+  "hanzi": "中部",
+  "pinyin": "zhōngbù",
+  "meaning_ru": "центральная часть",
+  "meaning_en": "central part",
+  "semantic_tags": [
+   "geography",
+   "location"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "middle part; central section; central region",
+  "dataset_meanings": [
+   "middle part",
+   "central section"
+  ]
+ },
+ {
+  "hanzi": "歌声",
+  "pinyin": "gēshēng",
+  "meaning_ru": "пение; звук песни",
+  "meaning_en": "singing; sound of song",
+  "semantic_tags": [
+   "art",
+   "perception"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "singing voice/fig. original voice of a poet",
+  "dataset_meanings": [
+   "singing voice",
+   "fig. original voice of a poet"
+  ]
+ },
+ {
+  "hanzi": "认出",
+  "pinyin": "rènchū",
+  "meaning_ru": "узнать; распознать",
+  "meaning_en": "to recognize",
+  "semantic_tags": [
+   "cognition",
+   "perception"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "recognition/to recognize",
+  "dataset_meanings": [
+   "recognition",
+   "to recognize"
+  ]
+ },
+ {
+  "hanzi": "可乐",
+  "pinyin": "kělè",
+  "meaning_ru": "кола (напиток)",
+  "meaning_en": "cola",
+  "semantic_tags": [
+   "drink",
+   "food"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "amusing/entertaining/(loanword) cola",
+  "dataset_meanings": [
+   "amusing",
+   "entertaining",
+   "(loanword) cola"
+  ]
+ },
+ {
+  "hanzi": "近期",
+  "pinyin": "jìnqī",
+  "meaning_ru": "в ближайшее время",
+  "meaning_en": "near future; recently",
+  "semantic_tags": [
+   "time_period",
+   "time_word"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "near in time/in the near future/very soon/recent",
+  "dataset_meanings": [
+   "near in time",
+   "in the near future",
+   "very soon",
+   "recent"
+  ]
+ },
+ {
+  "hanzi": "歌迷",
+  "pinyin": "gēmí",
+  "meaning_ru": "поклонник певца",
+  "meaning_en": "fan of a singer",
+  "semantic_tags": [
+   "person",
+   "art"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "fan of a singer",
+  "dataset_meanings": [
+   "fan of a singer"
+  ]
+ },
+ {
+  "hanzi": "解开",
+  "pinyin": "jiěkāi",
+  "meaning_ru": "развязать; разгадать",
+  "meaning_en": "to untie; to solve",
+  "semantic_tags": [
+   "physical_action",
+   "cognition"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to untie/to undo/to solve (a mystery)",
+  "dataset_meanings": [
+   "to untie",
+   "to undo",
+   "to solve (a mystery)"
+  ]
+ },
+ {
+  "hanzi": "初中",
+  "pinyin": "chūzhōng",
+  "meaning_ru": "средняя школа (мл.)",
+  "meaning_en": "junior high school",
+  "semantic_tags": [
+   "education",
+   "building"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "junior high school (abbr. for 初級中學|初级中学[chu1 ji2 zhong1 xue2])",
+  "dataset_meanings": [
+   "junior high school (abbr. for 初级中学)"
+  ]
+ },
+ {
+  "hanzi": "不光",
+  "pinyin": "bùguāng",
+  "meaning_ru": "не только",
+  "meaning_en": "not only",
+  "semantic_tags": [
+   "logic_connective",
+   "degree_adverb"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "not the only one/not only",
+  "dataset_meanings": [
+   "not the only one",
+   "not only"
+  ]
+ },
+ {
+  "hanzi": "子女",
+  "pinyin": "zǐnǚ",
+  "meaning_ru": "дети (сыновья и дочери)",
+  "meaning_en": "children; offspring",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "children; sons and daughters",
+  "dataset_meanings": [
+   "children; sons and daughters"
+  ]
+ },
+ {
+  "hanzi": "老太太",
+  "pinyin": "lǎotàitai",
+  "meaning_ru": "пожилая дама (уваж.)",
+  "meaning_en": "elderly lady (respectful)",
+  "semantic_tags": [
+   "person",
+   "politeness"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "elderly lady (respectful)/esteemed mother/CL:位[wei4]",
+  "dataset_meanings": [
+   "elderly lady (respectful)",
+   "esteemed mother"
+  ]
+ },
+ {
+  "hanzi": "上衣",
+  "pinyin": "shàngyī",
+  "meaning_ru": "верхняя одежда; куртка",
+  "meaning_en": "jacket; upper garment",
+  "semantic_tags": [
+   "clothing"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "jacket/upper outer garment/CL:件[jian4]",
+  "dataset_meanings": [
+   "jacket",
+   "upper outer garment"
+  ]
+ },
+ {
+  "hanzi": "建成",
+  "pinyin": "jiànchéng",
+  "meaning_ru": "построить; возвести",
+  "meaning_en": "to build; complete",
+  "semantic_tags": [
+   "physical_action",
+   "process_change"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to establish/to build",
+  "dataset_meanings": [
+   "to establish",
+   "to build"
+  ]
+ },
+ {
+  "hanzi": "一方面",
+  "pinyin": "yīfāngmiàn",
+  "meaning_ru": "с одной стороны",
+  "meaning_en": "on the one hand",
+  "semantic_tags": [
+   "logic_connective"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "on the one hand",
+  "dataset_meanings": [
+   "on the one hand"
+  ]
+ },
+ {
+  "hanzi": "动人",
+  "pinyin": "dòngrén",
+  "meaning_ru": "трогательный",
+  "meaning_en": "touching; moving",
+  "semantic_tags": [
+   "evaluation_adj",
+   "emotion"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "touching/moving",
+  "dataset_meanings": [
+   "touching",
+   "moving"
+  ]
+ },
+ {
+  "hanzi": "剧场",
+  "pinyin": "jùchǎng",
+  "meaning_ru": "театр (здание)",
+  "meaning_en": "theater",
+  "semantic_tags": [
+   "building",
+   "art"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "theater/CL:座[zuo4]",
+  "dataset_meanings": [
+   "theater"
+  ]
+ },
+ {
+  "hanzi": "开业",
+  "pinyin": "kāiyè",
+  "meaning_ru": "открыть дело; работать",
+  "meaning_en": "open a business",
+  "semantic_tags": [
+   "commerce_trade",
+   "work_career"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to open a business/to open a practice/open (for business)",
+  "dataset_meanings": [
+   "to open a business",
+   "to open a practice",
+   "open (for business)"
+  ]
+ },
+ {
+  "hanzi": "彩色",
+  "pinyin": "cǎisè",
+  "meaning_ru": "цветной",
+  "meaning_en": "color; multicolored",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "color/multicolored",
+  "dataset_meanings": [
+   "color",
+   "multicolored"
+  ]
+ },
+ {
+  "hanzi": "收看",
+  "pinyin": "shōukàn",
+  "meaning_ru": "смотреть (телепередачу)",
+  "meaning_en": "watch (a TV program)",
+  "semantic_tags": [
+   "action_daily",
+   "media_news"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to watch (a TV program)",
+  "dataset_meanings": [
+   "to watch (a TV program)"
+  ]
+ },
+ {
+  "hanzi": "公务员",
+  "pinyin": "gōngwùyuán",
+  "meaning_ru": "госслужащий",
+  "meaning_en": "civil servant",
+  "semantic_tags": [
+   "occupation",
+   "politics_government"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "civil servant; public servant",
+  "dataset_meanings": [
+   "functionary",
+   "office-bearer"
+  ]
+ },
+ {
+  "hanzi": "世界杯",
+  "pinyin": "shìjièbēi",
+  "meaning_ru": "Кубок мира",
+  "meaning_en": "World Cup",
+  "semantic_tags": [
+   "sport"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "World Cup",
+  "dataset_meanings": [
+   "World Cup"
+  ]
+ },
+ {
+  "hanzi": "听众",
+  "pinyin": "tīngzhòng",
+  "meaning_ru": "слушатели; аудитория",
+  "meaning_en": "audience; listeners",
+  "semantic_tags": [
+   "person",
+   "media_news"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "audience/listeners",
+  "dataset_meanings": [
+   "audience",
+   "listeners"
+  ]
+ },
+ {
+  "hanzi": "变为",
+  "pinyin": "biànwéi",
+  "meaning_ru": "превращаться в",
+  "meaning_en": "change into; become",
+  "semantic_tags": [
+   "process_change"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to change into",
+  "dataset_meanings": [
+   "to change into"
+  ]
+ },
+ {
+  "hanzi": "志愿",
+  "pinyin": "zhìyuàn",
+  "meaning_ru": "стремление; добровольно",
+  "meaning_en": "aspiration; to volunteer",
+  "semantic_tags": [
+   "abstract_quality",
+   "cognition"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "aspiration/ambition/to volunteer",
+  "dataset_meanings": [
+   "aspiration",
+   "ambition",
+   "to volunteer"
+  ]
+ },
+ {
+  "hanzi": "职工",
+  "pinyin": "zhígōng",
+  "meaning_ru": "персонал; работники",
+  "meaning_en": "staff; workers",
+  "semantic_tags": [
+   "occupation",
+   "work_career"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "employee; staff member; worker",
+  "dataset_meanings": [
+   "workers; staff"
+  ]
+ },
+ {
+  "hanzi": "熟人",
+  "pinyin": "shúrén",
+  "meaning_ru": "знакомый",
+  "meaning_en": "acquaintance",
+  "semantic_tags": [
+   "person",
+   "relationship_social"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "acquaintance/friend",
+  "dataset_meanings": [
+   "acquaintance",
+   "friend"
+  ]
+ },
+ {
+  "hanzi": "认得",
+  "pinyin": "rènde",
+  "meaning_ru": "узнавать; знать (в лицо)",
+  "meaning_en": "recognize; know",
+  "semantic_tags": [
+   "cognition",
+   "perception"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to recognize/to remember sth (or sb) on seeing it/to know",
+  "dataset_meanings": [
+   "to recognize",
+   "to remember sth (or sb) on seeing it",
+   "to know"
+  ]
+ },
+ {
+  "hanzi": "邮票",
+  "pinyin": "yóupiào",
+  "meaning_ru": "почтовая марка",
+  "meaning_en": "postage stamp",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "(postage) stamp/CL:枚[mei2],張|张[zhang1]",
+  "dataset_meanings": [
+   "(postage) stamp"
+  ]
+ },
+ {
+  "hanzi": "推开",
+  "pinyin": "tuīkāi",
+  "meaning_ru": "распахнуть; оттолкнуть",
+  "meaning_en": "push open; push away",
+  "semantic_tags": [
+   "physical_action",
+   "action_movement"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to push open (a gate etc)/to push away/to reject/to decline",
+  "dataset_meanings": [
+   "to push open (a gate etc)",
+   "to push away",
+   "to reject",
+   "to decline"
+  ]
+ },
+ {
+  "hanzi": "短裤",
+  "pinyin": "duǎnkù",
+  "meaning_ru": "шорты",
+  "meaning_en": "shorts",
+  "semantic_tags": [
+   "clothing"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "short pants/shorts",
+  "dataset_meanings": [
+   "short pants",
+   "shorts"
+  ]
+ },
+ {
+  "hanzi": "收听",
+  "pinyin": "shōutīng",
+  "meaning_ru": "слушать (радио)",
+  "meaning_en": "listen to (radio)",
+  "semantic_tags": [
+   "action_daily",
+   "media_news"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to listen to (a radio broadcast)",
+  "dataset_meanings": [
+   "to listen to (a radio broadcast)"
+  ]
+ },
+ {
+  "hanzi": "电子邮件",
+  "pinyin": "diànzǐyóujiàn",
+  "meaning_ru": "электронная почта",
+  "meaning_en": "email",
+  "semantic_tags": [
+   "communication_formal",
+   "object_tech"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "email/CL:封[feng1],份[fen4]",
+  "dataset_meanings": [
+   "email"
+  ]
+ },
+ {
+  "hanzi": "衬衣",
+  "pinyin": "chènyī",
+  "meaning_ru": "рубашка; сорочка",
+  "meaning_en": "shirt",
+  "semantic_tags": [
+   "clothing"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "shirt/CL:件[jian4]",
+  "dataset_meanings": [
+   "shirt"
+  ]
+ },
+ {
+  "hanzi": "班级",
+  "pinyin": "bānjí",
+  "meaning_ru": "класс (в школе)",
+  "meaning_en": "class; grade",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "class (group of students)/grade (in school)",
+  "dataset_meanings": [
+   "class (group of students)",
+   "grade (in school)"
+  ]
+ },
+ {
+  "hanzi": "现代化",
+  "pinyin": "xiàndàihuà",
+  "meaning_ru": "модернизация",
+  "meaning_en": "modernization",
+  "semantic_tags": [
+   "process_change",
+   "society_public"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "modernization/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "modernization"
+  ]
+ },
+ {
+  "hanzi": "旅行社",
+  "pinyin": "lǚxíngshè",
+  "meaning_ru": "турагентство",
+  "meaning_en": "travel agency",
+  "semantic_tags": [
+   "transport_travel",
+   "commerce_trade"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "travel agency",
+  "dataset_meanings": [
+   "travel agency"
+  ]
+ },
+ {
+  "hanzi": "话剧",
+  "pinyin": "huàjù",
+  "meaning_ru": "драма; спектакль",
+  "meaning_en": "stage play; drama",
+  "semantic_tags": [
+   "art",
+   "culture"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "stage play/modern drama/CL:臺|台[tai2],部[bu4]",
+  "dataset_meanings": [
+   "stage play",
+   "modern drama"
+  ]
+ },
+ {
+  "hanzi": "沙子",
+  "pinyin": "shāzi",
+  "meaning_ru": "песок",
+  "meaning_en": "sand",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "sand/grit/CL:粒[li4],把[ba3]",
+  "dataset_meanings": [
+   "sand",
+   "grit"
+  ]
+ },
+ {
+  "hanzi": "分组",
+  "pinyin": "fēnzǔ",
+  "meaning_ru": "делить на группы",
+  "meaning_en": "divide into groups",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to divide into groups/group (formed from a larger group)/subgroup/(computer networking) packet",
+  "dataset_meanings": [
+   "to divide into groups",
+   "group (formed from a larger group)",
+   "subgroup",
+   "(computer networking) packet"
+  ]
+ },
+ {
+  "hanzi": "年底",
+  "pinyin": "niándǐ",
+  "meaning_ru": "конец года",
+  "meaning_en": "year-end",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "the end of the year/year-end",
+  "dataset_meanings": [
+   "the end of the year",
+   "year-end"
+  ]
+ },
+ {
+  "hanzi": "带动",
+  "pinyin": "dàidòng",
+  "meaning_ru": "побуждать; двигать",
+  "meaning_en": "to spur; to drive",
+  "semantic_tags": [
+   "cause_effect",
+   "process_change"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to spur; to provide impetus; to drive",
+  "dataset_meanings": [
+   "to spur; to provide impetus; to drive"
+  ]
+ },
+ {
+  "hanzi": "交警",
+  "pinyin": "jiāojǐng",
+  "meaning_ru": "дорожная полиция",
+  "meaning_en": "traffic police",
+  "semantic_tags": [
+   "occupation",
+   "law_admin_doc"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "traffic police (abbr. for 交通警察[jiao1 tong1 jing3 cha2])",
+  "dataset_meanings": [
+   "traffic police (abbr. for 察)"
+  ]
+ },
+ {
+  "hanzi": "代表团",
+  "pinyin": "dàibiǎotuán",
+  "meaning_ru": "делегация",
+  "meaning_en": "delegation",
+  "semantic_tags": [
+   "politics_government",
+   "relationship_social"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "delegation/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "delegation"
+  ]
+ },
+ {
+  "hanzi": "影视",
+  "pinyin": "yǐngshì",
+  "meaning_ru": "кино и ТВ",
+  "meaning_en": "film and television",
+  "semantic_tags": [
+   "art",
+   "media_news"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "movies and television",
+  "dataset_meanings": [
+   "movies and television"
+  ]
+ },
+ {
+  "hanzi": "国庆",
+  "pinyin": "guóqìng",
+  "meaning_ru": "День образования КНР",
+  "meaning_en": "National Day",
+  "semantic_tags": [
+   "date",
+   "politics_government"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "National Day",
+  "dataset_meanings": [
+   "National Day"
+  ]
+ },
+ {
+  "hanzi": "所长",
+  "pinyin": "suǒzhǎng",
+  "meaning_ru": "директор (института)",
+  "meaning_en": "head of an institute",
+  "semantic_tags": [
+   "occupation",
+   "work_career"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "what one is good at; one's strong point/director; head of an institute, office or station",
+  "dataset_meanings": [
+   "what one is good at",
+   "head of an institute etc"
+  ]
+ }
+]

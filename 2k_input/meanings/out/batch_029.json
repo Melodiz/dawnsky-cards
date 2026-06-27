@@ -1,0 +1,147 @@
+[
+ {
+  "hanzi": "歌手",
+  "pinyin": "gēshǒu",
+  "meaning_ru": "певец, певица",
+  "meaning_en": "singer",
+  "semantic_tags": [
+   "occupation",
+   "art"
+  ]
+ },
+ {
+  "hanzi": "看起来",
+  "pinyin": "kànqǐlai",
+  "meaning_ru": "похоже; на вид",
+  "meaning_en": "looks like; seems",
+  "semantic_tags": [
+   "perception",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "放到",
+  "pinyin": "fàngdào",
+  "meaning_ru": "поместить (куда-л.)",
+  "meaning_en": "put into; place at",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "静",
+  "pinyin": "jìng",
+  "meaning_ru": "тихий; спокойный",
+  "meaning_en": "quiet; still; calm",
+  "semantic_tags": [
+   "manner_state",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "谈话",
+  "pinyin": "tánhuà",
+  "meaning_ru": "беседовать; беседа",
+  "meaning_en": "to talk; conversation",
+  "semantic_tags": [
+   "action_communication",
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "能不能",
+  "pinyin": "néngbùnéng",
+  "meaning_ru": "можно ли; можешь ли",
+  "meaning_en": "can you?; is it OK?",
+  "semantic_tags": [
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "打破",
+  "pinyin": "dǎpò",
+  "meaning_ru": "разбить; нарушить",
+  "meaning_en": "to break; smash",
+  "semantic_tags": [
+   "physical_action",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "上来",
+  "pinyin": "shànglái",
+  "meaning_ru": "подниматься (сюда)",
+  "meaning_en": "to come up",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "西部",
+  "pinyin": "xībù",
+  "meaning_ru": "западная часть; запад",
+  "meaning_en": "western part; west",
+  "semantic_tags": [
+   "geography",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "改造",
+  "pinyin": "gǎizào",
+  "meaning_ru": "преобразовать; перестроить",
+  "meaning_en": "to transform; remodel",
+  "semantic_tags": [
+   "process_change",
+   "industry_production"
+  ]
+ },
+ {
+  "hanzi": "不论",
+  "pinyin": "bùlùn",
+  "meaning_ru": "независимо от; что бы ни",
+  "meaning_en": "no matter; regardless",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "整天",
+  "pinyin": "zhěngtiān",
+  "meaning_ru": "весь день; целый день",
+  "meaning_en": "all day long",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "观看",
+  "pinyin": "guānkàn",
+  "meaning_ru": "смотреть; наблюдать",
+  "meaning_en": "to watch; view",
+  "semantic_tags": [
+   "perception",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "房屋",
+  "pinyin": "fángwū",
+  "meaning_ru": "дом; здание",
+  "meaning_en": "house; building",
+  "semantic_tags": [
+   "building"
+  ]
+ },
+ {
+  "hanzi": "得分",
+  "pinyin": "défēn",
+  "meaning_ru": "набрать очки; счёт",
+  "meaning_en": "to score; score",
+  "semantic_tags": [
+   "sport",
+   "quantity_abstract"
+  ]
+ }
+]

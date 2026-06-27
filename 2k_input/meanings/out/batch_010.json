@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "排",
+  "pinyin": "pái",
+  "meaning_ru": "ряд; выстраивать в ряд",
+  "meaning_en": "row; line up",
+  "semantic_tags": [
+   "physical_action",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "油",
+  "pinyin": "yóu",
+  "meaning_ru": "масло; жир",
+  "meaning_en": "oil; grease",
+  "semantic_tags": [
+   "material_substance",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "喂",
+  "pinyin": "wéi",
+  "meaning_ru": "алло; эй",
+  "meaning_en": "hello (on phone); hey",
+  "semantic_tags": [
+   "communication_emotion",
+   "greeting"
+  ]
+ },
+ {
+  "hanzi": "流",
+  "pinyin": "liú",
+  "meaning_ru": "течь; струиться",
+  "meaning_en": "to flow; stream",
+  "semantic_tags": [
+   "action_movement",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "养",
+  "pinyin": "yǎng",
+  "meaning_ru": "растить; держать (животных)",
+  "meaning_en": "to raise; keep (pets)",
+  "semantic_tags": [
+   "action_daily",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "船",
+  "pinyin": "chuán",
+  "meaning_ru": "лодка; корабль",
+  "meaning_en": "boat; ship",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "鸡",
+  "pinyin": "jī",
+  "meaning_ru": "курица; петух",
+  "meaning_en": "chicken",
+  "semantic_tags": [
+   "animal",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "不行",
+  "pinyin": "bùxíng",
+  "meaning_ru": "нельзя; не годится",
+  "meaning_en": "won't do; no good",
+  "semantic_tags": [
+   "evaluation_adj",
+   "judgement"
+  ]
+ },
+ {
+  "hanzi": "长大",
+  "pinyin": "zhǎngdà",
+  "meaning_ru": "вырасти; повзрослеть",
+  "meaning_en": "to grow up",
+  "semantic_tags": [
+   "process_change",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "交给",
+  "pinyin": "jiāogěi",
+  "meaning_ru": "передать; вручить",
+  "meaning_en": "to hand over; deliver",
+  "semantic_tags": [
+   "action_daily",
+   "transaction"
+  ]
+ },
+ {
+  "hanzi": "封",
+  "pinyin": "fēng",
+  "meaning_ru": "запечатать; счётн. для писем",
+  "meaning_en": "to seal; cl. for letters",
+  "semantic_tags": [
+   "physical_action",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "蛋",
+  "pinyin": "dàn",
+  "meaning_ru": "яйцо",
+  "meaning_en": "egg",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "想起",
+  "pinyin": "xiǎngqǐ",
+  "meaning_ru": "вспомнить; припомнить",
+  "meaning_en": "to recall; think of",
+  "semantic_tags": [
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "纸",
+  "pinyin": "zhǐ",
+  "meaning_ru": "бумага",
+  "meaning_en": "paper",
+  "semantic_tags": [
+   "material_substance",
+   "object_stationery"
+  ]
+ },
+ {
+  "hanzi": "一生",
+  "pinyin": "yīshēng",
+  "meaning_ru": "вся жизнь; всю жизнь",
+  "meaning_en": "all one's life",
+  "semantic_tags": [
+   "time_period",
+   "abstract_quality"
+  ]
+ }
+]

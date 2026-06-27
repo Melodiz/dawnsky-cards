@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "适用",
+  "pinyin": "shìyòng",
+  "meaning_ru": "применимый; подходящий",
+  "meaning_en": "applicable; to apply to",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "牌子",
+  "pinyin": "páizi",
+  "meaning_ru": "марка; бренд; табличка",
+  "meaning_en": "brand; sign",
+  "semantic_tags": [
+   "commerce_trade",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "金牌",
+  "pinyin": "jīnpái",
+  "meaning_ru": "золотая медаль",
+  "meaning_en": "gold medal",
+  "semantic_tags": [
+   "sport",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "旅馆",
+  "pinyin": "lǚguǎn",
+  "meaning_ru": "гостиница; отель",
+  "meaning_en": "hotel; inn",
+  "semantic_tags": [
+   "building",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "志愿者",
+  "pinyin": "zhìyuànzhě",
+  "meaning_ru": "волонтёр; доброволец",
+  "meaning_en": "volunteer",
+  "semantic_tags": [
+   "person",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "短期",
+  "pinyin": "duǎnqī",
+  "meaning_ru": "краткосрочный",
+  "meaning_en": "short-term",
+  "semantic_tags": [
+   "time_period",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "全场",
+  "pinyin": "quánchǎng",
+  "meaning_ru": "весь зал; все присутствующие",
+  "meaning_en": "whole audience; all present",
+  "semantic_tags": [
+   "quantity_abstract",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "价钱",
+  "pinyin": "jiàqian",
+  "meaning_ru": "цена; стоимость",
+  "meaning_en": "price",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "干吗",
+  "pinyin": "gànmá",
+  "meaning_ru": "зачем?; что делаешь? (разг.)",
+  "meaning_en": "why?; what for? (coll.)",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "底下",
+  "pinyin": "dǐxia",
+  "meaning_ru": "внизу; под",
+  "meaning_en": "below; underneath",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "美食",
+  "pinyin": "měishí",
+  "meaning_ru": "деликатес; вкусная еда",
+  "meaning_en": "fine food; delicacy",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "中华民族",
+  "pinyin": "zhōnghuámínzú",
+  "meaning_ru": "китайская нация",
+  "meaning_en": "the Chinese nation",
+  "semantic_tags": [
+   "country",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "前后",
+  "pinyin": "qiánhòu",
+  "meaning_ru": "примерно; от начала до конца",
+  "meaning_en": "around; from start to end",
+  "semantic_tags": [
+   "time_period",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "学费",
+  "pinyin": "xuéfèi",
+  "meaning_ru": "плата за обучение",
+  "meaning_en": "tuition fee",
+  "semantic_tags": [
+   "education",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "中部",
+  "pinyin": "zhōngbù",
+  "meaning_ru": "центральная часть",
+  "meaning_en": "central part",
+  "semantic_tags": [
+   "geography",
+   "location"
+  ]
+ }
+]

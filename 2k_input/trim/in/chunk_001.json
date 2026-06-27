@@ -1,0 +1,482 @@
+[
+ {
+  "hanzi": "颜色",
+  "pinyin": "yánsè",
+  "meaning_ru": "цвет (нейтр. сущ.)",
+  "meaning_en": "color (everyday standalone noun)",
+  "len_ru": 18,
+  "len_en": 32
+ },
+ {
+  "hanzi": "那时",
+  "pinyin": "nàshí",
+  "meaning_ru": "тогда (отсылка к упом. времени)",
+  "meaning_en": "at that time (anaphoric)",
+  "len_ru": 31,
+  "len_en": 24
+ },
+ {
+  "hanzi": "心中",
+  "pinyin": "xīnzhōng",
+  "meaning_ru": "в душе; в мыслях (книжн.)",
+  "meaning_en": "in one's heart/mind (literary)",
+  "len_ru": 25,
+  "len_en": 30
+ },
+ {
+  "hanzi": "讲话",
+  "pinyin": "jiǎnghuà",
+  "meaning_ru": "говорить; произносить речь",
+  "meaning_en": "speak; give a speech (semi-formal)",
+  "len_ru": 26,
+  "len_en": 34
+ },
+ {
+  "hanzi": "早就",
+  "pinyin": "zǎojiù",
+  "meaning_ru": "давно уже (с нажимом; ≠ 早已 «книжн.»)",
+  "meaning_en": "long ago already (emphatic; vs. literary 早已)",
+  "len_ru": 36,
+  "len_en": 44
+ },
+ {
+  "hanzi": "黑色",
+  "pinyin": "hēisè",
+  "meaning_ru": "чёрный цвет (цвет-существит.)",
+  "meaning_en": "black (as a color noun)",
+  "len_ru": 29,
+  "len_en": 23
+ },
+ {
+  "hanzi": "大人",
+  "pinyin": "dàren",
+  "meaning_ru": "взрослый (разг.)",
+  "meaning_en": "adult; grownup (colloquial)",
+  "len_ru": 16,
+  "len_en": 27
+ },
+ {
+  "hanzi": "绿色",
+  "pinyin": "lǜsè",
+  "meaning_ru": "зелёный цвет",
+  "meaning_en": "green (color noun; also: eco-friendly)",
+  "len_ru": 12,
+  "len_en": 38
+ },
+ {
+  "hanzi": "院",
+  "pinyin": "yuàn",
+  "meaning_ru": "двор; суффикс учреждений",
+  "meaning_en": "courtyard; institution suffix",
+  "len_ru": 24,
+  "len_en": 29
+ },
+ {
+  "hanzi": "白色",
+  "pinyin": "báisè",
+  "meaning_ru": "белый цвет (назв. цвета, сущ.)",
+  "meaning_en": "white (color noun, labeling)",
+  "len_ru": 30,
+  "len_en": 28
+ },
+ {
+  "hanzi": "送给",
+  "pinyin": "sònggěi",
+  "meaning_ru": "дарить; вручать кому-то",
+  "meaning_en": "give as a gift; hand to someone",
+  "len_ru": 23,
+  "len_en": 31
+ },
+ {
+  "hanzi": "不久",
+  "pinyin": "bùjiǔ",
+  "meaning_ru": "вскоре (через некоторое время)",
+  "meaning_en": "before long (gap, not immediate)",
+  "len_ru": 30,
+  "len_en": 32
+ },
+ {
+  "hanzi": "碰到",
+  "pinyin": "pèngdào",
+  "meaning_ru": "случайно встретить; наткнуться (неожиданно)",
+  "meaning_en": "run into accidentally; encounter by chance",
+  "len_ru": 43,
+  "len_en": 42
+ },
+ {
+  "hanzi": "蓝色",
+  "pinyin": "lánsè",
+  "meaning_ru": "синий цвет (цвет-существит.)",
+  "meaning_en": "blue (as a color noun)",
+  "len_ru": 28,
+  "len_en": 22
+ },
+ {
+  "hanzi": "懂得",
+  "pinyin": "dǒngde",
+  "meaning_ru": "понимать (интуитивно; уметь)",
+  "meaning_en": "understand intuitively; know how to",
+  "len_ru": 28,
+  "len_en": 35
+ },
+ {
+  "hanzi": "早晨",
+  "pinyin": "zǎochén",
+  "meaning_ru": "утро (разг., повседневное)",
+  "meaning_en": "early morning (everyday, colloquial)",
+  "len_ru": 26,
+  "len_en": 36
+ },
+ {
+  "hanzi": "以外",
+  "pinyin": "yǐwài",
+  "meaning_ru": "кроме; за пределами (разг./письм.)",
+  "meaning_en": "besides; outside of (spoken/written)",
+  "len_ru": 34,
+  "len_en": 36
+ },
+ {
+  "hanzi": "全体",
+  "pinyin": "quántǐ",
+  "meaning_ru": "весь коллектив; все члены (сущ.)",
+  "meaning_en": "the whole group; all members (collective noun)",
+  "len_ru": 32,
+  "len_en": 46
+ },
+ {
+  "hanzi": "南方",
+  "pinyin": "nánfāng",
+  "meaning_ru": "юг (регион, культурное понятие)",
+  "meaning_en": "the South (cultural/geographic region)",
+  "len_ru": 31,
+  "len_en": 38
+ },
+ {
+  "hanzi": "停车",
+  "pinyin": "tíngchē",
+  "meaning_ru": "парковаться; остановить авто",
+  "meaning_en": "to park; to stop a car",
+  "len_ru": 28,
+  "len_en": 22
+ },
+ {
+  "hanzi": "大声",
+  "pinyin": "dàshēng",
+  "meaning_ru": "громко (нареч.; о голосе; ≠ 响亮 «звонкий»)",
+  "meaning_en": "loudly (adverb, voice; not 'loud and clear')",
+  "len_ru": 41,
+  "len_en": 44
+ },
+ {
+  "hanzi": "分开",
+  "pinyin": "fēnkāi",
+  "meaning_ru": "разделять; расходиться (общее)",
+  "meaning_en": "separate; split apart (general)",
+  "len_ru": 30,
+  "len_en": 31
+ },
+ {
+  "hanzi": "相机",
+  "pinyin": "xiàngjī",
+  "meaning_ru": "фотоаппарат; камера (сокр. форма)",
+  "meaning_en": "camera (short modern form)",
+  "len_ru": 33,
+  "len_en": 26
+ },
+ {
+  "hanzi": "今后",
+  "pinyin": "jīnhòu",
+  "meaning_ru": "впредь; отныне (нареч. времени)",
+  "meaning_en": "from now on (time adverb, not a noun)",
+  "len_ru": 31,
+  "len_en": 37
+ },
+ {
+  "hanzi": "这时",
+  "pinyin": "zhèshí",
+  "meaning_ru": "в этот момент (письм./повеств.)",
+  "meaning_en": "at this point (written/narrative)",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "凉",
+  "pinyin": "liáng",
+  "meaning_ru": "прохладный (умеренно, нейтр.)",
+  "meaning_en": "cool; mildly cold (neutral)",
+  "len_ru": 29,
+  "len_en": 27
+ },
+ {
+  "hanzi": "游客",
+  "pinyin": "yóukè",
+  "meaning_ru": "турист (приехал посмотреть)",
+  "meaning_en": "tourist (leisure/sightseeing visitor)",
+  "len_ru": 27,
+  "len_en": 37
+ },
+ {
+  "hanzi": "拿到",
+  "pinyin": "nádào",
+  "meaning_ru": "получить (физически, руками)",
+  "meaning_en": "get; obtain (physical, hands-on)",
+  "len_ru": 28,
+  "len_en": 32
+ },
+ {
+  "hanzi": "公斤",
+  "pinyin": "gōngjīn",
+  "meaning_ru": "килограмм (разг. норма)",
+  "meaning_en": "kilogram (everyday spoken form)",
+  "len_ru": 23,
+  "len_en": 31
+ },
+ {
+  "hanzi": "例子",
+  "pinyin": "lìzi",
+  "meaning_ru": "пример (сущ., не союзное слово)",
+  "meaning_en": "example; instance (noun, not a connector)",
+  "len_ru": 31,
+  "len_en": 41
+ },
+ {
+  "hanzi": "常见",
+  "pinyin": "chángjiàn",
+  "meaning_ru": "распространённый (часто встречается)",
+  "meaning_en": "common; often encountered",
+  "len_ru": 36,
+  "len_en": 25
+ },
+ {
+  "hanzi": "走过",
+  "pinyin": "zǒuguò",
+  "meaning_ru": "пройти мимо (просто пройти мимо)",
+  "meaning_en": "walk past (simple motion past)",
+  "len_ru": 32,
+  "len_en": 30
+ },
+ {
+  "hanzi": "出租",
+  "pinyin": "chūzū",
+  "meaning_ru": "сдавать в аренду (со стороны хозяина)",
+  "meaning_en": "rent out (landlord side)",
+  "len_ru": 37,
+  "len_en": 24
+ },
+ {
+  "hanzi": "这时候",
+  "pinyin": "zhèshíhòu",
+  "meaning_ru": "в этот момент (разг.)",
+  "meaning_en": "at this moment (colloquial spoken)",
+  "len_ru": 21,
+  "len_en": 34
+ },
+ {
+  "hanzi": "老是",
+  "pinyin": "lǎoshì",
+  "meaning_ru": "вечно; всё время (разг., с досадой)",
+  "meaning_en": "always; keeps doing (complaint tone, coll.)",
+  "len_ru": 35,
+  "len_en": 43
+ },
+ {
+  "hanzi": "天上",
+  "pinyin": "tiānshàng",
+  "meaning_ru": "на небе; в небесах (высок.)",
+  "meaning_en": "in the sky; in the heavens (celestial)",
+  "len_ru": 27,
+  "len_en": 38
+ },
+ {
+  "hanzi": "旅客",
+  "pinyin": "lǚkè",
+  "meaning_ru": "пассажир; путешественник (любой)",
+  "meaning_en": "traveler; passenger (any traveler)",
+  "len_ru": 32,
+  "len_en": 34
+ },
+ {
+  "hanzi": "难题",
+  "pinyin": "nántí",
+  "meaning_ru": "трудная задача; сложный вопрос",
+  "meaning_en": "difficult problem; hard question (concrete)",
+  "len_ru": 30,
+  "len_en": 43
+ },
+ {
+  "hanzi": "院长",
+  "pinyin": "yuànzhǎng",
+  "meaning_ru": "директор/декан института или больницы",
+  "meaning_en": "director/dean of an institute or hospital",
+  "len_ru": 37,
+  "len_en": 41
+ },
+ {
+  "hanzi": "夜里",
+  "pinyin": "yèli",
+  "meaning_ru": "ночью (разг.)",
+  "meaning_en": "at night (colloquial, spoken)",
+  "len_ru": 13,
+  "len_en": 29
+ },
+ {
+  "hanzi": "音乐会",
+  "pinyin": "yīnyuèhuì",
+  "meaning_ru": "концерт (инструм. или любой)",
+  "meaning_en": "concert (any music, incl. instrumental)",
+  "len_ru": 28,
+  "len_en": 39
+ },
+ {
+  "hanzi": "分数",
+  "pinyin": "fēnshù",
+  "meaning_ru": "балл; оценка (числовая)",
+  "meaning_en": "score; grade (numeric, exam result)",
+  "len_ru": 23,
+  "len_en": 35
+ },
+ {
+  "hanzi": "举手",
+  "pinyin": "jǔshǒu",
+  "meaning_ru": "поднять руку (жест голосования)",
+  "meaning_en": "raise a hand (gesture, e.g. vote)",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "课堂",
+  "pinyin": "kètáng",
+  "meaning_ru": "класс; урок (пространство/занятие)",
+  "meaning_en": "classroom; instructional session",
+  "len_ru": 34,
+  "len_en": 32
+ },
+ {
+  "hanzi": "出国",
+  "pinyin": "chūguó",
+  "meaning_ru": "ехать за границу (действие — пересечь границу)",
+  "meaning_en": "go abroad (verb-action, cross the border)",
+  "len_ru": 46,
+  "len_en": 41
+ },
+ {
+  "hanzi": "气温",
+  "pinyin": "qìwēn",
+  "meaning_ru": "температура воздуха (метеоролог.)",
+  "meaning_en": "air/atmospheric temperature",
+  "len_ru": 33,
+  "len_en": 27
+ },
+ {
+  "hanzi": "骑车",
+  "pinyin": "qíchē",
+  "meaning_ru": "ехать на велосипеде (верхом)",
+  "meaning_en": "ride a bike (straddle)",
+  "len_ru": 28,
+  "len_en": 22
+ },
+ {
+  "hanzi": "住房",
+  "pinyin": "zhùfáng",
+  "meaning_ru": "жильё (как соц. понятие)",
+  "meaning_en": "housing; dwelling (societal concept)",
+  "len_ru": 24,
+  "len_en": 36
+ },
+ {
+  "hanzi": "走开",
+  "pinyin": "zǒukāi",
+  "meaning_ru": "уйди; отойди (резко, недалеко)",
+  "meaning_en": "go away; step aside (abrupt, short-range)",
+  "len_ru": 30,
+  "len_en": 41
+ },
+ {
+  "hanzi": "笔记",
+  "pinyin": "bǐjì",
+  "meaning_ru": "записи; конспект (письм. содержание)",
+  "meaning_en": "notes; jottings (written content)",
+  "len_ru": 36,
+  "len_en": 33
+ },
+ {
+  "hanzi": "小声",
+  "pinyin": "xiǎoshēng",
+  "meaning_ru": "тихо; вполголоса (манера речи)",
+  "meaning_en": "in a low voice (manner, not tone)",
+  "len_ru": 30,
+  "len_en": 33
+ },
+ {
+  "hanzi": "送到",
+  "pinyin": "sòngdào",
+  "meaning_ru": "доставить (физически) до места",
+  "meaning_en": "deliver (physically) to a destination",
+  "len_ru": 30,
+  "len_en": 37
+ },
+ {
+  "hanzi": "老年",
+  "pinyin": "lǎonián",
+  "meaning_ru": "старость; пожилой возраст (период жизни)",
+  "meaning_en": "old age (life stage, not a person label)",
+  "len_ru": 40,
+  "len_en": 40
+ },
+ {
+  "hanzi": "常用",
+  "pinyin": "chángyòng",
+  "meaning_ru": "часто используемый (на практике)",
+  "meaning_en": "commonly used (in practice)",
+  "len_ru": 32,
+  "len_en": 27
+ },
+ {
+  "hanzi": "有点儿",
+  "pinyin": "yǒudiǎnr",
+  "meaning_ru": "немного (с оттенком негатива)",
+  "meaning_en": "a little (often negative tone)",
+  "len_ru": 29,
+  "len_en": 30
+ },
+ {
+  "hanzi": "站住",
+  "pinyin": "zhànzhù",
+  "meaning_ru": "стой! (приказ остановиться)",
+  "meaning_en": "halt! (command to stop)",
+  "len_ru": 27,
+  "len_en": 23
+ },
+ {
+  "hanzi": "全年",
+  "pinyin": "quánnián",
+  "meaning_ru": "весь год; годовой (итог: 全年产量)",
+  "meaning_en": "whole year; annual (全年产量 = annual output)",
+  "len_ru": 30,
+  "len_en": 41
+ },
+ {
+  "hanzi": "那会儿",
+  "pinyin": "nàhuìr",
+  "meaning_ru": "тогда (разг., эрхуа)",
+  "meaning_en": "at that time (colloquial, Beijing er-hua)",
+  "len_ru": 20,
+  "len_en": 41
+ },
+ {
+  "hanzi": "坏处",
+  "pinyin": "huàichu",
+  "meaning_ru": "вред; минус",
+  "meaning_en": "downside; drawback (noun, not adj.)",
+  "len_ru": 11,
+  "len_en": 35
+ },
+ {
+  "hanzi": "千克",
+  "pinyin": "qiānkè",
+  "meaning_ru": "килограмм (офиц. единица СИ)",
+  "meaning_en": "kilogram (official SI/scientific term)",
+  "len_ru": 28,
+  "len_en": 38
+ }
+]

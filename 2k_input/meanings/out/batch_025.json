@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "架",
+  "pinyin": "jià",
+  "meaning_ru": "рама; (сч. сл. для машин)",
+  "meaning_en": "frame; (cl. for vehicles)",
+  "semantic_tags": [
+   "measurement",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "室",
+  "pinyin": "shì",
+  "meaning_ru": "комната; кабинет",
+  "meaning_en": "room; office",
+  "semantic_tags": [
+   "building",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "哈哈",
+  "pinyin": "hāhā",
+  "meaning_ru": "ха-ха (смех)",
+  "meaning_en": "ha-ha (laughter)",
+  "semantic_tags": [
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "准",
+  "pinyin": "zhǔn",
+  "meaning_ru": "точный; разрешать",
+  "meaning_en": "accurate; to allow",
+  "semantic_tags": [
+   "evaluation_adj",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "皮",
+  "pinyin": "pí",
+  "meaning_ru": "кожа; кожура; шкура",
+  "meaning_en": "skin; peel; leather",
+  "semantic_tags": [
+   "body",
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "代",
+  "pinyin": "dài",
+  "meaning_ru": "заменять; поколение; эпоха",
+  "meaning_en": "to replace; generation; era",
+  "semantic_tags": [
+   "time_period",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "调",
+  "pinyin": "diào",
+  "meaning_ru": "переводить; тон; мелодия",
+  "meaning_en": "to transfer; tone; tune",
+  "semantic_tags": [
+   "action_movement",
+   "art"
+  ]
+ },
+ {
+  "hanzi": "抓住",
+  "pinyin": "zhuāzhù",
+  "meaning_ru": "схватить; поймать",
+  "meaning_en": "to grab; to seize",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "美好",
+  "pinyin": "měihǎo",
+  "meaning_ru": "прекрасный; чудесный",
+  "meaning_en": "beautiful; wonderful",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "配",
+  "pinyin": "pèi",
+  "meaning_ru": "подходить; сочетать",
+  "meaning_en": "to match; to pair",
+  "semantic_tags": [
+   "abstract_relation",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "乐",
+  "pinyin": "lè",
+  "meaning_ru": "радостный; весёлый",
+  "meaning_en": "happy; joyful",
+  "semantic_tags": [
+   "emotion",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "事实上",
+  "pinyin": "shìshíshàng",
+  "meaning_ru": "на самом деле; фактически",
+  "meaning_en": "in fact; actually",
+  "semantic_tags": [
+   "manner_adverb",
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "保",
+  "pinyin": "bǎo",
+  "meaning_ru": "защищать; гарантировать",
+  "meaning_en": "to protect; to ensure",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "证",
+  "pinyin": "zhèng",
+  "meaning_ru": "удостоверение; доказывать",
+  "meaning_en": "certificate; to prove",
+  "semantic_tags": [
+   "law_admin_doc",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "演",
+  "pinyin": "yǎn",
+  "meaning_ru": "играть; исполнять (на сцене)",
+  "meaning_en": "to perform; to act",
+  "semantic_tags": [
+   "art",
+   "action_communication"
+  ]
+ }
+]

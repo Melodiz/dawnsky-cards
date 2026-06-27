@@ -1,0 +1,967 @@
+[
+ {
+  "hanzi": "加以",
+  "pinyin": "jiāyǐ",
+  "meaning_ru": "подвергнуть; произвести (действие)",
+  "meaning_en": "to apply (action) to",
+  "semantic_tags": [
+   "logic_connective"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(formal) to apply; to carry out; to take action to (do sth) (used before a disyllabic verb, indicating that the action is directed at sth previously mentioned, e.g. 加以說明|加以说明[jia1 yi3 shuo1 ming2]); to apply (restrictions etc); to give (support, consideration etc)/(literary) moreover; in addition",
+  "dataset_meanings": [
+   "in addition",
+   "moreover",
+   "(used before a disyllabic verb to indicate that the action of the verb is applied to sth or sb previously mentioned)",
+   "to apply (restrictions etc) to (sb)",
+   "to give (support, consideration etc) to (sth)"
+  ]
+ },
+ {
+  "hanzi": "不停",
+  "pinyin": "bùtíng",
+  "meaning_ru": "беспрерывно; без остановки",
+  "meaning_en": "incessantly; non-stop",
+  "semantic_tags": [
+   "manner_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "incessant",
+  "dataset_meanings": [
+   "incessant"
+  ]
+ },
+ {
+  "hanzi": "咳",
+  "pinyin": "hāi",
+  "meaning_ru": "эх!; ах! (междометие)",
+  "meaning_en": "oh!; hey! (interjection)",
+  "semantic_tags": [
+   "communication_emotion"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "sound of sighing/(interjection expressing surprise, sorrow, regret, disappointment etc) oh/damn/wow/cough",
+  "dataset_meanings": [
+   "sound of sighing",
+   "(interjection expressing surprise, sorrow, regret, disappointment etc) oh",
+   "damn",
+   "wow",
+   "cough"
+  ]
+ },
+ {
+  "hanzi": "月球",
+  "pinyin": "yuèqiú",
+  "meaning_ru": "Луна",
+  "meaning_en": "the Moon",
+  "semantic_tags": [
+   "nature",
+   "science_research"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "the moon",
+  "dataset_meanings": [
+   "the moon"
+  ]
+ },
+ {
+  "hanzi": "景象",
+  "pinyin": "jǐngxiàng",
+  "meaning_ru": "картина; зрелище",
+  "meaning_en": "scene; sight",
+  "semantic_tags": [
+   "perception",
+   "event_situation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "scene/sight (to behold)",
+  "dataset_meanings": [
+   "scene",
+   "sight (to behold)"
+  ]
+ },
+ {
+  "hanzi": "此后",
+  "pinyin": "cǐhòu",
+  "meaning_ru": "после этого; впредь",
+  "meaning_en": "after this; hereafter",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "after this/afterwards/hereafter",
+  "dataset_meanings": [
+   "after this",
+   "afterwards",
+   "hereafter"
+  ]
+ },
+ {
+  "hanzi": "升高",
+  "pinyin": "shēnggāo",
+  "meaning_ru": "повышаться; подниматься",
+  "meaning_en": "to rise; to go up",
+  "semantic_tags": [
+   "process_change",
+   "action_movement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to raise/to ascend",
+  "dataset_meanings": [
+   "to raise",
+   "to ascend"
+  ]
+ },
+ {
+  "hanzi": "远处",
+  "pinyin": "yuǎnchù",
+  "meaning_ru": "далёкое место; вдали",
+  "meaning_en": "distant place; afar",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "distant place",
+  "dataset_meanings": [
+   "distant place"
+  ]
+ },
+ {
+  "hanzi": "有毒",
+  "pinyin": "yǒudú",
+  "meaning_ru": "ядовитый; токсичный",
+  "meaning_en": "poisonous; toxic",
+  "semantic_tags": [
+   "evaluation_adj",
+   "health_medical"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "poisonous",
+  "dataset_meanings": [
+   "poisonous"
+  ]
+ },
+ {
+  "hanzi": "叉",
+  "pinyin": "chā",
+  "meaning_ru": "вилка; крест (X)",
+  "meaning_en": "fork; cross mark",
+  "semantic_tags": [
+   "object_home",
+   "shape_form"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "fork/pitchfork/prong/pick/cross/intersect/\"X\"/to cross/be stuck/to diverge/to open (as legs)/used in 劈叉[pi3 cha4]/used in 分叉[fen1 cha4]",
+  "dataset_meanings": [
+   "fork",
+   "pitchfork",
+   "prong",
+   "pick",
+   "cross",
+   "intersect",
+   "\"X\"",
+   "to cross",
+   "be stuck",
+   "to diverge",
+   "to open (as legs)"
+  ]
+ },
+ {
+  "hanzi": "墙壁",
+  "pinyin": "qiángbì",
+  "meaning_ru": "стена",
+  "meaning_en": "wall",
+  "semantic_tags": [
+   "building",
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "wall",
+  "dataset_meanings": [
+   "wall"
+  ]
+ },
+ {
+  "hanzi": "预备",
+  "pinyin": "yùbèi",
+  "meaning_ru": "готовить(ся); подготовка",
+  "meaning_en": "to prepare; preparatory",
+  "semantic_tags": [
+   "action_daily",
+   "process_change"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to prepare/to make ready/preparation/preparatory",
+  "dataset_meanings": [
+   "to prepare",
+   "to make ready",
+   "preparation",
+   "preparatory"
+  ]
+ },
+ {
+  "hanzi": "有害",
+  "pinyin": "yǒuhài",
+  "meaning_ru": "вредный; пагубный",
+  "meaning_en": "harmful; damaging",
+  "semantic_tags": [
+   "evaluation_adj",
+   "health_medical"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "destructive/harmful/damaging",
+  "dataset_meanings": [
+   "destructive",
+   "harmful",
+   "damaging"
+  ]
+ },
+ {
+  "hanzi": "看成",
+  "pinyin": "kànchéng",
+  "meaning_ru": "считать (за); принимать за",
+  "meaning_en": "to regard as",
+  "semantic_tags": [
+   "cognition",
+   "judgement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to regard as",
+  "dataset_meanings": [
+   "to regard as"
+  ]
+ },
+ {
+  "hanzi": "转化",
+  "pinyin": "zhuǎnhuà",
+  "meaning_ru": "превращаться; преобразовывать",
+  "meaning_en": "to transform; to convert",
+  "semantic_tags": [
+   "process_change",
+   "cause_effect"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to change; to turn; to convert/(genetics) to transform/(chemistry) isomerization",
+  "dataset_meanings": [
+   "to change",
+   "to transform",
+   "isomerization (chemistry)"
+  ]
+ },
+ {
+  "hanzi": "有利于",
+  "pinyin": "yǒulìyú",
+  "meaning_ru": "способствовать; полезно для",
+  "meaning_en": "beneficial to; favors",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to be advantageous to; to be beneficial for",
+  "dataset_meanings": [
+   "to be advantageous to; to be beneficial for"
+  ]
+ },
+ {
+  "hanzi": "高跟鞋",
+  "pinyin": "gāogēnxié",
+  "meaning_ru": "туфли на каблуках",
+  "meaning_en": "high-heeled shoes",
+  "semantic_tags": [
+   "clothing"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "high-heeled shoes",
+  "dataset_meanings": [
+   "high-heeled shoes"
+  ]
+ },
+ {
+  "hanzi": "上涨",
+  "pinyin": "shàngzhǎng",
+  "meaning_ru": "расти, повышаться (цены)",
+  "meaning_en": "to rise; go up",
+  "semantic_tags": [
+   "process_change",
+   "economy_finance"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to rise/to go up",
+  "dataset_meanings": [
+   "to rise",
+   "to go up"
+  ]
+ },
+ {
+  "hanzi": "摔倒",
+  "pinyin": "shuāidǎo",
+  "meaning_ru": "упасть, свалиться",
+  "meaning_en": "to fall down",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to fall down/to slip and fall/to throw sb to the ground",
+  "dataset_meanings": [
+   "to fall down",
+   "to slip and fall",
+   "to throw sb to the ground"
+  ]
+ },
+ {
+  "hanzi": "诗歌",
+  "pinyin": "shīgē",
+  "meaning_ru": "стихи, поэзия",
+  "meaning_en": "poetry; poem",
+  "semantic_tags": [
+   "art",
+   "culture"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "poem/CL:本[ben3],首[shou3],段[duan4]",
+  "dataset_meanings": [
+   "poem"
+  ]
+ },
+ {
+  "hanzi": "热量",
+  "pinyin": "rèliàng",
+  "meaning_ru": "калории; теплота",
+  "meaning_en": "calories; heat",
+  "semantic_tags": [
+   "measurement",
+   "science_research"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "heat/quantity of heat/calorific value",
+  "dataset_meanings": [
+   "heat",
+   "quantity of heat",
+   "calorific value"
+  ]
+ },
+ {
+  "hanzi": "亏",
+  "pinyin": "kuī",
+  "meaning_ru": "терпеть убыток; недостача",
+  "meaning_en": "to lose money; deficit",
+  "semantic_tags": [
+   "economy_finance",
+   "process_change"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to lose (money); to have a deficit/to be deficient/to treat unfairly/luckily; fortunately; thanks to/(used to introduce an ironic remark about sb who has fallen short of expectations)",
+  "dataset_meanings": [
+   "deficiency",
+   "deficit",
+   "luckily",
+   "it's lucky that...",
+   "(often ironically) fancy that..."
+  ]
+ },
+ {
+  "hanzi": "直线",
+  "pinyin": "zhíxiàn",
+  "meaning_ru": "прямая линия",
+  "meaning_en": "straight line",
+  "semantic_tags": [
+   "shape_form",
+   "science_research"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "straight line/sharply (rise or fall)",
+  "dataset_meanings": [
+   "straight line",
+   "sharply (rise or fall)"
+  ]
+ },
+ {
+  "hanzi": "口号",
+  "pinyin": "kǒuhào",
+  "meaning_ru": "лозунг, призыв",
+  "meaning_en": "slogan",
+  "semantic_tags": [
+   "communication_formal",
+   "politics_government"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "slogan/catchphrase/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "slogan",
+   "catchphrase"
+  ]
+ },
+ {
+  "hanzi": "拆除",
+  "pinyin": "chāichú",
+  "meaning_ru": "сносить, демонтировать",
+  "meaning_en": "to demolish; dismantle",
+  "semantic_tags": [
+   "physical_action",
+   "industry_production"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to tear down/to demolish/to dismantle/to remove",
+  "dataset_meanings": [
+   "to tear down",
+   "to demolish",
+   "to dismantle",
+   "to remove"
+  ]
+ },
+ {
+  "hanzi": "递给",
+  "pinyin": "dìgěi",
+  "meaning_ru": "передать, подать (кому-то)",
+  "meaning_en": "to hand to",
+  "semantic_tags": [
+   "physical_action",
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to hand it (i.e. the aforementioned item) to (sb)",
+  "dataset_meanings": [
+   "to hand it (i.e. the aforementioned item) to (sb)"
+  ]
+ },
+ {
+  "hanzi": "长度",
+  "pinyin": "chángdù",
+  "meaning_ru": "длина",
+  "meaning_en": "length",
+  "semantic_tags": [
+   "measurement",
+   "shape_form"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "length",
+  "dataset_meanings": [
+   "length"
+  ]
+ },
+ {
+  "hanzi": "煤",
+  "pinyin": "méi",
+  "meaning_ru": "уголь",
+  "meaning_en": "coal",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "coal/CL:塊|块[kuai4]",
+  "dataset_meanings": [
+   "coal"
+  ]
+ },
+ {
+  "hanzi": "不曾",
+  "pinyin": "bùcéng",
+  "meaning_ru": "никогда не; ещё не",
+  "meaning_en": "never (have); not yet",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "hasn't yet; hasn't ever",
+  "dataset_meanings": [
+   "hasn't yet",
+   "hasn't ever"
+  ]
+ },
+ {
+  "hanzi": "摄像",
+  "pinyin": "shèxiàng",
+  "meaning_ru": "снимать на видео",
+  "meaning_en": "to videotape; film",
+  "semantic_tags": [
+   "action_daily",
+   "technology"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to videotape",
+  "dataset_meanings": [
+   "to videotape"
+  ]
+ },
+ {
+  "hanzi": "鸭子",
+  "pinyin": "yāzi",
+  "meaning_ru": "утка",
+  "meaning_en": "duck",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "duck (CL:隻|只[zhi1])/(slang) male prostitute",
+  "dataset_meanings": [
+   "duck",
+   "male prostitute (slang)"
+  ]
+ },
+ {
+  "hanzi": "背包",
+  "pinyin": "bēibāo",
+  "meaning_ru": "рюкзак",
+  "meaning_en": "backpack; rucksack",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "knapsack/rucksack/infantry pack/field pack/blanket roll/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "knapsack",
+   "rucksack",
+   "infantry pack",
+   "field pack",
+   "blanket roll"
+  ]
+ },
+ {
+  "hanzi": "车主",
+  "pinyin": "chēzhǔ",
+  "meaning_ru": "владелец машины",
+  "meaning_en": "car owner",
+  "semantic_tags": [
+   "person",
+   "transport_travel"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "vehicle owner",
+  "dataset_meanings": [
+   "vehicle owner"
+  ]
+ },
+ {
+  "hanzi": "用不着",
+  "pinyin": "yòngbuzháo",
+  "meaning_ru": "не нужно; ни к чему",
+  "meaning_en": "no need; needless",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "not need/have no use for",
+  "dataset_meanings": [
+   "not need",
+   "have no use for"
+  ]
+ },
+ {
+  "hanzi": "加热",
+  "pinyin": "jiārè",
+  "meaning_ru": "нагревать",
+  "meaning_en": "to heat up",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to heat",
+  "dataset_meanings": [
+   "to heat"
+  ]
+ },
+ {
+  "hanzi": "一身",
+  "pinyin": "yīshēn",
+  "meaning_ru": "всё тело; с ног до головы",
+  "meaning_en": "whole body; all over",
+  "semantic_tags": [
+   "body",
+   "quantity"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "whole body/from head to toe/single person/a suit of clothes",
+  "dataset_meanings": [
+   "whole body",
+   "from head to toe",
+   "single person",
+   "a suit of clothes"
+  ]
+ },
+ {
+  "hanzi": "高大",
+  "pinyin": "gāodà",
+  "meaning_ru": "высокий; рослый",
+  "meaning_en": "tall; towering",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "tall; lofty; towering",
+  "dataset_meanings": [
+   "tall; lofty; towering"
+  ]
+ },
+ {
+  "hanzi": "高温",
+  "pinyin": "gāowēn",
+  "meaning_ru": "высокая температура",
+  "meaning_en": "high temperature",
+  "semantic_tags": [
+   "measurement",
+   "weather"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "high temperature",
+  "dataset_meanings": [
+   "high temperature"
+  ]
+ },
+ {
+  "hanzi": "为主",
+  "pinyin": "wéizhǔ",
+  "meaning_ru": "ставить во главу; преим.",
+  "meaning_en": "to give priority to",
+  "semantic_tags": [
+   "abstract_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to rely mainly on/to attach most importance to",
+  "dataset_meanings": [
+   "to rely mainly on",
+   "to attach most importance to"
+  ]
+ },
+ {
+  "hanzi": "特性",
+  "pinyin": "tèxìng",
+  "meaning_ru": "свойство; особенность",
+  "meaning_en": "property; characteristic",
+  "semantic_tags": [
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "property/characteristic",
+  "dataset_meanings": [
+   "property",
+   "characteristic"
+  ]
+ },
+ {
+  "hanzi": "草原",
+  "pinyin": "cǎoyuán",
+  "meaning_ru": "степь; луга",
+  "meaning_en": "grassland; prairie",
+  "semantic_tags": [
+   "nature",
+   "geography"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "grassland/prairie/CL:片[pian4]",
+  "dataset_meanings": [
+   "grassland",
+   "prairie"
+  ]
+ },
+ {
+  "hanzi": "灾",
+  "pinyin": "zāi",
+  "meaning_ru": "бедствие; катастрофа",
+  "meaning_en": "disaster; calamity",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "disaster; calamity/variant of 災|灾[zai1]/old variant of 災|灾[zai1]",
+  "dataset_meanings": [
+   "disaster",
+   "calamity",
+   "variant of 灾",
+   "old variant of 灾"
+  ]
+ },
+ {
+  "hanzi": "依照",
+  "pinyin": "yīzhào",
+  "meaning_ru": "согласно; в соответствии",
+  "meaning_en": "according to",
+  "semantic_tags": [
+   "logic_connective"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "according to; in light of",
+  "dataset_meanings": [
+   "according to",
+   "in light of"
+  ]
+ },
+ {
+  "hanzi": "煤气",
+  "pinyin": "méiqì",
+  "meaning_ru": "газ (бытовой)",
+  "meaning_en": "gas (fuel)",
+  "semantic_tags": [
+   "material_substance"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "coal gas/gas (fuel)",
+  "dataset_meanings": [
+   "coal gas",
+   "gas (fuel)"
+  ]
+ },
+ {
+  "hanzi": "脆",
+  "pinyin": "cuì",
+  "meaning_ru": "хрупкий; хрустящий",
+  "meaning_en": "brittle; crisp",
+  "semantic_tags": [
+   "evaluation_adj",
+   "taste"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "old variant of 脆[cui4]/brittle/fragile/crisp/crunchy/clear and loud voice/neat",
+  "dataset_meanings": [
+   "old variant of 脆",
+   "brittle",
+   "fragile",
+   "crisp",
+   "crunchy",
+   "clear and loud voice",
+   "neat"
+  ]
+ },
+ {
+  "hanzi": "制成",
+  "pinyin": "zhìchéng",
+  "meaning_ru": "изготовить; сделать из",
+  "meaning_en": "to make into; manufacture",
+  "semantic_tags": [
+   "industry_production",
+   "process_change"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to manufacture/to turn out (a product)",
+  "dataset_meanings": [
+   "to manufacture",
+   "to turn out (a product)"
+  ]
+ },
+ {
+  "hanzi": "赠",
+  "pinyin": "zèng",
+  "meaning_ru": "дарить; преподносить",
+  "meaning_en": "to give as a gift",
+  "semantic_tags": [
+   "action_daily",
+   "transaction"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to give as a present/to repel/to bestow an honorary title after death (old)",
+  "dataset_meanings": [
+   "to give as a present",
+   "to repel",
+   "to bestow an honorary title after death (old)"
+  ]
+ },
+ {
+  "hanzi": "初期",
+  "pinyin": "chūqī",
+  "meaning_ru": "начальный период",
+  "meaning_en": "early stage",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "initial stage/beginning period",
+  "dataset_meanings": [
+   "initial stage",
+   "beginning period"
+  ]
+ },
+ {
+  "hanzi": "搞好",
+  "pinyin": "gǎohǎo",
+  "meaning_ru": "хорошо сделать; наладить",
+  "meaning_en": "to do well; manage well",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to do well at/to do a good job",
+  "dataset_meanings": [
+   "to do well at",
+   "to do a good job"
+  ]
+ },
+ {
+  "hanzi": "敲门",
+  "pinyin": "qiāomén",
+  "meaning_ru": "стучать в дверь",
+  "meaning_en": "to knock on a door",
+  "semantic_tags": [
+   "action_daily",
+   "physical_action"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to knock on a door",
+  "dataset_meanings": [
+   "to knock on a door"
+  ]
+ },
+ {
+  "hanzi": "污水",
+  "pinyin": "wūshuǐ",
+  "meaning_ru": "сточные воды",
+  "meaning_en": "sewage; wastewater",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "sewage",
+  "dataset_meanings": [
+   "sewage"
+  ]
+ },
+ {
+  "hanzi": "增大",
+  "pinyin": "zēngdà",
+  "meaning_ru": "увеличивать(ся)",
+  "meaning_en": "to enlarge; increase",
+  "semantic_tags": [
+   "process_change"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to enlarge/to amplify/to magnify",
+  "dataset_meanings": [
+   "to enlarge",
+   "to amplify",
+   "to magnify"
+  ]
+ },
+ {
+  "hanzi": "开幕",
+  "pinyin": "kāimù",
+  "meaning_ru": "открываться (о событии)",
+  "meaning_en": "to open (an event)",
+  "semantic_tags": [
+   "event_situation",
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to open (a conference)/to inaugurate",
+  "dataset_meanings": [
+   "to open (a conference)",
+   "to inaugurate"
+  ]
+ },
+ {
+  "hanzi": "特有",
+  "pinyin": "tèyǒu",
+  "meaning_ru": "присущий; характерный",
+  "meaning_en": "specific to; distinctive",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "specific (to)/characteristic (of)/distinctive",
+  "dataset_meanings": [
+   "specific (to)",
+   "characteristic (of)",
+   "distinctive"
+  ]
+ },
+ {
+  "hanzi": "领带",
+  "pinyin": "lǐngdài",
+  "meaning_ru": "галстук",
+  "meaning_en": "necktie",
+  "semantic_tags": [
+   "clothing"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "necktie/CL:條|条[tiao2]",
+  "dataset_meanings": [
+   "necktie"
+  ]
+ },
+ {
+  "hanzi": "依法",
+  "pinyin": "yīfǎ",
+  "meaning_ru": "по закону; согласно праву",
+  "meaning_en": "according to law",
+  "semantic_tags": [
+   "law_justice",
+   "manner_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "legal (proceedings)/according to law",
+  "dataset_meanings": [
+   "legal (proceedings)",
+   "according to law"
+  ]
+ },
+ {
+  "hanzi": "先后",
+  "pinyin": "xiānhòu",
+  "meaning_ru": "по очереди; один за другим",
+  "meaning_en": "in succession; order",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "early or late; first and last; priority/in succession; one after another",
+  "dataset_meanings": [
+   "early or late",
+   "priority",
+   "in succession",
+   "one after another"
+  ]
+ },
+ {
+  "hanzi": "摩托",
+  "pinyin": "mótuō",
+  "meaning_ru": "мотоцикл; мотор",
+  "meaning_en": "motorbike; motor",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(loanword) motor/(loanword) motorbike; motorcycle (abbr. for 摩托車|摩托车[mo2 tuo1 che1])",
+  "dataset_meanings": [
+   "motor (loanword)",
+   "motorbike"
+  ]
+ },
+ {
+  "hanzi": "烤肉",
+  "pinyin": "kǎoròu",
+  "meaning_ru": "жареное мясо; барбекю",
+  "meaning_en": "barbecue; roast meat",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to barbecue meat; to roast meat/barbecued meat; roast meat",
+  "dataset_meanings": [
+   "barbecue (lit. roast meat)"
+  ]
+ },
+ {
+  "hanzi": "明亮",
+  "pinyin": "míngliàng",
+  "meaning_ru": "яркий; светлый",
+  "meaning_en": "bright; well-lit",
+  "semantic_tags": [
+   "evaluation_adj",
+   "perception"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "bright/shining/glittering/to become clear",
+  "dataset_meanings": [
+   "bright",
+   "shining",
+   "glittering",
+   "to become clear"
+  ]
+ }
+]

@@ -1,0 +1,147 @@
+[
+ {
+  "hanzi": "开业",
+  "pinyin": "kāiyè",
+  "meaning_ru": "открыть дело; работать",
+  "meaning_en": "open a business",
+  "semantic_tags": [
+   "commerce_trade",
+   "work_career"
+  ]
+ },
+ {
+  "hanzi": "彩色",
+  "pinyin": "cǎisè",
+  "meaning_ru": "цветной",
+  "meaning_en": "color; multicolored",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "收看",
+  "pinyin": "shōukàn",
+  "meaning_ru": "смотреть (телепередачу)",
+  "meaning_en": "watch (a TV program)",
+  "semantic_tags": [
+   "action_daily",
+   "media_news"
+  ]
+ },
+ {
+  "hanzi": "公务员",
+  "pinyin": "gōngwùyuán",
+  "meaning_ru": "госслужащий",
+  "meaning_en": "civil servant",
+  "semantic_tags": [
+   "occupation",
+   "politics_government"
+  ]
+ },
+ {
+  "hanzi": "世界杯",
+  "pinyin": "shìjièbēi",
+  "meaning_ru": "Кубок мира",
+  "meaning_en": "World Cup",
+  "semantic_tags": [
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "听众",
+  "pinyin": "tīngzhòng",
+  "meaning_ru": "слушатели; аудитория",
+  "meaning_en": "audience; listeners",
+  "semantic_tags": [
+   "person",
+   "media_news"
+  ]
+ },
+ {
+  "hanzi": "变为",
+  "pinyin": "biànwéi",
+  "meaning_ru": "превращаться в",
+  "meaning_en": "change into; become",
+  "semantic_tags": [
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "志愿",
+  "pinyin": "zhìyuàn",
+  "meaning_ru": "стремление; добровольно",
+  "meaning_en": "aspiration; to volunteer",
+  "semantic_tags": [
+   "abstract_quality",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "职工",
+  "pinyin": "zhígōng",
+  "meaning_ru": "персонал; работники",
+  "meaning_en": "staff; workers",
+  "semantic_tags": [
+   "occupation",
+   "work_career"
+  ]
+ },
+ {
+  "hanzi": "熟人",
+  "pinyin": "shúrén",
+  "meaning_ru": "знакомый",
+  "meaning_en": "acquaintance",
+  "semantic_tags": [
+   "person",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "认得",
+  "pinyin": "rènde",
+  "meaning_ru": "узнавать; знать (в лицо)",
+  "meaning_en": "recognize; know",
+  "semantic_tags": [
+   "cognition",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "邮票",
+  "pinyin": "yóupiào",
+  "meaning_ru": "почтовая марка",
+  "meaning_en": "postage stamp",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "推开",
+  "pinyin": "tuīkāi",
+  "meaning_ru": "распахнуть; оттолкнуть",
+  "meaning_en": "push open; push away",
+  "semantic_tags": [
+   "physical_action",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "短裤",
+  "pinyin": "duǎnkù",
+  "meaning_ru": "шорты",
+  "meaning_en": "shorts",
+  "semantic_tags": [
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "收听",
+  "pinyin": "shōutīng",
+  "meaning_ru": "слушать (радио)",
+  "meaning_en": "listen to (radio)",
+  "semantic_tags": [
+   "action_daily",
+   "media_news"
+  ]
+ }
+]

@@ -1,0 +1,151 @@
+[
+ {
+  "hanzi": "车票",
+  "pinyin": "chēpiào",
+  "meaning_ru": "билет (на транспорт)",
+  "meaning_en": "bus/train ticket",
+  "semantic_tags": [
+   "transport_travel",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "米饭",
+  "pinyin": "mǐfàn",
+  "meaning_ru": "варёный рис",
+  "meaning_en": "cooked rice",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "外语",
+  "pinyin": "wàiyǔ",
+  "meaning_ru": "иностранный язык",
+  "meaning_en": "foreign language",
+  "semantic_tags": [
+   "education",
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "没事儿",
+  "pinyin": "méishìr",
+  "meaning_ru": "ничего; не страшно",
+  "meaning_en": "it's nothing; never mind",
+  "semantic_tags": [
+   "communication_emotion",
+   "greeting"
+  ]
+ },
+ {
+  "hanzi": "小学生",
+  "pinyin": "xiǎoxuéshēng",
+  "meaning_ru": "ученик начальной школы",
+  "meaning_en": "primary school pupil",
+  "semantic_tags": [
+   "education",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "外边",
+  "pinyin": "wàibian",
+  "meaning_ru": "снаружи; на улице",
+  "meaning_en": "outside",
+  "semantic_tags": [
+   "location",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "中学生",
+  "pinyin": "zhōngxuéshēng",
+  "meaning_ru": "школьник средней школы",
+  "meaning_en": "secondary school student",
+  "semantic_tags": [
+   "education",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "本子",
+  "pinyin": "běnzi",
+  "meaning_ru": "тетрадь",
+  "meaning_en": "notebook",
+  "semantic_tags": [
+   "object_stationery",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "星期日",
+  "pinyin": "xīngqīrì",
+  "meaning_ru": "воскресенье",
+  "meaning_en": "Sunday",
+  "semantic_tags": [
+   "weekday",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "课本",
+  "pinyin": "kèběn",
+  "meaning_ru": "учебник",
+  "meaning_en": "textbook",
+  "semantic_tags": [
+   "education",
+   "object_stationery"
+  ]
+ },
+ {
+  "hanzi": "打车",
+  "pinyin": "dǎchē",
+  "meaning_ru": "взять такси",
+  "meaning_en": "to take a taxi",
+  "semantic_tags": [
+   "transport_travel",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "女孩儿",
+  "pinyin": "nǚháir",
+  "meaning_ru": "девочка; девушка",
+  "meaning_en": "girl",
+  "semantic_tags": [
+   "person",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "下边",
+  "pinyin": "xiàbian",
+  "meaning_ru": "внизу; под",
+  "meaning_en": "below; underneath",
+  "semantic_tags": [
+   "location",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "汉字",
+  "pinyin": "hànzì",
+  "meaning_ru": "иероглиф",
+  "meaning_en": "Chinese character",
+  "semantic_tags": [
+   "education",
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "请进",
+  "pinyin": "qǐngjìn",
+  "meaning_ru": "входите, пожалуйста",
+  "meaning_en": "please come in",
+  "semantic_tags": [
+   "greeting",
+   "politeness"
+  ]
+ }
+]

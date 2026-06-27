@@ -1,0 +1,152 @@
+[
+ {
+  "hanzi": "点燃",
+  "pinyin": "diǎnrán",
+  "meaning_ru": "зажигать; поджигать",
+  "meaning_en": "to ignite; light up",
+  "semantic_tags": [
+   "physical_action",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "来信",
+  "pinyin": "láixìn",
+  "meaning_ru": "входящее письмо",
+  "meaning_en": "incoming letter",
+  "semantic_tags": [
+   "communication_formal",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "总体",
+  "pinyin": "zǒngtǐ",
+  "meaning_ru": "в целом; общий",
+  "meaning_en": "overall; total",
+  "semantic_tags": [
+   "abstract_quality",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "光线",
+  "pinyin": "guāngxiàn",
+  "meaning_ru": "свет; луч света",
+  "meaning_en": "light; light ray",
+  "semantic_tags": [
+   "nature",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "强度",
+  "pinyin": "qiángdù",
+  "meaning_ru": "сила; интенсивность",
+  "meaning_en": "intensity; strength",
+  "semantic_tags": [
+   "abstract_quality",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "高于",
+  "pinyin": "gāoyú",
+  "meaning_ru": "выше; превышать",
+  "meaning_en": "higher than; exceed",
+  "semantic_tags": [
+   "abstract_relation",
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "变动",
+  "pinyin": "biàndòng",
+  "meaning_ru": "изменение; колебание",
+  "meaning_en": "change; fluctuate",
+  "semantic_tags": [
+   "process_change",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "泉",
+  "pinyin": "quán",
+  "meaning_ru": "родник; источник",
+  "meaning_en": "spring (water)",
+  "semantic_tags": [
+   "nature",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "漏洞",
+  "pinyin": "lòudòng",
+  "meaning_ru": "брешь; лазейка",
+  "meaning_en": "loophole; gap",
+  "semantic_tags": [
+   "abstract_quality",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "查询",
+  "pinyin": "cháxún",
+  "meaning_ru": "наводить справки; запрос",
+  "meaning_en": "to inquire; query",
+  "semantic_tags": [
+   "action_communication",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "铃声",
+  "pinyin": "língshēng",
+  "meaning_ru": "звонок; рингтон",
+  "meaning_en": "ring; ringtone",
+  "semantic_tags": [
+   "perception",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "逃走",
+  "pinyin": "táozǒu",
+  "meaning_ru": "убегать; спасаться бегством",
+  "meaning_en": "to flee; run away",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "研究所",
+  "pinyin": "yánjiūsuǒ",
+  "meaning_ru": "научный институт",
+  "meaning_en": "research institute",
+  "semantic_tags": [
+   "science_research",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "人力",
+  "pinyin": "rénlì",
+  "meaning_ru": "рабочая сила; кадры",
+  "meaning_en": "manpower; labor",
+  "semantic_tags": [
+   "work_career",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "消费者",
+  "pinyin": "xiāofèizhě",
+  "meaning_ru": "потребитель",
+  "meaning_en": "consumer",
+  "semantic_tags": [
+   "commerce_trade",
+   "person"
+  ]
+ }
+]

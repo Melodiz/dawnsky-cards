@@ -1,0 +1,137 @@
+[
+ {
+  "hanzi": "多久",
+  "pinyin": "duōjiǔ",
+  "meaning_ru": "как долго; сколько времени",
+  "meaning_en": "how long?",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "球队",
+  "pinyin": "qiúduì",
+  "meaning_ru": "спортивная команда",
+  "meaning_en": "sports team",
+  "semantic_tags": [
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "上周",
+  "pinyin": "shàngzhōu",
+  "meaning_ru": "на прошлой неделе",
+  "meaning_en": "last week",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "黑色",
+  "pinyin": "hēisè",
+  "meaning_ru": "чёрный цвет",
+  "meaning_en": "black",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "大人",
+  "pinyin": "dàren",
+  "meaning_ru": "взрослый",
+  "meaning_en": "adult; grownup",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "绿色",
+  "pinyin": "lǜsè",
+  "meaning_ru": "зелёный цвет",
+  "meaning_en": "green",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "公路",
+  "pinyin": "gōnglù",
+  "meaning_ru": "шоссе; дорога",
+  "meaning_en": "highway; road",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "院",
+  "pinyin": "yuàn",
+  "meaning_ru": "двор; учреждение",
+  "meaning_en": "courtyard; institution",
+  "semantic_tags": [
+   "building"
+  ]
+ },
+ {
+  "hanzi": "家长",
+  "pinyin": "jiāzhǎng",
+  "meaning_ru": "родитель; глава семьи",
+  "meaning_en": "parent; family head",
+  "semantic_tags": [
+   "family"
+  ]
+ },
+ {
+  "hanzi": "白色",
+  "pinyin": "báisè",
+  "meaning_ru": "белый цвет",
+  "meaning_en": "white",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "出租车",
+  "pinyin": "chūzūchē",
+  "meaning_ru": "такси",
+  "meaning_en": "taxi",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "好事",
+  "pinyin": "hǎoshì",
+  "meaning_ru": "доброе дело; благо",
+  "meaning_en": "good deed; good thing",
+  "semantic_tags": [
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "提到",
+  "pinyin": "tídào",
+  "meaning_ru": "упоминать",
+  "meaning_en": "to mention; refer to",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "题",
+  "pinyin": "tí",
+  "meaning_ru": "задача; вопрос (задание)",
+  "meaning_en": "problem; exam question",
+  "semantic_tags": [
+   "education"
+  ]
+ },
+ {
+  "hanzi": "送给",
+  "pinyin": "sònggěi",
+  "meaning_ru": "дарить (кому-то)",
+  "meaning_en": "to give as a gift",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ }
+]

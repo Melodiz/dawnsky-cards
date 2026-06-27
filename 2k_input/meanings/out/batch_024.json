@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "见过",
+  "pinyin": "jiànguò",
+  "meaning_ru": "видеть (раньше)",
+  "meaning_en": "have seen (before)",
+  "semantic_tags": [
+   "perception",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "那时候",
+  "pinyin": "nàshíhou",
+  "meaning_ru": "в то время; тогда",
+  "meaning_en": "at that time; then",
+  "semantic_tags": [
+   "time_word",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "银行卡",
+  "pinyin": "yínhángkǎ",
+  "meaning_ru": "банковская карта",
+  "meaning_en": "bank card",
+  "semantic_tags": [
+   "economy_finance",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "张",
+  "pinyin": "zhāng",
+  "meaning_ru": "счётн. сл. (листы)",
+  "meaning_en": "classifier: flat sheets",
+  "semantic_tags": [
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "极了",
+  "pinyin": "jíle",
+  "meaning_ru": "крайне; ужасно",
+  "meaning_en": "extremely (suffix)",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "伤",
+  "pinyin": "shāng",
+  "meaning_ru": "рана; ранить",
+  "meaning_en": "wound; to injure",
+  "semantic_tags": [
+   "body_state",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "步",
+  "pinyin": "bù",
+  "meaning_ru": "шаг",
+  "meaning_en": "step; pace",
+  "semantic_tags": [
+   "action_movement",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "亲",
+  "pinyin": "qīn",
+  "meaning_ru": "родной; целовать",
+  "meaning_en": "kin; to kiss",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "跳",
+  "pinyin": "tiào",
+  "meaning_ru": "прыгать",
+  "meaning_en": "to jump; to hop",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "照",
+  "pinyin": "zhào",
+  "meaning_ru": "светить; снимать фото",
+  "meaning_en": "to shine; take photo",
+  "semantic_tags": [
+   "physical_action",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "痛",
+  "pinyin": "tòng",
+  "meaning_ru": "боль; болеть",
+  "meaning_en": "pain; to ache",
+  "semantic_tags": [
+   "body_state",
+   "sensation"
+  ]
+ },
+ {
+  "hanzi": "后面",
+  "pinyin": "hòumian",
+  "meaning_ru": "сзади; позади",
+  "meaning_en": "behind; at the back",
+  "semantic_tags": [
+   "spatial_relation",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "整",
+  "pinyin": "zhěng",
+  "meaning_ru": "целый; ровно",
+  "meaning_en": "whole; exactly",
+  "semantic_tags": [
+   "quantity_abstract",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "空",
+  "pinyin": "kōng",
+  "meaning_ru": "пустой; небо",
+  "meaning_en": "empty; sky",
+  "semantic_tags": [
+   "abstract_quality",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "外面",
+  "pinyin": "wàimiàn",
+  "meaning_ru": "снаружи; вне",
+  "meaning_en": "outside",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ]
+ }
+]

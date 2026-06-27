@@ -1,0 +1,151 @@
+[
+ {
+  "hanzi": "儿女",
+  "pinyin": "érnǚ",
+  "meaning_ru": "дети; сыновья и дочери",
+  "meaning_en": "children; sons and daughters",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "生成",
+  "pinyin": "shēngchéng",
+  "meaning_ru": "порождать; формировать",
+  "meaning_en": "to generate; to form",
+  "semantic_tags": [
+   "process_change",
+   "cause_effect"
+  ]
+ },
+ {
+  "hanzi": "原有",
+  "pinyin": "yuányǒu",
+  "meaning_ru": "изначальный; прежний",
+  "meaning_en": "original; pre-existing",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "雨水",
+  "pinyin": "yǔshuǐ",
+  "meaning_ru": "дождевая вода; осадки",
+  "meaning_en": "rainwater; rainfall",
+  "semantic_tags": [
+   "weather",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "地形",
+  "pinyin": "dìxíng",
+  "meaning_ru": "рельеф; местность",
+  "meaning_en": "terrain; topography",
+  "semantic_tags": [
+   "geography",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "柜子",
+  "pinyin": "guìzi",
+  "meaning_ru": "шкаф; тумба",
+  "meaning_en": "cupboard; cabinet",
+  "semantic_tags": [
+   "object_home",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "乘车",
+  "pinyin": "chéngchē",
+  "meaning_ru": "ехать на машине",
+  "meaning_en": "to ride; go by car",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "学科",
+  "pinyin": "xuékē",
+  "meaning_ru": "учебный предмет; дисциплина",
+  "meaning_en": "subject; discipline",
+  "semantic_tags": [
+   "education",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "大都",
+  "pinyin": "dàdū",
+  "meaning_ru": "большей частью; в основном",
+  "meaning_en": "mostly; for the most part",
+  "semantic_tags": [
+   "degree_adverb",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "南北",
+  "pinyin": "nánběi",
+  "meaning_ru": "север и юг",
+  "meaning_en": "north and south",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "香肠",
+  "pinyin": "xiāngcháng",
+  "meaning_ru": "колбаса; сосиска",
+  "meaning_en": "sausage",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "餐饮",
+  "pinyin": "cānyǐn",
+  "meaning_ru": "питание; общепит",
+  "meaning_en": "food and beverage; catering",
+  "semantic_tags": [
+   "food",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "舍得",
+  "pinyin": "shěde",
+  "meaning_ru": "не жалеть; быть готовым расстаться",
+  "meaning_en": "to be willing to part with",
+  "semantic_tags": [
+   "attitude",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "南极",
+  "pinyin": "nánjí",
+  "meaning_ru": "Южный полюс",
+  "meaning_en": "the South Pole",
+  "semantic_tags": [
+   "geography",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "法制",
+  "pinyin": "fǎzhì",
+  "meaning_ru": "правовая система; законность",
+  "meaning_en": "legal system; rule of law",
+  "semantic_tags": [
+   "law_admin_doc",
+   "politics_government"
+  ]
+ }
+]

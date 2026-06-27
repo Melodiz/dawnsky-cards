@@ -1,0 +1,139 @@
+[
+ {
+  "hanzi": "只不过",
+  "pinyin": "zhǐbuguò",
+  "meaning_ru": "всего лишь; просто",
+  "meaning_en": "only; merely; just",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "歌曲",
+  "pinyin": "gēqǔ",
+  "meaning_ru": "песня",
+  "meaning_en": "song",
+  "semantic_tags": [
+   "art"
+  ]
+ },
+ {
+  "hanzi": "必",
+  "pinyin": "bì",
+  "meaning_ru": "обязательно; непременно",
+  "meaning_en": "must; certainly",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "所在",
+  "pinyin": "suǒzài",
+  "meaning_ru": "место; местонахождение",
+  "meaning_en": "place; location",
+  "semantic_tags": [
+   "location"
+  ]
+ },
+ {
+  "hanzi": "害",
+  "pinyin": "hài",
+  "meaning_ru": "вредить; вред",
+  "meaning_en": "to harm; harm",
+  "semantic_tags": [
+   "cause_effect"
+  ]
+ },
+ {
+  "hanzi": "立",
+  "pinyin": "lì",
+  "meaning_ru": "стоять; ставить",
+  "meaning_en": "to stand; set up",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "稍",
+  "pinyin": "shāo",
+  "meaning_ru": "немного; слегка",
+  "meaning_en": "slightly; a little",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "滑",
+  "pinyin": "huá",
+  "meaning_ru": "скользкий; скользить",
+  "meaning_en": "slippery; to slide",
+  "semantic_tags": [
+   "manner_state",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "忍",
+  "pinyin": "rěn",
+  "meaning_ru": "терпеть; сдерживать",
+  "meaning_en": "to endure; bear",
+  "semantic_tags": [
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "回头",
+  "pinyin": "huítóu",
+  "meaning_ru": "обернуться; попозже",
+  "meaning_en": "turn one's head; later",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "库",
+  "pinyin": "kù",
+  "meaning_ru": "склад; хранилище",
+  "meaning_en": "warehouse; storehouse",
+  "semantic_tags": [
+   "building"
+  ]
+ },
+ {
+  "hanzi": "答",
+  "pinyin": "dā",
+  "meaning_ru": "отвечать; отзываться",
+  "meaning_en": "to answer; respond",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "之下",
+  "pinyin": "zhīxià",
+  "meaning_ru": "под; ниже",
+  "meaning_en": "under; beneath",
+  "semantic_tags": [
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "熊",
+  "pinyin": "xióng",
+  "meaning_ru": "медведь",
+  "meaning_en": "bear",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "不幸",
+  "pinyin": "búxìng",
+  "meaning_ru": "несчастье; несчастный",
+  "meaning_en": "misfortune; unfortunate",
+  "semantic_tags": [
+   "event_situation",
+   "evaluation_adj"
+  ]
+ }
+]

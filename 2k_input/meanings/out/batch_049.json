@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "冬季",
+  "pinyin": "dōngjì",
+  "meaning_ru": "зима; зимний сезон",
+  "meaning_en": "winter; winter season",
+  "semantic_tags": [
+   "time_period",
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "穷人",
+  "pinyin": "qióngrén",
+  "meaning_ru": "бедняк; бедные",
+  "meaning_en": "poor people; the poor",
+  "semantic_tags": [
+   "person",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "宁静",
+  "pinyin": "níngjìng",
+  "meaning_ru": "тишина; спокойствие",
+  "meaning_en": "tranquil; serene",
+  "semantic_tags": [
+   "manner_state",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "树林",
+  "pinyin": "shùlín",
+  "meaning_ru": "лес; роща",
+  "meaning_en": "woods; grove",
+  "semantic_tags": [
+   "nature",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "以内",
+  "pinyin": "yǐnèi",
+  "meaning_ru": "в пределах; не более",
+  "meaning_en": "within; less than",
+  "semantic_tags": [
+   "spatial_relation",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "多种",
+  "pinyin": "duōzhǒng",
+  "meaning_ru": "разнообразные; много видов",
+  "meaning_en": "various; many kinds",
+  "semantic_tags": [
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "型号",
+  "pinyin": "xínghào",
+  "meaning_ru": "модель; тип (изделия)",
+  "meaning_en": "model; type (of product)",
+  "semantic_tags": [
+   "object_tech",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "快递",
+  "pinyin": "kuàidì",
+  "meaning_ru": "экспресс-доставка",
+  "meaning_en": "express delivery",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "新型",
+  "pinyin": "xīnxíng",
+  "meaning_ru": "новый тип; нового типа",
+  "meaning_en": "new type; novel",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "酸奶",
+  "pinyin": "suānnǎi",
+  "meaning_ru": "йогурт",
+  "meaning_en": "yogurt",
+  "semantic_tags": [
+   "food",
+   "drink"
+  ]
+ },
+ {
+  "hanzi": "耳机",
+  "pinyin": "ěrjī",
+  "meaning_ru": "наушники",
+  "meaning_en": "headphones; earphones",
+  "semantic_tags": [
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "两边",
+  "pinyin": "liǎngbian",
+  "meaning_ru": "обе стороны; по бокам",
+  "meaning_en": "both sides; either side",
+  "semantic_tags": [
+   "spatial_relation",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "暑假",
+  "pinyin": "shǔjià",
+  "meaning_ru": "летние каникулы",
+  "meaning_en": "summer vacation",
+  "semantic_tags": [
+   "time_period",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "梦见",
+  "pinyin": "mèngjiàn",
+  "meaning_ru": "видеть во сне",
+  "meaning_en": "to dream about",
+  "semantic_tags": [
+   "cognition",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "夏季",
+  "pinyin": "xiàjì",
+  "meaning_ru": "лето; летний сезон",
+  "meaning_en": "summer; summer season",
+  "semantic_tags": [
+   "time_period",
+   "weather"
+  ]
+ }
+]

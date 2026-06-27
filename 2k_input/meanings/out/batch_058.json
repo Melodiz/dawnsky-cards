@@ -1,0 +1,146 @@
+[
+ {
+  "hanzi": "偷",
+  "pinyin": "tōu",
+  "meaning_ru": "красть; воровать",
+  "meaning_en": "to steal",
+  "semantic_tags": [
+   "physical_action",
+   "law_justice"
+  ]
+ },
+ {
+  "hanzi": "剩下",
+  "pinyin": "shèngxià",
+  "meaning_ru": "оставаться",
+  "meaning_en": "to remain; be left",
+  "semantic_tags": [
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "毒",
+  "pinyin": "dú",
+  "meaning_ru": "яд; ядовитый",
+  "meaning_en": "poison; toxic",
+  "semantic_tags": [
+   "material_substance",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "屋",
+  "pinyin": "wū",
+  "meaning_ru": "дом; комната",
+  "meaning_en": "house; room",
+  "semantic_tags": [
+   "building"
+  ]
+ },
+ {
+  "hanzi": "启动",
+  "pinyin": "qǐdòng",
+  "meaning_ru": "запускать",
+  "meaning_en": "to start; launch",
+  "semantic_tags": [
+   "process_change",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "好运",
+  "pinyin": "hǎoyùn",
+  "meaning_ru": "удача",
+  "meaning_en": "good luck",
+  "semantic_tags": [
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "狂",
+  "pinyin": "kuáng",
+  "meaning_ru": "безумный; буйный",
+  "meaning_en": "mad; wild",
+  "semantic_tags": [
+   "manner_state",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "为止",
+  "pinyin": "wéizhǐ",
+  "meaning_ru": "до (момента)",
+  "meaning_en": "until; up to",
+  "semantic_tags": [
+   "time_word",
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "有着",
+  "pinyin": "yǒuzhe",
+  "meaning_ru": "обладать",
+  "meaning_en": "to have; possess",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "签",
+  "pinyin": "qiān",
+  "meaning_ru": "подписывать",
+  "meaning_en": "to sign",
+  "semantic_tags": [
+   "action_communication",
+   "law_admin_doc"
+  ]
+ },
+ {
+  "hanzi": "价",
+  "pinyin": "jià",
+  "meaning_ru": "цена; стоимость",
+  "meaning_en": "price; value",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "躲",
+  "pinyin": "duǒ",
+  "meaning_ru": "прятаться; уклоняться",
+  "meaning_en": "to hide; dodge",
+  "semantic_tags": [
+   "physical_action",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "冒",
+  "pinyin": "mào",
+  "meaning_ru": "испускать; рисковать",
+  "meaning_en": "to emit; to brave",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "礼",
+  "pinyin": "lǐ",
+  "meaning_ru": "этикет; подарок",
+  "meaning_en": "etiquette; gift",
+  "semantic_tags": [
+   "culture",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "拼",
+  "pinyin": "pīn",
+  "meaning_ru": "соединять; выкладываться",
+  "meaning_en": "to piece together; spell",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ }
+]

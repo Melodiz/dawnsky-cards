@@ -1,0 +1,954 @@
+[
+ {
+  "hanzi": "在家",
+  "pinyin": "zàijiā",
+  "meaning_ru": "быть дома",
+  "meaning_en": "to be at home",
+  "semantic_tags": [
+   "action_daily",
+   "location"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to be at home/(at a workplace) to be in (as opposed to being away on official business 出差[chu1 chai1])/(Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 出家[chu1 jia1])",
+  "dataset_meanings": [
+   "to be at home",
+   "(at a workplace) to be in (as opposed to being away on official business 差)",
+   "(Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 家)"
+  ]
+ },
+ {
+  "hanzi": "妹",
+  "pinyin": "mèi",
+  "meaning_ru": "младшая сестра",
+  "meaning_en": "younger sister",
+  "semantic_tags": [
+   "family"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "younger sister",
+  "dataset_meanings": [
+   "younger sister"
+  ]
+ },
+ {
+  "hanzi": "不对",
+  "pinyin": "búduì",
+  "meaning_ru": "неверно; не так",
+  "meaning_en": "wrong; incorrect",
+  "semantic_tags": [
+   "evaluation_adj",
+   "judgement"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "incorrect/wrong/amiss/abnormal/queer",
+  "dataset_meanings": [
+   "incorrect",
+   "wrong",
+   "amiss",
+   "abnormal",
+   "queer"
+  ]
+ },
+ {
+  "hanzi": "中午",
+  "pinyin": "zhōngwǔ",
+  "meaning_ru": "полдень",
+  "meaning_en": "noon; midday",
+  "semantic_tags": [
+   "time_word",
+   "time_period"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "noon/midday/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "noon",
+   "midday"
+  ]
+ },
+ {
+  "hanzi": "干什么",
+  "pinyin": "gànshénme",
+  "meaning_ru": "что делаешь?; зачем?",
+  "meaning_en": "what are you doing?",
+  "semantic_tags": [
+   "action_daily",
+   "communication_emotion"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "what are you doing?/what's he up to?",
+  "dataset_meanings": [
+   "what are you doing?",
+   "what's he up to?"
+  ]
+ },
+ {
+  "hanzi": "奶",
+  "pinyin": "nǎi",
+  "meaning_ru": "молоко; грудь",
+  "meaning_en": "milk; breast",
+  "semantic_tags": [
+   "drink",
+   "body"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "breast/milk/to breastfeed/variant of 嬭|奶[nai3]/mother/variant of 奶[nai3]",
+  "dataset_meanings": [
+   "breast",
+   "milk",
+   "to breastfeed",
+   "variant of 奶",
+   "mother"
+  ]
+ },
+ {
+  "hanzi": "这边",
+  "pinyin": "zhèbiān",
+  "meaning_ru": "здесь; эта сторона",
+  "meaning_en": "this side; here",
+  "semantic_tags": [
+   "direction",
+   "location"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "this side/here",
+  "dataset_meanings": [
+   "this side",
+   "here"
+  ]
+ },
+ {
+  "hanzi": "男生",
+  "pinyin": "nánshēng",
+  "meaning_ru": "парень; ученик (м.)",
+  "meaning_en": "boy; male student",
+  "semantic_tags": [
+   "person",
+   "education"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "schoolboy/male student/boy/guy (young adult male)",
+  "dataset_meanings": [
+   "schoolboy",
+   "male student",
+   "boy",
+   "guy (young adult male)"
+  ]
+ },
+ {
+  "hanzi": "火车",
+  "pinyin": "huǒchē",
+  "meaning_ru": "поезд",
+  "meaning_en": "train",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "train/CL:列[lie4],節|节[jie2],班[ban1],趟[tang4]",
+  "dataset_meanings": [
+   "train"
+  ]
+ },
+ {
+  "hanzi": "上次",
+  "pinyin": "shàngcì",
+  "meaning_ru": "прошлый раз",
+  "meaning_en": "last time",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "last time",
+  "dataset_meanings": [
+   "last time"
+  ]
+ },
+ {
+  "hanzi": "右边",
+  "pinyin": "yòubian",
+  "meaning_ru": "справа; правая сторона",
+  "meaning_en": "right side",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "right side/right, to the right",
+  "dataset_meanings": [
+   "right side",
+   "right, to the right"
+  ]
+ },
+ {
+  "hanzi": "上学",
+  "pinyin": "shàngxué",
+  "meaning_ru": "ходить в школу",
+  "meaning_en": "to go to school",
+  "semantic_tags": [
+   "education",
+   "action_daily"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to go to school/to attend school",
+  "dataset_meanings": [
+   "to go to school",
+   "to attend school"
+  ]
+ },
+ {
+  "hanzi": "牛奶",
+  "pinyin": "niúnǎi",
+  "meaning_ru": "молоко (коровье)",
+  "meaning_en": "cow's milk",
+  "semantic_tags": [
+   "drink",
+   "food"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "cow's milk/CL:瓶[ping2],杯[bei1]",
+  "dataset_meanings": [
+   "cow's milk"
+  ]
+ },
+ {
+  "hanzi": "女朋友",
+  "pinyin": "nǚpéngyou",
+  "meaning_ru": "девушка (подруга)",
+  "meaning_en": "girlfriend",
+  "semantic_tags": [
+   "relationship_social",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "girlfriend",
+  "dataset_meanings": [
+   "girlfriend"
+  ]
+ },
+ {
+  "hanzi": "听见",
+  "pinyin": "tīngjiàn",
+  "meaning_ru": "услышать",
+  "meaning_en": "to hear",
+  "semantic_tags": [
+   "perception",
+   "action_communication"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to hear",
+  "dataset_meanings": [
+   "to hear"
+  ]
+ },
+ {
+  "hanzi": "新年",
+  "pinyin": "xīnnián",
+  "meaning_ru": "Новый год",
+  "meaning_en": "New Year",
+  "semantic_tags": [
+   "time_period",
+   "culture"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "New Year/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "New Year"
+  ]
+ },
+ {
+  "hanzi": "下班",
+  "pinyin": "xiàbān",
+  "meaning_ru": "уйти с работы",
+  "meaning_en": "get off work",
+  "semantic_tags": [
+   "work_career",
+   "action_daily"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to finish work; to get off work/next service (train, bus etc)",
+  "dataset_meanings": [
+   "to finish work",
+   "to get off work"
+  ]
+ },
+ {
+  "hanzi": "读书",
+  "pinyin": "dúshū",
+  "meaning_ru": "читать; учиться",
+  "meaning_en": "read; study",
+  "semantic_tags": [
+   "action_learning",
+   "education"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to read a book/to study/to attend school",
+  "dataset_meanings": [
+   "to read a book",
+   "to study",
+   "to attend school"
+  ]
+ },
+ {
+  "hanzi": "姐",
+  "pinyin": "jiě",
+  "meaning_ru": "старшая сестра",
+  "meaning_en": "older sister",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "older sister",
+  "dataset_meanings": [
+   "older sister"
+  ]
+ },
+ {
+  "hanzi": "坐下",
+  "pinyin": "zuòxia",
+  "meaning_ru": "сесть; присесть",
+  "meaning_en": "sit down",
+  "semantic_tags": [
+   "physical_action",
+   "action_daily"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to sit down",
+  "dataset_meanings": [
+   "to sit down"
+  ]
+ },
+ {
+  "hanzi": "哪些",
+  "pinyin": "nǎxiē",
+  "meaning_ru": "какие; которые",
+  "meaning_en": "which ones",
+  "semantic_tags": [
+   "pronoun"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "which ones?/who?/what?",
+  "dataset_meanings": [
+   "which ones?",
+   "who?",
+   "what?"
+  ]
+ },
+ {
+  "hanzi": "饭店",
+  "pinyin": "fàndiàn",
+  "meaning_ru": "ресторан; отель",
+  "meaning_en": "restaurant; hotel",
+  "semantic_tags": [
+   "building",
+   "food"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "restaurant/hotel/CL:家[jia1]",
+  "dataset_meanings": [
+   "restaurant",
+   "hotel"
+  ]
+ },
+ {
+  "hanzi": "楼下",
+  "pinyin": "lóuxià",
+  "meaning_ru": "внизу; этажом ниже",
+  "meaning_en": "downstairs",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "downstairs",
+  "dataset_meanings": [
+   "downstairs"
+  ]
+ },
+ {
+  "hanzi": "好听",
+  "pinyin": "hǎotīng",
+  "meaning_ru": "приятный на слух",
+  "meaning_en": "pleasant to hear",
+  "semantic_tags": [
+   "evaluation_adj",
+   "perception"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "pleasant to hear",
+  "dataset_meanings": [
+   "pleasant to hear"
+  ]
+ },
+ {
+  "hanzi": "开会",
+  "pinyin": "kāihuì",
+  "meaning_ru": "проводить собрание",
+  "meaning_en": "hold a meeting",
+  "semantic_tags": [
+   "work_career",
+   "action_communication"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to hold a meeting/to attend a meeting",
+  "dataset_meanings": [
+   "to hold a meeting",
+   "to attend a meeting"
+  ]
+ },
+ {
+  "hanzi": "车站",
+  "pinyin": "chēzhàn",
+  "meaning_ru": "станция; остановка",
+  "meaning_en": "station; bus stop",
+  "semantic_tags": [
+   "transport_travel",
+   "building"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "rail station/bus stop/CL:處|处[chu4],個|个[ge4]",
+  "dataset_meanings": [
+   "rail station",
+   "bus stop"
+  ]
+ },
+ {
+  "hanzi": "走路",
+  "pinyin": "zǒulù",
+  "meaning_ru": "идти пешком",
+  "meaning_en": "walk; go on foot",
+  "semantic_tags": [
+   "action_movement",
+   "action_daily"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to walk; to go on foot/to leave; to depart/(informal) to clear off; to beat it/(of sb who gets fired or resigns) to leave the job; to get out",
+  "dataset_meanings": [
+   "to walk",
+   "to go on foot"
+  ]
+ },
+ {
+  "hanzi": "小朋友",
+  "pinyin": "xiǎopéngyǒu",
+  "meaning_ru": "ребёнок; малыш",
+  "meaning_en": "child; kid",
+  "semantic_tags": [
+   "person",
+   "family"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "child; kid (used to refer to a child, or by an adult to address a child, or, in Taiwan, to refer to sb's own child)",
+  "dataset_meanings": [
+   "child"
+  ]
+ },
+ {
+  "hanzi": "左边",
+  "pinyin": "zuǒbian",
+  "meaning_ru": "левая сторона; слева",
+  "meaning_en": "left side",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "left/the left side/to the left of",
+  "dataset_meanings": [
+   "left",
+   "the left side",
+   "to the left of"
+  ]
+ },
+ {
+  "hanzi": "有用",
+  "pinyin": "yǒuyòng",
+  "meaning_ru": "полезный",
+  "meaning_en": "useful",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "useful",
+  "dataset_meanings": [
+   "useful"
+  ]
+ },
+ {
+  "hanzi": "不大",
+  "pinyin": "búdà",
+  "meaning_ru": "не очень; не часто",
+  "meaning_en": "not very; not often",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "not very (clear, far away etc); not too/not often; infrequently",
+  "dataset_meanings": [
+   "not very",
+   "not too",
+   "not often"
+  ]
+ },
+ {
+  "hanzi": "上车",
+  "pinyin": "shàngchē",
+  "meaning_ru": "садиться в транспорт",
+  "meaning_en": "to get on (bus, car)",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to get on or into (a bus, train, car etc)",
+  "dataset_meanings": [
+   "to get on or into (a bus, train, car etc)"
+  ]
+ },
+ {
+  "hanzi": "马路",
+  "pinyin": "mǎlù",
+  "meaning_ru": "улица; дорога",
+  "meaning_en": "road; street",
+  "semantic_tags": [
+   "transport_travel",
+   "location"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "street/road/CL:條|条[tiao2]",
+  "dataset_meanings": [
+   "street",
+   "road"
+  ]
+ },
+ {
+  "hanzi": "门票",
+  "pinyin": "ménpiào",
+  "meaning_ru": "входной билет",
+  "meaning_en": "admission ticket",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "ticket (for theater, cinema etc)",
+  "dataset_meanings": [
+   "ticket (for theater, cinema etc)"
+  ]
+ },
+ {
+  "hanzi": "机票",
+  "pinyin": "jīpiào",
+  "meaning_ru": "билет на самолёт",
+  "meaning_en": "plane ticket",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "plane ticket; airline ticket/CL:張|张[zhang1]",
+  "dataset_meanings": [
+   "air ticket",
+   "passenger ticket"
+  ]
+ },
+ {
+  "hanzi": "楼上",
+  "pinyin": "lóushàng",
+  "meaning_ru": "наверху; этажом выше",
+  "meaning_en": "upstairs",
+  "semantic_tags": [
+   "spatial_relation",
+   "building"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "upstairs/(Internet slang) previous poster in a forum thread",
+  "dataset_meanings": [
+   "upstairs",
+   "(Internet slang) previous poster in a forum thread"
+  ]
+ },
+ {
+  "hanzi": "下雨",
+  "pinyin": "xiàyǔ",
+  "meaning_ru": "идёт дождь",
+  "meaning_en": "to rain",
+  "semantic_tags": [
+   "weather"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to rain",
+  "dataset_meanings": [
+   "to rain"
+  ]
+ },
+ {
+  "hanzi": "下车",
+  "pinyin": "xiàchē",
+  "meaning_ru": "выходить из транспорта",
+  "meaning_en": "to get off (bus, car)",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to get off or out of (a bus, train, car etc)",
+  "dataset_meanings": [
+   "to get off or out of (a bus, train, car etc)"
+  ]
+ },
+ {
+  "hanzi": "杯子",
+  "pinyin": "bēizi",
+  "meaning_ru": "чашка; стакан",
+  "meaning_en": "cup; glass",
+  "semantic_tags": [
+   "object_home",
+   "drink"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "cup/glass/CL:個|个[ge4],隻|只[zhi1]",
+  "dataset_meanings": [
+   "cup",
+   "glass"
+  ]
+ },
+ {
+  "hanzi": "路口",
+  "pinyin": "lùkǒu",
+  "meaning_ru": "перекрёсток",
+  "meaning_en": "intersection; crossing",
+  "semantic_tags": [
+   "location",
+   "transport_travel"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "crossing/intersection (of roads)",
+  "dataset_meanings": [
+   "crossing",
+   "intersection (of roads)"
+  ]
+ },
+ {
+  "hanzi": "弟",
+  "pinyin": "dì",
+  "meaning_ru": "младший брат",
+  "meaning_en": "younger brother",
+  "semantic_tags": [
+   "family"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "younger brother/junior male/I (modest word in letter)/variant of 悌[ti4]",
+  "dataset_meanings": [
+   "younger brother",
+   "junior male",
+   "I (modest word in letter)",
+   "variant of 悌"
+  ]
+ },
+ {
+  "hanzi": "电视机",
+  "pinyin": "diànshìjī",
+  "meaning_ru": "телевизор",
+  "meaning_en": "television set",
+  "semantic_tags": [
+   "object_home",
+   "object_tech"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "television set/CL:臺|台[tai2]",
+  "dataset_meanings": [
+   "television set"
+  ]
+ },
+ {
+  "hanzi": "放学",
+  "pinyin": "fàngxué",
+  "meaning_ru": "конец уроков",
+  "meaning_en": "school lets out",
+  "semantic_tags": [
+   "education",
+   "action_daily"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to dismiss students at the end of the school day",
+  "dataset_meanings": [
+   "to dismiss students at the end of the school day"
+  ]
+ },
+ {
+  "hanzi": "关上",
+  "pinyin": "guānshàng",
+  "meaning_ru": "закрыть; выключить",
+  "meaning_en": "to close; turn off",
+  "semantic_tags": [
+   "action_daily",
+   "physical_action"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to close (a door)/to turn off (light, electrical equipment etc)",
+  "dataset_meanings": [
+   "to close (a door)",
+   "to turn off (light, electrical equipment etc)"
+  ]
+ },
+ {
+  "hanzi": "半天",
+  "pinyin": "bàntiān",
+  "meaning_ru": "полдня; долго",
+  "meaning_en": "half a day; a long while",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "half of the day/a long time/quite a while/midair/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "half of the day",
+   "a long time",
+   "quite a while",
+   "midair"
+  ]
+ },
+ {
+  "hanzi": "车票",
+  "pinyin": "chēpiào",
+  "meaning_ru": "билет (на транспорт)",
+  "meaning_en": "bus/train ticket",
+  "semantic_tags": [
+   "transport_travel",
+   "object_home"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "ticket (for a bus or train)",
+  "dataset_meanings": [
+   "ticket (for a bus or train)"
+  ]
+ },
+ {
+  "hanzi": "米饭",
+  "pinyin": "mǐfàn",
+  "meaning_ru": "варёный рис",
+  "meaning_en": "cooked rice",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "(cooked) rice",
+  "dataset_meanings": [
+   "(cooked) rice"
+  ]
+ },
+ {
+  "hanzi": "外语",
+  "pinyin": "wàiyǔ",
+  "meaning_ru": "иностранный язык",
+  "meaning_en": "foreign language",
+  "semantic_tags": [
+   "education",
+   "communication_formal"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "foreign language/CL:門|门[men2]",
+  "dataset_meanings": [
+   "foreign language"
+  ]
+ },
+ {
+  "hanzi": "没事儿",
+  "pinyin": "méishìr",
+  "meaning_ru": "ничего; не страшно",
+  "meaning_en": "it's nothing; never mind",
+  "semantic_tags": [
+   "communication_emotion",
+   "greeting"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to have spare time/free from work/it's not important/it's nothing/never mind",
+  "dataset_meanings": [
+   "to have spare time",
+   "free from work",
+   "it's not important",
+   "it's nothing",
+   "never mind"
+  ]
+ },
+ {
+  "hanzi": "小学生",
+  "pinyin": "xiǎoxuéshēng",
+  "meaning_ru": "ученик начальной школы",
+  "meaning_en": "primary school pupil",
+  "semantic_tags": [
+   "education",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "primary school student/schoolchild/CL:個|个[ge4],名[ming2]/(fig.) beginner",
+  "dataset_meanings": [
+   "primary school student",
+   "schoolchild",
+   "(fig.) beginner"
+  ]
+ },
+ {
+  "hanzi": "外边",
+  "pinyin": "wàibian",
+  "meaning_ru": "снаружи; на улице",
+  "meaning_en": "outside",
+  "semantic_tags": [
+   "location",
+   "direction"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "outside/outer surface/abroad/place other than one's home",
+  "dataset_meanings": [
+   "outside",
+   "outer surface",
+   "abroad",
+   "place other than one's home"
+  ]
+ },
+ {
+  "hanzi": "中学生",
+  "pinyin": "zhōngxuéshēng",
+  "meaning_ru": "школьник средней школы",
+  "meaning_en": "secondary school student",
+  "semantic_tags": [
+   "education",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "middle-school student/high school student",
+  "dataset_meanings": [
+   "middle-school student",
+   "high school student"
+  ]
+ },
+ {
+  "hanzi": "本子",
+  "pinyin": "běnzi",
+  "meaning_ru": "тетрадь",
+  "meaning_en": "notebook",
+  "semantic_tags": [
+   "object_stationery",
+   "education"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "book/notebook/Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"/CL:本[ben3]/edition",
+  "dataset_meanings": [
+   "book",
+   "notebook",
+   "Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"",
+   "edition"
+  ]
+ },
+ {
+  "hanzi": "星期日",
+  "pinyin": "xīngqīrì",
+  "meaning_ru": "воскресенье",
+  "meaning_en": "Sunday",
+  "semantic_tags": [
+   "weekday",
+   "time_word"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "Sunday",
+  "dataset_meanings": [
+   "Sunday"
+  ]
+ },
+ {
+  "hanzi": "课本",
+  "pinyin": "kèběn",
+  "meaning_ru": "учебник",
+  "meaning_en": "textbook",
+  "semantic_tags": [
+   "education",
+   "object_stationery"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "textbook/CL:本[ben3]",
+  "dataset_meanings": [
+   "textbook"
+  ]
+ },
+ {
+  "hanzi": "打车",
+  "pinyin": "dǎchē",
+  "meaning_ru": "взять такси",
+  "meaning_en": "to take a taxi",
+  "semantic_tags": [
+   "transport_travel",
+   "action_daily"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to take a taxi (in town)/to hitch a lift",
+  "dataset_meanings": [
+   "to take a taxi (in town)",
+   "to hitch a lift"
+  ]
+ },
+ {
+  "hanzi": "女孩儿",
+  "pinyin": "nǚháir",
+  "meaning_ru": "девочка; девушка",
+  "meaning_en": "girl",
+  "semantic_tags": [
+   "person",
+   "family"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "erhua form of 女孩[nu : 3 hai2]",
+  "dataset_meanings": [
+   "erhua variant of 女孩",
+   "girl"
+  ]
+ },
+ {
+  "hanzi": "下边",
+  "pinyin": "xiàbian",
+  "meaning_ru": "внизу; под",
+  "meaning_en": "below; underneath",
+  "semantic_tags": [
+   "location",
+   "direction"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "under/the underside/below",
+  "dataset_meanings": [
+   "under",
+   "the underside",
+   "below"
+  ]
+ },
+ {
+  "hanzi": "汉字",
+  "pinyin": "hànzì",
+  "meaning_ru": "иероглиф",
+  "meaning_en": "Chinese character",
+  "semantic_tags": [
+   "education",
+   "communication_formal"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "Chinese character(s)",
+  "dataset_meanings": [
+   "Chinese character",
+   "Japanese: kanji",
+   "Korean: hanja",
+   "Vietnamese: hán tự"
+  ]
+ },
+ {
+  "hanzi": "请进",
+  "pinyin": "qǐngjìn",
+  "meaning_ru": "входите, пожалуйста",
+  "meaning_en": "please come in",
+  "semantic_tags": [
+   "greeting",
+   "politeness"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "\"please come in\"",
+  "dataset_meanings": [
+   "\"please come in\""
+  ]
+ }
+]

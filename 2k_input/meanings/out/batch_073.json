@@ -1,0 +1,151 @@
+[
+ {
+  "hanzi": "有利于",
+  "pinyin": "yǒulìyú",
+  "meaning_ru": "способствовать; полезно для",
+  "meaning_en": "beneficial to; favors",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "高跟鞋",
+  "pinyin": "gāogēnxié",
+  "meaning_ru": "туфли на каблуках",
+  "meaning_en": "high-heeled shoes",
+  "semantic_tags": [
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "上涨",
+  "pinyin": "shàngzhǎng",
+  "meaning_ru": "расти, повышаться (цены)",
+  "meaning_en": "to rise; go up",
+  "semantic_tags": [
+   "process_change",
+   "economy_finance"
+  ]
+ },
+ {
+  "hanzi": "摔倒",
+  "pinyin": "shuāidǎo",
+  "meaning_ru": "упасть, свалиться",
+  "meaning_en": "to fall down",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "诗歌",
+  "pinyin": "shīgē",
+  "meaning_ru": "стихи, поэзия",
+  "meaning_en": "poetry; poem",
+  "semantic_tags": [
+   "art",
+   "culture"
+  ]
+ },
+ {
+  "hanzi": "热量",
+  "pinyin": "rèliàng",
+  "meaning_ru": "калории; теплота",
+  "meaning_en": "calories; heat",
+  "semantic_tags": [
+   "measurement",
+   "science_research"
+  ]
+ },
+ {
+  "hanzi": "亏",
+  "pinyin": "kuī",
+  "meaning_ru": "терпеть убыток; недостача",
+  "meaning_en": "to lose money; deficit",
+  "semantic_tags": [
+   "economy_finance",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "直线",
+  "pinyin": "zhíxiàn",
+  "meaning_ru": "прямая линия",
+  "meaning_en": "straight line",
+  "semantic_tags": [
+   "shape_form",
+   "science_research"
+  ]
+ },
+ {
+  "hanzi": "口号",
+  "pinyin": "kǒuhào",
+  "meaning_ru": "лозунг, призыв",
+  "meaning_en": "slogan",
+  "semantic_tags": [
+   "communication_formal",
+   "politics_government"
+  ]
+ },
+ {
+  "hanzi": "拆除",
+  "pinyin": "chāichú",
+  "meaning_ru": "сносить, демонтировать",
+  "meaning_en": "to demolish; dismantle",
+  "semantic_tags": [
+   "physical_action",
+   "industry_production"
+  ]
+ },
+ {
+  "hanzi": "递给",
+  "pinyin": "dìgěi",
+  "meaning_ru": "передать, подать (кому-то)",
+  "meaning_en": "to hand to",
+  "semantic_tags": [
+   "physical_action",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "长度",
+  "pinyin": "chángdù",
+  "meaning_ru": "длина",
+  "meaning_en": "length",
+  "semantic_tags": [
+   "measurement",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "煤",
+  "pinyin": "méi",
+  "meaning_ru": "уголь",
+  "meaning_en": "coal",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "不曾",
+  "pinyin": "bùcéng",
+  "meaning_ru": "никогда не; ещё не",
+  "meaning_en": "never (have); not yet",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "摄像",
+  "pinyin": "shèxiàng",
+  "meaning_ru": "снимать на видео",
+  "meaning_en": "to videotape; film",
+  "semantic_tags": [
+   "action_daily",
+   "technology"
+  ]
+ }
+]

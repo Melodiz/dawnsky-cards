@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "退出",
+  "pinyin": "tuìchū",
+  "meaning_ru": "выйти; покинуть",
+  "meaning_en": "to quit; exit; log out",
+  "semantic_tags": [
+   "action_movement",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "齐",
+  "pinyin": "qí",
+  "meaning_ru": "ровный; вместе",
+  "meaning_en": "neat; even; all together",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "上升",
+  "pinyin": "shàngshēng",
+  "meaning_ru": "подниматься; расти",
+  "meaning_en": "to rise; go up",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "围",
+  "pinyin": "wéi",
+  "meaning_ru": "окружать; обмотать",
+  "meaning_en": "to surround; wrap around",
+  "semantic_tags": [
+   "physical_action",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "飞行",
+  "pinyin": "fēixíng",
+  "meaning_ru": "полёт; летать",
+  "meaning_en": "to fly; flight",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "福",
+  "pinyin": "fú",
+  "meaning_ru": "счастье; удача",
+  "meaning_en": "good fortune; luck",
+  "semantic_tags": [
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "补",
+  "pinyin": "bǔ",
+  "meaning_ru": "чинить; восполнять",
+  "meaning_en": "to mend; make up for",
+  "semantic_tags": [
+   "physical_action",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "赶到",
+  "pinyin": "gǎndào",
+  "meaning_ru": "успеть прибыть",
+  "meaning_en": "to hurry to a place",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "相比",
+  "pinyin": "xiāngbǐ",
+  "meaning_ru": "сравнивать",
+  "meaning_en": "to compare",
+  "semantic_tags": [
+   "cognition",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "深入",
+  "pinyin": "shēnrù",
+  "meaning_ru": "углублённый; вникать",
+  "meaning_en": "thorough; to go deep",
+  "semantic_tags": [
+   "evaluation_adj",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "情感",
+  "pinyin": "qínggǎn",
+  "meaning_ru": "чувство; эмоция",
+  "meaning_en": "feeling; emotion",
+  "semantic_tags": [
+   "emotion",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "人群",
+  "pinyin": "rénqún",
+  "meaning_ru": "толпа",
+  "meaning_en": "crowd",
+  "semantic_tags": [
+   "person",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "争",
+  "pinyin": "zhēng",
+  "meaning_ru": "бороться; спорить",
+  "meaning_en": "to strive for; argue",
+  "semantic_tags": [
+   "physical_action",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "订",
+  "pinyin": "dìng",
+  "meaning_ru": "заказать; подписаться",
+  "meaning_en": "to order; subscribe",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "保安",
+  "pinyin": "bǎoān",
+  "meaning_ru": "охранник; охрана",
+  "meaning_en": "security guard; security",
+  "semantic_tags": [
+   "occupation",
+   "society_public"
+  ]
+ }
+]

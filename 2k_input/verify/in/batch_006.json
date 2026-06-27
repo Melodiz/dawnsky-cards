@@ -1,0 +1,1175 @@
+[
+ {
+  "hanzi": "见过",
+  "pinyin": "jiànguò",
+  "meaning_ru": "видеть (раньше)",
+  "meaning_en": "have seen (before)",
+  "semantic_tags": [
+   "perception",
+   "cognition"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "seen"
+  ]
+ },
+ {
+  "hanzi": "那时候",
+  "pinyin": "nàshíhou",
+  "meaning_ru": "в то время; тогда",
+  "meaning_en": "at that time; then",
+  "semantic_tags": [
+   "time_word",
+   "time_period"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "at that time",
+  "dataset_meanings": [
+   "at that time"
+  ]
+ },
+ {
+  "hanzi": "银行卡",
+  "pinyin": "yínhángkǎ",
+  "meaning_ru": "банковская карта",
+  "meaning_en": "bank card",
+  "semantic_tags": [
+   "economy_finance",
+   "object_home"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "bank card",
+  "dataset_meanings": [
+   "bank card",
+   "ATM card"
+  ]
+ },
+ {
+  "hanzi": "张",
+  "pinyin": "zhāng",
+  "meaning_ru": "счётн. сл. (листы)",
+  "meaning_en": "classifier: flat sheets",
+  "semantic_tags": [
+   "measurement"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Zhang/to open up/to spread/sheet of paper/classifier for flat objects, sheet/classifier for votes",
+  "dataset_meanings": [
+   "surname Zhang",
+   "to open up",
+   "to spread",
+   "sheet of paper",
+   "classifier for flat objects, sheet",
+   "classifier for votes"
+  ]
+ },
+ {
+  "hanzi": "极了",
+  "pinyin": "jíle",
+  "meaning_ru": "крайне; ужасно",
+  "meaning_en": "extremely (suffix)",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "extremely/exceedingly",
+  "dataset_meanings": [
+   "extremely",
+   "exceedingly"
+  ]
+ },
+ {
+  "hanzi": "伤",
+  "pinyin": "shāng",
+  "meaning_ru": "рана; ранить",
+  "meaning_en": "wound; to injure",
+  "semantic_tags": [
+   "body_state",
+   "health_medical"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to injure/injury/wound",
+  "dataset_meanings": [
+   "to injure",
+   "injury",
+   "wound"
+  ]
+ },
+ {
+  "hanzi": "步",
+  "pinyin": "bù",
+  "meaning_ru": "шаг",
+  "meaning_en": "step; pace",
+  "semantic_tags": [
+   "action_movement",
+   "measurement"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Bu/a step/a pace/walk/march/stages in a process/situation",
+  "dataset_meanings": [
+   "surname Bu",
+   "a step",
+   "a pace",
+   "walk",
+   "march",
+   "stages in a process",
+   "situation"
+  ]
+ },
+ {
+  "hanzi": "亲",
+  "pinyin": "qīn",
+  "meaning_ru": "родной; целовать",
+  "meaning_en": "kin; to kiss",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "parent/one's own (flesh and blood)/relative/related/marriage/bride/close/intimate/in person/first-hand/in favor of/pro-/to kiss/(Internet slang) dear/parents-in-law of one's offspring",
+  "dataset_meanings": [
+   "parent",
+   "one's own (flesh and blood)",
+   "relative",
+   "related",
+   "marriage",
+   "bride",
+   "close",
+   "intimate",
+   "in person",
+   "first-hand",
+   "in favor of",
+   "pro-",
+   "to kiss",
+   "(Internet slang) dear",
+   "parents-in-law of one's offspring"
+  ]
+ },
+ {
+  "hanzi": "跳",
+  "pinyin": "tiào",
+  "meaning_ru": "прыгать",
+  "meaning_en": "to jump; to hop",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to jump/to hop/to skip over/to bounce/to palpitate",
+  "dataset_meanings": [
+   "to jump",
+   "to hop",
+   "to skip over",
+   "to bounce",
+   "to palpitate"
+  ]
+ },
+ {
+  "hanzi": "照",
+  "pinyin": "zhào",
+  "meaning_ru": "светить; снимать фото",
+  "meaning_en": "to shine; take photo",
+  "semantic_tags": [
+   "physical_action",
+   "perception"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "variant of 照[zhao4]/to shine/to illuminate/according to/in accordance with/to reflect/to look at (one's reflection)/to take (a photo)/photo/as requested/as before",
+  "dataset_meanings": [
+   "variant of 照",
+   "to shine",
+   "to illuminate",
+   "according to",
+   "in accordance with",
+   "to reflect",
+   "to look at (one's reflection)",
+   "to take (a photo)",
+   "photo",
+   "as requested",
+   "as before"
+  ]
+ },
+ {
+  "hanzi": "痛",
+  "pinyin": "tòng",
+  "meaning_ru": "боль; болеть",
+  "meaning_en": "pain; to ache",
+  "semantic_tags": [
+   "body_state",
+   "sensation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "ache/pain/sorrow/deeply/thoroughly",
+  "dataset_meanings": [
+   "ache",
+   "pain",
+   "sorrow",
+   "deeply",
+   "thoroughly"
+  ]
+ },
+ {
+  "hanzi": "后面",
+  "pinyin": "hòumian",
+  "meaning_ru": "сзади; позади",
+  "meaning_en": "behind; at the back",
+  "semantic_tags": [
+   "spatial_relation",
+   "direction"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "the back; the rear; the last bit/behind; near the end; at the back/later; afterwards",
+  "dataset_meanings": [
+   "the back; the rear; the last bit",
+   "behind; near the end; at the back",
+   "later; afterwards"
+  ]
+ },
+ {
+  "hanzi": "整",
+  "pinyin": "zhěng",
+  "meaning_ru": "целый; ровно",
+  "meaning_en": "whole; exactly",
+  "semantic_tags": [
+   "quantity_abstract",
+   "manner_state"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "(bound form) whole; complete; entire; (before a measure word) whole; (before or after number + measure word) exactly/(bound form) in good order; tidy; neat/(bound form) to put in order; to straighten/(bound form) to repair; to mend; to renovate/(coll.) to fix sb; to give sb a hard time; to mess with sb/(dialect) to tinker with; to do sth to",
+  "dataset_meanings": [
+   "exactly",
+   "in good order",
+   "whole",
+   "complete",
+   "entire",
+   "in order",
+   "orderly",
+   "to repair",
+   "to mend",
+   "to renovate",
+   "(coll.) to fix sb",
+   "to give sb a hard time",
+   "to mess with sb"
+  ]
+ },
+ {
+  "hanzi": "空",
+  "pinyin": "kōng",
+  "meaning_ru": "пустой; небо",
+  "meaning_en": "empty; sky",
+  "semantic_tags": [
+   "abstract_quality",
+   "shape_form"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "empty/air/sky/in vain/to empty/vacant/unoccupied/space/leisure/free time",
+  "dataset_meanings": [
+   "empty",
+   "air",
+   "sky",
+   "in vain",
+   "to empty",
+   "vacant",
+   "unoccupied",
+   "space",
+   "leisure",
+   "free time"
+  ]
+ },
+ {
+  "hanzi": "外面",
+  "pinyin": "wàimiàn",
+  "meaning_ru": "снаружи; вне",
+  "meaning_en": "outside",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "outside (also pr. [wai4 mian5] for this sense)/surface/exterior/external appearance",
+  "dataset_meanings": [
+   "outside (also pr. [wài mian] for this sense)",
+   "surface",
+   "exterior",
+   "external appearance"
+  ]
+ },
+ {
+  "hanzi": "架",
+  "pinyin": "jià",
+  "meaning_ru": "рама; (сч. сл. для машин)",
+  "meaning_en": "frame; (cl. for vehicles)",
+  "semantic_tags": [
+   "measurement",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to support/frame/rack/framework/classifier for planes, large vehicles, radios etc",
+  "dataset_meanings": [
+   "to support",
+   "frame",
+   "rack",
+   "framework",
+   "classifier for planes, large vehicles, radios etc"
+  ]
+ },
+ {
+  "hanzi": "室",
+  "pinyin": "shì",
+  "meaning_ru": "комната; кабинет",
+  "meaning_en": "room; office",
+  "semantic_tags": [
+   "building",
+   "location"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Shi/room/work unit/grave/scabbard/family or clan/one of the 28 constellations of Chinese astronomy",
+  "dataset_meanings": [
+   "surname Shi",
+   "room",
+   "work unit",
+   "grave",
+   "scabbard",
+   "family or clan",
+   "one of the 28 constellations of Chinese astronomy"
+  ]
+ },
+ {
+  "hanzi": "哈哈",
+  "pinyin": "hāhā",
+  "meaning_ru": "ха-ха (смех)",
+  "meaning_en": "ha-ha (laughter)",
+  "semantic_tags": [
+   "communication_emotion"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "(onom.) laughing out loud",
+  "dataset_meanings": [
+   "(onom.) laughing out loud"
+  ]
+ },
+ {
+  "hanzi": "准",
+  "pinyin": "zhǔn",
+  "meaning_ru": "точный; разрешать",
+  "meaning_en": "accurate; to allow",
+  "semantic_tags": [
+   "evaluation_adj",
+   "action_communication"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to allow/to grant/in accordance with/in the light of/accurate/standard/definitely/certainly/about to become (bride, son-in-law etc)/quasi-/para-",
+  "dataset_meanings": [
+   "to allow",
+   "to grant",
+   "in accordance with",
+   "in the light of",
+   "accurate",
+   "standard",
+   "definitely",
+   "certainly",
+   "about to become (bride, son-in-law etc)",
+   "quasi-",
+   "para-"
+  ]
+ },
+ {
+  "hanzi": "皮",
+  "pinyin": "pí",
+  "meaning_ru": "кожа; кожура; шкура",
+  "meaning_en": "skin; peel; leather",
+  "semantic_tags": [
+   "body",
+   "material_substance"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Pi/skin; peel; rind; outer layer/leather; hide; fur/cover; wrapping; outer covering/(of food) no longer crisp; soggy/(coll.) naughty; mischievous/pico- (10⁻¹²)",
+  "dataset_meanings": [
+   "surname Pi",
+   "leather",
+   "skin",
+   "fur",
+   "pico- (one trillionth)",
+   "naughty"
+  ]
+ },
+ {
+  "hanzi": "代",
+  "pinyin": "dài",
+  "meaning_ru": "заменять; поколение; эпоха",
+  "meaning_en": "to replace; generation; era",
+  "semantic_tags": [
+   "time_period",
+   "action_daily"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to be a substitute for; to act on behalf of; to replace; to substitute/generation; dynasty; age; period; (historical) era; (geological) eon",
+  "dataset_meanings": [
+   "to substitute",
+   "to act on behalf of others",
+   "to replace",
+   "generation",
+   "dynasty",
+   "age",
+   "period",
+   "(historical) era",
+   "(geological) eon"
+  ]
+ },
+ {
+  "hanzi": "调",
+  "pinyin": "diào",
+  "meaning_ru": "переводить; тон; мелодия",
+  "meaning_en": "to transfer; tone; tune",
+  "semantic_tags": [
+   "action_movement",
+   "art"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to transfer/to move (troops or cadres)/to investigate/to enquire into/accent/view/argument/key (in music)/mode (music)/tune/tone/melody/to harmonize/to reconcile/to blend/to suit well/to adjust/to regulate/to season (food)/to provoke/to incite",
+  "dataset_meanings": [
+   "to transfer",
+   "to move (troops or cadres)",
+   "to investigate",
+   "to enquire into",
+   "accent",
+   "view",
+   "argument",
+   "key (in music)",
+   "mode (music)",
+   "tune",
+   "tone",
+   "melody",
+   "to harmonize",
+   "to reconcile",
+   "to blend",
+   "to suit well",
+   "to adjust",
+   "to regulate",
+   "to season (food)",
+   "to provoke",
+   "to incite"
+  ]
+ },
+ {
+  "hanzi": "抓住",
+  "pinyin": "zhuāzhù",
+  "meaning_ru": "схватить; поймать",
+  "meaning_en": "to grab; to seize",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to grab hold of; to capture",
+  "dataset_meanings": [
+   "to grab hold of; to capture"
+  ]
+ },
+ {
+  "hanzi": "美好",
+  "pinyin": "měihǎo",
+  "meaning_ru": "прекрасный; чудесный",
+  "meaning_en": "beautiful; wonderful",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "beautiful/fine",
+  "dataset_meanings": [
+   "beautiful",
+   "fine"
+  ]
+ },
+ {
+  "hanzi": "配",
+  "pinyin": "pèi",
+  "meaning_ru": "подходить; сочетать",
+  "meaning_en": "to match; to pair",
+  "semantic_tags": [
+   "abstract_relation",
+   "action_daily"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to join/to fit/to mate/to mix/to match/to deserve/to make up (a prescription)/to allocate",
+  "dataset_meanings": [
+   "to join",
+   "to fit",
+   "to mate",
+   "to mix",
+   "to match",
+   "to deserve",
+   "to make up (a prescription)",
+   "to allocate"
+  ]
+ },
+ {
+  "hanzi": "乐",
+  "pinyin": "lè",
+  "meaning_ru": "радостный; весёлый",
+  "meaning_en": "happy; joyful",
+  "semantic_tags": [
+   "emotion",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Le/surname Yue/used in place names/happy/cheerful/to laugh/music",
+  "dataset_meanings": [
+   "surname Le",
+   "surname Yue",
+   "happy",
+   "cheerful",
+   "to laugh",
+   "music"
+  ]
+ },
+ {
+  "hanzi": "事实上",
+  "pinyin": "shìshíshàng",
+  "meaning_ru": "на самом деле; фактически",
+  "meaning_en": "in fact; actually",
+  "semantic_tags": [
+   "manner_adverb",
+   "logic_connective"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "in fact/in reality/actually/as a matter of fact/de facto/ipso facto",
+  "dataset_meanings": [
+   "in fact",
+   "in reality",
+   "actually",
+   "as a matter of fact",
+   "de facto",
+   "ipso facto"
+  ]
+ },
+ {
+  "hanzi": "保",
+  "pinyin": "bǎo",
+  "meaning_ru": "защищать; гарантировать",
+  "meaning_en": "to protect; to ensure",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "Bulgaria (abbr. for 保加利亞|保加利亚[Bao3 jia1 li4 ya4])/to defend; to protect; to keep/to guarantee; to ensure/(old) civil administration unit in the baojia 保甲[bao3 jia3] system",
+  "dataset_meanings": [
+   "Bulgaria",
+   "Bulgarian",
+   "abbr. for 保加利亚",
+   "to defend; to protect; to keep",
+   "to guarantee; to ensure",
+   "civil administration unit in the baojia 甲 system (old)"
+  ]
+ },
+ {
+  "hanzi": "证",
+  "pinyin": "zhèng",
+  "meaning_ru": "удостоверение; доказывать",
+  "meaning_en": "certificate; to prove",
+  "semantic_tags": [
+   "law_admin_doc",
+   "cognition"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to admonish/variant of 證|证[zheng4]/certificate/proof/to prove/to demonstrate/to confirm/variant of 症[zheng4]",
+  "dataset_meanings": [
+   "to admonish",
+   "variant of 证",
+   "certificate",
+   "proof",
+   "to prove",
+   "to demonstrate",
+   "to confirm",
+   "variant of 症"
+  ]
+ },
+ {
+  "hanzi": "演",
+  "pinyin": "yǎn",
+  "meaning_ru": "играть; исполнять (на сцене)",
+  "meaning_en": "to perform; to act",
+  "semantic_tags": [
+   "art",
+   "action_communication"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to perform (a play etc); to stage (a show)/(bound form) to develop; to play out; to carry out (a task)",
+  "dataset_meanings": [
+   "to develop",
+   "to evolve",
+   "to practice",
+   "to perform",
+   "to play",
+   "to act"
+  ]
+ },
+ {
+  "hanzi": "胜",
+  "pinyin": "shèng",
+  "meaning_ru": "победить; выиграть",
+  "meaning_en": "to win; victory",
+  "semantic_tags": [
+   "abstract_quality",
+   "sport"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "victory/success/to beat/to defeat/to surpass/victorious/superior to/to get the better of/better than/surpassing/superb (of vista)/beautiful (scenery)/wonderful (view)/(Taiwan pr. [sheng1]) able to bear/equal to (a task)",
+  "dataset_meanings": [
+   "victory",
+   "success",
+   "to beat",
+   "to defeat",
+   "to surpass",
+   "victorious",
+   "superior to",
+   "to get the better of",
+   "better than",
+   "surpassing",
+   "superb (of vista)",
+   "beautiful (scenery)",
+   "wonderful (view)",
+   "(Taiwan pr. [shēng]) able to bear",
+   "equal to (a task)"
+  ]
+ },
+ {
+  "hanzi": "慢慢",
+  "pinyin": "mànmàn",
+  "meaning_ru": "медленно; постепенно",
+  "meaning_en": "slowly; gradually",
+  "semantic_tags": [
+   "manner_adverb"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "slowly; gradually",
+  "dataset_meanings": [
+   "slowly"
+  ]
+ },
+ {
+  "hanzi": "压",
+  "pinyin": "yā",
+  "meaning_ru": "давить; нажимать",
+  "meaning_en": "to press; push down",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to press/to push down/to keep under (control)/pressure/used in 壓根兒|压根儿[ya4 gen1 r5]/used in 壓馬路|压马路[ya4 ma3 lu4]/used in 壓板|压板[ya4 ban3]",
+  "dataset_meanings": [
+   "to press",
+   "to push down",
+   "to keep under (control)",
+   "pressure",
+   "used in 压根儿 and 压马路 and 压板"
+  ]
+ },
+ {
+  "hanzi": "队员",
+  "pinyin": "duìyuán",
+  "meaning_ru": "член команды",
+  "meaning_en": "team member",
+  "semantic_tags": [
+   "person",
+   "sport"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "team member",
+  "dataset_meanings": [
+   "team member"
+  ]
+ },
+ {
+  "hanzi": "板",
+  "pinyin": "bǎn",
+  "meaning_ru": "доска; плита",
+  "meaning_en": "board; plank",
+  "semantic_tags": [
+   "material_substance",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "board/plank/plate/shutter/table tennis bat/clappers (music)/CL:塊|块[kuai4]/accented beat in Chinese music/hard/stiff/to stop smiling or look serious/used in 老闆|老板[lao3 ban3]/to catch sight of in a doorway (old)",
+  "dataset_meanings": [
+   "board",
+   "plank",
+   "plate",
+   "shutter",
+   "table tennis bat",
+   "clappers (music)",
+   "accented beat in Chinese music",
+   "hard",
+   "stiff",
+   "to stop smiling or look serious",
+   "see 老板, boss",
+   "to catch sight of in a doorway (old)"
+  ]
+ },
+ {
+  "hanzi": "前面",
+  "pinyin": "qiánmiàn",
+  "meaning_ru": "впереди; спереди",
+  "meaning_en": "in front; ahead",
+  "semantic_tags": [
+   "spatial_relation",
+   "direction"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "ahead/in front/preceding/above/also pr. [qian2 mian5]",
+  "dataset_meanings": [
+   "ahead",
+   "in front",
+   "preceding",
+   "above",
+   "also pr. [qián mian]"
+  ]
+ },
+ {
+  "hanzi": "付",
+  "pinyin": "fù",
+  "meaning_ru": "платить; вручать",
+  "meaning_en": "to pay; hand over",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Fu/to pay/to hand over to/classifier for pairs or sets of things",
+  "dataset_meanings": [
+   "surname Fu",
+   "to pay",
+   "to hand over to",
+   "classifier for pairs or sets of things"
+  ]
+ },
+ {
+  "hanzi": "内心",
+  "pinyin": "nèixīn",
+  "meaning_ru": "душа; в глубине души",
+  "meaning_en": "heart; inner self",
+  "semantic_tags": [
+   "emotion",
+   "cognition"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "heart; innermost being/(math.) incenter",
+  "dataset_meanings": [
+   "heart; innermost being",
+   "(math.) incenter"
+  ]
+ },
+ {
+  "hanzi": "防",
+  "pinyin": "fáng",
+  "meaning_ru": "защищать; предотвращать",
+  "meaning_en": "to defend; prevent",
+  "semantic_tags": [
+   "physical_action",
+   "abstract_relation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to protect/to defend/to guard against/to prevent",
+  "dataset_meanings": [
+   "to protect",
+   "to defend",
+   "to guard against",
+   "to prevent"
+  ]
+ },
+ {
+  "hanzi": "舞台",
+  "pinyin": "wǔtái",
+  "meaning_ru": "сцена; арена",
+  "meaning_en": "stage; arena",
+  "semantic_tags": [
+   "art",
+   "location"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "(lit. and fig.) stage; arena",
+  "dataset_meanings": [
+   "(lit. and fig.) stage; arena"
+  ]
+ },
+ {
+  "hanzi": "烟",
+  "pinyin": "yān",
+  "meaning_ru": "дым; сигарета",
+  "meaning_en": "smoke; cigarette",
+  "semantic_tags": [
+   "material_substance",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "cigarette or pipe tobacco/CL:根[gen1]/smoke/mist/vapour/CL:縷|缕[lu:3]/tobacco plant/(of the eyes) to be irritated by smoke/tobacco (variant of 煙|烟[yan1])",
+  "dataset_meanings": [
+   "cigarette or pipe tobacco",
+   "smoke",
+   "mist",
+   "vapour",
+   "tobacco plant",
+   "(of the eyes) to be irritated by smoke"
+  ]
+ },
+ {
+  "hanzi": "生意",
+  "pinyin": "shēngyì",
+  "meaning_ru": "бизнес; торговля",
+  "meaning_en": "business; trade",
+  "semantic_tags": [
+   "commerce_trade",
+   "economy_finance"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "life force/vitality/business/CL:筆|笔[bi3]",
+  "dataset_meanings": [
+   "life force",
+   "vitality",
+   "business"
+  ]
+ },
+ {
+  "hanzi": "赶",
+  "pinyin": "gǎn",
+  "meaning_ru": "спешить; успеть",
+  "meaning_en": "to hurry; catch up",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to overtake; to catch up with/to hurry; to rush/to try to catch (the bus etc)/to drive (cattle etc) forward; to drive (sb) away/to avail oneself of (an opportunity)/until; by (a certain time)",
+  "dataset_meanings": [
+   "to overtake; to catch up with",
+   "to hurry; to rush",
+   "to try to catch (the bus etc)",
+   "to drive (cattle etc) forward; to drive (sb) away",
+   "to avail oneself of (an opportunity)",
+   "until; by (a certain time)"
+  ]
+ },
+ {
+  "hanzi": "迷",
+  "pinyin": "mí",
+  "meaning_ru": "фанат; поклонник",
+  "meaning_en": "fan; enthusiast",
+  "semantic_tags": [
+   "person",
+   "hobby"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to bewilder/crazy about/fan/enthusiast/lost/confused",
+  "dataset_meanings": [
+   "to bewilder",
+   "crazy about",
+   "fan",
+   "enthusiast",
+   "lost",
+   "confused"
+  ]
+ },
+ {
+  "hanzi": "上去",
+  "pinyin": "shàngqù",
+  "meaning_ru": "подниматься (вверх)",
+  "meaning_en": "to go up",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to go up",
+  "dataset_meanings": [
+   "to go up"
+  ]
+ },
+ {
+  "hanzi": "仅仅",
+  "pinyin": "jǐnjǐn",
+  "meaning_ru": "только; всего лишь",
+  "meaning_en": "only; merely",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "barely/only/merely/only (this and nothing more)",
+  "dataset_meanings": [
+   "barely",
+   "only",
+   "merely",
+   "only (this and nothing more)"
+  ]
+ },
+ {
+  "hanzi": "游",
+  "pinyin": "yóu",
+  "meaning_ru": "плавать",
+  "meaning_en": "to swim",
+  "semantic_tags": [
+   "action_movement",
+   "sport"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname You/to swim/variant of 遊|游[you2]/to walk/to tour/to roam/to travel",
+  "dataset_meanings": [
+   "surname You",
+   "to swim",
+   "variant of 游",
+   "to walk",
+   "to tour",
+   "to roam",
+   "to travel"
+  ]
+ },
+ {
+  "hanzi": "铁",
+  "pinyin": "tiě",
+  "meaning_ru": "железо",
+  "meaning_en": "iron (metal)",
+  "semantic_tags": [
+   "material_substance"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Tie/iron (metal)/arms/weapons/hard/strong/violent/unshakeable/determined/close/tight (slang)",
+  "dataset_meanings": [
+   "surname Tie",
+   "iron (metal)",
+   "arms",
+   "weapons",
+   "hard",
+   "strong",
+   "violent",
+   "unshakeable",
+   "determined",
+   "close",
+   "tight (slang)"
+  ]
+ },
+ {
+  "hanzi": "录",
+  "pinyin": "lù",
+  "meaning_ru": "записывать",
+  "meaning_en": "to record",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to carve wood/surname Lu/diary/record/to hit/to copy",
+  "dataset_meanings": [
+   "to carve wood",
+   "surname Lu",
+   "diary",
+   "record",
+   "to hit",
+   "to copy"
+  ]
+ },
+ {
+  "hanzi": "背后",
+  "pinyin": "bèihòu",
+  "meaning_ru": "сзади; за спиной",
+  "meaning_en": "behind; at the back",
+  "semantic_tags": [
+   "spatial_relation",
+   "direction"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "behind/at the back/in the rear/behind sb's back",
+  "dataset_meanings": [
+   "behind",
+   "at the back",
+   "in the rear",
+   "behind sb's back"
+  ]
+ },
+ {
+  "hanzi": "土",
+  "pinyin": "tǔ",
+  "meaning_ru": "земля; почва",
+  "meaning_en": "soil; earth",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Tu/Tu ethnic group/earth/dust/clay/local/indigenous/crude opium/unsophisticated/one of the eight categories of ancient musical instruments 八音[ba1 yin1]",
+  "dataset_meanings": [
+   "Tu (ethnic group)",
+   "surname Tu",
+   "earth",
+   "dust",
+   "clay",
+   "local",
+   "indigenous",
+   "crude opium",
+   "unsophisticated",
+   "one of the eight categories of ancient musical instruments 音"
+  ]
+ },
+ {
+  "hanzi": "缺",
+  "pinyin": "quē",
+  "meaning_ru": "не хватать; недостаток",
+  "meaning_en": "to lack; shortage",
+  "semantic_tags": [
+   "abstract_quality",
+   "process_change"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "deficiency/lack/scarce/vacant post/to run short of",
+  "dataset_meanings": [
+   "deficiency",
+   "lack",
+   "scarce",
+   "vacant post",
+   "to run short of"
+  ]
+ },
+ {
+  "hanzi": "相互",
+  "pinyin": "xiānghù",
+  "meaning_ru": "взаимно; друг друга",
+  "meaning_en": "mutual; each other",
+  "semantic_tags": [
+   "abstract_relation"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "each other/mutual",
+  "dataset_meanings": [
+   "each other",
+   "mutual"
+  ]
+ },
+ {
+  "hanzi": "眼前",
+  "pinyin": "yǎnqián",
+  "meaning_ru": "перед глазами; сейчас",
+  "meaning_en": "before one's eyes; now",
+  "semantic_tags": [
+   "spatial_relation",
+   "time_word"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "before one's eyes/now/at present",
+  "dataset_meanings": [
+   "before one's eyes",
+   "now",
+   "at present"
+  ]
+ },
+ {
+  "hanzi": "古",
+  "pinyin": "gǔ",
+  "meaning_ru": "древний; старинный",
+  "meaning_en": "ancient; old",
+  "semantic_tags": [
+   "time_period",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Gu/ancient/old/paleo-",
+  "dataset_meanings": [
+   "surname Gu",
+   "ancient",
+   "old",
+   "paleo-"
+  ]
+ },
+ {
+  "hanzi": "羊",
+  "pinyin": "yáng",
+  "meaning_ru": "овца; баран",
+  "meaning_en": "sheep; goat",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Yang/sheep; goat/CL:頭|头[tou2],隻|只[zhi1]",
+  "dataset_meanings": [
+   "surname Yang",
+   "sheep; goat"
+  ]
+ },
+ {
+  "hanzi": "造",
+  "pinyin": "zào",
+  "meaning_ru": "создавать; строить",
+  "meaning_en": "to make; to build",
+  "semantic_tags": [
+   "physical_action",
+   "industry_production"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to make/to build/to manufacture/to invent/to fabricate/to go to/party (in a lawsuit or legal agreement)/crop/classifier for crops",
+  "dataset_meanings": [
+   "to make",
+   "to build",
+   "to manufacture",
+   "to invent",
+   "to fabricate",
+   "to go to",
+   "party (in a lawsuit or legal agreement)",
+   "crop",
+   "classifier for crops"
+  ]
+ },
+ {
+  "hanzi": "前进",
+  "pinyin": "qiánjìn",
+  "meaning_ru": "идти вперёд",
+  "meaning_en": "to advance; move forward",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to go forward/to forge ahead/to advance/onward",
+  "dataset_meanings": [
+   "to go forward",
+   "to forge ahead",
+   "to advance",
+   "onward"
+  ]
+ },
+ {
+  "hanzi": "看上去",
+  "pinyin": "kànshangqu",
+  "meaning_ru": "на вид; кажется",
+  "meaning_en": "it seems; to look",
+  "semantic_tags": [
+   "perception",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "it would appear/it seems (that)",
+  "dataset_meanings": [
+   "it would appear",
+   "it seems (that)"
+  ]
+ },
+ {
+  "hanzi": "环",
+  "pinyin": "huán",
+  "meaning_ru": "кольцо; звено",
+  "meaning_en": "ring; loop",
+  "semantic_tags": [
+   "shape_form",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "surname Huan/ring/hoop/loop/(chain) link/classifier for scores in archery etc/to surround/to encircle/to hem in",
+  "dataset_meanings": [
+   "surname Huan",
+   "ring",
+   "hoop",
+   "loop",
+   "(chain) link",
+   "classifier for scores in archery etc",
+   "to surround",
+   "to encircle",
+   "to hem in"
+  ]
+ }
+]

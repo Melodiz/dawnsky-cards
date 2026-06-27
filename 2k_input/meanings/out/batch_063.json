@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "分离",
+  "pinyin": "fēnlí",
+  "meaning_ru": "разделять(ся); отделять",
+  "meaning_en": "to separate; part",
+  "semantic_tags": [
+   "process_change",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "扇",
+  "pinyin": "shān",
+  "meaning_ru": "обмахивать веером",
+  "meaning_en": "to fan",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "拔",
+  "pinyin": "bá",
+  "meaning_ru": "вытаскивать; выдёргивать",
+  "meaning_en": "to pull out",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "寻求",
+  "pinyin": "xúnqiú",
+  "meaning_ru": "искать; добиваться",
+  "meaning_en": "to seek; pursue",
+  "semantic_tags": [
+   "cognition",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "大厅",
+  "pinyin": "dàtīng",
+  "meaning_ru": "зал; холл; фойе",
+  "meaning_en": "hall; lobby",
+  "semantic_tags": [
+   "building",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "如同",
+  "pinyin": "rútóng",
+  "meaning_ru": "как; подобно",
+  "meaning_en": "like; as if",
+  "semantic_tags": [
+   "abstract_relation",
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "提起",
+  "pinyin": "tíqǐ",
+  "meaning_ru": "упоминать; заводить речь",
+  "meaning_en": "to mention; bring up",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "暖",
+  "pinyin": "nuǎn",
+  "meaning_ru": "тёплый; согревать",
+  "meaning_en": "warm; to warm",
+  "semantic_tags": [
+   "weather",
+   "sensation"
+  ]
+ },
+ {
+  "hanzi": "建造",
+  "pinyin": "jiànzào",
+  "meaning_ru": "строить; возводить",
+  "meaning_en": "to build; construct",
+  "semantic_tags": [
+   "industry_production",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "戒",
+  "pinyin": "jiè",
+  "meaning_ru": "бросать (привычку); остерегаться",
+  "meaning_en": "to quit; guard against",
+  "semantic_tags": [
+   "action_daily",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "不许",
+  "pinyin": "bùxǔ",
+  "meaning_ru": "нельзя; не разрешать",
+  "meaning_en": "not allowed; must not",
+  "semantic_tags": [
+   "judgement",
+   "law_admin_doc"
+  ]
+ },
+ {
+  "hanzi": "饼",
+  "pinyin": "bǐng",
+  "meaning_ru": "лепёшка; печенье",
+  "meaning_en": "flat cake; biscuit",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "返回",
+  "pinyin": "fǎnhuí",
+  "meaning_ru": "возвращаться",
+  "meaning_en": "to return; go back",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "无疑",
+  "pinyin": "wúyí",
+  "meaning_ru": "несомненно; бесспорно",
+  "meaning_en": "undoubtedly; surely",
+  "semantic_tags": [
+   "manner_adverb",
+   "judgement"
+  ]
+ },
+ {
+  "hanzi": "迟",
+  "pinyin": "chí",
+  "meaning_ru": "поздний; опаздывать",
+  "meaning_en": "late; slow",
+  "semantic_tags": [
+   "time_word",
+   "evaluation_adj"
+  ]
+ }
+]

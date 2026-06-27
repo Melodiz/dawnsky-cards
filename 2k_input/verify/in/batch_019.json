@@ -1,0 +1,965 @@
+[
+ {
+  "hanzi": "总数",
+  "pinyin": "zǒngshù",
+  "meaning_ru": "общее число; сумма",
+  "meaning_en": "total; sum",
+  "semantic_tags": [
+   "quantity_abstract",
+   "number"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "total/sum/aggregate",
+  "dataset_meanings": [
+   "total",
+   "sum",
+   "aggregate"
+  ]
+ },
+ {
+  "hanzi": "大于",
+  "pinyin": "dàyú",
+  "meaning_ru": "больше чем",
+  "meaning_en": "greater than",
+  "semantic_tags": [
+   "abstract_relation",
+   "quantity_abstract"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "greater than; bigger than; more than",
+  "dataset_meanings": [
+   "greater than; bigger than; more than"
+  ]
+ },
+ {
+  "hanzi": "水库",
+  "pinyin": "shuǐkù",
+  "meaning_ru": "водохранилище",
+  "meaning_en": "reservoir",
+  "semantic_tags": [
+   "building",
+   "geography"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "reservoir/CL:座[zuo4]",
+  "dataset_meanings": [
+   "reservoir"
+  ]
+ },
+ {
+  "hanzi": "火腿",
+  "pinyin": "huǒtuǐ",
+  "meaning_ru": "ветчина",
+  "meaning_en": "ham",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "ham/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "ham"
+  ]
+ },
+ {
+  "hanzi": "工艺",
+  "pinyin": "gōngyì",
+  "meaning_ru": "ремесло; технология",
+  "meaning_en": "craft; technique",
+  "semantic_tags": [
+   "industry_production",
+   "art"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "arts and crafts/industrial arts",
+  "dataset_meanings": [
+   "arts and crafts",
+   "industrial arts"
+  ]
+ },
+ {
+  "hanzi": "增多",
+  "pinyin": "zēngduō",
+  "meaning_ru": "увеличиваться",
+  "meaning_en": "to increase in number",
+  "semantic_tags": [
+   "process_change",
+   "quantity_abstract"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to increase/to grow in number",
+  "dataset_meanings": [
+   "to increase",
+   "to grow in number"
+  ]
+ },
+ {
+  "hanzi": "不能不",
+  "pinyin": "bùnéngbù",
+  "meaning_ru": "не может не; приходится",
+  "meaning_en": "cannot but; have to",
+  "semantic_tags": [
+   "logic_connective"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "have to/cannot but",
+  "dataset_meanings": [
+   "have to",
+   "cannot but"
+  ]
+ },
+ {
+  "hanzi": "输出",
+  "pinyin": "shūchū",
+  "meaning_ru": "вывод; экспорт",
+  "meaning_en": "to output; to export",
+  "semantic_tags": [
+   "commerce_trade",
+   "technology"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to output; to deliver (energy, data, signals etc)/to export (goods, services, technology etc)",
+  "dataset_meanings": [
+   "to export",
+   "to output"
+  ]
+ },
+ {
+  "hanzi": "游泳池",
+  "pinyin": "yóuyǒngchí",
+  "meaning_ru": "бассейн",
+  "meaning_en": "swimming pool",
+  "semantic_tags": [
+   "building",
+   "sport"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "swimming pool",
+  "dataset_meanings": [
+   "swimming pool"
+  ]
+ },
+ {
+  "hanzi": "信箱",
+  "pinyin": "xìnxiāng",
+  "meaning_ru": "почтовый ящик",
+  "meaning_en": "mailbox",
+  "semantic_tags": [
+   "object_home",
+   "communication_formal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "mailbox/post office box",
+  "dataset_meanings": [
+   "mailbox",
+   "post office box"
+  ]
+ },
+ {
+  "hanzi": "山区",
+  "pinyin": "shānqū",
+  "meaning_ru": "горная местность",
+  "meaning_en": "mountain area",
+  "semantic_tags": [
+   "geography",
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "mountain area/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "mountain area"
+  ]
+ },
+ {
+  "hanzi": "驾照",
+  "pinyin": "jiàzhào",
+  "meaning_ru": "водительские права",
+  "meaning_en": "driver's license",
+  "semantic_tags": [
+   "transport_travel",
+   "law_admin_doc"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "driver's license (abbr. for 駕駛執照|驾驶执照[jia4 shi3 zhi2 zhao4])",
+  "dataset_meanings": [
+   "driver's license"
+  ]
+ },
+ {
+  "hanzi": "水分",
+  "pinyin": "shuǐfèn",
+  "meaning_ru": "влага; влажность",
+  "meaning_en": "moisture content",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "moisture content/(fig.) overstatement; padding",
+  "dataset_meanings": [
+   "moisture content",
+   "(fig.) overstatement",
+   "padding"
+  ]
+ },
+ {
+  "hanzi": "辈",
+  "pinyin": "bèi",
+  "meaning_ru": "поколение",
+  "meaning_en": "generation",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "lifetime/generation/group of people/class/classifier for generations/(literary) classifier for people",
+  "dataset_meanings": [
+   "lifetime",
+   "generation",
+   "group of people",
+   "class",
+   "classifier for generations",
+   "(literary) classifier for people"
+  ]
+ },
+ {
+  "hanzi": "单一",
+  "pinyin": "dānyī",
+  "meaning_ru": "единственный; одиночный",
+  "meaning_en": "single; sole",
+  "semantic_tags": [
+   "evaluation_adj",
+   "quantity_abstract"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "single/only/sole",
+  "dataset_meanings": [
+   "single",
+   "only",
+   "sole"
+  ]
+ },
+ {
+  "hanzi": "儿女",
+  "pinyin": "érnǚ",
+  "meaning_ru": "дети; сыновья и дочери",
+  "meaning_en": "children; sons and daughters",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "children; sons and daughters/a young man and a young woman (in love)",
+  "dataset_meanings": [
+   "children; sons and daughters",
+   "a young man and a young woman (in love)"
+  ]
+ },
+ {
+  "hanzi": "生成",
+  "pinyin": "shēngchéng",
+  "meaning_ru": "порождать; формировать",
+  "meaning_en": "to generate; to form",
+  "semantic_tags": [
+   "process_change",
+   "cause_effect"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to generate; to produce; to form; to be formed; to come into being/to be born with; to be blessed with",
+  "dataset_meanings": [
+   "to generate; to produce; to form; to be formed; to come into being",
+   "to be born with; to be blessed with"
+  ]
+ },
+ {
+  "hanzi": "原有",
+  "pinyin": "yuányǒu",
+  "meaning_ru": "изначальный; прежний",
+  "meaning_en": "original; pre-existing",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "original/former",
+  "dataset_meanings": [
+   "original",
+   "former"
+  ]
+ },
+ {
+  "hanzi": "雨水",
+  "pinyin": "yǔshuǐ",
+  "meaning_ru": "дождевая вода; осадки",
+  "meaning_en": "rainwater; rainfall",
+  "semantic_tags": [
+   "weather",
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "Yushui or Rain Water, 2nd of the 24 solar terms 二十四節氣|二十四节气 19th February-5th March/rainwater; rainfall; rain",
+  "dataset_meanings": [
+   "Yushui or Rain Water, 2nd of the 24 solar terms 二十四节气 19th February-5th March",
+   "rainwater; rainfall; rain"
+  ]
+ },
+ {
+  "hanzi": "地形",
+  "pinyin": "dìxíng",
+  "meaning_ru": "рельеф; местность",
+  "meaning_en": "terrain; topography",
+  "semantic_tags": [
+   "geography",
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "topography/terrain/landform",
+  "dataset_meanings": [
+   "topography",
+   "terrain",
+   "landform"
+  ]
+ },
+ {
+  "hanzi": "柜子",
+  "pinyin": "guìzi",
+  "meaning_ru": "шкаф; тумба",
+  "meaning_en": "cupboard; cabinet",
+  "semantic_tags": [
+   "object_home",
+   "building"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "cupboard/cabinet",
+  "dataset_meanings": [
+   "cupboard",
+   "cabinet"
+  ]
+ },
+ {
+  "hanzi": "乘车",
+  "pinyin": "chéngchē",
+  "meaning_ru": "ехать на машине",
+  "meaning_en": "to ride; go by car",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to ride (in a car or carriage)/to drive/to motor",
+  "dataset_meanings": [
+   "to ride (in a car or carriage)",
+   "to drive",
+   "to motor"
+  ]
+ },
+ {
+  "hanzi": "学科",
+  "pinyin": "xuékē",
+  "meaning_ru": "учебный предмет; дисциплина",
+  "meaning_en": "subject; discipline",
+  "semantic_tags": [
+   "education",
+   "abstract_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "subject/branch of learning/course/academic discipline",
+  "dataset_meanings": [
+   "subject",
+   "branch of learning",
+   "course",
+   "academic discipline"
+  ]
+ },
+ {
+  "hanzi": "大都",
+  "pinyin": "dàdū",
+  "meaning_ru": "большей частью; в основном",
+  "meaning_en": "mostly; for the most part",
+  "semantic_tags": [
+   "degree_adverb",
+   "manner_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing/for the most part/on the whole/also pr. [da4 du1]/metropolitan",
+  "dataset_meanings": [
+   "Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing",
+   "for the most part",
+   "on the whole",
+   "also pr. [dà dū]",
+   "metropolitan"
+  ]
+ },
+ {
+  "hanzi": "南北",
+  "pinyin": "nánběi",
+  "meaning_ru": "север и юг",
+  "meaning_en": "north and south",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "north and south/north to south",
+  "dataset_meanings": [
+   "north and south",
+   "north to south"
+  ]
+ },
+ {
+  "hanzi": "香肠",
+  "pinyin": "xiāngcháng",
+  "meaning_ru": "колбаса; сосиска",
+  "meaning_en": "sausage",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "sausage/CL:根[gen1]",
+  "dataset_meanings": [
+   "sausage"
+  ]
+ },
+ {
+  "hanzi": "餐饮",
+  "pinyin": "cānyǐn",
+  "meaning_ru": "питание; общепит",
+  "meaning_en": "food and beverage; catering",
+  "semantic_tags": [
+   "food",
+   "commerce_trade"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "food and beverage/catering/repast",
+  "dataset_meanings": [
+   "food and beverage",
+   "catering",
+   "repast"
+  ]
+ },
+ {
+  "hanzi": "舍得",
+  "pinyin": "shěde",
+  "meaning_ru": "не жалеть; быть готовым расстаться",
+  "meaning_en": "to be willing to part with",
+  "semantic_tags": [
+   "attitude",
+   "emotion"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to be willing to part with sth",
+  "dataset_meanings": [
+   "to be willing to part with sth"
+  ]
+ },
+ {
+  "hanzi": "南极",
+  "pinyin": "nánjí",
+  "meaning_ru": "Южный полюс",
+  "meaning_en": "the South Pole",
+  "semantic_tags": [
+   "geography",
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "the South Pole/the south magnetic pole",
+  "dataset_meanings": [
+   "south pole"
+  ]
+ },
+ {
+  "hanzi": "法制",
+  "pinyin": "fǎzhì",
+  "meaning_ru": "правовая система; законность",
+  "meaning_en": "legal system; rule of law",
+  "semantic_tags": [
+   "law_admin_doc",
+   "politics_government"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "legal system and institutions/made in France",
+  "dataset_meanings": [
+   "legal system and institutions",
+   "made in France"
+  ]
+ },
+ {
+  "hanzi": "团长",
+  "pinyin": "tuánzhǎng",
+  "meaning_ru": "командир полка; глава группы",
+  "meaning_en": "regiment commander; group leader",
+  "semantic_tags": [
+   "occupation",
+   "military_conflict"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "regimental command/head of a delegation/group buy organizer; group-buying coordinator",
+  "dataset_meanings": [
+   "regimental command",
+   "head of a delegation",
+   "group buy organizer; group-buying coordinator"
+  ]
+ },
+ {
+  "hanzi": "正如",
+  "pinyin": "zhèngrú",
+  "meaning_ru": "точно как; как и",
+  "meaning_en": "just as; exactly as",
+  "semantic_tags": [
+   "logic_connective"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "just as/precisely as",
+  "dataset_meanings": [
+   "just as",
+   "precisely as"
+  ]
+ },
+ {
+  "hanzi": "高原",
+  "pinyin": "gāoyuán",
+  "meaning_ru": "плато; нагорье",
+  "meaning_en": "plateau; highland",
+  "semantic_tags": [
+   "geography",
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "plateau/CL:片[pian4]",
+  "dataset_meanings": [
+   "plateau"
+  ]
+ },
+ {
+  "hanzi": "寿司",
+  "pinyin": "shòusī",
+  "meaning_ru": "суши",
+  "meaning_en": "sushi",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "sushi",
+  "dataset_meanings": [
+   "sushi"
+  ]
+ },
+ {
+  "hanzi": "物业",
+  "pinyin": "wùyè",
+  "meaning_ru": "недвижимость; ЖКХ",
+  "meaning_en": "property; property management",
+  "semantic_tags": [
+   "building",
+   "commerce_trade"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "property/real estate/abbr. for 物業管理|物业管理[wu4 ye4 guan3 li3], property management",
+  "dataset_meanings": [
+   "property",
+   "real estate",
+   "abbr. for 物业管理, property management"
+  ]
+ },
+ {
+  "hanzi": "推行",
+  "pinyin": "tuīxíng",
+  "meaning_ru": "внедрять; проводить",
+  "meaning_en": "to implement; carry out",
+  "semantic_tags": [
+   "action_daily",
+   "law_admin_doc"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to implement; to carry out; to introduce (a policy, system, reform etc)/to promote; to advance (the practice of an art form, the use of a language etc)/to push along (a bicycle etc while walking)",
+  "dataset_meanings": [
+   "to put into effect",
+   "to carry out"
+  ]
+ },
+ {
+  "hanzi": "水产品",
+  "pinyin": "shuǐchǎnpǐn",
+  "meaning_ru": "морепродукты",
+  "meaning_en": "aquatic products; seafood",
+  "semantic_tags": [
+   "food",
+   "industry_production"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "aquatic products (including fish, crabs, seaweed etc)",
+  "dataset_meanings": [
+   "aquatic products (including fish, crabs, seaweed etc)"
+  ]
+ },
+ {
+  "hanzi": "胆小",
+  "pinyin": "dǎnxiǎo",
+  "meaning_ru": "трусливый; робкий",
+  "meaning_en": "timid; cowardly",
+  "semantic_tags": [
+   "personality_trait",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "cowardice/timid",
+  "dataset_meanings": [
+   "cowardice",
+   "timid"
+  ]
+ },
+ {
+  "hanzi": "一口气",
+  "pinyin": "yīkǒuqì",
+  "meaning_ru": "на одном дыхании; залпом",
+  "meaning_en": "in one breath; at a stretch",
+  "semantic_tags": [
+   "manner_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "one breath/in one breath/at a stretch",
+  "dataset_meanings": [
+   "one breath",
+   "in one breath",
+   "at a stretch"
+  ]
+ },
+ {
+  "hanzi": "酒鬼",
+  "pinyin": "jiǔguǐ",
+  "meaning_ru": "пьяница; алкаш (разг.)",
+  "meaning_en": "drunkard (coll.)",
+  "semantic_tags": [
+   "person",
+   "personality_trait"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "drunkard",
+  "dataset_meanings": [
+   "drunkard"
+  ]
+ },
+ {
+  "hanzi": "长寿",
+  "pinyin": "chángshòu",
+  "meaning_ru": "долголетие; долгий век",
+  "meaning_en": "longevity; long-lived",
+  "semantic_tags": [
+   "abstract_quality",
+   "health_medical"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "see 長壽區|长寿区[Chang2 shou4 Qu1]/longevity/long-lived",
+  "dataset_meanings": [
+   "Changshou suburban district of Chongqing municipality, formerly in Sichuan",
+   "longevity",
+   "long-lived"
+  ]
+ },
+ {
+  "hanzi": "修养",
+  "pinyin": "xiūyǎng",
+  "meaning_ru": "воспитанность; культура",
+  "meaning_en": "self-cultivation; refinement",
+  "semantic_tags": [
+   "abstract_quality",
+   "personality_trait"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "accomplishment/training/self-cultivation",
+  "dataset_meanings": [
+   "accomplishment",
+   "training",
+   "self-cultivation"
+  ]
+ },
+ {
+  "hanzi": "华语",
+  "pinyin": "huáyǔ",
+  "meaning_ru": "китайский язык",
+  "meaning_en": "Chinese language",
+  "semantic_tags": [
+   "communication_formal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "Chinese language",
+  "dataset_meanings": [
+   "Chinese language"
+  ]
+ },
+ {
+  "hanzi": "白酒",
+  "pinyin": "báijiǔ",
+  "meaning_ru": "байцзю (кит. водка)",
+  "meaning_en": "baijiu (Chinese spirit)",
+  "semantic_tags": [
+   "drink"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "baijiu, a spirit usually distilled from sorghum/(Tw) white wine (abbr. for 白葡萄酒[bai2 pu2 tao5 jiu3])",
+  "dataset_meanings": [
+   "baijiu, a spirit usually distilled from sorghum",
+   "(Tw) white wine (abbr. for 酒)"
+  ]
+ },
+ {
+  "hanzi": "涨价",
+  "pinyin": "zhǎngjià",
+  "meaning_ru": "дорожать; рост цен",
+  "meaning_en": "to rise in price",
+  "semantic_tags": [
+   "commerce_trade",
+   "process_change"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to appreciate (in value)/to increase in price",
+  "dataset_meanings": [
+   "to appreciate (in value)",
+   "to increase in price"
+  ]
+ },
+ {
+  "hanzi": "招生",
+  "pinyin": "zhāoshēng",
+  "meaning_ru": "набор студентов",
+  "meaning_en": "enroll students",
+  "semantic_tags": [
+   "education",
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to enroll new students/to get students",
+  "dataset_meanings": [
+   "to enroll new students",
+   "to get students"
+  ]
+ },
+ {
+  "hanzi": "回信",
+  "pinyin": "huíxìn",
+  "meaning_ru": "ответить письмом; ответ",
+  "meaning_en": "reply; write back",
+  "semantic_tags": [
+   "action_communication",
+   "communication_formal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to reply/to write back/letter written in reply/CL:封[feng1]",
+  "dataset_meanings": [
+   "to reply",
+   "to write back",
+   "letter written in reply"
+  ]
+ },
+ {
+  "hanzi": "入门",
+  "pinyin": "rùmén",
+  "meaning_ru": "освоить азы; введение",
+  "meaning_en": "get started; basics",
+  "semantic_tags": [
+   "action_learning",
+   "education"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "entrance door/to enter a door/to learn the basics of a subject; introduction (to a subject); (attributive) entry-level",
+  "dataset_meanings": [
+   "entrance door",
+   "to enter a door",
+   "introduction (to a subject)",
+   "to learn the basics of a subject"
+  ]
+ },
+ {
+  "hanzi": "工作日",
+  "pinyin": "gōngzuòrì",
+  "meaning_ru": "рабочий день; будни",
+  "meaning_en": "workday; weekday",
+  "semantic_tags": [
+   "time_period",
+   "work_career"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "workday/working day/weekday",
+  "dataset_meanings": [
+   "workday",
+   "working day",
+   "weekday"
+  ]
+ },
+ {
+  "hanzi": "大奖赛",
+  "pinyin": "dàjiǎngsài",
+  "meaning_ru": "гран-при; турнир",
+  "meaning_en": "grand prix",
+  "semantic_tags": [
+   "sport",
+   "event_situation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "grand prix",
+  "dataset_meanings": [
+   "grand prix"
+  ]
+ },
+ {
+  "hanzi": "主体",
+  "pinyin": "zhǔtǐ",
+  "meaning_ru": "основная часть; субъект",
+  "meaning_en": "main part; subject",
+  "semantic_tags": [
+   "abstract_relation",
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "main part/bulk/body/subject/agent",
+  "dataset_meanings": [
+   "main part",
+   "bulk",
+   "body",
+   "subject",
+   "agent"
+  ]
+ },
+ {
+  "hanzi": "贺卡",
+  "pinyin": "hèkǎ",
+  "meaning_ru": "поздравительная открытка",
+  "meaning_en": "greeting card",
+  "semantic_tags": [
+   "object_home",
+   "communication_emotion"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "greeting card/congratulation card",
+  "dataset_meanings": [
+   "greeting card",
+   "congratulation card"
+  ]
+ },
+ {
+  "hanzi": "招手",
+  "pinyin": "zhāoshǒu",
+  "meaning_ru": "махать рукой; подзывать",
+  "meaning_en": "wave; beckon",
+  "semantic_tags": [
+   "physical_action",
+   "action_communication"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to wave/to beckon",
+  "dataset_meanings": [
+   "to wave",
+   "to beckon"
+  ]
+ },
+ {
+  "hanzi": "出汗",
+  "pinyin": "chūhàn",
+  "meaning_ru": "потеть",
+  "meaning_en": "sweat; perspire",
+  "semantic_tags": [
+   "body_state",
+   "health_medical"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to perspire/to sweat",
+  "dataset_meanings": [
+   "to perspire",
+   "to sweat"
+  ]
+ },
+ {
+  "hanzi": "协议书",
+  "pinyin": "xiéyìshū",
+  "meaning_ru": "договор; соглашение",
+  "meaning_en": "written agreement",
+  "semantic_tags": [
+   "law_admin_doc",
+   "commerce_trade"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "contract/protocol",
+  "dataset_meanings": [
+   "contract",
+   "protocol"
+  ]
+ },
+ {
+  "hanzi": "胶带",
+  "pinyin": "jiāodài",
+  "meaning_ru": "клейкая лента; скотч",
+  "meaning_en": "adhesive tape",
+  "semantic_tags": [
+   "object_home",
+   "material_substance"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "adhesive tape/magnetic tape",
+  "dataset_meanings": [
+   "adhesive tape",
+   "magnetic tape"
+  ]
+ },
+ {
+  "hanzi": "相声",
+  "pinyin": "xiàngsheng",
+  "meaning_ru": "сяншэн (комич. диалог)",
+  "meaning_en": "comic crosstalk",
+  "semantic_tags": [
+   "art",
+   "culture"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "comic dialogue/sketch/crosstalk",
+  "dataset_meanings": [
+   "comic dialogue",
+   "sketch",
+   "crosstalk"
+  ]
+ },
+ {
+  "hanzi": "物价",
+  "pinyin": "wùjià",
+  "meaning_ru": "цены на товары",
+  "meaning_en": "commodity prices",
+  "semantic_tags": [
+   "economy_finance",
+   "commerce_trade"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(commodity) prices/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "(commodity) prices"
+  ]
+ },
+ {
+  "hanzi": "汇款",
+  "pinyin": "huìkuǎn",
+  "meaning_ru": "перевод денег; перевод",
+  "meaning_en": "remit money",
+  "semantic_tags": [
+   "money",
+   "transaction"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to remit money/remittance",
+  "dataset_meanings": [
+   "to remit money",
+   "remittance"
+  ]
+ },
+ {
+  "hanzi": "农产品",
+  "pinyin": "nóngchǎnpǐn",
+  "meaning_ru": "сельхозпродукция",
+  "meaning_en": "farm produce",
+  "semantic_tags": [
+   "industry_production",
+   "commerce_trade"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "agricultural produce",
+  "dataset_meanings": [
+   "agricultural produce"
+  ]
+ }
+]

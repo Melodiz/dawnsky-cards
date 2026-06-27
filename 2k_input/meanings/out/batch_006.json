@@ -1,0 +1,146 @@
+[
+ {
+  "hanzi": "不大",
+  "pinyin": "búdà",
+  "meaning_ru": "не очень; не часто",
+  "meaning_en": "not very; not often",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "上车",
+  "pinyin": "shàngchē",
+  "meaning_ru": "садиться в транспорт",
+  "meaning_en": "to get on (bus, car)",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "马路",
+  "pinyin": "mǎlù",
+  "meaning_ru": "улица; дорога",
+  "meaning_en": "road; street",
+  "semantic_tags": [
+   "transport_travel",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "门票",
+  "pinyin": "ménpiào",
+  "meaning_ru": "входной билет",
+  "meaning_en": "admission ticket",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "机票",
+  "pinyin": "jīpiào",
+  "meaning_ru": "билет на самолёт",
+  "meaning_en": "plane ticket",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "楼上",
+  "pinyin": "lóushàng",
+  "meaning_ru": "наверху; этажом выше",
+  "meaning_en": "upstairs",
+  "semantic_tags": [
+   "spatial_relation",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "下雨",
+  "pinyin": "xiàyǔ",
+  "meaning_ru": "идёт дождь",
+  "meaning_en": "to rain",
+  "semantic_tags": [
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "下车",
+  "pinyin": "xiàchē",
+  "meaning_ru": "выходить из транспорта",
+  "meaning_en": "to get off (bus, car)",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "杯子",
+  "pinyin": "bēizi",
+  "meaning_ru": "чашка; стакан",
+  "meaning_en": "cup; glass",
+  "semantic_tags": [
+   "object_home",
+   "drink"
+  ]
+ },
+ {
+  "hanzi": "路口",
+  "pinyin": "lùkǒu",
+  "meaning_ru": "перекрёсток",
+  "meaning_en": "intersection; crossing",
+  "semantic_tags": [
+   "location",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "弟",
+  "pinyin": "dì",
+  "meaning_ru": "младший брат",
+  "meaning_en": "younger brother",
+  "semantic_tags": [
+   "family"
+  ]
+ },
+ {
+  "hanzi": "电视机",
+  "pinyin": "diànshìjī",
+  "meaning_ru": "телевизор",
+  "meaning_en": "television set",
+  "semantic_tags": [
+   "object_home",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "放学",
+  "pinyin": "fàngxué",
+  "meaning_ru": "конец уроков",
+  "meaning_en": "school lets out",
+  "semantic_tags": [
+   "education",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "关上",
+  "pinyin": "guānshàng",
+  "meaning_ru": "закрыть; выключить",
+  "meaning_en": "to close; turn off",
+  "semantic_tags": [
+   "action_daily",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "半天",
+  "pinyin": "bàntiān",
+  "meaning_ru": "полдня; долго",
+  "meaning_en": "half a day; a long while",
+  "semantic_tags": [
+   "time_period"
+  ]
+ }
+]

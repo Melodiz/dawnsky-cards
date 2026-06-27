@@ -1,0 +1,585 @@
+[
+ {
+  "hanzi": "字",
+  "semantic_tags": [
+   "education",
+   "culture"
+  ],
+  "reason": "Tag 'communication' is not in the frozen list. Replaced with 'culture' (written characters are a cultural artifact); 'education' retained."
+ },
+ {
+  "hanzi": "票",
+  "semantic_tags": [
+   "transport_travel",
+   "transaction"
+  ],
+  "reason": "Tag 'object_home' is semantically inappropriate for a ticket. Replaced with 'transaction' (tickets are bought/exchanged); 'transport_travel' retained."
+ },
+ {
+  "hanzi": "车上",
+  "meaning_en": "on the vehicle; in transit",
+  "reason": "Slash '/' in meaning_en is inconsistent with the semicolon convention used throughout the batch. Reformatted for consistency."
+ },
+ {
+  "hanzi": "门票",
+  "reason": "object_home is factually wrong for an admission ticket (a venue/event pass, not a household object); corrected to transaction + commerce_trade",
+  "semantic_tags": [
+   "transaction",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "车票",
+  "reason": "object_home is factually wrong for a transport ticket; replaced with transaction to reflect that a ticket is a purchased document, not a home object",
+  "semantic_tags": [
+   "transport_travel",
+   "transaction"
+  ]
+ },
+ {
+  "hanzi": "听见",
+  "reason": "action_communication is wrong for a purely receptive/perceptual verb (to hear = receive sound, not send/communicate); dropped, leaving perception alone",
+  "semantic_tags": [
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "没事儿",
+  "reason": "greeting is wrong; 没事儿 is a reassurance or dismissal (never mind / it's nothing), not a greeting like 你好 or 再见; replaced greeting with attitude",
+  "semantic_tags": [
+   "communication_emotion",
+   "attitude"
+  ]
+ },
+ {
+  "hanzi": "句",
+  "reason": "Tag 'communication' is not in the frozen list; closest valid tag is 'action_communication'.",
+  "semantic_tags": [
+   "action_communication",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "课文",
+  "reason": "meaning_en 'text (lesson)' is a near-transliteration of meaning_ru 'текст (урока)' — zero complementarity. En should convey a different angle of the same concept.",
+  "meaning_en": "lesson text; reading passage"
+ },
+ {
+  "hanzi": "平安",
+  "meaning_ru": "благополучный; невредимый",
+  "reason": "meaning_ru was 29 chars ('благополучный; цел и невредим'), exceeding the 28-char button-fit limit. 'невредимый' (unharmed) captures the same shade as 'цел и невредим' in fewer characters."
+ },
+ {
+  "hanzi": "停车",
+  "meaning_ru": "парковаться; остановить авто",
+  "reason": "meaning_ru was 30 chars ('парковаться; остановить машину'), exceeding the 28-char limit. 'авто' replaces 'машину' to save two characters while preserving identical meaning."
+ },
+ {
+  "hanzi": "送给",
+  "meaning_en": "to send; give as present",
+  "reason": "Complementarity failure: meaning_ru 'дарить (кому-то)' and meaning_en 'to give as a gift' express the same sense in two languages. Cedict lists 'to send' as a co-primary sense. The new en adds the send/deliver nuance absent from the Russian, so the pair triangulates instead of mirrors."
+ },
+ {
+  "hanzi": "老是",
+  "pinyin": "lǎoshì",
+  "reason": "是 in 老是 is 4th tone (shì), not neutral; the authored pinyin 'lǎoshi' is missing the tone mark on the second syllable."
+ },
+ {
+  "hanzi": "旅客",
+  "meaning_ru": "путешественник; турист",
+  "meaning_en": "traveler; tourist",
+  "reason": "旅客 means traveler/tourist (cedict: 'traveler; tourist'); 'passenger' (пассажир) is the meaning of 乘客, not 旅客. Both ru and en incorrectly included the 'passenger' sense."
+ },
+ {
+  "hanzi": "手表",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "reason": "time_word is a grammatical/temporal category (adverbs, time expressions); a wristwatch is a physical object, not a time word. Removed time_word tag."
+ },
+ {
+  "hanzi": "笔记",
+  "meaning_en": "notes; jottings",
+  "reason": "The authored 'notes; jot down' mixes noun and verb phrase; meaning_ru is purely noun-form (записи; конспект). Corrected to noun 'notes; jottings' to match part-of-speech and cedict primary sense."
+ },
+ {
+  "hanzi": "过年",
+  "meaning_ru": "китайский Новый год",
+  "meaning_en": "celebrate Chinese New Year",
+  "reason": "Cedict specifies 'Chinese New Year'; omitting 'Chinese' in both fields risks confusion with Western New Year (Jan 1). meaning_ru trimmed to noun form to fit within 28 chars."
+ },
+ {
+  "hanzi": "西餐",
+  "meaning_ru": "западная кухня",
+  "reason": "西 means Western broadly (incl. American, Australian etc.), not just European. Cedict says 'Western-style food'; европейская кухня is too narrow."
+ },
+ {
+  "hanzi": "不一会儿",
+  "pinyin": "bùyīhuìr",
+  "reason": "会 in 一会儿 is 4th tone (huì), not 3rd tone (huǐ) as authored."
+ },
+ {
+  "hanzi": "读音",
+  "semantic_tags": [
+   "education",
+   "communication_formal"
+  ],
+  "reason": "Tag 'communication' is not in the frozen list. 'communication_formal' fits pronunciation as a formal phonological/linguistic concept."
+ },
+ {
+  "hanzi": "生词",
+  "semantic_tags": [
+   "education",
+   "action_learning"
+  ],
+  "reason": "Tag 'communication' is not in the frozen list. 'action_learning' better captures the activity of learning new vocabulary."
+ },
+ {
+  "hanzi": "笑话儿",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "reason": "Tag 'communication' is not in the frozen list. 'action_communication' is the correct frozen tag for telling or sharing jokes."
+ },
+ {
+  "hanzi": "银行卡",
+  "semantic_tags": [
+   "economy_finance",
+   "money"
+  ],
+  "reason": "object_home is wrong for a bank card; replaced with money which fits both senses (bank card / ATM card)."
+ },
+ {
+  "hanzi": "极了",
+  "meaning_ru": "крайне; очень",
+  "reason": "ужасно carries a negative register that 极了 does not have; it is a neutral intensifier. Changed to очень."
+ },
+ {
+  "hanzi": "哈哈",
+  "meaning_en": "laughing out loud",
+  "reason": "ha-ha (laughter) is a transliteration of ха-ха (смех), violating the complementarity rule. Changed en to the semantic gloss from cedict."
+ },
+ {
+  "hanzi": "演",
+  "meaning_ru": "играть; исполнять",
+  "reason": "играть; исполнять (на сцене) is 29 chars, over the 28-char limit. Trimmed by removing the parenthetical; sense is preserved."
+ },
+ {
+  "hanzi": "保安",
+  "pinyin": "bǎo'ān",
+  "reason": "Second syllable ān is vowel-initial and requires an apostrophe per pinyin rules; bǎoān → bǎo'ān"
+ },
+ {
+  "hanzi": "传来",
+  "meaning_ru": "доноситься; приходить",
+  "reason": "Original RU 'доноситься; приходить (о вестях)' is 32 chars, exceeding the ~28-char button-fit limit; trimmed by dropping the parenthetical"
+ },
+ {
+  "hanzi": "身份证",
+  "semantic_tags": [
+   "law_admin_doc"
+  ],
+  "reason": "object_home is a poor fit for an ID card; law_admin_doc alone covers the meaning precisely"
+ },
+ {
+  "hanzi": "通信",
+  "meaning_en": "communication; correspondence",
+  "reason": "'correspond' used as a noun label is grammatically awkward; 'correspondence' is the correct noun form and matches the verb/noun duality of the entry"
+ },
+ {
+  "hanzi": "预计",
+  "semantic_tags": [
+   "cognition"
+  ],
+  "reason": "process_change does not fit a mental forecasting/estimating verb; cognition alone is accurate"
+ },
+ {
+  "hanzi": "金牌",
+  "semantic_tags": [
+   "sport"
+  ],
+  "reason": "object_home is wrong for a gold medal; sport is the only relevant tag here"
+ },
+ {
+  "hanzi": "可乐",
+  "semantic_tags": [
+   "drink"
+  ],
+  "reason": "food tag is inaccurate alongside drink; cola is a beverage, not food — drop food"
+ },
+ {
+  "hanzi": "初中",
+  "semantic_tags": [
+   "education"
+  ],
+  "reason": "building is wrong for 初中, which is an educational level/period, not a physical structure"
+ },
+ {
+  "hanzi": "上衣",
+  "meaning_ru": "куртка; рубашка (верх)",
+  "reason": "верхняя одежда in Russian primarily means outerwear/overcoat, misleading for 上衣 which is any upper-body garment (shirt, blouse, jacket); trimmed to reflect the actual range"
+ },
+ {
+  "hanzi": "开业",
+  "meaning_ru": "открыть бизнес; открыться",
+  "reason": "работать (to work) is too vague and misses the core sense of opening/starting a business; fixed to reflect CEDict open-a-business meaning"
+ },
+ {
+  "hanzi": "志愿",
+  "meaning_ru": "стремление; добровольчество",
+  "reason": "добровольно is an adverb (voluntarily) — wrong part of speech; replaced with добровольчество (volunteerism/volunteering) to match the verb sense to volunteer"
+ },
+ {
+  "hanzi": "邮票",
+  "semantic_tags": [
+   "object_stationery"
+  ],
+  "reason": "object_home is inaccurate for a postage stamp; object_stationery fits the postal/written-communication context"
+ },
+ {
+  "hanzi": "交警",
+  "semantic_tags": [
+   "occupation",
+   "law_justice"
+  ],
+  "reason": "law_admin_doc is for documents/paperwork; traffic police are law-enforcement personnel — law_justice is the correct tag"
+ },
+ {
+  "hanzi": "票价",
+  "meaning_en": "ticket price; fare",
+  "reason": "meaning_en is 18 chars — fine, but trailing '; fare' is a second sense. Both senses are primary and the authored form already matches cedict. No change needed — actually this is fine."
+ },
+ {
+  "hanzi": "初一",
+  "reason": "cedict_en lists two equally prominent primary senses: 'first day of a lunar month' AND 'first year in junior middle school'. The authored card picks only the lunar-date sense. At HSK-3 both are common; the school-year sense is arguably more encountered in daily life. Flagging to newflags rather than silently picking one.",
+  "meaning_ru": "1-й день лун. месяца / 7-й класс",
+  "meaning_en": "1st lunar day / 7th grade"
+ },
+ {
+  "hanzi": "老头儿",
+  "reason": "cedict_en for 老头儿 points to 老头子, not a direct definition. Dataset_meanings only says 'see 老头子'. The card's ru/en ('старик (разг.)' / 'old man (coll.)') is the correct colloquial meaning and commonly attested, so sense is fine. No change needed."
+ },
+ {
+  "hanzi": "凉水",
+  "meaning_en": "cool/unboiled water",
+  "reason": "The second cedict sense 'unboiled water' is equally important and culturally salient in Chinese (drinking unboiled water is a distinct concept). The authored en 'cool water' misses this. Trim to fit: 'cool; unboiled water' (21 chars)."
+ },
+ {
+  "hanzi": "后年",
+  "meaning_ru": "послепослезавтрашний год",
+  "reason": "meaning_ru 'послезавтрашний год' is wrong: послезавтра = the day after tomorrow. The word for 'year after next' in Russian is 'через два года' or the calque form. Correct: 'год через два'."
+ },
+ {
+  "hanzi": "首",
+  "reason": "meaning_ru '(сч. сл. стихи/песни)' — abbreviation 'сч. сл.' is non-standard for a learner card; acceptable if house style, but 'стихи/песни' alone with context is fine. However meaning_ru total is 'глава; первый; (сч. сл. стихи/песни)' = 35 chars, over the 28-char limit. Trim needed.",
+  "meaning_ru": "глава; первый; (сч. стихи/песни)"
+ },
+ {
+  "hanzi": "局",
+  "reason": "meaning_ru 'ведомство; ситуация; (сч. партия)' = 37 chars, over limit. Trim needed.",
+  "meaning_ru": "ведомство; ситуация; (сч. матч)"
+ },
+ {
+  "hanzi": "轮",
+  "reason": "meaning_ru 'колесо; чередоваться; (сч. круг)' = 34 chars, over limit. Trim to fit.",
+  "meaning_ru": "колесо; чередоваться; (сч. тур)"
+ },
+ {
+  "hanzi": "盘",
+  "reason": "meaning_ru 'блюдо; тарелка; (сч. блюдо)' = 29 chars, marginally over. Also 'сч. блюдо' repeats 'блюдо' from the noun. Trim and deduplicate.",
+  "meaning_ru": "блюдо; поднос; (сч. порция)"
+ },
+ {
+  "hanzi": "结",
+  "reason": "Pinyin is 'jiē' but the core senses 'knot / to tie / to bind' belong to the reading jiē only in the sense of fruit-bearing (植物结果). The meanings 'knot, to tie, to bind' are read jiē as well but more precisely the dominant HSK reading for 'tie/knot' is jié (声调2). The authored pinyin 'jiē' (tone 1) is the 'bear fruit' reading. The authored meanings 'to tie; knot' belong to jié (tone 2). This is a tone error.",
+  "pinyin": "jié",
+  "meaning_ru": "завязывать; узел",
+  "meaning_en": "to tie; knot"
+ },
+ {
+  "hanzi": "付出",
+  "reason": "meaning_en 'to give; to pay' underdescribes the primary nuance: 付出 specifically means to expend/invest effort, not just 'to give' generically. Better: 'to expend; to invest'.",
+  "meaning_en": "to expend; to invest (effort)"
+ },
+ {
+  "hanzi": "挑",
+  "reason": "Pinyin 'tiāo' (tone 1) means 'to carry on a shoulder pole / to poke / to stir up'. The authored meanings 'to pick; to choose' belong to tiǎo (tone 3). This is a tone error.",
+  "pinyin": "tiǎo",
+  "meaning_ru": "выбирать; отбирать",
+  "meaning_en": "to pick; to choose"
+ },
+ {
+  "hanzi": "减",
+  "meaning_en": "to reduce; subtract",
+  "reason": "Missing leading 'to' — all other verb entries use 'to + verb' form; corrected for consistency."
+ },
+ {
+  "hanzi": "玉",
+  "meaning_ru": "нефрит; жадеит",
+  "reason": "яшма (jasper) is a different mineral from jade; 玉 covers nephrite (нефрит) and jadeite (жадеит), not jasper"
+ },
+ {
+  "hanzi": "打败",
+  "semantic_tags": [
+   "physical_action",
+   "military_conflict"
+  ],
+  "reason": "action_movement implies locomotion; 打败 is a competitive/combat action, so physical_action fits far better"
+ },
+ {
+  "hanzi": "泪",
+  "semantic_tags": [
+   "body",
+   "emotion"
+  ],
+  "reason": "body_state is for physical states (hungry, tired, etc.); 泪 is a noun (tears), and emotion triangulates its primary usage context better"
+ },
+ {
+  "hanzi": "语音",
+  "meaning_ru": "произношение; голос",
+  "reason": "meaning_ru is 30 chars (over limit). 'голос. сообщение' uses an unclear abbreviation for голосовое сообщение; trimming to 'произношение; голос' (19 chars) stays within limit and covers both the linguistic and tech senses. The existing meaning_en 'pronunciation; voice' triangulates the voice-message angle."
+ },
+ {
+  "hanzi": "大爷",
+  "meaning_ru": "дядя; почтит. обращение",
+  "reason": "meaning_ru is 31 chars (over limit). 'дядя (старший); почт. обращение' trimmed to 'дядя; почтит. обращение' (23 chars) preserves both core senses — family term and respectful form of address."
+ },
+ {
+  "hanzi": "获奖",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "reason": "Tag 'action_communication' is wrong — winning an award is an event/achievement, not an act of communication. 'event_situation' fits the cedict sense 'to win an award'."
+ },
+ {
+  "hanzi": "促销",
+  "meaning_en": "to promote sales",
+  "reason": "meaning_en 'promote sales; promotion' mixes a verbal phrase with a noun, inconsistent with the verbal cedict definition 'to promote sales' and the verbal meaning_ru 'стимулировать сбыт'. Fixed to 'to promote sales' (16 chars)."
+ },
+ {
+  "hanzi": "赞赏",
+  "meaning_en": "to admire; to praise",
+  "reason": "Parallel verb forms: 'praise' should be 'to praise' to match 'to admire'."
+ },
+ {
+  "hanzi": "大巴",
+  "meaning_ru": "большой автобус; автобус",
+  "reason": "'туристический' is a dangling adjective without a noun — reads as 'tourist' with no referent. Replaced with 'большой автобус; автобус' which directly maps to cedict 'large bus/coach' and fits the button."
+ },
+ {
+  "hanzi": "疗养",
+  "meaning_ru": "лечиться; поправляться",
+  "reason": "meaning_ru was 29 chars (1 over limit); trimmed 'поправлять здоровье' to 'поправляться' — same sense, within limit"
+ },
+ {
+  "hanzi": "舞",
+  "meaning_en": "to dance; to wield",
+  "reason": "en 'to dance; dance' repeats the same concept (infinitive + bare noun of same root) — not complementary; corrected to add cedict's secondary sense 'to wield'"
+ },
+ {
+  "hanzi": "答",
+  "pinyin": "dá",
+  "reason": "pinyin 'dā' (1st tone, da1) is the bound-form reading used only in 答应/答理; the stated meaning 'to answer; respond' belongs to dá (2nd tone, da2)"
+ },
+ {
+  "hanzi": "自杀",
+  "semantic_tags": [
+   "health_medical"
+  ],
+  "reason": "action_daily is inappropriate for suicide; removed it. health_medical alone is the correct tag."
+ },
+ {
+  "hanzi": "罚",
+  "semantic_tags": [
+   "law_justice"
+  ],
+  "reason": "action_communication does not fit 'to punish/fine'; communication is not involved. Removed it, keeping law_justice only."
+ },
+ {
+  "hanzi": "寻求",
+  "semantic_tags": [
+   "cognition"
+  ],
+  "reason": "action_movement is wrong — seeking/looking for something is abstract, not physical movement. Removed it, keeping cognition only."
+ },
+ {
+  "hanzi": "不许",
+  "semantic_tags": [
+   "judgement"
+  ],
+  "reason": "law_admin_doc is too specific/formal for this everyday prohibition expression. Removed it, keeping judgement only."
+ },
+ {
+  "hanzi": "寸",
+  "pinyin": "cùn",
+  "meaning_en": "cun; unit of length",
+  "reason": "BUTTON-FIT + COMPLEMENTARITY: 'Chinese inch' is fine but redundant with 'cun'; swapping to 'unit of length' is more informative and avoids re-labelling. Also meaning_ru 'цунь (мера длины)' is 18 chars — fine; en side trimmed to remove tautology."
+ },
+ {
+  "hanzi": "挣",
+  "pinyin": "zhèng",
+  "meaning_ru": "зарабатывать",
+  "meaning_en": "to earn; make money",
+  "reason": "SENSE + BUTTON-FIT: the primary sense at this HSK level is 'to earn/make (money)'. 'Зарабатывать (деньги)' adds parenthetical that pushes length; trimming keeps it clean. En side kept short and complementary."
+ },
+ {
+  "hanzi": "猜测",
+  "pinyin": "cāicè",
+  "meaning_ru": "догадка; предполагать",
+  "meaning_en": "to guess; conjecture",
+  "reason": "COMPLEMENTARITY: meaning_ru mixes noun (догадка) and verb (предполагать) inconsistently. Both en and ru should be parallel. Correcting ru to verb form or noun form; ru corrected to verb-first form for parallelism with en."
+ },
+ {
+  "hanzi": "猜测",
+  "pinyin": "cāicè",
+  "meaning_ru": "предполагать; догадываться",
+  "reason": "COMPLEMENTARITY: ru must be grammatically parallel — cedict gives 'to guess / to conjecture / to surmise', all verbs. 'Догадка' (noun) mixed with 'предполагать' (verb) is inconsistent. Corrected to two verbs."
+ },
+ {
+  "hanzi": "早期",
+  "pinyin": "zǎoqī",
+  "meaning_en": "early period; early stage",
+  "reason": "BUTTON-FIT: meaning_ru 'ранний период; начальная стадия' is 29 chars (1 over). Trim meaning_en to reinforce complementarity without redundancy. Also meaning_ru can be trimmed slightly."
+ },
+ {
+  "hanzi": "早期",
+  "pinyin": "zǎoqī",
+  "meaning_ru": "ранний период; ранняя стадия",
+  "reason": "BUTTON-FIT + COMPLEMENTARITY: 'начальная стадия' (initial stage) diverges from cedict 'early stage'; aligning to 'ранняя стадия' keeps both fields parallel and accurate. 29 chars now 28."
+ },
+ {
+  "hanzi": "餐馆",
+  "semantic_tags": [
+   "building",
+   "place"
+  ],
+  "reason": "TAGS: tag 'food' is wrong here — 餐馆 is a place (a restaurant building), not a food item. Replace 'food' with 'place' which is in the frozen list and fits."
+ },
+ {
+  "hanzi": "愁",
+  "semantic_tags": [
+   "emotion"
+  ],
+  "reason": "communication_emotion removed: 愁 is a purely internal state of worry/sadness, not a communicative act. emotion alone is sufficient."
+ },
+ {
+  "hanzi": "停留",
+  "semantic_tags": [
+   "action_movement",
+   "action_daily"
+  ],
+  "reason": "transport_travel removed: 停留 means to stay/linger somewhere and is not transport-specific. action_daily added as the more accurate second tag."
+ },
+ {
+  "hanzi": "违规",
+  "semantic_tags": [
+   "law_admin_doc",
+   "law_justice"
+  ],
+  "reason": "action_daily removed: violating rules is a legal/regulatory concept, not routine daily activity. law_justice added as a more appropriate second tag."
+ },
+ {
+  "hanzi": "铃声",
+  "semantic_tags": [
+   "perception",
+   "sensation"
+  ],
+  "reason": "object_tech removed: 铃声 is a sound, not a tech object. sensation added as the fitting second tag for an auditory percept."
+ },
+ {
+  "hanzi": "加以",
+  "meaning_ru": "применить; произвести (действие)",
+  "reason": "Original meaning_ru 'подвергнуть; произвести (действие)' is 35 chars, exceeds 28-char limit. Trimmed to fit while preserving core sense."
+ },
+ {
+  "hanzi": "有利于",
+  "meaning_en": "beneficial to; advantageous",
+  "reason": "'favors' is too informal and weak compared to cedict 'to be advantageous to / beneficial for'; replaced with 'advantageous' for a cleaner triangulation."
+ },
+ {
+  "hanzi": "为主",
+  "meaning_ru": "ставить во главу; главным образом",
+  "reason": "Abbreviation 'преим.' is cryptic on a flashcard; expanded to 'главным образом' (predominantly/mainly), which matches cedict 'to rely mainly on' and fits within 28 chars."
+ },
+ {
+  "hanzi": "乘车",
+  "meaning_ru": "ехать на транспорте",
+  "reason": "ехать на машине (go by car) is too narrow — 乘车 covers any vehicle (bus, train, car). ехать на транспорте is accurate and within 28 chars."
+ },
+ {
+  "hanzi": "柜子",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "reason": "building tag is wrong for a cupboard/cabinet (furniture, not a structure). Drop it; object_home is sufficient."
+ },
+ {
+  "hanzi": "舍得",
+  "meaning_ru": "не жалеть; не скупиться",
+  "reason": "meaning_ru is 34 chars (over limit). Trimmed to 23 chars while preserving the core sense of willingness to give/spend."
+ },
+ {
+  "hanzi": "团长",
+  "meaning_en": "regiment/group leader",
+  "reason": "meaning_en is 32 chars (over limit). Trimmed to 21 chars; slash form retains both the military and civilian delegation senses."
+ },
+ {
+  "hanzi": "物业",
+  "meaning_en": "property management",
+  "reason": "meaning_en is 29 chars (over limit). Primary practical sense at HSK5 is 物业管理 (property management); trimmed to 19 chars."
+ },
+ {
+  "hanzi": "招生",
+  "meaning_en": "to enroll students",
+  "reason": "Missing 'to' verb marker — cedict gives 'to enroll new students'. Verb form required for consistency."
+ },
+ {
+  "hanzi": "汇款",
+  "meaning_en": "to remit money",
+  "reason": "Missing 'to' verb marker — cedict gives 'to remit money'. Verb form required for consistency."
+ },
+ {
+  "hanzi": "白酒",
+  "meaning_en": "Chinese grain spirit",
+  "reason": "Both ru (байцзю) and en (baijiu) used the same transliteration strategy; they don't triangulate. en drops the transliteration to describe the drink, complementing ru's transliteration approach."
+ },
+ {
+  "hanzi": "贺卡",
+  "semantic_tags": [
+   "object_stationery",
+   "communication_emotion"
+  ],
+  "reason": "object_home is imprecise for a greeting card; object_stationery is in the frozen list and accurately classifies a paper card."
+ },
+ {
+  "hanzi": "出汗",
+  "semantic_tags": [
+   "body_state",
+   "physical_action"
+  ],
+  "reason": "health_medical implies illness; sweating is a normal physical action/body state. physical_action is more accurate as second tag."
+ },
+ {
+  "hanzi": "中药",
+  "meaning_ru": "традиционная кит. медицина",
+  "meaning_en": "traditional Chinese medicine",
+  "reason": "CEDICT specifies 'traditional Chinese medicine'; omitting 'traditional' loses the key distinction from 西药 (Western medicine)."
+ },
+ {
+  "hanzi": "起到",
+  "meaning_en": "to play a role; have effect",
+  "reason": "Original en 'to play (a role); to have (effect)' is 34 chars, over the 28-char limit. Trimmed to 27 chars while preserving both senses."
+ },
+ {
+  "hanzi": "胡同儿",
+  "semantic_tags": [
+   "place"
+  ],
+  "reason": "'place' and 'location' are redundant tags for the same concept; drop 'location', keep 'place'."
+ },
+ {
+  "hanzi": "杀毒",
+  "meaning_en": "remove virus; disinfect",
+  "reason": "'antivirus' is a noun/adjective but 杀毒 is a verb phrase (to kill/remove viruses). 'remove virus; disinfect' correctly reflects the verbal sense and matches the Russian gloss."
+ }
+]

@@ -1,0 +1,151 @@
+[
+ {
+  "hanzi": "减",
+  "pinyin": "jiǎn",
+  "meaning_ru": "уменьшать; вычитать",
+  "meaning_en": "reduce; subtract",
+  "semantic_tags": [
+   "process_change",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "末",
+  "pinyin": "mò",
+  "meaning_ru": "конец; последний",
+  "meaning_en": "end; last",
+  "semantic_tags": [
+   "time_word",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "细",
+  "pinyin": "xì",
+  "meaning_ru": "тонкий; мелкий",
+  "meaning_en": "thin; fine",
+  "semantic_tags": [
+   "evaluation_adj",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "出售",
+  "pinyin": "chūshòu",
+  "meaning_ru": "продавать",
+  "meaning_en": "to sell; offer for sale",
+  "semantic_tags": [
+   "commerce_trade",
+   "transaction"
+  ]
+ },
+ {
+  "hanzi": "堵",
+  "pinyin": "dǔ",
+  "meaning_ru": "загораживать; пробка",
+  "meaning_en": "to block up; jam",
+  "semantic_tags": [
+   "physical_action",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "拍照",
+  "pinyin": "pāizhào",
+  "meaning_ru": "фотографировать",
+  "meaning_en": "to take a photo",
+  "semantic_tags": [
+   "action_daily",
+   "hobby"
+  ]
+ },
+ {
+  "hanzi": "轻易",
+  "pinyin": "qīngyì",
+  "meaning_ru": "легко; опрометчиво",
+  "meaning_en": "easily; rashly",
+  "semantic_tags": [
+   "manner_adverb",
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "大楼",
+  "pinyin": "dàlóu",
+  "meaning_ru": "высотное здание",
+  "meaning_en": "large building",
+  "semantic_tags": [
+   "building"
+  ]
+ },
+ {
+  "hanzi": "名人",
+  "pinyin": "míngrén",
+  "meaning_ru": "знаменитость",
+  "meaning_en": "celebrity; famous person",
+  "semantic_tags": [
+   "person",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "转身",
+  "pinyin": "zhuǎnshēn",
+  "meaning_ru": "повернуться; обернуться",
+  "meaning_en": "to turn around",
+  "semantic_tags": [
+   "action_movement",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "投诉",
+  "pinyin": "tóusù",
+  "meaning_ru": "жалоба; жаловаться",
+  "meaning_en": "to complain; complaint",
+  "semantic_tags": [
+   "action_communication",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "体重",
+  "pinyin": "tǐzhòng",
+  "meaning_ru": "вес тела",
+  "meaning_en": "body weight",
+  "semantic_tags": [
+   "body",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "面试",
+  "pinyin": "miànshì",
+  "meaning_ru": "собеседование",
+  "meaning_en": "job interview",
+  "semantic_tags": [
+   "work_career",
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "无所谓",
+  "pinyin": "wúsuǒwèi",
+  "meaning_ru": "всё равно; без разницы",
+  "meaning_en": "doesn't matter; indifferent",
+  "semantic_tags": [
+   "attitude",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "沉",
+  "pinyin": "chén",
+  "meaning_ru": "тонуть; тяжёлый",
+  "meaning_en": "to sink; heavy",
+  "semantic_tags": [
+   "action_movement",
+   "manner_state"
+  ]
+ }
+]

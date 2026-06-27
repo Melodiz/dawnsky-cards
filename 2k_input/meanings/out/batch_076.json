@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "总数",
+  "pinyin": "zǒngshù",
+  "meaning_ru": "общее число; сумма",
+  "meaning_en": "total; sum",
+  "semantic_tags": [
+   "quantity_abstract",
+   "number"
+  ]
+ },
+ {
+  "hanzi": "大于",
+  "pinyin": "dàyú",
+  "meaning_ru": "больше чем",
+  "meaning_en": "greater than",
+  "semantic_tags": [
+   "abstract_relation",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "水库",
+  "pinyin": "shuǐkù",
+  "meaning_ru": "водохранилище",
+  "meaning_en": "reservoir",
+  "semantic_tags": [
+   "building",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "火腿",
+  "pinyin": "huǒtuǐ",
+  "meaning_ru": "ветчина",
+  "meaning_en": "ham",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "工艺",
+  "pinyin": "gōngyì",
+  "meaning_ru": "ремесло; технология",
+  "meaning_en": "craft; technique",
+  "semantic_tags": [
+   "industry_production",
+   "art"
+  ]
+ },
+ {
+  "hanzi": "增多",
+  "pinyin": "zēngduō",
+  "meaning_ru": "увеличиваться",
+  "meaning_en": "to increase in number",
+  "semantic_tags": [
+   "process_change",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "不能不",
+  "pinyin": "bùnéngbù",
+  "meaning_ru": "не может не; приходится",
+  "meaning_en": "cannot but; have to",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "输出",
+  "pinyin": "shūchū",
+  "meaning_ru": "вывод; экспорт",
+  "meaning_en": "to output; to export",
+  "semantic_tags": [
+   "commerce_trade",
+   "technology"
+  ]
+ },
+ {
+  "hanzi": "游泳池",
+  "pinyin": "yóuyǒngchí",
+  "meaning_ru": "бассейн",
+  "meaning_en": "swimming pool",
+  "semantic_tags": [
+   "building",
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "信箱",
+  "pinyin": "xìnxiāng",
+  "meaning_ru": "почтовый ящик",
+  "meaning_en": "mailbox",
+  "semantic_tags": [
+   "object_home",
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "山区",
+  "pinyin": "shānqū",
+  "meaning_ru": "горная местность",
+  "meaning_en": "mountain area",
+  "semantic_tags": [
+   "geography",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "驾照",
+  "pinyin": "jiàzhào",
+  "meaning_ru": "водительские права",
+  "meaning_en": "driver's license",
+  "semantic_tags": [
+   "transport_travel",
+   "law_admin_doc"
+  ]
+ },
+ {
+  "hanzi": "水分",
+  "pinyin": "shuǐfèn",
+  "meaning_ru": "влага; влажность",
+  "meaning_en": "moisture content",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "辈",
+  "pinyin": "bèi",
+  "meaning_ru": "поколение",
+  "meaning_en": "generation",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "单一",
+  "pinyin": "dānyī",
+  "meaning_ru": "единственный; одиночный",
+  "meaning_en": "single; sole",
+  "semantic_tags": [
+   "evaluation_adj",
+   "quantity_abstract"
+  ]
+ }
+]

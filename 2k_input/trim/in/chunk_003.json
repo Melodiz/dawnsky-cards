@@ -1,0 +1,482 @@
+[
+ {
+  "hanzi": "整整",
+  "pinyin": "zhěngzhěng",
+  "meaning_ru": "целых (усилит. о длит.: 整整三天)",
+  "meaning_en": "a full (emphatic duration: 整整三天)",
+  "len_ru": 29,
+  "len_en": 32
+ },
+ {
+  "hanzi": "亲人",
+  "pinyin": "qīnrén",
+  "meaning_ru": "близкие (родственники)",
+  "meaning_en": "close relatives; loved ones (family)",
+  "len_ru": 22,
+  "len_en": 36
+ },
+ {
+  "hanzi": "早已",
+  "pinyin": "zǎoyǐ",
+  "meaning_ru": "давно уже (нейтр.; ≠ 早就 «с акцентом»)",
+  "meaning_en": "long since (neutral/written; vs. emphatic 早就)",
+  "len_ru": 37,
+  "len_en": 45
+ },
+ {
+  "hanzi": "南部",
+  "pinyin": "nánbù",
+  "meaning_ru": "южная часть (территории)",
+  "meaning_en": "southern part (of a territory)",
+  "len_ru": 24,
+  "len_en": 30
+ },
+ {
+  "hanzi": "传来",
+  "pinyin": "chuánlái",
+  "meaning_ru": "доноситься (о звуке, новостях)",
+  "meaning_en": "come through (sound/news, not physical)",
+  "len_ru": 30,
+  "len_en": 39
+ },
+ {
+  "hanzi": "北部",
+  "pinyin": "běibù",
+  "meaning_ru": "северная часть (конкретного места)",
+  "meaning_en": "northern part (of a specific place)",
+  "len_ru": 34,
+  "len_en": 35
+ },
+ {
+  "hanzi": "牌子",
+  "pinyin": "páizi",
+  "meaning_ru": "марка; бренд (разг.); табличка",
+  "meaning_en": "brand; sign (colloquial form)",
+  "len_ru": 30,
+  "len_en": 29
+ },
+ {
+  "hanzi": "旅馆",
+  "pinyin": "lǚguǎn",
+  "meaning_ru": "гостиница (общее, устаревающее)",
+  "meaning_en": "hotel; inn (generic, older word)",
+  "len_ru": 31,
+  "len_en": 32
+ },
+ {
+  "hanzi": "全场",
+  "pinyin": "quánchǎng",
+  "meaning_ru": "весь зал/вся аудитория (мероприятие)",
+  "meaning_en": "whole venue/audience (event)",
+  "len_ru": 36,
+  "len_en": 28
+ },
+ {
+  "hanzi": "价钱",
+  "pinyin": "jiàqian",
+  "meaning_ru": "цена (разг., в сделке)",
+  "meaning_en": "price (colloquial, transaction)",
+  "len_ru": 22,
+  "len_en": 31
+ },
+ {
+  "hanzi": "干吗",
+  "pinyin": "gànmá",
+  "meaning_ru": "зачем? (разг., с нетерпением)",
+  "meaning_en": "why? / what for? (coll., impatient)",
+  "len_ru": 29,
+  "len_en": 35
+ },
+ {
+  "hanzi": "底下",
+  "pinyin": "dǐxia",
+  "meaning_ru": "прямо под (физически)",
+  "meaning_en": "directly underneath (physical)",
+  "len_ru": 21,
+  "len_en": 30
+ },
+ {
+  "hanzi": "美食",
+  "pinyin": "měishí",
+  "meaning_ru": "вкусная еда; кулинария (повседн.)",
+  "meaning_en": "fine food; cuisine (everyday, broad)",
+  "len_ru": 33,
+  "len_en": 36
+ },
+ {
+  "hanzi": "前后",
+  "pinyin": "qiánhòu",
+  "meaning_ru": "примерно; от начала до конца",
+  "meaning_en": "around; from start to end",
+  "len_ru": 28,
+  "len_en": 25
+ },
+ {
+  "hanzi": "认出",
+  "pinyin": "rènchū",
+  "meaning_ru": "узнать (знакомое) с первого взгляда",
+  "meaning_en": "recognize on sight (known person/thing)",
+  "len_ru": 35,
+  "len_en": 39
+ },
+ {
+  "hanzi": "近期",
+  "pinyin": "jìnqī",
+  "meaning_ru": "в ближайшее время; недавно или вскоре",
+  "meaning_en": "near term; recently or soon (a span near now)",
+  "len_ru": 37,
+  "len_en": 45
+ },
+ {
+  "hanzi": "子女",
+  "pinyin": "zǐnǚ",
+  "meaning_ru": "дети (офиц., юрид.)",
+  "meaning_en": "children; offspring (formal/legal)",
+  "len_ru": 19,
+  "len_en": 34
+ },
+ {
+  "hanzi": "建成",
+  "pinyin": "jiànchéng",
+  "meaning_ru": "построить (завершить строительство)",
+  "meaning_en": "to complete construction (result)",
+  "len_ru": 35,
+  "len_en": 33
+ },
+ {
+  "hanzi": "开业",
+  "pinyin": "kāiyè",
+  "meaning_ru": "открыть бизнес (событие открытия)",
+  "meaning_en": "open a business (inaugural event)",
+  "len_ru": 33,
+  "len_en": 33
+ },
+ {
+  "hanzi": "彩色",
+  "pinyin": "cǎisè",
+  "meaning_ru": "цветной (многоцветный, атриб.)",
+  "meaning_en": "multicolored; color (attr.)",
+  "len_ru": 30,
+  "len_en": 27
+ },
+ {
+  "hanzi": "变为",
+  "pinyin": "biànwéi",
+  "meaning_ru": "превращаться в (книжн.)",
+  "meaning_en": "change into; become (formal/written)",
+  "len_ru": 23,
+  "len_en": 36
+ },
+ {
+  "hanzi": "志愿",
+  "pinyin": "zhìyuàn",
+  "meaning_ru": "стремление; добровольчество",
+  "meaning_en": "aspiration; to volunteer",
+  "len_ru": 27,
+  "len_en": 24
+ },
+ {
+  "hanzi": "职工",
+  "pinyin": "zhígōng",
+  "meaning_ru": "персонал (учреждения, госпредпр.)",
+  "meaning_en": "staff; workers (institution/state)",
+  "len_ru": 33,
+  "len_en": 34
+ },
+ {
+  "hanzi": "收听",
+  "pinyin": "shōutīng",
+  "meaning_ru": "слушать радио/эфир (≠ 倾听 «внимать»)",
+  "meaning_en": "listen to (broadcast/radio; not attentive listening)",
+  "len_ru": 35,
+  "len_en": 52
+ },
+ {
+  "hanzi": "衬衣",
+  "pinyin": "chènyī",
+  "meaning_ru": "рубашка (разг., общее)",
+  "meaning_en": "shirt (colloquial, generic)",
+  "len_ru": 22,
+  "len_en": 27
+ },
+ {
+  "hanzi": "班级",
+  "pinyin": "bānjí",
+  "meaning_ru": "класс (адм. единица)",
+  "meaning_en": "class as admin. group (homeroom)",
+  "len_ru": 20,
+  "len_en": 32
+ },
+ {
+  "hanzi": "带动",
+  "pinyin": "dàidòng",
+  "meaning_ru": "побуждать; приводить в движение",
+  "meaning_en": "drive; spur (one thing propels another)",
+  "len_ru": 31,
+  "len_en": 39
+ },
+ {
+  "hanzi": "交警",
+  "pinyin": "jiāojǐng",
+  "meaning_ru": "сотрудник ДПС (дорожная полиция)",
+  "meaning_en": "traffic police (officer)",
+  "len_ru": 32,
+  "len_en": 24
+ },
+ {
+  "hanzi": "国庆",
+  "pinyin": "guóqìng",
+  "meaning_ru": "День образования КНР (сокр. 国庆节)",
+  "meaning_en": "National Day (short form of 国庆节)",
+  "len_ru": 32,
+  "len_en": 32
+ },
+ {
+  "hanzi": "所长",
+  "pinyin": "suǒzhǎng",
+  "meaning_ru": "директор (института)",
+  "meaning_en": "head of an institute or bureau",
+  "len_ru": 20,
+  "len_en": 30
+ },
+ {
+  "hanzi": "华人",
+  "pinyin": "huárén",
+  "meaning_ru": "этнический китаец (любой страны)",
+  "meaning_en": "ethnic Chinese person (any country)",
+  "len_ru": 32,
+  "len_en": 35
+ },
+ {
+  "hanzi": "图画",
+  "pinyin": "túhuà",
+  "meaning_ru": "рисунок; нарисованная картина",
+  "meaning_en": "drawing; painted/hand-drawn picture",
+  "len_ru": 29,
+  "len_en": 35
+ },
+ {
+  "hanzi": "积极性",
+  "pinyin": "jījíxìng",
+  "meaning_ru": "активность; рвение (абстр. качество)",
+  "meaning_en": "enthusiasm; initiative (abstract quality)",
+  "len_ru": 36,
+  "len_en": 41
+ },
+ {
+  "hanzi": "初一",
+  "pinyin": "chūyī",
+  "meaning_ru": "1-й день лун. месяца / 7-й класс",
+  "meaning_en": "1st lunar day / 7th grade",
+  "len_ru": 32,
+  "len_en": 25
+ },
+ {
+  "hanzi": "老头儿",
+  "pinyin": "lǎotóur",
+  "meaning_ru": "старик (разг., фамильярно)",
+  "meaning_en": "old man (colloquial, familiar)",
+  "len_ru": 26,
+  "len_en": 30
+ },
+ {
+  "hanzi": "交费",
+  "pinyin": "jiāofèi",
+  "meaning_ru": "платить взнос/сбор (в учреждение)",
+  "meaning_en": "pay a fee (to an institution)",
+  "len_ru": 33,
+  "len_en": 29
+ },
+ {
+  "hanzi": "凉水",
+  "pinyin": "liángshuǐ",
+  "meaning_ru": "холодная вода (сырая, некипячёная)",
+  "meaning_en": "cool unboiled water (raw tap)",
+  "len_ru": 34,
+  "len_en": 29
+ },
+ {
+  "hanzi": "外文",
+  "pinyin": "wàiwén",
+  "meaning_ru": "иностранный язык (письм., тексты)",
+  "meaning_en": "foreign language (written/textual)",
+  "len_ru": 33,
+  "len_en": 34
+ },
+ {
+  "hanzi": "短处",
+  "pinyin": "duǎnchù",
+  "meaning_ru": "слабая сторона (личная, разг.)",
+  "meaning_en": "weak point (personal, informal)",
+  "len_ru": 30,
+  "len_en": 31
+ },
+ {
+  "hanzi": "首",
+  "pinyin": "shǒu",
+  "meaning_ru": "глава; первый; (сч. стихи/песни)",
+  "meaning_en": "head; chief (literary); (cl. poems)",
+  "len_ru": 32,
+  "len_en": 35
+ },
+ {
+  "hanzi": "局",
+  "pinyin": "jú",
+  "meaning_ru": "ведомство; партия (сч.); ситуация",
+  "meaning_en": "office/bureau; round (cl.); situation",
+  "len_ru": 33,
+  "len_en": 37
+ },
+ {
+  "hanzi": "轮",
+  "pinyin": "lún",
+  "meaning_ru": "колесо; чередоваться; (сч. тур)",
+  "meaning_en": "wheel; take turns; (cl. round)",
+  "len_ru": 31,
+  "len_en": 30
+ },
+ {
+  "hanzi": "停下",
+  "pinyin": "tíngxià",
+  "meaning_ru": "остановиться (резко, сразу)",
+  "meaning_en": "to stop abruptly (movement/action)",
+  "len_ru": 27,
+  "len_en": 34
+ },
+ {
+  "hanzi": "妻子",
+  "pinyin": "qīzǐ",
+  "meaning_ru": "жена (нейтр., письм.)",
+  "meaning_en": "wife (neutral, standard written)",
+  "len_ru": 21,
+  "len_en": 32
+ },
+ {
+  "hanzi": "盘",
+  "pinyin": "pán",
+  "meaning_ru": "блюдо; поднос; (сч. порция)",
+  "meaning_en": "plate; tray; (cl. dish)",
+  "len_ru": 27,
+  "len_en": 23
+ },
+ {
+  "hanzi": "落",
+  "pinyin": "là",
+  "meaning_ru": "забыть; пропустить; отстать",
+  "meaning_en": "to leave out; miss",
+  "len_ru": 27,
+  "len_en": 18
+ },
+ {
+  "hanzi": "烧",
+  "pinyin": "shāo",
+  "meaning_ru": "жечь; готовить на огне; жар (темп.)",
+  "meaning_en": "burn; cook over heat; have a fever",
+  "len_ru": 35,
+  "len_en": 34
+ },
+ {
+  "hanzi": "季",
+  "pinyin": "jì",
+  "meaning_ru": "сезон (морфема в составных словах)",
+  "meaning_en": "season (morpheme, used in compounds)",
+  "len_ru": 34,
+  "len_en": 36
+ },
+ {
+  "hanzi": "抽",
+  "pinyin": "chōu",
+  "meaning_ru": "вытянуть (скользящим движением); курить",
+  "meaning_en": "draw out (sliding motion); smoke",
+  "len_ru": 39,
+  "len_en": 32
+ },
+ {
+  "hanzi": "货",
+  "pinyin": "huò",
+  "meaning_ru": "товар; груз (в т.ч. грузовой)",
+  "meaning_en": "goods; cargo (incl. freight)",
+  "len_ru": 29,
+  "len_en": 28
+ },
+ {
+  "hanzi": "赢得",
+  "pinyin": "yíngdé",
+  "meaning_ru": "завоевать (доверие, титул, победу)",
+  "meaning_en": "win/earn (trust, title, victory)",
+  "len_ru": 34,
+  "len_en": 32
+ },
+ {
+  "hanzi": "替",
+  "pinyin": "tì",
+  "meaning_ru": "вместо кого-л.; замещать",
+  "meaning_en": "in place of; substitute for s.o.",
+  "len_ru": 24,
+  "len_en": 32
+ },
+ {
+  "hanzi": "色",
+  "pinyin": "sè",
+  "meaning_ru": "цвет (корень; в сложн. словах)",
+  "meaning_en": "color (root; in compounds)",
+  "len_ru": 30,
+  "len_en": 26
+ },
+ {
+  "hanzi": "编",
+  "pinyin": "biān",
+  "meaning_ru": "составлять; плести; выдумывать",
+  "meaning_en": "compile; weave; make up (stories)",
+  "len_ru": 30,
+  "len_en": 33
+ },
+ {
+  "hanzi": "宝",
+  "pinyin": "bǎo",
+  "meaning_ru": "сокровище; (разг.) дорогой, малыш",
+  "meaning_en": "treasure (noun); darling (address)",
+  "len_ru": 33,
+  "len_en": 34
+ },
+ {
+  "hanzi": "药物",
+  "pinyin": "yàowù",
+  "meaning_ru": "лекарство; медикамент (вещество)",
+  "meaning_en": "drug; medication (the substance)",
+  "len_ru": 32,
+  "len_en": 32
+ },
+ {
+  "hanzi": "烦",
+  "pinyin": "fán",
+  "meaning_ru": "раздражаться (внешн.); надоедать",
+  "meaning_en": "annoyed (surface reaction); to bother sb",
+  "len_ru": 32,
+  "len_en": 40
+ },
+ {
+  "hanzi": "付出",
+  "pinyin": "fùchū",
+  "meaning_ru": "вкладывать (усилия, время, чувства)",
+  "meaning_en": "invest/expend (effort, time, emotion)",
+  "len_ru": 35,
+  "len_en": 37
+ },
+ {
+  "hanzi": "闹",
+  "pinyin": "nào",
+  "meaning_ru": "шуметь; буянить; устраивать скандал",
+  "meaning_en": "to make noise; fuss; cause trouble",
+  "len_ru": 35,
+  "len_en": 34
+ },
+ {
+  "hanzi": "检测",
+  "pinyin": "jiǎncè",
+  "meaning_ru": "измерять; выявлять (прибором)",
+  "meaning_en": "detect/measure (by instrument)",
+  "len_ru": 29,
+  "len_en": 30
+ }
+]

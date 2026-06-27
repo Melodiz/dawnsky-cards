@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "拉开",
+  "pinyin": "lākāi",
+  "meaning_ru": "раздвинуть; растянуть",
+  "meaning_en": "to pull open; widen gap",
+  "semantic_tags": [
+   "physical_action",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "大规模",
+  "pinyin": "dàguīmó",
+  "meaning_ru": "крупномасштабный",
+  "meaning_en": "large-scale",
+  "semantic_tags": [
+   "evaluation_adj",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "大多",
+  "pinyin": "dàduō",
+  "meaning_ru": "большей частью; в основном",
+  "meaning_en": "mostly; most of",
+  "semantic_tags": [
+   "degree_adverb",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "男士",
+  "pinyin": "nánshì",
+  "meaning_ru": "мужчина (вежл.)",
+  "meaning_en": "gentleman; man",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "上门",
+  "pinyin": "shàngmén",
+  "meaning_ru": "прийти на дом; зайти",
+  "meaning_en": "to visit; call at home",
+  "semantic_tags": [
+   "action_movement",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "童年",
+  "pinyin": "tóngnián",
+  "meaning_ru": "детство",
+  "meaning_en": "childhood",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "市区",
+  "pinyin": "shìqū",
+  "meaning_ru": "городской район; центр",
+  "meaning_en": "urban area; downtown",
+  "semantic_tags": [
+   "place",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "泪",
+  "pinyin": "lèi",
+  "meaning_ru": "слёзы",
+  "meaning_en": "tears",
+  "semantic_tags": [
+   "body",
+   "body_state"
+  ]
+ },
+ {
+  "hanzi": "汇",
+  "pinyin": "huì",
+  "meaning_ru": "переводить (деньги)",
+  "meaning_en": "to remit money",
+  "semantic_tags": [
+   "economy_finance",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "商务",
+  "pinyin": "shāngwù",
+  "meaning_ru": "бизнес; деловой",
+  "meaning_en": "business; commerce",
+  "semantic_tags": [
+   "commerce_trade",
+   "work_career"
+  ]
+ },
+ {
+  "hanzi": "燃料",
+  "pinyin": "ránliào",
+  "meaning_ru": "топливо",
+  "meaning_en": "fuel",
+  "semantic_tags": [
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "替代",
+  "pinyin": "tìdài",
+  "meaning_ru": "заменять; замена",
+  "meaning_en": "to replace; substitute",
+  "semantic_tags": [
+   "process_change",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "美金",
+  "pinyin": "měijīn",
+  "meaning_ru": "доллар США",
+  "meaning_en": "US dollar",
+  "semantic_tags": [
+   "money",
+   "economy_finance"
+  ]
+ },
+ {
+  "hanzi": "箱子",
+  "pinyin": "xiāngzi",
+  "meaning_ru": "чемодан; ящик",
+  "meaning_en": "suitcase; box",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "严",
+  "pinyin": "yán",
+  "meaning_ru": "строгий; суровый",
+  "meaning_en": "strict; stern",
+  "semantic_tags": [
+   "evaluation_adj",
+   "personality_trait"
+  ]
+ }
+]

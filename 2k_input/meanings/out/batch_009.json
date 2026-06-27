@@ -1,0 +1,141 @@
+[
+ {
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "meaning_ru": "собака",
+  "meaning_en": "dog",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "懂",
+  "pinyin": "dǒng",
+  "meaning_ru": "понимать",
+  "meaning_en": "to understand",
+  "semantic_tags": [
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "meaning_ru": "чёрный; тёмный",
+  "meaning_en": "black; dark",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "店",
+  "pinyin": "diàn",
+  "meaning_ru": "магазин; лавка",
+  "meaning_en": "shop; store",
+  "semantic_tags": [
+   "building",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "眼",
+  "pinyin": "yǎn",
+  "meaning_ru": "глаз",
+  "meaning_en": "eye",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "停",
+  "pinyin": "tíng",
+  "meaning_ru": "останавливаться",
+  "meaning_en": "to stop; to park",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "气",
+  "pinyin": "qì",
+  "meaning_ru": "воздух; газ",
+  "meaning_en": "air; gas",
+  "semantic_tags": [
+   "nature",
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "红",
+  "pinyin": "hóng",
+  "meaning_ru": "красный",
+  "meaning_en": "red",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "眼睛",
+  "pinyin": "yǎnjing",
+  "meaning_ru": "глаза",
+  "meaning_en": "eye(s)",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "做到",
+  "pinyin": "zuòdào",
+  "meaning_ru": "достичь; справиться",
+  "meaning_en": "to accomplish; achieve",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "意思",
+  "pinyin": "yìsi",
+  "meaning_ru": "смысл; значение",
+  "meaning_en": "meaning; idea",
+  "semantic_tags": [
+   "cognition",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "加油",
+  "pinyin": "jiāyóu",
+  "meaning_ru": "давай; держись",
+  "meaning_en": "go!; keep going",
+  "semantic_tags": [
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "晚安",
+  "pinyin": "wǎnʼān",
+  "meaning_ru": "спокойной ночи",
+  "meaning_en": "good night",
+  "semantic_tags": [
+   "greeting"
+  ]
+ },
+ {
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "meaning_ru": "кошка",
+  "meaning_en": "cat",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "通",
+  "pinyin": "tōng",
+  "meaning_ru": "проходить; соединять",
+  "meaning_en": "to pass through; connect",
+  "semantic_tags": [
+   "action_movement",
+   "abstract_relation"
+  ]
+ }
+]

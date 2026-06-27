@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "走过",
+  "pinyin": "zǒuguò",
+  "meaning_ru": "пройти мимо",
+  "meaning_en": "to walk past",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "得出",
+  "pinyin": "déchū",
+  "meaning_ru": "прийти к (выводу)",
+  "meaning_en": "to reach; to obtain",
+  "semantic_tags": [
+   "cognition",
+   "cause_effect"
+  ]
+ },
+ {
+  "hanzi": "停车场",
+  "pinyin": "tíngchēchǎng",
+  "meaning_ru": "парковка",
+  "meaning_en": "parking lot",
+  "semantic_tags": [
+   "place",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "大海",
+  "pinyin": "dàhǎi",
+  "meaning_ru": "море; океан",
+  "meaning_en": "sea; ocean",
+  "semantic_tags": [
+   "nature",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "出租",
+  "pinyin": "chūzū",
+  "meaning_ru": "сдавать в аренду",
+  "meaning_en": "to rent out",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "这时候",
+  "pinyin": "zhèshíhòu",
+  "meaning_ru": "в этот момент",
+  "meaning_en": "at this moment",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "老是",
+  "pinyin": "lǎoshi",
+  "meaning_ru": "вечно; всё время",
+  "meaning_en": "always; constantly",
+  "semantic_tags": [
+   "manner_adverb",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "月份",
+  "pinyin": "yuèfèn",
+  "meaning_ru": "месяц (календ.)",
+  "meaning_en": "month (of year)",
+  "semantic_tags": [
+   "time_period",
+   "date"
+  ]
+ },
+ {
+  "hanzi": "坏人",
+  "pinyin": "huàirén",
+  "meaning_ru": "плохой человек",
+  "meaning_en": "bad person; villain",
+  "semantic_tags": [
+   "person",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "天上",
+  "pinyin": "tiānshàng",
+  "meaning_ru": "на небе",
+  "meaning_en": "in the sky",
+  "semantic_tags": [
+   "location",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "旅客",
+  "pinyin": "lǚkè",
+  "meaning_ru": "пассажир; турист",
+  "meaning_en": "traveler; passenger",
+  "semantic_tags": [
+   "person",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "大衣",
+  "pinyin": "dàyī",
+  "meaning_ru": "пальто",
+  "meaning_en": "overcoat",
+  "semantic_tags": [
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "路边",
+  "pinyin": "lùbiān",
+  "meaning_ru": "обочина; край дороги",
+  "meaning_en": "roadside",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "难题",
+  "pinyin": "nántí",
+  "meaning_ru": "трудная задача",
+  "meaning_en": "difficult problem",
+  "semantic_tags": [
+   "abstract_quality",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "手表",
+  "pinyin": "shǒubiǎo",
+  "meaning_ru": "наручные часы",
+  "meaning_en": "wristwatch",
+  "semantic_tags": [
+   "object_home",
+   "time_word"
+  ]
+ }
+]

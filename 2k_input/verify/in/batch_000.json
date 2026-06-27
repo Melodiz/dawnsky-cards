@@ -1,0 +1,1057 @@
+[
+ {
+  "hanzi": "出",
+  "pinyin": "chū",
+  "meaning_ru": "выходить; выйти",
+  "meaning_en": "to go out; exit",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to go out; to come out/to arise; to occur/to produce; to yield/to go beyond; to exceed/(used after a verb to indicate an outward direction or a positive result)/classifier for dramas, plays, operas etc/variant of 出[chu1] (classifier for plays or chapters of classical novels)",
+  "dataset_meanings": [
+   "to go out",
+   "to come out",
+   "to occur",
+   "to produce",
+   "to go beyond",
+   "to rise",
+   "to put forth",
+   "to happen",
+   "(used after a verb to indicate an outward direction or a positive result)",
+   "classifier for dramas, plays, operas etc",
+   "variant of 出 (classifier for plays or chapters of classical novels)"
+  ]
+ },
+ {
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "meaning_ru": "любить",
+  "meaning_en": "to love; to like",
+  "semantic_tags": [
+   "emotion",
+   "communication_emotion"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to love; to be fond of; to like/affection/to be inclined (to do sth); to tend to (happen)",
+  "dataset_meanings": [
+   "to love; to be fond of; to like",
+   "affection",
+   "to be inclined (to do sth); to tend to (happen)"
+  ]
+ },
+ {
+  "hanzi": "孩子",
+  "pinyin": "háizi",
+  "meaning_ru": "ребёнок",
+  "meaning_en": "child; kid",
+  "semantic_tags": [
+   "person",
+   "family"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "child",
+  "dataset_meanings": [
+   "child"
+  ]
+ },
+ {
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "meaning_ru": "год (возраст); лет",
+  "meaning_en": "years old; age",
+  "semantic_tags": [
+   "measurement",
+   "time_period"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "variant of 歲|岁[sui4], year/years old/classifier for years (of age)/year/year (of crop harvests)",
+  "dataset_meanings": [
+   "variant of 岁, year",
+   "years old",
+   "classifier for years (of age)",
+   "year",
+   "year (of crop harvests)"
+  ]
+ },
+ {
+  "hanzi": "高",
+  "pinyin": "gāo",
+  "meaning_ru": "высокий",
+  "meaning_en": "high; tall",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "surname Gao/high/tall/above average/loud/your (honorific)",
+  "dataset_meanings": [
+   "surname Gao",
+   "high",
+   "tall",
+   "above average",
+   "loud",
+   "your (honorific)"
+  ]
+ },
+ {
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "meaning_ru": "входить; войти",
+  "meaning_en": "to enter; go in",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to go forward/to advance/to go in/to enter/to put in/to submit/to take in/to admit/(math.) base of a number system/classifier for sections in a building or residential compound",
+  "dataset_meanings": [
+   "to go forward",
+   "to advance",
+   "to go in",
+   "to enter",
+   "to put in",
+   "to submit",
+   "to take in",
+   "to admit",
+   "(math.) base of a number system",
+   "classifier for sections in a building or residential compound"
+  ]
+ },
+ {
+  "hanzi": "您",
+  "pinyin": "nín",
+  "meaning_ru": "Вы (вежл.)",
+  "meaning_en": "you (polite)",
+  "semantic_tags": [
+   "pronoun",
+   "politeness"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "you (courteous, as opposed to informal 你[ni3])",
+  "dataset_meanings": [
+   "you (courteous, as opposed to informal 你)"
+  ]
+ },
+ {
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "meaning_ru": "смеяться; улыбаться",
+  "meaning_en": "to laugh; smile",
+  "semantic_tags": [
+   "action_communication",
+   "communication_emotion"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "old variant of 笑[xiao4]/to laugh; to smile/to laugh at",
+  "dataset_meanings": [
+   "old variant of 笑",
+   "to laugh; to smile",
+   "to laugh at"
+  ]
+ },
+ {
+  "hanzi": "女人",
+  "pinyin": "nǚrén",
+  "meaning_ru": "женщина",
+  "meaning_en": "woman",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "woman/wife",
+  "dataset_meanings": [
+   "woman",
+   "wife"
+  ]
+ },
+ {
+  "hanzi": "男人",
+  "pinyin": "nánrén",
+  "meaning_ru": "мужчина",
+  "meaning_en": "man",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "a man/a male/men/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "a man",
+   "a male",
+   "men"
+  ]
+ },
+ {
+  "hanzi": "正在",
+  "pinyin": "zhèngzài",
+  "meaning_ru": "как раз (делать); сейчас",
+  "meaning_en": "in the middle of; now",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to be in the process of (doing sth); to be currently ...-ing",
+  "dataset_meanings": [
+   "just at (that time)",
+   "right in (that place)",
+   "right in the middle of (doing sth)"
+  ]
+ },
+ {
+  "hanzi": "外",
+  "pinyin": "wài",
+  "meaning_ru": "снаружи; вне",
+  "meaning_en": "outside; external",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "outside/in addition/foreign/external",
+  "dataset_meanings": [
+   "outside",
+   "in addition",
+   "foreign",
+   "external"
+  ]
+ },
+ {
+  "hanzi": "球",
+  "pinyin": "qiú",
+  "meaning_ru": "мяч; шар",
+  "meaning_en": "ball; sphere",
+  "semantic_tags": [
+   "object_home",
+   "sport"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "ball used for playing games (variant of 球[qiu2])/ball/sphere/globe/CL:個|个[ge4]/ball game/match/CL:場|场[chang3]",
+  "dataset_meanings": [
+   "ball",
+   "sphere",
+   "globe",
+   "ball game",
+   "match"
+  ]
+ },
+ {
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "meaning_ru": "неправильный; ошибка",
+  "meaning_en": "wrong; mistake",
+  "semantic_tags": [
+   "evaluation_adj",
+   "judgement"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "surname Cuo/mistake/wrong/bad/interlocking/complex/to grind/to polish/to alternate/to stagger/to miss/to let slip/to evade/to inlay with gold or silver",
+  "dataset_meanings": [
+   "surname Cuo",
+   "mistake",
+   "wrong",
+   "bad",
+   "interlocking",
+   "complex",
+   "to grind",
+   "to polish",
+   "to alternate",
+   "to stagger",
+   "to miss",
+   "to let slip",
+   "to evade",
+   "to inlay with gold or silver"
+  ]
+ },
+ {
+  "hanzi": "别的",
+  "pinyin": "biéde",
+  "meaning_ru": "другой; иное",
+  "meaning_en": "other; else",
+  "semantic_tags": [
+   "pronoun",
+   "abstract_relation"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "else/other",
+  "dataset_meanings": [
+   "else",
+   "other"
+  ]
+ },
+ {
+  "hanzi": "晚",
+  "pinyin": "wǎn",
+  "meaning_ru": "вечер; поздно",
+  "meaning_en": "evening; late",
+  "semantic_tags": [
+   "time_word",
+   "time_period"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "evening/night/late",
+  "dataset_meanings": [
+   "evening",
+   "night",
+   "late"
+  ]
+ },
+ {
+  "hanzi": "先生",
+  "pinyin": "xiānsheng",
+  "meaning_ru": "господин; мистер",
+  "meaning_en": "mister; sir",
+  "semantic_tags": [
+   "person",
+   "politeness"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "teacher/gentleman; sir; mister (Mr.)/husband/(dialect) doctor/CL:位[wei4]",
+  "dataset_meanings": [
+   "teacher",
+   "gentleman; sir; mister (Mr.)",
+   "husband",
+   "(dialect) doctor"
+  ]
+ },
+ {
+  "hanzi": "学生",
+  "pinyin": "xuésheng",
+  "meaning_ru": "ученик; студент",
+  "meaning_en": "student",
+  "semantic_tags": [
+   "person",
+   "education"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "student/schoolchild",
+  "dataset_meanings": [
+   "student",
+   "schoolchild"
+  ]
+ },
+ {
+  "hanzi": "儿子",
+  "pinyin": "érzi",
+  "meaning_ru": "сын",
+  "meaning_en": "son",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "son",
+  "dataset_meanings": [
+   "son"
+  ]
+ },
+ {
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "meaning_ru": "песня",
+  "meaning_en": "song",
+  "semantic_tags": [
+   "art",
+   "culture"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "song (CL:首[shou3],支[zhi1])/(bound form) to sing/variant of 歌[ge1]",
+  "dataset_meanings": [
+   "song",
+   "to sing",
+   "variant of 歌"
+  ]
+ },
+ {
+  "hanzi": "元",
+  "pinyin": "yuán",
+  "meaning_ru": "юань (валюта)",
+  "meaning_en": "yuan (currency)",
+  "semantic_tags": [
+   "money",
+   "measurement"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "surname Yuan/Yuan dynasty (1279–1368)/currency unit (esp. Chinese yuan)/(bound form) first; original; primary/(bound form) basic; fundamental/(bound form) constituent; part/(prefix) meta-/(math.) argument; variable/era (of a reign)/(Tw) (geology) eon",
+  "dataset_meanings": [
+   "surname Yuan",
+   "the Yuan or Mongol dynasty (1279-1368)",
+   "currency unit (esp. Chinese yuan)",
+   "first",
+   "original",
+   "primary",
+   "fundamental",
+   "constituent",
+   "part",
+   "era (of a reign)",
+   "meta- (prefix)",
+   "(math.) argument",
+   "variable",
+   "(Tw) (geology) eon"
+  ]
+ },
+ {
+  "hanzi": "介绍",
+  "pinyin": "jièshào",
+  "meaning_ru": "представлять; знакомить",
+  "meaning_en": "to introduce",
+  "semantic_tags": [
+   "action_communication",
+   "communication_formal"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to introduce (sb to sb)/to give a presentation/to present (sb for a job etc)/introduction",
+  "dataset_meanings": [
+   "to introduce (sb to sb)",
+   "to give a presentation",
+   "to present (sb for a job etc)",
+   "introduction"
+  ]
+ },
+ {
+  "hanzi": "唱",
+  "pinyin": "chàng",
+  "meaning_ru": "петь",
+  "meaning_en": "to sing",
+  "semantic_tags": [
+   "art",
+   "physical_action"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to sing/to call loudly/to chant",
+  "dataset_meanings": [
+   "to sing",
+   "to call loudly",
+   "to chant"
+  ]
+ },
+ {
+  "hanzi": "看见",
+  "pinyin": "kànjiàn",
+  "meaning_ru": "увидеть; заметить",
+  "meaning_en": "to see; catch sight of",
+  "semantic_tags": [
+   "perception"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to see; to catch sight of",
+  "dataset_meanings": [
+   "to see",
+   "to catch sight of"
+  ]
+ },
+ {
+  "hanzi": "女儿",
+  "pinyin": "nǚʼér",
+  "meaning_ru": "дочь",
+  "meaning_en": "daughter",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "daughter",
+  "dataset_meanings": [
+   "daughter"
+  ]
+ },
+ {
+  "hanzi": "字",
+  "pinyin": "zì",
+  "meaning_ru": "иероглиф; буква",
+  "meaning_en": "character; word",
+  "semantic_tags": [
+   "communication",
+   "education"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "letter/symbol/character/word/CL:個|个[ge4]/courtesy or style name traditionally given to males aged 20 in dynastic China",
+  "dataset_meanings": [
+   "letter",
+   "symbol",
+   "character",
+   "word",
+   "courtesy or style name traditionally given to males aged 20 in dynastic China"
+  ]
+ },
+ {
+  "hanzi": "白",
+  "pinyin": "bái",
+  "meaning_ru": "белый",
+  "meaning_en": "white",
+  "semantic_tags": [
+   "color",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "surname Bai/Bai ethnic group/white/snowy/pure/bright/empty/blank/plain/clear/to make clear/in vain/gratuitous/free of charge/reactionary/anti-communist/funeral/to stare coldly/to write wrong character/to state/to explain/vernacular/spoken lines in opera",
+  "dataset_meanings": [
+   "surname Bai",
+   "white",
+   "snowy",
+   "pure",
+   "bright",
+   "empty",
+   "blank",
+   "plain",
+   "clear",
+   "to make clear",
+   "in vain",
+   "gratuitous",
+   "free of charge",
+   "reactionary",
+   "anti-communist",
+   "funeral",
+   "to stare coldly",
+   "to write wrong character",
+   "to state",
+   "to explain",
+   "vernacular",
+   "spoken lines in opera"
+  ]
+ },
+ {
+  "hanzi": "票",
+  "pinyin": "piào",
+  "meaning_ru": "билет",
+  "meaning_en": "ticket",
+  "semantic_tags": [
+   "object_home",
+   "transport_travel"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "ticket/ballot/banknote/CL:張|张[zhang1]/person held for ransom/amateur performance of Chinese opera/classifier for groups, batches, business transactions",
+  "dataset_meanings": [
+   "ticket",
+   "ballot",
+   "banknote",
+   "person held for ransom",
+   "amateur performance of Chinese opera",
+   "classifier for groups, batches, business transactions"
+  ]
+ },
+ {
+  "hanzi": "飞机",
+  "pinyin": "fēijī",
+  "meaning_ru": "самолёт",
+  "meaning_en": "airplane",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "airplane/CL:架[jia4]",
+  "dataset_meanings": [
+   "airplane"
+  ]
+ },
+ {
+  "hanzi": "哥",
+  "pinyin": "gē",
+  "meaning_ru": "старший брат",
+  "meaning_en": "elder brother",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "elder brother",
+  "dataset_meanings": [
+   "elder brother"
+  ]
+ },
+ {
+  "hanzi": "爸",
+  "pinyin": "bà",
+  "meaning_ru": "папа",
+  "meaning_en": "dad; father",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "father/dad/pa/papa",
+  "dataset_meanings": [
+   "father",
+   "dad",
+   "pa",
+   "papa"
+  ]
+ },
+ {
+  "hanzi": "回去",
+  "pinyin": "huíqu",
+  "meaning_ru": "вернуться (туда)",
+  "meaning_en": "go back",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to return/to go back",
+  "dataset_meanings": [
+   "to return",
+   "to go back"
+  ]
+ },
+ {
+  "hanzi": "病人",
+  "pinyin": "bìngrén",
+  "meaning_ru": "больной; пациент",
+  "meaning_en": "patient; sick person",
+  "semantic_tags": [
+   "health_medical",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "sick person/patient/invalid/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "sick person",
+   "patient",
+   "invalid"
+  ]
+ },
+ {
+  "hanzi": "肉",
+  "pinyin": "ròu",
+  "meaning_ru": "мясо",
+  "meaning_en": "meat; flesh",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "meat/flesh/pulp (of a fruit)/(coll.) (of a fruit) squashy/(of a person) flabby/irresolute/Kangxi radical 130",
+  "dataset_meanings": [
+   "meat",
+   "flesh",
+   "pulp (of a fruit)",
+   "(coll.) (of a fruit) squashy",
+   "(of a person) flabby",
+   "irresolute",
+   "Kangxi radical 130"
+  ]
+ },
+ {
+  "hanzi": "打电话",
+  "pinyin": "dǎdiànhuà",
+  "meaning_ru": "звонить по телефону",
+  "meaning_en": "make a phone call",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to make a telephone call",
+  "dataset_meanings": [
+   "to make a telephone call"
+  ]
+ },
+ {
+  "hanzi": "有的",
+  "pinyin": "yǒude",
+  "meaning_ru": "некоторые",
+  "meaning_en": "some",
+  "semantic_tags": [
+   "quantity_abstract"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "(there are) some (who are...)/some (exist)",
+  "dataset_meanings": [
+   "(there are) some (who are...)",
+   "some (exist)"
+  ]
+ },
+ {
+  "hanzi": "吃饭",
+  "pinyin": "chīfàn",
+  "meaning_ru": "есть; обедать",
+  "meaning_en": "eat; have a meal",
+  "semantic_tags": [
+   "action_daily",
+   "food"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to have a meal/to eat/to make a living",
+  "dataset_meanings": [
+   "to have a meal",
+   "to eat",
+   "to make a living"
+  ]
+ },
+ {
+  "hanzi": "右",
+  "pinyin": "yòu",
+  "meaning_ru": "правый; справа",
+  "meaning_en": "right; right side",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "(bound form) right; right-hand side/(bound form) (politics) right of center/(bound form) (old) west/(literary) the right side as the side of precedence",
+  "dataset_meanings": [
+   "(bound form) right; right-hand side",
+   "(bound form) (politics) right of center",
+   "(bound form) (old) west",
+   "(literary) the right side as the side of precedence"
+  ]
+ },
+ {
+  "hanzi": "姐姐",
+  "pinyin": "jiějie",
+  "meaning_ru": "старшая сестра",
+  "meaning_en": "older sister",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "older sister/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "older sister"
+  ]
+ },
+ {
+  "hanzi": "一半",
+  "pinyin": "yíbàn",
+  "meaning_ru": "половина",
+  "meaning_en": "half",
+  "semantic_tags": [
+   "quantity",
+   "number"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "half",
+  "dataset_meanings": [
+   "half"
+  ]
+ },
+ {
+  "hanzi": "小姐",
+  "pinyin": "xiǎojie",
+  "meaning_ru": "девушка; мисс",
+  "meaning_en": "miss; young lady",
+  "semantic_tags": [
+   "person",
+   "politeness"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "young lady/miss/(slang) prostitute/CL:個|个[ge4],位[wei4]",
+  "dataset_meanings": [
+   "young lady",
+   "miss",
+   "(slang) prostitute"
+  ]
+ },
+ {
+  "hanzi": "进去",
+  "pinyin": "jìnqù",
+  "meaning_ru": "войти (туда)",
+  "meaning_en": "go in; enter",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to go in",
+  "dataset_meanings": [
+   "to go in"
+  ]
+ },
+ {
+  "hanzi": "没什么",
+  "pinyin": "méishénme",
+  "meaning_ru": "ничего; пустяки",
+  "meaning_en": "it's nothing; never mind",
+  "semantic_tags": [
+   "communication_emotion"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "it doesn't matter; it's nothing; never mind/think nothing of it; it's my pleasure; you're welcome",
+  "dataset_meanings": [
+   "nothing",
+   "it doesn't matter",
+   "it's nothing",
+   "never mind"
+  ]
+ },
+ {
+  "hanzi": "路上",
+  "pinyin": "lùshang",
+  "meaning_ru": "в пути; по дороге",
+  "meaning_en": "on the way; en route",
+  "semantic_tags": [
+   "location",
+   "transport_travel"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "on the road/on the way; en route",
+  "dataset_meanings": [
+   "on the road",
+   "on a journey",
+   "road surface"
+  ]
+ },
+ {
+  "hanzi": "考试",
+  "pinyin": "kǎoshì",
+  "meaning_ru": "экзамен; сдавать экзамен",
+  "meaning_en": "exam; take an exam",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to take an exam/exam/CL:次[ci4]",
+  "dataset_meanings": [
+   "to take an exam",
+   "exam"
+  ]
+ },
+ {
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "meaning_ru": "медленный; медленно",
+  "meaning_en": "slow; slowly",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "slow",
+  "dataset_meanings": [
+   "slow"
+  ]
+ },
+ {
+  "hanzi": "进来",
+  "pinyin": "jìnlái",
+  "meaning_ru": "входить; войти",
+  "meaning_en": "to come in",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to come in",
+  "dataset_meanings": [
+   "to come in"
+  ]
+ },
+ {
+  "hanzi": "好看",
+  "pinyin": "hǎokàn",
+  "meaning_ru": "красивый; интересный",
+  "meaning_en": "good-looking; nice",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "good-looking; nice-looking/(of a movie, book, TV show etc) good/in an embarrassing situation",
+  "dataset_meanings": [
+   "good-looking",
+   "nice-looking",
+   "good (of a movie, book, TV show etc)",
+   "embarrassed",
+   "humiliated"
+  ]
+ },
+ {
+  "hanzi": "女生",
+  "pinyin": "nǚshēng",
+  "meaning_ru": "девушка; ученица",
+  "meaning_en": "girl; female student",
+  "semantic_tags": [
+   "person",
+   "education"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "schoolgirl/female student/girl",
+  "dataset_meanings": [
+   "schoolgirl",
+   "female student",
+   "girl"
+  ]
+ },
+ {
+  "hanzi": "雨",
+  "pinyin": "yǔ",
+  "meaning_ru": "дождь",
+  "meaning_en": "rain",
+  "semantic_tags": [
+   "weather",
+   "nature"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "rain/CL:陣|阵[zhen4],場|场[chang2]/(literary) to rain/(of rain, snow etc) to fall/to precipitate/to wet",
+  "dataset_meanings": [
+   "rain",
+   "(literary) to rain",
+   "(of rain, snow etc) to fall",
+   "to precipitate",
+   "to wet"
+  ]
+ },
+ {
+  "hanzi": "车上",
+  "pinyin": "chēshàng",
+  "meaning_ru": "в машине; в транспорте",
+  "meaning_en": "on/in the vehicle",
+  "semantic_tags": [
+   "transport_travel",
+   "location"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Car"
+  ]
+ },
+ {
+  "hanzi": "考",
+  "pinyin": "kǎo",
+  "meaning_ru": "сдавать экзамен",
+  "meaning_en": "to take an exam; to test",
+  "semantic_tags": [
+   "education",
+   "action_learning"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to beat/to hit/variant of 考[kao3]/to inspect/to test/to take an exam/to check/to verify/to examine/to take an entrance exam for/deceased father",
+  "dataset_meanings": [
+   "to beat",
+   "to hit",
+   "variant of 考",
+   "to inspect",
+   "to test",
+   "to take an exam",
+   "to check",
+   "to verify",
+   "to examine",
+   "to take an entrance exam for",
+   "deceased father"
+  ]
+ },
+ {
+  "hanzi": "妹妹",
+  "pinyin": "mèimei",
+  "meaning_ru": "младшая сестра",
+  "meaning_en": "younger sister",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "younger sister/young woman/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "younger sister",
+   "young woman"
+  ]
+ },
+ {
+  "hanzi": "地上",
+  "pinyin": "dìshang",
+  "meaning_ru": "на земле; на полу",
+  "meaning_en": "on the ground/floor",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "on the ground/on the floor",
+  "dataset_meanings": [
+   "on the ground",
+   "on the floor"
+  ]
+ },
+ {
+  "hanzi": "记住",
+  "pinyin": "jìzhu",
+  "meaning_ru": "запомнить",
+  "meaning_en": "to remember; memorize",
+  "semantic_tags": [
+   "cognition",
+   "action_learning"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "to remember/to bear in mind/to learn by heart",
+  "dataset_meanings": [
+   "to remember",
+   "to bear in mind",
+   "to learn by heart"
+  ]
+ },
+ {
+  "hanzi": "下次",
+  "pinyin": "xiàcì",
+  "meaning_ru": "в следующий раз",
+  "meaning_en": "next time",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "next time",
+  "dataset_meanings": [
+   "next time"
+  ]
+ },
+ {
+  "hanzi": "机场",
+  "pinyin": "jīchǎng",
+  "meaning_ru": "аэропорт",
+  "meaning_en": "airport",
+  "semantic_tags": [
+   "building",
+   "transport_travel"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "airport; airfield/(slang) service provider for Shadowsocks or similar software for circumventing Internet censorship/CL:家[jia1],處|处[chu4]",
+  "dataset_meanings": [
+   "airport; airfield",
+   "(slang) service provider for Shadowsocks or similar software for circumventing Internet censorship"
+  ]
+ },
+ {
+  "hanzi": "老人",
+  "pinyin": "lǎorén",
+  "meaning_ru": "пожилой человек",
+  "meaning_en": "old person; the elderly",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "old man or woman/the elderly/one's aged parents or grandparents",
+  "dataset_meanings": [
+   "old man or woman",
+   "the elderly",
+   "one's aged parents or grandparents"
+  ]
+ },
+ {
+  "hanzi": "那边",
+  "pinyin": "nàbian",
+  "meaning_ru": "там; та сторона",
+  "meaning_en": "over there",
+  "semantic_tags": [
+   "location",
+   "direction"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "over there/yonder",
+  "dataset_meanings": [
+   "over there",
+   "yonder"
+  ]
+ },
+ {
+  "hanzi": "弟弟",
+  "pinyin": "dìdi",
+  "meaning_ru": "младший брат",
+  "meaning_en": "younger brother",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "younger brother/CL:個|个[ge4],位[wei4]",
+  "dataset_meanings": [
+   "younger brother"
+  ]
+ }
+]

@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "到来",
+  "pinyin": "dàolái",
+  "meaning_ru": "наступление; приход",
+  "meaning_en": "arrival; advent",
+  "semantic_tags": [
+   "process_change",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "一句话",
+  "pinyin": "yījùhuà",
+  "meaning_ru": "одним словом; короче",
+  "meaning_en": "in a word; in short",
+  "semantic_tags": [
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "自杀",
+  "pinyin": "zìshā",
+  "meaning_ru": "покончить с собой",
+  "meaning_en": "to commit suicide",
+  "semantic_tags": [
+   "action_daily",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "负责人",
+  "pinyin": "fùzérén",
+  "meaning_ru": "ответственный; глава",
+  "meaning_en": "person in charge",
+  "semantic_tags": [
+   "person",
+   "occupation"
+  ]
+ },
+ {
+  "hanzi": "旁",
+  "pinyin": "páng",
+  "meaning_ru": "сторона; рядом",
+  "meaning_en": "side; beside",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "收集",
+  "pinyin": "shōují",
+  "meaning_ru": "собирать; коллекционировать",
+  "meaning_en": "to gather; collect",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "盒",
+  "pinyin": "hé",
+  "meaning_ru": "коробка; футляр",
+  "meaning_en": "box; case",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "报警",
+  "pinyin": "bàojǐng",
+  "meaning_ru": "вызвать полицию",
+  "meaning_en": "to alert the police",
+  "semantic_tags": [
+   "action_communication",
+   "law_justice"
+  ]
+ },
+ {
+  "hanzi": "剪",
+  "pinyin": "jiǎn",
+  "meaning_ru": "резать (ножницами)",
+  "meaning_en": "to cut; trim",
+  "semantic_tags": [
+   "physical_action",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "脑子",
+  "pinyin": "nǎozi",
+  "meaning_ru": "мозг; ум, голова",
+  "meaning_en": "brains; mind",
+  "semantic_tags": [
+   "body",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "局长",
+  "pinyin": "júzhǎng",
+  "meaning_ru": "начальник управления",
+  "meaning_en": "bureau chief",
+  "semantic_tags": [
+   "occupation",
+   "politics_government"
+  ]
+ },
+ {
+  "hanzi": "挤",
+  "pinyin": "jǐ",
+  "meaning_ru": "толкаться; выжимать",
+  "meaning_en": "to squeeze; crowd",
+  "semantic_tags": [
+   "physical_action",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "之内",
+  "pinyin": "zhīnèi",
+  "meaning_ru": "в пределах; внутри",
+  "meaning_en": "within; inside",
+  "semantic_tags": [
+   "spatial_relation",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "厅",
+  "pinyin": "tīng",
+  "meaning_ru": "зал; гостиная",
+  "meaning_en": "hall; living room",
+  "semantic_tags": [
+   "building",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "全都",
+  "pinyin": "quándōu",
+  "meaning_ru": "все; полностью",
+  "meaning_en": "all; without exception",
+  "semantic_tags": [
+   "degree_adverb",
+   "quantity_abstract"
+  ]
+ }
+]

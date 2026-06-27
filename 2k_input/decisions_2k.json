@@ -1,0 +1,2602 @@
+[
+ {
+  "hanzi": "出",
+  "reason": "Verb and classifier senses both exist; at HSK1 the core directional-verb sense 'to go out' is what a learner needs, not the opera/play classifier.",
+  "chosen": "to go out; exit (directional verb)",
+  "alternatives": [
+   "classifier for plays/operas",
+   "to produce; to yield",
+   "to exceed"
+  ]
+ },
+ {
+  "hanzi": "岁",
+  "reason": "Primary HSK1 use is the age counter ('X岁' = X years old); the bare 'year' sense is secondary for beginners.",
+  "chosen": "years old / age classifier",
+  "alternatives": [
+   "year",
+   "year of crop harvest"
+  ]
+ },
+ {
+  "hanzi": "高",
+  "reason": "Surname Gao and 'loud/honorific' senses set aside; the adjective 'high/tall' is the HSK1 sense.",
+  "chosen": "high; tall (adjective)",
+  "alternatives": [
+   "surname Gao",
+   "loud",
+   "your (honorific)"
+  ]
+ },
+ {
+  "hanzi": "进",
+  "reason": "Many senses (advance, submit, admit, math base, building classifier); HSK1 learner needs the basic motion verb 'to enter'.",
+  "chosen": "to enter; go in",
+  "alternatives": [
+   "to advance",
+   "to submit",
+   "classifier for building sections"
+  ]
+ },
+ {
+  "hanzi": "错",
+  "reason": "Surname and 'grind/polish/inlay/interlock' senses set aside; HSK1 needs the 'wrong; mistake' sense (also 不错 = not bad).",
+  "chosen": "wrong; mistake",
+  "alternatives": [
+   "surname Cuo",
+   "to grind; to polish",
+   "interlocking; complex"
+  ]
+ },
+ {
+  "hanzi": "球",
+  "reason": "Both 'ball (object)' and 'ball game/match' senses exist; chose the concrete object sense primary with sport tag, as that is the HSK1 anchor (球 in 足球/篮球).",
+  "chosen": "ball; sphere",
+  "alternatives": [
+   "ball game; match",
+   "globe"
+  ]
+ },
+ {
+  "hanzi": "元",
+  "reason": "Highly polysemous (dynasty name, 'first/primary', math variable, surname), but at HSK1 with this freq the learner needs the everyday money sense.",
+  "chosen": "currency unit (yuan)",
+  "alternatives": [
+   "first; primary; original",
+   "Yuan dynasty",
+   "(math.) argument; variable",
+   "surname Yuan"
+  ]
+ },
+ {
+  "hanzi": "白",
+  "reason": "cedict spans many senses (in vain, plain, to state, vernacular), but the HSK1 primary sense is the color.",
+  "chosen": "white (color)",
+  "alternatives": [
+   "in vain; for nothing",
+   "plain; blank",
+   "free of charge",
+   "to state; explain"
+  ]
+ },
+ {
+  "hanzi": "字",
+  "reason": "Means both 'written character' and 'word/letter'; at HSK1 the core sense is the Chinese character one writes/reads.",
+  "chosen": "(written) character",
+  "alternatives": [
+   "word",
+   "letter; symbol",
+   "courtesy/style name"
+  ]
+ },
+ {
+  "hanzi": "先生",
+  "reason": "cedict lists teacher/husband/(dialect) doctor too, but the modern primary HSK1 sense is the polite address 'mister/sir'.",
+  "chosen": "mister; sir (polite address)",
+  "alternatives": [
+   "teacher",
+   "husband",
+   "(dialect) doctor"
+  ]
+ },
+ {
+  "hanzi": "小姐",
+  "reason": "cedict lists a (slang) 'prostitute' sense, but for HSK-1 the primary, level-appropriate sense is the polite address 'miss / young lady'. The slang sense is regionally loaded and not what a beginner needs as the card meaning.",
+  "chosen": "miss; young lady (polite address)",
+  "alternatives": [
+   "(slang) prostitute"
+  ]
+ },
+ {
+  "hanzi": "右",
+  "reason": "cedict marks it as a bound form with extra senses (politics 'right of center', archaic 'west', literary 'precedence'). For HSK-1 the spatial 'right-hand side' is the only sense a learner needs.",
+  "chosen": "right; right-hand side (spatial)",
+  "alternatives": [
+   "political right",
+   "(old) west",
+   "side of precedence"
+  ]
+ },
+ {
+  "hanzi": "肉",
+  "reason": "Multiple senses (meat, fruit pulp, flabby, Kangxi radical). Primary HSK-1 sense is the food noun 'meat'.",
+  "chosen": "meat",
+  "alternatives": [
+   "fruit pulp",
+   "(of person) flabby",
+   "Kangxi radical 130"
+  ]
+ },
+ {
+  "hanzi": "考",
+  "reason": "Cedict lists many senses incl. 'to beat/hit' (variant) and 'deceased father', but the HSK-1 learning sense is the exam/test verb.",
+  "chosen": "to take an exam; to test",
+  "alternatives": [
+   "to beat; to hit",
+   "to inspect; to verify",
+   "deceased father"
+  ]
+ },
+ {
+  "hanzi": "好看",
+  "reason": "Two registers: aesthetic 'good-looking/nice' vs. figurative 'embarrassed; humiliated'. HSK-1 learner needs the literal aesthetic sense.",
+  "chosen": "good-looking; nice",
+  "alternatives": [
+   "embarrassed; humiliated"
+  ]
+ },
+ {
+  "hanzi": "机场",
+  "reason": "Cedict adds a slang sense (Shadowsocks proxy provider); irrelevant at HSK-1. Primary literal sense kept.",
+  "chosen": "airport",
+  "alternatives": [
+   "(slang) proxy/VPN service provider"
+  ]
+ },
+ {
+  "hanzi": "奶",
+  "reason": "cedict spans milk, breast, to breastfeed, and mother/granny. For HSK1 the core sense a learner needs is the noun 'milk' (as in 牛奶), with 'breast' as the literal body sense; verb and 'mother' senses set aside.",
+  "chosen": "milk; breast (noun senses)",
+  "alternatives": [
+   "to breastfeed (verb)",
+   "mother / granny (kinship)"
+  ]
+ },
+ {
+  "hanzi": "不大",
+  "reason": "cedict spans degree sense ('not very') and frequency sense ('not often'); at HSK1 the degree-adverb sense before adjectives is primary, with the frequency sense as a close secondary kept in the gloss.",
+  "chosen": "не очень (degree adverb 'not very')",
+  "alternatives": [
+   "не часто (frequency: not often)",
+   "буквально: небольшой ('not big')"
+  ]
+ },
+ {
+  "hanzi": "楼上",
+  "reason": "cedict adds an Internet-slang sense ('previous poster in a thread'); irrelevant at HSK1, so the literal spatial sense is chosen.",
+  "chosen": "наверху / этажом выше (upstairs)",
+  "alternatives": [
+   "интернет-сленг: предыдущий комментатор"
+  ]
+ },
+ {
+  "hanzi": "半天",
+  "reason": "literal 'half a day' vs idiomatic 'a long while'; both are common and short, so kept together with the literal sense first.",
+  "chosen": "полдня (half a day), + 'долго' (a long while)",
+  "alternatives": [
+   "в воздухе (midair)"
+  ]
+ },
+ {
+  "hanzi": "没事儿",
+  "reason": "Cedict spans 'have spare time / free from work' and the reassurance sense. The HSK-1 colloquial primary use is the reassurance reply ('it's nothing / never mind'), so I chose that over the 'be free/have spare time' sense.",
+  "chosen": "it's nothing; never mind (reassurance reply)",
+  "alternatives": [
+   "to have spare time; be free from work"
+  ]
+ },
+ {
+  "hanzi": "本子",
+  "reason": "Cedict lists 'notebook', 'book', 'edition', and a slang 'dōjinshi (often erotic)' sense. At HSK-1 the needed sense is the everyday school notebook; the slang/edition senses are inappropriate and irrelevant for a beginner card.",
+  "chosen": "notebook (exercise book)",
+  "alternatives": [
+   "book",
+   "edition",
+   "dōjinshi (coll., often erotic)"
+  ]
+ },
+ {
+  "hanzi": "女孩儿",
+  "reason": "Means 'girl' generally; can read as young girl or young woman/girlfriend in context. Chose neutral 'девочка; девушка / girl' as the level-appropriate primary sense.",
+  "chosen": "girl (young female)",
+  "alternatives": [
+   "young woman; girlfriend (colloquial)"
+  ]
+ },
+ {
+  "hanzi": "为",
+  "reason": "Polysemous and toneform-split. At HSK 2 (wéi) the primary need is the copula/verb sense 'to be/act as'; the 'for/because of' preposition is the wèi reading. Chose wéi verb sense per given pinyin.",
+  "chosen": "to be; to act as (wéi)",
+  "alternatives": [
+   "for; because of (wèi prep.)",
+   "by (passive marker)"
+  ]
+ },
+ {
+  "hanzi": "让",
+  "reason": "Spans causative 'let/make sb do', 'yield/give way', and passive 'by'. Chose the core HSK-2 causative sense learners meet first.",
+  "chosen": "to let; to make sb do",
+  "alternatives": [
+   "to yield; give way",
+   "by (passive agent marker)"
+  ]
+ },
+ {
+  "hanzi": "向",
+  "reason": "Input lists surname, 'towards', 'support/side with', etc. Chose the HSK-2 directional preposition 'towards/facing' as primary.",
+  "chosen": "towards; to face",
+  "alternatives": [
+   "to support; side with",
+   "surname Xiang",
+   "all along, formerly"
+  ]
+ },
+ {
+  "hanzi": "句",
+  "reason": "Input pinyin given as 'gōu' (variant of 勾), but the HSK-2 word 句 is jù 'sentence/measure word for phrases'. Corrected pinyin to jù and glossed the sentence/classifier sense.",
+  "chosen": "sentence; classifier for phrases (jù)",
+  "alternatives": [
+   "variant of 勾 gōu (hook)"
+  ]
+ },
+ {
+  "hanzi": "卖",
+  "reason": "Core sense 'to sell' clearly primary; figurative 'betray / show off' set aside as advanced.",
+  "chosen": "to sell",
+  "alternatives": [
+   "to betray",
+   "to show off; flaunt"
+  ]
+ },
+ {
+  "hanzi": "黑",
+  "reason": "Highly polysemous (province abbr., sinister, illegal, to hack), but the HSK-2 core sense is the color.",
+  "chosen": "black; dark (color)",
+  "alternatives": [
+   "abbr. Heilongjiang",
+   "illegal; shady",
+   "to hack (computing)"
+  ]
+ },
+ {
+  "hanzi": "气",
+  "reason": "Spans gas/air, weather, anger, and qi; at HSK-2 the foundational concrete sense is air/gas (anger appears mainly in compounds like 生气).",
+  "chosen": "air; gas",
+  "alternatives": [
+   "anger; to annoy",
+   "weather",
+   "vital energy (qi)"
+  ]
+ },
+ {
+  "hanzi": "眼",
+  "reason": "Means 'eye' but also functions as a classifier (wells, etc.) and 'small hole'; learner needs the body-part sense first.",
+  "chosen": "eye",
+  "alternatives": [
+   "small hole",
+   "classifier (wells, stoves)"
+  ]
+ },
+ {
+  "hanzi": "意思",
+  "reason": "Many senses (meaning, intention, interest/fun, token of goodwill); the primary HSK-2 sense learners meet is 'meaning'.",
+  "chosen": "meaning; idea",
+  "alternatives": [
+   "intention; wish",
+   "interest; fun",
+   "small gift/token of goodwill"
+  ]
+ },
+ {
+  "hanzi": "通",
+  "reason": "Broad verb (go through, connect, be expert, communicate) plus classifier uses; chose the core 'pass through / connect' sense over the classifier and 'expert' senses.",
+  "chosen": "to pass through; to connect",
+  "alternatives": [
+   "to know well; expert",
+   "classifier for phone calls/letters",
+   "to communicate"
+  ]
+ },
+ {
+  "hanzi": "排",
+  "reason": "Verb/noun/classifier all common; for HSK2 the 'row/line up' sense (queue, row of seats) is the everyday meaning a learner needs over 'platoon' or 'rehearse'.",
+  "chosen": "ряд; выстраивать в ряд (row; line up)",
+  "alternatives": [
+   "взвод (platoon)",
+   "репетировать (to rehearse)",
+   "счётное слово для рядов (classifier)"
+  ]
+ },
+ {
+  "hanzi": "喂",
+  "reason": "Read wéi here. Same char also means 'to feed' (wèi), but the phone-greeting/hey sense is the primary HSK2 use and matches the given pinyin reading.",
+  "chosen": "алло; эй (hello on phone; hey)",
+  "alternatives": [
+   "кормить (to feed, wèi)"
+  ]
+ },
+ {
+  "hanzi": "鸡",
+  "reason": "Animal/food sense is the HSK2 meaning; slang 'prostitute' sense set aside as inappropriate for a beginner card.",
+  "chosen": "курица; петух (chicken)",
+  "alternatives": [
+   "(сленг) проститутка (slang: prostitute)"
+  ]
+ },
+ {
+  "hanzi": "封",
+  "reason": "Multiple senses (to seal / to confer / classifier for letters). Chose the two most useful for a learner: the verb 'seal' and the very common classifier for letters.",
+  "chosen": "запечатать; счётн. для писем (to seal; cl. for letters)",
+  "alternatives": [
+   "жаловать титул (to confer a title)",
+   "фамилия Фэн (surname Feng)"
+  ]
+ },
+ {
+  "hanzi": "急",
+  "reason": "Adjective and verb senses span 'urgent/anxious' and 'to make anxious'; for HSK 2 the primary need is the predicative adjective 'urgent / in a hurry / anxious'.",
+  "chosen": "urgent; in a hurry / anxious",
+  "alternatives": [
+   "rapid (of current)",
+   "to make sb anxious (causative verb)"
+  ]
+ },
+ {
+  "hanzi": "高中",
+  "reason": "Two readings: gāozhōng 'senior high school' (noun) vs gāozhòng 'to pass an exam brilliantly'. The school sense is the HSK-2 vocabulary item.",
+  "chosen": "senior high school (gāozhōng)",
+  "alternatives": [
+   "to pass brilliantly (gāozhòng, congratulatory)"
+  ]
+ },
+ {
+  "hanzi": "练",
+  "reason": "Common modern verb sense 'to practice/train' vs literary noun 'white silk'; learner needs the verb.",
+  "chosen": "to practice; to train",
+  "alternatives": [
+   "white silk (literary)",
+   "to boil and scour raw silk"
+  ]
+ },
+ {
+  "hanzi": "大人",
+  "reason": "cedict lists 'adult' and an honorific 'title of respect toward superiors'; at HSK 2 the everyday sense is the one learners need.",
+  "chosen": "adult / взрослый",
+  "alternatives": [
+   "title of respect toward superiors (your honor / милорд)"
+  ]
+ },
+ {
+  "hanzi": "题",
+  "reason": "Spans 'topic/subject', 'exam question/problem', and verb 'to inscribe'. At HSK 2 the dominant classroom sense is an exam/homework question or problem.",
+  "chosen": "problem; exam question / задача, вопрос",
+  "alternatives": [
+   "topic; subject (тема)",
+   "to inscribe (надписывать)"
+  ]
+ },
+ {
+  "hanzi": "好事",
+  "reason": "cedict spans good deed, charity, happy occasion, a sarcastic 'fine thing indeed', and a funeral rite. Chose the neutral primary sense for the level.",
+  "chosen": "good deed; good thing / доброе дело",
+  "alternatives": [
+   "happy occasion (радостное событие)",
+   "sarcastic 'a fine thing indeed'",
+   "Buddhist/Daoist rite for the dead"
+  ]
+ },
+ {
+  "hanzi": "家长",
+  "reason": "cedict has 'head of household/patriarch' and 'parent or guardian'. In modern HSK usage 家长 overwhelmingly means a pupil's parent/guardian (school context).",
+  "chosen": "parent; family head / родитель",
+  "alternatives": [
+   "patriarch / head of household (глава семьи)"
+  ]
+ },
+ {
+  "hanzi": "碰",
+  "reason": "Cedict leads with 'variant of' noise; the real learner sense is the physical verb. Chose the core action meaning.",
+  "chosen": "to touch; bump; knock against",
+  "alternatives": [
+   "variant-of marker (ignored as noise)",
+   "meet with (covered by 碰到)"
+  ]
+ },
+ {
+  "hanzi": "接下来",
+  "reason": "Dataset glosses inherit '接 = to accept/take', but the fixed compound 接下来 is an adverbial 'next/then/what follows'. Chose the compound's actual meaning over the morpheme gloss.",
+  "chosen": "next; then; what comes next",
+  "alternatives": [
+   "to accept; to take (literal morpheme reading, wrong for the compound)"
+  ]
+ },
+ {
+  "hanzi": "以外",
+  "reason": "Spans 'except for/besides' and 'outside of/beyond'. Both are common at HSK2; kept both close senses in the label.",
+  "chosen": "besides; except for; outside of",
+  "alternatives": [
+   "on the other side of; beyond (spatial only)"
+  ]
+ },
+ {
+  "hanzi": "出门",
+  "reason": "Primary everyday sense is 'go out / leave home'; the '(of a woman) get married' sense is dialectal and inappropriate as the primary label.",
+  "chosen": "go out; leave home",
+  "alternatives": [
+   "go on a journey / be away from home",
+   "(of a woman) to get married (dialectal, set aside)"
+  ]
+ },
+ {
+  "hanzi": "做法",
+  "reason": "Ranges over general 'way of doing / method / practice' and the cooking-specific 'recipe'. Kept the general sense primary with 'recipe' appended since both are frequent at this level.",
+  "chosen": "way of doing; method; recipe",
+  "alternatives": [
+   "recipe only (too narrow)",
+   "practice / course of action (abstract only)"
+  ]
+ },
+ {
+  "hanzi": "熟",
+  "reason": "cedict lists many senses (ripe/cooked/familiar/skilled/deep sleep); at HSK2 the everyday cluster is ripe-cooked-familiar, which I glossed together rather than picking one isolated sense.",
+  "chosen": "спелый; готовый; знакомый (ripe; cooked; familiar)",
+  "alternatives": [
+   "опытный; искусный (experienced; skilled)",
+   "крепкий (о сне) (deep sleep)"
+  ]
+ },
+ {
+  "hanzi": "相机",
+  "reason": "Two distinct senses: noun 'camera' (abbr. of 照相机) vs. adverbial 'at the opportune moment'. For an HSK2 learner the concrete noun 'camera' is the needed primary sense.",
+  "chosen": "фотоаппарат; камера (camera)",
+  "alternatives": [
+   "при удобном случае (at the opportune moment)"
+  ]
+ },
+ {
+  "hanzi": "好人",
+  "reason": "Has a neutral 'good person' sense and a pejorative 'people-pleaser at expense of principle' sense; the literal positive sense is the HSK2 primary one.",
+  "chosen": "хороший человек (good person)",
+  "alternatives": [
+   "угодник; рубаха-парень (people-pleaser, coll.)",
+   "здоровый человек (healthy person)"
+  ]
+ },
+ {
+  "hanzi": "大大",
+  "reason": "cedict spans adverb 'greatly' and dialect kinship 'dad/uncle'. At HSK2 the productive adverbial sense (大大提高 etc.) is what a learner needs; kinship is regional/dialectal.",
+  "chosen": "greatly; hugely (adverb)",
+  "alternatives": [
+   "(dialect) dad",
+   "uncle"
+  ]
+ },
+ {
+  "hanzi": "大门",
+  "reason": "cedict lists 'the Doors (US rock band)' first plus several senses; that proper noun is dataset noise. Primary learner sense is the physical gate/main entrance.",
+  "chosen": "gate; main entrance",
+  "alternatives": [
+   "the Doors (rock band)",
+   "large influential family"
+  ]
+ },
+ {
+  "hanzi": "大小",
+  "reason": "many senses (size, adults-and-children, seniority, 'at any rate'). The core HSK2 sense is concrete 'size/dimension'.",
+  "chosen": "size; magnitude",
+  "alternatives": [
+   "adults and children",
+   "seniority",
+   "at any rate"
+  ]
+ },
+ {
+  "hanzi": "阴",
+  "reason": "cedict has many senses (Yin principle, negative pole, moon, feminine, shady, genitalia). At HSK2 the everyday weather sense 'overcast/cloudy' is primary (contrast 晴).",
+  "chosen": "overcast; cloudy (weather)",
+  "alternatives": [
+   "Yin (yin-yang)",
+   "negative (electric)",
+   "shady",
+   "moon"
+  ]
+ },
+ {
+  "hanzi": "黄色",
+  "reason": "two live senses: literal color 'yellow' and the very common idiomatic 'pornographic/lewd'. Kept color as primary with a marked secondary sense since both are needed.",
+  "chosen": "yellow (color), w/ secondary 'pornographic'",
+  "alternatives": [
+   "pornographic; lewd (only)"
+  ]
+ },
+ {
+  "hanzi": "不满",
+  "reason": "cedict spans an adjectival emotional sense and a quantifier 'less than (a number)' sense; the emotional/attitude sense is the primary one a learner needs at HSK 2 and is the dataset's lead gloss",
+  "chosen": "dissatisfied; discontent (emotional)",
+  "alternatives": [
+   "(before a number) to be less than"
+  ]
+ },
+ {
+  "hanzi": "全家",
+  "reason": "cedict leads with the FamilyMart store brand, but that is a proper noun irrelevant to a vocabulary learner; the compositional 'whole family' sense is primary",
+  "chosen": "whole family",
+  "alternatives": [
+   "FamilyMart (convenience store chain)"
+  ]
+ },
+ {
+  "hanzi": "游客",
+  "reason": "primary everyday sense is tourist/visitor; the online-gaming 'guest player' sense is niche and dropped for HSK 2",
+  "chosen": "tourist; visitor",
+  "alternatives": [
+   "(online gaming) guest player"
+  ]
+ },
+ {
+  "hanzi": "球场",
+  "reason": "covers many specific venues (court, pitch, stadium, golf course); chose the generic 'sports field/court' to fit a button label",
+  "chosen": "sports field; court",
+  "alternatives": [
+   "stadium",
+   "pitch",
+   "golf course"
+  ]
+ },
+ {
+  "hanzi": "出租",
+  "reason": "cedict gives bare 'to rent' but the verb 出租 specifically means to rent OUT (let), as in 出租车/出租房; 租 alone covers renting from. Chose the lessor sense to avoid confusion.",
+  "chosen": "to rent out (as lessor)",
+  "alternatives": [
+   "to rent (from someone)",
+   "to hire out"
+  ]
+ },
+ {
+  "hanzi": "分数",
+  "reason": "cedict spans 'exam grade/score' and the math sense 'fraction'. At HSK 2 the school-grade sense is what a learner needs.",
+  "chosen": "балл; оценка (exam grade/score)",
+  "alternatives": [
+   "fraction (math)"
+  ]
+ },
+ {
+  "hanzi": "院长",
+  "reason": "Head of any institution ending in 院; common referents are dean/president/director. Chose the broad institutional-head sense covering university dean/hospital director.",
+  "chosen": "директор; декан; ректор (head of an institution)",
+  "alternatives": [
+   "premier of the Republic of China"
+  ]
+ },
+ {
+  "hanzi": "西北",
+  "reason": "cedict lists both the compass direction and the proper-noun region 'Northwest China'. At HSK 2 the basic compass-direction sense is primary.",
+  "chosen": "северо-запад (compass direction)",
+  "alternatives": [
+   "Northwest China region"
+  ]
+ },
+ {
+  "hanzi": "老朋友",
+  "reason": "cedict lists a slang sense 'period/menstruation', but at HSK-2 the literal primary sense is what a learner needs; the slang is rare and register-marked.",
+  "chosen": "old friend (literal primary sense)",
+  "alternatives": [
+   "(slang) period; menstruation"
+  ]
+ },
+ {
+  "hanzi": "笔记",
+  "reason": "cedict spans verb 'take down', noun 'notes', and a literary-genre sense; for HSK-2 the everyday noun 'notes' is primary, with the verb sense secondary.",
+  "chosen": "notes (with secondary 'jot down')",
+  "alternatives": [
+   "biji literary sketch genre"
+  ]
+ },
+ {
+  "hanzi": "开学",
+  "reason": "cedict spans student starting school, semester beginning, and an archaic 'to found a school' sense. At HSK2 the learner needs the everyday 'school/term starts' sense.",
+  "chosen": "start of term; school begins",
+  "alternatives": [
+   "to found a school (archaic)",
+   "(of a student) to start school"
+  ]
+ },
+ {
+  "hanzi": "站住",
+  "reason": "cedict lists literal 'come to a stop/halt', 'keep footing', and figurative 'hold one's ground / be tenable'. At HSK2 the primary sense is the literal command 'stop! / halt'.",
+  "chosen": "stop!; halt (come to a stop)",
+  "alternatives": [
+   "to keep one's footing; stay upright",
+   "to hold one's ground; be tenable (fig.)"
+  ]
+ },
+ {
+  "hanzi": "中餐",
+  "reason": "cedict lists both 'lunch' and 'Chinese food/meal'; at HSK2, contrasted with 西餐 (Western food), the primary salient sense is 'Chinese cuisine', so led with that and kept 'lunch' as secondary.",
+  "chosen": "Chinese food (cuisine), with 'lunch' secondary",
+  "alternatives": [
+   "lunch (midday meal) as primary"
+  ]
+ },
+ {
+  "hanzi": "交朋友",
+  "reason": "Standard meaning is 'to make friends'; the dialectal 'start an affair' sense is non-standard and inappropriate for an HSK2 learner card, so dropped.",
+  "chosen": "make friends",
+  "alternatives": [
+   "(dialect) start a romantic affair"
+  ]
+ },
+ {
+  "hanzi": "开机",
+  "reason": "cedict spans 'boot up computer', 'start an engine', and 'begin filming'. For HSK2 the everyday sense is powering on a device (phone/computer), so led with that and dropped the filming/engine senses.",
+  "chosen": "power on / boot up a device",
+  "alternatives": [
+   "begin shooting a film",
+   "start an engine"
+  ]
+ },
+ {
+  "hanzi": "药水",
+  "reason": "cedict lists a North Korean place name (Yaksu) first, but for an HSK-2 learner the everyday common-noun sense is the right primary meaning.",
+  "chosen": "liquid medicine / lotion",
+  "alternatives": [
+   "Yaksu (place name in North Korea)"
+  ]
+ },
+ {
+  "hanzi": "中医",
+  "reason": "Spans both the discipline (TCM) and a practitioner; the field sense is more fundamental for a beginner and parallels 西医.",
+  "chosen": "Chinese (traditional) medicine, the field",
+  "alternatives": [
+   "a doctor of Chinese medicine"
+  ]
+ },
+ {
+  "hanzi": "西医",
+  "reason": "Spans the field (Western medicine) and a Western-trained doctor; chose the field sense to parallel 中医 in the same batch.",
+  "chosen": "Western medicine, the field",
+  "alternatives": [
+   "a Western-trained doctor"
+  ]
+ },
+ {
+  "hanzi": "读音",
+  "reason": "Cedict gives both general 'pronunciation' and a narrow 'literary pronunciation' technical sense; for HSK2 the learner needs the everyday general meaning.",
+  "chosen": "pronunciation (general, how a character/word is read aloud)",
+  "alternatives": [
+   "literary (vs. colloquial) pronunciation of a character"
+  ]
+ },
+ {
+  "hanzi": "快点儿",
+  "reason": "Listed in cedict only as an erhua variant; in real use it is an imperative urging ('hurry up') rather than a neutral adverb, so the gloss leads with that primary spoken sense.",
+  "chosen": "hurry up! / do it faster (imperative)",
+  "alternatives": [
+   "neutral adverb 'a bit faster'"
+  ]
+ },
+ {
+  "hanzi": "张",
+  "reason": "Highly polysemous (surname, to open/spread, classifier). At HSK3 the classifier for flat objects (sheets of paper, photos, tables, beds) is the core learner sense.",
+  "chosen": "classifier for flat objects (sheets)",
+  "alternatives": [
+   "surname Zhang",
+   "to open up / to spread"
+  ]
+ },
+ {
+  "hanzi": "亲",
+  "reason": "Spans kin/relative, intimate, in-person, and 'to kiss', plus internet-slang 'dear'. For HSK3 the family/relative sense plus the common verb 'to kiss' best triangulate the character.",
+  "chosen": "kin/relative; to kiss",
+  "alternatives": [
+   "intimate; close",
+   "in person; first-hand",
+   "(net slang) dear"
+  ]
+ },
+ {
+  "hanzi": "照",
+  "reason": "Senses range over to shine/illuminate, according to, to reflect, and to take a photo. Picked shine + take-photo as the two most needed everyday senses at this level.",
+  "chosen": "to shine; to take a photo",
+  "alternatives": [
+   "according to; in accordance with",
+   "to reflect / look at reflection"
+  ]
+ },
+ {
+  "hanzi": "整",
+  "reason": "Bound form covering whole/entire/exactly vs. tidy/in order vs. colloquial 'to fix/mess with sb'. Chose the numeric 'whole; exactly' sense most useful at HSK3.",
+  "chosen": "whole; exactly",
+  "alternatives": [
+   "tidy; in good order",
+   "(coll.) to fix/mess with sb"
+  ]
+ },
+ {
+  "hanzi": "空",
+  "reason": "Two readings: kōng (empty/sky) and kòng (free time/vacancy). Input gives kōng; chose empty/sky as primary, leaving 'free time' (kòng) aside.",
+  "chosen": "empty; sky (kōng)",
+  "alternatives": [
+   "free time; leisure (kòng)",
+   "in vain"
+  ]
+ },
+ {
+  "hanzi": "调",
+  "reason": "Read diào with several distinct senses; chose the transfer/tone/tune cluster typical for HSK-3 diào reading rather than the tiáo reading (to adjust/blend/season).",
+  "chosen": "to transfer; tone/key; tune (diào reading)",
+  "alternatives": [
+   "tiáo: to adjust; to mix; to season",
+   "to investigate",
+   "accent; argument"
+  ]
+ },
+ {
+  "hanzi": "代",
+  "reason": "Spans verb 'replace/act on behalf of' and noun 'generation/era'; both are core HSK-3 senses, so kept a compact pairing rather than dropping one.",
+  "chosen": "to replace; generation/era",
+  "alternatives": [
+   "to act on behalf of",
+   "dynasty",
+   "historical/geological period"
+  ]
+ },
+ {
+  "hanzi": "证",
+  "reason": "Both the everyday noun 'certificate/ID' and the verb 'to prove' are needed; led with the noun sense most salient to learners (e.g. 身份证).",
+  "chosen": "certificate; to prove",
+  "alternatives": [
+   "proof",
+   "to demonstrate; to confirm"
+  ]
+ },
+ {
+  "hanzi": "准",
+  "reason": "Adjective 'accurate' and verb 'to allow/permit' are both common; led with the high-frequency adjective sense (准时, 准确).",
+  "chosen": "accurate; to allow",
+  "alternatives": [
+   "standard",
+   "definitely; certainly",
+   "quasi-/para-"
+  ]
+ },
+ {
+  "hanzi": "保",
+  "reason": "Bound morpheme with senses protect/guarantee; dropped the Bulgaria abbreviation and old administrative sense as irrelevant at HSK-3.",
+  "chosen": "to protect; to guarantee",
+  "alternatives": [
+   "Bulgaria (abbr.)",
+   "baojia administrative unit (old)"
+  ]
+ },
+ {
+  "hanzi": "胜",
+  "reason": "cedict spans victory/to surpass/superb scenery; for HSK3 the core sense is winning a contest, which a learner meets first.",
+  "chosen": "to win; victory",
+  "alternatives": [
+   "to surpass; better than",
+   "superb scenery; beautiful view"
+  ]
+ },
+ {
+  "hanzi": "板",
+  "reason": "many senses (board, table-tennis bat, beat in music, stiff, boss in 老板); the standalone HSK3 sense is the physical board/plank.",
+  "chosen": "board; plank",
+  "alternatives": [
+   "table tennis bat",
+   "stiff; serious",
+   "boss (in 老板)"
+  ]
+ },
+ {
+  "hanzi": "付",
+  "reason": "surname / classifier / to pay / hand over; the functional HSK3 sense is paying money.",
+  "chosen": "to pay; hand over",
+  "alternatives": [
+   "classifier for pairs/sets",
+   "surname Fu"
+  ]
+ },
+ {
+  "hanzi": "迷",
+  "reason": "verb 'to bewilder/be lost' vs noun 'fan/enthusiast'; the high-frequency HSK3 usage (足球迷 etc.) is the noun 'fan'.",
+  "chosen": "fan; enthusiast",
+  "alternatives": [
+   "to bewilder; confused",
+   "lost; obsessed"
+  ]
+ },
+ {
+  "hanzi": "烟",
+  "reason": "smoke/mist vs cigarette/tobacco; both common, led with concrete 'smoke' plus 'cigarette' to cover the daily sense.",
+  "chosen": "smoke; cigarette",
+  "alternatives": [
+   "mist; vapour",
+   "tobacco"
+  ]
+ },
+ {
+  "hanzi": "生意",
+  "reason": "literal 'life force/vitality' vs everyday 'business'; HSK3 learners need the commercial sense.",
+  "chosen": "business; trade",
+  "alternatives": [
+   "life force; vitality"
+  ]
+ },
+ {
+  "hanzi": "赶",
+  "reason": "to overtake / hurry / drive (cattle) / by (a time); the primary HSK3 sense is hurrying to catch something.",
+  "chosen": "to hurry; catch up",
+  "alternatives": [
+   "to drive (cattle) forward",
+   "to drive away",
+   "by (a certain time)"
+  ]
+ },
+ {
+  "hanzi": "游",
+  "reason": "cedict lists swim, tour, roam, travel; at HSK3 the primary sense learners need is 'to swim' (游泳)",
+  "chosen": "to swim",
+  "alternatives": [
+   "to tour/travel",
+   "to roam"
+  ]
+ },
+ {
+  "hanzi": "铁",
+  "reason": "core noun sense 'iron (metal)' is the level-appropriate primary; figurative 'hard/unshakeable/tight(slang)' set aside",
+  "chosen": "iron (metal)",
+  "alternatives": [
+   "hard; unshakeable",
+   "tight (slang)"
+  ]
+ },
+ {
+  "hanzi": "录",
+  "reason": "verb 'to record' is the productive modern sense (录音/录像/记录); 'diary/record' noun and archaic 'carve wood' set aside",
+  "chosen": "to record",
+  "alternatives": [
+   "record; diary (noun)",
+   "to copy"
+  ]
+ },
+ {
+  "hanzi": "土",
+  "reason": "primary concrete sense at HSK3 is 'soil/earth'; figurative 'local/unsophisticated(crude)' and 'crude opium' set aside",
+  "chosen": "soil; earth",
+  "alternatives": [
+   "local; rustic; unsophisticated",
+   "dust; clay"
+  ]
+ },
+ {
+  "hanzi": "造",
+  "reason": "primary sense 'to make/build/manufacture'; legal 'party' and 'crop/classifier' senses set aside as specialist",
+  "chosen": "to make; to build",
+  "alternatives": [
+   "to invent; fabricate",
+   "party (legal); crop"
+  ]
+ },
+ {
+  "hanzi": "环",
+  "reason": "concrete 'ring/loop/link' is the level-appropriate noun; verbal 'to surround/encircle' and archery classifier set aside",
+  "chosen": "ring; loop",
+  "alternatives": [
+   "to surround; encircle",
+   "(scoring) classifier"
+  ]
+ },
+ {
+  "hanzi": "齐",
+  "reason": "Surname/dynasty-name senses and verbal 'even sth out' set aside; at HSK3 the core adjectival sense 'neat/even/all together' is what a learner needs.",
+  "chosen": "neat; even; all together",
+  "alternatives": [
+   "surname Qi; state/dynasty Qi",
+   "to even sth out (verb)"
+  ]
+ },
+ {
+  "hanzi": "围",
+  "reason": "Surname set aside; 'encircle/surround' is the primary verb, with 'wrap around (scarf)' kept as a close concrete sense since it is common at this level.",
+  "chosen": "to surround; wrap around",
+  "alternatives": [
+   "surname Wei",
+   "all around (adv)"
+  ]
+ },
+ {
+  "hanzi": "福",
+  "reason": "Surname and Fujian-province abbreviation set aside; the standalone-character sense 'good fortune/luck' is the learner-relevant one.",
+  "chosen": "good fortune; luck",
+  "alternatives": [
+   "surname Fu",
+   "abbr. Fujian province"
+  ]
+ },
+ {
+  "hanzi": "争",
+  "reason": "Literary 'how/what' and dialect 'lacking' set aside; the two living modern senses 'strive/vie for' and 'argue/debate' are kept together.",
+  "chosen": "to strive for; argue",
+  "alternatives": [
+   "how/what (literary)",
+   "deficient/lacking (dialect)"
+  ]
+ },
+ {
+  "hanzi": "订",
+  "reason": "Senses 'agree/conclude/draw up' set aside as more formal/legal; for a learner the everyday 'order; subscribe' senses are primary.",
+  "chosen": "to order; subscribe",
+  "alternatives": [
+   "to conclude/draw up (an agreement)"
+  ]
+ },
+ {
+  "hanzi": "保安",
+  "reason": "Bonan ethnic-group sense and the abstract verb 'ensure public security' set aside; concrete noun 'security guard / security' is the practical sense.",
+  "chosen": "security guard; security",
+  "alternatives": [
+   "to ensure public security (verb)",
+   "Bonan ethnic group"
+  ]
+ },
+ {
+  "hanzi": "得分",
+  "reason": "Spans the verbal 'to score (a point)' and the nominal 'score/rating/grade'. At HSK3 the sports/test-scoring verb sense plus its noun 'score' is the primary need; chose to cover both since they share the core sense.",
+  "chosen": "to score; score (points in a game/test)",
+  "alternatives": [
+   "rating; grade (评分-style score)"
+  ]
+ },
+ {
+  "hanzi": "上来",
+  "reason": "Has a literal directional 'come up/approach' sense and an abstract verb-complement use indicating success. At HSK3 the concrete directional motion sense is what learners need.",
+  "chosen": "to come up (toward speaker)",
+  "alternatives": [
+   "verb complement indicating success (答上来 etc.)"
+  ]
+ },
+ {
+  "hanzi": "头脑",
+  "reason": "cedict spans 'brains/mind' and figurative 'leader/boss'. At HSK3 the learner needs the literal 'mind/brains' sense, which is far more frequent in everyday usage.",
+  "chosen": "ум; рассудок (brains/mind)",
+  "alternatives": [
+   "leader; boss",
+   "gist of a matter"
+  ]
+ },
+ {
+  "hanzi": "通信",
+  "reason": "Senses split between 'to correspond (by letter)' and modern technical 'telecommunication'. Chose the broad 'communication/correspondence' sense covering both; ru notes 'переписка' for the letter sense.",
+  "chosen": "communication / correspondence",
+  "alternatives": [
+   "to correspond by letter only",
+   "telecommunications (technical)"
+  ]
+ },
+ {
+  "hanzi": "巧",
+  "reason": "cedict spans two distinct sense-clusters: adverbial 'coincidentally/opportunely' and adjectival 'skillful/clever'. At HSK-3 the adverbial 'as it happens / by coincidence' sense (e.g. 正巧, 碰巧) is what learners meet first, but 'skillful' (灵巧, 巧手) is common too, so I kept both in the gloss with the coincidental sense primary.",
+  "chosen": "как раз; кстати (coincidentally / opportunely)",
+  "alternatives": [
+   "ловкий; искусный (skillful)"
+  ]
+ },
+ {
+  "hanzi": "排名",
+  "reason": "Can be a noun ('ranking, place in a list') or a verb ('to rank Nth'). Noun sense is the more frequent learner-facing meaning, so primary; verb sense appended.",
+  "chosen": "рейтинг; место в списке (noun: ranking)",
+  "alternatives": [
+   "занимать место; ранжировать (verb: to rank)"
+  ]
+ },
+ {
+  "hanzi": "全场",
+  "reason": "Spans 'everyone present/whole audience' and 'whole duration of a match'. At HSK3 the spatial/people sense (everyone in the venue) is the more learnable primary; kept duration aside.",
+  "chosen": "весь зал; все присутствующие (whole audience / all present)",
+  "alternatives": [
+   "whole duration of a match",
+   "across-the-board; unanimously"
+  ]
+ },
+ {
+  "hanzi": "前后",
+  "reason": "Multiple senses: approximate time ('around'), 'from beginning to end', and spatial 'front and rear'. The approximate-time/extent sense is most common in HSK3 usage; spatial front-rear kept as secondary.",
+  "chosen": "примерно; от начала до конца (around; from start to end)",
+  "alternatives": [
+   "front and rear (spatial)",
+   "all around"
+  ]
+ },
+ {
+  "hanzi": "底下",
+  "reason": "cedict lists 'location below' and 'afterwards'. Spatial 'below/underneath' is the dominant and level-appropriate sense; temporal 'afterwards' set aside.",
+  "chosen": "внизу; под (below; underneath)",
+  "alternatives": [
+   "afterwards (temporal)"
+  ]
+ },
+ {
+  "hanzi": "牌子",
+  "reason": "Means both 'sign/plate' and 'brand/trademark'. The 'brand' sense is the more frequent everyday usage; kept 'sign' as secondary in the gloss.",
+  "chosen": "марка; бренд (brand) with табличка/sign secondary",
+  "alternatives": [
+   "sign; plate"
+  ]
+ },
+ {
+  "hanzi": "可乐",
+  "reason": "Adjective sense 'amusing/funny' vs loanword noun 'cola'. At HSK3 with everyday vocabulary, the drink 'cola' is the sense a learner needs and recognizes.",
+  "chosen": "cola (drink)",
+  "alternatives": [
+   "amusing; entertaining (adj.)"
+  ]
+ },
+ {
+  "hanzi": "解开",
+  "reason": "Spans literal 'to untie/undo' and figurative 'to solve (a mystery)'. Kept both close senses since they triangulate the core 'open up/loosen' meaning; literal listed first as primary for this level.",
+  "chosen": "to untie; to solve",
+  "alternatives": [
+   "to undo; to unfasten"
+  ]
+ },
+ {
+  "hanzi": "志愿",
+  "reason": "cedict spans noun (aspiration/ambition) and verb (to volunteer). At HSK-3 the noun sense 'aspiration/wish' is primary (e.g. 志愿 as personal aspiration, also 高考志愿 for school choices), but the volunteer verb sense is common too; kept both glosses with noun first.",
+  "chosen": "aspiration / to volunteer",
+  "alternatives": [
+   "волонтёрить (verb only)",
+   "честолюбие; амбиции"
+  ]
+ },
+ {
+  "hanzi": "推开",
+  "reason": "literal 'push open (a door)' vs figurative 'reject/decline'. The literal physical sense is the primary one a learner needs at HSK-3; included the closely related 'push away'.",
+  "chosen": "push open; push away",
+  "alternatives": [
+   "отвергнуть; отклонить (reject/decline)"
+  ]
+ },
+ {
+  "hanzi": "分组",
+  "reason": "Spans a verb sense (to divide into groups) and noun senses (subgroup; networking packet). For HSK 3 the everyday verb/action sense 'divide into groups' is the primary one a learner needs; the technical 'packet' sense is specialist.",
+  "chosen": "to divide into groups; subgroup",
+  "alternatives": [
+   "subgroup (noun)",
+   "(networking) packet"
+  ]
+ },
+ {
+  "hanzi": "所长",
+  "reason": "Two readings: suǒcháng = one's strong point / what one is good at; suǒzhǎng = head of an institute. The institutional-title reading (suǒzhǎng) is the more concrete, frequent learner sense and matches the occupation framing; chose it and set pinyin accordingly.",
+  "chosen": "head of an institute (suǒzhǎng)",
+  "alternatives": [
+   "one's strong point (suǒcháng)"
+  ]
+ },
+ {
+  "hanzi": "初一",
+  "reason": "Spans lunar-calendar first day vs. junior-middle-school grade 7. Chose the lunar-month/New Year sense as the primary one a learner meets first, especially given 年初/date context; the school-grade sense is set aside.",
+  "chosen": "first day of lunar month; lunar New Year's Day",
+  "alternatives": [
+   "first year of junior middle school (grade 7)"
+  ]
+ },
+ {
+  "hanzi": "老头儿",
+  "reason": "Cedict only redirects to 老头子. Authored the underlying sense directly: a colloquial term for an old man (can be affectionate or dismissive). Marked register as coll.",
+  "chosen": "old man (colloquial)",
+  "alternatives": [
+   "old fellow / one's husband (jocular)"
+  ]
+ },
+ {
+  "hanzi": "妻子",
+  "reason": "cedict lists 'wife and children' (qīzǐ) and 'wife' (qīzi). At HSK4 the standard sense is 'wife' (read qīzi). Chose 'wife' as the primary learner sense; the literary 'wife and children' reading is set aside.",
+  "chosen": "wife",
+  "alternatives": [
+   "wife and children (literary, qīzǐ)"
+  ]
+ },
+ {
+  "hanzi": "首",
+  "reason": "Multi-sense bound morpheme: 'head/chief', 'first', and a classifier for poems/songs. At HSK4 the classifier use (一首歌) plus 'first/chief' is most needed; packed both into the label.",
+  "chosen": "head/chief/first; classifier for songs & poems",
+  "alternatives": [
+   "only 'head/chief'",
+   "only classifier for songs/poems"
+  ]
+ },
+ {
+  "hanzi": "局",
+  "reason": "Spans 'office/bureau', 'situation/state', and classifier for games. Picked the two most useful HSK4 senses (bureau, situation) plus the classifier; dropped 'narrow/cramped'.",
+  "chosen": "office/bureau; situation; classifier for games",
+  "alternatives": [
+   "only 'bureau/office'",
+   "only 'situation'",
+   "'narrow; cramped'"
+  ]
+ },
+ {
+  "hanzi": "轮",
+  "reason": "Spans 'wheel', 'to take turns', and classifier for rounds/recurring events. Chose wheel + take-turns + round classifier as the core HSK4 senses; dropped 'steamship'.",
+  "chosen": "wheel; take turns; classifier round",
+  "alternatives": [
+   "only 'wheel'",
+   "only 'to take turns'",
+   "'steamship'"
+  ]
+ },
+ {
+  "hanzi": "盘",
+  "reason": "Spans 'plate/tray/dish', verb 'to coil/check', finance 'market', and a classifier. Chose the concrete primary noun 'plate/tray/dish' plus its classifier use for HSK4; set aside the verb and finance senses.",
+  "chosen": "plate/tray/dish; classifier for dishes",
+  "alternatives": [
+   "'to coil; to check'",
+   "finance 'market/prices'",
+   "'hard drive'"
+  ]
+ },
+ {
+  "hanzi": "怪",
+  "reason": "Spans adjective 'strange/odd', verb 'to blame', and colloquial 'rather/quite'. Chose 'strange' + 'to blame' as the two core HSK4 senses; dropped the degree-adverb 'quite/rather'.",
+  "chosen": "strange; to blame",
+  "alternatives": [
+   "only 'strange/odd'",
+   "'monster/supernatural being'",
+   "'quite; rather' (coll.)"
+  ]
+ },
+ {
+  "hanzi": "牌",
+  "reason": "cedict spans signboard/plate, brand, and playing/mahjong tile. At HSK4 the most useful everyday senses are 'card' (扑克牌) and 'sign/plate'; 'brand' (品牌) is also common, so glossed all three.",
+  "chosen": "card; sign; brand (карта; табличка; марка)",
+  "alternatives": [
+   "mahjong tile / domino",
+   "medal",
+   "tablet/plaque only"
+  ]
+ },
+ {
+  "hanzi": "落",
+  "reason": "This entry is the là reading (colloquial), whose primary sense is 'to leave out / forget to bring / lag behind' — distinct from the luò reading (to fall/drop). Glossed per the given pinyin.",
+  "chosen": "to leave out; miss; lag behind (the là reading)",
+  "alternatives": [
+   "to fall; drop (luò reading)",
+   "to set (of sun); decline"
+  ]
+ },
+ {
+  "hanzi": "抽",
+  "reason": "Many senses (draw out, smoke, shrink, sprout, whip). Primary HSK4 senses are 'to pull/draw out' and 'to smoke (cigarette)' — the two highest-frequency learner uses.",
+  "chosen": "to pull out; to smoke",
+  "alternatives": [
+   "to whip/thrash",
+   "to sprout/bud",
+   "to shrink (fabric)"
+  ]
+ },
+ {
+  "hanzi": "色",
+  "reason": "cedict lists color, look/appearance, and sex/erotic. At HSK4 the core sense is 'color'; the 'sex/erotic' sense is more advanced/register-marked, so set aside.",
+  "chosen": "color (цвет)",
+  "alternatives": [
+   "look; appearance; expression",
+   "sex; erotic (色情)"
+  ]
+ },
+ {
+  "hanzi": "编",
+  "reason": "Senses split between 'weave/plait', 'edit/compile/compose', and 'fabricate/make up'. Chose the compile/weave/invent cluster as primary; all three are common at HSK4.",
+  "chosen": "to compile; weave; make up",
+  "alternatives": [
+   "to edit only",
+   "to fabricate/lie only",
+   "to organize/arrange (into groups)"
+  ]
+ },
+ {
+  "hanzi": "宝宝",
+  "reason": "Means literal 'baby' and the affectionate 'darling/sweetie' term of endearment. Both common; glossed both, baby first as the core sense.",
+  "chosen": "baby; darling",
+  "alternatives": [
+   "darling/sweetie (term of endearment) only"
+  ]
+ },
+ {
+  "hanzi": "结",
+  "reason": "Pinyin is jiē (not jié), and at this reading the verb 'to tie/bear fruit' senses dominate; chose the core verb 'tie/knot' as most learnable primary, since the bound 'bear fruit' sense is narrower.",
+  "chosen": "to tie; knot",
+  "alternatives": [
+   "to bear fruit (of a plant)",
+   "to check out (of a hotel)",
+   "bond"
+  ]
+ },
+ {
+  "hanzi": "透",
+  "reason": "Spans 'penetrate/seep through', 'thoroughly (resultative complement)', and 'leak (a secret)'; chose the literal 'penetrate' + adverbial 'thoroughly' since both are the high-frequency HSK4 uses.",
+  "chosen": "penetrate; thoroughly",
+  "alternatives": [
+   "to leak (a secret)",
+   "to appear; to show"
+  ]
+ },
+ {
+  "hanzi": "治",
+  "reason": "Two main HSK4 senses: medical 'to treat (a disease)' and political 'to govern/rule'; both common and distinct, so glossed both rather than forcing one.",
+  "chosen": "to treat; to govern",
+  "alternatives": [
+   "to manage; to control",
+   "to harness (a river)",
+   "to punish"
+  ]
+ },
+ {
+  "hanzi": "闹",
+  "reason": "Many senses (noisy, make trouble, fall ill, joke); chose the central 'make noise/make a fuss' which underlies the verb's everyday use.",
+  "chosen": "to make noise; to fuss",
+  "alternatives": [
+   "to fall ill; have an attack",
+   "to vent (feelings)",
+   "to joke"
+  ]
+ },
+ {
+  "hanzi": "列",
+  "reason": "Both nominal 'row/series/column' and verbal 'arrange/list' are core; picked 'row; to list' as the most representative pairing for a learner.",
+  "chosen": "row; to list",
+  "alternatives": [
+   "to arrange; line up",
+   "column (in tables)",
+   "series"
+  ]
+ },
+ {
+  "hanzi": "户",
+  "reason": "Functions both as 'household/family' and as a measure word for households; included the measure-word note since it is a frequent HSK4 usage.",
+  "chosen": "household; door",
+  "alternatives": [
+   "measure word for households",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "归",
+  "reason": "Senses 'return/go back' and 'belong to / be attributed to' are both high-frequency at HSK4; glossed both.",
+  "chosen": "to return; belong to",
+  "alternatives": [
+   "to give back",
+   "to gather together"
+  ]
+ },
+ {
+  "hanzi": "肥",
+  "reason": "Spans 'fat (of person/animal)', 'fertile (soil)', and 'loose-fitting (clothes)'. At HSK4 the core sense a learner needs is the adjective 'fat/plump'; the 'loose-fitting clothes' and 'fertile' senses are secondary.",
+  "chosen": "fat; plump (adjective)",
+  "alternatives": [
+   "fertile (soil)",
+   "loose-fitting (clothes)",
+   "fertilizer/manure"
+  ]
+ },
+ {
+  "hanzi": "松",
+  "reason": "Two main senses: 'pine tree' (noun) and 'loose/to loosen/relax' (adj/verb). HSK4 prioritizes the loose/loosen sense (e.g. 放松 relax), so chose that over the pine-tree noun.",
+  "chosen": "loose; to loosen",
+  "alternatives": [
+   "pine tree",
+   "meat floss (food)",
+   "to relax"
+  ]
+ },
+ {
+  "hanzi": "守",
+  "reason": "Spans 'to guard/defend' and 'to abide by/observe (rules)'. Both common at this level; chose to pair them since they share the core notion, leading with guard/defend.",
+  "chosen": "to guard; to abide by",
+  "alternatives": [
+   "to keep watch",
+   "to observe (rules)"
+  ]
+ },
+ {
+  "hanzi": "降",
+  "reason": "Reads jiàng = 'to drop/fall/lower' but also 'to surrender/subdue' (and xiáng for surrender). HSK4 needs the 'lower/descend/drop' sense (cf. 下降, 降落), so set aside the surrender sense.",
+  "chosen": "to lower; to descend",
+  "alternatives": [
+   "to surrender; capitulate",
+   "to subdue; tame"
+  ]
+ },
+ {
+  "hanzi": "登",
+  "reason": "Spans 'to climb/ascend (登山)' and 'to publish/record/enter (登记, 登报)'. The physical climb sense is the primary HSK4 meaning; set aside the publish/register sense.",
+  "chosen": "to climb; to ascend",
+  "alternatives": [
+   "to publish; to record",
+   "to enter (in a register)"
+  ]
+ },
+ {
+  "hanzi": "引",
+  "reason": "Many senses: pull/draw, attract, lead/guide, cite. Bundled the three most useful HSK4 senses (pull, attract, lead) as close senses.",
+  "chosen": "to pull; to attract; to lead",
+  "alternatives": [
+   "to cite; quote",
+   "to draw (a bow)",
+   "to extend"
+  ]
+ },
+ {
+  "hanzi": "闪",
+  "reason": "Verb with many senses; at HSK4 the core senses are dodging out of the way and a sudden flash/sparkle (lightning). Chose these two; set aside surname Shan, sprain/pull a muscle, and internet-slang saccharine.",
+  "chosen": "to dodge; to flash",
+  "alternatives": [
+   "lightning; spark",
+   "to sprain/pull a muscle",
+   "(internet slang) cloyingly sweet"
+  ]
+ },
+ {
+  "hanzi": "散",
+  "pinyin": "sàn",
+  "reason": "Read as sàn (4th tone) per input. Primary intransitive sense at this level is to scatter/disperse/break up. Set aside the sǎn readings (loose, scattered, powdered medicine) and coll. 'to sack'.",
+  "chosen": "to scatter; disperse",
+  "alternatives": [
+   "loose; scattered (sǎn)",
+   "powdered medicine (sǎn)",
+   "(coll.) to sack"
+  ]
+ },
+ {
+  "hanzi": "划",
+  "reason": "Two readings: huá (row, scratch, strike a match, worthwhile) and huà (delimit, plan, transfer, stroke). Input pinyin is huá, so chose row/scratch. Set aside the huà senses and 'worth it'.",
+  "chosen": "to row; to scratch",
+  "alternatives": [
+   "worth it; profitable",
+   "to plan; delimit (huà)",
+   "to transfer/assign (huà)"
+  ]
+ },
+ {
+  "hanzi": "针",
+  "reason": "Concrete noun with sewing-needle, pin, and medical-injection senses. Kept needle + injection as the two most useful at HSK4; set aside pin and stitch.",
+  "chosen": "needle; injection",
+  "alternatives": [
+   "pin",
+   "stitch"
+  ]
+ },
+ {
+  "hanzi": "密",
+  "reason": "cedict spans 'dense/thick', 'close/intimate', and bound-form 'secret/confidential' plus internet slang 'to DM'. At HSK4 the learner needs the common adjectival senses; chose 'dense; secret' as the two anchoring senses.",
+  "chosen": "густой; тайный (dense; secret)",
+  "alternatives": [
+   "close; intimate (близкий)",
+   "to DM / private message (slang)",
+   "surname Mi"
+  ]
+ },
+ {
+  "hanzi": "大众",
+  "reason": "cedict lists 'Volkswagen' as a proper noun plus 'the masses / popular'. For a general vocab card the common-noun sense is correct, not the brand name.",
+  "chosen": "массы; широкая публика (the masses; public)",
+  "alternatives": [
+   "Volkswagen (brand)",
+   "popular (популярный)"
+  ]
+ },
+ {
+  "hanzi": "大哥",
+  "reason": "means literal 'eldest brother' but also a polite address for a peer man and 'gang leader/boss'. At HSK4 the kinship sense is primary.",
+  "chosen": "старший брат (eldest brother)",
+  "alternatives": [
+   "polite address for a man",
+   "gang leader; boss"
+  ]
+ },
+ {
+  "hanzi": "隔",
+  "reason": "spans physical 'separate/partition' and temporal/spatial 'at an interval of'. Kept both core senses since both are frequent for this verb.",
+  "chosen": "отделять; через интервал (to separate; at interval)",
+  "alternatives": [
+   "to partition (перегородить)",
+   "at a distance from (на расстоянии)"
+  ]
+ },
+ {
+  "hanzi": "末",
+  "reason": "Several senses (tip/end, latter part, powder/dust, opera role). At HSK4 the learner needs the temporal/positional 'end; last' sense (e.g. 周末, 末尾).",
+  "chosen": "end; last (final part)",
+  "alternatives": [
+   "powder; dust",
+   "tip",
+   "opera role of old man"
+  ]
+ },
+ {
+  "hanzi": "细",
+  "reason": "Spans physical thinness and metaphorical 'fine/delicate/detailed'. Primary HSK4 sense is physical 'thin/slender; fine'.",
+  "chosen": "thin; fine (physical)",
+  "alternatives": [
+   "detailed; meticulous",
+   "frugal",
+   "quiet (of sound)"
+  ]
+ },
+ {
+  "hanzi": "堵",
+  "reason": "Senses: block up generally, traffic jam (堵车), choked-up emotion, literary 'wall', classifier. The everyday HSK4 use is blocking/traffic jam.",
+  "chosen": "to block up; traffic jam",
+  "alternatives": [
+   "choked up with anxiety (fig.)",
+   "wall (literary)",
+   "classifier for walls"
+  ]
+ },
+ {
+  "hanzi": "沉",
+  "reason": "Verb 'to sink/submerge' vs adjective 'heavy/deep'. Both common; chose verb 'sink' as primary with adjective 'heavy' as second sense to triangulate.",
+  "chosen": "to sink; heavy",
+  "alternatives": [
+   "deep; profound",
+   "to keep down; lower"
+  ]
+ },
+ {
+  "hanzi": "尺",
+  "reason": "Input pinyin 'chě' is the gōngchě-notation musical-note reading, a rare specialized sense. The HSK-4 learner needs the everyday reading chǐ = the unit of length / ruler, which is the dominant primary sense; corrected pinyin accordingly.",
+  "chosen": "chǐ: unit of length (~1/3 m); ruler",
+  "alternatives": [
+   "chě: musical note in gongche notation",
+   "acupoint for pulse measurement"
+  ]
+ },
+ {
+  "hanzi": "伙",
+  "reason": "cedict spans meals (伙食), companion/partner, group, and classifier. Chose the social 'group/partner/companion' sense as primary for the learner over the 'meals' abbreviation and the classifier function.",
+  "chosen": "companion; partner; group",
+  "alternatives": [
+   "meals (abbr. 伙食)",
+   "classifier for groups of people",
+   "to combine; together"
+  ]
+ },
+ {
+  "hanzi": "粗",
+  "reason": "cedict gives several senses: physically thick/wide (cylindrical), granular-coarse, gruff voice, and rude manner. Chose physical 'thick' + 'coarse/rough' as the primary concrete sense for HSK-4, with 'rude' as a secondary note via 'rough'.",
+  "chosen": "thick (of long objects); coarse, rough",
+  "alternatives": [
+   "coarse (granular)",
+   "gruff (voice)",
+   "rude; crude (manner)"
+  ]
+ },
+ {
+  "hanzi": "败",
+  "reason": "cedict gives both transitive 'to defeat (someone)' and intransitive 'to lose/fail'. For a learner the more common and safer primary sense is intransitive 'to be defeated; to fail'; transitive 'defeat sb' set aside.",
+  "chosen": "to be defeated; to fail",
+  "alternatives": [
+   "to defeat (an opponent)",
+   "to wither; spoil"
+  ]
+ },
+ {
+  "hanzi": "嘴巴",
+  "reason": "cedict lists 'mouth' and 'slap in the face'; for HSK4 the learner needs the body-part sense.",
+  "chosen": "rot / mouth (body part)",
+  "alternatives": [
+   "slap in the face (пощёчина)"
+  ]
+ },
+ {
+  "hanzi": "扫",
+  "reason": "Multiple senses (sweep, sweep away, scan). Primary HSK4 sense is the literal 'to sweep'.",
+  "chosen": "to sweep (with a broom)",
+  "alternatives": [
+   "to scan / sweep eyes over",
+   "to sweep away / wipe out"
+  ]
+ },
+ {
+  "hanzi": "江",
+  "reason": "cedict gives surname Jiang plus 'river/Yangtze'. As a vocabulary card the common-noun sense 'river (large)' is the right primary.",
+  "chosen": "river / large river",
+  "alternatives": [
+   "surname Jiang",
+   "Yangtze River"
+  ]
+ },
+ {
+  "hanzi": "灯光",
+  "reason": "Senses span '(stage) lighting' and general 'light/lamplight'. Chose the general everyday sense over the theatre-specific one.",
+  "chosen": "lighting / lamplight",
+  "alternatives": [
+   "stage lighting"
+  ]
+ },
+ {
+  "hanzi": "招呼",
+  "reason": "Multiple senses; at HSK4 the everyday meaning a learner needs is greeting/calling out, not the secondary 'to inform/take care of' senses.",
+  "chosen": "to greet; call out",
+  "alternatives": [
+   "to inform",
+   "to take care of"
+  ]
+ },
+ {
+  "hanzi": "潮",
+  "reason": "Span of senses (tide / damp / trendy / coll. inferior). 'Damp, moist' is the primary adjectival sense at HSK4 (e.g. 潮湿); 'tide' is a noun sense and 'trendy/inferior' are colloquial.",
+  "chosen": "damp; moist",
+  "alternatives": [
+   "tide",
+   "fashionable; trendy",
+   "(coll.) inferior; substandard"
+  ]
+ },
+ {
+  "hanzi": "打败",
+  "reason": "Resultative with two readings (to defeat / to be defeated). Active 'to defeat' is the primary, more frequent learner sense.",
+  "chosen": "to defeat",
+  "alternatives": [
+   "to be defeated"
+  ]
+ },
+ {
+  "hanzi": "汇",
+  "reason": "Bound form with several senses (remit, converge, exchange, collect). At HSK4 the most useful primary sense for a learner is the money/remittance sense, common in 汇款/汇率.",
+  "chosen": "to remit money",
+  "alternatives": [
+   "to converge (of rivers)",
+   "to gather/collect",
+   "to exchange"
+  ]
+ },
+ {
+  "hanzi": "上门",
+  "reason": "Cedict lists visit/lock door/marry into wife's family; the dominant modern sense is visiting or coming to one's home (e.g. 上门服务).",
+  "chosen": "to visit; call at home",
+  "alternatives": [
+   "to lock a door",
+   "to marry into wife's family"
+  ]
+ },
+ {
+  "hanzi": "严",
+  "reason": "Single char spanning surname Yan, tight/sealed, and strict/stern. The HSK4 adjective sense is strict/severe.",
+  "chosen": "strict; stern",
+  "alternatives": [
+   "tight (sealed)",
+   "surname Yan"
+  ]
+ },
+ {
+  "hanzi": "拉开",
+  "reason": "Means pull open/apart and also widen a gap/increase distance. Primary literal sense for the level is pulling open/apart, with the gap-widening sense noted.",
+  "chosen": "to pull open; widen gap",
+  "alternatives": [
+   "to increase (a gap)",
+   "to space out"
+  ]
+ },
+ {
+  "hanzi": "鲜",
+  "reason": "cedict lists xiǎn (few/rare) and xiān (fresh); at HSK 4 the productive sense is xiān 'fresh', the reading learners need.",
+  "chosen": "fresh (xiān)",
+  "alternatives": [
+   "few; rare (xiǎn)",
+   "delicious; tasty",
+   "aquatic foods"
+  ]
+ },
+ {
+  "hanzi": "瓜",
+  "reason": "Primary literal sense is the melon/gourd family; the slang 'piece of gossip' sense is set aside as non-primary for HSK 4.",
+  "chosen": "melon; gourd",
+  "alternatives": [
+   "(slang) piece of gossip"
+  ]
+ },
+ {
+  "hanzi": "语音",
+  "reason": "Spans linguistic 'pronunciation/speech sounds' and tech 'voice message/voice chat'. Chose pronunciation as primary with voice-message as common modern second sense.",
+  "chosen": "pronunciation; voice message",
+  "alternatives": [
+   "speech sounds",
+   "voice chat (Internet)",
+   "audio"
+  ]
+ },
+ {
+  "hanzi": "树林",
+  "reason": "cedict lists a Taiwan place name (Shulin) first, but at HSK4 the common-noun sense is what a learner needs.",
+  "chosen": "woods/grove/forest",
+  "alternatives": [
+   "Shulin (place name in New Taipei City)"
+  ]
+ },
+ {
+  "hanzi": "赏",
+  "reason": "Single character spanning several senses; at HSK4 the learner needs the two core senses: bestowing a reward and appreciating/admiring (beauty). Chose to combine both rather than the literary 'give to an inferior' sense.",
+  "chosen": "to reward; to admire (beauty)",
+  "alternatives": [
+   "to give to an inferior",
+   "to hand down",
+   "a reward (noun)"
+  ]
+ },
+ {
+  "hanzi": "引进",
+  "reason": "cedict gives 'to recommend' and 'to introduce from outside'; the primary modern sense (import technology/talent/methods from outside) is far more common and HSK-relevant than 'recommend'.",
+  "chosen": "to introduce/import from outside",
+  "alternatives": [
+   "to recommend"
+  ]
+ },
+ {
+  "hanzi": "充电",
+  "reason": "Literal 'recharge a battery' is the primary HSK4 sense; the figurative 'recharge oneself / update skills' is secondary and dropped for button brevity.",
+  "chosen": "to recharge (a battery)",
+  "alternatives": [
+   "to recharge one's batteries (fig.)",
+   "to update one's skills"
+  ]
+ },
+ {
+  "hanzi": "晚点",
+  "reason": "Two senses: train/transport delay vs. 'a bit later' (晚一点). At HSK4 the transport-delay noun/verb sense is the standard textbook meaning, so primary is 'be late/delayed (of trains)'.",
+  "chosen": "be late; delayed (of trains/transport)",
+  "alternatives": [
+   "a bit later (= 晚一点)",
+   "light dinner (supper)"
+  ]
+ },
+ {
+  "hanzi": "大爷",
+  "reason": "cedict leads with the pejorative 'arrogant idler/show-off' sense (dàyé), but the everyday colloquial kinship/respect sense (dàye, neutral tone) — father's elder brother / respectful term for an older man — is what a learner needs. Chose the kinship/respect sense.",
+  "chosen": "father's elder brother; respectful address for older man",
+  "alternatives": [
+   "arrogant idler; self-centered show-off (dàyé, derogatory)"
+  ]
+ },
+ {
+  "hanzi": "动摇",
+  "reason": "Spans literal 'sway/rock' and figurative 'waver (in resolve)/destabilize'. At HSK4 the figurative resolve sense is dominant; kept both the figurative ('waver') and a hint of the transitive 'shake/destabilize'.",
+  "chosen": "waver (in resolve); shake/destabilize",
+  "alternatives": [
+   "physically sway/rock/rattle"
+  ]
+ },
+ {
+  "hanzi": "暖气",
+  "reason": "Multiple senses; chose 'central heating' as the primary everyday sense a learner needs (apartment/room heating), over 'heater' device or literal 'warm air'.",
+  "chosen": "central heating",
+  "alternatives": [
+   "heater (device)",
+   "warm air"
+  ]
+ },
+ {
+  "hanzi": "二手",
+  "reason": "cedict lists 'second-hand', 'indirectly acquired', and 'assistant'. Chose the dominant common sense 'second-hand' (used goods); set aside the figurative 'indirect (information)' and the rare 'assistant' sense.",
+  "chosen": "second-hand (used goods)",
+  "alternatives": [
+   "indirectly acquired (information)",
+   "assistant"
+  ]
+ },
+ {
+  "hanzi": "点名",
+  "reason": "cedict spans 'roll call' and 'to name/single out sb (for praise or criticism)'. At HSK4 the everyday classroom sense (roll call) is what a learner needs first.",
+  "chosen": "roll call",
+  "alternatives": [
+   "to mention/single out sb by name",
+   "to call sb out by name"
+  ]
+ },
+ {
+  "hanzi": "开花",
+  "reason": "Primary literal botanical sense vs several figurative ones (burst with joy, spring up everywhere). At HSK4 the literal 'to bloom' is the needed sense.",
+  "chosen": "to bloom; to flower",
+  "alternatives": [
+   "(fig.) to burst with joy",
+   "(fig.) to flourish/spring up everywhere"
+  ]
+ },
+ {
+  "hanzi": "降温",
+  "reason": "Concrete weather sense (temperature drop / cooling) vs figurative 'decline of interest or activity'. Weather sense is primary for HSK4.",
+  "chosen": "to cool down (weather)",
+  "alternatives": [
+   "to lower the temperature",
+   "(of interest/activity) to decline"
+  ]
+ },
+ {
+  "hanzi": "大妈",
+  "reason": "cedict gives both a precise kinship term (father's elder brother's wife) and the common affectionate address for an older woman; at HSK4 the general 'auntie/older woman' sense is what a learner needs.",
+  "chosen": "auntie / affectionate term for an older woman",
+  "alternatives": [
+   "father's elder brother's wife (specific kinship)"
+  ]
+ },
+ {
+  "hanzi": "套餐",
+  "reason": "literal 'set meal' is the primary HSK4 sense; the figurative 'service/product package' (e.g. phone plan) is secondary but common, so included as a short second gloss.",
+  "chosen": "set meal (with secondary 'package')",
+  "alternatives": [
+   "product/service package only"
+  ]
+ },
+ {
+  "hanzi": "轮子",
+  "reason": "cedict lists a derogatory political sense (Falun Gong practitioner), but the primary HSK-4 sense a learner needs is the concrete noun 'wheel'",
+  "chosen": "wheel",
+  "alternatives": [
+   "(derog.) Falun Gong practitioner"
+  ]
+ },
+ {
+  "hanzi": "倒车",
+  "reason": "Two readings: dǎochē 'to change buses/trains' vs dàochē 'to reverse a vehicle'. Chose the more common everyday-driving sense dàochē 'back up a car'",
+  "chosen": "dàochē — to reverse a vehicle",
+  "alternatives": [
+   "dǎochē — to change buses/trains"
+  ]
+ },
+ {
+  "hanzi": "电动车",
+  "reason": "Term commonly covers e-bikes/scooters and electric cars; at HSK4 the everyday referent is the electric two-wheeler, but the literal/general sense is electric vehicle. Chose the general gloss with e-bike note to stay accurate to common usage.",
+  "chosen": "electric vehicle (incl. e-bike)",
+  "alternatives": [
+   "e-bike; electric scooter",
+   "electric car"
+  ]
+ },
+ {
+  "hanzi": "模特儿",
+  "reason": "Can mean a fashion/photo model (person) or an artist's/posing model; primary everyday sense is fashion model.",
+  "chosen": "fashion model (person)",
+  "alternatives": [
+   "artist's model",
+   "demonstration model"
+  ]
+ },
+ {
+  "hanzi": "鬼",
+  "reason": "Polysemous: primary noun sense 'ghost/devil' is what an HSK 5 learner needs; suffix and 'crafty' senses set aside.",
+  "chosen": "ghost; devil (призрак; чёрт)",
+  "alternatives": [
+   "suffix: addict/person with a vice",
+   "sly; crafty",
+   "constellation name"
+  ]
+ },
+ {
+  "hanzi": "愿",
+  "reason": "Bound form spanning wish/hope and willingness; chose the two core senses 'to wish' + 'willing' a learner meets in 愿意/祝愿.",
+  "chosen": "to wish; willing (желать; готов)",
+  "alternatives": [
+   "honest and prudent",
+   "vow; pledge"
+  ]
+ },
+ {
+  "hanzi": "运",
+  "reason": "Spans 'transport/move' and 'luck/fate'; at HSK 5 the salient standalone sense is luck (运气), so chose that over the verb 'transport'.",
+  "chosen": "luck; fortune (удача; везение)",
+  "alternatives": [
+   "to transport; move",
+   "to apply; use"
+  ]
+ },
+ {
+  "hanzi": "射",
+  "reason": "Core verb 'shoot/launch'; allude-to and chemistry-prefix senses set aside as peripheral for this level.",
+  "chosen": "to shoot; launch (стрелять; пускать)",
+  "alternatives": [
+   "to allude to",
+   "radio- (chemistry prefix)"
+  ]
+ },
+ {
+  "hanzi": "声",
+  "reason": "Multiple senses incl. tone/reputation/classifier; chose the everyday noun 'sound/voice' as the primary sense for this level.",
+  "chosen": "sound; voice (звук; голос)",
+  "alternatives": [
+   "tone (linguistics)",
+   "reputation",
+   "classifier for sounds"
+  ]
+ },
+ {
+  "hanzi": "毒",
+  "reason": "Spans poison/narcotics/cruel. At HSK5 the core noun/adjective sense 'poison; poisonous' is what a learner needs; narcotics and 'malicious/cruel' are secondary.",
+  "chosen": "poison; poisonous",
+  "alternatives": [
+   "narcotics; drugs",
+   "malicious; cruel"
+  ]
+ },
+ {
+  "hanzi": "签",
+  "reason": "cedict spans 'to sign', 'visa', 'label/tag', 'bamboo divination stick'. The dominant modern verb sense a learner needs is 'to sign'.",
+  "chosen": "to sign (one's name)",
+  "alternatives": [
+   "visa",
+   "label; tag",
+   "lottery/divination stick"
+  ]
+ },
+ {
+  "hanzi": "价",
+  "reason": "Spans price/value, chemistry valence, literary 'messenger/servant', and grammatical particle. The everyday bound-form sense is 'price; value'.",
+  "chosen": "price; value",
+  "alternatives": [
+   "valence (chemistry)",
+   "messenger; servant",
+   "grammatical particle"
+  ]
+ },
+ {
+  "hanzi": "冒",
+  "reason": "Spans 'emit/give off', 'to brave/risk', 'reckless', 'to feign'. Two most useful senses kept together: emitting (smoke/steam) and braving/risking.",
+  "chosen": "to emit; to brave/risk",
+  "alternatives": [
+   "reckless",
+   "to feign; impersonate"
+  ]
+ },
+ {
+  "hanzi": "礼",
+  "reason": "Spans gift, rite/ceremony, propriety/etiquette. At HSK5 the two practical senses are 'etiquette/courtesy' and 'gift'; abstract 'rite' set aside.",
+  "chosen": "etiquette; gift",
+  "alternatives": [
+   "rite; ceremony",
+   "propriety; courtesy"
+  ]
+ },
+ {
+  "hanzi": "拼",
+  "reason": "Spans 'piece together', 'pool/share', 'risk all/go all out', 'to spell'. Kept the literal 'piece together' plus the common 'spell' sense; the colloquial 'go all out' set aside.",
+  "chosen": "to piece together; to spell",
+  "alternatives": [
+   "to go all out; risk all",
+   "to pool; share"
+  ]
+ },
+ {
+  "hanzi": "必",
+  "reason": "Spans adverb 'certainly/will' and bound 'must'. Chose the modal-adverb sense ('must; certainly'), the primary HSK-5 usage in 必须/必然 contexts.",
+  "chosen": "обязательно; непременно / must; certainly",
+  "alternatives": [
+   "will; necessarily (future-marker reading)"
+  ]
+ },
+ {
+  "hanzi": "立",
+  "reason": "Cedict lists surname, 'stand', 'set up/establish', and 'at once'. Chose the concrete verb senses 'stand; set up' as the core learner meaning, dropping surname and the adverbial 'immediately' (立刻) reading.",
+  "chosen": "стоять; ставить / to stand; set up",
+  "alternatives": [
+   "immediately; at once",
+   "to establish; draw up",
+   "surname Li"
+  ]
+ },
+ {
+  "hanzi": "害",
+  "reason": "Both verb 'to harm' and noun 'harm/calamity'. Gave both since they share one core sense; led with the verb, the more frequent HSK-5 usage (害人, 害怕 base).",
+  "chosen": "вредить; вред / to harm; harm",
+  "alternatives": [
+   "calamity; evil",
+   "to cause trouble to"
+  ]
+ },
+ {
+  "hanzi": "滑",
+  "reason": "'slippery/smooth' (adj), 'slip/slide' (verb), and figurative 'sly'. Chose literal slippery + slide; set aside the pejorative 'cunning' sense as secondary for this level.",
+  "chosen": "скользкий; скользить / slippery; to slide",
+  "alternatives": [
+   "sly; cunning; not to be trusted",
+   "smooth"
+  ]
+ },
+ {
+  "hanzi": "回头",
+  "reason": "Two distinct senses: literal 'turn one's head/round' and temporal 'later, by and by'. Kept both compactly; literal sense led as the primary learner meaning.",
+  "chosen": "обернуться; попозже / turn one's head; later",
+  "alternatives": [
+   "to repent; turn back (figurative)"
+  ]
+ },
+ {
+  "hanzi": "答",
+  "reason": "Two readings: dā (答应 'agree/respond') vs dá ('answer'). Input pinyin is dā (bound form). Glossed the answer/respond sense common to both, keeping pinyin dā as given.",
+  "chosen": "отвечать; отзываться / to answer; respond",
+  "alternatives": [
+   "dá: to answer (a question)",
+   "to agree; promise (答应)"
+  ]
+ },
+ {
+  "hanzi": "熊",
+  "reason": "Primary noun 'bear' plus colloquial 'to scold' / 'weak, incapable'. Chose the animal noun as the dominant HSK-5 sense; coll. verb/adj senses set aside.",
+  "chosen": "медведь / bear",
+  "alternatives": [
+   "(coll.) to scold; rebuke",
+   "(coll.) weak; incapable"
+  ]
+ },
+ {
+  "hanzi": "剪",
+  "reason": "cedict spans 'scissors' (tool/noun) and several verb senses (cut, exterminate, edit video). For HSK5 the core everyday sense is the verb 'to cut with scissors'; chose verb sense.",
+  "chosen": "to cut/trim with scissors (verb)",
+  "alternatives": [
+   "scissors (noun/tool)",
+   "to exterminate; wipe out",
+   "to edit (video/audio)"
+  ]
+ },
+ {
+  "hanzi": "旁",
+  "reason": "cedict lists 'one side/other/different' plus the technical 'lateral component of a character'. Learner-relevant primary sense is spatial 'side/beside'; chose that over the radical-naming meaning.",
+  "chosen": "side; beside",
+  "alternatives": [
+   "lateral component (radical) of a character",
+   "other; different"
+  ]
+ },
+ {
+  "hanzi": "厅",
+  "reason": "cedict spans 'hall/living room/office/provincial government department'. At HSK5 the concrete everyday senses (hall, living room) are primary; chose those over the government-department sense.",
+  "chosen": "hall; living room",
+  "alternatives": [
+   "office",
+   "provincial government department"
+  ]
+ },
+ {
+  "hanzi": "喷",
+  "reason": "cedict spans literal spray and a slang 'criticize harshly online' sense plus crop-classifier uses; for HSK5 the concrete physical 'spray/spurt' is the primary sense a learner needs.",
+  "chosen": "to spray; to spurt (physical)",
+  "alternatives": [
+   "(slang) to criticize scathingly online",
+   "peak season of a crop",
+   "classifier for crop harvests"
+  ]
+ },
+ {
+  "hanzi": "罚",
+  "reason": "covers punish/penalize/fine; chose the broad 'punish; fine' pair as primary since the character generalizes beyond monetary fines.",
+  "chosen": "to punish; to fine",
+  "alternatives": [
+   "to penalize"
+  ]
+ },
+ {
+  "hanzi": "专辑",
+  "reason": "can mean a music album or a special printed/broadcast collection; the music-album sense dominates modern usage at this level.",
+  "chosen": "album (music)",
+  "alternatives": [
+   "special collection of printed/broadcast material"
+  ]
+ },
+ {
+  "hanzi": "社",
+  "reason": "Bound morpheme with two senses; modern productive sense (society/agency, as in 社会/旅行社) is what an HSK5 learner needs, not the archaic god-of-the-land sense.",
+  "chosen": "society; organization; agency",
+  "alternatives": [
+   "(old) god of the land"
+  ]
+ },
+ {
+  "hanzi": "夹",
+  "reason": "Many senses (verb to press/sandwich, noun clip/folder, adjective lined/double-layered). Chose the core jiā verb 'to clamp/press from both sides' plus the common noun 'clip' as the primary learner sense.",
+  "chosen": "to clamp/press from both sides; clip",
+  "alternatives": [
+   "folder",
+   "double-layered; lined (garment)",
+   "to intersperse; to mix"
+  ]
+ },
+ {
+  "hanzi": "买卖",
+  "reason": "Spans 'buying and selling/transaction' and the colloquial 'shop; store'. Chose the literal trade/business sense as primary for the level.",
+  "chosen": "buying and selling; trade",
+  "alternatives": [
+   "shop; store",
+   "business transaction"
+  ]
+ },
+ {
+  "hanzi": "得了",
+  "reason": "Several uses: 'all right/enough!' interjection vs '(rhetorical) possible'. Chose the high-frequency colloquial interjection 'enough!/all right!' as primary.",
+  "chosen": "enough!; all right! (coll.)",
+  "alternatives": [
+   "(rhetorical) possible",
+   "(after verb) to be finished/done"
+  ]
+ },
+ {
+  "hanzi": "扇",
+  "reason": "Polysemous: verb 'to fan' (shān) vs noun 'fan' (shàn, classifier for doors). Input pinyin is shān, the verb reading, so chose the verb sense as primary for this card.",
+  "chosen": "to fan (verb, shān)",
+  "alternatives": [
+   "fan (noun, shàn)",
+   "classifier for doors/windows",
+   "to slap on the face"
+  ]
+ },
+ {
+  "hanzi": "拔",
+  "reason": "Wide range of senses; for HSK5 the core concrete sense is physical 'pull out/up'. Set aside figurative/extended senses.",
+  "chosen": "to pull out / pull up",
+  "alternatives": [
+   "to select",
+   "to stand out / surpass",
+   "to draw out by suction",
+   "to seize"
+  ]
+ },
+ {
+  "hanzi": "提起",
+  "reason": "Two main senses: 'to mention/bring up' (speech) and literal 'to lift/raise'. At HSK5 the more common collocational use is 'mention', chosen as primary.",
+  "chosen": "to mention; bring up",
+  "alternatives": [
+   "to lift; raise (a weight)",
+   "to initiate (legal proceedings)"
+  ]
+ },
+ {
+  "hanzi": "戒",
+  "reason": "Several senses: 'quit/give up (a habit)', 'guard against/admonish', 'ring (finger)', Buddhist precept. Chose the everyday verb senses (quit; guard against) over the noun 'ring' and religious term.",
+  "chosen": "to quit (a habit); guard against",
+  "alternatives": [
+   "ring (for finger)",
+   "Buddhist precept / monastic discipline",
+   "to admonish; warn"
+  ]
+ },
+ {
+  "hanzi": "广",
+  "reason": "Input pinyin 'yǎn' is the rare Kangxi-radical reading (cliff radical 广). As a standalone HSK-5 word 广 is read guǎng meaning 'wide/broad/extensive' (cf. 广场, 广告, 广大). A learner card needs the actual word sense, so I authored guǎng 'wide; broad'.",
+  "chosen": "guǎng — wide; broad (the word)",
+  "alternatives": [
+   "yǎn — 'house on a cliff' radical (radical-name reading only)"
+  ]
+ },
+ {
+  "hanzi": "完了",
+  "reason": "Spans literal 'to be finished' and the colloquial exclamation 'oh no / we're done for'. The colloquial idiomatic sense is what makes this a distinct HSK-5 vocabulary item beyond plain 完, so I led with it plus a register note.",
+  "chosen": "colloquial 'it's over / we're done for'",
+  "alternatives": [
+   "plain 'to be finished; completed'"
+  ]
+ },
+ {
+  "hanzi": "倒是",
+  "reason": "Multiple discourse uses: contrast ('actually/on the contrary'), concession, and impatient 'why don't you'. Chose the core contrastive/concessive sense most needed at HSK 5.",
+  "chosen": "actually; on the contrary (contrastive)",
+  "alternatives": [
+   "'why don't you' (impatient urging)",
+   "concessive 'though, however'"
+  ]
+ },
+ {
+  "hanzi": "挣",
+  "reason": "cedict lists struggle-to-get-free (zhēngzhá) vs make money. At HSK5 the standalone high-frequency sense is the colloquial 'earn money' (zhèng); chose that with the matching tone.",
+  "chosen": "to earn money (zhèng)",
+  "alternatives": [
+   "to struggle to get free (zhēng, in 挣扎)",
+   "to strive to acquire"
+  ]
+ },
+ {
+  "hanzi": "暂停",
+  "reason": "Spans suspend/time-out/pause. Chose the general 'suspend; pause' covering both meeting/sports time-out and media pause as the primary learner sense.",
+  "chosen": "to suspend; pause",
+  "alternatives": [
+   "time-out (sports)",
+   "stoppage"
+  ]
+ },
+ {
+  "hanzi": "也好",
+  "reason": "Two functions: 'that's fine / may as well' vs reduplicated 'whether...or...'. Chose the concessive 'and that's fine / may as well' as the primary single-occurrence sense for a learner.",
+  "chosen": "that's fine; may as well",
+  "alternatives": [
+   "(reduplicated) whether ... or ..."
+  ]
+ },
+ {
+  "hanzi": "握",
+  "reason": "Holds/grasp vs classifier 'a handful'. Chose the verb 'to hold; to grasp' as primary at HSK5.",
+  "chosen": "to hold; to grasp",
+  "alternatives": [
+   "classifier: a handful",
+   "to clench (fist)"
+  ]
+ },
+ {
+  "hanzi": "上下",
+  "reason": "Spans literal 'up/down', 'top and bottom', social hierarchy, and the approximation sense '...or so'. Chose the literal spatial sense plus the common 'about/approximately' use a HSK5 learner most needs.",
+  "chosen": "верх и низ; около / up and down; about",
+  "alternatives": [
+   "seniors and juniors (social hierarchy)",
+   "the whole group / entire nation",
+   "relative superiority (不相上下)"
+  ]
+ },
+ {
+  "hanzi": "献",
+  "reason": "cedict lists offer/present/dedicate/donate/show plus archaic 'worthy person'. Chose the core verb sense of offering/dedicating, set aside 'show/display' and the archaic noun.",
+  "chosen": "преподносить; жертвовать / to offer; dedicate",
+  "alternatives": [
+   "to show; put on display",
+   "worthy person (archaic)"
+  ]
+ },
+ {
+  "hanzi": "琴",
+  "reason": "Means specifically the guqin zither but also 'musical instrument in general'. Chose qin/zither as the primary, noting general-instrument sense aside.",
+  "chosen": "цинь; струнный инструмент / qin; zither",
+  "alternatives": [
+   "musical instrument in general"
+  ]
+ },
+ {
+  "hanzi": "收购",
+  "reason": "Two senses: bulk purchasing (e.g. of grain by a state body) and corporate acquisition/takeover. Both relevant at HSK5; combined both concisely.",
+  "chosen": "скупать; поглощать (фирму) / to buy up; acquire",
+  "alternatives": [
+   "acquisition / takeover (corporate only)",
+   "bulk procurement (grain etc.) only"
+  ]
+ },
+ {
+  "hanzi": "糟",
+  "reason": "Spans noun 'dregs/draff' and adjective 'rotten/messy/ruined'. At HSK5 the learner needs the common exclamatory/predicative sense 糟糕 'terrible, in a mess', so chose the adjective sense.",
+  "chosen": "terrible; in a mess (adj.)",
+  "alternatives": [
+   "dregs; draff (noun)",
+   "pickled in wine"
+  ]
+ },
+ {
+  "hanzi": "键",
+  "reason": "cedict lists key/button, chemical bond, and linchpin. The everyday HSK5 sense is the keyboard/mouse key/button; chemical bond is a specialized science sense.",
+  "chosen": "key; button (keyboard/mouse)",
+  "alternatives": [
+   "chemical bond",
+   "linchpin"
+  ]
+ },
+ {
+  "hanzi": "闲",
+  "reason": "Includes archaic 'enclosure' and the main 'idle/leisure/unoccupied' senses. Chose the productive modern adjective sense (free/idle) over the obsolete noun.",
+  "chosen": "idle; free (unoccupied)",
+  "alternatives": [
+   "enclosure",
+   "leisure (noun)"
+  ]
+ },
+ {
+  "hanzi": "转向",
+  "reason": "Two pronunciations/senses: zhuǎnxiàng 'change direction/stance' and a colloquial 'get lost'. Chose the primary literal-plus-figurative 'turn/change direction' which covers the main usage.",
+  "chosen": "turn; change direction",
+  "alternatives": [
+   "change one's stance (fig.)",
+   "get lost; lose one's way"
+  ]
+ },
+ {
+  "hanzi": "鼓",
+  "reason": "Both the noun 'drum' and verb 'to drum/rouse/bulge'. Chose the concrete noun 'drum' as primary with verb as secondary, since the noun is the core HSK meaning.",
+  "chosen": "drum (noun); to drum",
+  "alternatives": [
+   "to rouse; to encourage",
+   "to bulge; to swell"
+  ]
+ },
+ {
+  "hanzi": "胆",
+  "reason": "Spans literal 'gall bladder' and figurative 'courage/guts'. At HSK5 the figurative sense (courage) is the more common standalone usage, but the anatomical sense is the base meaning; led with both so the learner triangulates.",
+  "chosen": "courage; gall bladder",
+  "alternatives": [
+   "gall bladder only",
+   "courage; guts only",
+   "inner container (bladder)"
+  ]
+ },
+ {
+  "hanzi": "存款",
+  "reason": "Can be verb 'to deposit money' or noun 'bank savings/deposit'. The noun sense (savings/deposit) is the primary dictionary head and most frequent; kept verb as secondary.",
+  "chosen": "deposit; savings (noun primary)",
+  "alternatives": [
+   "to deposit money (verb)",
+   "bank deposit only"
+  ]
+ },
+ {
+  "hanzi": "深度",
+  "reason": "Literal 'depth' (measurement) vs figurative 'profundity/advanced stage'. Chose literal depth as the primary sense a learner needs first.",
+  "chosen": "depth (literal)",
+  "alternatives": [
+   "profundity (of speech)",
+   "advanced stage of development"
+  ]
+ },
+ {
+  "hanzi": "分成",
+  "reason": "Word spans a verb sense (divide into) and noun/finance senses (profit split, percentage). For HSK5 the core need is the everyday verbal 'divide into'.",
+  "chosen": "разделить на / to divide into",
+  "alternatives": [
+   "split a bonus/profit share",
+   "percentage allotment",
+   "tenths"
+  ]
+ },
+ {
+  "hanzi": "慌",
+  "reason": "Has a literal verbal sense (panic) and a colloquial degree use after 得 (unbearably/terribly). Primary HSK5 sense is the emotional 'panic; be flustered'.",
+  "chosen": "паниковать; растеряться / to panic; flustered",
+  "alternatives": [
+   "(coll., after 得) unbearably; terribly"
+  ]
+ },
+ {
+  "hanzi": "抬头",
+  "reason": "Several senses (raise head / emerge figuratively / commerce account-name). At HSK5 the concrete physical sense is what learners need; figurative and commercial senses set aside.",
+  "chosen": "to raise one's head (physical)",
+  "alternatives": [
+   "to begin to emerge (fig.)",
+   "account name/payee field (commerce)"
+  ]
+ },
+ {
+  "hanzi": "礼拜",
+  "reason": "Spans religious worship and colloquial 'week'/'Sunday'. Colloquial 'week' is the most frequent everyday sense, but worship is the literal/primary meaning; glossed both compactly.",
+  "chosen": "week (coll.); worship",
+  "alternatives": [
+   "Sunday (coll.)",
+   "religious service only"
+  ]
+ },
+ {
+  "hanzi": "怨",
+  "reason": "Bound form spanning verb 'to blame' and noun 'resentment/grudge'. Both common; kept both to triangulate the morpheme's sense.",
+  "chosen": "to blame; resentment",
+  "alternatives": [
+   "grudge",
+   "hatred"
+  ]
+ },
+ {
+  "hanzi": "一带",
+  "reason": "Means a geographic area/region around a reference point, not a literal belt. Chose 'area; region' over the misleading literal reading.",
+  "chosen": "area; region",
+  "alternatives": [
+   "belt/zone (literal)"
+  ]
+ },
+ {
+  "hanzi": "总体",
+  "reason": "Cedict spans adverbial 'overall/totally' and statistical noun 'population'. At HSK5 the learner needs the common adjectival/adverbial 'overall, total' sense, not the technical statistics term.",
+  "chosen": "overall; total (general)",
+  "alternatives": [
+   "population (statistics)",
+   "completely; totally"
+  ]
+ },
+ {
+  "hanzi": "泉",
+  "reason": "Senses: water spring, mouth of a spring, archaic word for coin. Primary modern sense is the natural water spring.",
+  "chosen": "spring / источник (water)",
+  "alternatives": [
+   "mouth of a spring",
+   "coin (archaic)"
+  ]
+ },
+ {
+  "hanzi": "来信",
+  "reason": "Functions as both noun 'incoming letter' and verb 'to send (us) a letter'. The noun sense is the primary, more frequent reading for a learner.",
+  "chosen": "incoming letter (noun)",
+  "alternatives": [
+   "to send a letter (verb)"
+  ]
+ },
+ {
+  "hanzi": "咳",
+  "reason": "Pinyin given as hāi marks the interjection sense (surprise/regret) rather than ké (to cough), so glossed as an exclamation.",
+  "chosen": "interjection 'oh!/hey!' (hāi)",
+  "alternatives": [
+   "cough (ké)",
+   "sound of sighing"
+  ]
+ },
+ {
+  "hanzi": "叉",
+  "reason": "Has many senses (fork, cross, to intersect, to spread legs); for an HSK5 learner the concrete noun 'fork' plus the 'cross/X mark' sense are most useful.",
+  "chosen": "fork; cross mark (X)",
+  "alternatives": [
+   "to intersect/cross",
+   "prong/pitchfork",
+   "to spread (legs)"
+  ]
+ },
+ {
+  "hanzi": "加以",
+  "reason": "Functions as a formal auxiliary before a disyllabic verb meaning 'apply the action to'; the literary 'moreover/in addition' sense set aside as secondary.",
+  "chosen": "to apply (an action) to sth mentioned",
+  "alternatives": [
+   "moreover; in addition (literary)"
+  ]
+ },
+ {
+  "hanzi": "亏",
+  "reason": "Spans 'lose money/deficit', 'luckily/thanks to', and an ironic 'fancy that'. For HSK5 the financial-loss sense (亏本, 亏损) is the core learner need; the adverbial 'luckily' and ironic uses are secondary/idiomatic.",
+  "chosen": "to lose money; deficit",
+  "alternatives": [
+   "luckily; thanks to",
+   "(ironic) fancy that..."
+  ]
+ },
+ {
+  "hanzi": "直线",
+  "reason": "Primary literal sense is geometric 'straight line'; the figurative 'sharply (rise/fall)' adverbial use (直线上升) is secondary and derived.",
+  "chosen": "straight line",
+  "alternatives": [
+   "sharply (rise/fall)"
+  ]
+ },
+ {
+  "hanzi": "不曾",
+  "reason": "Means 'have not (yet/ever)'. Chose the 'never have' reading as primary since 不曾 most often negates a completed past action; 'not yet' is the close secondary reading.",
+  "chosen": "never (have)",
+  "alternatives": [
+   "has not yet"
+  ]
+ },
+ {
+  "hanzi": "鸭子",
+  "reason": "cedict lists primary 'duck' and a slang 'male prostitute' sense; for HSK5 the everyday animal sense is what a learner needs.",
+  "chosen": "duck (animal)",
+  "alternatives": [
+   "male prostitute (slang)"
+  ]
+ },
+ {
+  "hanzi": "一身",
+  "reason": "Spans 'whole body / from head to toe', 'single person', and 'a suit of clothes'. Primary and most frequent learner sense is 'whole body / all over (covered in)'.",
+  "chosen": "whole body; all over",
+  "alternatives": [
+   "single person",
+   "a suit of clothes"
+  ]
+ },
+ {
+  "hanzi": "为主",
+  "reason": "Verb-resultative meaning 'to give priority to / mainly rely on', often used as '...为主' = 'mainly/predominantly'. Chose the 'give priority to / predominantly' sense over literal 'rely on'.",
+  "chosen": "to give priority to; predominantly",
+  "alternatives": [
+   "to rely mainly on",
+   "to attach most importance to"
+  ]
+ },
+ {
+  "hanzi": "脆",
+  "reason": "Senses split between 'brittle/fragile' (objects) and 'crisp/crunchy' (food). Both are core; combined both as the dual primary sense rather than picking one.",
+  "chosen": "brittle; crisp/crunchy",
+  "alternatives": [
+   "clear and loud (voice)",
+   "neat"
+  ]
+ },
+ {
+  "hanzi": "赠",
+  "reason": "Cedict lists 'give as present', 'repel', and posthumous-title senses; for HSK5 the everyday literary 'give as a gift' is the sense learners need.",
+  "chosen": "to give as a present",
+  "alternatives": [
+   "to repel",
+   "to bestow a posthumous honorary title"
+  ]
+ },
+ {
+  "hanzi": "摩托",
+  "reason": "Loanword spans the literal 'motor' and the common abbreviation for 摩托车 'motorbike'; the motorbike sense dominates real usage, so it leads with 'motor' as secondary.",
+  "chosen": "motorbike (abbr.); motor",
+  "alternatives": [
+   "motor (engine, loanword)"
+  ]
+ },
+ {
+  "hanzi": "先后",
+  "reason": "Means both 'early or late / order' and the adverbial 'in succession, one after another'; the successive-order sense is the more frequent HSK5 usage and is chosen as primary.",
+  "chosen": "in succession; one after another",
+  "alternatives": [
+   "early or late; priority/order"
+  ]
+ },
+ {
+  "hanzi": "水分",
+  "reason": "Word spans literal 'moisture content' and figurative 'overstatement/padding'. At HSK5 the concrete literal sense (moisture in food/air) is what a learner needs first; the figurative sense is idiomatic and lower-priority.",
+  "chosen": "moisture content / влага",
+  "alternatives": [
+   "(fig.) overstatement; padding",
+   "exaggeration in figures"
+  ]
+ },
+ {
+  "hanzi": "辈",
+  "reason": "Polysemous: 'generation', 'lifetime' (一辈子), and a literary classifier for people. Chose the core noun sense 'generation' as the primary anchor for the character at this level.",
+  "chosen": "generation / поколение",
+  "alternatives": [
+   "lifetime",
+   "classifier for people/generations",
+   "group/class of people"
+  ]
+ },
+ {
+  "hanzi": "输出",
+  "reason": "Two technical senses: data/energy 'output' and goods/services 'export'. Both common; led with 'output' (the more general everyday sense) but kept 'export' as complementary second gloss.",
+  "chosen": "output; export / вывод; экспорт",
+  "alternatives": [
+   "to export (goods/services)",
+   "to deliver (signal/energy)"
+  ]
+ },
+ {
+  "hanzi": "雨水",
+  "reason": "Word spans a calendar solar-term name (Rain Water) and the everyday sense of rainwater/rainfall. At HSK5 the concrete meteorological sense is what a learner needs, so the solar-term proper noun was set aside.",
+  "chosen": "rainwater; rainfall",
+  "alternatives": [
+   "Yushui (2nd solar term, ~Feb 19-Mar 5)"
+  ]
+ },
+ {
+  "hanzi": "大都",
+  "reason": "Spans the adverb 'mostly/for the most part' and the proper noun Dadu (Yuan-dynasty capital, modern Beijing). The functional adverb is the productive HSK5 sense; the historical place name set aside.",
+  "chosen": "mostly; for the most part",
+  "alternatives": [
+   "Dadu (Yuan capital, modern Beijing)",
+   "metropolis"
+  ]
+ },
+ {
+  "hanzi": "法制",
+  "reason": "Real sense is 'legal system / rule of law'; cedict's 'made in France' is a homograph/secondary reading that is irrelevant for a learner. Chose the legal sense.",
+  "chosen": "legal system; rule of law",
+  "alternatives": [
+   "made in France"
+  ]
+ },
+ {
+  "hanzi": "团长",
+  "reason": "Spans military 'regiment commander' and civilian 'head of delegation / group-buy organizer'. Chose the canonical military/leader sense plus generic 'group leader' which covers delegation and modern group-buy usage at HSK5.",
+  "chosen": "regiment commander; group leader",
+  "alternatives": [
+   "head of delegation",
+   "group-buy organizer"
+  ]
+ },
+ {
+  "hanzi": "长寿",
+  "reason": "cedict lists a Chongqing place name first; that is a proper noun, not the learner sense. Chose the common adjective/noun 'longevity'.",
+  "chosen": "longevity; long-lived",
+  "alternatives": [
+   "Changshou district (place name)"
+  ]
+ },
+ {
+  "hanzi": "白酒",
+  "reason": "Mainland sense is the sorghum spirit baijiu; a Taiwan-only abbreviation means 'white wine'. Chose the dominant mainland sense.",
+  "chosen": "baijiu (Chinese spirit)",
+  "alternatives": [
+   "white wine (Tw)"
+  ]
+ },
+ {
+  "hanzi": "入门",
+  "reason": "cedict spans literal 'enter a door' and figurative 'learn the basics/introduction'. At HSK-5 the figurative learning sense is the one learners need.",
+  "chosen": "get started / introduction (to a subject)",
+  "alternatives": [
+   "entrance door",
+   "to enter a door",
+   "entry-level (attributive)"
+  ]
+ },
+ {
+  "hanzi": "主体",
+  "reason": "glosses split between concrete 'main part/bulk/body' and philosophical/legal 'subject/agent'. Chose the broadly applicable 'main part; subject' which covers the common HSK-5 usage.",
+  "chosen": "main part; subject",
+  "alternatives": [
+   "bulk",
+   "body",
+   "agent (philosophy/law)"
+  ]
+ },
+ {
+  "hanzi": "桃花",
+  "reason": "cedict lists both literal 'peach blossom' and figurative 'love affair'; at HSK5 the concrete botanical sense is what a learner needs first.",
+  "chosen": "peach blossom (literal flower)",
+  "alternatives": [
+   "(fig.) love affair / romance"
+  ]
+ },
+ {
+  "hanzi": "不易",
+  "reason": "cedict spans 'not easy/difficult' and the separate classical sense 'unchanging'; the common modern sense is 'not easy'.",
+  "chosen": "not easy; difficult",
+  "alternatives": [
+   "unchanging (classical sense)"
+  ]
+ },
+ {
+  "hanzi": "两岸",
+  "reason": "literal 'both shores' vs. the political 'Taiwan and the mainland' reading; the literal geographic sense is the safe primary for a learner card and avoids political framing.",
+  "chosen": "both shores/banks",
+  "alternatives": [
+   "cross-strait (Taiwan and mainland)"
+  ]
+ },
+ {
+  "hanzi": "起到",
+  "reason": "Verb that only appears in the frame 起到…作用; chose the bound 'play a role / have an effect' sense a learner needs over a literal gloss.",
+  "chosen": "to play (a role); to have (effect)",
+  "alternatives": [
+   "to rise to",
+   "to begin"
+  ]
+ },
+ {
+  "hanzi": "个儿",
+  "reason": "Spans 'size/height/stature'; for a person this is most often 'height/build', so led with that.",
+  "chosen": "height; size",
+  "alternatives": [
+   "stature",
+   "individual one"
+  ]
+ },
+ {
+  "hanzi": "只见",
+  "reason": "cedict gives two senses ('see repeatedly' vs narrative 'suddenly one sees'); the narrative 'and then one sees' is the dominant literary use at L5.",
+  "chosen": "suddenly one sees",
+  "alternatives": [
+   "to see over and over"
+  ]
+ },
+ {
+  "hanzi": "酸甜苦辣",
+  "reason": "Literal 'sour/sweet/bitter/spicy' vs figurative 'joys and sorrows of life'; chose the idiomatic primary sense, noting literal in alternatives.",
+  "chosen": "life's ups and downs (idiom)",
+  "alternatives": [
+   "sour, sweet, bitter, spicy (literal)"
+  ]
+ },
+ {
+  "hanzi": "杀毒",
+  "reason": "cedict lists 'to disinfect' first, but at HSK5 the computing sense (antivirus / kill a computer virus) is the primary modern usage learners encounter.",
+  "chosen": "remove a computer virus (antivirus)",
+  "alternatives": [
+   "to disinfect (general)"
+  ]
+ },
+ {
+  "hanzi": "微博",
+  "reason": "Refers both to the proper-noun platform Weibo and the generic 'microblog'. Kept both since the platform is the dominant real-world referent.",
+  "chosen": "Weibo platform / microblog",
+  "alternatives": [
+   "generic microblogging only"
+  ]
+ }
+]

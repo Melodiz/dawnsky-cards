@@ -1,0 +1,979 @@
+[
+ {
+  "hanzi": "多久",
+  "pinyin": "duōjiǔ",
+  "meaning_ru": "как долго; сколько времени",
+  "meaning_en": "how long?",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "(of time) how long?/(not) a long time",
+  "dataset_meanings": [
+   "(of time) how long?",
+   "(not) a long time"
+  ]
+ },
+ {
+  "hanzi": "球队",
+  "pinyin": "qiúduì",
+  "meaning_ru": "спортивная команда",
+  "meaning_en": "sports team",
+  "semantic_tags": [
+   "sport"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "sports team (basketball, soccer, football etc)",
+  "dataset_meanings": [
+   "sports team (basketball, soccer, football etc)"
+  ]
+ },
+ {
+  "hanzi": "上周",
+  "pinyin": "shàngzhōu",
+  "meaning_ru": "на прошлой неделе",
+  "meaning_en": "last week",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "last week",
+  "dataset_meanings": [
+   "last week"
+  ]
+ },
+ {
+  "hanzi": "黑色",
+  "pinyin": "hēisè",
+  "meaning_ru": "чёрный цвет",
+  "meaning_en": "black",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "black",
+  "dataset_meanings": [
+   "black"
+  ]
+ },
+ {
+  "hanzi": "大人",
+  "pinyin": "dàren",
+  "meaning_ru": "взрослый",
+  "meaning_en": "adult; grownup",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "adult/grownup/title of respect toward superiors",
+  "dataset_meanings": [
+   "adult",
+   "grownup",
+   "title of respect toward superiors"
+  ]
+ },
+ {
+  "hanzi": "绿色",
+  "pinyin": "lǜsè",
+  "meaning_ru": "зелёный цвет",
+  "meaning_en": "green",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "green",
+  "dataset_meanings": [
+   "green"
+  ]
+ },
+ {
+  "hanzi": "公路",
+  "pinyin": "gōnglù",
+  "meaning_ru": "шоссе; дорога",
+  "meaning_en": "highway; road",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "highway/road/CL:條|条[tiao2]",
+  "dataset_meanings": [
+   "highway",
+   "road"
+  ]
+ },
+ {
+  "hanzi": "院",
+  "pinyin": "yuàn",
+  "meaning_ru": "двор; учреждение",
+  "meaning_en": "courtyard; institution",
+  "semantic_tags": [
+   "building"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "courtyard/institution/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "courtyard",
+   "institution"
+  ]
+ },
+ {
+  "hanzi": "家长",
+  "pinyin": "jiāzhǎng",
+  "meaning_ru": "родитель; глава семьи",
+  "meaning_en": "parent; family head",
+  "semantic_tags": [
+   "family"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "head of a household/family head/patriarch/parent or guardian of a child",
+  "dataset_meanings": [
+   "head of a household",
+   "family head",
+   "patriarch",
+   "parent or guardian of a child"
+  ]
+ },
+ {
+  "hanzi": "白色",
+  "pinyin": "báisè",
+  "meaning_ru": "белый цвет",
+  "meaning_en": "white",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "white/fig. reactionary/anti-communist",
+  "dataset_meanings": [
+   "white",
+   "fig. reactionary",
+   "anti-communist"
+  ]
+ },
+ {
+  "hanzi": "出租车",
+  "pinyin": "chūzūchē",
+  "meaning_ru": "такси",
+  "meaning_en": "taxi",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "taxi/(Tw) rental car",
+  "dataset_meanings": [
+   "taxi",
+   "(Tw) rental car"
+  ]
+ },
+ {
+  "hanzi": "好事",
+  "pinyin": "hǎoshì",
+  "meaning_ru": "доброе дело; благо",
+  "meaning_en": "good deed; good thing",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "good action, deed, thing or work (also sarcastic, \"a fine thing indeed\")/charity/happy occasion/Daoist or Buddhist ceremony for the souls of the dead/to be meddlesome",
+  "dataset_meanings": [
+   "good action, deed, thing or work (also sarcastic, \"a fine thing indeed\")",
+   "charity",
+   "happy occasion",
+   "Daoist or Buddhist ceremony for the souls of the dead",
+   "to be meddlesome"
+  ]
+ },
+ {
+  "hanzi": "提到",
+  "pinyin": "tídào",
+  "meaning_ru": "упоминать",
+  "meaning_en": "to mention; refer to",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to mention/to raise (a subject)/to refer to",
+  "dataset_meanings": [
+   "to mention",
+   "to raise (a subject)",
+   "to refer to"
+  ]
+ },
+ {
+  "hanzi": "题",
+  "pinyin": "tí",
+  "meaning_ru": "задача; вопрос (задание)",
+  "meaning_en": "problem; exam question",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "surname Ti/topic/problem for discussion/exam question/subject/to inscribe/to mention/CL:個|个[ge4],道[dao4]",
+  "dataset_meanings": [
+   "surname Ti",
+   "topic",
+   "problem for discussion",
+   "exam question",
+   "subject",
+   "to inscribe",
+   "to mention"
+  ]
+ },
+ {
+  "hanzi": "送给",
+  "pinyin": "sònggěi",
+  "meaning_ru": "дарить (кому-то)",
+  "meaning_en": "to give as a gift",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to send/to give as a present",
+  "dataset_meanings": [
+   "to send",
+   "to give as a present"
+  ]
+ },
+ {
+  "hanzi": "不久",
+  "pinyin": "bùjiǔ",
+  "meaning_ru": "вскоре; скоро",
+  "meaning_en": "soon; before long",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "not long (after)/before too long/soon/soon after",
+  "dataset_meanings": [
+   "not long (after)",
+   "before too long",
+   "soon",
+   "soon after"
+  ]
+ },
+ {
+  "hanzi": "比如说",
+  "pinyin": "bǐrúshuō",
+  "meaning_ru": "например",
+  "meaning_en": "for example",
+  "semantic_tags": [
+   "logic_connective"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "for example",
+  "dataset_meanings": [
+   "for example"
+  ]
+ },
+ {
+  "hanzi": "碰",
+  "pinyin": "pèng",
+  "meaning_ru": "коснуться; задеть",
+  "meaning_en": "touch; bump",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "variant of 碰[peng4]/to touch/to meet with/to bump/old variant of 碰[peng4]",
+  "dataset_meanings": [
+   "variant of 碰",
+   "to touch",
+   "to meet with",
+   "to bump",
+   "old variant of 碰"
+  ]
+ },
+ {
+  "hanzi": "碰到",
+  "pinyin": "pèngdào",
+  "meaning_ru": "встретить; столкнуться",
+  "meaning_en": "run into; encounter",
+  "semantic_tags": [
+   "physical_action",
+   "event_situation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to come across/to run into/to meet/to hit",
+  "dataset_meanings": [
+   "to come across",
+   "to run into",
+   "to meet",
+   "to hit"
+  ]
+ },
+ {
+  "hanzi": "蓝色",
+  "pinyin": "lánsè",
+  "meaning_ru": "синий цвет",
+  "meaning_en": "blue (color)",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "blue (color)",
+  "dataset_meanings": [
+   "blue (color)"
+  ]
+ },
+ {
+  "hanzi": "懂得",
+  "pinyin": "dǒngde",
+  "meaning_ru": "понимать; знать",
+  "meaning_en": "understand; know",
+  "semantic_tags": [
+   "cognition"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to understand; to know; to comprehend",
+  "dataset_meanings": [
+   "to understand; to know; to comprehend"
+  ]
+ },
+ {
+  "hanzi": "好久",
+  "pinyin": "hǎojiǔ",
+  "meaning_ru": "долго; давно",
+  "meaning_en": "a long time",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "(coll.) for a long time",
+  "dataset_meanings": [
+   "quite a while"
+  ]
+ },
+ {
+  "hanzi": "夏天",
+  "pinyin": "xiàtiān",
+  "meaning_ru": "лето",
+  "meaning_en": "summer",
+  "semantic_tags": [
+   "time_period",
+   "weather"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "summer/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "summer"
+  ]
+ },
+ {
+  "hanzi": "接下来",
+  "pinyin": "jiēxiàlái",
+  "meaning_ru": "затем; далее",
+  "meaning_en": "next; then",
+  "semantic_tags": [
+   "time_word",
+   "logic_connective"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to accept/to take/next/following",
+  "dataset_meanings": [
+   "to accept",
+   "to take",
+   "next",
+   "following"
+  ]
+ },
+ {
+  "hanzi": "早餐",
+  "pinyin": "zǎocān",
+  "meaning_ru": "завтрак",
+  "meaning_en": "breakfast",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "breakfast/CL:份[fen4],頓|顿[dun4],次[ci4]",
+  "dataset_meanings": [
+   "breakfast"
+  ]
+ },
+ {
+  "hanzi": "车辆",
+  "pinyin": "chēliàng",
+  "meaning_ru": "транспорт; машины",
+  "meaning_en": "vehicles",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "vehicle",
+  "dataset_meanings": [
+   "vehicle"
+  ]
+ },
+ {
+  "hanzi": "早晨",
+  "pinyin": "zǎochén",
+  "meaning_ru": "утро; раннее утро",
+  "meaning_en": "early morning",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "early morning/also pr. [zao3chen5]",
+  "dataset_meanings": [
+   "early morning",
+   "also pr. [zǎo chen]"
+  ]
+ },
+ {
+  "hanzi": "出门",
+  "pinyin": "chūmén",
+  "meaning_ru": "выйти из дома",
+  "meaning_en": "go out; leave home",
+  "semantic_tags": [
+   "action_daily",
+   "action_movement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to go out/to leave home/to go on a journey/away from home/(of a woman) to get married",
+  "dataset_meanings": [
+   "to go out",
+   "to leave home",
+   "to go on a journey",
+   "away from home",
+   "(of a woman) to get married"
+  ]
+ },
+ {
+  "hanzi": "以外",
+  "pinyin": "yǐwài",
+  "meaning_ru": "кроме; за пределами",
+  "meaning_en": "besides; outside of",
+  "semantic_tags": [
+   "spatial_relation",
+   "abstract_relation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "apart from/other than/except for/external/outside of/on the other side of/beyond",
+  "dataset_meanings": [
+   "apart from",
+   "other than",
+   "except for",
+   "external",
+   "outside of",
+   "on the other side of",
+   "beyond"
+  ]
+ },
+ {
+  "hanzi": "做法",
+  "pinyin": "zuòfǎ",
+  "meaning_ru": "способ; метод; рецепт",
+  "meaning_en": "method; way; recipe",
+  "semantic_tags": [
+   "abstract_relation",
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "way of handling sth/method for making/work method/recipe/practice/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "way of handling sth",
+   "method for making",
+   "work method",
+   "recipe",
+   "practice"
+  ]
+ },
+ {
+  "hanzi": "全体",
+  "pinyin": "quántǐ",
+  "meaning_ru": "весь; все; в полном составе",
+  "meaning_en": "all; entire; everyone",
+  "semantic_tags": [
+   "quantity_abstract"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "all/entire",
+  "dataset_meanings": [
+   "all",
+   "entire"
+  ]
+ },
+ {
+  "hanzi": "熟",
+  "pinyin": "shú",
+  "meaning_ru": "спелый; готовый; знакомый",
+  "meaning_en": "ripe; cooked; familiar",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "ripe; mature/thoroughly cooked; done/familiar; acquainted/experienced; skilled/(of sleep etc) deep; profound/also pr. [shou2]",
+  "dataset_meanings": [
+   "ripe; mature",
+   "thoroughly cooked; done",
+   "familiar; acquainted",
+   "experienced; skilled",
+   "(of sleep etc) deep; profound",
+   "also pr. [shóu]"
+  ]
+ },
+ {
+  "hanzi": "小时候",
+  "pinyin": "xiǎoshíhou",
+  "meaning_ru": "в детстве",
+  "meaning_en": "in childhood",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "in one's childhood",
+  "dataset_meanings": [
+   "in one's childhood"
+  ]
+ },
+ {
+  "hanzi": "全身",
+  "pinyin": "quánshēn",
+  "meaning_ru": "всё тело",
+  "meaning_en": "whole body",
+  "semantic_tags": [
+   "body"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "the whole body/(typography) em",
+  "dataset_meanings": [
+   "the whole body",
+   "(typography) em"
+  ]
+ },
+ {
+  "hanzi": "咱",
+  "pinyin": "zán",
+  "meaning_ru": "мы (с тобой); я",
+  "meaning_en": "we (incl. you); I",
+  "semantic_tags": [
+   "pronoun"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "variant of 咱[zan2]/see 咱[zan2]/I or me/we (including both the speaker and the person spoken to)",
+  "dataset_meanings": [
+   "variant of 咱",
+   "see 咱",
+   "I or me",
+   "we (including both the speaker and the person spoken to)"
+  ]
+ },
+ {
+  "hanzi": "平安",
+  "pinyin": "píngʼān",
+  "meaning_ru": "благополучный; цел и невредим",
+  "meaning_en": "safe and sound",
+  "semantic_tags": [
+   "manner_state",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "see 平安區|平安区[Ping2 an1 Qu1]/safe and sound/well/without mishap/quiet and safe/at peace",
+  "dataset_meanings": [
+   "safe and sound",
+   "well",
+   "without mishap",
+   "quiet and safe",
+   "at peace"
+  ]
+ },
+ {
+  "hanzi": "队长",
+  "pinyin": "duìzhǎng",
+  "meaning_ru": "капитан; командир",
+  "meaning_en": "captain; team leader",
+  "semantic_tags": [
+   "occupation",
+   "person"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "captain/team leader/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "captain",
+   "team leader"
+  ]
+ },
+ {
+  "hanzi": "南方",
+  "pinyin": "nánfāng",
+  "meaning_ru": "юг; южные районы",
+  "meaning_en": "south; the South",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "south; southern direction/(in China) southern regions, often referring to areas south of the Yangtze River",
+  "dataset_meanings": [
+   "south",
+   "the southern part of the country",
+   "the South"
+  ]
+ },
+ {
+  "hanzi": "停车",
+  "pinyin": "tíngchē",
+  "meaning_ru": "парковаться; остановить машину",
+  "meaning_en": "to park; to stop a car",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to pull up (stop one's vehicle)/to park/(of a machine) to stop working/to stall",
+  "dataset_meanings": [
+   "to pull up (stop one's vehicle)",
+   "to park",
+   "(of a machine) to stop working",
+   "to stall"
+  ]
+ },
+ {
+  "hanzi": "好人",
+  "pinyin": "hǎorén",
+  "meaning_ru": "хороший человек",
+  "meaning_en": "good person",
+  "semantic_tags": [
+   "person",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "good person/healthy person/person who tries not to offend anyone, even at the expense of principle",
+  "dataset_meanings": [
+   "good person",
+   "healthy person",
+   "person who tries not to offend anyone, even at the expense of principle"
+  ]
+ },
+ {
+  "hanzi": "大声",
+  "pinyin": "dàshēng",
+  "meaning_ru": "громко; в полный голос",
+  "meaning_en": "loud; loudly",
+  "semantic_tags": [
+   "manner_adverb",
+   "perception"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "loud voice/in a loud voice/loudly",
+  "dataset_meanings": [
+   "loud voice",
+   "in a loud voice",
+   "loudly"
+  ]
+ },
+ {
+  "hanzi": "分开",
+  "pinyin": "fēnkāi",
+  "meaning_ru": "разделять; расставаться",
+  "meaning_en": "to separate; to part",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to separate/to part",
+  "dataset_meanings": [
+   "to separate",
+   "to part"
+  ]
+ },
+ {
+  "hanzi": "相机",
+  "pinyin": "xiàngjī",
+  "meaning_ru": "фотоаппарат; камера",
+  "meaning_en": "camera",
+  "semantic_tags": [
+   "object_tech"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "camera (abbr. for 照相機|照相机[zhao4 xiang4 ji1])/at the opportune moment/as the circumstances allow",
+  "dataset_meanings": [
+   "camera (abbr. for 照相机)",
+   "at the opportune moment",
+   "as the circumstances allow"
+  ]
+ },
+ {
+  "hanzi": "今后",
+  "pinyin": "jīnhòu",
+  "meaning_ru": "впредь; в дальнейшем",
+  "meaning_en": "from now on; henceforth",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "hereafter/henceforth/in the future/from now on",
+  "dataset_meanings": [
+   "hereafter",
+   "henceforth",
+   "in the future",
+   "from now on"
+  ]
+ },
+ {
+  "hanzi": "这时",
+  "pinyin": "zhèshí",
+  "meaning_ru": "в это время; в этот момент",
+  "meaning_en": "at this moment",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "at this time/at this moment",
+  "dataset_meanings": [
+   "at this time",
+   "at this moment"
+  ]
+ },
+ {
+  "hanzi": "大大",
+  "pinyin": "dàdà",
+  "meaning_ru": "сильно; значительно",
+  "meaning_en": "greatly; hugely",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "greatly/enormously/(dialect) dad/uncle",
+  "dataset_meanings": [
+   "greatly",
+   "enormously",
+   "(dialect) dad",
+   "uncle"
+  ]
+ },
+ {
+  "hanzi": "科学家",
+  "pinyin": "kēxuéjiā",
+  "meaning_ru": "учёный",
+  "meaning_en": "scientist",
+  "semantic_tags": [
+   "occupation",
+   "science_research"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "scientist",
+  "dataset_meanings": [
+   "scientist"
+  ]
+ },
+ {
+  "hanzi": "晚餐",
+  "pinyin": "wǎncān",
+  "meaning_ru": "ужин",
+  "meaning_en": "dinner; supper",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "evening meal; dinner/CL:份[fen4],頓|顿[dun4],次[ci4]",
+  "dataset_meanings": [
+   "evening meal",
+   "dinner"
+  ]
+ },
+ {
+  "hanzi": "大门",
+  "pinyin": "dàmén",
+  "meaning_ru": "ворота; вход",
+  "meaning_en": "gate; main entrance",
+  "semantic_tags": [
+   "building"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "the Doors, US rock band/entrance/door/gate/large and influential family",
+  "dataset_meanings": [
+   "the Doors, US rock band",
+   "entrance",
+   "door",
+   "gate",
+   "large and influential family"
+  ]
+ },
+ {
+  "hanzi": "晚会",
+  "pinyin": "wǎnhuì",
+  "meaning_ru": "вечеринка; вечер",
+  "meaning_en": "evening party",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "evening party/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "evening party"
+  ]
+ },
+ {
+  "hanzi": "大小",
+  "pinyin": "dàxiǎo",
+  "meaning_ru": "размер; величина",
+  "meaning_en": "size",
+  "semantic_tags": [
+   "measurement",
+   "size"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "large and small/size/adults and children/consideration of seniority/at any rate",
+  "dataset_meanings": [
+   "dimension",
+   "magnitude",
+   "size",
+   "measurement",
+   "large and small",
+   "at any rate",
+   "adults and children",
+   "consideration of seniority"
+  ]
+ },
+ {
+  "hanzi": "不一定",
+  "pinyin": "bùyīdìng",
+  "meaning_ru": "не обязательно",
+  "meaning_en": "not necessarily",
+  "semantic_tags": [
+   "manner_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "not necessarily/maybe",
+  "dataset_meanings": [
+   "not necessarily",
+   "maybe"
+  ]
+ },
+ {
+  "hanzi": "计算机",
+  "pinyin": "jìsuànjī",
+  "meaning_ru": "компьютер",
+  "meaning_en": "computer",
+  "semantic_tags": [
+   "object_tech",
+   "technology"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "computer/(Tw) calculator/CL:臺|台[tai2]",
+  "dataset_meanings": [
+   "computer",
+   "(Tw) calculator"
+  ]
+ },
+ {
+  "hanzi": "阴",
+  "pinyin": "yīn",
+  "meaning_ru": "пасмурный",
+  "meaning_en": "overcast; cloudy",
+  "semantic_tags": [
+   "weather"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "surname Yin/overcast (weather)/cloudy/shady/Yin (the negative principle of Yin and Yang)/negative (electric.)/feminine/moon/implicit/hidden/genitalia/variant of 陰|阴[yin1]",
+  "dataset_meanings": [
+   "surname Yin",
+   "overcast (weather)",
+   "cloudy",
+   "shady",
+   "Yin (the negative principle of Yin and Yang)",
+   "negative (electric.)",
+   "feminine",
+   "moon",
+   "implicit",
+   "hidden",
+   "genitalia",
+   "variant of 阴"
+  ]
+ },
+ {
+  "hanzi": "凉",
+  "pinyin": "liáng",
+  "meaning_ru": "прохладный",
+  "meaning_en": "cool; cold",
+  "semantic_tags": [
+   "weather",
+   "sensation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "the five Liang of the Sixteen Kingdoms, namely: Former Liang 前涼|前凉 (314-376), Later Liang 後涼|后凉 (386-403), Northern Liang 北涼|北凉 (398-439), Southern Liang 南涼|南凉[Nan2 Liang2] (397-414), Western Liang 西涼|西凉 (400-421)/cool/cold/to let sth cool down",
+  "dataset_meanings": [
+   "the five Liang of the Sixteen Kingdoms, namely: Former Liang 前凉 (314-376), Later Liang 后凉 (386-403), Northern Liang 北凉 (398-439), Southern Liang 南凉 (397-414), Western Liang 西凉 (400-421)",
+   "cool",
+   "cold",
+   "to let sth cool down"
+  ]
+ },
+ {
+  "hanzi": "半夜",
+  "pinyin": "bànyè",
+  "meaning_ru": "полночь; ночь",
+  "meaning_en": "midnight; late night",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "midnight/in the middle of the night",
+  "dataset_meanings": [
+   "midnight",
+   "in the middle of the night"
+  ]
+ },
+ {
+  "hanzi": "黄色",
+  "pinyin": "huángsè",
+  "meaning_ru": "жёлтый; порно (перен.)",
+  "meaning_en": "yellow; pornographic",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "yellow/vulgar; lewd; pornographic",
+  "dataset_meanings": [
+   "yellow (color)",
+   "pornographic"
+  ]
+ },
+ {
+  "hanzi": "姓名",
+  "pinyin": "xìngmíng",
+  "meaning_ru": "полное имя",
+  "meaning_en": "full name",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "surname and given name; full name",
+  "dataset_meanings": [
+   "surname and given name",
+   "full name"
+  ]
+ },
+ {
+  "hanzi": "午餐",
+  "pinyin": "wǔcān",
+  "meaning_ru": "обед",
+  "meaning_en": "lunch",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "lunch/luncheon/CL:份[fen4],頓|顿[dun4],次[ci4]",
+  "dataset_meanings": [
+   "lunch",
+   "luncheon"
+  ]
+ },
+ {
+  "hanzi": "校园",
+  "pinyin": "xiàoyuán",
+  "meaning_ru": "кампус; территория школы",
+  "meaning_en": "campus",
+  "semantic_tags": [
+   "education",
+   "place"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "campus",
+  "dataset_meanings": [
+   "campus"
+  ]
+ }
+]

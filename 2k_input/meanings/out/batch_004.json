@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "在家",
+  "pinyin": "zàijiā",
+  "meaning_ru": "быть дома",
+  "meaning_en": "to be at home",
+  "semantic_tags": [
+   "action_daily",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "妹",
+  "pinyin": "mèi",
+  "meaning_ru": "младшая сестра",
+  "meaning_en": "younger sister",
+  "semantic_tags": [
+   "family"
+  ]
+ },
+ {
+  "hanzi": "不对",
+  "pinyin": "búduì",
+  "meaning_ru": "неверно; не так",
+  "meaning_en": "wrong; incorrect",
+  "semantic_tags": [
+   "evaluation_adj",
+   "judgement"
+  ]
+ },
+ {
+  "hanzi": "中午",
+  "pinyin": "zhōngwǔ",
+  "meaning_ru": "полдень",
+  "meaning_en": "noon; midday",
+  "semantic_tags": [
+   "time_word",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "干什么",
+  "pinyin": "gànshénme",
+  "meaning_ru": "что делаешь?; зачем?",
+  "meaning_en": "what are you doing?",
+  "semantic_tags": [
+   "action_daily",
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "奶",
+  "pinyin": "nǎi",
+  "meaning_ru": "молоко; грудь",
+  "meaning_en": "milk; breast",
+  "semantic_tags": [
+   "drink",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "这边",
+  "pinyin": "zhèbiān",
+  "meaning_ru": "здесь; эта сторона",
+  "meaning_en": "this side; here",
+  "semantic_tags": [
+   "direction",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "男生",
+  "pinyin": "nánshēng",
+  "meaning_ru": "парень; ученик (м.)",
+  "meaning_en": "boy; male student",
+  "semantic_tags": [
+   "person",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "火车",
+  "pinyin": "huǒchē",
+  "meaning_ru": "поезд",
+  "meaning_en": "train",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "上次",
+  "pinyin": "shàngcì",
+  "meaning_ru": "прошлый раз",
+  "meaning_en": "last time",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "右边",
+  "pinyin": "yòubian",
+  "meaning_ru": "справа; правая сторона",
+  "meaning_en": "right side",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "上学",
+  "pinyin": "shàngxué",
+  "meaning_ru": "ходить в школу",
+  "meaning_en": "to go to school",
+  "semantic_tags": [
+   "education",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "牛奶",
+  "pinyin": "niúnǎi",
+  "meaning_ru": "молоко (коровье)",
+  "meaning_en": "cow's milk",
+  "semantic_tags": [
+   "drink",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "女朋友",
+  "pinyin": "nǚpéngyou",
+  "meaning_ru": "девушка (подруга)",
+  "meaning_en": "girlfriend",
+  "semantic_tags": [
+   "relationship_social",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "听见",
+  "pinyin": "tīngjiàn",
+  "meaning_ru": "услышать",
+  "meaning_en": "to hear",
+  "semantic_tags": [
+   "perception",
+   "action_communication"
+  ]
+ }
+]

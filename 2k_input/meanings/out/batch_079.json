@@ -1,0 +1,152 @@
+[
+ {
+  "hanzi": "招生",
+  "pinyin": "zhāoshēng",
+  "meaning_ru": "набор студентов",
+  "meaning_en": "enroll students",
+  "semantic_tags": [
+   "education",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "回信",
+  "pinyin": "huíxìn",
+  "meaning_ru": "ответить письмом; ответ",
+  "meaning_en": "reply; write back",
+  "semantic_tags": [
+   "action_communication",
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "入门",
+  "pinyin": "rùmén",
+  "meaning_ru": "освоить азы; введение",
+  "meaning_en": "get started; basics",
+  "semantic_tags": [
+   "action_learning",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "工作日",
+  "pinyin": "gōngzuòrì",
+  "meaning_ru": "рабочий день; будни",
+  "meaning_en": "workday; weekday",
+  "semantic_tags": [
+   "time_period",
+   "work_career"
+  ]
+ },
+ {
+  "hanzi": "大奖赛",
+  "pinyin": "dàjiǎngsài",
+  "meaning_ru": "гран-при; турнир",
+  "meaning_en": "grand prix",
+  "semantic_tags": [
+   "sport",
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "主体",
+  "pinyin": "zhǔtǐ",
+  "meaning_ru": "основная часть; субъект",
+  "meaning_en": "main part; subject",
+  "semantic_tags": [
+   "abstract_relation",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "贺卡",
+  "pinyin": "hèkǎ",
+  "meaning_ru": "поздравительная открытка",
+  "meaning_en": "greeting card",
+  "semantic_tags": [
+   "object_home",
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "招手",
+  "pinyin": "zhāoshǒu",
+  "meaning_ru": "махать рукой; подзывать",
+  "meaning_en": "wave; beckon",
+  "semantic_tags": [
+   "physical_action",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "出汗",
+  "pinyin": "chūhàn",
+  "meaning_ru": "потеть",
+  "meaning_en": "sweat; perspire",
+  "semantic_tags": [
+   "body_state",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "协议书",
+  "pinyin": "xiéyìshū",
+  "meaning_ru": "договор; соглашение",
+  "meaning_en": "written agreement",
+  "semantic_tags": [
+   "law_admin_doc",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "胶带",
+  "pinyin": "jiāodài",
+  "meaning_ru": "клейкая лента; скотч",
+  "meaning_en": "adhesive tape",
+  "semantic_tags": [
+   "object_home",
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "相声",
+  "pinyin": "xiàngsheng",
+  "meaning_ru": "сяншэн (комич. диалог)",
+  "meaning_en": "comic crosstalk",
+  "semantic_tags": [
+   "art",
+   "culture"
+  ]
+ },
+ {
+  "hanzi": "物价",
+  "pinyin": "wùjià",
+  "meaning_ru": "цены на товары",
+  "meaning_en": "commodity prices",
+  "semantic_tags": [
+   "economy_finance",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "汇款",
+  "pinyin": "huìkuǎn",
+  "meaning_ru": "перевод денег; перевод",
+  "meaning_en": "remit money",
+  "semantic_tags": [
+   "money",
+   "transaction"
+  ]
+ },
+ {
+  "hanzi": "农产品",
+  "pinyin": "nóngchǎnpǐn",
+  "meaning_ru": "сельхозпродукция",
+  "meaning_en": "farm produce",
+  "semantic_tags": [
+   "industry_production",
+   "commerce_trade"
+  ]
+ }
+]

@@ -1,0 +1,1065 @@
+[
+ {
+  "hanzi": "好玩儿",
+  "pinyin": "hǎowánr",
+  "meaning_ru": "весёлый; забавный",
+  "meaning_en": "fun; amusing",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "erhua variant of 好玩[hao3 wan2]",
+  "dataset_meanings": [
+   "erhua variant of 好玩",
+   "amusing",
+   "fun",
+   "interesting"
+  ]
+ },
+ {
+  "hanzi": "课文",
+  "pinyin": "kèwén",
+  "meaning_ru": "текст (урока)",
+  "meaning_en": "text (lesson)",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "text/CL:篇[pian1]",
+  "dataset_meanings": [
+   "text"
+  ]
+ },
+ {
+  "hanzi": "请坐",
+  "pinyin": "qǐngzuò",
+  "meaning_ru": "садитесь, пожалуйста",
+  "meaning_en": "please sit down",
+  "semantic_tags": [
+   "politeness",
+   "greeting"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "please, have a seat",
+  "dataset_meanings": [
+   "please, have a seat"
+  ]
+ },
+ {
+  "hanzi": "半年",
+  "pinyin": "bànnián",
+  "meaning_ru": "полгода",
+  "meaning_en": "half a year",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "half a year",
+  "dataset_meanings": [
+   "half a year"
+  ]
+ },
+ {
+  "hanzi": "听写",
+  "pinyin": "tīngxiě",
+  "meaning_ru": "диктант; писать под диктовку",
+  "meaning_en": "dictation",
+  "semantic_tags": [
+   "education",
+   "action_learning"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "(of a pupil) to write down (in a dictation exercise); dictation/(music) to transcribe by ear",
+  "dataset_meanings": [
+   "(of a pupil) to write down (in a dictation exercise)",
+   "dictation",
+   "(music) to transcribe by ear"
+  ]
+ },
+ {
+  "hanzi": "一下儿",
+  "pinyin": "yīxiàr",
+  "meaning_ru": "разок; немного",
+  "meaning_en": "once; a bit",
+  "semantic_tags": [
+   "quantity_abstract"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "erhua form of 一下[yi1 xia4]",
+  "dataset_meanings": [
+   "erhua variant of 一下",
+   "one time; once",
+   "all of sudden"
+  ]
+ },
+ {
+  "hanzi": "有一些",
+  "pinyin": "yǒuyīxiē",
+  "meaning_ru": "немного; несколько",
+  "meaning_en": "some; a few",
+  "semantic_tags": [
+   "quantity"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "somewhat/rather/some",
+  "dataset_meanings": [
+   "somewhat",
+   "rather",
+   "some"
+  ]
+ },
+ {
+  "hanzi": "男孩儿",
+  "pinyin": "nánháir",
+  "meaning_ru": "мальчик",
+  "meaning_en": "boy",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "erhua form of 男孩[nan2 hai2]",
+  "dataset_meanings": [
+   "erhua variant of 男孩",
+   "boy"
+  ]
+ },
+ {
+  "hanzi": "面条儿",
+  "pinyin": "miàntiáor",
+  "meaning_ru": "лапша",
+  "meaning_en": "noodles",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 1,
+  "cedict_en": "erhua variant of 麵條|面条[mian4 tiao2]",
+  "dataset_meanings": [
+   "erhua variant of 面条",
+   "noodles"
+  ]
+ },
+ {
+  "hanzi": "让",
+  "pinyin": "ràng",
+  "meaning_ru": "позволять; заставлять",
+  "meaning_en": "to let; to make sb do",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to yield/to permit/to let sb do sth/to have sb do sth/to make sb (feel sad etc)/by (indicates the agent in a passive clause, like 被[bei4])",
+  "dataset_meanings": [
+   "to yield",
+   "to permit",
+   "to let sb do sth",
+   "to have sb do sth",
+   "to make sb (feel sad etc)",
+   "by (indicates the agent in a passive clause, like 被)"
+  ]
+ },
+ {
+  "hanzi": "为",
+  "pinyin": "wéi",
+  "meaning_ru": "быть; являться; делать",
+  "meaning_en": "to be; to act as",
+  "semantic_tags": [
+   "abstract_relation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)/because of/for/to/variant of 為|为[wei2]/variant of 為|为[wei4]",
+  "dataset_meanings": [
+   "as (in the capacity of)",
+   "to take sth as",
+   "to act as",
+   "to serve as",
+   "to behave as",
+   "to become",
+   "to be",
+   "to do",
+   "by (in the passive voice)",
+   "because of",
+   "for",
+   "to",
+   "variant of 为"
+  ]
+ },
+ {
+  "hanzi": "可能",
+  "pinyin": "kěnéng",
+  "meaning_ru": "возможно; вероятно",
+  "meaning_en": "maybe; possible",
+  "semantic_tags": [
+   "judgement",
+   "degree_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "might (happen)/possible/probable/possibility/probability/maybe/perhaps/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "might (happen)",
+   "possible",
+   "probable",
+   "possibility",
+   "probability",
+   "maybe",
+   "perhaps"
+  ]
+ },
+ {
+  "hanzi": "向",
+  "pinyin": "xiàng",
+  "meaning_ru": "к; в сторону",
+  "meaning_en": "towards; to face",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "surname Xiang/towards/to face/to turn towards/direction/to support/to side with/shortly before/formerly/always/all along/(suffix) suitable for .../oriented to .../to tend toward/to guide/variant of 向[xiang4]/orientation/to turn toward/to",
+  "dataset_meanings": [
+   "surname Xiang",
+   "towards",
+   "to face",
+   "to turn towards",
+   "direction",
+   "to support",
+   "to side with",
+   "shortly before",
+   "formerly",
+   "always",
+   "all along",
+   "(suffix) suitable for ...",
+   "oriented to ...",
+   "to tend toward",
+   "to guide",
+   "variant of 向",
+   "orientation",
+   "to turn toward",
+   "to"
+  ]
+ },
+ {
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "meaning_ru": "продавать",
+  "meaning_en": "to sell",
+  "semantic_tags": [
+   "commerce_trade"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to sell/to betray/to spare no effort/to show off or flaunt",
+  "dataset_meanings": [
+   "to sell",
+   "to betray",
+   "to spare no effort",
+   "to show off or flaunt"
+  ]
+ },
+ {
+  "hanzi": "句",
+  "pinyin": "jù",
+  "meaning_ru": "фраза; счётн. слово фраз",
+  "meaning_en": "sentence; (cl. phrases)",
+  "semantic_tags": [
+   "communication",
+   "measurement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "variant of 勾[gou1]/sentence/clause/phrase/classifier for phrases or lines of verse",
+  "dataset_meanings": [
+   "variant of 勾",
+   "sentence",
+   "clause",
+   "phrase",
+   "classifier for phrases or lines of verse"
+  ]
+ },
+ {
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "meaning_ru": "собака",
+  "meaning_en": "dog",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "dog/CL:隻|只[zhi1],條|条[tiao2]",
+  "dataset_meanings": [
+   "dog"
+  ]
+ },
+ {
+  "hanzi": "懂",
+  "pinyin": "dǒng",
+  "meaning_ru": "понимать",
+  "meaning_en": "to understand",
+  "semantic_tags": [
+   "cognition"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to understand/to comprehend",
+  "dataset_meanings": [
+   "to understand",
+   "to comprehend"
+  ]
+ },
+ {
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "meaning_ru": "чёрный; тёмный",
+  "meaning_en": "black; dark",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "short name for Heilongjiang 黑龍江|黑龙江[Hei1 long2 jiang1]/black/dark/sinister/secret/shady/illegal/to hide (sth) away/to vilify/(loanword) to hack (computing)",
+  "dataset_meanings": [
+   "abbr. for Heilongjiang province 黑龙江",
+   "black",
+   "dark",
+   "sinister",
+   "secret",
+   "shady",
+   "illegal",
+   "to hide (sth) away",
+   "to vilify",
+   "(loanword) to hack (computing)"
+  ]
+ },
+ {
+  "hanzi": "店",
+  "pinyin": "diàn",
+  "meaning_ru": "магазин; лавка",
+  "meaning_en": "shop; store",
+  "semantic_tags": [
+   "building",
+   "commerce_trade"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "inn; old-style hotel (CL:家[jia1])/(bound form) shop; store",
+  "dataset_meanings": [
+   "inn; old-style hotel",
+   "(bound form) shop; store"
+  ]
+ },
+ {
+  "hanzi": "眼",
+  "pinyin": "yǎn",
+  "meaning_ru": "глаз",
+  "meaning_en": "eye",
+  "semantic_tags": [
+   "body"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "eye (CL:隻|只[zhi1],雙|双[shuang1])/(often used with 一[yi1]) a look; a glance/small hole/(bound form) salient point/classifier for wells, cave-dwellings etc",
+  "dataset_meanings": [
+   "eye",
+   "small hole",
+   "crux (of a matter)",
+   "classifier for big hollow things (wells, stoves, pots etc)"
+  ]
+ },
+ {
+  "hanzi": "停",
+  "pinyin": "tíng",
+  "meaning_ru": "останавливаться",
+  "meaning_en": "to stop; to park",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to stop/to halt/to park (a car)",
+  "dataset_meanings": [
+   "to stop",
+   "to halt",
+   "to park (a car)"
+  ]
+ },
+ {
+  "hanzi": "气",
+  "pinyin": "qì",
+  "meaning_ru": "воздух; газ",
+  "meaning_en": "air; gas",
+  "semantic_tags": [
+   "nature",
+   "material_substance"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "gas; air/smell/weather/to make angry; to annoy; to get angry/vital energy; qi",
+  "dataset_meanings": [
+   "gas; air",
+   "smell",
+   "weather",
+   "to make angry; to annoy; to get angry",
+   "vital energy; qi"
+  ]
+ },
+ {
+  "hanzi": "红",
+  "pinyin": "hóng",
+  "meaning_ru": "красный",
+  "meaning_en": "red",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "surname Hong/used in 女紅|女红[nu : 3 gong1]/red/popular/revolutionary/bonus",
+  "dataset_meanings": [
+   "surname Hong",
+   "red",
+   "popular",
+   "revolutionary",
+   "bonus"
+  ]
+ },
+ {
+  "hanzi": "眼睛",
+  "pinyin": "yǎnjing",
+  "meaning_ru": "глаза",
+  "meaning_en": "eye(s)",
+  "semantic_tags": [
+   "body"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "eye/CL:隻|只[zhi1],雙|双[shuang1]",
+  "dataset_meanings": [
+   "eye"
+  ]
+ },
+ {
+  "hanzi": "做到",
+  "pinyin": "zuòdào",
+  "meaning_ru": "достичь; справиться",
+  "meaning_en": "to accomplish; achieve",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to accomplish/to achieve",
+  "dataset_meanings": [
+   "to accomplish",
+   "to achieve"
+  ]
+ },
+ {
+  "hanzi": "意思",
+  "pinyin": "yìsi",
+  "meaning_ru": "смысл; значение",
+  "meaning_en": "meaning; idea",
+  "semantic_tags": [
+   "cognition",
+   "abstract_relation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "idea/opinion/meaning/wish/desire/interest/fun/token of appreciation, affection etc/CL:個|个[ge4]/to give as a small token/to do sth as a gesture of goodwill etc",
+  "dataset_meanings": [
+   "idea",
+   "opinion",
+   "meaning",
+   "wish",
+   "desire",
+   "interest",
+   "fun",
+   "token of appreciation, affection etc",
+   "to give as a small token",
+   "to do sth as a gesture of goodwill etc"
+  ]
+ },
+ {
+  "hanzi": "加油",
+  "pinyin": "jiāyóu",
+  "meaning_ru": "давай; держись",
+  "meaning_en": "go!; keep going",
+  "semantic_tags": [
+   "communication_emotion"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to add oil; to top up with gas; to refuel/to accelerate; to step on the gas/(fig.) to make an extra effort; to cheer sb on",
+  "dataset_meanings": [
+   "to add oil",
+   "to top up with gas",
+   "to refuel",
+   "to accelerate",
+   "to step on the gas",
+   "(fig.) to make an extra effort",
+   "to cheer sb on"
+  ]
+ },
+ {
+  "hanzi": "晚安",
+  "pinyin": "wǎnʼān",
+  "meaning_ru": "спокойной ночи",
+  "meaning_en": "good night",
+  "semantic_tags": [
+   "greeting"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "Good night!/Good evening!",
+  "dataset_meanings": [
+   "Good night!",
+   "Good evening!"
+  ]
+ },
+ {
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "meaning_ru": "кошка",
+  "meaning_en": "cat",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "cat (CL:隻|只[zhi1])/(dialect) to hide oneself/(loanword) (coll.) modem/used in 貓腰|猫腰[mao2 yao1]",
+  "dataset_meanings": [
+   "cat",
+   "(dialect) to hide oneself",
+   "(coll.) modem"
+  ]
+ },
+ {
+  "hanzi": "通",
+  "pinyin": "tōng",
+  "meaning_ru": "проходить; соединять",
+  "meaning_en": "to pass through; connect",
+  "semantic_tags": [
+   "action_movement",
+   "abstract_relation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to go through/to know well/(suffix) expert/to connect/to communicate/open/to clear/classifier for letters, telegrams, phone calls etc/classifier for an activity, taken in its entirety (tirade of abuse, stint of music playing, bout of drinking etc)",
+  "dataset_meanings": [
+   "to go through",
+   "to know well",
+   "(suffix) expert",
+   "to connect",
+   "to communicate",
+   "open",
+   "to clear",
+   "classifier for letters, telegrams, phone calls etc",
+   "classifier for an activity, taken in its entirety (tirade of abuse, stint of music playing, bout of drinking etc)"
+  ]
+ },
+ {
+  "hanzi": "排",
+  "pinyin": "pái",
+  "meaning_ru": "ряд; выстраивать в ряд",
+  "meaning_en": "row; line up",
+  "semantic_tags": [
+   "physical_action",
+   "shape_form"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to arrange in order; to line up/to exclude; to eliminate; to repel; to expel; to discharge/(literary) to push aside; to force open/to rehearse/row; line/platoon/(bound form) steak; chop/(bound form) raft/classifier for rows or lines (of people or things)",
+  "dataset_meanings": [
+   "a row",
+   "a line",
+   "to set in order",
+   "to arrange",
+   "to line up",
+   "to eliminate",
+   "to drain",
+   "to push open",
+   "platoon",
+   "raft",
+   "classifier for lines, rows etc"
+  ]
+ },
+ {
+  "hanzi": "油",
+  "pinyin": "yóu",
+  "meaning_ru": "масло; жир",
+  "meaning_en": "oil; grease",
+  "semantic_tags": [
+   "material_substance",
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "oil/fat/grease/petroleum/to apply tung oil, paint or varnish/oily/greasy/glib/cunning",
+  "dataset_meanings": [
+   "oil",
+   "fat",
+   "grease",
+   "petroleum",
+   "to apply tung oil, paint or varnish",
+   "oily",
+   "greasy",
+   "glib",
+   "cunning"
+  ]
+ },
+ {
+  "hanzi": "喂",
+  "pinyin": "wéi",
+  "meaning_ru": "алло; эй",
+  "meaning_en": "hello (on phone); hey",
+  "semantic_tags": [
+   "communication_emotion",
+   "greeting"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "hello (when answering the phone)/hey/to feed (an animal, baby, invalid etc)/variant of 餵|喂[wei4]/to feed",
+  "dataset_meanings": [
+   "hello (when answering the phone)",
+   "hey",
+   "to feed (an animal, baby, invalid etc)",
+   "variant of 喂",
+   "to feed"
+  ]
+ },
+ {
+  "hanzi": "流",
+  "pinyin": "liú",
+  "meaning_ru": "течь; струиться",
+  "meaning_en": "to flow; stream",
+  "semantic_tags": [
+   "action_movement",
+   "nature"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to flow/to disseminate/to circulate or spread/to move or drift/to degenerate/to banish or send into exile/stream of water or sth resembling one/class, rate or grade",
+  "dataset_meanings": [
+   "to flow",
+   "to disseminate",
+   "to circulate or spread",
+   "to move or drift",
+   "to degenerate",
+   "to banish or send into exile",
+   "stream of water or sth resembling one",
+   "class, rate or grade"
+  ]
+ },
+ {
+  "hanzi": "养",
+  "pinyin": "yǎng",
+  "meaning_ru": "растить; держать (животных)",
+  "meaning_en": "to raise; keep (pets)",
+  "semantic_tags": [
+   "action_daily",
+   "family"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to raise (animals)/to bring up (children)/to keep (pets)/to support/to give birth",
+  "dataset_meanings": [
+   "to raise (animals)",
+   "to bring up (children)",
+   "to keep (pets)",
+   "to support",
+   "to give birth"
+  ]
+ },
+ {
+  "hanzi": "船",
+  "pinyin": "chuán",
+  "meaning_ru": "лодка; корабль",
+  "meaning_en": "boat; ship",
+  "semantic_tags": [
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "variant of 船[chuan2]/boat/vessel/ship/CL:條|条[tiao2],艘[sou1],隻|只[zhi1]",
+  "dataset_meanings": [
+   "variant of 船",
+   "boat",
+   "vessel",
+   "ship"
+  ]
+ },
+ {
+  "hanzi": "鸡",
+  "pinyin": "jī",
+  "meaning_ru": "курица; петух",
+  "meaning_en": "chicken",
+  "semantic_tags": [
+   "animal",
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "fowl/chicken/CL:隻|只[zhi1]/(slang) prostitute/variant of 雞|鸡[ji1]",
+  "dataset_meanings": [
+   "fowl",
+   "chicken",
+   "(slang) prostitute"
+  ]
+ },
+ {
+  "hanzi": "不行",
+  "pinyin": "bùxíng",
+  "meaning_ru": "нельзя; не годится",
+  "meaning_en": "won't do; no good",
+  "semantic_tags": [
+   "evaluation_adj",
+   "judgement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "won't do/be out of the question/be no good/not work/not be capable",
+  "dataset_meanings": [
+   "won't do",
+   "be out of the question",
+   "be no good",
+   "not work",
+   "not be capable"
+  ]
+ },
+ {
+  "hanzi": "长大",
+  "pinyin": "zhǎngdà",
+  "meaning_ru": "вырасти; повзрослеть",
+  "meaning_en": "to grow up",
+  "semantic_tags": [
+   "process_change",
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to grow up",
+  "dataset_meanings": [
+   "to grow up"
+  ]
+ },
+ {
+  "hanzi": "交给",
+  "pinyin": "jiāogěi",
+  "meaning_ru": "передать; вручить",
+  "meaning_en": "to hand over; deliver",
+  "semantic_tags": [
+   "action_daily",
+   "transaction"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to give; to deliver; to hand over",
+  "dataset_meanings": [
+   "to give; to deliver; to hand over"
+  ]
+ },
+ {
+  "hanzi": "封",
+  "pinyin": "fēng",
+  "meaning_ru": "запечатать; счётн. для писем",
+  "meaning_en": "to seal; cl. for letters",
+  "semantic_tags": [
+   "physical_action",
+   "measurement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "surname Feng/to confer/to grant/to bestow a title/to seal/classifier for sealed objects, esp. letters",
+  "dataset_meanings": [
+   "surname Feng",
+   "to confer",
+   "to grant",
+   "to bestow a title",
+   "to seal",
+   "classifier for sealed objects, esp. letters"
+  ]
+ },
+ {
+  "hanzi": "蛋",
+  "pinyin": "dàn",
+  "meaning_ru": "яйцо",
+  "meaning_en": "egg",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "variant of 蜑[Dan4]/egg/CL:個|个[ge4],打[da2]/oval-shaped thing",
+  "dataset_meanings": [
+   "variant of 蜑",
+   "egg",
+   "oval-shaped thing"
+  ]
+ },
+ {
+  "hanzi": "想起",
+  "pinyin": "xiǎngqǐ",
+  "meaning_ru": "вспомнить; припомнить",
+  "meaning_en": "to recall; think of",
+  "semantic_tags": [
+   "cognition"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to recall/to think of/to call to mind",
+  "dataset_meanings": [
+   "to recall",
+   "to think of",
+   "to call to mind"
+  ]
+ },
+ {
+  "hanzi": "纸",
+  "pinyin": "zhǐ",
+  "meaning_ru": "бумага",
+  "meaning_en": "paper",
+  "semantic_tags": [
+   "material_substance",
+   "object_stationery"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "variant of 紙|纸[zhi3]/paper (CL:張|张[zhang1],沓[da2])/classifier for documents, letters etc",
+  "dataset_meanings": [
+   "variant of 纸",
+   "paper",
+   "classifier for documents, letter etc"
+  ]
+ },
+ {
+  "hanzi": "一生",
+  "pinyin": "yīshēng",
+  "meaning_ru": "вся жизнь; всю жизнь",
+  "meaning_en": "all one's life",
+  "semantic_tags": [
+   "time_period",
+   "abstract_quality"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "all one's life; throughout one's life",
+  "dataset_meanings": [
+   "all one's life; throughout one's life"
+  ]
+ },
+ {
+  "hanzi": "急",
+  "pinyin": "jí",
+  "meaning_ru": "срочный; спешить",
+  "meaning_en": "urgent; in a hurry",
+  "semantic_tags": [
+   "evaluation_adj",
+   "emotion"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "urgent/pressing/rapid/hurried/worried/to make (sb) anxious",
+  "dataset_meanings": [
+   "urgent",
+   "pressing",
+   "rapid",
+   "hurried",
+   "worried",
+   "to make (sb) anxious"
+  ]
+ },
+ {
+  "hanzi": "接到",
+  "pinyin": "jiēdào",
+  "meaning_ru": "получить (письмо и т.п.)",
+  "meaning_en": "to receive (a letter)",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to receive (letter etc)",
+  "dataset_meanings": [
+   "to receive (letter etc)"
+  ]
+ },
+ {
+  "hanzi": "好多",
+  "pinyin": "hǎoduō",
+  "meaning_ru": "много; немало",
+  "meaning_en": "a lot; many",
+  "semantic_tags": [
+   "quantity"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "many/quite a lot/much better",
+  "dataset_meanings": [
+   "many",
+   "quite a lot",
+   "much better"
+  ]
+ },
+ {
+  "hanzi": "颜色",
+  "pinyin": "yánsè",
+  "meaning_ru": "цвет",
+  "meaning_en": "color",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "color/countenance/appearance/facial expression/pigment/dyestuff",
+  "dataset_meanings": [
+   "color",
+   "countenance",
+   "appearance",
+   "facial expression",
+   "pigment",
+   "dyestuff"
+  ]
+ },
+ {
+  "hanzi": "什么样",
+  "pinyin": "shénmeyàng",
+  "meaning_ru": "какой?; что за?",
+  "meaning_en": "what kind?",
+  "semantic_tags": [
+   "pronoun"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "what kind?; what sort?",
+  "dataset_meanings": [
+   "what kind?; what sort?"
+  ]
+ },
+ {
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "meaning_ru": "снег",
+  "meaning_en": "snow",
+  "semantic_tags": [
+   "weather",
+   "nature"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "surname Xue/snow/CL:場|场[chang2]/(literary) to wipe away (a humiliation etc)",
+  "dataset_meanings": [
+   "surname Xue",
+   "snow",
+   "(literary) to wipe away (a humiliation etc)"
+  ]
+ },
+ {
+  "hanzi": "那时",
+  "pinyin": "nàshí",
+  "meaning_ru": "тогда; в то время",
+  "meaning_en": "then; at that time",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "then/at that time/in those days",
+  "dataset_meanings": [
+   "then",
+   "at that time",
+   "in those days"
+  ]
+ },
+ {
+  "hanzi": "心中",
+  "pinyin": "xīnzhōng",
+  "meaning_ru": "в душе; в мыслях",
+  "meaning_en": "in one's heart; in mind",
+  "semantic_tags": [
+   "cognition",
+   "emotion"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "central point/in one's thoughts/in one's heart",
+  "dataset_meanings": [
+   "central point",
+   "in one's thoughts",
+   "in one's heart"
+  ]
+ },
+ {
+  "hanzi": "高中",
+  "pinyin": "gāozhōng",
+  "meaning_ru": "старшая школа",
+  "meaning_en": "senior high school",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "senior high school (abbr. for 高級中學|高级中学[gao1 ji2 zhong1 xue2])/to pass brilliantly (used in congratulatory fashion)",
+  "dataset_meanings": [
+   "senior high school",
+   "abbr. for 高级中学",
+   "to pass brilliantly (used in congratulatory fashion)"
+  ]
+ },
+ {
+  "hanzi": "讲话",
+  "pinyin": "jiǎnghuà",
+  "meaning_ru": "говорить; речь",
+  "meaning_en": "to speak; a speech",
+  "semantic_tags": [
+   "action_communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "a speech/to speak/to talk/to address/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "a speech",
+   "to speak",
+   "to talk",
+   "to address"
+  ]
+ },
+ {
+  "hanzi": "大多数",
+  "pinyin": "dàduōshù",
+  "meaning_ru": "большинство",
+  "meaning_en": "the majority",
+  "semantic_tags": [
+   "quantity"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "(great) majority",
+  "dataset_meanings": [
+   "(great) majority"
+  ]
+ },
+ {
+  "hanzi": "红色",
+  "pinyin": "hóngsè",
+  "meaning_ru": "красный цвет",
+  "meaning_en": "red (color)",
+  "semantic_tags": [
+   "color"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "red (color)/revolutionary",
+  "dataset_meanings": [
+   "red (color)",
+   "revolutionary"
+  ]
+ },
+ {
+  "hanzi": "放下",
+  "pinyin": "fàngxià",
+  "meaning_ru": "положить; отложить",
+  "meaning_en": "to put down; set aside",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to lay down; to put down/to let go of; to relinquish; to set aside/to lower (the blinds etc)",
+  "dataset_meanings": [
+   "to lay down",
+   "to put down",
+   "to let go of",
+   "to relinquish",
+   "to set aside",
+   "to lower (the blinds etc)"
+  ]
+ },
+ {
+  "hanzi": "早就",
+  "pinyin": "zǎojiù",
+  "meaning_ru": "давно уже",
+  "meaning_en": "long ago; already",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "already at an earlier time",
+  "dataset_meanings": [
+   "already at an earlier time"
+  ]
+ },
+ {
+  "hanzi": "练",
+  "pinyin": "liàn",
+  "meaning_ru": "тренировать; упражняться",
+  "meaning_en": "to practice; to train",
+  "semantic_tags": [
+   "action_learning"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to practice/to train/to drill/to perfect (one's skill)/exercise/(literary) white silk/to boil and scour raw silk",
+  "dataset_meanings": [
+   "to practice",
+   "to train",
+   "to drill",
+   "to perfect (one's skill)",
+   "exercise",
+   "(literary) white silk",
+   "to boil and scour raw silk"
+  ]
+ }
+]

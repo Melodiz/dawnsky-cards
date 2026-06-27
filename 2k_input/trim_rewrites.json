@@ -1,0 +1,2217 @@
+[
+ {
+  "hanzi": "爱",
+  "meaning_en": "to love; like (deep feeling)"
+ },
+ {
+  "hanzi": "孩子",
+  "meaning_en": "child; kid (neutral)"
+ },
+ {
+  "hanzi": "进",
+  "meaning_en": "enter; go in (neutral)"
+ },
+ {
+  "hanzi": "笑",
+  "meaning_ru": "смеяться; улыбаться (шире 微笑)",
+  "meaning_en": "laugh; smile (covers both)"
+ },
+ {
+  "hanzi": "外",
+  "meaning_ru": "снаружи; внешний (морфема)",
+  "meaning_en": "outside; external (morpheme)"
+ },
+ {
+  "hanzi": "错",
+  "meaning_ru": "неправильный; ошибка (шире 不对)",
+  "meaning_en": "wrong; mistake (broader than 不对)"
+ },
+ {
+  "hanzi": "别的",
+  "meaning_ru": "другой; иное (разг.)",
+  "meaning_en": "other; else (colloquial)"
+ },
+ {
+  "hanzi": "唱",
+  "meaning_en": "to sing (any context)"
+ },
+ {
+  "hanzi": "看见",
+  "meaning_en": "catch sight of (perception)"
+ },
+ {
+  "hanzi": "字",
+  "meaning_ru": "иероглиф; буква (единица)",
+  "meaning_en": "character; letter (single unit)"
+ },
+ {
+  "hanzi": "白",
+  "meaning_ru": "белый (прил./морфема)",
+  "meaning_en": "white (adj./morpheme)"
+ },
+ {
+  "hanzi": "哥",
+  "meaning_ru": "старший брат (не обяз. старший)",
+  "meaning_en": "elder brother (any, not eldest)"
+ },
+ {
+  "hanzi": "病人",
+  "meaning_en": "patient; sick person"
+ },
+ {
+  "hanzi": "有的",
+  "meaning_ru": "некоторые (одни…другие…)"
+ },
+ {
+  "hanzi": "右",
+  "meaning_ru": "правый (морфема/прил.; ср. 右边)",
+  "meaning_en": "right (morpheme/adj.; cf. 右边)"
+ },
+ {
+  "hanzi": "进去",
+  "meaning_ru": "войти (разг., напр. в комнату)",
+  "meaning_en": "go in (directional complement)"
+ },
+ {
+  "hanzi": "没什么",
+  "meaning_en": "nothing; not much (neutral)"
+ },
+ {
+  "hanzi": "慢",
+  "meaning_en": "slow (adj; speed, not gradual)"
+ },
+ {
+  "hanzi": "进来",
+  "meaning_en": "come in (toward speaker)"
+ },
+ {
+  "hanzi": "好看",
+  "meaning_en": "good-looking (people/things)"
+ },
+ {
+  "hanzi": "女生",
+  "meaning_en": "girl; female student (school)"
+ },
+ {
+  "hanzi": "那边",
+  "meaning_ru": "там; та сторона (направление)",
+  "meaning_en": "over there; that side"
+ },
+ {
+  "hanzi": "妹",
+  "meaning_ru": "младшая сестра (в составе слов)",
+  "meaning_en": "younger sister (morpheme)"
+ },
+ {
+  "hanzi": "不对",
+  "meaning_ru": "неверно (разг. возражение)",
+  "meaning_en": "not right (mild correction)"
+ },
+ {
+  "hanzi": "干什么",
+  "meaning_en": "what are you doing? (action)"
+ },
+ {
+  "hanzi": "这边",
+  "meaning_ru": "эта сторона; сюда (направление)",
+  "meaning_en": "this side; this way"
+ },
+ {
+  "hanzi": "右边",
+  "meaning_ru": "правая сторона (место; ср. 右)",
+  "meaning_en": "right side (location; cf. 右)"
+ },
+ {
+  "hanzi": "听见",
+  "meaning_ru": "услышать (акцент на восприятии)",
+  "meaning_en": "to hear (sound reached you)"
+ },
+ {
+  "hanzi": "读书",
+  "meaning_en": "read; study (colloquial)"
+ },
+ {
+  "hanzi": "姐",
+  "meaning_ru": "старшая сестра (связ. морфема)",
+  "meaning_en": "older sister (bound, compounds)"
+ },
+ {
+  "hanzi": "车站",
+  "meaning_ru": "станция (автобус/поезд)"
+ },
+ {
+  "hanzi": "小朋友",
+  "meaning_ru": "малыш (ласк., взрослый — ребёнку)"
+ },
+ {
+  "hanzi": "不大",
+  "meaning_en": "not very; not often"
+ },
+ {
+  "hanzi": "弟",
+  "meaning_ru": "младший брат (в составе слов)",
+  "meaning_en": "younger brother (morpheme)"
+ },
+ {
+  "hanzi": "关上",
+  "meaning_ru": "закрыть (дверь, окно)",
+  "meaning_en": "close shut (physical objects)"
+ },
+ {
+  "hanzi": "没事儿",
+  "meaning_en": "it's nothing (erhua form)"
+ },
+ {
+  "hanzi": "外边",
+  "meaning_ru": "снаружи (разг. место)",
+  "meaning_en": "outside (colloquial locative)"
+ },
+ {
+  "hanzi": "本子",
+  "meaning_ru": "тетрадь (физич. объект)"
+ },
+ {
+  "hanzi": "女孩儿",
+  "meaning_ru": "девочка/девушка (разг.)",
+  "meaning_en": "girl (colloquial, any age)"
+ },
+ {
+  "hanzi": "下边",
+  "meaning_ru": "внизу; под (разговорн.)",
+  "meaning_en": "below; underneath (spoken)"
+ },
+ {
+  "hanzi": "好玩儿",
+  "meaning_en": "fun; amusing (colloquial)"
+ },
+ {
+  "hanzi": "课文",
+  "meaning_en": "lesson text; reading passage"
+ },
+ {
+  "hanzi": "听写",
+  "meaning_ru": "диктант; писать под диктовку"
+ },
+ {
+  "hanzi": "有一些",
+  "meaning_ru": "есть немного; несколько",
+  "meaning_en": "there are some; a few"
+ },
+ {
+  "hanzi": "为",
+  "meaning_ru": "являться; быть (книжн.)",
+  "meaning_en": "to be; act as (literary)"
+ },
+ {
+  "hanzi": "可能",
+  "meaning_ru": "может быть; возможный",
+  "meaning_en": "maybe; possible (also: possibility)"
+ },
+ {
+  "hanzi": "卖",
+  "meaning_en": "to sell (colloquial)"
+ },
+ {
+  "hanzi": "句",
+  "meaning_en": "cl. for sentences; sentence"
+ },
+ {
+  "hanzi": "黑",
+  "meaning_ru": "чёрный; тёмный (прилаг.)",
+  "meaning_en": "black; dark (adjective)"
+ },
+ {
+  "hanzi": "意思",
+  "meaning_ru": "смысл; значение (слова)",
+  "meaning_en": "meaning (of words/signal)"
+ },
+ {
+  "hanzi": "排",
+  "meaning_ru": "ряд; выстраивать в ряд",
+  "meaning_en": "row (seats/troops); line up"
+ },
+ {
+  "hanzi": "流",
+  "meaning_ru": "течь; струиться (вода, слёзы)",
+  "meaning_en": "flow; stream (water/tears/time)"
+ },
+ {
+  "hanzi": "养",
+  "meaning_ru": "растить; держать (питомца/ребёнка)"
+ },
+ {
+  "hanzi": "长大",
+  "meaning_ru": "вырасти; повзрослеть",
+  "meaning_en": "grow up (reach adulthood)"
+ },
+ {
+  "hanzi": "交给",
+  "meaning_ru": "передать (с переходом прав)",
+  "meaning_en": "hand over (transfer ownership)"
+ },
+ {
+  "hanzi": "想起",
+  "meaning_en": "recall (something forgotten)"
+ },
+ {
+  "hanzi": "接到",
+  "meaning_en": "receive (call/message/letter)"
+ },
+ {
+  "hanzi": "颜色",
+  "meaning_en": "color (general noun)"
+ },
+ {
+  "hanzi": "那时",
+  "meaning_ru": "тогда (о упомянутом времени)"
+ },
+ {
+  "hanzi": "心中",
+  "meaning_en": "in one's heart (literary)"
+ },
+ {
+  "hanzi": "讲话",
+  "meaning_en": "speak; give a speech"
+ },
+ {
+  "hanzi": "早就",
+  "meaning_ru": "давно уже (с нажимом)",
+  "meaning_en": "long ago already (emphatic)"
+ },
+ {
+  "hanzi": "黑色",
+  "meaning_ru": "чёрный (цвет-сущ.)"
+ },
+ {
+  "hanzi": "大人",
+  "meaning_en": "adult; grownup (colloquial)"
+ },
+ {
+  "hanzi": "绿色",
+  "meaning_en": "green (color; also eco-friendly)"
+ },
+ {
+  "hanzi": "院",
+  "meaning_en": "courtyard; institution suffix"
+ },
+ {
+  "hanzi": "白色",
+  "meaning_ru": "белый (цвет, название)",
+  "meaning_en": "white (color noun)"
+ },
+ {
+  "hanzi": "送给",
+  "meaning_en": "give as a gift; hand to s.o."
+ },
+ {
+  "hanzi": "不久",
+  "meaning_ru": "вскоре (не сразу)",
+  "meaning_en": "before long (not immediate)"
+ },
+ {
+  "hanzi": "碰到",
+  "meaning_ru": "случайно встретить; наткнуться",
+  "meaning_en": "run into; encounter by chance"
+ },
+ {
+  "hanzi": "蓝色",
+  "meaning_ru": "синий (цвет-сущ.)"
+ },
+ {
+  "hanzi": "懂得",
+  "meaning_en": "understand intuitively; know how"
+ },
+ {
+  "hanzi": "早晨",
+  "meaning_ru": "утро (разговорное)",
+  "meaning_en": "early morning (colloquial)"
+ },
+ {
+  "hanzi": "以外",
+  "meaning_ru": "кроме; за пределами",
+  "meaning_en": "besides; outside of"
+ },
+ {
+  "hanzi": "全体",
+  "meaning_ru": "весь коллектив; все члены",
+  "meaning_en": "the whole group; all members"
+ },
+ {
+  "hanzi": "南方",
+  "meaning_ru": "юг (культурно-геогр. регион)",
+  "meaning_en": "the South (cultural/geographic)"
+ },
+ {
+  "hanzi": "大声",
+  "meaning_ru": "громко (о голосе)",
+  "meaning_en": "loudly (voice, not 'loud & clear')"
+ },
+ {
+  "hanzi": "分开",
+  "meaning_ru": "разделять; расходиться",
+  "meaning_en": "separate; split apart"
+ },
+ {
+  "hanzi": "相机",
+  "meaning_ru": "фотоаппарат (сокр. форма)"
+ },
+ {
+  "hanzi": "今后",
+  "meaning_ru": "впредь; отныне",
+  "meaning_en": "from now on (time adverb)"
+ },
+ {
+  "hanzi": "这时",
+  "meaning_ru": "в этот момент (повеств.)",
+  "meaning_en": "at this point (written/narrative)"
+ },
+ {
+  "hanzi": "凉",
+  "meaning_ru": "прохладный (умеренно)"
+ },
+ {
+  "hanzi": "游客",
+  "meaning_ru": "турист (приехал посмотреть)",
+  "meaning_en": "tourist (leisure/sightseeing)"
+ },
+ {
+  "hanzi": "拿到",
+  "meaning_en": "get; obtain (physical, hands-on)"
+ },
+ {
+  "hanzi": "公斤",
+  "meaning_en": "kilogram (everyday spoken form)"
+ },
+ {
+  "hanzi": "例子",
+  "meaning_ru": "пример (сущ., не союз)",
+  "meaning_en": "example; instance (noun)"
+ },
+ {
+  "hanzi": "常见",
+  "meaning_ru": "распространённый; частый"
+ },
+ {
+  "hanzi": "走过",
+  "meaning_ru": "пройти мимо",
+  "meaning_en": "walk past (simple motion)"
+ },
+ {
+  "hanzi": "出租",
+  "meaning_ru": "сдавать в аренду (хозяин)"
+ },
+ {
+  "hanzi": "这时候",
+  "meaning_en": "at this moment (colloquial)"
+ },
+ {
+  "hanzi": "老是",
+  "meaning_ru": "вечно; всё время (с досадой)",
+  "meaning_en": "always; keeps doing (complaint)"
+ },
+ {
+  "hanzi": "天上",
+  "meaning_en": "in the sky; in the heavens"
+ },
+ {
+  "hanzi": "旅客",
+  "meaning_ru": "пассажир; путешественник",
+  "meaning_en": "traveler; passenger"
+ },
+ {
+  "hanzi": "难题",
+  "meaning_ru": "трудная задача; сложный вопрос",
+  "meaning_en": "difficult problem; hard question"
+ },
+ {
+  "hanzi": "院长",
+  "meaning_ru": "директор/декан института",
+  "meaning_en": "director/dean of institute or hospital"
+ },
+ {
+  "hanzi": "夜里",
+  "meaning_en": "at night (colloquial)"
+ },
+ {
+  "hanzi": "音乐会",
+  "meaning_ru": "концерт (инструм. или любой)",
+  "meaning_en": "concert (any music, incl. instrumental)"
+ },
+ {
+  "hanzi": "分数",
+  "meaning_en": "score; grade (numeric)"
+ },
+ {
+  "hanzi": "举手",
+  "meaning_ru": "поднять руку (голосование)",
+  "meaning_en": "raise a hand (e.g. to vote)"
+ },
+ {
+  "hanzi": "课堂",
+  "meaning_ru": "класс; урок (пространство)",
+  "meaning_en": "classroom; lesson session"
+ },
+ {
+  "hanzi": "出国",
+  "meaning_ru": "ехать за границу",
+  "meaning_en": "go abroad (cross the border)"
+ },
+ {
+  "hanzi": "气温",
+  "meaning_ru": "температура воздуха (метео)"
+ },
+ {
+  "hanzi": "住房",
+  "meaning_en": "housing (societal concept)"
+ },
+ {
+  "hanzi": "走开",
+  "meaning_ru": "уйди; отойди (резко)",
+  "meaning_en": "go away; step aside (abrupt)"
+ },
+ {
+  "hanzi": "笔记",
+  "meaning_ru": "записи; конспект",
+  "meaning_en": "notes; jottings (written content)"
+ },
+ {
+  "hanzi": "小声",
+  "meaning_ru": "тихо; вполголоса",
+  "meaning_en": "in a low voice (manner)"
+ },
+ {
+  "hanzi": "送到",
+  "meaning_ru": "доставить до места",
+  "meaning_en": "deliver to a destination"
+ },
+ {
+  "hanzi": "老年",
+  "meaning_ru": "старость; пожилой возраст",
+  "meaning_en": "old age (life stage)"
+ },
+ {
+  "hanzi": "常用",
+  "meaning_ru": "часто используемый"
+ },
+ {
+  "hanzi": "有点儿",
+  "meaning_en": "a little (often negative tone)"
+ },
+ {
+  "hanzi": "全年",
+  "meaning_ru": "весь год; годовой",
+  "meaning_en": "whole year; annual"
+ },
+ {
+  "hanzi": "那会儿",
+  "meaning_en": "at that time (coll., er-hua)"
+ },
+ {
+  "hanzi": "坏处",
+  "meaning_en": "downside; drawback (noun)"
+ },
+ {
+  "hanzi": "千克",
+  "meaning_ru": "килограмм (офиц. ед. СИ)",
+  "meaning_en": "kilogram (official SI term)"
+ },
+ {
+  "hanzi": "叫作",
+  "meaning_ru": "называться (разг.)",
+  "meaning_en": "to be called (informal)"
+ },
+ {
+  "hanzi": "读音",
+  "meaning_en": "pronunciation (char/word)"
+ },
+ {
+  "hanzi": "公交车",
+  "meaning_en": "city bus (urban route)"
+ },
+ {
+  "hanzi": "那时候",
+  "meaning_en": "at that time (spoken)"
+ },
+ {
+  "hanzi": "步",
+  "meaning_en": "step; pace (measure word)"
+ },
+ {
+  "hanzi": "痛",
+  "meaning_ru": "боль; болеть (физич.)",
+  "meaning_en": "pain; to ache (physical)"
+ },
+ {
+  "hanzi": "整",
+  "meaning_en": "exactly whole (整十年)"
+ },
+ {
+  "hanzi": "外面",
+  "meaning_ru": "снаружи; вне (нареч.)"
+ },
+ {
+  "hanzi": "皮",
+  "meaning_ru": "кожа/кожура (не орган)",
+  "meaning_en": "skin/peel/leather (broad)"
+ },
+ {
+  "hanzi": "美好",
+  "meaning_ru": "чудесный; прекрасный",
+  "meaning_en": "wonderful (abstract things)"
+ },
+ {
+  "hanzi": "事实上",
+  "meaning_ru": "фактически (по фактам)",
+  "meaning_en": "in fact (stressing facts)"
+ },
+ {
+  "hanzi": "证",
+  "meaning_ru": "удостоверение; доказывать"
+ },
+ {
+  "hanzi": "演",
+  "meaning_ru": "исполнять (роль, концерт)",
+  "meaning_en": "perform (act/play/lecture)"
+ },
+ {
+  "hanzi": "胜",
+  "meaning_ru": "победить; превосходить"
+ },
+ {
+  "hanzi": "慢慢",
+  "meaning_en": "slowly; unhurriedly (coll.)"
+ },
+ {
+  "hanzi": "内心",
+  "meaning_en": "inner self (literary)"
+ },
+ {
+  "hanzi": "防",
+  "meaning_ru": "защищать; предотвращать"
+ },
+ {
+  "hanzi": "赶",
+  "meaning_ru": "спешить; успеть (на автобус)",
+  "meaning_en": "hurry; catch (bus/deadline)"
+ },
+ {
+  "hanzi": "仅仅",
+  "meaning_ru": "только; всего лишь",
+  "meaning_en": "merely; only (restrictor)"
+ },
+ {
+  "hanzi": "录",
+  "meaning_ru": "записывать (звук/видео)"
+ },
+ {
+  "hanzi": "背后",
+  "meaning_ru": "сзади; за спиной (втайне)",
+  "meaning_en": "behind; at one's back (fig.)"
+ },
+ {
+  "hanzi": "缺",
+  "meaning_ru": "не хватать; недостаток",
+  "meaning_en": "lack (verb); shortage"
+ },
+ {
+  "hanzi": "古",
+  "meaning_en": "ancient; old (attributive)"
+ },
+ {
+  "hanzi": "造",
+  "meaning_ru": "создавать; строить",
+  "meaning_en": "make; build; create"
+ },
+ {
+  "hanzi": "前进",
+  "meaning_en": "advance; move forward"
+ },
+ {
+  "hanzi": "看上去",
+  "meaning_ru": "на вид; выглядит",
+  "meaning_en": "looks like; appears"
+ },
+ {
+  "hanzi": "环",
+  "meaning_ru": "кольцо; звено (не украшение)",
+  "meaning_en": "ring/loop (shape or link)"
+ },
+ {
+  "hanzi": "退出",
+  "meaning_ru": "выйти из (орг-ции/программы)"
+ },
+ {
+  "hanzi": "上升",
+  "meaning_ru": "подниматься (физич. или в ранге)",
+  "meaning_en": "rise (physically or in rank)"
+ },
+ {
+  "hanzi": "飞行",
+  "meaning_ru": "полёт; летать (авиац.)",
+  "meaning_en": "fly; flight (aviation)"
+ },
+ {
+  "hanzi": "福",
+  "meaning_ru": "счастье; удача (культурн.)",
+  "meaning_en": "blessing; fortune (cultural)"
+ },
+ {
+  "hanzi": "补",
+  "meaning_ru": "чинить; восполнять",
+  "meaning_en": "patch; make up for (fig.)"
+ },
+ {
+  "hanzi": "赶到",
+  "meaning_ru": "успеть прибыть (впритык)",
+  "meaning_en": "arrive by hurrying (in time)"
+ },
+ {
+  "hanzi": "相比",
+  "meaning_ru": "сравнивать (в сопоставлении)"
+ },
+ {
+  "hanzi": "情感",
+  "meaning_ru": "эмоция; чувство (аффект.)",
+  "meaning_en": "emotion; feeling (affective)"
+ },
+ {
+  "hanzi": "看起来",
+  "meaning_ru": "на вид (≠ 似乎 «будто бы»)",
+  "meaning_en": "looks like (visual inference)"
+ },
+ {
+  "hanzi": "静",
+  "meaning_ru": "тихий; спокойный (лит.)",
+  "meaning_en": "quiet; still (inner calm)"
+ },
+ {
+  "hanzi": "打破",
+  "meaning_ru": "разбить; нарушить (рекорд)",
+  "meaning_en": "smash; break (records too)"
+ },
+ {
+  "hanzi": "上来",
+  "meaning_ru": "подниматься (к говорящему)",
+  "meaning_en": "come up (toward speaker)"
+ },
+ {
+  "hanzi": "西部",
+  "meaning_ru": "западная часть (региона)",
+  "meaning_en": "western part (region/country)"
+ },
+ {
+  "hanzi": "观看",
+  "meaning_en": "watch (show/match/performance)"
+ },
+ {
+  "hanzi": "房屋",
+  "meaning_ru": "дом; строение (книжн.)",
+  "meaning_en": "house; building (formal)"
+ },
+ {
+  "hanzi": "基本上",
+  "meaning_ru": "в основном; по сути",
+  "meaning_en": "basically; on the whole"
+ },
+ {
+  "hanzi": "加快",
+  "meaning_en": "speed up (pace/progress)"
+ },
+ {
+  "hanzi": "演唱会",
+  "meaning_ru": "концерт (вокальный/поп)"
+ },
+ {
+  "hanzi": "演唱",
+  "meaning_ru": "петь на сцене (публично)",
+  "meaning_en": "perform (singing on stage)"
+ },
+ {
+  "hanzi": "会员",
+  "meaning_en": "member (club/subscription)"
+ },
+ {
+  "hanzi": "生长",
+  "meaning_ru": "расти (биологически)",
+  "meaning_en": "grow (biological, plants)"
+ },
+ {
+  "hanzi": "电视剧",
+  "meaning_en": "TV drama/series"
+ },
+ {
+  "hanzi": "收费",
+  "meaning_en": "to charge a fee"
+ },
+ {
+  "hanzi": "难度",
+  "meaning_ru": "степень сложности",
+  "meaning_en": "difficulty level"
+ },
+ {
+  "hanzi": "通信",
+  "meaning_en": "communication; correspondence"
+ },
+ {
+  "hanzi": "发送",
+  "meaning_ru": "отправлять (цифр./офиц.)",
+  "meaning_en": "send (digitally/officially)"
+ },
+ {
+  "hanzi": "播出",
+  "meaning_ru": "транслировать (передачу)"
+ },
+ {
+  "hanzi": "巧",
+  "meaning_ru": "как раз; ловкий (контекст)",
+  "meaning_en": "coincidentally; skillful"
+ },
+ {
+  "hanzi": "整整",
+  "meaning_en": "a full (emphatic duration)"
+ },
+ {
+  "hanzi": "亲人",
+  "meaning_en": "close relatives; loved ones"
+ },
+ {
+  "hanzi": "早已",
+  "meaning_ru": "давно уже (нейтр.; ≠ 早就)",
+  "meaning_en": "long since (neutral; vs. 早就)"
+ },
+ {
+  "hanzi": "南部",
+  "meaning_en": "southern part (of a region)"
+ },
+ {
+  "hanzi": "传来",
+  "meaning_ru": "доноситься (о звуке, новостях)",
+  "meaning_en": "come through (sound/news)"
+ },
+ {
+  "hanzi": "北部",
+  "meaning_ru": "северная часть (места)",
+  "meaning_en": "northern part (of a place)"
+ },
+ {
+  "hanzi": "牌子",
+  "meaning_ru": "марка; бренд (разг.); вывеска"
+ },
+ {
+  "hanzi": "旅馆",
+  "meaning_ru": "гостиница (общее, устарев.)",
+  "meaning_en": "hotel; inn (generic, older)"
+ },
+ {
+  "hanzi": "全场",
+  "meaning_ru": "весь зал/аудитория (событие)",
+  "meaning_en": "whole venue/audience"
+ },
+ {
+  "hanzi": "价钱",
+  "meaning_en": "price (colloquial, deal)"
+ },
+ {
+  "hanzi": "干吗",
+  "meaning_ru": "зачем? (разг., нетерпеливо)",
+  "meaning_en": "why? / what for? (coll.)"
+ },
+ {
+  "hanzi": "底下",
+  "meaning_en": "directly underneath"
+ },
+ {
+  "hanzi": "美食",
+  "meaning_ru": "вкусная еда; кулинария",
+  "meaning_en": "fine food; cuisine"
+ },
+ {
+  "hanzi": "认出",
+  "meaning_ru": "узнать с первого взгляда",
+  "meaning_en": "recognize on sight"
+ },
+ {
+  "hanzi": "近期",
+  "meaning_ru": "в ближайшее время / недавно",
+  "meaning_en": "near term; recently or soon"
+ },
+ {
+  "hanzi": "子女",
+  "meaning_en": "children; offspring (formal)"
+ },
+ {
+  "hanzi": "建成",
+  "meaning_ru": "завершить строительство",
+  "meaning_en": "complete construction"
+ },
+ {
+  "hanzi": "开业",
+  "meaning_ru": "открыть бизнес (открытие)",
+  "meaning_en": "open a business (event)"
+ },
+ {
+  "hanzi": "彩色",
+  "meaning_ru": "цветной (многоцветный, атриб.)"
+ },
+ {
+  "hanzi": "变为",
+  "meaning_en": "become; change into (formal)"
+ },
+ {
+  "hanzi": "职工",
+  "meaning_ru": "персонал (учрежд., госпредпр.)",
+  "meaning_en": "staff; workers (institution)"
+ },
+ {
+  "hanzi": "收听",
+  "meaning_ru": "слушать радио/эфир (≠ 倾听)",
+  "meaning_en": "listen to (broadcast/radio)"
+ },
+ {
+  "hanzi": "班级",
+  "meaning_en": "class as admin. group"
+ },
+ {
+  "hanzi": "带动",
+  "meaning_ru": "побуждать; приводить в движ.",
+  "meaning_en": "drive; spur (one propels another)"
+ },
+ {
+  "hanzi": "交警",
+  "meaning_ru": "сотрудник ДПС (дор. полиция)"
+ },
+ {
+  "hanzi": "国庆",
+  "meaning_ru": "День образования КНР (сокр.)",
+  "meaning_en": "National Day (abbrev. 国庆节)"
+ },
+ {
+  "hanzi": "所长",
+  "meaning_en": "head of an institute/bureau"
+ },
+ {
+  "hanzi": "华人",
+  "meaning_ru": "этнический китаец (любой стр.)",
+  "meaning_en": "ethnic Chinese (any country)"
+ },
+ {
+  "hanzi": "图画",
+  "meaning_ru": "рисунок; нарисованная картина",
+  "meaning_en": "drawing; hand-drawn picture"
+ },
+ {
+  "hanzi": "积极性",
+  "meaning_ru": "активность; рвение (качество)",
+  "meaning_en": "enthusiasm; initiative"
+ },
+ {
+  "hanzi": "初一",
+  "meaning_ru": "1-й день лун. мес. / 7-й кл."
+ },
+ {
+  "hanzi": "老头儿",
+  "meaning_en": "old man (colloquial, familiar)"
+ },
+ {
+  "hanzi": "交费",
+  "meaning_ru": "платить взнос/сбор (в учрежд.)"
+ },
+ {
+  "hanzi": "凉水",
+  "meaning_ru": "холодная сырая вода",
+  "meaning_en": "cool unboiled water"
+ },
+ {
+  "hanzi": "外文",
+  "meaning_ru": "иностранный язык (письм.)",
+  "meaning_en": "foreign language (written)"
+ },
+ {
+  "hanzi": "短处",
+  "meaning_ru": "слабая сторона (разг.)",
+  "meaning_en": "weak point (personal, informal)"
+ },
+ {
+  "hanzi": "首",
+  "meaning_ru": "глава; первый; (сч. стихи)",
+  "meaning_en": "head; chief; (cl. poems/songs)"
+ },
+ {
+  "hanzi": "局",
+  "meaning_ru": "ведомство; партия (сч.); ситуац.",
+  "meaning_en": "bureau; round (cl.); situation"
+ },
+ {
+  "hanzi": "轮",
+  "meaning_ru": "колесо; чередоваться; (сч. тур)",
+  "meaning_en": "wheel; take turns; (cl. round)"
+ },
+ {
+  "hanzi": "停下",
+  "meaning_en": "stop abruptly (movement/action)"
+ },
+ {
+  "hanzi": "妻子",
+  "meaning_en": "wife (neutral, standard written)"
+ },
+ {
+  "hanzi": "烧",
+  "meaning_ru": "жечь; готовить; жар (темп.)",
+  "meaning_en": "burn; cook over heat; have fever"
+ },
+ {
+  "hanzi": "季",
+  "meaning_ru": "сезон (морфема в сложн. словах)",
+  "meaning_en": "season (morpheme, in compounds)"
+ },
+ {
+  "hanzi": "抽",
+  "meaning_ru": "вытянуть (скольз. движение); курить",
+  "meaning_en": "draw out (sliding); smoke"
+ },
+ {
+  "hanzi": "货",
+  "meaning_ru": "товар; груз (в т.ч. грузовой)"
+ },
+ {
+  "hanzi": "赢得",
+  "meaning_ru": "завоевать (доверие, победу)",
+  "meaning_en": "win/earn (trust, title, victory)"
+ },
+ {
+  "hanzi": "替",
+  "meaning_en": "in place of; substitute for"
+ },
+ {
+  "hanzi": "色",
+  "meaning_ru": "цвет (корень; в сложн. словах)"
+ },
+ {
+  "hanzi": "编",
+  "meaning_ru": "составлять; плести; выдумывать",
+  "meaning_en": "compile; weave; make up"
+ },
+ {
+  "hanzi": "宝",
+  "meaning_ru": "сокровище; (разг.) малыш",
+  "meaning_en": "treasure; darling (address)"
+ },
+ {
+  "hanzi": "药物",
+  "meaning_ru": "лекарство; медикамент",
+  "meaning_en": "drug; medication (substance)"
+ },
+ {
+  "hanzi": "烦",
+  "meaning_ru": "раздражаться; надоедать",
+  "meaning_en": "annoyed; to bother sb"
+ },
+ {
+  "hanzi": "付出",
+  "meaning_ru": "вкладывать (усилия, чувства)",
+  "meaning_en": "invest/expend (effort, emotion)"
+ },
+ {
+  "hanzi": "闹",
+  "meaning_ru": "шуметь; буянить; скандалить",
+  "meaning_en": "make noise; fuss; cause trouble"
+ },
+ {
+  "hanzi": "检测",
+  "meaning_en": "detect/measure (by instrument)"
+ },
+ {
+  "hanzi": "列",
+  "meaning_ru": "ряд; перечислять (письм.)",
+  "meaning_en": "column/series; enumerate"
+ },
+ {
+  "hanzi": "归",
+  "meaning_ru": "возвращаться (книжн.); принадлежать",
+  "meaning_en": "return (lit.); belong to"
+ },
+ {
+  "hanzi": "挑",
+  "meaning_ru": "выбирать придирчиво",
+  "meaning_en": "pick choosily (fussy)"
+ },
+ {
+  "hanzi": "吸",
+  "meaning_ru": "вдыхать; всасывать",
+  "meaning_en": "inhale; suck in"
+ },
+ {
+  "hanzi": "下降",
+  "meaning_en": "drop; decline (level/quantity)"
+ },
+ {
+  "hanzi": "肥",
+  "meaning_en": "fat (animals/baggy clothes)"
+ },
+ {
+  "hanzi": "松",
+  "meaning_ru": "ослабленный; рыхлый; ослаблять",
+  "meaning_en": "loose; slack; to loosen"
+ },
+ {
+  "hanzi": "登",
+  "meaning_ru": "подниматься (лестница, сцена)",
+  "meaning_en": "climb; ascend (stairs, stage)"
+ },
+ {
+  "hanzi": "遇",
+  "meaning_ru": "встретить; столкнуться",
+  "meaning_en": "encounter (often unplanned)"
+ },
+ {
+  "hanzi": "引",
+  "meaning_en": "pull; attract; lead"
+ },
+ {
+  "hanzi": "降",
+  "meaning_ru": "понижаться; опускаться",
+  "meaning_en": "descend; lower (root)"
+ },
+ {
+  "hanzi": "地下",
+  "meaning_ru": "подземный; тайный, подпольный",
+  "meaning_en": "underground; clandestine"
+ },
+ {
+  "hanzi": "移",
+  "meaning_ru": "перемещать; переносить",
+  "meaning_en": "move; transfer (incl. emigrate)"
+ },
+ {
+  "hanzi": "测",
+  "meaning_ru": "измерять; тестировать",
+  "meaning_en": "measure; test (root)"
+ },
+ {
+  "hanzi": "医学",
+  "meaning_en": "medicine (the science/field)"
+ },
+ {
+  "hanzi": "外套",
+  "meaning_ru": "пальто; куртка (верхн. одежда)",
+  "meaning_en": "coat; jacket (outerwear)"
+ },
+ {
+  "hanzi": "聚",
+  "meaning_ru": "собираться (люди или вещи)",
+  "meaning_en": "gather (naturally, people/things)"
+ },
+ {
+  "hanzi": "黑暗",
+  "meaning_ru": "тьма; тёмный (физич./морально)",
+  "meaning_en": "darkness (physical or moral)"
+ },
+ {
+  "hanzi": "地面",
+  "meaning_en": "ground; floor (underfoot)"
+ },
+ {
+  "hanzi": "遇见",
+  "meaning_en": "run into; meet (chance, coll.)"
+ },
+ {
+  "hanzi": "隔",
+  "meaning_ru": "отделять; через (интервал)",
+  "meaning_en": "separate; at an interval"
+ },
+ {
+  "hanzi": "战胜",
+  "meaning_ru": "победить, одолеть (торж.)",
+  "meaning_en": "overcome (battle/hardship)"
+ },
+ {
+  "hanzi": "密",
+  "meaning_ru": "плотный; тайный, секретный",
+  "meaning_en": "dense; covert, secret"
+ },
+ {
+  "hanzi": "大众",
+  "meaning_ru": "массы; публика (офиц.)",
+  "meaning_en": "the masses; public (formal)"
+ },
+ {
+  "hanzi": "减",
+  "meaning_ru": "уменьшать; вычитать (матем.)",
+  "meaning_en": "reduce; subtract (math)"
+ },
+ {
+  "hanzi": "出售",
+  "meaning_en": "offer for sale (formal)"
+ },
+ {
+  "hanzi": "名人",
+  "meaning_ru": "известная личность (любая сфера)",
+  "meaning_en": "notable person (any field)"
+ },
+ {
+  "hanzi": "伙",
+  "meaning_ru": "компания; банда (разг.)",
+  "meaning_en": "bunch; group (coll.); partner"
+ },
+ {
+  "hanzi": "装修",
+  "meaning_ru": "ремонт и отделка (строит.)",
+  "meaning_en": "renovate (construction work)"
+ },
+ {
+  "hanzi": "列车",
+  "meaning_ru": "поезд (офиц., о составах)",
+  "meaning_en": "train (formal; scheduled)"
+ },
+ {
+  "hanzi": "喜爱",
+  "meaning_ru": "любить (предпочтение, мягче)",
+  "meaning_en": "like; be fond of (lighter)"
+ },
+ {
+  "hanzi": "败",
+  "meaning_ru": "потерпеть поражение (книжн.)",
+  "meaning_en": "be defeated (literary)"
+ },
+ {
+  "hanzi": "好友",
+  "meaning_ru": "близкий друг (личн.)",
+  "meaning_en": "close friend (non-family)"
+ },
+ {
+  "hanzi": "渐渐",
+  "meaning_ru": "постепенно (незаметно)",
+  "meaning_en": "gradually (imperceptible change)"
+ },
+ {
+  "hanzi": "亲密",
+  "meaning_ru": "близкий; интимный (эмоц.)",
+  "meaning_en": "intimate; emotionally close"
+ },
+ {
+  "hanzi": "含量",
+  "meaning_ru": "содержание (доля компонента)",
+  "meaning_en": "measurable content (e.g. %)"
+ },
+ {
+  "hanzi": "挑选",
+  "meaning_ru": "выбирать (по предпочтениям)",
+  "meaning_en": "pick (by personal preference)"
+ },
+ {
+  "hanzi": "灯光",
+  "meaning_ru": "искусств. освещение (≠ 光线)",
+  "meaning_en": "artificial lighting (≠ 光线)"
+ },
+ {
+  "hanzi": "做梦",
+  "meaning_en": "dream (sleep); daydream"
+ },
+ {
+  "hanzi": "获取",
+  "meaning_ru": "добывать, извлекать",
+  "meaning_en": "acquire (actively fetch)"
+ },
+ {
+  "hanzi": "含有",
+  "meaning_ru": "содержать (вещество)",
+  "meaning_en": "contain (substance/element)"
+ },
+ {
+  "hanzi": "大规模",
+  "meaning_ru": "крупномасштабный (≠ 大型)",
+  "meaning_en": "large-scale in scope (≠ 大型)"
+ },
+ {
+  "hanzi": "大多",
+  "meaning_ru": "большинство; большей частью",
+  "meaning_en": "most of; mostly (quantity)"
+ },
+ {
+  "hanzi": "男士",
+  "meaning_ru": "мужчина (вежл., услуги)",
+  "meaning_en": "gentleman (polite, service)"
+ },
+ {
+  "hanzi": "泪",
+  "meaning_ru": "слёзы (книжн., в словах)",
+  "meaning_en": "tears (literary/compounds)"
+ },
+ {
+  "hanzi": "汇",
+  "meaning_en": "remit money (base morpheme)"
+ },
+ {
+  "hanzi": "商务",
+  "meaning_en": "business (formal context)"
+ },
+ {
+  "hanzi": "替代",
+  "meaning_ru": "замещать (системно)",
+  "meaning_en": "substitute (systemic/abstract)"
+ },
+ {
+  "hanzi": "吸烟",
+  "meaning_en": "smoke (formal/signs)"
+ },
+ {
+  "hanzi": "避",
+  "meaning_ru": "избегать (намеренно)",
+  "meaning_en": "avoid (deliberately)"
+ },
+ {
+  "hanzi": "语音",
+  "meaning_ru": "звуки речи; голосовое сообщ.",
+  "meaning_en": "speech sounds; voice msg"
+ },
+ {
+  "hanzi": "毕业生",
+  "meaning_en": "graduate (any degree)"
+ },
+ {
+  "hanzi": "帅哥",
+  "meaning_en": "handsome guy (coll. address)"
+ },
+ {
+  "hanzi": "老家",
+  "meaning_ru": "родина (разг., корни семьи)",
+  "meaning_en": "hometown (coll., family roots)"
+ },
+ {
+  "hanzi": "冬季",
+  "meaning_en": "winter season (formal)"
+ },
+ {
+  "hanzi": "宁静",
+  "meaning_ru": "безмятежный (атмосфера)",
+  "meaning_en": "serene (atmosphere/surroundings)"
+ },
+ {
+  "hanzi": "树林",
+  "meaning_ru": "роща; лесок (небольшой)",
+  "meaning_en": "woods; grove (small stand)"
+ },
+ {
+  "hanzi": "以内",
+  "meaning_en": "within; not exceeding (qty)"
+ },
+ {
+  "hanzi": "多种",
+  "meaning_en": "many kinds (variety of types)"
+ },
+ {
+  "hanzi": "型号",
+  "meaning_ru": "модель изделия (с номером)",
+  "meaning_en": "product model number; spec"
+ },
+ {
+  "hanzi": "两边",
+  "meaning_ru": "обе стороны (физически)",
+  "meaning_en": "both sides (spatial)"
+ },
+ {
+  "hanzi": "梦见",
+  "meaning_en": "dream of (see sth in dream)"
+ },
+ {
+  "hanzi": "夏季",
+  "meaning_ru": "летний сезон (офиц.)",
+  "meaning_en": "summer (formal/written)"
+ },
+ {
+  "hanzi": "获奖",
+  "meaning_ru": "получить награду (за заслуги)",
+  "meaning_en": "win an award (by merit)"
+ },
+ {
+  "hanzi": "爱国",
+  "meaning_ru": "патриотичный; любить родину"
+ },
+ {
+  "hanzi": "种类",
+  "meaning_en": "kinds; range of types"
+ },
+ {
+  "hanzi": "泪水",
+  "meaning_en": "tears (expressive, written)"
+ },
+ {
+  "hanzi": "使劲",
+  "meaning_ru": "напрягаться (в моменте)",
+  "meaning_en": "exert force/effort (now)"
+ },
+ {
+  "hanzi": "中奖",
+  "meaning_ru": "выиграть в лотерею",
+  "meaning_en": "win a prize by luck"
+ },
+ {
+  "hanzi": "赏",
+  "meaning_ru": "награждать; любоваться (класс.)",
+  "meaning_en": "reward; admire (classical)"
+ },
+ {
+  "hanzi": "巴士",
+  "meaning_ru": "автобус (заимств.; Гонконг)",
+  "meaning_en": "bus (loanword; coach/HK)"
+ },
+ {
+  "hanzi": "引进",
+  "meaning_ru": "ввозить; внедрять (извне)",
+  "meaning_en": "bring in from outside; import"
+ },
+ {
+  "hanzi": "分为",
+  "meaning_ru": "делить на (по категориям)",
+  "meaning_en": "divide into (by category)"
+ },
+ {
+  "hanzi": "促销",
+  "meaning_ru": "стимулировать продажи (акции)",
+  "meaning_en": "promote sales (campaigns)"
+ },
+ {
+  "hanzi": "宝石",
+  "meaning_ru": "драгоценный камень"
+ },
+ {
+  "hanzi": "研制",
+  "meaning_ru": "разрабатывать (НИОКР)",
+  "meaning_en": "develop via R&D"
+ },
+ {
+  "hanzi": "转动",
+  "meaning_ru": "вращаться (вокруг оси)",
+  "meaning_en": "rotate/spin (on axis)"
+ },
+ {
+  "hanzi": "动摇",
+  "meaning_ru": "колебаться (в убеждениях)",
+  "meaning_en": "waver (in resolve); shake"
+ },
+ {
+  "hanzi": "秋季",
+  "meaning_ru": "осенний сезон (офиц.)",
+  "meaning_en": "autumn (formal/written)"
+ },
+ {
+  "hanzi": "扩展",
+  "meaning_ru": "расширять охват/функции",
+  "meaning_en": "expand scope or function"
+ },
+ {
+  "hanzi": "平稳",
+  "meaning_ru": "устойчивый; ровный (без колеб.)",
+  "meaning_en": "stable; even (no fluctuation)"
+ },
+ {
+  "hanzi": "相片",
+  "meaning_ru": "фотография (печатная)"
+ },
+ {
+  "hanzi": "赞赏",
+  "meaning_ru": "восхищаться и хвалить",
+  "meaning_en": "admire and praise (sincere)"
+ },
+ {
+  "hanzi": "构造",
+  "meaning_en": "structure (physical, concrete)"
+ },
+ {
+  "hanzi": "虫子",
+  "meaning_ru": "букашка; червяк (разг.)",
+  "meaning_en": "bug; worm (colloquial)"
+ },
+ {
+  "hanzi": "优良",
+  "meaning_ru": "отличный по качеству",
+  "meaning_en": "excellent in quality"
+ },
+ {
+  "hanzi": "百货",
+  "meaning_ru": "разнообразные товары (розница)",
+  "meaning_en": "general merchandise (retail)"
+ },
+ {
+  "hanzi": "登山",
+  "meaning_ru": "восхождение в горы (спорт)",
+  "meaning_en": "mountain climbing (sport)"
+ },
+ {
+  "hanzi": "大巴",
+  "meaning_ru": "автобус (межгород./аренда)",
+  "meaning_en": "coach; large bus (intercity)"
+ },
+ {
+  "hanzi": "诚信",
+  "meaning_ru": "честность; порядочность",
+  "meaning_en": "integrity; honesty (character)"
+ },
+ {
+  "hanzi": "窗子",
+  "meaning_ru": "окно (разг., северн.)",
+  "meaning_en": "window (colloquial, northern)"
+ },
+ {
+  "hanzi": "深厚",
+  "meaning_ru": "глубокий, прочный (чувства)",
+  "meaning_en": "deep; solid (feelings/skills)"
+ },
+ {
+  "hanzi": "培训班",
+  "meaning_ru": "учебные курсы (группа)",
+  "meaning_en": "training class (course)"
+ },
+ {
+  "hanzi": "后头",
+  "meaning_en": "behind; at the rear (colloq.)"
+ },
+ {
+  "hanzi": "宽广",
+  "meaning_ru": "широкий и просторный (офиц.)",
+  "meaning_en": "wide and spacious (formal)"
+ },
+ {
+  "hanzi": "前头",
+  "meaning_en": "in front; ahead (colloquial)"
+ },
+ {
+  "hanzi": "疗养",
+  "meaning_en": "recuperate (with treatment)"
+ },
+ {
+  "hanzi": "隔开",
+  "meaning_en": "separate by barrier (physical)"
+ },
+ {
+  "hanzi": "抄写",
+  "meaning_ru": "переписывать (от руки)",
+  "meaning_en": "copy out by hand (transcribe)"
+ },
+ {
+  "hanzi": "名牌儿",
+  "meaning_en": "famous brand (儿化, colloq.)"
+ },
+ {
+  "hanzi": "声",
+  "meaning_ru": "звук (морфема; счётное сл.)",
+  "meaning_en": "sound (morpheme; mw for sounds)"
+ },
+ {
+  "hanzi": "舞",
+  "meaning_ru": "танцевать; размахивать (чем-л.)",
+  "meaning_en": "dance; wield/brandish"
+ },
+ {
+  "hanzi": "愿",
+  "meaning_ru": "желать; быть согласным",
+  "meaning_en": "wish; willing (formal)"
+ },
+ {
+  "hanzi": "剩下",
+  "meaning_ru": "оставаться (после использов.)"
+ },
+ {
+  "hanzi": "毒",
+  "meaning_en": "poison; toxic (morpheme)"
+ },
+ {
+  "hanzi": "屋",
+  "meaning_ru": "комната; дом (книжн.)",
+  "meaning_en": "room; house (literary)"
+ },
+ {
+  "hanzi": "有着",
+  "meaning_ru": "обладать (книжн., состояние)",
+  "meaning_en": "have/possess (literary, state)"
+ },
+ {
+  "hanzi": "签",
+  "meaning_ru": "подписывать (документ)",
+  "meaning_en": "to sign (a document)"
+ },
+ {
+  "hanzi": "价",
+  "meaning_en": "price; value (bound morpheme)"
+ },
+ {
+  "hanzi": "冒",
+  "meaning_ru": "испускать (дым, пар); рисковать",
+  "meaning_en": "emit (smoke/steam); brave risk"
+ },
+ {
+  "hanzi": "礼",
+  "meaning_ru": "этикет; подарок (шире礼貌)",
+  "meaning_en": "ritual propriety; gift"
+ },
+ {
+  "hanzi": "只不过",
+  "meaning_ru": "всего лишь; просто (уступит.)",
+  "meaning_en": "only; just (dismissive)"
+ },
+ {
+  "hanzi": "歌曲",
+  "meaning_ru": "песня (офиц., произведение)",
+  "meaning_en": "song (formal composition term)"
+ },
+ {
+  "hanzi": "所在",
+  "meaning_ru": "местонахождение (где есть)",
+  "meaning_en": "whereabouts; location of sth"
+ },
+ {
+  "hanzi": "害",
+  "meaning_ru": "вредить; вред (разг.)",
+  "meaning_en": "harm (colloquial; also noun)"
+ },
+ {
+  "hanzi": "忍",
+  "meaning_en": "endure (suppressing reaction)"
+ },
+ {
+  "hanzi": "回头",
+  "meaning_ru": "обернуться; (разг.) попозже",
+  "meaning_en": "turn back; (colloq.) later"
+ },
+ {
+  "hanzi": "库",
+  "meaning_ru": "хранилище (морфема, в словах)",
+  "meaning_en": "storehouse (morpheme, compounds)"
+ },
+ {
+  "hanzi": "之下",
+  "meaning_ru": "под (абстр.: давление, условия)",
+  "meaning_en": "under (abstract: conditions)"
+ },
+ {
+  "hanzi": "到来",
+  "meaning_ru": "наступление; приход (о событиях)",
+  "meaning_en": "advent; arrival (of events)"
+ },
+ {
+  "hanzi": "负责人",
+  "meaning_ru": "ответственный (сущ., должность)",
+  "meaning_en": "person in charge (noun, role)"
+ },
+ {
+  "hanzi": "收集",
+  "meaning_ru": "собирать (предметы, систематич.)",
+  "meaning_en": "collect items (systematically)"
+ },
+ {
+  "hanzi": "脑子",
+  "meaning_en": "brains; mind (colloquial)"
+ },
+ {
+  "hanzi": "之内",
+  "meaning_ru": "в пределах (книжн., о границе)",
+  "meaning_en": "within (written, boundary)"
+ },
+ {
+  "hanzi": "厅",
+  "meaning_en": "hall; living room"
+ },
+ {
+  "hanzi": "全都",
+  "meaning_en": "all without exception (adv.)"
+ },
+ {
+  "hanzi": "签名",
+  "meaning_en": "autograph; personal signature"
+ },
+ {
+  "hanzi": "认",
+  "meaning_ru": "узнавать; признавать (базов. гл.)",
+  "meaning_en": "recognize; admit (base verb)"
+ },
+ {
+  "hanzi": "在场",
+  "meaning_ru": "присутствовать (на месте события)",
+  "meaning_en": "be present (at the scene)"
+ },
+ {
+  "hanzi": "鼠",
+  "meaning_ru": "крыса/мышь (книжн., в словах)",
+  "meaning_en": "rat; mouse (in compounds)"
+ },
+ {
+  "hanzi": "靠近",
+  "meaning_ru": "приближаться (физически)",
+  "meaning_en": "approach; draw near (physical)"
+ },
+ {
+  "hanzi": "空中",
+  "meaning_ru": "в воздухе; в воздушн. простр.",
+  "meaning_en": "in the air; mid-air"
+ },
+ {
+  "hanzi": "连接",
+  "meaning_en": "link; connect (phys. or abstract)"
+ },
+ {
+  "hanzi": "此时",
+  "meaning_ru": "в этот момент (нарратив, письм.)",
+  "meaning_en": "at this moment (narrative)"
+ },
+ {
+  "hanzi": "画面",
+  "meaning_ru": "кадр; изображение (экран, сцена)"
+ },
+ {
+  "hanzi": "随后",
+  "meaning_en": "immediately after; right then"
+ },
+ {
+  "hanzi": "搜",
+  "meaning_en": "search by scanning (or online)"
+ },
+ {
+  "hanzi": "悲剧",
+  "meaning_ru": "трагедия (жанр; перен. несчастье)",
+  "meaning_en": "tragedy (genre; fig. calamity)"
+ },
+ {
+  "hanzi": "出于",
+  "meaning_ru": "исходя из мотива; из побуждения",
+  "meaning_en": "out of (a motive); driven by"
+ },
+ {
+  "hanzi": "悲伤",
+  "meaning_ru": "скорбный, печальный (кн.; > 难过)",
+  "meaning_en": "sorrowful (literary; > 难过)"
+ },
+ {
+  "hanzi": "分离",
+  "meaning_ru": "разделять(ся); расставаться",
+  "meaning_en": "separate; part (people/parts)"
+ },
+ {
+  "hanzi": "寻求",
+  "meaning_ru": "искать; добиваться (абстр. цели)",
+  "meaning_en": "seek; pursue (abstract goals)"
+ },
+ {
+  "hanzi": "如同",
+  "meaning_ru": "подобно, как (книжн.; ≠ 好像)",
+  "meaning_en": "just like (literary; ≠ 'seems')"
+ },
+ {
+  "hanzi": "提起",
+  "meaning_ru": "поднять тему; заводить речь",
+  "meaning_en": "bring up (a topic)"
+ },
+ {
+  "hanzi": "建造",
+  "meaning_ru": "строить (физически, процесс)",
+  "meaning_en": "construct (physical structure)"
+ },
+ {
+  "hanzi": "返回",
+  "meaning_ru": "возвращаться (нейтр., любое напр.)",
+  "meaning_en": "go back (neutral direction)"
+ },
+ {
+  "hanzi": "迟",
+  "meaning_ru": "поздний; медлить (≠ 迟到 опоздать)",
+  "meaning_en": "late; slow (≠ 迟到 arrive late)"
+ },
+ {
+  "hanzi": "广",
+  "meaning_ru": "широкий; обширный (морфема)",
+  "meaning_en": "wide; broad (morpheme)"
+ },
+ {
+  "hanzi": "乡村",
+  "meaning_en": "countryside (rural, pastoral)"
+ },
+ {
+  "hanzi": "倒是",
+  "meaning_en": "actually; on the contrary (conc.)"
+ },
+ {
+  "hanzi": "此刻",
+  "meaning_ru": "именно сейчас; в этот миг (кн.)"
+ },
+ {
+  "hanzi": "有力",
+  "meaning_ru": "сильный; мощный (о доводах)",
+  "meaning_en": "forceful; powerful (arguments)"
+ },
+ {
+  "hanzi": "兔",
+  "meaning_ru": "заяц/кролик (книжн., в словах)",
+  "meaning_en": "rabbit; hare (in compounds)"
+ },
+ {
+  "hanzi": "不良",
+  "meaning_ru": "плохой; вредный (офиц., письм.)",
+  "meaning_en": "bad; harmful (formal/written)"
+ },
+ {
+  "hanzi": "大胆",
+  "meaning_ru": "смелый; дерзкий (вплоть до нагл.)",
+  "meaning_en": "bold; daring (may imply reckless)"
+ },
+ {
+  "hanzi": "偷偷",
+  "meaning_ru": "тайком (скрывая умысел; ≠ 悄悄)",
+  "meaning_en": "secretly (≠ 悄悄 quietly)"
+ },
+ {
+  "hanzi": "增",
+  "meaning_ru": "увеличивать; прибавлять (корень)",
+  "meaning_en": "increase; add (root morpheme)"
+ },
+ {
+  "hanzi": "处在",
+  "meaning_ru": "находиться в (состоянии, положении)",
+  "meaning_en": "be in a state/condition"
+ },
+ {
+  "hanzi": "减轻",
+  "meaning_ru": "облегчить; уменьшить (нагрузку)",
+  "meaning_en": "reduce (burden or severity)"
+ },
+ {
+  "hanzi": "逃跑",
+  "meaning_en": "flee by running"
+ },
+ {
+  "hanzi": "转换",
+  "meaning_en": "switch modes/channels; convert"
+ },
+ {
+  "hanzi": "脸色",
+  "meaning_en": "complexion; mood-signaling look"
+ },
+ {
+  "hanzi": "早期",
+  "meaning_ru": "ранний период (не самый первый)",
+  "meaning_en": "early stage (not the very start)"
+ },
+ {
+  "hanzi": "损害",
+  "meaning_ru": "ущерб; вредить (интересы, здоровье)",
+  "meaning_en": "harm; damage (interests, health)"
+ },
+ {
+  "hanzi": "赔",
+  "meaning_ru": "возмещать ущерб; торг. в убыток"
+ },
+ {
+  "hanzi": "得以",
+  "meaning_en": "manage to; be enabled to (formal)"
+ },
+ {
+  "hanzi": "猜测",
+  "meaning_ru": "предполагать (обдуманно, с осн.)",
+  "meaning_en": "guess; conjecture (considered)"
+ },
+ {
+  "hanzi": "转向",
+  "meaning_ru": "повернуть; сменить курс (широко)",
+  "meaning_en": "change direction; pivot"
+ },
+ {
+  "hanzi": "从中",
+  "meaning_ru": "из этого; отсюда (источник действ.)",
+  "meaning_en": "from within (source of action)"
+ },
+ {
+  "hanzi": "处罚",
+  "meaning_en": "penalize; punish (administrative)"
+ },
+ {
+  "hanzi": "行驶",
+  "meaning_ru": "ехать; двигаться (о транспорте)"
+ },
+ {
+  "hanzi": "脚步",
+  "meaning_en": "footstep; the act/sound of steps"
+ },
+ {
+  "hanzi": "流动",
+  "meaning_ru": "циркулировать (толпы, капитал)",
+  "meaning_en": "flow; circulate (crowds, capital)"
+ },
+ {
+  "hanzi": "带有",
+  "meaning_ru": "иметь оттенок чего-л.",
+  "meaning_en": "carry (a slight tinge/quality)"
+ },
+ {
+  "hanzi": "签约",
+  "meaning_en": "sign a contract (com./legal)"
+ },
+ {
+  "hanzi": "群体",
+  "meaning_en": "social group (formal)"
+ },
+ {
+  "hanzi": "共享",
+  "meaning_ru": "совместно пользоваться",
+  "meaning_en": "share jointly (resources)"
+ },
+ {
+  "hanzi": "愁",
+  "meaning_ru": "тосковать, кручиниться",
+  "meaning_en": "brood; feel diffuse sadness"
+ },
+ {
+  "hanzi": "存款",
+  "meaning_ru": "вклад; класть деньги в банк",
+  "meaning_en": "savings; make a bank deposit"
+ },
+ {
+  "hanzi": "停留",
+  "meaning_ru": "задержаться; не ехать дальше",
+  "meaning_en": "stop over; linger (not move on)"
+ },
+ {
+  "hanzi": "将要",
+  "meaning_ru": "вот-вот; скоро (письм.)",
+  "meaning_en": "about to; will soon (written)"
+ },
+ {
+  "hanzi": "气体",
+  "meaning_en": "gas (state of matter)"
+ },
+ {
+  "hanzi": "夜间",
+  "meaning_ru": "в ночное время (офиц.)"
+ },
+ {
+  "hanzi": "会谈",
+  "meaning_en": "formal talks (political)"
+ },
+ {
+  "hanzi": "违规",
+  "meaning_ru": "нарушить правила (проц.)",
+  "meaning_en": "break rules (procedural)"
+ },
+ {
+  "hanzi": "分成",
+  "meaning_ru": "разделить на части"
+ },
+ {
+  "hanzi": "猴",
+  "meaning_ru": "обезьяна (морфема; зодиак)",
+  "meaning_en": "monkey (morpheme; zodiac)"
+ },
+ {
+  "hanzi": "抬头",
+  "meaning_ru": "поднять голову (вверх)"
+ },
+ {
+  "hanzi": "灰色",
+  "meaning_en": "gray; also: ambiguous"
+ },
+ {
+  "hanzi": "更换",
+  "meaning_ru": "заменять (вещь; офиц.)"
+ },
+ {
+  "hanzi": "怨",
+  "meaning_ru": "винить; затаить обиду",
+  "meaning_en": "blame; harbor resentment"
+ },
+ {
+  "hanzi": "言语",
+  "meaning_ru": "речь; слова (сущ.)",
+  "meaning_en": "speech; words (compound noun)"
+ },
+ {
+  "hanzi": "再也",
+  "meaning_en": "never again (needs 不: 再也不)"
+ },
+ {
+  "hanzi": "总体",
+  "meaning_ru": "в целом; суммарный",
+  "meaning_en": "overall; in aggregate"
+ },
+ {
+  "hanzi": "光线",
+  "meaning_ru": "свет, луч (≠ 灯光 «освещение»)",
+  "meaning_en": "light ray (natural; ≠ 灯光)"
+ },
+ {
+  "hanzi": "强度",
+  "meaning_ru": "интенсивность (измеримая)",
+  "meaning_en": "intensity; degree (measurable)"
+ },
+ {
+  "hanzi": "高于",
+  "meaning_ru": "выше (для уровней/значений)",
+  "meaning_en": "higher than (levels/values)"
+ },
+ {
+  "hanzi": "变动",
+  "meaning_ru": "колебание; сдвиг",
+  "meaning_en": "fluctuation; shift"
+ },
+ {
+  "hanzi": "查询",
+  "meaning_ru": "запрашивать данные; справки",
+  "meaning_en": "query; look up (facts/records)"
+ },
+ {
+  "hanzi": "逃走",
+  "meaning_ru": "сбежать (направленно)",
+  "meaning_en": "flee and leave (directional)"
+ },
+ {
+  "hanzi": "加以",
+  "meaning_ru": "произвести действие (книжн.)",
+  "meaning_en": "apply an action to (formal)"
+ },
+ {
+  "hanzi": "月球",
+  "meaning_en": "the Moon (scientific)"
+ },
+ {
+  "hanzi": "景象",
+  "meaning_ru": "зрелище (объективное; ≠ 情景)",
+  "meaning_en": "scene/sight (objective; cf. 情景)"
+ },
+ {
+  "hanzi": "此后",
+  "meaning_en": "hereafter; from this point (formal)"
+ },
+ {
+  "hanzi": "升高",
+  "meaning_ru": "повышаться (темп., уровень)"
+ },
+ {
+  "hanzi": "远处",
+  "meaning_ru": "вдали (сущ. места)",
+  "meaning_en": "afar; the distant place"
+ },
+ {
+  "hanzi": "有毒",
+  "meaning_en": "poisonous; toxic (pred. adj)"
+ },
+ {
+  "hanzi": "预备",
+  "meaning_ru": "готовиться (лично)",
+  "meaning_en": "get ready (personal prep)"
+ },
+ {
+  "hanzi": "有害",
+  "meaning_en": "harmful (adj; cf. 危害 verb)"
+ },
+ {
+  "hanzi": "转化",
+  "meaning_ru": "преобразовывать (по сути)",
+  "meaning_en": "convert/transform (in nature)"
+ },
+ {
+  "hanzi": "上涨",
+  "meaning_en": "rise (prices/figures, econ.)"
+ },
+ {
+  "hanzi": "摔倒",
+  "meaning_ru": "упасть (споткнуться)",
+  "meaning_en": "fall down (trip bodily)"
+ },
+ {
+  "hanzi": "诗歌",
+  "meaning_ru": "поэзия (жанр, собир.)",
+  "meaning_en": "poetry (genre, collective)"
+ },
+ {
+  "hanzi": "拆除",
+  "meaning_ru": "сносить, демонтировать",
+  "meaning_en": "demolish; remove (officially)"
+ },
+ {
+  "hanzi": "递给",
+  "meaning_ru": "подать в руки (без передачи прав)",
+  "meaning_en": "hand to (no ownership transfer)"
+ },
+ {
+  "hanzi": "不曾",
+  "meaning_en": "have never (experiential neg.)"
+ },
+ {
+  "hanzi": "一身",
+  "meaning_ru": "с головы до ног (一身汗)",
+  "meaning_en": "covered in (set-phrase: 一身汗)"
+ },
+ {
+  "hanzi": "为主",
+  "meaning_ru": "главным образом; в приоритете"
+ },
+ {
+  "hanzi": "特性",
+  "meaning_ru": "свойство (внутреннее, научн.)",
+  "meaning_en": "intrinsic property (technical)"
+ },
+ {
+  "hanzi": "灾",
+  "meaning_ru": "бедствие (морфема; ср. 灾害)",
+  "meaning_en": "disaster (morpheme; cf. 灾害)"
+ },
+ {
+  "hanzi": "依照",
+  "meaning_ru": "согласно (норме/закону, кн.)",
+  "meaning_en": "according to (standard, formal)"
+ },
+ {
+  "hanzi": "煤气",
+  "meaning_ru": "бытовой газ (сетевой)",
+  "meaning_en": "domestic gas (coal/piped)"
+ },
+ {
+  "hanzi": "制成",
+  "meaning_ru": "изготовить из (до изделия)",
+  "meaning_en": "make into (finished product)"
+ },
+ {
+  "hanzi": "初期",
+  "meaning_ru": "начальный период (первая фаза)",
+  "meaning_en": "initial stage (opening phase)"
+ },
+ {
+  "hanzi": "增大",
+  "meaning_ru": "увеличивать(ся) (размер/число)"
+ },
+ {
+  "hanzi": "先后",
+  "meaning_ru": "по очереди; в порядке",
+  "meaning_en": "in sequence; one after another"
+ },
+ {
+  "hanzi": "明亮",
+  "meaning_en": "bright; well-lit (physical)"
+ },
+ {
+  "hanzi": "总数",
+  "meaning_ru": "общее число (итог)"
+ },
+ {
+  "hanzi": "增多",
+  "meaning_ru": "увеличиваться (непереход.)",
+  "meaning_en": "to grow in number (intrans.)"
+ },
+ {
+  "hanzi": "不能不",
+  "meaning_ru": "не может не (принуждение)",
+  "meaning_en": "cannot but (compulsion)"
+ },
+ {
+  "hanzi": "驾照",
+  "meaning_ru": "водительские права",
+  "meaning_en": "driver's license"
+ },
+ {
+  "hanzi": "单一",
+  "meaning_en": "single; uniform (no variety)"
+ },
+ {
+  "hanzi": "儿女",
+  "meaning_en": "sons and daughters (lit.)"
+ },
+ {
+  "hanzi": "生成",
+  "meaning_ru": "генерировать; порождать (техн.)",
+  "meaning_en": "to generate; produce (tech)"
+ },
+ {
+  "hanzi": "原有",
+  "meaning_ru": "изначально имевшийся",
+  "meaning_en": "pre-existing; original"
+ },
+ {
+  "hanzi": "乘车",
+  "meaning_ru": "ехать транспортом (пассажиром)",
+  "meaning_en": "travel by vehicle (passenger)"
+ },
+ {
+  "hanzi": "学科",
+  "meaning_en": "academic discipline (field)"
+ },
+ {
+  "hanzi": "大都",
+  "meaning_ru": "большей частью (книжн.)",
+  "meaning_en": "mostly (literary adverb)"
+ },
+ {
+  "hanzi": "推行",
+  "meaning_ru": "внедрять; продвигать",
+  "meaning_en": "to roll out; implement"
+ },
+ {
+  "hanzi": "华语",
+  "meaning_en": "Chinese (diaspora term)"
+ },
+ {
+  "hanzi": "贺卡",
+  "meaning_en": "greeting card"
+ },
+ {
+  "hanzi": "协议书",
+  "meaning_ru": "договор/соглашение (не всегда юр.)",
+  "meaning_en": "written agreement (non-binding ok)"
+ },
+ {
+  "hanzi": "物价",
+  "meaning_ru": "уровень цен (макро)",
+  "meaning_en": "price level (macro)"
+ },
+ {
+  "hanzi": "汇款",
+  "meaning_ru": "денежный перевод",
+  "meaning_en": "remittance; money transfer"
+ },
+ {
+  "hanzi": "受灾",
+  "meaning_ru": "пострадать от бедствия",
+  "meaning_en": "be hit by disaster (formal)"
+ },
+ {
+  "hanzi": "辞典",
+  "meaning_ru": "словарь (слов и фраз)",
+  "meaning_en": "word dictionary (not chars)"
+ },
+ {
+  "hanzi": "中药",
+  "meaning_en": "traditional Chinese medicine"
+ },
+ {
+  "hanzi": "个儿",
+  "meaning_ru": "рост; телосложение (разг.)",
+  "meaning_en": "height; build (northern coll.)"
+ },
+ {
+  "hanzi": "闭幕",
+  "meaning_ru": "закрыться (о мероприятии)",
+  "meaning_en": "to close (event/ceremony)"
+ },
+ {
+  "hanzi": "选修",
+  "meaning_ru": "взять по выбору; факультатив"
+ },
+ {
+  "hanzi": "水灾",
+  "meaning_ru": "наводнение (стихийное)",
+  "meaning_en": "flood disaster"
+ },
+ {
+  "hanzi": "剪子",
+  "meaning_ru": "ножницы (разг.; ср. 剪刀)",
+  "meaning_en": "scissors (coll.; cf. 剪刀)"
+ },
+ {
+  "hanzi": "酸甜苦辣",
+  "meaning_en": "life's ups and downs (idiom)"
+ },
+ {
+  "hanzi": "闭幕式",
+  "meaning_ru": "церемония закрытия",
+  "meaning_en": "closing ceremony (cf. 开幕式)"
+ },
+ {
+  "hanzi": "电子版",
+  "meaning_en": "digital edition (format)"
+ }
+]

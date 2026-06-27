@@ -1,0 +1,140 @@
+[
+ {
+  "hanzi": "一半",
+  "reason": "Pinyin 'yíbàn' reflects spoken tone sandhi (一 shifts from tone 1 to tone 2 before tone 4). Standard citation-form pinyin would be 'yībàn'. Flagging for a policy decision on whether sandhi tones should be encoded in this dataset.",
+  "options": [
+   "yībàn (citation/dictionary form)",
+   "yíbàn (sandhi/spoken form)"
+  ]
+ },
+ {
+  "hanzi": "调",
+  "reason": "Two distinct readings with different meanings: diào (to transfer; tone; tune in music) and tiáo (to adjust; to blend; to season food). The entry pins diào but tiáo is equally learner-relevant. One card cannot cover both readings without confusion.",
+  "options": [
+   "diào: to transfer; tone; tune",
+   "tiáo: to adjust; to season"
+  ]
+ },
+ {
+  "hanzi": "乐",
+  "reason": "Two distinct readings: lè (happy; joyful) and yuè (music). The entry pins lè but yuè appears in dataset_meanings and cedict. Both readings are common at this HSK level.",
+  "options": [
+   "lè: happy; joyful",
+   "yuè: music"
+  ]
+ },
+ {
+  "hanzi": "所长",
+  "reason": "Two unrelated primary senses: (1) what one is good at / one's strong point (abstract noun), (2) director or head of an institute/office/station (occupation). The card only covers sense 2; a learner will encounter both at HSK3 level.",
+  "options": [
+   "强项；所长（директор）",
+   "директор; сильная сторона"
+  ]
+ },
+ {
+  "hanzi": "初一",
+  "reason": "Two unrelated primary senses at this level: (1) first day of the lunar month, (2) first year of junior middle school (7th grade). The card picks only sense 1, but sense 2 is equally common in daily Chinese. Both are too important to drop silently.",
+  "options": [
+   "1-е число лун. месяца / 7-й класс школы",
+   "1-й день луны (и: 7-й класс)"
+  ]
+ },
+ {
+  "hanzi": "老头儿",
+  "reason": "cedict_en only cross-references 老头子 with no direct definition; dataset_meanings likewise says 'see 老头子'. The authored meanings are attested and correct colloquially, but the source data provides no independent confirmation.",
+  "options": [
+   "старик (разг.) / old man (coll.) — keep as authored",
+   "flag for manual verification against a secondary source"
+  ]
+ },
+ {
+  "hanzi": "回复",
+  "reason": "Sense split: cedict primary entry is 'to recover/to revert' (returning to normal condition), while the variant 回覆 carries 'to reply'. Dataset lists both. Authored card uses 'to reply (to a letter)' which is the dominant practical use at HSK4, but the primary cedict sense is recovery. Confirm which sense is intended as the card face.",
+  "options": [
+   "to reply (to a message/letter)",
+   "to recover; to revert (to a previous state)"
+  ]
+ },
+ {
+  "hanzi": "潮",
+  "reason": "cedict lists 'tide' as the first sense (退潮, 涨潮, 潮水 are all common), but the entry picks the adjective sense 'damp; moist'; both senses are primary at HSK4 and the choice affects which tags and RU/EN to use",
+  "options": [
+   "tide; tidal (nature sense) — tags: nature, weather",
+   "damp; moist; humid (adjective sense) — tags: manner_state, weather"
+  ]
+ },
+ {
+  "hanzi": "败",
+  "reason": "cedict lists active 'to defeat' first, but the entry gives only the passive sense 'to be defeated; fail'; 打败 in this same batch covers the active sense, so passive focus may be intentional, but the primary cedict gloss is active",
+  "options": [
+   "to defeat; beat (active, transitive)",
+   "to be defeated; fail (passive/intransitive)"
+  ]
+ },
+ {
+  "hanzi": "百货",
+  "reason": "'ширпотреб' carries a negative/cheap-goods connotation absent from 百货, which is neutral (general merchandise, as in 百货商店 department store). Options: 'товары широкого потребления', 'товары; универмаг', or simply 'товары (общие)'.",
+  "options": [
+   "товары широкого потребления",
+   "товары; универмаг",
+   "товары (в широком ассортименте)"
+  ]
+ },
+ {
+  "hanzi": "运",
+  "reason": "cedict primary senses are 'to move/to transport/to use/to apply' (listed first); 'luck/fortune' are secondary senses. The entry teaches only luck/fortune, which is pedagogically reasonable (运气, 好运) but omits the dominant transport/movement sense used in 运动 and 运输.",
+  "options": [
+   "luck; fortune (current — matches 好运 companion card)",
+   "to transport; luck (covers both primary and secondary sense)"
+  ]
+ },
+ {
+  "hanzi": "扇",
+  "reason": "Entry authored with pinyin shān covers only the verbal reading (to fan, to slap). The noun reading shàn (fan; classifier for doors and windows) is a distinct, common learner-relevant reading at HSK 5. Consider separate entries or a combined bilingual note.",
+  "options": [
+   "shān: to fan; to slap (verb only, as authored)",
+   "shàn: fan (noun); classifier for doors/windows",
+   "combined entry covering both readings"
+  ]
+ },
+ {
+  "hanzi": "咳",
+  "reason": "Two readings exist: hāi (sigh/interjection — used in this entry) and kě (cough — the reading most learners encounter first). The entry is self-consistent with pinyin hāi, but the more common HSK-5 sense may be kě/cough. Confirm which reading this card is intended to teach.",
+  "options": [
+   "hāi — interjection of sighing/surprise (current entry)",
+   "kě — to cough (more frequently seen reading)"
+  ]
+ },
+ {
+  "hanzi": "亏",
+  "reason": "Two equally common primary senses at HSK-5: (1) to lose money / deficit (current entry) and (2) luckily / fortunately / thanks to (亏得 usage). Neither is clearly dominant; confirm which sense to foreground.",
+  "options": [
+   "to lose money; deficit (current)",
+   "luckily; fortunately (亏得 usage)"
+  ]
+ },
+ {
+  "hanzi": "大都",
+  "reason": "Pinyin dàdū conflicts with the chosen adverb meaning. The adverb sense (mostly/for the most part) is primarily pronounced dàduō; dàdū is the noun/metropolitan reading (Yuan-dynasty capital). cedict lists dàdū as an alternative for the adverb, but learners need to know which form to say.",
+  "options": [
+   "Correct pinyin to dàduō and keep adverb meaning (mostly; for the most part)",
+   "Keep pinyin dàdū and switch meaning to the historical/metropolitan sense, tagging it differently"
+  ]
+ },
+ {
+  "hanzi": "年前",
+  "reason": "CEDICT lists two distinct senses: (1) 'by/at the end of the year' (primary, most common) and (2) 'shortly before New Year'. The authored gloss captures only sense 2. Clarify which sense is primary for this card.",
+  "options": [
+   "by the end of the year / at year-end",
+   "shortly before the New Year"
+  ]
+ },
+ {
+  "hanzi": "只见",
+  "reason": "CEDICT gives two separate senses: (1) 'to see the same thing over and over again' and (2) 'to see, to one's surprise, sth happen suddenly' (narrative particle). The Russian gloss 'и вдруг видишь; видно лишь' conflates them — 'видно лишь' (one sees only) does not match either sense cleanly. Choose one primary sense.",
+  "options": [
+   "literary particle: and then (one sees) / suddenly one sees",
+   "to see repeatedly; over and over"
+  ]
+ }
+]

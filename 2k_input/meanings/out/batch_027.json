@@ -1,0 +1,147 @@
+[
+ {
+  "hanzi": "仅仅",
+  "pinyin": "jǐnjǐn",
+  "meaning_ru": "только; всего лишь",
+  "meaning_en": "only; merely",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "游",
+  "pinyin": "yóu",
+  "meaning_ru": "плавать",
+  "meaning_en": "to swim",
+  "semantic_tags": [
+   "action_movement",
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "铁",
+  "pinyin": "tiě",
+  "meaning_ru": "железо",
+  "meaning_en": "iron (metal)",
+  "semantic_tags": [
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "录",
+  "pinyin": "lù",
+  "meaning_ru": "записывать",
+  "meaning_en": "to record",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "背后",
+  "pinyin": "bèihòu",
+  "meaning_ru": "сзади; за спиной",
+  "meaning_en": "behind; at the back",
+  "semantic_tags": [
+   "spatial_relation",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "土",
+  "pinyin": "tǔ",
+  "meaning_ru": "земля; почва",
+  "meaning_en": "soil; earth",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "缺",
+  "pinyin": "quē",
+  "meaning_ru": "не хватать; недостаток",
+  "meaning_en": "to lack; shortage",
+  "semantic_tags": [
+   "abstract_quality",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "相互",
+  "pinyin": "xiānghù",
+  "meaning_ru": "взаимно; друг друга",
+  "meaning_en": "mutual; each other",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "眼前",
+  "pinyin": "yǎnqián",
+  "meaning_ru": "перед глазами; сейчас",
+  "meaning_en": "before one's eyes; now",
+  "semantic_tags": [
+   "spatial_relation",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "古",
+  "pinyin": "gǔ",
+  "meaning_ru": "древний; старинный",
+  "meaning_en": "ancient; old",
+  "semantic_tags": [
+   "time_period",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "羊",
+  "pinyin": "yáng",
+  "meaning_ru": "овца; баран",
+  "meaning_en": "sheep; goat",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "造",
+  "pinyin": "zào",
+  "meaning_ru": "создавать; строить",
+  "meaning_en": "to make; to build",
+  "semantic_tags": [
+   "physical_action",
+   "industry_production"
+  ]
+ },
+ {
+  "hanzi": "前进",
+  "pinyin": "qiánjìn",
+  "meaning_ru": "идти вперёд",
+  "meaning_en": "to advance; move forward",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "看上去",
+  "pinyin": "kànshangqu",
+  "meaning_ru": "на вид; кажется",
+  "meaning_en": "it seems; to look",
+  "semantic_tags": [
+   "perception",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "环",
+  "pinyin": "huán",
+  "meaning_ru": "кольцо; звено",
+  "meaning_en": "ring; loop",
+  "semantic_tags": [
+   "shape_form",
+   "object_home"
+  ]
+ }
+]

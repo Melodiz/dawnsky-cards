@@ -1,0 +1,139 @@
+[
+ {
+  "hanzi": "没法儿",
+  "pinyin": "méifǎr",
+  "meaning_ru": "никак; нельзя (разг.)",
+  "meaning_en": "no way; can't (coll.)",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "纯净水",
+  "pinyin": "chúnjìngshuǐ",
+  "meaning_ru": "очищенная вода",
+  "meaning_en": "purified water",
+  "semantic_tags": [
+   "drink"
+  ]
+ },
+ {
+  "hanzi": "学时",
+  "pinyin": "xuéshí",
+  "meaning_ru": "учебный час",
+  "meaning_en": "class hour",
+  "semantic_tags": [
+   "education",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "下个月",
+  "pinyin": "xiàgèyuè",
+  "meaning_ru": "в следующем месяце",
+  "meaning_en": "next month",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "名牌儿",
+  "pinyin": "míngpáir",
+  "meaning_ru": "известный бренд",
+  "meaning_en": "famous brand",
+  "semantic_tags": [
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "有劲儿",
+  "pinyin": "yǒujìnr",
+  "meaning_ru": "сильный; бодрый",
+  "meaning_en": "strong; energetic",
+  "semantic_tags": [
+   "body_state"
+  ]
+ },
+ {
+  "hanzi": "没想到",
+  "pinyin": "méixiǎngdào",
+  "meaning_ru": "не ожидал",
+  "meaning_en": "didn't expect",
+  "semantic_tags": [
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "声",
+  "pinyin": "shēng",
+  "meaning_ru": "звук; голос",
+  "meaning_en": "sound; voice",
+  "semantic_tags": [
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "疯",
+  "pinyin": "fēng",
+  "meaning_ru": "сумасшедший",
+  "meaning_en": "crazy; mad",
+  "semantic_tags": [
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "鬼",
+  "pinyin": "guǐ",
+  "meaning_ru": "призрак; чёрт",
+  "meaning_en": "ghost; devil",
+  "semantic_tags": [
+   "religion_belief"
+  ]
+ },
+ {
+  "hanzi": "舞",
+  "pinyin": "wǔ",
+  "meaning_ru": "танцевать; танец",
+  "meaning_en": "to dance; dance",
+  "semantic_tags": [
+   "art",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "愿",
+  "pinyin": "yuàn",
+  "meaning_ru": "желать; готов",
+  "meaning_en": "to wish; willing",
+  "semantic_tags": [
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "射",
+  "pinyin": "shè",
+  "meaning_ru": "стрелять; пускать",
+  "meaning_en": "to shoot; launch",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "运",
+  "pinyin": "yùn",
+  "meaning_ru": "удача; везение",
+  "meaning_en": "luck; fortune",
+  "semantic_tags": [
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "戏",
+  "pinyin": "xì",
+  "meaning_ru": "пьеса; спектакль",
+  "meaning_en": "drama; play",
+  "semantic_tags": [
+   "art"
+  ]
+ }
+]

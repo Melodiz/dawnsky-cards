@@ -1,0 +1,482 @@
+[
+ {
+  "hanzi": "树林",
+  "pinyin": "shùlín",
+  "meaning_ru": "роща; лесок (небольшой участок)",
+  "meaning_en": "woods; grove (small stand of trees)",
+  "len_ru": 31,
+  "len_en": 35
+ },
+ {
+  "hanzi": "以内",
+  "pinyin": "yǐnèi",
+  "meaning_ru": "не более (количеств.: 一周以内)",
+  "meaning_en": "within / not exceeding (quantitative)",
+  "len_ru": 27,
+  "len_en": 37
+ },
+ {
+  "hanzi": "多种",
+  "pinyin": "duōzhǒng",
+  "meaning_ru": "много видов; разнообразные",
+  "meaning_en": "many kinds (stress on number of types)",
+  "len_ru": 26,
+  "len_en": 38
+ },
+ {
+  "hanzi": "型号",
+  "pinyin": "xínghào",
+  "meaning_ru": "модель (изделия, с номером)",
+  "meaning_en": "product model number; spec designation",
+  "len_ru": 27,
+  "len_en": 38
+ },
+ {
+  "hanzi": "两边",
+  "pinyin": "liǎngbian",
+  "meaning_ru": "обе стороны (физическое расп.)",
+  "meaning_en": "both sides (physical/spatial)",
+  "len_ru": 30,
+  "len_en": 29
+ },
+ {
+  "hanzi": "梦见",
+  "pinyin": "mèngjiàn",
+  "meaning_ru": "увидеть во сне (конкретное)",
+  "meaning_en": "dream of (see sth specific in dream)",
+  "len_ru": 27,
+  "len_en": 36
+ },
+ {
+  "hanzi": "夏季",
+  "pinyin": "xiàjì",
+  "meaning_ru": "летний сезон (офиц./письм.)",
+  "meaning_en": "summer season (formal/written)",
+  "len_ru": 27,
+  "len_en": 30
+ },
+ {
+  "hanzi": "获奖",
+  "pinyin": "huòjiǎng",
+  "meaning_ru": "получить награду (за заслуги)",
+  "meaning_en": "win an award (by merit)",
+  "len_ru": 29,
+  "len_en": 23
+ },
+ {
+  "hanzi": "爱国",
+  "pinyin": "àiguó",
+  "meaning_ru": "патриотичный; любить родину",
+  "meaning_en": "patriotic",
+  "len_ru": 27,
+  "len_en": 9
+ },
+ {
+  "hanzi": "种类",
+  "pinyin": "zhǒnglèi",
+  "meaning_ru": "виды; разнообразие типов",
+  "meaning_en": "kinds; range of types (diverse spread)",
+  "len_ru": 24,
+  "len_en": 38
+ },
+ {
+  "hanzi": "泪水",
+  "pinyin": "lèishuǐ",
+  "meaning_ru": "слёзы (образно, письменно)",
+  "meaning_en": "tears (expressive, written)",
+  "len_ru": 26,
+  "len_en": 27
+ },
+ {
+  "hanzi": "使劲",
+  "pinyin": "shǐjìn",
+  "meaning_ru": "напрягаться (сила в моменте)",
+  "meaning_en": "exert force/effort (in the moment)",
+  "len_ru": 28,
+  "len_en": 34
+ },
+ {
+  "hanzi": "中奖",
+  "pinyin": "zhòngjiǎng",
+  "meaning_ru": "выиграть в лотерею (случайно)",
+  "meaning_en": "win a prize by luck (lottery)",
+  "len_ru": 29,
+  "len_en": 29
+ },
+ {
+  "hanzi": "赏",
+  "pinyin": "shǎng",
+  "meaning_ru": "награждать; любоваться (класс.)",
+  "meaning_en": "reward; admire scenery (classical)",
+  "len_ru": 31,
+  "len_en": 34
+ },
+ {
+  "hanzi": "巴士",
+  "pinyin": "bāshì",
+  "meaning_ru": "автобус (заимств.; межгород./Гонконг)",
+  "meaning_en": "bus (loanword; coach/HK usage)",
+  "len_ru": 37,
+  "len_en": 30
+ },
+ {
+  "hanzi": "引进",
+  "pinyin": "yǐnjìn",
+  "meaning_ru": "ввозить; внедрять (извне; технологии)",
+  "meaning_en": "to bring in from outside; import (tech/talent)",
+  "len_ru": 37,
+  "len_en": 46
+ },
+ {
+  "hanzi": "分为",
+  "pinyin": "fēnwéi",
+  "meaning_ru": "делить на (классифицировать по)",
+  "meaning_en": "divide into (by category, formal)",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "促销",
+  "pinyin": "cùxiāo",
+  "meaning_ru": "стимулировать продажи (скидки, акции)",
+  "meaning_en": "promote sales (discounts/campaigns)",
+  "len_ru": 37,
+  "len_en": 35
+ },
+ {
+  "hanzi": "宝石",
+  "pinyin": "bǎoshí",
+  "meaning_ru": "драгоценный камень (предмет)",
+  "meaning_en": "gemstone (physical object)",
+  "len_ru": 28,
+  "len_en": 26
+ },
+ {
+  "hanzi": "研制",
+  "pinyin": "yánzhì",
+  "meaning_ru": "разрабатывать (НИОКР); создавать опытным путём",
+  "meaning_en": "develop via R&D; research and manufacture",
+  "len_ru": 46,
+  "len_en": 41
+ },
+ {
+  "hanzi": "转动",
+  "pinyin": "zhuǎndòng",
+  "meaning_ru": "вращаться (вокруг оси; ср. 围绕)",
+  "meaning_en": "rotate/spin (on axis; cf. 围绕 revolve around)",
+  "len_ru": 30,
+  "len_en": 44
+ },
+ {
+  "hanzi": "动摇",
+  "pinyin": "dòngyáo",
+  "meaning_ru": "колебаться (в убеждениях); поколебать",
+  "meaning_en": "waver (in resolve); shake (conviction)",
+  "len_ru": 37,
+  "len_en": 38
+ },
+ {
+  "hanzi": "秋季",
+  "pinyin": "qiūjì",
+  "meaning_ru": "осенний сезон (офиц./книжн.)",
+  "meaning_en": "autumn season (formal/written contexts)",
+  "len_ru": 28,
+  "len_en": 39
+ },
+ {
+  "hanzi": "扩展",
+  "pinyin": "kuòzhǎn",
+  "meaning_ru": "расширять охват/функции (нейтр.)",
+  "meaning_en": "expand scope or function (neutral)",
+  "len_ru": 32,
+  "len_en": 34
+ },
+ {
+  "hanzi": "平稳",
+  "pinyin": "píngwěn",
+  "meaning_ru": "устойчивый; ровный (без колебаний)",
+  "meaning_en": "stable; even (no fluctuation)",
+  "len_ru": 34,
+  "len_en": 29
+ },
+ {
+  "hanzi": "相片",
+  "pinyin": "xiàngpiàn",
+  "meaning_ru": "фотография (печатная, личная)",
+  "meaning_en": "photo (printed/personal)",
+  "len_ru": 29,
+  "len_en": 24
+ },
+ {
+  "hanzi": "赞赏",
+  "pinyin": "zànshǎng",
+  "meaning_ru": "восхищаться и хвалить (искренне)",
+  "meaning_en": "admire and praise (sincere)",
+  "len_ru": 32,
+  "len_en": 27
+ },
+ {
+  "hanzi": "构造",
+  "pinyin": "gòuzào",
+  "meaning_ru": "строение (физ., конкретное)",
+  "meaning_en": "structure (physical, concrete)",
+  "len_ru": 27,
+  "len_en": 30
+ },
+ {
+  "hanzi": "虫子",
+  "pinyin": "chóngzi",
+  "meaning_ru": "букашка; червяк (разг., широко)",
+  "meaning_en": "bug; worm (colloquial, broad)",
+  "len_ru": 31,
+  "len_en": 29
+ },
+ {
+  "hanzi": "优良",
+  "pinyin": "yōuliáng",
+  "meaning_ru": "отличный по качеству (не по рангу)",
+  "meaning_en": "excellent in quality (not by rank)",
+  "len_ru": 34,
+  "len_en": 34
+ },
+ {
+  "hanzi": "百货",
+  "pinyin": "bǎihuò",
+  "meaning_ru": "разнообразные товары (розница)",
+  "meaning_en": "general merchandise (retail variety)",
+  "len_ru": 30,
+  "len_en": 36
+ },
+ {
+  "hanzi": "登山",
+  "pinyin": "dēngshān",
+  "meaning_ru": "восхождение в горы (вид спорта)",
+  "meaning_en": "mountain climbing (sport/activity)",
+  "len_ru": 31,
+  "len_en": 34
+ },
+ {
+  "hanzi": "大巴",
+  "pinyin": "dàbā",
+  "meaning_ru": "автобус (межгород. или аренда)",
+  "meaning_en": "coach; large bus (intercity/hired)",
+  "len_ru": 30,
+  "len_en": 34
+ },
+ {
+  "hanzi": "诚信",
+  "pinyin": "chéngxìn",
+  "meaning_ru": "честность; порядочность (кач. характера)",
+  "meaning_en": "integrity; honesty (inner character)",
+  "len_ru": 40,
+  "len_en": 36
+ },
+ {
+  "hanzi": "窗子",
+  "pinyin": "chuāngzi",
+  "meaning_ru": "окно (разг., северн. вариант)",
+  "meaning_en": "window (colloquial, northern)",
+  "len_ru": 29,
+  "len_en": 29
+ },
+ {
+  "hanzi": "深厚",
+  "pinyin": "shēnhòu",
+  "meaning_ru": "глубокий, прочный (чувства, навыки)",
+  "meaning_en": "deep; solid (feelings, skills)",
+  "len_ru": 35,
+  "len_en": 30
+ },
+ {
+  "hanzi": "培训班",
+  "pinyin": "péixùnbān",
+  "meaning_ru": "учебные курсы (занятия, группа)",
+  "meaning_en": "training class (a scheduled course)",
+  "len_ru": 31,
+  "len_en": 35
+ },
+ {
+  "hanzi": "后头",
+  "pinyin": "hòutou",
+  "meaning_ru": "позади; сзади (разг.)",
+  "meaning_en": "behind; at the rear (colloquial)",
+  "len_ru": 21,
+  "len_en": 32
+ },
+ {
+  "hanzi": "宽广",
+  "pinyin": "kuānguǎng",
+  "meaning_ru": "широкий и просторный (полн. прил.)",
+  "meaning_en": "wide and spacious (full adj., formal)",
+  "len_ru": 34,
+  "len_en": 37
+ },
+ {
+  "hanzi": "前头",
+  "pinyin": "qiántou",
+  "meaning_ru": "впереди; спереди (разг.)",
+  "meaning_en": "in front; ahead (colloquial)",
+  "len_ru": 24,
+  "len_en": 28
+ },
+ {
+  "hanzi": "疗养",
+  "pinyin": "liáoyǎng",
+  "meaning_ru": "лечиться (в санатории)",
+  "meaning_en": "recuperate (with medical treatment)",
+  "len_ru": 22,
+  "len_en": 35
+ },
+ {
+  "hanzi": "隔开",
+  "pinyin": "gékāi",
+  "meaning_ru": "разделять преградой (физ.)",
+  "meaning_en": "separate by barrier (physical gap)",
+  "len_ru": 26,
+  "len_en": 34
+ },
+ {
+  "hanzi": "抄写",
+  "pinyin": "chāoxiě",
+  "meaning_ru": "переписывать (от руки, для учёбы)",
+  "meaning_en": "copy out by hand (study/transcribe)",
+  "len_ru": 33,
+  "len_en": 35
+ },
+ {
+  "hanzi": "名牌儿",
+  "pinyin": "míngpáir",
+  "meaning_ru": "известный бренд (儿化, разг.)",
+  "meaning_en": "famous brand (儿化 colloquial form)",
+  "len_ru": 27,
+  "len_en": 33
+ },
+ {
+  "hanzi": "声",
+  "pinyin": "shēng",
+  "meaning_ru": "звук (морфема; счётное слово)",
+  "meaning_en": "sound (morpheme; mw for sounds)",
+  "len_ru": 29,
+  "len_en": 31
+ },
+ {
+  "hanzi": "舞",
+  "pinyin": "wǔ",
+  "meaning_ru": "танцевать; размахивать (чем-л.)",
+  "meaning_en": "dance (verb); wield/brandish",
+  "len_ru": 31,
+  "len_en": 28
+ },
+ {
+  "hanzi": "愿",
+  "pinyin": "yuàn",
+  "meaning_ru": "желать; быть согласным (формула)",
+  "meaning_en": "wish; willing (set phrase or formal)",
+  "len_ru": 32,
+  "len_en": 36
+ },
+ {
+  "hanzi": "剩下",
+  "pinyin": "shèngxià",
+  "meaning_ru": "оставаться (после использования)",
+  "meaning_en": "be left over (after use)",
+  "len_ru": 32,
+  "len_en": 24
+ },
+ {
+  "hanzi": "毒",
+  "pinyin": "dú",
+  "meaning_ru": "яд; ядовитый (морфема)",
+  "meaning_en": "poison; toxic (morpheme/noun)",
+  "len_ru": 22,
+  "len_en": 29
+ },
+ {
+  "hanzi": "屋",
+  "pinyin": "wū",
+  "meaning_ru": "комната; дом (книжн., краткая форма)",
+  "meaning_en": "room; house (literary/short form)",
+  "len_ru": 36,
+  "len_en": 33
+ },
+ {
+  "hanzi": "有着",
+  "pinyin": "yǒuzhe",
+  "meaning_ru": "обладать (книжн., с акцентом на состояние)",
+  "meaning_en": "have; possess (literary, emphatic state)",
+  "len_ru": 42,
+  "len_en": 40
+ },
+ {
+  "hanzi": "签",
+  "pinyin": "qiān",
+  "meaning_ru": "подписывать (документ, общее)",
+  "meaning_en": "to sign (a document, general)",
+  "len_ru": 29,
+  "len_en": 29
+ },
+ {
+  "hanzi": "价",
+  "pinyin": "jià",
+  "meaning_ru": "цена (морфема в словах)",
+  "meaning_en": "price; value (bound morpheme)",
+  "len_ru": 23,
+  "len_en": 29
+ },
+ {
+  "hanzi": "冒",
+  "pinyin": "mào",
+  "meaning_ru": "испускать (дым, пар); рисковать",
+  "meaning_en": "emit (smoke/steam); brave (risk)",
+  "len_ru": 31,
+  "len_en": 32
+ },
+ {
+  "hanzi": "礼",
+  "pinyin": "lǐ",
+  "meaning_ru": "этикет; подарок (шире礼貌/礼节)",
+  "meaning_en": "ritual propriety; gift (broader than 礼貌/礼节)",
+  "len_ru": 27,
+  "len_en": 43
+ },
+ {
+  "hanzi": "只不过",
+  "pinyin": "zhǐbuguò",
+  "meaning_ru": "всего лишь; просто (сниж., уступит.)",
+  "meaning_en": "only; just (dismissive/concessive)",
+  "len_ru": 36,
+  "len_en": 34
+ },
+ {
+  "hanzi": "歌曲",
+  "pinyin": "gēqǔ",
+  "meaning_ru": "песня (офиц., муз. произведение)",
+  "meaning_en": "song (formal term for a composition)",
+  "len_ru": 32,
+  "len_en": 36
+ },
+ {
+  "hanzi": "所在",
+  "pinyin": "suǒzài",
+  "meaning_ru": "местонахождение (где находится)",
+  "meaning_en": "whereabouts; where sth is located",
+  "len_ru": 31,
+  "len_en": 33
+ },
+ {
+  "hanzi": "害",
+  "pinyin": "hài",
+  "meaning_ru": "вредить; вред (разговорн., также сущ.)",
+  "meaning_en": "harm (basic, colloquial; also noun: harm)",
+  "len_ru": 38,
+  "len_en": 41
+ },
+ {
+  "hanzi": "忍",
+  "pinyin": "rěn",
+  "meaning_ru": "терпеть (сдерживая реакцию)",
+  "meaning_en": "endure (by suppressing reaction)",
+  "len_ru": 27,
+  "len_en": 32
+ }
+]

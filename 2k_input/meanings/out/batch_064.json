@@ -1,0 +1,146 @@
+[
+ {
+  "hanzi": "广",
+  "pinyin": "guǎng",
+  "meaning_ru": "широкий; обширный",
+  "meaning_en": "wide; broad",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ]
+ },
+ {
+  "hanzi": "乡村",
+  "pinyin": "xiāngcūn",
+  "meaning_ru": "деревня; село",
+  "meaning_en": "village; countryside",
+  "semantic_tags": [
+   "place",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "完了",
+  "pinyin": "wánle",
+  "meaning_ru": "всё, конец; пропал (разг.)",
+  "meaning_en": "it's over; we're done for",
+  "semantic_tags": [
+   "event_situation",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "火灾",
+  "pinyin": "huǒzāi",
+  "meaning_ru": "пожар",
+  "meaning_en": "fire (disaster)",
+  "semantic_tags": [
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "不利",
+  "pinyin": "bùlì",
+  "meaning_ru": "невыгодный; вредный",
+  "meaning_en": "unfavorable; harmful",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "倒是",
+  "pinyin": "dàoshi",
+  "meaning_ru": "наоборот; вообще-то",
+  "meaning_en": "actually; on the contrary",
+  "semantic_tags": [
+   "manner_adverb",
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "此刻",
+  "pinyin": "cǐkè",
+  "meaning_ru": "сейчас; в этот миг",
+  "meaning_en": "this moment; now",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "向前",
+  "pinyin": "xiàngqián",
+  "meaning_ru": "вперёд",
+  "meaning_en": "forward; onward",
+  "semantic_tags": [
+   "direction",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "一下子",
+  "pinyin": "yīxiàzi",
+  "meaning_ru": "вдруг; разом",
+  "meaning_en": "all at once; suddenly",
+  "semantic_tags": [
+   "manner_adverb",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "有力",
+  "pinyin": "yǒulì",
+  "meaning_ru": "сильный; мощный",
+  "meaning_en": "powerful; forceful",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "尽可能",
+  "pinyin": "jǐnkěnéng",
+  "meaning_ru": "по возможности",
+  "meaning_en": "as far as possible",
+  "semantic_tags": [
+   "manner_adverb",
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "寸",
+  "pinyin": "cùn",
+  "meaning_ru": "цунь (мера длины)",
+  "meaning_en": "cun; Chinese inch",
+  "semantic_tags": [
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "兔",
+  "pinyin": "tù",
+  "meaning_ru": "заяц; кролик",
+  "meaning_en": "rabbit; hare",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "骗子",
+  "pinyin": "piànzi",
+  "meaning_ru": "мошенник; обманщик",
+  "meaning_en": "swindler; cheat",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "增强",
+  "pinyin": "zēngqiáng",
+  "meaning_ru": "усиливать; укреплять",
+  "meaning_en": "to strengthen; enhance",
+  "semantic_tags": [
+   "process_change",
+   "action_daily"
+  ]
+ }
+]

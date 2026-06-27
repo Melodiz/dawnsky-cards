@@ -1,0 +1,1432 @@
+[
+ {
+  "hanzi": "一身",
+  "pinyin": "yīshēn",
+  "meaning_ru": "с головы до ног (一身汗)",
+  "meaning_en": "covered in (set-phrase: 一身汗)",
+  "len_ru": 21,
+  "len_en": 28,
+  "cedict_en": "whole body/from head to toe/single person/a suit of clothes",
+  "dataset_meanings": [
+   "whole body",
+   "from head to toe",
+   "single person",
+   "a suit of clothes"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "全身",
+     "浑身"
+    ],
+    "note": "全身 is neutral 'the whole body'; 浑身 (5k) adds emotional weight, often 'all over / soaked / aching'; 一身 emphasizes a state covering the person (一身汗 = covered in sweat), often in set phrases."
+   }
+  ]
+ },
+ {
+  "hanzi": "上升",
+  "pinyin": "shàngshēng",
+  "meaning_ru": "подниматься (физич. или в ранге)",
+  "meaning_en": "rise (physically or in rank)",
+  "len_ru": 32,
+  "len_en": 28,
+  "cedict_en": "to rise/to go up/to ascend",
+  "dataset_meanings": [
+   "to rise",
+   "to go up",
+   "to ascend"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "上涨",
+     "升高",
+     "涨价",
+     "涨",
+     "升",
+     "提高"
+    ],
+    "note": "涨/上涨/涨价 = prices/levels surge (market connotation); 上升/升 = rise physically or in rank; 升高 = rise in measurable degree (temperature, level); 提高 = raise intentionally (quality, standard)"
+   }
+  ]
+ },
+ {
+  "hanzi": "上来",
+  "pinyin": "shànglái",
+  "meaning_ru": "подниматься (к говорящему)",
+  "meaning_en": "come up (toward speaker)",
+  "len_ru": 26,
+  "len_en": 24,
+  "cedict_en": "to come up/to approach/(verb complement indicating success)",
+  "dataset_meanings": [
+   "to come up",
+   "to approach",
+   "(verb complement indicating success)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "进来",
+     "传来",
+     "进",
+     "回来"
+    ],
+    "note": "All involve movement toward the speaker. 进 = enter (neutral). 进来 = come in (into enclosed space, toward speaker). 上来 = come up (upward toward speaker). 传来 = reach the speaker (sound/news only, not physical). 回来 = come back (returning)."
+   }
+  ]
+ },
+ {
+  "hanzi": "上涨",
+  "pinyin": "shàngzhǎng",
+  "meaning_ru": "расти (о ценах, уровнях)",
+  "meaning_en": "rise (prices/figures, econ.)",
+  "len_ru": 24,
+  "len_en": 28,
+  "cedict_en": "to rise/to go up",
+  "dataset_meanings": [
+   "to rise",
+   "to go up"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "上升",
+     "升高",
+     "涨价",
+     "涨",
+     "升",
+     "提高"
+    ],
+    "note": "涨/上涨/涨价 = prices/levels surge (market connotation); 上升/升 = rise physically or in rank; 升高 = rise in measurable degree (temperature, level); 提高 = raise intentionally (quality, standard)"
+   }
+  ]
+ },
+ {
+  "hanzi": "上衣",
+  "pinyin": "shàngyī",
+  "meaning_ru": "куртка; рубашка (верх)",
+  "meaning_en": "jacket; upper garment",
+  "len_ru": 22,
+  "len_en": 21,
+  "cedict_en": "jacket/upper outer garment/CL:件[jian4]",
+  "dataset_meanings": [
+   "jacket",
+   "upper outer garment"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "下边",
+  "pinyin": "xiàbian",
+  "meaning_ru": "внизу; под (разговорн.)",
+  "meaning_en": "below; underneath (spoken)",
+  "len_ru": 23,
+  "len_en": 26,
+  "cedict_en": "under/the underside/below",
+  "dataset_meanings": [
+   "under",
+   "the underside",
+   "below"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "底下",
+     "下面",
+     "以下"
+    ],
+    "note": "下边 = below/underneath (neutral spoken); 底下 = directly underneath (physical, colloquial); 下面 = below (also 'the following' in discourse); 以下 = below a threshold or 'hereafter' (formal written)"
+   }
+  ]
+ },
+ {
+  "hanzi": "下降",
+  "pinyin": "xiàjiàng",
+  "meaning_ru": "снижаться (количественно)",
+  "meaning_en": "drop; decline (level/quantity)",
+  "len_ru": 25,
+  "len_en": 30,
+  "cedict_en": "to decline/to drop/to fall/to go down/to decrease",
+  "dataset_meanings": [
+   "to decline",
+   "to drop",
+   "to fall",
+   "to go down",
+   "to decrease"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "衰退"
+    ],
+    "note": "下降 = drop/decline (measurable fall in quantity or level). 衰退 = decline/recession (gradual deterioration, economic or physical decay)."
+   }
+  ]
+ },
+ {
+  "hanzi": "不久",
+  "pinyin": "bùjiǔ",
+  "meaning_ru": "вскоре (не сразу)",
+  "meaning_en": "before long (not immediate)",
+  "len_ru": 17,
+  "len_en": 27,
+  "cedict_en": "not long (after)/before too long/soon/soon after",
+  "dataset_meanings": [
+   "not long (after)",
+   "before too long",
+   "soon",
+   "soon after"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "随后"
+    ],
+    "note": "随后 = immediately following in sequence (right after); 不久 = an unspecified short time later (temporal gap, not necessarily immediate)"
+   }
+  ]
+ },
+ {
+  "hanzi": "不光",
+  "pinyin": "bùguāng",
+  "meaning_ru": "не только (разговорн.)",
+  "meaning_en": "not only (colloquial)",
+  "len_ru": 22,
+  "len_en": 21,
+  "cedict_en": "not the only one/not only",
+  "dataset_meanings": [
+   "not the only one",
+   "not only"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "不但"
+    ],
+    "note": "Both mean 'not only'. 不光 is colloquial spoken; 不但 is neutral/written. Both pair with 还/也/而且 in the second clause."
+   }
+  ]
+ },
+ {
+  "hanzi": "不大",
+  "pinyin": "búdà",
+  "meaning_ru": "не очень; не часто (частота)",
+  "meaning_en": "not very; not often",
+  "len_ru": 28,
+  "len_en": 19,
+  "cedict_en": "not very (clear, far away etc); not too/not often; infrequently",
+  "dataset_meanings": [
+   "not very",
+   "not too",
+   "not often"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "不太"
+    ],
+    "note": "Both mean 'not very', but 不大 also carries 'not often/rarely' (frequency sense); 不太 is neutral degree attenuation only"
+   }
+  ]
+ },
+ {
+  "hanzi": "不对",
+  "pinyin": "búduì",
+  "meaning_ru": "неверно (разг. возражение)",
+  "meaning_en": "not right (mild correction)",
+  "len_ru": 26,
+  "len_en": 27,
+  "cedict_en": "incorrect/wrong/amiss/abnormal/queer",
+  "dataset_meanings": [
+   "incorrect",
+   "wrong",
+   "amiss",
+   "abnormal",
+   "queer"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "错"
+    ],
+    "note": "不对 = 'that's not right' (colloquial response, mild correction: 不对吧?); 错 = wrong/mistake (can be noun or adj., broader use: 你错了, 犯错)."
+   },
+   {
+    "with": [
+     "错",
+     "失误",
+     "疏忽"
+    ],
+    "note": "错 = general wrong/mistake (adj+noun); 不对 = predicative spoken judgment ('that's not right'); 失误 = concrete performance slip (sports/work); 疏忽 = careless lapse due to inattention"
+   }
+  ]
+ },
+ {
+  "hanzi": "不曾",
+  "pinyin": "bùcéng",
+  "meaning_ru": "никогда не (отрицание опыта)",
+  "meaning_en": "have never (experiential neg.)",
+  "len_ru": 28,
+  "len_en": 30,
+  "cedict_en": "hasn't yet; hasn't ever",
+  "dataset_meanings": [
+   "hasn't yet",
+   "hasn't ever"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "未"
+    ],
+    "note": "不曾 stresses experiential negation (have never done); 未 is a literary/written particle meaning 'not yet' with no such experiential nuance."
+   }
+  ]
+ },
+ {
+  "hanzi": "不能不",
+  "pinyin": "bùnéngbù",
+  "meaning_ru": "не может не (принуждение)",
+  "meaning_en": "cannot but (compulsion)",
+  "len_ru": 25,
+  "len_en": 23,
+  "cedict_en": "have to/cannot but",
+  "dataset_meanings": [
+   "have to",
+   "cannot but"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "不得不",
+     "不免",
+     "势必"
+    ],
+    "note": "不能不 = logical double negation 'cannot not do' (moral/logical compulsion, slightly emphatic); 不得不 = have no choice but (external circumstances force it); 不免 = unavoidably/can't help but (natural, emotionally toned); 势必 = bound to/inevitably (predicting an outcome, formal)."
+   }
+  ]
+ },
+ {
+  "hanzi": "不良",
+  "pinyin": "bùliáng",
+  "meaning_ru": "плохой; вредный (офиц., письм.)",
+  "meaning_en": "bad; harmful (formal/written)",
+  "len_ru": 31,
+  "len_en": 29,
+  "cedict_en": "bad; harmful; unhealthy/(of a device, connection, material etc) defective; faulty",
+  "dataset_meanings": [
+   "bad",
+   "harmful",
+   "unhealthy"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "坏"
+    ],
+    "note": "不良 = formal/written 'bad; harmful' (behavior, influence, records); 坏 = general colloquial 'bad; broken/spoiled'; 不良 never used for broken objects"
+   }
+  ]
+ },
+ {
+  "hanzi": "两边",
+  "pinyin": "liǎngbian",
+  "meaning_ru": "обе стороны (физически)",
+  "meaning_en": "both sides (spatial)",
+  "len_ru": 23,
+  "len_en": 20,
+  "cedict_en": "either side; both sides",
+  "dataset_meanings": [
+   "either side",
+   "both sides"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "双方"
+    ],
+    "note": "两边 = both sides physically (spatial); 双方 = both parties (people or groups in an interaction or negotiation)"
+   }
+  ]
+ },
+ {
+  "hanzi": "个儿",
+  "pinyin": "gèr",
+  "meaning_ru": "рост; телосложение (разг.)",
+  "meaning_en": "height; build (northern coll.)",
+  "len_ru": 26,
+  "len_en": 30,
+  "cedict_en": "size/height/stature",
+  "dataset_meanings": [
+   "size",
+   "height",
+   "stature"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "身高",
+     "个子"
+    ],
+    "note": "身高 = measured height (formal, e.g. medical records); 个子 = colloquial stature (general spoken); 个儿 = colloquial stature (northern/Beijing dialect variant)"
+   }
+  ]
+ },
+ {
+  "hanzi": "中奖",
+  "pinyin": "zhòngjiǎng",
+  "meaning_ru": "выиграть в лотерею",
+  "meaning_en": "win a prize by luck",
+  "len_ru": 18,
+  "len_en": 19,
+  "cedict_en": "to win a prize (in a lottery etc)",
+  "dataset_meanings": [
+   "to win a prize (in a lottery etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "获奖",
+     "赢"
+    ],
+    "note": "中奖 = win by chance (lottery, lucky draw); 获奖 = receive a merit-based award/prize; 赢 = win (competition, game — broadest)"
+   },
+   {
+    "with": [
+     "获奖",
+     "赢得",
+     "胜",
+     "赢",
+     "胜利"
+    ],
+    "note": "中奖 = win a lottery/prize draw (chance); 获奖 = receive a formal award/prize (achievement); 赢得 = win/gain something through effort (takes an object: trust, title); 赢 = simply win a contest/game; 胜 = beat an opponent (verb, also adj 'superior'); 胜利 = victory (noun, often military/political)"
+   }
+  ]
+ },
+ {
+  "hanzi": "中药",
+  "pinyin": "zhōngyào",
+  "meaning_ru": "традиционная кит. медицина",
+  "meaning_en": "traditional Chinese medicine",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "traditional Chinese medicine/CL:服[fu4]",
+  "dataset_meanings": [
+   "traditional Chinese medicine"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "为",
+  "pinyin": "wéi",
+  "meaning_ru": "являться; быть (книжн.)",
+  "meaning_en": "to be; act as (literary)",
+  "len_ru": 23,
+  "len_en": 24,
+  "cedict_en": "as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)/because of/for/to/variant of 為|为[wei2]/variant of 為|为[wei4]",
+  "dataset_meanings": [
+   "as (in the capacity of)",
+   "to take sth as",
+   "to act as",
+   "to serve as",
+   "to behave as",
+   "to become",
+   "to be",
+   "to do",
+   "by (in the passive voice)",
+   "because of",
+   "for",
+   "to",
+   "variant of 为"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "成为",
+     "充当",
+     "变成"
+    ],
+    "note": "为 = be/act as (literary/formal copula or role); 成为 = become (take on a new status/role, lasting change); 充当 = serve as / fill the role of (temporary, functional); 变成 = turn into (physical/qualitative transformation)."
+   }
+  ]
+ },
+ {
+  "hanzi": "为主",
+  "pinyin": "wéizhǔ",
+  "meaning_ru": "главным образом; в приоритете",
+  "meaning_en": "to give priority to",
+  "len_ru": 29,
+  "len_en": 19,
+  "cedict_en": "to rely mainly on/to attach most importance to",
+  "dataset_meanings": [
+   "to rely mainly on",
+   "to attach most importance to"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "举手",
+  "pinyin": "jǔshǒu",
+  "meaning_ru": "поднять руку (голосование)",
+  "meaning_en": "raise a hand (e.g. to vote)",
+  "len_ru": 26,
+  "len_en": 27,
+  "cedict_en": "to raise a hand/to put up one's hand (as signal)",
+  "dataset_meanings": [
+   "to raise a hand",
+   "to put up one's hand (as signal)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "抬头",
+     "举"
+    ],
+    "note": "举手 = raise one's hand (specific gesture, e.g. voting or asking); 抬头 = raise one's head (look up); 举 = lift/raise in general or cite an example (broader base verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "之下",
+  "pinyin": "zhīxià",
+  "meaning_ru": "под (абстр.: давление, условия)",
+  "meaning_en": "under (abstract: conditions)",
+  "len_ru": 31,
+  "len_en": 28,
+  "cedict_en": "under/beneath/less than",
+  "dataset_meanings": [
+   "under",
+   "beneath",
+   "less than"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "地下"
+    ],
+    "note": "之下 = under/beneath (abstract hierarchy: rule, pressure, conditions); 地下 = underground (physical location, also fig. clandestine)"
+   }
+  ]
+ },
+ {
+  "hanzi": "之内",
+  "pinyin": "zhīnèi",
+  "meaning_ru": "в пределах (книжн., о границе)",
+  "meaning_en": "within (written, boundary)",
+  "len_ru": 30,
+  "len_en": 26,
+  "cedict_en": "inside; within",
+  "dataset_meanings": [
+   "inside",
+   "within"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "以内",
+     "之中"
+    ],
+    "note": "之内 = within a limit/boundary (written); 以内 = within/not exceeding (often quantitative: 一周以内); 之中 (5k) = amid/within a set or space (书中之中 — more literary, spatial or figurative)."
+   }
+  ]
+ },
+ {
+  "hanzi": "乘客",
+  "pinyin": "chéngkè",
+  "meaning_ru": "пассажир (не персонал)",
+  "meaning_en": "passenger (not crew)",
+  "len_ru": 22,
+  "len_en": 20,
+  "cedict_en": "passenger",
+  "dataset_meanings": [
+   "passenger"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "乘务员"
+    ],
+    "note": "乘客 = passenger (the rider); 乘务员 = cabin/train attendant (crew serving passengers)"
+   }
+  ]
+ },
+ {
+  "hanzi": "乘车",
+  "pinyin": "chéngchē",
+  "meaning_ru": "ехать транспортом (пассажиром)",
+  "meaning_en": "travel by vehicle (passenger)",
+  "len_ru": 30,
+  "len_en": 29,
+  "cedict_en": "to ride (in a car or carriage)/to drive/to motor",
+  "dataset_meanings": [
+   "to ride (in a car or carriage)",
+   "to drive",
+   "to motor"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "骑车",
+     "乘坐",
+     "乘",
+     "搭"
+    ],
+    "note": "骑车 = ride a bicycle/motorbike (straddle-type); 乘车 = travel by car/vehicle (passenger); 乘/乘坐 = ride/travel by (formal; 乘 also means multiply); 搭 = hitch a ride or take public transport (colloquial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "乡村",
+  "pinyin": "xiāngcūn",
+  "meaning_ru": "деревня; село (пасторальн.)",
+  "meaning_en": "countryside (rural, pastoral)",
+  "len_ru": 27,
+  "len_en": 29,
+  "cedict_en": "rustic/village/countryside",
+  "dataset_meanings": [
+   "rustic",
+   "village",
+   "countryside"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "村",
+     "农村"
+    ],
+    "note": "乡村 = countryside/rural area (pastoral, cultural concept); 村 = a specific village (settlement); 农村 = rural/farming area (administrative or economic framing)"
+   }
+  ]
+ },
+ {
+  "hanzi": "事实上",
+  "pinyin": "shìshíshàng",
+  "meaning_ru": "фактически (по фактам)",
+  "meaning_en": "in fact (stressing facts)",
+  "len_ru": 22,
+  "len_en": 25,
+  "cedict_en": "in fact/in reality/actually/as a matter of fact/de facto/ipso facto",
+  "dataset_meanings": [
+   "in fact",
+   "in reality",
+   "actually",
+   "as a matter of fact",
+   "de facto",
+   "ipso facto"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "实际上",
+     "其实"
+    ],
+    "note": "事实上 stresses known facts ('the fact is...'); 实际上 stresses practical/real-world reality; 其实 is conversational and corrects an assumption ('actually...')"
+   }
+  ]
+ },
+ {
+  "hanzi": "交给",
+  "pinyin": "jiāogěi",
+  "meaning_ru": "передать (с переходом прав)",
+  "meaning_en": "hand over (transfer ownership)",
+  "len_ru": 27,
+  "len_en": 30,
+  "cedict_en": "to give; to deliver; to hand over",
+  "dataset_meanings": [
+   "to give; to deliver; to hand over"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "递给"
+    ],
+    "note": "递给 = pass to (physical hand-to-hand, no ownership transfer); 交给 = hand over (transfer responsibility, duty, or ownership)"
+   }
+  ]
+ },
+ {
+  "hanzi": "交警",
+  "pinyin": "jiāojǐng",
+  "meaning_ru": "сотрудник ДПС (дор. полиция)",
+  "meaning_en": "traffic police (officer)",
+  "len_ru": 28,
+  "len_en": 24,
+  "cedict_en": "traffic police (abbr. for 交通警察[jiao1 tong1 jing3 cha2])",
+  "dataset_meanings": [
+   "traffic police (abbr. for 察)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "警察",
+     "警方"
+    ],
+    "note": "交警 = traffic police specifically; 警察 = police / police officer (general term); 警方 = the police as an institution / police side (used in news)"
+   }
+  ]
+ },
+ {
+  "hanzi": "交费",
+  "pinyin": "jiāofèi",
+  "meaning_ru": "платить взнос/сбор (в учрежд.)",
+  "meaning_en": "pay a fee (to an institution)",
+  "len_ru": 30,
+  "len_en": 29,
+  "cedict_en": "to pay a fee",
+  "dataset_meanings": [
+   "to pay a fee"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "付",
+     "付款",
+     "缴纳"
+    ],
+    "note": "付 = pay/hand over (general); 付款 = make a payment (transaction); 交费 = pay a fee to an institution; 缴纳 = pay obligatory dues/taxes (formal)"
+   }
+  ]
+ },
+ {
+  "hanzi": "亲人",
+  "pinyin": "qīnrén",
+  "meaning_ru": "близкие (родственники)",
+  "meaning_en": "close relatives; loved ones",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "one's close relatives",
+  "dataset_meanings": [
+   "one's close relatives"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "好友",
+     "伙伴"
+    ],
+    "note": "好友 = close personal friend (emotional intimacy, non-family); 亲人 = close relatives/loved ones (family bond); 伙伴 = companion/partner (cooperative relationship, not necessarily intimate)"
+   }
+  ]
+ },
+ {
+  "hanzi": "亲密",
+  "pinyin": "qīnmì",
+  "meaning_ru": "близкий; интимный (эмоц.)",
+  "meaning_en": "intimate; emotionally close",
+  "len_ru": 25,
+  "len_en": 27,
+  "cedict_en": "intimate/close",
+  "dataset_meanings": [
+   "intimate",
+   "close"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "密切",
+     "亲热"
+    ],
+    "note": "All mean 'close/intimate'. 亲密 = emotional intimacy between people; 密切 = close (of formal relations, connections, cooperation — not personal warmth); 亲热 = warm and affectionate in manner/behavior."
+   }
+  ]
+ },
+ {
+  "hanzi": "人力",
+  "pinyin": "rénlì",
+  "meaning_ru": "людские ресурсы; кадры",
+  "meaning_en": "manpower; human resources",
+  "len_ru": 22,
+  "len_en": 25,
+  "cedict_en": "manpower/labor power",
+  "dataset_meanings": [
+   "manpower",
+   "labor power"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "人工",
+     "劳动"
+    ],
+    "note": "人力 = human manpower/capacity (resource planning); 人工 = manual/human-operated (as adj: artificial; or noun: manual labor cost); 劳动 = labor as physical toil (ideological/economic sense)"
+   }
+  ]
+ },
+ {
+  "hanzi": "仅仅",
+  "pinyin": "jǐnjǐn",
+  "meaning_ru": "только; всего лишь",
+  "meaning_en": "merely; only (restrictor)",
+  "len_ru": 18,
+  "len_en": 25,
+  "cedict_en": "barely/only/merely/only (this and nothing more)",
+  "dataset_meanings": [
+   "barely",
+   "only",
+   "merely",
+   "only (this and nothing more)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "只不过",
+     "只是",
+     "无非",
+     "不过",
+     "仅"
+    ],
+    "note": "All restrict scope to 'merely/only': 仅/仅仅 are neutral restrictors; 只不过 and 只是 add a mild dismissive/concessive shade; 无非 = 'nothing but' (slightly emphatic); 不过 doubles as a concessive connector ('however')"
+   }
+  ]
+ },
+ {
+  "hanzi": "今后",
+  "pinyin": "jīnhòu",
+  "meaning_ru": "впредь; отныне",
+  "meaning_en": "from now on (time adverb)",
+  "len_ru": 14,
+  "len_en": 25,
+  "cedict_en": "hereafter/henceforth/in the future/from now on",
+  "dataset_meanings": [
+   "hereafter",
+   "henceforth",
+   "in the future",
+   "from now on"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "未来",
+     "前途"
+    ],
+    "note": "今后 = from now on (time adverb, forward-looking); 未来 = the future (general noun/adj); 前途 = personal prospects/career future (evaluative, about a person's potential)"
+   }
+  ]
+ },
+ {
+  "hanzi": "从中",
+  "pinyin": "cóngzhōng",
+  "meaning_ru": "из этого; отсюда (источник действ.)",
+  "meaning_en": "from within (source of action)",
+  "len_ru": 35,
+  "len_en": 30,
+  "cedict_en": "from among them; from it",
+  "dataset_meanings": [
+   "from within",
+   "therefrom"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "其中",
+     "当中"
+    ],
+    "note": "从中 = from within a situation (source of action: 从中学习); 其中 = among them (anaphoric reference to a set); 当中 = in the middle/among (spatial or centered focus)."
+   },
+   {
+    "with": [
+     "其中"
+    ],
+    "note": "其中 = among them / from them (anaphoric reference, pointing back); 从中 = from within that / therefrom (extracting benefit or information from a situation)"
+   }
+  ]
+ },
+ {
+  "hanzi": "付出",
+  "pinyin": "fùchū",
+  "meaning_ru": "вкладывать (усилия, чувства)",
+  "meaning_en": "invest/expend (effort, emotion)",
+  "len_ru": 28,
+  "len_en": 31,
+  "cedict_en": "to pay; to expend; to invest (energy or time)",
+  "dataset_meanings": [
+   "to pay; to expend; to invest (energy or time)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "使劲"
+    ],
+    "note": "使劲 = exert physical force or effort (push hard in the moment). 付出 = expend/invest (effort, time, emotion — abstract commitment over time)."
+   },
+   {
+    "with": [
+     "使劲",
+     "使劲儿",
+     "拼命",
+     "全力以赴"
+    ],
+    "note": "付出 = expend/invest (effort, money, emotion — what you give); 使劲/使劲儿 = exert force (physical effort, push hard; 儿 is spoken Beijing variant); 拼命 = with all one's might (desperate, intense manner adverb); 全力以赴 = go all out (idiom, total commitment)"
+   }
+  ]
+ },
+ {
+  "hanzi": "代",
+  "pinyin": "dài",
+  "meaning_ru": "замещать; поколение; эпоха",
+  "meaning_en": "act for; generation; era",
+  "len_ru": 26,
+  "len_en": 24,
+  "cedict_en": "to be a substitute for; to act on behalf of; to replace; to substitute/generation; dynasty; age; period; (historical) era; (geological) eon",
+  "dataset_meanings": [
+   "to substitute",
+   "to act on behalf of others",
+   "to replace",
+   "generation",
+   "dynasty",
+   "age",
+   "period",
+   "(historical) era",
+   "(geological) eon"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "更换",
+     "替",
+     "替代",
+     "代替",
+     "换"
+    ],
+    "note": "更换 = swap out (formal, objects); 替 = do something in place of someone; 替代 = substitute (abstract/systemic); 代替 = replace/act for (general); 换 = exchange or switch; 代 = act for + era/generation (multi-sense morpheme)"
+   }
+  ]
+ },
+ {
+  "hanzi": "以内",
+  "pinyin": "yǐnèi",
+  "meaning_ru": "не более (количеств.: 一周以内)",
+  "meaning_en": "within; not exceeding (qty)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "within/less than",
+  "dataset_meanings": [
+   "within",
+   "less than"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "之内",
+     "之中"
+    ],
+    "note": "之内 = within a limit/boundary (written); 以内 = within/not exceeding (often quantitative: 一周以内); 之中 (5k) = amid/within a set or space (书中之中 — more literary, spatial or figurative)."
+   }
+  ]
+ },
+ {
+  "hanzi": "以外",
+  "pinyin": "yǐwài",
+  "meaning_ru": "кроме; за пределами",
+  "meaning_en": "besides; outside of",
+  "len_ru": 19,
+  "len_en": 19,
+  "cedict_en": "apart from/other than/except for/external/outside of/on the other side of/beyond",
+  "dataset_meanings": [
+   "apart from",
+   "other than",
+   "except for",
+   "external",
+   "outside of",
+   "on the other side of",
+   "beyond"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "之外"
+    ],
+    "note": "以外 = 'besides; outside of' (common in speech and writing after noun phrases); 之外 = same meaning but more formal/written register"
+   }
+  ]
+ },
+ {
+  "hanzi": "价",
+  "pinyin": "jià",
+  "meaning_ru": "цена (морфема в словах)",
+  "meaning_en": "price; value (bound morpheme)",
+  "len_ru": 23,
+  "len_en": 29,
+  "cedict_en": "(literary) messenger; servant/price/value/(chemistry) valence/particle used between an adverb and a verb or adjective/(dialect) particle used after a negative adverb such as 不[bu4] or 別|别[bie2] without any other following element",
+  "dataset_meanings": [
+   "price",
+   "value",
+   "(chemistry) valence",
+   "great",
+   "good",
+   "middleman",
+   "servant"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "价钱",
+     "价格"
+    ],
+    "note": "价钱 = spoken/retail price (colloquial); 价 = bound morpheme in compounds (不等价, 价值); 价格 = formal market/listed price"
+   }
+  ]
+ },
+ {
+  "hanzi": "价钱",
+  "pinyin": "jiàqian",
+  "meaning_ru": "цена (разг., в сделке)",
+  "meaning_en": "price (colloquial, deal)",
+  "len_ru": 22,
+  "len_en": 24,
+  "cedict_en": "price",
+  "dataset_meanings": [
+   "price"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "价格",
+     "代价",
+     "成本"
+    ],
+    "note": "价钱 = price (everyday spoken transaction); 价格 = price (market/listed, formal); 代价 = cost/price (figurative sacrifice); 成本 = production/unit cost (business)"
+   },
+   {
+    "with": [
+     "价",
+     "价格"
+    ],
+    "note": "价钱 = spoken/retail price (colloquial); 价 = bound morpheme in compounds (不等价, 价值); 价格 = formal market/listed price"
+   }
+  ]
+ },
+ {
+  "hanzi": "休假",
+  "pinyin": "xiūjià",
+  "meaning_ru": "брать отпуск (работник)",
+  "meaning_en": "take personal leave (work)",
+  "len_ru": 23,
+  "len_en": 26,
+  "cedict_en": "to go on vacation; to have a holiday; to take leave",
+  "dataset_meanings": [
+   "to go on vacation; to have a holiday; to take leave"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "暑假"
+    ],
+    "note": "暑假 = summer vacation (fixed school/academic holiday); 休假 = taking personal leave or a holiday (worker context, voluntary, any time of year)."
+   }
+  ]
+ },
+ {
+  "hanzi": "优良",
+  "pinyin": "yōuliáng",
+  "meaning_ru": "отличный по качеству",
+  "meaning_en": "excellent in quality",
+  "len_ru": 20,
+  "len_en": 20,
+  "cedict_en": "fine/good/first-rate",
+  "dataset_meanings": [
+   "fine",
+   "good",
+   "first-rate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "一流"
+    ],
+    "note": "一流 = top-ranked, first-rate (comparative rank: 一流大学); 优良 = excellent in quality/character (traits, breeds, traditions — not a rank comparison)."
+   }
+  ]
+ },
+ {
+  "hanzi": "伙",
+  "pinyin": "huǒ",
+  "meaning_ru": "компания; банда (разг.)",
+  "meaning_en": "bunch; group (coll.); partner",
+  "len_ru": 23,
+  "len_en": 29,
+  "cedict_en": "meals (abbr. for 伙食[huo3 shi2])/variant of 夥|伙[huo3]/companion/partner/group/classifier for groups of people/to combine/together",
+  "dataset_meanings": [
+   "meals (abbr. for 食)",
+   "variant of 伙",
+   "companion",
+   "partner",
+   "group",
+   "classifier for groups of people",
+   "to combine",
+   "together"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "群体",
+     "团"
+    ],
+    "note": "群体 = sociological group/community (formal, written); 伙 = colloquial bunch/gang or partner (informal); 团 = a lump/group (also classifier for lumps/troops)"
+   },
+   {
+    "with": [
+     "伙伴",
+     "伴侣"
+    ],
+    "note": "伙 = colloquial group or gang-mate (informal, can be pejorative); 伙伴 = companion/partner (social, friendship); 伴侣 = romantic/life partner (intimate relationship)"
+   }
+  ]
+ },
+ {
+  "hanzi": "会员",
+  "pinyin": "huìyuán",
+  "meaning_ru": "член (клуба/подписки)",
+  "meaning_en": "member (club/subscription)",
+  "len_ru": 21,
+  "len_en": 26,
+  "cedict_en": "member",
+  "dataset_meanings": [
+   "member"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "成员",
+     "委员"
+    ],
+    "note": "会员 = paid/club member (subscription or dues-based); 成员 = member of any group or team (neutral); 委员 = committee member (official role)"
+   }
+  ]
+ },
+ {
+  "hanzi": "会谈",
+  "pinyin": "huìtán",
+  "meaning_ru": "переговоры (полит./высок.)",
+  "meaning_en": "formal talks (political)",
+  "len_ru": 26,
+  "len_en": 24,
+  "cedict_en": "talks/discussions/CL:次[ci4]",
+  "dataset_meanings": [
+   "talks",
+   "discussions"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "洽谈",
+     "会晤"
+    ],
+    "note": "会晤 = formal diplomatic meeting (heads of state, official); 会谈 = formal talks (political or high-level, may involve multiple sessions); 洽谈 = negotiate/discuss for business purposes (commercial register)."
+   }
+  ]
+ },
+ {
+  "hanzi": "传来",
+  "pinyin": "chuánlái",
+  "meaning_ru": "доноситься (о звуке, новостях)",
+  "meaning_en": "come through (sound/news)",
+  "len_ru": 30,
+  "len_en": 25,
+  "cedict_en": "(of a sound) to come through/to be heard/(of news) to arrive",
+  "dataset_meanings": [
+   "(of a sound) to come through",
+   "to be heard",
+   "(of news) to arrive"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "进来",
+     "上来",
+     "进",
+     "回来"
+    ],
+    "note": "All involve movement toward the speaker. 进 = enter (neutral). 进来 = come in (into enclosed space, toward speaker). 上来 = come up (upward toward speaker). 传来 = reach the speaker (sound/news only, not physical). 回来 = come back (returning)."
+   }
+  ]
+ },
+ {
+  "hanzi": "住房",
+  "pinyin": "zhùfáng",
+  "meaning_ru": "жильё (как соц. понятие)",
+  "meaning_en": "housing (societal concept)",
+  "len_ru": 24,
+  "len_en": 26,
+  "cedict_en": "housing",
+  "dataset_meanings": [
+   "housing"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "房屋",
+     "屋",
+     "屋子",
+     "公寓"
+    ],
+    "note": "房屋 is formal 'building/house'; 屋 is literary/short for room or house; 屋子 is colloquial 'room'; 住房 emphasises residential function/housing as a social concept; 公寓 specifically means apartment building"
+   }
+  ]
+ },
+ {
+  "hanzi": "体力",
+  "pinyin": "tǐlì",
+  "meaning_ru": "физическая выносливость",
+  "meaning_en": "physical stamina; endurance",
+  "len_ru": 23,
+  "len_en": 27,
+  "cedict_en": "physical strength/physical power",
+  "dataset_meanings": [
+   "physical strength",
+   "physical power"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "力气",
+     "力量",
+     "有力"
+    ],
+    "note": "体力 = physical stamina/endurance; 力气 = brute physical effort (colloquial); 力量 = strength/force (abstract or collective); 有力 = forceful/powerful (attributive adjective)"
+   }
+  ]
+ },
+ {
+  "hanzi": "使劲",
+  "pinyin": "shǐjìn",
+  "meaning_ru": "напрягаться (в моменте)",
+  "meaning_en": "exert force/effort (now)",
+  "len_ru": 23,
+  "len_en": 24,
+  "cedict_en": "to exert all one's strength",
+  "dataset_meanings": [
+   "to exert all one's strength"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "使劲儿"
+    ],
+    "note": "使劲 and 使劲儿 are near-identical in meaning (exert force/effort); 使劲儿 is the Beijing erhua colloquial form. Learners may treat them as different words — they are stylistic variants."
+   },
+   {
+    "with": [
+     "付出"
+    ],
+    "note": "使劲 = exert physical force or effort (push hard in the moment). 付出 = expend/invest (effort, time, emotion — abstract commitment over time)."
+   },
+   {
+    "with": [
+     "使劲儿",
+     "拼命",
+     "付出",
+     "全力以赴"
+    ],
+    "note": "付出 = expend/invest (effort, money, emotion — what you give); 使劲/使劲儿 = exert force (physical effort, push hard; 儿 is spoken Beijing variant); 拼命 = with all one's might (desperate, intense manner adverb); 全力以赴 = go all out (idiom, total commitment)"
+   }
+  ]
+ },
+ {
+  "hanzi": "例子",
+  "pinyin": "lìzi",
+  "meaning_ru": "пример (сущ., не союз)",
+  "meaning_en": "example; instance (noun)",
+  "len_ru": 22,
+  "len_en": 24,
+  "cedict_en": "case/(for) instance/example/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "case",
+   "(for) instance",
+   "example"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "案例",
+     "榜样"
+    ],
+    "note": "例子 = a general illustrative instance or example; 案例 = a documented case study or legal precedent; 榜样 = a role model, a positive example to emulate"
+   },
+   {
+    "with": [
+     "案例",
+     "典型",
+     "榜样"
+    ],
+    "note": "例子 = neutral instance/example; 案例 = case/precedent (legal or analytical); 典型 = classic/representative example; 榜样 = role model to emulate."
+   }
+  ]
+ },
+ {
+  "hanzi": "依照",
+  "pinyin": "yīzhào",
+  "meaning_ru": "согласно (норме/закону, кн.)",
+  "meaning_en": "according to (standard, formal)",
+  "len_ru": 28,
+  "len_en": 31,
+  "cedict_en": "according to; in light of",
+  "dataset_meanings": [
+   "according to",
+   "in light of"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "按照",
+     "据"
+    ],
+    "note": "依照 = according to a standard/procedure (formal); 按照 = according to a rule/plan (neutral); 据 = according to a source/information (can introduce evidence)"
+   }
+  ]
+ },
+ {
+  "hanzi": "促销",
+  "pinyin": "cùxiāo",
+  "meaning_ru": "стимулировать продажи (акции)",
+  "meaning_en": "promote sales (campaigns)",
+  "len_ru": 29,
+  "len_en": 25,
+  "cedict_en": "to promote sales",
+  "dataset_meanings": [
+   "to promote sales"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "推广"
+    ],
+    "note": "促销 = promote sales via discounts/campaigns (commercial); 推广 = popularize/roll out broadly (policy, methods, technology — not necessarily commercial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "倒是",
+  "pinyin": "dàoshi",
+  "meaning_ru": "а вот; наоборот (с уступкой)",
+  "meaning_en": "actually; on the contrary (conc.)",
+  "len_ru": 28,
+  "len_en": 33,
+  "cedict_en": "contrary to what one might expect/actually/contrariwise/why don't you",
+  "dataset_meanings": [
+   "contrary to what one might expect",
+   "actually",
+   "contrariwise",
+   "why don't you"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "反倒",
+     "相反"
+    ],
+    "note": "倒是 softens or concedes with mild contrast; 反倒 stresses an unexpected reversal (colloquial); 相反 is a neutral adjective/connector meaning 'opposite'"
+   }
+  ]
+ },
+ {
+  "hanzi": "做到",
+  "pinyin": "zuòdào",
+  "meaning_ru": "суметь сделать; справиться",
+  "meaning_en": "manage to do; pull off",
+  "len_ru": 26,
+  "len_en": 22,
+  "cedict_en": "to accomplish/to achieve",
+  "dataset_meanings": [
+   "to accomplish",
+   "to achieve"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "完成",
+     "实现",
+     "取得"
+    ],
+    "note": "做到 = 'manage to do / succeed in doing' (emphasis on effort overcoming difficulty); 完成 = 'complete / finish' (a task or assignment reaches its end); 实现 = 'realize / bring into being' (a goal, dream, or plan); 取得 = 'obtain / achieve' (results, qualifications, a concrete gain)."
+   }
+  ]
+ },
+ {
+  "hanzi": "做梦",
+  "pinyin": "zuòmèng",
+  "meaning_ru": "видеть сон; мечтать (вообще)",
+  "meaning_en": "dream (sleep); daydream",
+  "len_ru": 28,
+  "len_en": 23,
+  "cedict_en": "to dream; to have a dream; (fig.) to indulge in wishful thinking",
+  "dataset_meanings": [
+   "to dream",
+   "to have a dream",
+   "fig. illusion",
+   "fantasy",
+   "pipe dream"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "梦见",
+     "梦想",
+     "幻想"
+    ],
+    "note": "做梦 = have a dream (while sleeping) or daydream (general). 梦见 = dream of sth specific (see it in a dream). 梦想 = cherished aspiration, to dream of (waking goal). 幻想 = fantasy/daydream (unrealistic imagination)."
+   }
+  ]
+ },
+ {
+  "hanzi": "停下",
+  "pinyin": "tíngxià",
+  "meaning_ru": "остановиться (резко, сразу)",
+  "meaning_en": "stop abruptly (movement/action)",
+  "len_ru": 27,
+  "len_en": 31,
+  "cedict_en": "to stop",
+  "dataset_meanings": [
+   "to stop"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "停",
+     "停止",
+     "暂停",
+     "停顿"
+    ],
+    "note": "停 = general stop/park; 停下 = abrupt stop of movement/action (spoken); 停止 = cease (formal, ongoing action); 暂停 = temporary pause (resumes later); 停顿 = brief pause mid-flow (speech, music)"
+   }
+  ]
+ },
+ {
+  "hanzi": "停留",
+  "pinyin": "tíngliú",
+  "meaning_ru": "задержаться; не ехать дальше",
+  "meaning_en": "stop over; linger (not move on)",
+  "len_ru": 28,
+  "len_en": 31,
+  "cedict_en": "to stay somewhere temporarily/to stop over",
+  "dataset_meanings": [
+   "to stay somewhere temporarily",
+   "to stop over"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "待",
+     "留",
+     "留下"
+    ],
+    "note": "停留 = stop over at a place (movement context); 待 = idle stay, hang around (colloquial); 留 = remain/keep (general, incl. leaving sth behind); 留下 = stay on OR leave sth behind (resultative)"
+   }
+  ]
+ },
+ {
+  "hanzi": "停车",
+  "pinyin": "tíngchē",
+  "meaning_ru": "парковаться; остановить авто",
+  "meaning_en": "to park; to stop a car",
+  "len_ru": 28,
+  "len_en": 22,
+  "cedict_en": "to pull up (stop one's vehicle)/to park/(of a machine) to stop working/to stall",
+  "dataset_meanings": [
+   "to pull up (stop one's vehicle)",
+   "to park",
+   "(of a machine) to stop working",
+   "to stall"
+  ],
+  "must_distinguish": []
+ }
+]

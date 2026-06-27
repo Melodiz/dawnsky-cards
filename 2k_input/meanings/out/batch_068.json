@@ -1,0 +1,151 @@
+[
+ {
+  "hanzi": "行驶",
+  "pinyin": "xíngshǐ",
+  "meaning_ru": "ехать; двигаться (о транспорте)",
+  "meaning_en": "to drive; travel (vehicle)",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "脚步",
+  "pinyin": "jiǎobù",
+  "meaning_ru": "шаг; поступь",
+  "meaning_en": "footstep; pace",
+  "semantic_tags": [
+   "action_movement",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "流动",
+  "pinyin": "liúdòng",
+  "meaning_ru": "течь; циркулировать",
+  "meaning_en": "to flow; circulate",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "带有",
+  "pinyin": "dàiyǒu",
+  "meaning_ru": "иметь (примесь, оттенок)",
+  "meaning_en": "to have; carry (a trait)",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "喜剧",
+  "pinyin": "xǐjù",
+  "meaning_ru": "комедия",
+  "meaning_en": "comedy",
+  "semantic_tags": [
+   "art",
+   "media_news"
+  ]
+ },
+ {
+  "hanzi": "签约",
+  "pinyin": "qiānyuē",
+  "meaning_ru": "заключать договор",
+  "meaning_en": "to sign a contract",
+  "semantic_tags": [
+   "commerce_trade",
+   "law_admin_doc"
+  ]
+ },
+ {
+  "hanzi": "群体",
+  "pinyin": "qúntǐ",
+  "meaning_ru": "группа; сообщество",
+  "meaning_en": "group; community",
+  "semantic_tags": [
+   "society_public",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "城里",
+  "pinyin": "chénglǐ",
+  "meaning_ru": "в городе",
+  "meaning_en": "in the city",
+  "semantic_tags": [
+   "place",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "胆",
+  "pinyin": "dǎn",
+  "meaning_ru": "смелость; желчный пузырь",
+  "meaning_en": "courage; gall bladder",
+  "semantic_tags": [
+   "body",
+   "personality_trait"
+  ]
+ },
+ {
+  "hanzi": "共享",
+  "pinyin": "gòngxiǎng",
+  "meaning_ru": "совместно пользоваться",
+  "meaning_en": "to share",
+  "semantic_tags": [
+   "action_daily",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "愁",
+  "pinyin": "chóu",
+  "meaning_ru": "тревожиться; печалиться",
+  "meaning_en": "to worry; be anxious",
+  "semantic_tags": [
+   "emotion",
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "存款",
+  "pinyin": "cúnkuǎn",
+  "meaning_ru": "вклад; вносить деньги",
+  "meaning_en": "deposit; savings",
+  "semantic_tags": [
+   "economy_finance",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "深度",
+  "pinyin": "shēndù",
+  "meaning_ru": "глубина",
+  "meaning_en": "depth",
+  "semantic_tags": [
+   "measurement",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "增产",
+  "pinyin": "zēngchǎn",
+  "meaning_ru": "увеличивать производство",
+  "meaning_en": "to raise output",
+  "semantic_tags": [
+   "industry_production",
+   "economy_finance"
+  ]
+ },
+ {
+  "hanzi": "博客",
+  "pinyin": "bókè",
+  "meaning_ru": "блог",
+  "meaning_en": "blog",
+  "semantic_tags": [
+   "media_news",
+   "technology"
+  ]
+ }
+]

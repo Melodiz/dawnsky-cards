@@ -1,0 +1,140 @@
+[
+ {
+  "hanzi": "箱",
+  "pinyin": "xiāng",
+  "meaning_ru": "ящик; коробка",
+  "meaning_en": "box; trunk; case",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "下降",
+  "pinyin": "xiàjiàng",
+  "meaning_ru": "снижаться; падать",
+  "meaning_en": "to drop; to decline",
+  "semantic_tags": [
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "兵",
+  "pinyin": "bīng",
+  "meaning_ru": "солдат; войско",
+  "meaning_en": "soldier; troops",
+  "semantic_tags": [
+   "military_conflict",
+   "occupation"
+  ]
+ },
+ {
+  "hanzi": "回复",
+  "pinyin": "huífù",
+  "meaning_ru": "ответить (на письмо)",
+  "meaning_en": "to reply",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "牙",
+  "pinyin": "yá",
+  "meaning_ru": "зуб",
+  "meaning_en": "tooth",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "肥",
+  "pinyin": "féi",
+  "meaning_ru": "жирный; тучный",
+  "meaning_en": "fat; plump",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "湿",
+  "pinyin": "shī",
+  "meaning_ru": "мокрый; влажный",
+  "meaning_en": "wet; moist",
+  "semantic_tags": [
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "守",
+  "pinyin": "shǒu",
+  "meaning_ru": "охранять; соблюдать",
+  "meaning_en": "to guard; to abide by",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "法官",
+  "pinyin": "fǎguān",
+  "meaning_ru": "судья",
+  "meaning_en": "judge",
+  "semantic_tags": [
+   "occupation",
+   "law_justice"
+  ]
+ },
+ {
+  "hanzi": "松",
+  "pinyin": "sōng",
+  "meaning_ru": "ослаблять; рыхлый",
+  "meaning_en": "to loosen; loose",
+  "semantic_tags": [
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "登",
+  "pinyin": "dēng",
+  "meaning_ru": "подниматься; восходить",
+  "meaning_en": "to climb; to ascend",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "遇",
+  "pinyin": "yù",
+  "meaning_ru": "встретить; столкнуться",
+  "meaning_en": "to meet; to encounter",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "引",
+  "pinyin": "yǐn",
+  "meaning_ru": "тянуть; привлекать",
+  "meaning_en": "to pull; to attract; to lead",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "降",
+  "pinyin": "jiàng",
+  "meaning_ru": "понижаться; опускаться",
+  "meaning_en": "to lower; to descend",
+  "semantic_tags": [
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "睡着",
+  "pinyin": "shuìzháo",
+  "meaning_ru": "заснуть",
+  "meaning_en": "to fall asleep",
+  "semantic_tags": [
+   "action_daily",
+   "body_state"
+  ]
+ }
+]

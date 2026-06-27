@@ -1,0 +1,141 @@
+[
+ {
+  "hanzi": "急",
+  "pinyin": "jí",
+  "meaning_ru": "срочный; спешить",
+  "meaning_en": "urgent; in a hurry",
+  "semantic_tags": [
+   "evaluation_adj",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "接到",
+  "pinyin": "jiēdào",
+  "meaning_ru": "получить (письмо и т.п.)",
+  "meaning_en": "to receive (a letter)",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "好多",
+  "pinyin": "hǎoduō",
+  "meaning_ru": "много; немало",
+  "meaning_en": "a lot; many",
+  "semantic_tags": [
+   "quantity"
+  ]
+ },
+ {
+  "hanzi": "颜色",
+  "pinyin": "yánsè",
+  "meaning_ru": "цвет",
+  "meaning_en": "color",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "什么样",
+  "pinyin": "shénmeyàng",
+  "meaning_ru": "какой?; что за?",
+  "meaning_en": "what kind?",
+  "semantic_tags": [
+   "pronoun"
+  ]
+ },
+ {
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "meaning_ru": "снег",
+  "meaning_en": "snow",
+  "semantic_tags": [
+   "weather",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "那时",
+  "pinyin": "nàshí",
+  "meaning_ru": "тогда; в то время",
+  "meaning_en": "then; at that time",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "心中",
+  "pinyin": "xīnzhōng",
+  "meaning_ru": "в душе; в мыслях",
+  "meaning_en": "in one's heart; in mind",
+  "semantic_tags": [
+   "cognition",
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "高中",
+  "pinyin": "gāozhōng",
+  "meaning_ru": "старшая школа",
+  "meaning_en": "senior high school",
+  "semantic_tags": [
+   "education"
+  ]
+ },
+ {
+  "hanzi": "讲话",
+  "pinyin": "jiǎnghuà",
+  "meaning_ru": "говорить; речь",
+  "meaning_en": "to speak; a speech",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "大多数",
+  "pinyin": "dàduōshù",
+  "meaning_ru": "большинство",
+  "meaning_en": "the majority",
+  "semantic_tags": [
+   "quantity"
+  ]
+ },
+ {
+  "hanzi": "红色",
+  "pinyin": "hóngsè",
+  "meaning_ru": "красный цвет",
+  "meaning_en": "red (color)",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "放下",
+  "pinyin": "fàngxià",
+  "meaning_ru": "положить; отложить",
+  "meaning_en": "to put down; set aside",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "早就",
+  "pinyin": "zǎojiù",
+  "meaning_ru": "давно уже",
+  "meaning_en": "long ago; already",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "练",
+  "pinyin": "liàn",
+  "meaning_ru": "тренировать; упражняться",
+  "meaning_en": "to practice; to train",
+  "semantic_tags": [
+   "action_learning"
+  ]
+ }
+]

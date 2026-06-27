@@ -1,0 +1,1401 @@
+[
+ {
+  "hanzi": "课文",
+  "pinyin": "kèwén",
+  "meaning_ru": "текст (урока)",
+  "meaning_en": "lesson text; reading passage",
+  "len_ru": 13,
+  "len_en": 28,
+  "cedict_en": "text/CL:篇[pian1]",
+  "dataset_meanings": [
+   "text"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "负责人",
+  "pinyin": "fùzérén",
+  "meaning_ru": "ответственный (сущ., должность)",
+  "meaning_en": "person in charge (noun, role)",
+  "len_ru": 31,
+  "len_en": 29,
+  "cedict_en": "person in charge",
+  "dataset_meanings": [
+   "person in charge"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "负责"
+    ],
+    "note": "负责人 = the person in charge (noun, a role); 负责 = to be responsible for / to take charge of (verb/adjective)"
+   }
+  ]
+ },
+ {
+  "hanzi": "败",
+  "pinyin": "bài",
+  "meaning_ru": "потерпеть поражение (книжн.)",
+  "meaning_en": "be defeated (literary)",
+  "len_ru": 28,
+  "len_en": 22,
+  "cedict_en": "to defeat/to damage/to lose (to an opponent)/to fail/to wither",
+  "dataset_meanings": [
+   "to defeat",
+   "to damage",
+   "to lose (to an opponent)",
+   "to fail",
+   "to wither"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "失败",
+     "输"
+    ],
+    "note": "败 = be defeated (war, competition — formal/literary); 失败 = fail/suffer defeat (general: project, attempt, battle); 输 = lose a contest/game (colloquial, zero-sum, also 'input')."
+   }
+  ]
+ },
+ {
+  "hanzi": "货",
+  "pinyin": "huò",
+  "meaning_ru": "товар; груз (в т.ч. грузовой)",
+  "meaning_en": "goods; cargo (incl. freight)",
+  "len_ru": 29,
+  "len_en": 28,
+  "cedict_en": "goods/money/commodity/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "goods",
+   "money",
+   "commodity"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "百货",
+     "商品",
+     "产品",
+     "物资"
+    ],
+    "note": "货 = goods/cargo (general, incl. freight); 百货 = general merchandise (retail variety); 商品 = commodity (market economics term); 产品 = product (manufactured output); 物资 = supplies/materials (logistics, often strategic)"
+   },
+   {
+    "with": [
+     "商品",
+     "产品",
+     "物资"
+    ],
+    "note": "货 = physical goods in transit/trade (cargo emphasis); 商品 = commodity as market item; 产品 = manufactured product; 物资 = supplies/material resources (logistics/state context)"
+   }
+  ]
+ },
+ {
+  "hanzi": "贺卡",
+  "pinyin": "hèkǎ",
+  "meaning_ru": "поздравительная открытка",
+  "meaning_en": "greeting card",
+  "len_ru": 24,
+  "len_en": 13,
+  "cedict_en": "greeting card/congratulation card",
+  "dataset_meanings": [
+   "greeting card",
+   "congratulation card"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "请帖",
+     "请柬",
+     "名片"
+    ],
+    "note": "贺卡 = greeting/congratulations card (holidays, birthdays); 请帖 = invitation card (traditional style); 请柬 = formal invitation card (official/written); 名片 = business card (professional identity)"
+   }
+  ]
+ },
+ {
+  "hanzi": "赏",
+  "pinyin": "shǎng",
+  "meaning_ru": "награждать; любоваться (класс.)",
+  "meaning_en": "reward; admire (classical)",
+  "len_ru": 31,
+  "len_en": 26,
+  "cedict_en": "to bestow (a reward)/to give (to an inferior)/to hand down/a reward (bestowed by a superior)/to appreciate (beauty)",
+  "dataset_meanings": [
+   "to bestow (a reward)",
+   "to give (to an inferior)",
+   "to hand down",
+   "a reward (bestowed by a superior)",
+   "to appreciate (beauty)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "欣赏",
+     "佩服"
+    ],
+    "note": "欣赏 = appreciate beauty/art/performance (enjoyment); 赏 = admire scenery OR reward/bestow (classical, dual sense); 佩服 = admire someone's skill or character (colloquial respect)"
+   }
+  ]
+ },
+ {
+  "hanzi": "赔",
+  "pinyin": "péi",
+  "meaning_ru": "возмещать ущерб; торг. в убыток",
+  "meaning_en": "compensate; sell at a loss",
+  "len_ru": 31,
+  "len_en": 26,
+  "cedict_en": "to compensate for loss/to indemnify/to suffer a financial loss",
+  "dataset_meanings": [
+   "to compensate for loss",
+   "to indemnify",
+   "to suffer a financial loss"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "亏损",
+     "损失",
+     "吃亏"
+    ],
+    "note": "赔 = to compensate someone for a loss or sell at a loss; 损失 (5k) = loss/damage (the noun); 亏损 (5k) = financial deficit (business accounting); 吃亏 (5k) = to come out worse off, be at a disadvantage (colloquial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "赞赏",
+  "pinyin": "zànshǎng",
+  "meaning_ru": "восхищаться и хвалить",
+  "meaning_en": "admire and praise (sincere)",
+  "len_ru": 21,
+  "len_en": 27,
+  "cedict_en": "to admire/to praise/to appreciate",
+  "dataset_meanings": [
+   "to admire",
+   "to praise",
+   "to appreciate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "欣赏",
+     "佩服",
+     "羡慕"
+    ],
+    "note": "赞赏 = admire and praise (both feeling + verbal expression); 欣赏 = enjoy/appreciate aesthetically (art, scenery, talent — internal pleasure); 佩服 = admire someone's skill or character (colloquial, often heartfelt); 羡慕 = envy/admire what someone has (desire to have it yourself)."
+   },
+   {
+    "with": [
+     "表扬",
+     "夸",
+     "吹捧"
+    ],
+    "note": "赞赏 = admire and praise (sincere, can be peer-to-peer); 表扬 = official/public praise (from above, institutional); 夸 = casual verbal praise, also 'exaggerate' (colloquial); 吹捧 = lavish over-the-top praise, flattery (often insincere/sycophantic)."
+   },
+   {
+    "with": [
+     "欣赏",
+     "佩服",
+     "羡慕",
+     "表扬",
+     "夸",
+     "吹捧"
+    ],
+    "note": "赞赏 = admire + praise (mixed feeling+speech); 欣赏 = appreciate/enjoy aesthetically (no envy, no praise); 佩服 = respect/admire someone's skill (colloquial, internal); 羡慕 = envy/admire (wanting what they have); 表扬 = official praise from above; 夸 = casually praise or exaggerate; 吹捧 = lavish/excessive flattery (pejorative)."
+   }
+  ]
+ },
+ {
+  "hanzi": "赢得",
+  "pinyin": "yíngdé",
+  "meaning_ru": "завоевать (доверие, победу)",
+  "meaning_en": "win/earn (trust, title, victory)",
+  "len_ru": 27,
+  "len_en": 32,
+  "cedict_en": "to win/to gain",
+  "dataset_meanings": [
+   "to win",
+   "to gain"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "中奖",
+     "获奖",
+     "胜",
+     "赢",
+     "胜利"
+    ],
+    "note": "中奖 = win a lottery/prize draw (chance); 获奖 = receive a formal award/prize (achievement); 赢得 = win/gain something through effort (takes an object: trust, title); 赢 = simply win a contest/game; 胜 = beat an opponent (verb, also adj 'superior'); 胜利 = victory (noun, often military/political)"
+   }
+  ]
+ },
+ {
+  "hanzi": "走开",
+  "pinyin": "zǒukāi",
+  "meaning_ru": "уйди; отойди (резко)",
+  "meaning_en": "go away; step aside (abrupt)",
+  "len_ru": 20,
+  "len_en": 28,
+  "cedict_en": "to leave; to walk away; to beat it/to move aside",
+  "dataset_meanings": [
+   "to leave",
+   "to walk away",
+   "to beat it",
+   "to move aside"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "离开"
+    ],
+    "note": "走开 = go away / move aside (imperative, abrupt, short-range); 离开 = leave/depart (neutral, from a place or person, any distance)"
+   }
+  ]
+ },
+ {
+  "hanzi": "走过",
+  "pinyin": "zǒuguò",
+  "meaning_ru": "пройти мимо",
+  "meaning_en": "walk past (simple motion)",
+  "len_ru": 11,
+  "len_en": 25,
+  "cedict_en": "to walk past/to pass by",
+  "dataset_meanings": [
+   "to walk past",
+   "to pass by"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "经过",
+     "穿越"
+    ],
+    "note": "走过 = walk past (simple motion past a point); 经过 = pass through / by (also means 'the process of', broader); 穿越 = pass through / traverse (crossing through a space, also time-travel fiction)"
+   }
+  ]
+ },
+ {
+  "hanzi": "赶",
+  "pinyin": "gǎn",
+  "meaning_ru": "спешить; успеть (на автобус)",
+  "meaning_en": "hurry; catch (bus/deadline)",
+  "len_ru": 28,
+  "len_en": 27,
+  "cedict_en": "to overtake; to catch up with/to hurry; to rush/to try to catch (the bus etc)/to drive (cattle etc) forward; to drive (sb) away/to avail oneself of (an opportunity)/until; by (a certain time)",
+  "dataset_meanings": [
+   "to overtake; to catch up with",
+   "to hurry; to rush",
+   "to try to catch (the bus etc)",
+   "to drive (cattle etc) forward; to drive (sb) away",
+   "to avail oneself of (an opportunity)",
+   "until; by (a certain time)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "赶到",
+     "赶快",
+     "赶紧",
+     "催",
+     "匆忙"
+    ],
+    "note": "赶 = hurry/catch (general verb); 赶到 = arrive by hurrying (resultative); 赶快 = imperative adverb 'hurry up!'; 赶紧 = hurry (self-motivated, softer than 赶快); 催 = to rush someone else; 匆忙 = in a rush (manner adjective/adverb)."
+   }
+  ]
+ },
+ {
+  "hanzi": "赶到",
+  "pinyin": "gǎndào",
+  "meaning_ru": "успеть прибыть (впритык)",
+  "meaning_en": "arrive by hurrying (in time)",
+  "len_ru": 24,
+  "len_en": 28,
+  "cedict_en": "to hurry (to some place)",
+  "dataset_meanings": [
+   "to hurry (to some place)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "赶",
+     "赶快",
+     "赶紧",
+     "催",
+     "匆忙"
+    ],
+    "note": "赶 = hurry/catch (general verb); 赶到 = arrive by hurrying (resultative); 赶快 = imperative adverb 'hurry up!'; 赶紧 = hurry (self-motivated, softer than 赶快); 催 = to rush someone else; 匆忙 = in a rush (manner adjective/adverb)."
+   }
+  ]
+ },
+ {
+  "hanzi": "起到",
+  "pinyin": "qǐdào",
+  "meaning_ru": "сыграть (роль); оказать",
+  "meaning_en": "to play a role; have effect",
+  "len_ru": 23,
+  "len_en": 27,
+  "cedict_en": "(in an expression of the form 起到[qi3 dao4] + … + 作用[zuo4 yong4]) to have (a (motivating etc) effect); to play (a (stabilizing etc) role)",
+  "dataset_meanings": [
+   "(in an expression of the form 起到…用) to have (a (motivating etc) effect); to play (a (stabilizing etc) role)"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "身高",
+  "pinyin": "shēngāo",
+  "meaning_ru": "рост",
+  "meaning_en": "height (measured, formal)",
+  "len_ru": 4,
+  "len_en": 25,
+  "cedict_en": "(a person's) height",
+  "dataset_meanings": [
+   "(a person's) height"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "个儿",
+     "个子"
+    ],
+    "note": "身高 = measured height (formal, e.g. medical records); 个子 = colloquial stature (general spoken); 个儿 = colloquial stature (northern/Beijing dialect variant)"
+   }
+  ]
+ },
+ {
+  "hanzi": "车上",
+  "pinyin": "chēshàng",
+  "meaning_ru": "в машине; в транспорте",
+  "meaning_en": "on the vehicle; in transit",
+  "len_ru": 22,
+  "len_en": 26,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Car"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "车站",
+  "pinyin": "chēzhàn",
+  "meaning_ru": "станция (автобус/поезд)",
+  "meaning_en": "station (bus/train, general)",
+  "len_ru": 23,
+  "len_en": 28,
+  "cedict_en": "rail station/bus stop/CL:處|处[chu4],個|个[ge4]",
+  "dataset_meanings": [
+   "rail station",
+   "bus stop"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "地铁站"
+    ],
+    "note": "车站 = general term for a bus or train station; 地铁站 = specifically a subway/metro station. 地铁站 is a subset of 车站 but learners confuse them when describing urban transit stops."
+   }
+  ]
+ },
+ {
+  "hanzi": "转动",
+  "pinyin": "zhuǎndòng",
+  "meaning_ru": "вращаться (вокруг оси)",
+  "meaning_en": "rotate/spin (on axis)",
+  "len_ru": 22,
+  "len_en": 21,
+  "cedict_en": "to turn sth around/to swivel/to rotate (about an axis)/to revolve/to turn/to move in a circle/to gyrate",
+  "dataset_meanings": [
+   "to turn sth around",
+   "to swivel",
+   "to rotate (about an axis)",
+   "to revolve",
+   "to turn",
+   "to move in a circle",
+   "to gyrate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "围绕",
+     "绕"
+    ],
+    "note": "转动 = rotate/spin on an axis; 围绕 = revolve around a center, or center a topic on; 绕 = wind around, detour, wrap"
+   }
+  ]
+ },
+ {
+  "hanzi": "转化",
+  "pinyin": "zhuǎnhuà",
+  "meaning_ru": "преобразовывать (по сути)",
+  "meaning_en": "convert/transform (in nature)",
+  "len_ru": 25,
+  "len_en": 29,
+  "cedict_en": "to change; to turn; to convert/(genetics) to transform/(chemistry) isomerization",
+  "dataset_meanings": [
+   "to change",
+   "to transform",
+   "isomerization (chemistry)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "转换",
+     "转变",
+     "改造",
+     "改变"
+    ],
+    "note": "转换 = switch between modes/channels (technical, reversible); 转化 = convert/transform substance or nature into sth new; 转变 = shift direction or stance (abstract, purposeful); 改造 = physically remodel or restructure; 改变 = intentionally change (broad, everyday)"
+   }
+  ]
+ },
+ {
+  "hanzi": "转向",
+  "pinyin": "zhuǎnxiàng",
+  "meaning_ru": "повернуть; сменить курс (широко)",
+  "meaning_en": "change direction; pivot",
+  "len_ru": 32,
+  "len_en": 23,
+  "cedict_en": "to change direction/fig. to change one's stance/to get lost/to lose one's way",
+  "dataset_meanings": [
+   "to change direction",
+   "fig. to change one's stance",
+   "to get lost",
+   "to lose one's way"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "回头",
+     "拐弯"
+    ],
+    "note": "转向 = change direction / pivot (vehicle, policy, broad turn); 回头 = turn one's head back / return; also colloquial 'later'; 拐弯 = turn a corner (physical, road/path)"
+   }
+  ]
+ },
+ {
+  "hanzi": "转换",
+  "pinyin": "zhuǎnhuàn",
+  "meaning_ru": "переключать (режим, канал)",
+  "meaning_en": "switch modes/channels; convert",
+  "len_ru": 26,
+  "len_en": 30,
+  "cedict_en": "to change/to switch/to convert/to transform",
+  "dataset_meanings": [
+   "to change",
+   "to switch",
+   "to convert",
+   "to transform"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "转化",
+     "转变",
+     "改造",
+     "改变"
+    ],
+    "note": "转换 = switch between modes/channels (technical, reversible); 转化 = convert/transform substance or nature into sth new; 转变 = shift direction or stance (abstract, purposeful); 改造 = physically remodel or restructure; 改变 = intentionally change (broad, everyday)"
+   }
+  ]
+ },
+ {
+  "hanzi": "轮",
+  "pinyin": "lún",
+  "meaning_ru": "колесо; чередоваться; (сч. тур)",
+  "meaning_en": "wheel; take turns; (cl. round)",
+  "len_ru": 31,
+  "len_en": 30,
+  "cedict_en": "wheel; disk; ring/steamship/to take turns; to rotate/classifier for big round objects: disk, or recurring events: round, turn",
+  "dataset_meanings": [
+   "wheel; disk; ring",
+   "steamship",
+   "to take turns; to rotate",
+   "classifier for big round objects: disk, or recurring events: round, turn"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "辞典",
+  "pinyin": "cídiǎn",
+  "meaning_ru": "словарь (слов и фраз)",
+  "meaning_en": "word dictionary (not chars)",
+  "len_ru": 21,
+  "len_en": 27,
+  "cedict_en": "dictionary (variant of 詞典|词典[ci2 dian3])/CL:本[ben3],部[bu4]",
+  "dataset_meanings": [
+   "dictionary (variant of 词典)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "字典"
+    ],
+    "note": "辞典 = dictionary of words and phrases; 字典 = dictionary of individual characters (by stroke/radical)"
+   }
+  ]
+ },
+ {
+  "hanzi": "过年",
+  "pinyin": "guònián",
+  "meaning_ru": "китайский Новый год",
+  "meaning_en": "celebrate Chinese New Year",
+  "len_ru": 19,
+  "len_en": 26,
+  "cedict_en": "to celebrate the Chinese New Year",
+  "dataset_meanings": [
+   "to celebrate the Chinese New Year"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "近期",
+  "pinyin": "jìnqī",
+  "meaning_ru": "в ближайшее время / недавно",
+  "meaning_en": "near term; recently or soon",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "near in time/in the near future/very soon/recent",
+  "dataset_meanings": [
+   "near in time",
+   "in the near future",
+   "very soon",
+   "recent"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "目前"
+    ],
+    "note": "目前 = at present, the current moment (point in time); 近期 = the near term, a span of time close to now (can be past or future)."
+   }
+  ]
+ },
+ {
+  "hanzi": "返回",
+  "pinyin": "fǎnhuí",
+  "meaning_ru": "возвращаться (нейтр., любое напр.)",
+  "meaning_en": "go back (neutral direction)",
+  "len_ru": 34,
+  "len_en": 27,
+  "cedict_en": "to return to/to come (or go) back",
+  "dataset_meanings": [
+   "to return to",
+   "to come (or go) back"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "归",
+     "回来",
+     "归还"
+    ],
+    "note": "返回 = go/travel back (neutral direction); 回来 = come back toward speaker; 归 = return to one's place/origin (literary) or belong to; 归还 = give back a borrowed object"
+   }
+  ]
+ },
+ {
+  "hanzi": "这时",
+  "pinyin": "zhèshí",
+  "meaning_ru": "в этот момент (повеств.)",
+  "meaning_en": "at this point (written/narrative)",
+  "len_ru": 24,
+  "len_en": 33,
+  "cedict_en": "at this time/at this moment",
+  "dataset_meanings": [
+   "at this time",
+   "at this moment"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "这时候"
+    ],
+    "note": "这时 = written/narrative 'at this point'; 这时候 = colloquial spoken equivalent; interchangeable in meaning, differ in register"
+   }
+  ]
+ },
+ {
+  "hanzi": "这时候",
+  "pinyin": "zhèshíhòu",
+  "meaning_ru": "в этот момент (разг.)",
+  "meaning_en": "at this moment (colloquial)",
+  "len_ru": 21,
+  "len_en": 27,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "At this moment"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "这时"
+    ],
+    "note": "这时 = written/narrative 'at this point'; 这时候 = colloquial spoken equivalent; interchangeable in meaning, differ in register"
+   }
+  ]
+ },
+ {
+  "hanzi": "这边",
+  "pinyin": "zhèbiān",
+  "meaning_ru": "эта сторона; сюда (направление)",
+  "meaning_en": "this side; this way",
+  "len_ru": 31,
+  "len_en": 19,
+  "cedict_en": "this side/here",
+  "dataset_meanings": [
+   "this side",
+   "here"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "这里"
+    ],
+    "note": "这里 = 'here / this place' (neutral location); 这边 = 'this side / this way' (directional, often contrasted with 那边; also used to gesture someone over)."
+   }
+  ]
+ },
+ {
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "meaning_ru": "входить; войти (нейтр.)",
+  "meaning_en": "enter; go in (neutral)",
+  "len_ru": 23,
+  "len_en": 22,
+  "cedict_en": "to go forward/to advance/to go in/to enter/to put in/to submit/to take in/to admit/(math.) base of a number system/classifier for sections in a building or residential compound",
+  "dataset_meanings": [
+   "to go forward",
+   "to advance",
+   "to go in",
+   "to enter",
+   "to put in",
+   "to submit",
+   "to take in",
+   "to admit",
+   "(math.) base of a number system",
+   "classifier for sections in a building or residential compound"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "进来",
+     "上来",
+     "传来",
+     "回来"
+    ],
+    "note": "All involve movement toward the speaker. 进 = enter (neutral). 进来 = come in (into enclosed space, toward speaker). 上来 = come up (upward toward speaker). 传来 = reach the speaker (sound/news only, not physical). 回来 = come back (returning)."
+   }
+  ]
+ },
+ {
+  "hanzi": "进去",
+  "pinyin": "jìnqù",
+  "meaning_ru": "войти (разг., напр. в комнату)",
+  "meaning_en": "go in (directional complement)",
+  "len_ru": 30,
+  "len_en": 30,
+  "cedict_en": "to go in",
+  "dataset_meanings": [
+   "to go in"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "进入"
+    ],
+    "note": "进去 = go in / enter (directional complement, spoken, toward speaker's perspective); 进入 = enter/go into (formal verb, used in writing and fixed phrases)"
+   }
+  ]
+ },
+ {
+  "hanzi": "进来",
+  "pinyin": "jìnlái",
+  "meaning_ru": "войти (внутрь, к говорящему)",
+  "meaning_en": "come in (toward speaker)",
+  "len_ru": 28,
+  "len_en": 24,
+  "cedict_en": "to come in",
+  "dataset_meanings": [
+   "to come in"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "上来",
+     "传来",
+     "进",
+     "回来"
+    ],
+    "note": "All involve movement toward the speaker. 进 = enter (neutral). 进来 = come in (into enclosed space, toward speaker). 上来 = come up (upward toward speaker). 传来 = reach the speaker (sound/news only, not physical). 回来 = come back (returning)."
+   }
+  ]
+ },
+ {
+  "hanzi": "远处",
+  "pinyin": "yuǎnchù",
+  "meaning_ru": "вдали (сущ. места)",
+  "meaning_en": "afar; the distant place",
+  "len_ru": 18,
+  "len_en": 23,
+  "cedict_en": "distant place",
+  "dataset_meanings": [
+   "distant place"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "遥远"
+    ],
+    "note": "远处 = location noun (the distant place/afar); 遥远 = adjective describing something as remote/far-off"
+   }
+  ]
+ },
+ {
+  "hanzi": "违规",
+  "pinyin": "wéiguī",
+  "meaning_ru": "нарушить правила (проц.)",
+  "meaning_en": "break rules (procedural)",
+  "len_ru": 24,
+  "len_en": 24,
+  "cedict_en": "to violate the rules",
+  "dataset_meanings": [
+   "to violate the rules"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "违反",
+     "侵犯"
+    ],
+    "note": "违规 = break a rule/regulation (procedural, administrative); 违反 = violate a law, rule, or principle (broader, incl. laws); 侵犯 = infringe/encroach (rights, territory — implies harming another)."
+   }
+  ]
+ },
+ {
+  "hanzi": "连接",
+  "pinyin": "liánjiē",
+  "meaning_ru": "соединять; связывать (общ.)",
+  "meaning_en": "link; connect (phys. or abstract)",
+  "len_ru": 27,
+  "len_en": 33,
+  "cedict_en": "to link; to join; to connect",
+  "dataset_meanings": [
+   "to link; to join; to connect"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "衔接",
+     "链接"
+    ],
+    "note": "连接 = connect/link (general, physical or abstract); 衔接 = link up smoothly (join segments without gap); 链接 = hyperlink (tech/internet context)."
+   }
+  ]
+ },
+ {
+  "hanzi": "迟",
+  "pinyin": "chí",
+  "meaning_ru": "поздний; медлить (≠ 迟到 опоздать)",
+  "meaning_en": "late; slow (≠ 迟到 arrive late)",
+  "len_ru": 32,
+  "len_en": 29,
+  "cedict_en": "surname Chi/late/delayed/slow",
+  "dataset_meanings": [
+   "surname Chi",
+   "late",
+   "delayed",
+   "slow"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "迟到"
+    ],
+    "note": "Both involve lateness; 迟 is an adjective/adverb ('late; slow') used attributively or in compounds, 迟到 is a resultative verb meaning 'to arrive late' and takes a subject."
+   }
+  ]
+ },
+ {
+  "hanzi": "退出",
+  "pinyin": "tuìchū",
+  "meaning_ru": "выйти из (орг-ции/программы)",
+  "meaning_en": "quit (org/app, not a habit)",
+  "len_ru": 28,
+  "len_en": 27,
+  "cedict_en": "to withdraw/to abort/to quit/to log out (computing)",
+  "dataset_meanings": [
+   "to withdraw",
+   "to abort",
+   "to quit",
+   "to log out (computing)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "戒",
+     "撤退",
+     "退"
+    ],
+    "note": "退出 = exit a place/app/organization; 戒 = quit a habit (smoking, drinking) by self-discipline; 撤退 = military/tactical withdrawal; 退 = back up or return something"
+   }
+  ]
+ },
+ {
+  "hanzi": "送到",
+  "pinyin": "sòngdào",
+  "meaning_ru": "доставить до места",
+  "meaning_en": "deliver to a destination",
+  "len_ru": 18,
+  "len_en": 24,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Deliver"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "捎",
+     "转达"
+    ],
+    "note": "送到 = physically deliver to a destination; 捎 = deliver/bring along en passant; 转达 = relay a verbal or written message via a third party"
+   }
+  ]
+ },
+ {
+  "hanzi": "送给",
+  "pinyin": "sònggěi",
+  "meaning_ru": "дарить; вручать кому-то",
+  "meaning_en": "give as a gift; hand to s.o.",
+  "len_ru": 23,
+  "len_en": 28,
+  "cedict_en": "to send/to give as a present",
+  "dataset_meanings": [
+   "to send",
+   "to give as a present"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "发送"
+    ],
+    "note": "送给 = give as a gift or hand something to someone; 发送 = transmit/send digitally or officially (messages, signals)"
+   }
+  ]
+ },
+ {
+  "hanzi": "逃走",
+  "pinyin": "táozǒu",
+  "meaning_ru": "сбежать (направленно)",
+  "meaning_en": "flee and leave (directional)",
+  "len_ru": 21,
+  "len_en": 28,
+  "cedict_en": "to escape/to flee/to run away",
+  "dataset_meanings": [
+   "to escape",
+   "to flee",
+   "to run away"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "逃跑",
+     "逃"
+    ],
+    "note": "逃 = base verb (flee/escape); 逃跑 = flee by running (emphasises running motion); 逃走 = escape and leave (directional completion, not necessarily running)"
+   }
+  ]
+ },
+ {
+  "hanzi": "逃跑",
+  "pinyin": "táopǎo",
+  "meaning_ru": "удирать (с акцентом на бег)",
+  "meaning_en": "flee by running",
+  "len_ru": 27,
+  "len_en": 15,
+  "cedict_en": "to flee from sth/to run away/to escape",
+  "dataset_meanings": [
+   "to flee from sth",
+   "to run away",
+   "to escape"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "逃走",
+     "逃"
+    ],
+    "note": "逃 = base verb (flee/escape); 逃跑 = flee by running (emphasises running motion); 逃走 = escape and leave (directional completion, not necessarily running)"
+   }
+  ]
+ },
+ {
+  "hanzi": "选修",
+  "pinyin": "xuǎnxiū",
+  "meaning_ru": "взять по выбору; факультатив",
+  "meaning_en": "to take as elective",
+  "len_ru": 28,
+  "len_en": 19,
+  "cedict_en": "(at a school) to take as an elective/an elective/elective (subject)",
+  "dataset_meanings": [
+   "(at a school) to take as an elective",
+   "an elective",
+   "elective (subject)"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "递给",
+  "pinyin": "dìgěi",
+  "meaning_ru": "подать в руки (без передачи прав)",
+  "meaning_en": "hand to (no ownership transfer)",
+  "len_ru": 33,
+  "len_en": 31,
+  "cedict_en": "to hand it (i.e. the aforementioned item) to (sb)",
+  "dataset_meanings": [
+   "to hand it (i.e. the aforementioned item) to (sb)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "交给"
+    ],
+    "note": "递给 = pass to (physical hand-to-hand, no ownership transfer); 交给 = hand over (transfer responsibility, duty, or ownership)"
+   }
+  ]
+ },
+ {
+  "hanzi": "通信",
+  "pinyin": "tōngxìn",
+  "meaning_ru": "связь; переписка",
+  "meaning_en": "communication; correspondence",
+  "len_ru": 16,
+  "len_en": 29,
+  "cedict_en": "to correspond (by letter, email etc)/to send or receive messages through telecommunications",
+  "dataset_meanings": [
+   "to correspond (by letter etc)",
+   "to communicate",
+   "communication"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "造",
+  "pinyin": "zào",
+  "meaning_ru": "создавать; строить",
+  "meaning_en": "make; build; create",
+  "len_ru": 18,
+  "len_en": 19,
+  "cedict_en": "to make/to build/to manufacture/to invent/to fabricate/to go to/party (in a lawsuit or legal agreement)/crop/classifier for crops",
+  "dataset_meanings": [
+   "to make",
+   "to build",
+   "to manufacture",
+   "to invent",
+   "to fabricate",
+   "to go to",
+   "party (in a lawsuit or legal agreement)",
+   "crop",
+   "classifier for crops"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "制成"
+    ],
+    "note": "造 = make/build/create (general, broad); 制成 = manufacture into a finished product (stresses the end result of production)."
+   }
+  ]
+ },
+ {
+  "hanzi": "遇",
+  "pinyin": "yù",
+  "meaning_ru": "встретить; столкнуться",
+  "meaning_en": "encounter (often unplanned)",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "surname Yu/(bound form) to encounter; to happen upon; to meet unplanned/(bound form) to treat; to receive",
+  "dataset_meanings": [
+   "surname Yu",
+   "to meet",
+   "to encounter",
+   "to treat",
+   "to receive",
+   "opportunity",
+   "chance"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "遇见",
+     "碰见",
+     "逢",
+     "会晤"
+    ],
+    "note": "遇 = encounter (root, often unplanned); 遇见 = run into (colloquial, neutral); 碰见 = bump into (casual, chance); 逢 = meet/on the occasion of (literary/set phrases); 会晤 = meet formally (diplomatic/official)."
+   },
+   {
+    "with": [
+     "遇见",
+     "逢",
+     "遭到"
+    ],
+    "note": "遇见 = colloquial chance meeting (person); 遇 = literary/compound base (encounter, also adversity); 逢 = literary every-time-occasion sense; 遭到 = meet with something bad only"
+   }
+  ]
+ },
+ {
+  "hanzi": "遇见",
+  "pinyin": "yùjiàn",
+  "meaning_ru": "встретить (разг.; случайно)",
+  "meaning_en": "run into; meet (chance, coll.)",
+  "len_ru": 27,
+  "len_en": 30,
+  "cedict_en": "to meet",
+  "dataset_meanings": [
+   "to meet"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "遇",
+     "碰见",
+     "逢",
+     "会晤"
+    ],
+    "note": "遇 = encounter (root, often unplanned); 遇见 = run into (colloquial, neutral); 碰见 = bump into (casual, chance); 逢 = meet/on the occasion of (literary/set phrases); 会晤 = meet formally (diplomatic/official)."
+   },
+   {
+    "with": [
+     "遇",
+     "逢",
+     "遭到"
+    ],
+    "note": "遇见 = colloquial chance meeting (person); 遇 = literary/compound base (encounter, also adversity); 逢 = literary every-time-occasion sense; 遭到 = meet with something bad only"
+   },
+   {
+    "with": [
+     "接",
+     "见",
+     "会晤"
+    ],
+    "note": "接 = go to meet/receive (arranged, pick up); 见 = see/meet (perception-based); 遇见 = chance run-in; 会晤 = formal talks between officials"
+   }
+  ]
+ },
+ {
+  "hanzi": "避",
+  "pinyin": "bì",
+  "meaning_ru": "избегать (намеренно)",
+  "meaning_en": "avoid (deliberately)",
+  "len_ru": 20,
+  "len_en": 20,
+  "cedict_en": "to avoid/to shun/to flee/to escape/to keep away from/to leave/to hide from",
+  "dataset_meanings": [
+   "to avoid",
+   "to shun",
+   "to flee",
+   "to escape",
+   "to keep away from",
+   "to leave",
+   "to hide from"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "逃"
+    ],
+    "note": "避 = avoid/evade (deliberate effort to stay away from sth); 逃 = flee/escape (physical movement away from danger)."
+   }
+  ]
+ },
+ {
+  "hanzi": "那会儿",
+  "pinyin": "nàhuìr",
+  "meaning_ru": "тогда (разг., эрхуа)",
+  "meaning_en": "at that time (coll., er-hua)",
+  "len_ru": 20,
+  "len_en": 28,
+  "cedict_en": "at that time (in the past or the future)/also pr. [nei4 hui4 r5]",
+  "dataset_meanings": [
+   "at that time (in the past or the future)",
+   "also pr. [nèi huì r]"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "那时候"
+    ],
+    "note": "那会儿 = colloquial Beijing er-hua; 那时候 = neutral spoken; both mean 'at that time' but register differs"
+   }
+  ]
+ },
+ {
+  "hanzi": "那时",
+  "pinyin": "nàshí",
+  "meaning_ru": "тогда (о упомянутом времени)",
+  "meaning_en": "at that time (anaphoric)",
+  "len_ru": 28,
+  "len_en": 24,
+  "cedict_en": "then/at that time/in those days",
+  "dataset_meanings": [
+   "then",
+   "at that time",
+   "in those days"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "当年",
+     "昔日"
+    ],
+    "note": "那时 = 'at that time' (anaphoric: refers back to a time just mentioned); 当年 = 'back in those years / in that era' (nostalgic retrospect, specific period); 昔日 = 'in former days' (literary/elevated register, often lyrical)."
+   }
+  ]
+ },
+ {
+  "hanzi": "那时候",
+  "pinyin": "nàshíhou",
+  "meaning_ru": "в то время; тогда (нейтр.)",
+  "meaning_en": "at that time (spoken)",
+  "len_ru": 26,
+  "len_en": 21,
+  "cedict_en": "at that time",
+  "dataset_meanings": [
+   "at that time"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "那会儿"
+    ],
+    "note": "那会儿 = colloquial Beijing er-hua; 那时候 = neutral spoken; both mean 'at that time' but register differs"
+   }
+  ]
+ },
+ {
+  "hanzi": "那边",
+  "pinyin": "nàbian",
+  "meaning_ru": "там; та сторона (направление)",
+  "meaning_en": "over there; that side",
+  "len_ru": 29,
+  "len_en": 21,
+  "cedict_en": "over there/yonder",
+  "dataset_meanings": [
+   "over there",
+   "yonder"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "那里"
+    ],
+    "note": "Both mean 'over there': 那里 = neutral 'that place/there'; 那边 = 'that side/direction over there' (emphasises spatial direction or side rather than just location)"
+   }
+  ]
+ },
+ {
+  "hanzi": "酸甜苦辣",
+  "pinyin": "suāntiánkǔlà",
+  "meaning_ru": "превратности жизни (идиом.)",
+  "meaning_en": "life's ups and downs (idiom)",
+  "len_ru": 27,
+  "len_en": 28,
+  "cedict_en": "(lit.) sour, sweet, bitter and spicy (idiom)/(fig.) all kinds of flavors; the joys and sorrows of life",
+  "dataset_meanings": [
+   "sour, sweet, bitter and spicy hot",
+   "fig. the joys and sorrows of life"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "里头",
+  "pinyin": "lǐtou",
+  "meaning_ru": "внутри (разг.)",
+  "meaning_en": "inside (colloquial spoken)",
+  "len_ru": 14,
+  "len_en": 26,
+  "cedict_en": "inside; interior",
+  "dataset_meanings": [
+   "inside",
+   "interior"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "里面",
+     "内"
+    ],
+    "note": "All mean 'inside/interior'. 内 is a formal/written morpheme (内部, 国内); 里面 is everyday spoken (physical space); 里头 is colloquial/northern spoken."
+   }
+  ]
+ },
+ {
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "meaning_ru": "неправильный; ошибка (шире 不对)",
+  "meaning_en": "wrong; mistake (broader than 不对)",
+  "len_ru": 30,
+  "len_en": 32,
+  "cedict_en": "surname Cuo/mistake/wrong/bad/interlocking/complex/to grind/to polish/to alternate/to stagger/to miss/to let slip/to evade/to inlay with gold or silver",
+  "dataset_meanings": [
+   "surname Cuo",
+   "mistake",
+   "wrong",
+   "bad",
+   "interlocking",
+   "complex",
+   "to grind",
+   "to polish",
+   "to alternate",
+   "to stagger",
+   "to miss",
+   "to let slip",
+   "to evade",
+   "to inlay with gold or silver"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "不对"
+    ],
+    "note": "不对 = 'that's not right' (colloquial response, mild correction: 不对吧?); 错 = wrong/mistake (can be noun or adj., broader use: 你错了, 犯错)."
+   },
+   {
+    "with": [
+     "失误",
+     "疏忽"
+    ],
+    "note": "错 = general wrong/mistake (everyday); 失误 (5k) = a slip-up or operational error (performance context — sports, work); 疏忽 (5k) = negligence, oversight (blame/duty context)."
+   },
+   {
+    "with": [
+     "不对",
+     "失误",
+     "疏忽"
+    ],
+    "note": "错 = general wrong/mistake (adj+noun); 不对 = predicative spoken judgment ('that's not right'); 失误 = concrete performance slip (sports/work); 疏忽 = careless lapse due to inattention"
+   }
+  ]
+ },
+ {
+  "hanzi": "长大",
+  "pinyin": "zhǎngdà",
+  "meaning_ru": "вырасти; повзрослеть",
+  "meaning_en": "grow up (reach adulthood)",
+  "len_ru": 20,
+  "len_en": 25,
+  "cedict_en": "to grow up",
+  "dataset_meanings": [
+   "to grow up"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "生长",
+     "成长",
+     "栽培"
+    ],
+    "note": "长大 = grow up (humans reaching adulthood); 成长 = grow/mature (personal development, also broad); 生长 = grow (biological — plants, organisms); 栽培 = cultivate (plants) or mentor (people, formal)"
+   }
+  ]
+ },
+ {
+  "hanzi": "闭幕",
+  "pinyin": "bìmù",
+  "meaning_ru": "закрыться (о мероприятии)",
+  "meaning_en": "to close (event/ceremony)",
+  "len_ru": 25,
+  "len_en": 25,
+  "cedict_en": "the curtain falls/lower the curtain/to come to an end (of a meeting)",
+  "dataset_meanings": [
+   "the curtain falls",
+   "lower the curtain",
+   "to come to an end (of a meeting)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "关上"
+    ],
+    "note": "关上 = close/shut (physical objects: door, window; also turn off); 闭幕 = close/end an event (ceremony, conference, exhibition — formal)."
+   }
+  ]
+ },
+ {
+  "hanzi": "闭幕式",
+  "pinyin": "bìmùshì",
+  "meaning_ru": "церемония закрытия",
+  "meaning_en": "closing ceremony (cf. 开幕式)",
+  "len_ru": 18,
+  "len_en": 26,
+  "cedict_en": "closing ceremony",
+  "dataset_meanings": [
+   "closing ceremony"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "开幕式",
+     "典礼",
+     "仪式"
+    ],
+    "note": "闭幕式 = closing ceremony (specific); 开幕式 = opening ceremony (specific); 典礼 = formal solemn ceremony (graduation, state); 仪式 = ritual/rite (broader, including religious or symbolic acts)"
+   }
+  ]
+ },
+ {
+  "hanzi": "闲",
+  "pinyin": "xián",
+  "meaning_ru": "свободный; праздный (прил.)",
+  "meaning_en": "idle; free (adj., not busy)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "enclosure/(variant of 閒|闲[xian2]) idle/unoccupied/leisure/idle",
+  "dataset_meanings": [
+   "enclosure",
+   "(variant of 闲) idle",
+   "unoccupied",
+   "leisure",
+   "idle"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "空闲",
+     "休闲"
+    ],
+    "note": "闲 is an adjective 'idle, free (not busy)'; 空闲 is a noun/adj for free time/spare time; 休闲 specifically means leisure, relaxation as an activity"
+   }
+  ]
+ },
+ {
+  "hanzi": "闹",
+  "pinyin": "nào",
+  "meaning_ru": "шуметь; буянить; скандалить",
+  "meaning_en": "make noise; fuss; cause trouble",
+  "len_ru": 27,
+  "len_en": 31,
+  "cedict_en": "variant of 鬧|闹[nao4]/noisy/cacophonous/to make noise/to disturb/to vent (feelings)/to fall ill/to have an attack (of sickness)/to go in (for some activity)/to joke",
+  "dataset_meanings": [
+   "variant of 闹",
+   "noisy",
+   "cacophonous",
+   "to make noise",
+   "to disturb",
+   "to vent (feelings)",
+   "to fall ill",
+   "to have an attack (of sickness)",
+   "to go in (for some activity)",
+   "to joke"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "吵",
+     "嘈杂"
+    ],
+    "note": "闹 = make noise/fuss/cause trouble (includes rowdy behavior); 吵 = quarrel or be noisy (implies conflict or grating noise); 嘈杂 = clamorous/noisy (adjective, ambient sound, no conflict)."
+   }
+  ]
+ }
+]

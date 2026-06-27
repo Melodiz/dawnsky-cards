@@ -1,0 +1,141 @@
+[
+ {
+  "hanzi": "大脑",
+  "pinyin": "dànǎo",
+  "meaning_ru": "головной мозг",
+  "meaning_en": "brain; cerebrum",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "大事",
+  "pinyin": "dàshì",
+  "meaning_ru": "важное событие",
+  "meaning_en": "major event; big deal",
+  "semantic_tags": [
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "显",
+  "pinyin": "xiǎn",
+  "meaning_ru": "проявлять; заметный",
+  "meaning_en": "to show; conspicuous",
+  "semantic_tags": [
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "看出",
+  "pinyin": "kànchū",
+  "meaning_ru": "разглядеть; понять",
+  "meaning_en": "to make out; to tell",
+  "semantic_tags": [
+   "perception",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "随后",
+  "pinyin": "suíhòu",
+  "meaning_ru": "вскоре после; затем",
+  "meaning_en": "soon after; then",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "加速",
+  "pinyin": "jiāsù",
+  "meaning_ru": "ускорять",
+  "meaning_en": "to speed up",
+  "semantic_tags": [
+   "process_change",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "社",
+  "pinyin": "shè",
+  "meaning_ru": "общество; агентство",
+  "meaning_en": "society; agency",
+  "semantic_tags": [
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "搜",
+  "pinyin": "sōu",
+  "meaning_ru": "искать; обыскивать",
+  "meaning_en": "to search",
+  "semantic_tags": [
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "悲剧",
+  "pinyin": "bēijù",
+  "meaning_ru": "трагедия",
+  "meaning_en": "tragedy",
+  "semantic_tags": [
+   "art",
+   "event_situation"
+  ]
+ },
+ {
+  "hanzi": "夹",
+  "pinyin": "jiā",
+  "meaning_ru": "зажимать; зажим",
+  "meaning_en": "to clamp; clip",
+  "semantic_tags": [
+   "physical_action",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "出于",
+  "pinyin": "chūyú",
+  "meaning_ru": "исходя из; из-за",
+  "meaning_en": "out of; due to",
+  "semantic_tags": [
+   "cause_effect"
+  ]
+ },
+ {
+  "hanzi": "双手",
+  "pinyin": "shuāngshǒu",
+  "meaning_ru": "обе руки",
+  "meaning_en": "both hands",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "得了",
+  "pinyin": "déle",
+  "meaning_ru": "хватит!; ладно! (разг.)",
+  "meaning_en": "enough!; all right!",
+  "semantic_tags": [
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "买卖",
+  "pinyin": "mǎimài",
+  "meaning_ru": "купля-продажа; торговля",
+  "meaning_en": "buying and selling; trade",
+  "semantic_tags": [
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "悲伤",
+  "pinyin": "bēishāng",
+  "meaning_ru": "печальный; скорбный",
+  "meaning_en": "sad; sorrowful",
+  "semantic_tags": [
+   "emotion"
+  ]
+ }
+]

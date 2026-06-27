@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "出",
+  "pinyin": "chū",
+  "meaning_ru": "выходить; выйти",
+  "meaning_en": "to go out; exit",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "meaning_ru": "любить",
+  "meaning_en": "to love; to like",
+  "semantic_tags": [
+   "emotion",
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "孩子",
+  "pinyin": "háizi",
+  "meaning_ru": "ребёнок",
+  "meaning_en": "child; kid",
+  "semantic_tags": [
+   "person",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "meaning_ru": "год (возраст); лет",
+  "meaning_en": "years old; age",
+  "semantic_tags": [
+   "measurement",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "高",
+  "pinyin": "gāo",
+  "meaning_ru": "высокий",
+  "meaning_en": "high; tall",
+  "semantic_tags": [
+   "evaluation_adj",
+   "size"
+  ]
+ },
+ {
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "meaning_ru": "входить; войти",
+  "meaning_en": "to enter; go in",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "您",
+  "pinyin": "nín",
+  "meaning_ru": "Вы (вежл.)",
+  "meaning_en": "you (polite)",
+  "semantic_tags": [
+   "pronoun",
+   "politeness"
+  ]
+ },
+ {
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "meaning_ru": "смеяться; улыбаться",
+  "meaning_en": "to laugh; smile",
+  "semantic_tags": [
+   "action_communication",
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "女人",
+  "pinyin": "nǚrén",
+  "meaning_ru": "женщина",
+  "meaning_en": "woman",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "男人",
+  "pinyin": "nánrén",
+  "meaning_ru": "мужчина",
+  "meaning_en": "man",
+  "semantic_tags": [
+   "person"
+  ]
+ },
+ {
+  "hanzi": "正在",
+  "pinyin": "zhèngzài",
+  "meaning_ru": "как раз (делать); сейчас",
+  "meaning_en": "in the middle of; now",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "外",
+  "pinyin": "wài",
+  "meaning_ru": "снаружи; вне",
+  "meaning_en": "outside; external",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "球",
+  "pinyin": "qiú",
+  "meaning_ru": "мяч; шар",
+  "meaning_en": "ball; sphere",
+  "semantic_tags": [
+   "object_home",
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "meaning_ru": "неправильный; ошибка",
+  "meaning_en": "wrong; mistake",
+  "semantic_tags": [
+   "evaluation_adj",
+   "judgement"
+  ]
+ },
+ {
+  "hanzi": "别的",
+  "pinyin": "biéde",
+  "meaning_ru": "другой; иное",
+  "meaning_en": "other; else",
+  "semantic_tags": [
+   "pronoun",
+   "abstract_relation"
+  ]
+ }
+]

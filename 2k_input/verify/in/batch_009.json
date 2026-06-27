@@ -1,0 +1,1068 @@
+[
+ {
+  "hanzi": "票价",
+  "pinyin": "piàojià",
+  "meaning_ru": "цена билета",
+  "meaning_en": "ticket price; fare",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "ticket price; fare; admission fee",
+  "dataset_meanings": [
+   "ticket price; fare; admission fee"
+  ]
+ },
+ {
+  "hanzi": "华人",
+  "pinyin": "huárén",
+  "meaning_ru": "этнический китаец",
+  "meaning_en": "ethnic Chinese person",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "ethnic Chinese person or people",
+  "dataset_meanings": [
+   "ethnic Chinese person or people"
+  ]
+ },
+ {
+  "hanzi": "有的是",
+  "pinyin": "yǒudeshì",
+  "meaning_ru": "сколько угодно",
+  "meaning_en": "have plenty of",
+  "semantic_tags": [
+   "quantity_abstract"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "have plenty of/there's no lack of",
+  "dataset_meanings": [
+   "have plenty of",
+   "there's no lack of"
+  ]
+ },
+ {
+  "hanzi": "皮包",
+  "pinyin": "píbāo",
+  "meaning_ru": "сумка; портфель",
+  "meaning_en": "handbag; briefcase",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "handbag/briefcase",
+  "dataset_meanings": [
+   "handbag",
+   "briefcase"
+  ]
+ },
+ {
+  "hanzi": "图画",
+  "pinyin": "túhuà",
+  "meaning_ru": "рисунок; картинка",
+  "meaning_en": "drawing; picture",
+  "semantic_tags": [
+   "art"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "drawing/picture",
+  "dataset_meanings": [
+   "drawing",
+   "picture"
+  ]
+ },
+ {
+  "hanzi": "长处",
+  "pinyin": "chángchù",
+  "meaning_ru": "сильная сторона",
+  "meaning_en": "strong point; merit",
+  "semantic_tags": [
+   "abstract_quality"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "good aspects/strong points",
+  "dataset_meanings": [
+   "good aspects",
+   "strong points"
+  ]
+ },
+ {
+  "hanzi": "年初",
+  "pinyin": "niánchū",
+  "meaning_ru": "начало года",
+  "meaning_en": "beginning of the year",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "beginning of the year",
+  "dataset_meanings": [
+   "beginning of the year"
+  ]
+ },
+ {
+  "hanzi": "试题",
+  "pinyin": "shìtí",
+  "meaning_ru": "экзаменационный вопрос",
+  "meaning_en": "exam question",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "exam question/test topic",
+  "dataset_meanings": [
+   "exam question",
+   "test topic"
+  ]
+ },
+ {
+  "hanzi": "积极性",
+  "pinyin": "jījíxìng",
+  "meaning_ru": "активность; рвение",
+  "meaning_en": "enthusiasm; initiative",
+  "semantic_tags": [
+   "abstract_quality",
+   "personality_trait"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "zeal/initiative/enthusiasm/activity",
+  "dataset_meanings": [
+   "zeal",
+   "initiative",
+   "enthusiasm",
+   "activity"
+  ]
+ },
+ {
+  "hanzi": "初一",
+  "pinyin": "chūyī",
+  "meaning_ru": "1-е число лун. месяца",
+  "meaning_en": "first day of lunar month",
+  "semantic_tags": [
+   "date",
+   "time_word"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "first year in junior middle school/first day of a lunar month",
+  "dataset_meanings": [
+   "first day of lunar month",
+   "New Year's Day",
+   "first year in junior middle school"
+  ]
+ },
+ {
+  "hanzi": "奶茶",
+  "pinyin": "nǎichá",
+  "meaning_ru": "чай с молоком",
+  "meaning_en": "milk tea",
+  "semantic_tags": [
+   "drink"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "milk tea",
+  "dataset_meanings": [
+   "milk tea"
+  ]
+ },
+ {
+  "hanzi": "银牌",
+  "pinyin": "yínpái",
+  "meaning_ru": "серебряная медаль",
+  "meaning_en": "silver medal",
+  "semantic_tags": [
+   "sport",
+   "object_home"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "silver medal/CL:枚[mei2]",
+  "dataset_meanings": [
+   "silver medal"
+  ]
+ },
+ {
+  "hanzi": "老头儿",
+  "pinyin": "lǎotóur",
+  "meaning_ru": "старик (разг.)",
+  "meaning_en": "old man (coll.)",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "see 老頭子|老头子[lao3 tou2 zi5]",
+  "dataset_meanings": [
+   "see 老头子"
+  ]
+ },
+ {
+  "hanzi": "交费",
+  "pinyin": "jiāofèi",
+  "meaning_ru": "платить (взнос)",
+  "meaning_en": "to pay a fee",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "to pay a fee",
+  "dataset_meanings": [
+   "to pay a fee"
+  ]
+ },
+ {
+  "hanzi": "凉水",
+  "pinyin": "liángshuǐ",
+  "meaning_ru": "холодная вода",
+  "meaning_en": "cool water",
+  "semantic_tags": [
+   "drink",
+   "material_substance"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "cool water/unboiled water",
+  "dataset_meanings": [
+   "cool water",
+   "unboiled water"
+  ]
+ },
+ {
+  "hanzi": "跳高",
+  "pinyin": "tiàogāo",
+  "meaning_ru": "прыжки в высоту",
+  "meaning_en": "high jump",
+  "semantic_tags": [
+   "sport"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "(athletics) high jump",
+  "dataset_meanings": [
+   "high jump (athletics)"
+  ]
+ },
+ {
+  "hanzi": "衣架",
+  "pinyin": "yījià",
+  "meaning_ru": "вешалка (для одежды)",
+  "meaning_en": "clothes hanger",
+  "semantic_tags": [
+   "object_home",
+   "clothing"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "clothes hanger/clothes rack",
+  "dataset_meanings": [
+   "clothes hanger",
+   "clothes rack"
+  ]
+ },
+ {
+  "hanzi": "外文",
+  "pinyin": "wàiwén",
+  "meaning_ru": "иностранный язык (письм.)",
+  "meaning_en": "foreign language",
+  "semantic_tags": [
+   "communication_formal",
+   "education"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "foreign language (written)",
+  "dataset_meanings": [
+   "foreign language (written)"
+  ]
+ },
+ {
+  "hanzi": "短处",
+  "pinyin": "duǎnchù",
+  "meaning_ru": "недостаток; слабая сторона",
+  "meaning_en": "shortcoming; weak point",
+  "semantic_tags": [
+   "abstract_quality",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "shortcoming/defect/fault/one's weak points",
+  "dataset_meanings": [
+   "shortcoming",
+   "defect",
+   "fault",
+   "one's weak points"
+  ]
+ },
+ {
+  "hanzi": "跳远",
+  "pinyin": "tiàoyuǎn",
+  "meaning_ru": "прыжки в длину",
+  "meaning_en": "long jump",
+  "semantic_tags": [
+   "sport"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "long jump (athletics)",
+  "dataset_meanings": [
+   "long jump (athletics)"
+  ]
+ },
+ {
+  "hanzi": "后年",
+  "pinyin": "hòunián",
+  "meaning_ru": "послезавтрашний год",
+  "meaning_en": "year after next",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "the year after next",
+  "dataset_meanings": [
+   "the year after next"
+  ]
+ },
+ {
+  "hanzi": "红酒",
+  "pinyin": "hóngjiǔ",
+  "meaning_ru": "красное вино",
+  "meaning_en": "red wine",
+  "semantic_tags": [
+   "drink"
+  ],
+  "hsk30_level": 3,
+  "cedict_en": "red wine",
+  "dataset_meanings": [
+   "red wine"
+  ]
+ },
+ {
+  "hanzi": "首",
+  "pinyin": "shǒu",
+  "meaning_ru": "глава; первый; (сч. сл. стихи/песни)",
+  "meaning_en": "head; chief; (cl. songs/poems)",
+  "semantic_tags": [
+   "measurement",
+   "abstract_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "head/chief/first (occasion, thing etc)/classifier for poems, songs etc",
+  "dataset_meanings": [
+   "head",
+   "chief",
+   "first (occasion, thing etc)",
+   "classifier for poems, songs etc"
+  ]
+ },
+ {
+  "hanzi": "局",
+  "pinyin": "jú",
+  "meaning_ru": "ведомство; ситуация; (сч. партия)",
+  "meaning_en": "office; situation; (cl. games)",
+  "semantic_tags": [
+   "society_public",
+   "measurement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "narrow/office/situation/classifier for games: match, set, round etc/cramped; narrow",
+  "dataset_meanings": [
+   "narrow",
+   "office",
+   "situation",
+   "classifier for games: match, set, round etc"
+  ]
+ },
+ {
+  "hanzi": "轮",
+  "pinyin": "lún",
+  "meaning_ru": "колесо; чередоваться; (сч. круг)",
+  "meaning_en": "wheel; take turns; (cl. round)",
+  "semantic_tags": [
+   "object_tech",
+   "measurement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "wheel; disk; ring/steamship/to take turns; to rotate/classifier for big round objects: disk, or recurring events: round, turn",
+  "dataset_meanings": [
+   "wheel; disk; ring",
+   "steamship",
+   "to take turns; to rotate",
+   "classifier for big round objects: disk, or recurring events: round, turn"
+  ]
+ },
+ {
+  "hanzi": "停下",
+  "pinyin": "tíngxià",
+  "meaning_ru": "остановиться; прекратить",
+  "meaning_en": "to stop",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to stop",
+  "dataset_meanings": [
+   "to stop"
+  ]
+ },
+ {
+  "hanzi": "妻子",
+  "pinyin": "qīzǐ",
+  "meaning_ru": "жена",
+  "meaning_en": "wife",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "wife and children/wife",
+  "dataset_meanings": [
+   "wife and children",
+   "wife"
+  ]
+ },
+ {
+  "hanzi": "怪",
+  "pinyin": "guài",
+  "meaning_ru": "странный; винить",
+  "meaning_en": "strange; to blame",
+  "semantic_tags": [
+   "evaluation_adj",
+   "emotion"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "odd; strange; uncanny/(bound form) monster; supernatural being/to find strange; to regard as odd/to blame/(coll.) somewhat; rather/variant of 怪[guai4]",
+  "dataset_meanings": [
+   "bewildering",
+   "odd",
+   "strange",
+   "uncanny",
+   "devil",
+   "monster",
+   "to wonder at",
+   "to blame",
+   "quite",
+   "rather",
+   "variant of 怪"
+  ]
+ },
+ {
+  "hanzi": "盘",
+  "pinyin": "pán",
+  "meaning_ru": "блюдо; тарелка; (сч. блюдо)",
+  "meaning_en": "plate; tray; (cl. dish)",
+  "semantic_tags": [
+   "object_home",
+   "measurement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "tray; plate; dish/(finance) (bound form) market prices/(computing) (bound form) disk/to coil (a rope, pigtail etc)/to check; to examine; to investigate/to transfer; to sell (property)/to shift; to move (sth big and heavy)/classifier for things resembling a plate or dish/classifier for coils/classifier for games or matches (chess, table tennis etc)",
+  "dataset_meanings": [
+   "plate",
+   "dish",
+   "tray",
+   "board",
+   "hard drive (computing)",
+   "to build",
+   "to coil",
+   "to check",
+   "to examine",
+   "to transfer (property)",
+   "to make over",
+   "classifier for food: dish, helping",
+   "classifier for coils of wire",
+   "classifier for games of chess"
+  ]
+ },
+ {
+  "hanzi": "丈夫",
+  "pinyin": "zhàngfu",
+  "meaning_ru": "муж",
+  "meaning_en": "husband",
+  "semantic_tags": [
+   "family",
+   "person"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "husband",
+  "dataset_meanings": [
+   "husband"
+  ]
+ },
+ {
+  "hanzi": "牌",
+  "pinyin": "pái",
+  "meaning_ru": "карта; табличка; марка",
+  "meaning_en": "card; sign; brand",
+  "semantic_tags": [
+   "object_home",
+   "commerce_trade"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "signboard; plaque; plate; tablet (CL:塊|块[kuai4])/brand; trademark/mahjong tile; domino; playing card (CL:張|张[zhang1])/(bound form) fixed pattern for lyrics or set melody in classical poetry or music (used in 詞牌|词牌[ci2 pai2] and 曲牌[qu3 pai2])",
+  "dataset_meanings": [
+   "mahjong tile",
+   "playing card",
+   "game pieces",
+   "signboard",
+   "plate",
+   "tablet",
+   "medal"
+  ]
+ },
+ {
+  "hanzi": "落",
+  "pinyin": "là",
+  "meaning_ru": "забыть; пропустить; отстать",
+  "meaning_en": "to leave out; miss",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to leave out/to be missing/to leave behind or forget to bring/to lag or fall behind/colloquial reading for 落[luo4] in certain compounds/to fall or drop/(of the sun) to set/(of a tide) to go out/to lower/to decline or sink/to fall onto/to rest with/to get or receive/to write down/whereabouts/settlement",
+  "dataset_meanings": [
+   "to leave out",
+   "to be missing",
+   "to leave behind or forget to bring",
+   "to lag or fall behind",
+   "colloquial reading for 落 in certain compounds",
+   "to fall or drop",
+   "(of the sun) to set",
+   "(of a tide) to go out",
+   "to lower",
+   "to decline or sink",
+   "to fall onto",
+   "to rest with",
+   "to get or receive",
+   "to write down",
+   "whereabouts",
+   "settlement"
+  ]
+ },
+ {
+  "hanzi": "烧",
+  "pinyin": "shāo",
+  "meaning_ru": "жечь; варить; жар",
+  "meaning_en": "to burn; cook; fever",
+  "semantic_tags": [
+   "action_daily",
+   "health_medical"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to burn; to set on fire/to heat (over a fire); to boil (water, tea etc)/to braise/to cook; to prepare food/to run a fever/fever/(coll.) to become full of oneself; to get carried away",
+  "dataset_meanings": [
+   "to burn",
+   "to cook",
+   "to stew",
+   "to bake",
+   "to roast",
+   "to heat",
+   "to boil (tea, water etc)",
+   "fever",
+   "to run a temperature",
+   "(coll.) to let things go to one's head"
+  ]
+ },
+ {
+  "hanzi": "季",
+  "pinyin": "jì",
+  "meaning_ru": "сезон; время года",
+  "meaning_en": "season",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "surname Ji/season/the last month of a season/fourth or youngest amongst brothers/classifier for seasonal crop yields",
+  "dataset_meanings": [
+   "surname Ji",
+   "season",
+   "the last month of a season",
+   "fourth or youngest amongst brothers",
+   "classifier for seasonal crop yields"
+  ]
+ },
+ {
+  "hanzi": "抽",
+  "pinyin": "chōu",
+  "meaning_ru": "вытаскивать; курить",
+  "meaning_en": "to pull out; smoke",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to draw out; to pull out from in between/to remove part of the whole/to inhale (esp. smoke)/(of fabric etc) to shrink/(of certain plants) to sprout; to bud/to whip; to thrash/classifier for sheets (of tissues, wet wipes etc)",
+  "dataset_meanings": [
+   "to draw out",
+   "to pull out from in between",
+   "to remove part of the whole",
+   "(of certain plants) to sprout or bud",
+   "to whip or thrash"
+  ]
+ },
+ {
+  "hanzi": "货",
+  "pinyin": "huò",
+  "meaning_ru": "товар; груз",
+  "meaning_en": "goods; commodity",
+  "semantic_tags": [
+   "commerce_trade"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "goods/money/commodity/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "goods",
+   "money",
+   "commodity"
+  ]
+ },
+ {
+  "hanzi": "手里",
+  "pinyin": "shǒulǐ",
+  "meaning_ru": "в руках; на руках",
+  "meaning_en": "in hand; in one's hands",
+  "semantic_tags": [
+   "spatial_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "in hand/(a situation is) in sb's hands",
+  "dataset_meanings": [
+   "in hand",
+   "(a situation is) in sb's hands"
+  ]
+ },
+ {
+  "hanzi": "垃圾",
+  "pinyin": "lājī",
+  "meaning_ru": "мусор; хлам",
+  "meaning_en": "trash; garbage",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "trash/refuse/garbage/(coll.) of poor quality/Taiwan pr. [le4 se4]",
+  "dataset_meanings": [
+   "trash",
+   "refuse",
+   "garbage",
+   "(coll.) of poor quality",
+   "Taiwan pr. [lè sè]"
+  ]
+ },
+ {
+  "hanzi": "赢得",
+  "pinyin": "yíngdé",
+  "meaning_ru": "выиграть; завоевать",
+  "meaning_en": "to win; gain",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to win/to gain",
+  "dataset_meanings": [
+   "to win",
+   "to gain"
+  ]
+ },
+ {
+  "hanzi": "替",
+  "pinyin": "tì",
+  "meaning_ru": "заменять; вместо",
+  "meaning_en": "to replace; on behalf of",
+  "semantic_tags": [
+   "action_daily"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to substitute for/to take the place of/to replace/for/on behalf of/to stand in for",
+  "dataset_meanings": [
+   "to substitute for",
+   "to take the place of",
+   "to replace",
+   "for",
+   "on behalf of",
+   "to stand in for"
+  ]
+ },
+ {
+  "hanzi": "色",
+  "pinyin": "sè",
+  "meaning_ru": "цвет; окраска",
+  "meaning_en": "color",
+  "semantic_tags": [
+   "color",
+   "perception"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "color/CL:種|种[zhong3]/look/appearance/sex/(coll.) color/used in 色子[shai3 zi5]",
+  "dataset_meanings": [
+   "color",
+   "look",
+   "appearance",
+   "sex",
+   "(coll.) color",
+   "used in 子"
+  ]
+ },
+ {
+  "hanzi": "编",
+  "pinyin": "biān",
+  "meaning_ru": "составлять; плести; сочинять",
+  "meaning_en": "to compile; weave; make up",
+  "semantic_tags": [
+   "action_communication",
+   "action_daily"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to weave/to plait/to organize/to group/to arrange/to edit/to compile/to write/to compose/to fabricate/to make up",
+  "dataset_meanings": [
+   "to weave",
+   "to plait",
+   "to organize",
+   "to group",
+   "to arrange",
+   "to edit",
+   "to compile",
+   "to write",
+   "to compose",
+   "to fabricate",
+   "to make up"
+  ]
+ },
+ {
+  "hanzi": "宝",
+  "pinyin": "bǎo",
+  "meaning_ru": "сокровище; драгоценность",
+  "meaning_en": "treasure; precious",
+  "semantic_tags": [
+   "abstract_quality"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "variant of 寶|宝[bao3]/jewel/gem/treasure/precious",
+  "dataset_meanings": [
+   "variant of 宝",
+   "jewel",
+   "gem",
+   "treasure",
+   "precious"
+  ]
+ },
+ {
+  "hanzi": "宝宝",
+  "pinyin": "bǎobao",
+  "meaning_ru": "малыш; детка",
+  "meaning_en": "baby; darling",
+  "semantic_tags": [
+   "person",
+   "family"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "darling; baby",
+  "dataset_meanings": [
+   "darling; baby"
+  ]
+ },
+ {
+  "hanzi": "美女",
+  "pinyin": "měinǚ",
+  "meaning_ru": "красавица",
+  "meaning_en": "beautiful woman",
+  "semantic_tags": [
+   "person"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "beautiful woman",
+  "dataset_meanings": [
+   "beautiful woman"
+  ]
+ },
+ {
+  "hanzi": "药物",
+  "pinyin": "yàowù",
+  "meaning_ru": "лекарство; медикамент",
+  "meaning_en": "medicine; drug",
+  "semantic_tags": [
+   "health_medical"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "medicaments/pharmaceuticals/medication/medicine/drug",
+  "dataset_meanings": [
+   "medicaments",
+   "pharmaceuticals",
+   "medication",
+   "medicine",
+   "drug"
+  ]
+ },
+ {
+  "hanzi": "冰",
+  "pinyin": "bīng",
+  "meaning_ru": "лёд",
+  "meaning_en": "ice",
+  "semantic_tags": [
+   "nature",
+   "material_substance"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "ice/CL:塊|块[kuai4]/to chill sth/(of an object or substance) to feel cold/(of a person) cold/unfriendly/(slang) methamphetamine/variant of 冰[bing1]",
+  "dataset_meanings": [
+   "ice",
+   "to chill sth",
+   "(of an object or substance) to feel cold",
+   "(of a person) cold",
+   "unfriendly",
+   "(slang) methamphetamine",
+   "variant of 冰"
+  ]
+ },
+ {
+  "hanzi": "结",
+  "pinyin": "jiē",
+  "meaning_ru": "завязывать; узел",
+  "meaning_en": "to tie; knot",
+  "semantic_tags": [
+   "physical_action"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "(of a plant) to produce (fruit or seeds)/Taiwan pr. [jie2]/knot/sturdy/bond/to tie/to bind/to check out (of a hotel)",
+  "dataset_meanings": [
+   "(of a plant) to produce (fruit or seeds)",
+   "Taiwan pr. [jié]",
+   "knot",
+   "sturdy",
+   "bond",
+   "to tie",
+   "to bind",
+   "to check out (of a hotel)"
+  ]
+ },
+ {
+  "hanzi": "烦",
+  "pinyin": "fán",
+  "meaning_ru": "раздражаться; досаждать",
+  "meaning_en": "annoyed; to bother",
+  "semantic_tags": [
+   "emotion"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to feel vexed/to bother/to trouble/superfluous and confusing/edgy",
+  "dataset_meanings": [
+   "to feel vexed",
+   "to bother",
+   "to trouble",
+   "superfluous and confusing",
+   "edgy"
+  ]
+ },
+ {
+  "hanzi": "付出",
+  "pinyin": "fùchū",
+  "meaning_ru": "вкладывать; отдавать",
+  "meaning_en": "to give; to pay",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to pay; to expend; to invest (energy or time)",
+  "dataset_meanings": [
+   "to pay; to expend; to invest (energy or time)"
+  ]
+ },
+ {
+  "hanzi": "透",
+  "pinyin": "tòu",
+  "meaning_ru": "проникать; насквозь",
+  "meaning_en": "penetrate; thoroughly",
+  "semantic_tags": [
+   "physical_action",
+   "degree_adverb"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "(bound form) to penetrate; to seep through/to tell secretly; to leak/thoroughly; through and through/to appear; to show",
+  "dataset_meanings": [
+   "(bound form) to penetrate; to seep through",
+   "to tell secretly; to leak",
+   "thoroughly; through and through",
+   "to appear; to show"
+  ]
+ },
+ {
+  "hanzi": "治",
+  "pinyin": "zhì",
+  "meaning_ru": "лечить; управлять",
+  "meaning_en": "to treat; to govern",
+  "semantic_tags": [
+   "health_medical",
+   "politics_government"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to rule/to govern/to manage/to control/to harness (a river)/to treat (a disease)/to wipe out (a pest)/to punish/to research",
+  "dataset_meanings": [
+   "to rule",
+   "to govern",
+   "to manage",
+   "to control",
+   "to harness (a river)",
+   "to treat (a disease)",
+   "to wipe out (a pest)",
+   "to punish",
+   "to research"
+  ]
+ },
+ {
+  "hanzi": "闹",
+  "pinyin": "nào",
+  "meaning_ru": "шуметь; буянить",
+  "meaning_en": "to make noise; to fuss",
+  "semantic_tags": [
+   "action_communication",
+   "manner_state"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "variant of 鬧|闹[nao4]/noisy/cacophonous/to make noise/to disturb/to vent (feelings)/to fall ill/to have an attack (of sickness)/to go in (for some activity)/to joke",
+  "dataset_meanings": [
+   "variant of 闹",
+   "noisy",
+   "cacophonous",
+   "to make noise",
+   "to disturb",
+   "to vent (feelings)",
+   "to fall ill",
+   "to have an attack (of sickness)",
+   "to go in (for some activity)",
+   "to joke"
+  ]
+ },
+ {
+  "hanzi": "检测",
+  "pinyin": "jiǎncè",
+  "meaning_ru": "проверять; тестировать",
+  "meaning_en": "to test; to detect",
+  "semantic_tags": [
+   "science_research",
+   "action_learning"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to test; to detect",
+  "dataset_meanings": [
+   "to detect",
+   "to test",
+   "detection",
+   "sensing"
+  ]
+ },
+ {
+  "hanzi": "列",
+  "pinyin": "liè",
+  "meaning_ru": "ряд; перечислять",
+  "meaning_en": "row; to list",
+  "semantic_tags": [
+   "shape_form",
+   "action_daily"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to arrange/to line up/file/series/(in data tables) column/(Tw) row",
+  "dataset_meanings": [
+   "to arrange",
+   "to line up",
+   "file",
+   "series",
+   "(in data tables) column",
+   "(Tw) row"
+  ]
+ },
+ {
+  "hanzi": "户",
+  "pinyin": "hù",
+  "meaning_ru": "двор; семья (счётн.)",
+  "meaning_en": "household; door",
+  "semantic_tags": [
+   "family",
+   "measurement"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "a household/door/family",
+  "dataset_meanings": [
+   "a household",
+   "door",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "归",
+  "pinyin": "guī",
+  "meaning_ru": "возвращаться; принадлежать",
+  "meaning_en": "to return; belong to",
+  "semantic_tags": [
+   "action_movement",
+   "abstract_relation"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "surname Gui/to return/to go back to/to give back to/(of a responsibility) to be taken care of by/to belong to/to gather together/(used between two identical verbs) despite/to marry (of a woman) (old)/division on the abacus with a one-digit divisor",
+  "dataset_meanings": [
+   "surname Gui",
+   "to return",
+   "to go back to",
+   "to give back to",
+   "(of a responsibility) to be taken care of by",
+   "to belong to",
+   "to gather together",
+   "(used between two identical verbs) despite",
+   "to marry (of a woman) (old)",
+   "division on the abacus with a one-digit divisor"
+  ]
+ },
+ {
+  "hanzi": "挑",
+  "pinyin": "tiāo",
+  "meaning_ru": "выбирать; отбирать",
+  "meaning_en": "to pick; to choose",
+  "semantic_tags": [
+   "action_daily",
+   "cognition"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to carry on a shoulder pole/to choose/to pick/to nitpick/to raise/to dig up/to poke/to prick/to incite/to stir up",
+  "dataset_meanings": [
+   "to carry on a shoulder pole",
+   "to choose",
+   "to pick",
+   "to nitpick",
+   "to raise",
+   "to dig up",
+   "to poke",
+   "to prick",
+   "to incite",
+   "to stir up"
+  ]
+ },
+ {
+  "hanzi": "老公",
+  "pinyin": "lǎogōng",
+  "meaning_ru": "муж (разг.)",
+  "meaning_en": "husband (coll.)",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "(coll.) husband/(coll.) eunuch/see also 老公[lao3 gong1]",
+  "dataset_meanings": [
+   "(coll.) husband",
+   "(coll.) eunuch",
+   "see also 公"
+  ]
+ },
+ {
+  "hanzi": "吸",
+  "pinyin": "xī",
+  "meaning_ru": "вдыхать; всасывать",
+  "meaning_en": "to inhale; to absorb",
+  "semantic_tags": [
+   "body_state",
+   "physical_action"
+  ],
+  "hsk30_level": 4,
+  "cedict_en": "to breathe/to suck in/to absorb/to inhale",
+  "dataset_meanings": [
+   "to breathe",
+   "to suck in",
+   "to absorb",
+   "to inhale"
+  ]
+ }
+]

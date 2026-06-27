@@ -1,0 +1,1422 @@
+[
+ {
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "meaning_ru": "смеяться; улыбаться (шире 微笑)",
+  "meaning_en": "laugh; smile (covers both)",
+  "len_ru": 29,
+  "len_en": 26,
+  "cedict_en": "old variant of 笑[xiao4]/to laugh; to smile/to laugh at",
+  "dataset_meanings": [
+   "old variant of 笑",
+   "to laugh; to smile",
+   "to laugh at"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "微笑"
+    ],
+    "note": "笑 = laugh or smile broadly (covers both laughter and smiling); 微笑 = smile gently (no laughing, often warm/polite)."
+   }
+  ]
+ },
+ {
+  "hanzi": "笔记",
+  "pinyin": "bǐjì",
+  "meaning_ru": "записи; конспект",
+  "meaning_en": "notes; jottings (written content)",
+  "len_ru": 16,
+  "len_en": 33,
+  "cedict_en": "to take down (in writing)/notes/a type of literature consisting mainly of short sketches/CL:本[ben3]",
+  "dataset_meanings": [
+   "to take down (in writing)",
+   "notes",
+   "a type of literature consisting mainly of short sketches"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "本子"
+    ],
+    "note": "笔记 = notes (the written content of what one records); 本子 = notebook (the physical object); learners confuse them when translating 'take notes in a notebook'"
+   }
+  ]
+ },
+ {
+  "hanzi": "签",
+  "pinyin": "qiān",
+  "meaning_ru": "подписывать (документ)",
+  "meaning_en": "to sign (a document)",
+  "len_ru": 22,
+  "len_en": 20,
+  "cedict_en": "to sign one's name/to write brief comments on a document/inscribed bamboo stick (variant of 籤|签[qian1])/visa/inscribed bamboo stick (used in divination, gambling, drawing lots etc)/small wood sliver/label/tag",
+  "dataset_meanings": [
+   "to sign one's name",
+   "to write brief comments on a document",
+   "inscribed bamboo stick (variant of 签)",
+   "visa",
+   "Japanese variant of 签",
+   "inscribed bamboo stick (used in divination, gambling, drawing lots etc)",
+   "small wood sliver",
+   "label",
+   "tag"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "签约",
+     "签证"
+    ],
+    "note": "签 = sign (a document, general); 签约 = sign a contract (verb-object, commercial/legal); 签证 = visa (noun, admin document bearing official signature/stamp)"
+   }
+  ]
+ },
+ {
+  "hanzi": "签名",
+  "pinyin": "qiānmíng",
+  "meaning_ru": "подпись; роспись (личная)",
+  "meaning_en": "autograph; personal signature",
+  "len_ru": 25,
+  "len_en": 29,
+  "cedict_en": "to sign (one's name with a pen etc)/to autograph/signature",
+  "dataset_meanings": [
+   "to sign (one's name with a pen etc)",
+   "to autograph",
+   "signature"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "签字",
+     "签署",
+     "签订"
+    ],
+    "note": "签名 = personal autograph or casual signing; 签字 = official signature on a document; 签署 = formally sign (agreement/declaration); 签订 = conclude AND sign (a contract/treaty)."
+   }
+  ]
+ },
+ {
+  "hanzi": "签约",
+  "pinyin": "qiānyuē",
+  "meaning_ru": "заключать договор (ком./юр.)",
+  "meaning_en": "sign a contract (com./legal)",
+  "len_ru": 28,
+  "len_en": 28,
+  "cedict_en": "to sign a contract or agreement",
+  "dataset_meanings": [
+   "to sign a contract or agreement"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "签",
+     "签证"
+    ],
+    "note": "签 = sign (a document, general); 签约 = sign a contract (verb-object, commercial/legal); 签证 = visa (noun, admin document bearing official signature/stamp)"
+   }
+  ]
+ },
+ {
+  "hanzi": "箱子",
+  "pinyin": "xiāngzi",
+  "meaning_ru": "чемодан; большой ящик",
+  "meaning_en": "suitcase; large box",
+  "len_ru": 21,
+  "len_en": 19,
+  "cedict_en": "suitcase/chest/box/case/trunk/CL:隻|只[zhi1],個|个[ge4]",
+  "dataset_meanings": [
+   "suitcase",
+   "chest",
+   "box",
+   "case",
+   "trunk"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "行李箱",
+     "盒子"
+    ],
+    "note": "盒子 = small box or case (cosmetics, gift); 箱子 = large box or suitcase (general); 行李箱 = specifically a travel suitcase or luggage trunk."
+   }
+  ]
+ },
+ {
+  "hanzi": "米饭",
+  "pinyin": "mǐfàn",
+  "meaning_ru": "варёный рис (блюдо)",
+  "meaning_en": "cooked/steamed rice (dish)",
+  "len_ru": 19,
+  "len_en": 26,
+  "cedict_en": "(cooked) rice",
+  "dataset_meanings": [
+   "(cooked) rice"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "米",
+     "稻谷"
+    ],
+    "note": "稻谷 (5k) = unhusked paddy rice (field/raw grain); 米 (5k) = husked uncooked rice (also 'meter'); 米饭 = cooked/steamed rice served as food"
+   }
+  ]
+ },
+ {
+  "hanzi": "粗",
+  "pinyin": "cū",
+  "meaning_ru": "толстый (диаметр); грубый",
+  "meaning_en": "thick (diameter); coarse",
+  "len_ru": 25,
+  "len_en": 24,
+  "cedict_en": "(of sth long) wide; thick/(of sth granular) coarse/(of a voice) gruff/(of sb's manner etc) rough; crude; careless; rude/variant of 粗[cu1]/remote; distant",
+  "dataset_meanings": [
+   "coarse",
+   "rough",
+   "thick (for cylindrical objects)",
+   "unfinished",
+   "vulgar",
+   "rude",
+   "crude",
+   "variant of 粗",
+   "remote",
+   "distant"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "细",
+     "薄"
+    ],
+    "note": "粗 = thick/coarse in diameter (also 'rough' in texture or manner); 细 = thin/fine in diameter or detail (also 'meticulous'); 薄 = thin in flat thickness (paper, slices, walls) — not about diameter."
+   }
+  ]
+ },
+ {
+  "hanzi": "组长",
+  "pinyin": "zǔzhǎng",
+  "meaning_ru": "руководитель группы",
+  "meaning_en": "small team/group leader",
+  "len_ru": 19,
+  "len_en": 23,
+  "cedict_en": "group leader",
+  "dataset_meanings": [
+   "group leader"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "所长",
+     "首",
+     "领导",
+     "领导人",
+     "领袖"
+    ],
+    "note": "首 = head/chief (literary, also classifier for songs/poems); 组长 = small team/group leader; 所长 = head of an institute or bureau; 领导 = everyday boss/leader (also verb: to lead); 领导人 = official leader (formal title); 领袖 = top political figure/chief (elevated, reverential)"
+   }
+  ]
+ },
+ {
+  "hanzi": "细",
+  "pinyin": "xì",
+  "meaning_ru": "тонкий (диаметр); мелкий",
+  "meaning_en": "thin (diameter); fine",
+  "len_ru": 24,
+  "len_en": 21,
+  "cedict_en": "thin or slender/finely particulate/thin and soft/fine/delicate/trifling/(of a sound) quiet/frugal",
+  "dataset_meanings": [
+   "thin or slender",
+   "finely particulate",
+   "thin and soft",
+   "fine",
+   "delicate",
+   "trifling",
+   "(of a sound) quiet",
+   "frugal"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "粗",
+     "薄"
+    ],
+    "note": "粗 = thick/coarse in diameter (also 'rough' in texture or manner); 细 = thin/fine in diameter or detail (also 'meticulous'); 薄 = thin in flat thickness (paper, slices, walls) — not about diameter."
+   }
+  ]
+ },
+ {
+  "hanzi": "结",
+  "pinyin": "jié",
+  "meaning_ru": "завязывать; узел",
+  "meaning_en": "to tie; knot",
+  "len_ru": 16,
+  "len_en": 12,
+  "cedict_en": "(of a plant) to produce (fruit or seeds)/Taiwan pr. [jie2]/knot/sturdy/bond/to tie/to bind/to check out (of a hotel)",
+  "dataset_meanings": [
+   "(of a plant) to produce (fruit or seeds)",
+   "Taiwan pr. [jié]",
+   "knot",
+   "sturdy",
+   "bond",
+   "to tie",
+   "to bind",
+   "to check out (of a hotel)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "捆绑",
+     "系领带"
+    ],
+    "note": "结 = tie a knot (general, also: knot as noun); 捆绑 = bind/tie up tightly (restraining a person or bundle); 系领带 = tie a necktie (specific clothing action)"
+   }
+  ]
+ },
+ {
+  "hanzi": "绿色",
+  "pinyin": "lǜsè",
+  "meaning_ru": "зелёный цвет",
+  "meaning_en": "green (color; also eco-friendly)",
+  "len_ru": 12,
+  "len_en": 32,
+  "cedict_en": "green",
+  "dataset_meanings": [
+   "green"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "绿",
+     "青"
+    ],
+    "note": "绿 = green (basic color adjective); 绿色 = green (color noun; also metaphor for eco-friendly); 青 = blue-green (traditional color term, also means young/unripe)"
+   }
+  ]
+ },
+ {
+  "hanzi": "编",
+  "pinyin": "biān",
+  "meaning_ru": "составлять; плести; выдумывать",
+  "meaning_en": "compile; weave; make up",
+  "len_ru": 30,
+  "len_en": 23,
+  "cedict_en": "to weave/to plait/to organize/to group/to arrange/to edit/to compile/to write/to compose/to fabricate/to make up",
+  "dataset_meanings": [
+   "to weave",
+   "to plait",
+   "to organize",
+   "to group",
+   "to arrange",
+   "to edit",
+   "to compile",
+   "to write",
+   "to compose",
+   "to fabricate",
+   "to make up"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "编织",
+     "编辑"
+    ],
+    "note": "编 = weave/compile/make up (broad: stories, baskets, numbers). 编织 = weave/knit (physical interlacing of threads/strands). 编辑 = edit/revise (text, media); also 'editor' (person)."
+   }
+  ]
+ },
+ {
+  "hanzi": "缺",
+  "pinyin": "quē",
+  "meaning_ru": "не хватать; недостаток",
+  "meaning_en": "lack (verb); shortage",
+  "len_ru": 22,
+  "len_en": 21,
+  "cedict_en": "deficiency/lack/scarce/vacant post/to run short of",
+  "dataset_meanings": [
+   "deficiency",
+   "lack",
+   "scarce",
+   "vacant post",
+   "to run short of"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "贫乏"
+    ],
+    "note": "缺 = to lack (verb) or shortage (noun), specific deficit; 贫乏 = scarce/impoverished (adjective), general insufficiency of resources or content."
+   }
+  ]
+ },
+ {
+  "hanzi": "美好",
+  "pinyin": "měihǎo",
+  "meaning_ru": "чудесный; прекрасный",
+  "meaning_en": "wonderful (abstract things)",
+  "len_ru": 20,
+  "len_en": 27,
+  "cedict_en": "beautiful/fine",
+  "dataset_meanings": [
+   "beautiful",
+   "fine"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "美丽",
+     "美"
+    ],
+    "note": "美好 = beautiful/wonderful applied to abstract things (life, future, memories); 美丽 = physically beautiful (appearance); 美 = root adjective (beautiful) or abbreviation for America"
+   }
+  ]
+ },
+ {
+  "hanzi": "美金",
+  "pinyin": "měijīn",
+  "meaning_ru": "доллар США (разг.)",
+  "meaning_en": "US dollar (informal, spoken)",
+  "len_ru": 18,
+  "len_en": 28,
+  "cedict_en": "American dollar; US dollar",
+  "dataset_meanings": [
+   "US dollar",
+   "USD"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "美元"
+    ],
+    "note": "美金 = US dollar (informal/spoken, mainland China); 美元 = US dollar (neutral formal term used in writing and official contexts)"
+   }
+  ]
+ },
+ {
+  "hanzi": "美食",
+  "pinyin": "měishí",
+  "meaning_ru": "вкусная еда; кулинария",
+  "meaning_en": "fine food; cuisine",
+  "len_ru": 22,
+  "len_en": 18,
+  "cedict_en": "culinary delicacy/fine food/gourmet food",
+  "dataset_meanings": [
+   "culinary delicacy",
+   "fine food",
+   "gourmet food"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "佳肴"
+    ],
+    "note": "美食 = fine food/cuisine (everyday word, also used as a category: 美食文化); 佳肴 = delicious dishes (literary/formal, used in toasts or written descriptions)."
+   }
+  ]
+ },
+ {
+  "hanzi": "群体",
+  "pinyin": "qúntǐ",
+  "meaning_ru": "группа; сообщество",
+  "meaning_en": "social group (formal)",
+  "len_ru": 18,
+  "len_en": 21,
+  "cedict_en": "community/colony",
+  "dataset_meanings": [
+   "community",
+   "colony"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "伙",
+     "团"
+    ],
+    "note": "群体 = sociological group/community (formal, written); 伙 = colloquial bunch/gang or partner (informal); 团 = a lump/group (also classifier for lumps/troops)"
+   }
+  ]
+ },
+ {
+  "hanzi": "老头儿",
+  "pinyin": "lǎotóur",
+  "meaning_ru": "старик (разг., фамильярно)",
+  "meaning_en": "old man (colloquial, familiar)",
+  "len_ru": 26,
+  "len_en": 30,
+  "cedict_en": "see 老頭子|老头子[lao3 tou2 zi5]",
+  "dataset_meanings": [
+   "see 老头子"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "老人",
+     "老年",
+     "年纪"
+    ],
+    "note": "老人 = old person (neutral, general); 老头儿 = old man (colloquial, slightly familiar); 老年 = old age (the life stage/period, not a person label); 年纪 = age in years (often of elderly, colloquial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "老家",
+  "pinyin": "lǎojiā",
+  "meaning_ru": "родина (разг., корни семьи)",
+  "meaning_en": "hometown (coll., family roots)",
+  "len_ru": 27,
+  "len_en": 30,
+  "cedict_en": "native place/place of origin/home state or region",
+  "dataset_meanings": [
+   "native place",
+   "place of origin",
+   "home state or region"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "故乡",
+     "家乡"
+    ],
+    "note": "老家 is colloquial 'native hometown' (where family roots are); 家乡 is the everyday spoken word for hometown; 故乡 is literary/formal for native place"
+   }
+  ]
+ },
+ {
+  "hanzi": "老年",
+  "pinyin": "lǎonián",
+  "meaning_ru": "старость; пожилой возраст",
+  "meaning_en": "old age (life stage)",
+  "len_ru": 25,
+  "len_en": 20,
+  "cedict_en": "elderly/old age/autumn of one's years",
+  "dataset_meanings": [
+   "elderly",
+   "old age",
+   "autumn of one's years"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "老人",
+     "老头儿",
+     "年纪"
+    ],
+    "note": "老人 = old person (neutral, general); 老头儿 = old man (colloquial, slightly familiar); 老年 = old age (the life stage/period, not a person label); 年纪 = age in years (often of elderly, colloquial)"
+   }
+  ]
+ },
+ {
+  "hanzi": "老是",
+  "pinyin": "lǎoshì",
+  "meaning_ru": "вечно; всё время (с досадой)",
+  "meaning_en": "always; keeps doing (complaint)",
+  "len_ru": 28,
+  "len_en": 31,
+  "cedict_en": "always",
+  "dataset_meanings": [
+   "always"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "总",
+     "向来",
+     "历来"
+    ],
+    "note": "老是 = colloquial 'always keeps doing' (complaint tone); 总 = general 'always/overall'; 向来 = habitual 'has always been (this way)'; 历来 = historical precedent 'has always been (by tradition)'"
+   }
+  ]
+ },
+ {
+  "hanzi": "职工",
+  "pinyin": "zhígōng",
+  "meaning_ru": "персонал (учрежд., госпредпр.)",
+  "meaning_en": "staff; workers (institution)",
+  "len_ru": 30,
+  "len_en": 28,
+  "cedict_en": "employee; staff member; worker",
+  "dataset_meanings": [
+   "workers; staff"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "员工"
+    ],
+    "note": "职工 = workers/staff of an institution, factory, or state enterprise (collective, official); 员工 (5k) = employees of a company (corporate/modern usage)"
+   },
+   {
+    "with": [
+     "员工",
+     "工人"
+    ],
+    "note": "工人 = blue-collar manual worker; 员工 = collective term for company staff (white- and blue-collar); 职工 = workers and staff of an institution/factory (official/formal, implies employment relationship)."
+   }
+  ]
+ },
+ {
+  "hanzi": "聚",
+  "pinyin": "jù",
+  "meaning_ru": "собираться (люди или вещи)",
+  "meaning_en": "gather (naturally, people/things)",
+  "len_ru": 26,
+  "len_en": 33,
+  "cedict_en": "to assemble; to gather (transitive or intransitive)/(chemistry) poly-",
+  "dataset_meanings": [
+   "to congregate",
+   "to assemble",
+   "to mass",
+   "to gather together",
+   "to amass",
+   "to polymerize"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "收集",
+     "集合",
+     "采集",
+     "收藏"
+    ],
+    "note": "聚 = gather/assemble (people or things, naturally); 集合 = assemble (organised, commanded); 采集 = collect/harvest (specimens, data, natural resources); 收集 = gather/collect (items systematically); 收藏 = collect/keep (for pleasure or preservation — hobby)"
+   }
+  ]
+ },
+ {
+  "hanzi": "肥",
+  "pinyin": "féi",
+  "meaning_ru": "жирный (о животных, одежде)",
+  "meaning_en": "fat (animals/baggy clothes)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "fat/fertile/loose-fitting or large/to fertilize/to become rich by illegal means/fertilizer/manure",
+  "dataset_meanings": [
+   "fat",
+   "fertile",
+   "loose-fitting or large",
+   "to fertilize",
+   "to become rich by illegal means",
+   "fertilizer",
+   "manure"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "胖"
+    ],
+    "note": "胖 = fat/plump (of people); 肥 = fat (of animals, or clothes that are loose/baggy); using 肥 for a person is blunt/pejorative."
+   }
+  ]
+ },
+ {
+  "hanzi": "背后",
+  "pinyin": "bèihòu",
+  "meaning_ru": "сзади; за спиной (втайне)",
+  "meaning_en": "behind; at one's back (fig.)",
+  "len_ru": 25,
+  "len_en": 28,
+  "cedict_en": "behind/at the back/in the rear/behind sb's back",
+  "dataset_meanings": [
+   "behind",
+   "at the back",
+   "in the rear",
+   "behind sb's back"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "后面",
+     "后头",
+     "后"
+    ],
+    "note": "后面 = neutral spatial 'behind'; 背后 = behind s.o.'s back (literal or figurative scheming); 后头 = colloquial synonym of 后面; 后 = particle/literary 'after; behind'"
+   }
+  ]
+ },
+ {
+  "hanzi": "胜",
+  "pinyin": "shèng",
+  "meaning_ru": "победить; превосходить",
+  "meaning_en": "beat (an opponent); surpass",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "victory/success/to beat/to defeat/to surpass/victorious/superior to/to get the better of/better than/surpassing/superb (of vista)/beautiful (scenery)/wonderful (view)/(Taiwan pr. [sheng1]) able to bear/equal to (a task)",
+  "dataset_meanings": [
+   "victory",
+   "success",
+   "to beat",
+   "to defeat",
+   "to surpass",
+   "victorious",
+   "superior to",
+   "to get the better of",
+   "better than",
+   "surpassing",
+   "superb (of vista)",
+   "beautiful (scenery)",
+   "wonderful (view)",
+   "(Taiwan pr. [shēng]) able to bear",
+   "equal to (a task)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "中奖",
+     "获奖",
+     "赢得",
+     "赢",
+     "胜利"
+    ],
+    "note": "中奖 = win a lottery/prize draw (chance); 获奖 = receive a formal award/prize (achievement); 赢得 = win/gain something through effort (takes an object: trust, title); 赢 = simply win a contest/game; 胜 = beat an opponent (verb, also adj 'superior'); 胜利 = victory (noun, often military/political)"
+   }
+  ]
+ },
+ {
+  "hanzi": "胡子",
+  "pinyin": "húzi",
+  "meaning_ru": "борода; усы (разговорное)",
+  "meaning_en": "beard; mustache (colloquial)",
+  "len_ru": 25,
+  "len_en": 28,
+  "cedict_en": "beard/mustache or whiskers/facial hair/CL:撮[zuo3],根[gen1]/(coll.) bandit",
+  "dataset_meanings": [
+   "beard",
+   "mustache or whiskers",
+   "facial hair",
+   "(coll.) bandit"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "胡须"
+    ],
+    "note": "胡子 = beard/mustache (everyday colloquial); 胡须 = beard/whiskers (more formal or written register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "胸部",
+  "pinyin": "xiōngbù",
+  "meaning_ru": "грудь (анатом.)",
+  "meaning_en": "chest (anatomical area)",
+  "len_ru": 15,
+  "len_en": 23,
+  "cedict_en": "chest/bosom",
+  "dataset_meanings": [
+   "chest",
+   "bosom"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "胸",
+     "胸膛"
+    ],
+    "note": "胸 = chest (bare root, used in compounds); 胸部 = chest area (clinical/anatomical, with 部 suffix); 胸膛 = chest/bosom (physical cavity, more literary/vivid)"
+   }
+  ]
+ },
+ {
+  "hanzi": "脑子",
+  "pinyin": "nǎozi",
+  "meaning_ru": "мозг; ум (разг., повседн.)",
+  "meaning_en": "brains; mind (colloquial)",
+  "len_ru": 26,
+  "len_en": 25,
+  "cedict_en": "brains/mind/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "brains",
+   "mind"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大脑",
+     "头脑"
+    ],
+    "note": "大脑 = anatomical brain (cerebrum, medical/scientific); 头脑 = intellect/judgement (figurative, somewhat formal: 头脑清醒); 脑子 = brains/mind in everyday colloquial speech (用脑子想想)."
+   }
+  ]
+ },
+ {
+  "hanzi": "脚步",
+  "pinyin": "jiǎobù",
+  "meaning_ru": "шаг; звук шагов (конкретн.)",
+  "meaning_en": "footstep; the act/sound of steps",
+  "len_ru": 27,
+  "len_en": 32,
+  "cedict_en": "footstep/step",
+  "dataset_meanings": [
+   "footstep",
+   "step"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "步伐"
+    ],
+    "note": "脚步 = footstep (concrete, audible — the sound or act of steps); 步伐 = pace/gait (manner and rhythm of walking, more abstract/formal)."
+   }
+  ]
+ },
+ {
+  "hanzi": "脸色",
+  "pinyin": "liǎnsè",
+  "meaning_ru": "цвет лица; выражение (мимика)",
+  "meaning_en": "complexion; mood-signaling look",
+  "len_ru": 29,
+  "len_en": 31,
+  "cedict_en": "complexion/look",
+  "dataset_meanings": [
+   "complexion",
+   "look"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "气色",
+     "神色",
+     "神情",
+     "表情"
+    ],
+    "note": "脸色 = facial color/complexion or mood-signaling look; 气色 (5k) = overall complexion/vitality; 神色 (5k) = expression/air (more literary); 神情 (5k) = mental/emotional look; 表情 (5k) = facial expression (deliberate/mimicked)"
+   }
+  ]
+ },
+ {
+  "hanzi": "舍得",
+  "pinyin": "shěde",
+  "meaning_ru": "не жалеть; не скупиться",
+  "meaning_en": "to be willing to part with",
+  "len_ru": 23,
+  "len_en": 26,
+  "cedict_en": "to be willing to part with sth",
+  "dataset_meanings": [
+   "to be willing to part with sth"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "舞",
+  "pinyin": "wǔ",
+  "meaning_ru": "танцевать; размахивать (чем-л.)",
+  "meaning_en": "dance; wield/brandish",
+  "len_ru": 31,
+  "len_en": 21,
+  "cedict_en": "to dance/to wield/to brandish",
+  "dataset_meanings": [
+   "to dance",
+   "to wield",
+   "to brandish"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "舞蹈"
+    ],
+    "note": "舞 = dance (verb) / wield/brandish (verb); colloquial. 舞蹈 = dance (noun, art form / choreography); more formal."
+   }
+  ]
+ },
+ {
+  "hanzi": "色",
+  "pinyin": "sè",
+  "meaning_ru": "цвет (корень; в сложн. словах)",
+  "meaning_en": "color (root; in compounds)",
+  "len_ru": 30,
+  "len_en": 26,
+  "cedict_en": "color/CL:種|种[zhong3]/look/appearance/sex/(coll.) color/used in 色子[shai3 zi5]",
+  "dataset_meanings": [
+   "color",
+   "look",
+   "appearance",
+   "sex",
+   "(coll.) color",
+   "used in 子"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "颜色",
+     "色彩"
+    ],
+    "note": "颜色 = color (neutral everyday noun); 色 = color (root morpheme, used in compounds, also literary); 色彩 = color with tonal/figurative nuance (also: flavor, hue in art/rhetoric)"
+   },
+   {
+    "with": [
+     "颜色",
+     "彩色",
+     "色彩"
+    ],
+    "note": "色 is a morpheme/literary noun; 颜色 is the everyday neutral noun for 'color'; 彩色 means 'multicolored/color' as an attribute (彩色电视); 色彩 (5k) is literary/figurative 'hue/flavor'"
+   }
+  ]
+ },
+ {
+  "hanzi": "药物",
+  "pinyin": "yàowù",
+  "meaning_ru": "лекарство; медикамент",
+  "meaning_en": "drug; medication (substance)",
+  "len_ru": 21,
+  "len_en": 28,
+  "cedict_en": "medicaments/pharmaceuticals/medication/medicine/drug",
+  "dataset_meanings": [
+   "medicaments",
+   "pharmaceuticals",
+   "medication",
+   "medicine",
+   "drug"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "医学"
+    ],
+    "note": "药物 = a drug or medication (the substance); 医学 = medicine as a scientific field of study — both translate to 'medicine' in English"
+   }
+  ]
+ },
+ {
+  "hanzi": "获取",
+  "pinyin": "huòqǔ",
+  "meaning_ru": "добывать, извлекать",
+  "meaning_en": "acquire (actively fetch)",
+  "len_ru": 19,
+  "len_en": 24,
+  "cedict_en": "to gain; to get; to acquire",
+  "dataset_meanings": [
+   "to gain; to get; to acquire"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "获得"
+    ],
+    "note": "获取 = actively fetch/acquire (information, data, resources — process-focused); 获得 = obtain a result or achievement (outcome-focused, slightly more formal)"
+   }
+  ]
+ },
+ {
+  "hanzi": "获奖",
+  "pinyin": "huòjiǎng",
+  "meaning_ru": "получить награду (за заслуги)",
+  "meaning_en": "win an award (by merit)",
+  "len_ru": 29,
+  "len_en": 23,
+  "cedict_en": "to win an award",
+  "dataset_meanings": [
+   "to win an award"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "中奖",
+     "赢"
+    ],
+    "note": "中奖 = win by chance (lottery, lucky draw); 获奖 = receive a merit-based award/prize; 赢 = win (competition, game — broadest)"
+   },
+   {
+    "with": [
+     "中奖",
+     "赢得",
+     "胜",
+     "赢",
+     "胜利"
+    ],
+    "note": "中奖 = win a lottery/prize draw (chance); 获奖 = receive a formal award/prize (achievement); 赢得 = win/gain something through effort (takes an object: trust, title); 赢 = simply win a contest/game; 胜 = beat an opponent (verb, also adj 'superior'); 胜利 = victory (noun, often military/political)"
+   }
+  ]
+ },
+ {
+  "hanzi": "蓝色",
+  "pinyin": "lánsè",
+  "meaning_ru": "синий (цвет-сущ.)",
+  "meaning_en": "blue (as a color noun)",
+  "len_ru": 17,
+  "len_en": 22,
+  "cedict_en": "blue (color)",
+  "dataset_meanings": [
+   "blue (color)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "蓝",
+     "青"
+    ],
+    "note": "蓝色 = blue as color noun; 蓝 = standard blue adjective; 青 = blue-green/cyan (traditional color term, also means 'young')"
+   }
+  ]
+ },
+ {
+  "hanzi": "虫子",
+  "pinyin": "chóngzi",
+  "meaning_ru": "букашка; червяк (разг.)",
+  "meaning_en": "bug; worm (colloquial)",
+  "len_ru": 23,
+  "len_en": 22,
+  "cedict_en": "insect/bug/worm/CL:條|条[tiao2],隻|只[zhi1]",
+  "dataset_meanings": [
+   "insect",
+   "bug",
+   "worm"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "昆虫"
+    ],
+    "note": "Both translate as 'insect'. 昆虫 is the scientific/formal term (true insects only); 虫子 is colloquial and broader — covers bugs, worms, caterpillars, and any crawling creature."
+   }
+  ]
+ },
+ {
+  "hanzi": "行驶",
+  "pinyin": "xíngshǐ",
+  "meaning_ru": "ехать; двигаться (о транспорте)",
+  "meaning_en": "to drive; travel (vehicle)",
+  "len_ru": 31,
+  "len_en": 26,
+  "cedict_en": "to travel along a route (of vehicles etc)",
+  "dataset_meanings": [
+   "to travel along a route (of vehicles etc)"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "补",
+  "pinyin": "bǔ",
+  "meaning_ru": "чинить; восполнять",
+  "meaning_en": "patch; make up for (fig.)",
+  "len_ru": 18,
+  "len_en": 25,
+  "cedict_en": "to repair/to patch/to mend/to make up for/to fill (a vacancy)/to supplement",
+  "dataset_meanings": [
+   "to repair",
+   "to patch",
+   "to mend",
+   "to make up for",
+   "to fill (a vacancy)",
+   "to supplement"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "修",
+     "修复",
+     "修理"
+    ],
+    "note": "补 = patch/mend or make up for (also figurative:补缺); 修 = repair (colloquial, general); 修理 = fix a specific broken object (hands-on); 修复 = restore damaged or destroyed items (includes digital/ecological)."
+   }
+  ]
+ },
+ {
+  "hanzi": "衬衣",
+  "pinyin": "chènyī",
+  "meaning_ru": "рубашка (разг., общее)",
+  "meaning_en": "shirt (colloquial, generic)",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "shirt/CL:件[jian4]",
+  "dataset_meanings": [
+   "shirt"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "衬衫"
+    ],
+    "note": "衬衣 = shirt (colloquial, generic); 衬衫 = shirt/blouse (slightly more formal, can refer to both men's shirts and women's blouses)."
+   }
+  ]
+ },
+ {
+  "hanzi": "装修",
+  "pinyin": "zhuāngxiū",
+  "meaning_ru": "ремонт и отделка (строит.)",
+  "meaning_en": "renovate (construction work)",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "to decorate/interior decoration/to fit up/to renovate",
+  "dataset_meanings": [
+   "to decorate",
+   "interior decoration",
+   "to fit up",
+   "to renovate"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "装饰"
+    ],
+    "note": "装修 = renovate/fit out a building (construction work); 装饰 = decorate with ornaments (aesthetic embellishment, no structural work)"
+   }
+  ]
+ },
+ {
+  "hanzi": "西部",
+  "pinyin": "xībù",
+  "meaning_ru": "западная часть (региона)",
+  "meaning_en": "western part (region/country)",
+  "len_ru": 24,
+  "len_en": 29,
+  "cedict_en": "western part",
+  "dataset_meanings": [
+   "western part"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "西方"
+    ],
+    "note": "西部 = the western part/region (geographic section of a country or area); 西方 = the West (civilizational/cultural concept; also used in religion)"
+   }
+  ]
+ },
+ {
+  "hanzi": "西餐",
+  "pinyin": "xīcān",
+  "meaning_ru": "западная кухня",
+  "meaning_en": "Western food",
+  "len_ru": 14,
+  "len_en": 12,
+  "cedict_en": "Western-style food/CL:份[fen4],頓|顿[dun4]",
+  "dataset_meanings": [
+   "Western-style food"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "观看",
+  "pinyin": "guānkàn",
+  "meaning_ru": "смотреть (шоу, матч, зрелище)",
+  "meaning_en": "watch (show/match/performance)",
+  "len_ru": 29,
+  "len_en": 30,
+  "cedict_en": "to watch; to view",
+  "dataset_meanings": [
+   "to watch; to view"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "观察"
+    ],
+    "note": "观看 = watch/view (entertainment, a performance, screen); 观察 = observe/study (with attention, scientific or investigative)"
+   }
+  ]
+ },
+ {
+  "hanzi": "视为",
+  "pinyin": "shìwéi",
+  "meaning_ru": "рассматривать как (книжн.)",
+  "meaning_en": "regard as (formal/written)",
+  "len_ru": 26,
+  "len_en": 26,
+  "cedict_en": "to view as/to see as/to consider to be/to deem",
+  "dataset_meanings": [
+   "to view as",
+   "to see as",
+   "to consider to be",
+   "to deem"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "看成",
+     "看待",
+     "认为"
+    ],
+    "note": "看成/视为 = regard X as Y (equating two things); 视为 is more formal/written; 看待 = treat/view (attitude toward something); 认为 = hold an opinion, think that"
+   }
+  ]
+ },
+ {
+  "hanzi": "言语",
+  "pinyin": "yányǔ",
+  "meaning_ru": "речь; слова (сущ.)",
+  "meaning_en": "speech; words (compound noun)",
+  "len_ru": 18,
+  "len_en": 29,
+  "cedict_en": "words/speech/(spoken) language/to speak/to tell",
+  "dataset_meanings": [
+   "words",
+   "speech",
+   "(spoken) language",
+   "to speak",
+   "to tell"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "言",
+     "语"
+    ],
+    "note": "言语 = speech/words as a compound noun (everyday or formal); 言 (5k) = literary bound morpheme for words/speech; 语 (5k) = literary bound morpheme for language/utterance"
+   }
+  ]
+ },
+ {
+  "hanzi": "认",
+  "pinyin": "rèn",
+  "meaning_ru": "узнавать; признавать (базов. гл.)",
+  "meaning_en": "recognize; admit (base verb)",
+  "len_ru": 33,
+  "len_en": 28,
+  "cedict_en": "to recognize/to know/to admit",
+  "dataset_meanings": [
+   "to recognize",
+   "to know",
+   "to admit"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "认出",
+     "识别",
+     "辨认",
+     "承认"
+    ],
+    "note": "认出 = recognize a known person/thing on sight; 认 = recognize or admit (broad base verb); 识别 = identify by category/system; 辨认 = identify by careful scrutiny; 承认 = admit/acknowledge (a fact, guilt)"
+   }
+  ]
+ },
+ {
+  "hanzi": "认出",
+  "pinyin": "rènchū",
+  "meaning_ru": "узнать с первого взгляда",
+  "meaning_en": "recognize on sight",
+  "len_ru": 24,
+  "len_en": 18,
+  "cedict_en": "recognition/to recognize",
+  "dataset_meanings": [
+   "recognition",
+   "to recognize"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "认",
+     "识别",
+     "辨认",
+     "承认"
+    ],
+    "note": "认出 = recognize a known person/thing on sight; 认 = recognize or admit (broad base verb); 识别 = identify by category/system; 辨认 = identify by careful scrutiny; 承认 = admit/acknowledge (a fact, guilt)"
+   }
+  ]
+ },
+ {
+  "hanzi": "记住",
+  "pinyin": "jìzhu",
+  "meaning_ru": "запомнить (целенаправленно)",
+  "meaning_en": "memorize; commit to memory",
+  "len_ru": 27,
+  "len_en": 26,
+  "cedict_en": "to remember/to bear in mind/to learn by heart",
+  "dataset_meanings": [
+   "to remember",
+   "to bear in mind",
+   "to learn by heart"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "想起",
+     "想到",
+     "记忆"
+    ],
+    "note": "记住 = commit to memory (active memorizing); 想起 = recall something previously forgotten; 想到 = think of/realize (may be spontaneous); 记忆 = memory as faculty or stored recollection (noun/verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "讲话",
+  "pinyin": "jiǎnghuà",
+  "meaning_ru": "говорить; произносить речь",
+  "meaning_en": "speak; give a speech",
+  "len_ru": 26,
+  "len_en": 20,
+  "cedict_en": "a speech/to speak/to talk/to address/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "a speech",
+   "to speak",
+   "to talk",
+   "to address"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "讲",
+     "发言"
+    ],
+    "note": "讲 = speak/explain (general, any register); 讲话 = speak or give a speech (semi-formal, implies a speech act); 发言 = make a public statement or address (formal/institutional)"
+   }
+  ]
+ },
+ {
+  "hanzi": "证",
+  "pinyin": "zhèng",
+  "meaning_ru": "удостоверение; доказывать",
+  "meaning_en": "ID card; pass; to certify",
+  "len_ru": 25,
+  "len_en": 25,
+  "cedict_en": "to admonish/variant of 證|证[zheng4]/certificate/proof/to prove/to demonstrate/to confirm/variant of 症[zheng4]",
+  "dataset_meanings": [
+   "to admonish",
+   "variant of 证",
+   "certificate",
+   "proof",
+   "to prove",
+   "to demonstrate",
+   "to confirm",
+   "variant of 症"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "证明",
+     "证书"
+    ],
+    "note": "证 = an ID document or pass (身份证); also a bound morpheme 'to certify'; 证明 = to prove something / a letter of proof (less formal document); 证书 = a formal certificate, diploma, or credentials."
+   }
+  ]
+ },
+ {
+  "hanzi": "诗歌",
+  "pinyin": "shīgē",
+  "meaning_ru": "поэзия (жанр, собир.)",
+  "meaning_en": "poetry (genre, collective)",
+  "len_ru": 21,
+  "len_en": 26,
+  "cedict_en": "poem/CL:本[ben3],首[shou3],段[duan4]",
+  "dataset_meanings": [
+   "poem"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "诗"
+    ],
+    "note": "诗 = poem or poetry (single work or the art); 诗歌 = poetry as a genre/collective term (slightly more formal)"
+   }
+  ]
+ },
+ {
+  "hanzi": "诚信",
+  "pinyin": "chéngxìn",
+  "meaning_ru": "честность; порядочность",
+  "meaning_en": "integrity; honesty (character)",
+  "len_ru": 23,
+  "len_en": 30,
+  "cedict_en": "honesty; trustworthiness; good faith",
+  "dataset_meanings": [
+   "genuine",
+   "honest",
+   "in good faith",
+   "honesty",
+   "integrity"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "名誉"
+    ],
+    "note": "诚信 is an internal quality — honesty and integrity as character; 名誉 is one's external reputation / good name as perceived by others"
+   }
+  ]
+ },
+ {
+  "hanzi": "语音",
+  "pinyin": "yǔyīn",
+  "meaning_ru": "звуки речи; голосовое сообщ.",
+  "meaning_en": "speech sounds; voice msg",
+  "len_ru": 28,
+  "len_en": 24,
+  "cedict_en": "speech sounds/pronunciation/colloquial (rather than literary) pronunciation of a Chinese character/phonetic/audio/voice/(Internet) to voice chat/voice message",
+  "dataset_meanings": [
+   "speech sounds",
+   "pronunciation",
+   "colloquial (rather than literary) pronunciation of a Chinese character",
+   "phonetic",
+   "audio",
+   "voice",
+   "(Internet) to voice chat",
+   "voice message"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "读音",
+     "口音"
+    ],
+    "note": "读音 = pronunciation of a specific character/word (how to read it); 语音 = speech sounds broadly, or voice (tech: voice message); 口音 = regional accent/speech flavor"
+   }
+  ]
+ },
+ {
+  "hanzi": "读书",
+  "pinyin": "dúshū",
+  "meaning_ru": "читать; учиться (разговорн.)",
+  "meaning_en": "read; study (colloquial)",
+  "len_ru": 28,
+  "len_en": 24,
+  "cedict_en": "to read a book/to study/to attend school",
+  "dataset_meanings": [
+   "to read a book",
+   "to study",
+   "to attend school"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "阅读",
+     "朗读",
+     "念"
+    ],
+    "note": "读书 = read/study broadly (colloquial, often = attend school); 阅读 = read silently (formal, written texts); 朗读 = read aloud expressively; 念 = recite or read aloud (casual)"
+   }
+  ]
+ },
+ {
+  "hanzi": "读音",
+  "pinyin": "dúyīn",
+  "meaning_ru": "произношение знака/слова",
+  "meaning_en": "pronunciation (char/word)",
+  "len_ru": 24,
+  "len_en": 25,
+  "cedict_en": "pronunciation/literary (rather than colloquial) pronunciation of a Chinese character",
+  "dataset_meanings": [
+   "pronunciation",
+   "literary (rather than colloquial) pronunciation of a Chinese character"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "语音",
+     "口音"
+    ],
+    "note": "读音 = pronunciation of a specific character/word (how to read it); 语音 = speech sounds broadly, or voice (tech: voice message); 口音 = regional accent/speech flavor"
+   }
+  ]
+ },
+ {
+  "hanzi": "课堂",
+  "pinyin": "kètáng",
+  "meaning_ru": "класс; урок (пространство)",
+  "meaning_en": "classroom; lesson session",
+  "len_ru": 26,
+  "len_en": 25,
+  "cedict_en": "classroom (CL:間|间[jian1]); class session",
+  "dataset_meanings": [
+   "classroom"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "班级"
+    ],
+    "note": "班级 = class as an administrative unit (the homeroom group); 课堂 = classroom/class as the instructional space or session"
+   }
+  ]
+ }
+]

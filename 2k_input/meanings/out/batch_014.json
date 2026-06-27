@@ -1,0 +1,145 @@
+[
+ {
+  "hanzi": "全体",
+  "pinyin": "quántǐ",
+  "meaning_ru": "весь; все; в полном составе",
+  "meaning_en": "all; entire; everyone",
+  "semantic_tags": [
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "熟",
+  "pinyin": "shú",
+  "meaning_ru": "спелый; готовый; знакомый",
+  "meaning_en": "ripe; cooked; familiar",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "小时候",
+  "pinyin": "xiǎoshíhou",
+  "meaning_ru": "в детстве",
+  "meaning_en": "in childhood",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "全身",
+  "pinyin": "quánshēn",
+  "meaning_ru": "всё тело",
+  "meaning_en": "whole body",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "咱",
+  "pinyin": "zán",
+  "meaning_ru": "мы (с тобой); я",
+  "meaning_en": "we (incl. you); I",
+  "semantic_tags": [
+   "pronoun"
+  ]
+ },
+ {
+  "hanzi": "平安",
+  "pinyin": "píngʼān",
+  "meaning_ru": "благополучный; цел и невредим",
+  "meaning_en": "safe and sound",
+  "semantic_tags": [
+   "manner_state",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "队长",
+  "pinyin": "duìzhǎng",
+  "meaning_ru": "капитан; командир",
+  "meaning_en": "captain; team leader",
+  "semantic_tags": [
+   "occupation",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "南方",
+  "pinyin": "nánfāng",
+  "meaning_ru": "юг; южные районы",
+  "meaning_en": "south; the South",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ]
+ },
+ {
+  "hanzi": "停车",
+  "pinyin": "tíngchē",
+  "meaning_ru": "парковаться; остановить машину",
+  "meaning_en": "to park; to stop a car",
+  "semantic_tags": [
+   "transport_travel",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "好人",
+  "pinyin": "hǎorén",
+  "meaning_ru": "хороший человек",
+  "meaning_en": "good person",
+  "semantic_tags": [
+   "person",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "大声",
+  "pinyin": "dàshēng",
+  "meaning_ru": "громко; в полный голос",
+  "meaning_en": "loud; loudly",
+  "semantic_tags": [
+   "manner_adverb",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "分开",
+  "pinyin": "fēnkāi",
+  "meaning_ru": "разделять; расставаться",
+  "meaning_en": "to separate; to part",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "相机",
+  "pinyin": "xiàngjī",
+  "meaning_ru": "фотоаппарат; камера",
+  "meaning_en": "camera",
+  "semantic_tags": [
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "今后",
+  "pinyin": "jīnhòu",
+  "meaning_ru": "впредь; в дальнейшем",
+  "meaning_en": "from now on; henceforth",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "这时",
+  "pinyin": "zhèshí",
+  "meaning_ru": "в это время; в этот момент",
+  "meaning_en": "at this moment",
+  "semantic_tags": [
+   "time_word"
+  ]
+ }
+]

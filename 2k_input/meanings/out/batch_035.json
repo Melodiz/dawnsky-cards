@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "电子邮件",
+  "pinyin": "diànzǐyóujiàn",
+  "meaning_ru": "электронная почта",
+  "meaning_en": "email",
+  "semantic_tags": [
+   "communication_formal",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "衬衣",
+  "pinyin": "chènyī",
+  "meaning_ru": "рубашка; сорочка",
+  "meaning_en": "shirt",
+  "semantic_tags": [
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "班级",
+  "pinyin": "bānjí",
+  "meaning_ru": "класс (в школе)",
+  "meaning_en": "class; grade",
+  "semantic_tags": [
+   "education"
+  ]
+ },
+ {
+  "hanzi": "现代化",
+  "pinyin": "xiàndàihuà",
+  "meaning_ru": "модернизация",
+  "meaning_en": "modernization",
+  "semantic_tags": [
+   "process_change",
+   "society_public"
+  ]
+ },
+ {
+  "hanzi": "旅行社",
+  "pinyin": "lǚxíngshè",
+  "meaning_ru": "турагентство",
+  "meaning_en": "travel agency",
+  "semantic_tags": [
+   "transport_travel",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "话剧",
+  "pinyin": "huàjù",
+  "meaning_ru": "драма; спектакль",
+  "meaning_en": "stage play; drama",
+  "semantic_tags": [
+   "art",
+   "culture"
+  ]
+ },
+ {
+  "hanzi": "沙子",
+  "pinyin": "shāzi",
+  "meaning_ru": "песок",
+  "meaning_en": "sand",
+  "semantic_tags": [
+   "material_substance",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "分组",
+  "pinyin": "fēnzǔ",
+  "meaning_ru": "делить на группы",
+  "meaning_en": "divide into groups",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "年底",
+  "pinyin": "niándǐ",
+  "meaning_ru": "конец года",
+  "meaning_en": "year-end",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "带动",
+  "pinyin": "dàidòng",
+  "meaning_ru": "побуждать; двигать",
+  "meaning_en": "to spur; to drive",
+  "semantic_tags": [
+   "cause_effect",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "交警",
+  "pinyin": "jiāojǐng",
+  "meaning_ru": "дорожная полиция",
+  "meaning_en": "traffic police",
+  "semantic_tags": [
+   "occupation",
+   "law_admin_doc"
+  ]
+ },
+ {
+  "hanzi": "代表团",
+  "pinyin": "dàibiǎotuán",
+  "meaning_ru": "делегация",
+  "meaning_en": "delegation",
+  "semantic_tags": [
+   "politics_government",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "影视",
+  "pinyin": "yǐngshì",
+  "meaning_ru": "кино и ТВ",
+  "meaning_en": "film and television",
+  "semantic_tags": [
+   "art",
+   "media_news"
+  ]
+ },
+ {
+  "hanzi": "国庆",
+  "pinyin": "guóqìng",
+  "meaning_ru": "День образования КНР",
+  "meaning_en": "National Day",
+  "semantic_tags": [
+   "date",
+   "politics_government"
+  ]
+ },
+ {
+  "hanzi": "所长",
+  "pinyin": "suǒzhǎng",
+  "meaning_ru": "директор (института)",
+  "meaning_en": "head of an institute",
+  "semantic_tags": [
+   "occupation",
+   "work_career"
+  ]
+ }
+]

@@ -1,0 +1,144 @@
+[
+ {
+  "hanzi": "关机",
+  "pinyin": "guānjī",
+  "meaning_ru": "выключить (устройство)",
+  "meaning_en": "turn off; power off",
+  "semantic_tags": [
+   "action_daily",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "晴",
+  "pinyin": "qíng",
+  "meaning_ru": "ясный, солнечный",
+  "meaning_en": "clear, sunny (weather)",
+  "semantic_tags": [
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "班长",
+  "pinyin": "bānzhǎng",
+  "meaning_ru": "староста класса",
+  "meaning_en": "class monitor",
+  "semantic_tags": [
+   "education",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "常用",
+  "pinyin": "chángyòng",
+  "meaning_ru": "часто употребляемый",
+  "meaning_en": "commonly used",
+  "semantic_tags": [
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "里头",
+  "pinyin": "lǐtou",
+  "meaning_ru": "внутри",
+  "meaning_en": "inside",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "日报",
+  "pinyin": "rìbào",
+  "meaning_ru": "ежедневная газета",
+  "meaning_en": "daily newspaper",
+  "semantic_tags": [
+   "media_news"
+  ]
+ },
+ {
+  "hanzi": "开学",
+  "pinyin": "kāixué",
+  "meaning_ru": "начало учёбы",
+  "meaning_en": "start of term",
+  "semantic_tags": [
+   "education",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "走进",
+  "pinyin": "zǒujìn",
+  "meaning_ru": "войти, зайти",
+  "meaning_en": "to step into",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "体育场",
+  "pinyin": "tǐyùchǎng",
+  "meaning_ru": "стадион",
+  "meaning_en": "stadium",
+  "semantic_tags": [
+   "building",
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "组长",
+  "pinyin": "zǔzhǎng",
+  "meaning_ru": "руководитель группы",
+  "meaning_en": "group leader",
+  "semantic_tags": [
+   "person",
+   "work_career"
+  ]
+ },
+ {
+  "hanzi": "东南",
+  "pinyin": "dōngnán",
+  "meaning_ru": "юго-восток",
+  "meaning_en": "southeast",
+  "semantic_tags": [
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "有点儿",
+  "pinyin": "yǒudiǎnr",
+  "meaning_ru": "немного, чуть-чуть",
+  "meaning_en": "a little; somewhat",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "地铁站",
+  "pinyin": "dìtiězhàn",
+  "meaning_ru": "станция метро",
+  "meaning_en": "subway station",
+  "semantic_tags": [
+   "transport_travel",
+   "place"
+  ]
+ },
+ {
+  "hanzi": "快餐",
+  "pinyin": "kuàicān",
+  "meaning_ru": "фастфуд",
+  "meaning_en": "fast food",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "站住",
+  "pinyin": "zhànzhù",
+  "meaning_ru": "стой!; остановиться",
+  "meaning_en": "stop!; halt",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ }
+]

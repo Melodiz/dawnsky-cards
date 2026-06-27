@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "药物",
+  "pinyin": "yàowù",
+  "meaning_ru": "лекарство; медикамент",
+  "meaning_en": "medicine; drug",
+  "semantic_tags": [
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "冰",
+  "pinyin": "bīng",
+  "meaning_ru": "лёд",
+  "meaning_en": "ice",
+  "semantic_tags": [
+   "nature",
+   "material_substance"
+  ]
+ },
+ {
+  "hanzi": "结",
+  "pinyin": "jiē",
+  "meaning_ru": "завязывать; узел",
+  "meaning_en": "to tie; knot",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "烦",
+  "pinyin": "fán",
+  "meaning_ru": "раздражаться; досаждать",
+  "meaning_en": "annoyed; to bother",
+  "semantic_tags": [
+   "emotion"
+  ]
+ },
+ {
+  "hanzi": "付出",
+  "pinyin": "fùchū",
+  "meaning_ru": "вкладывать; отдавать",
+  "meaning_en": "to give; to pay",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "透",
+  "pinyin": "tòu",
+  "meaning_ru": "проникать; насквозь",
+  "meaning_en": "penetrate; thoroughly",
+  "semantic_tags": [
+   "physical_action",
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "治",
+  "pinyin": "zhì",
+  "meaning_ru": "лечить; управлять",
+  "meaning_en": "to treat; to govern",
+  "semantic_tags": [
+   "health_medical",
+   "politics_government"
+  ]
+ },
+ {
+  "hanzi": "闹",
+  "pinyin": "nào",
+  "meaning_ru": "шуметь; буянить",
+  "meaning_en": "to make noise; to fuss",
+  "semantic_tags": [
+   "action_communication",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "检测",
+  "pinyin": "jiǎncè",
+  "meaning_ru": "проверять; тестировать",
+  "meaning_en": "to test; to detect",
+  "semantic_tags": [
+   "science_research",
+   "action_learning"
+  ]
+ },
+ {
+  "hanzi": "列",
+  "pinyin": "liè",
+  "meaning_ru": "ряд; перечислять",
+  "meaning_en": "row; to list",
+  "semantic_tags": [
+   "shape_form",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "户",
+  "pinyin": "hù",
+  "meaning_ru": "двор; семья (счётн.)",
+  "meaning_en": "household; door",
+  "semantic_tags": [
+   "family",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "归",
+  "pinyin": "guī",
+  "meaning_ru": "возвращаться; принадлежать",
+  "meaning_en": "to return; belong to",
+  "semantic_tags": [
+   "action_movement",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "挑",
+  "pinyin": "tiāo",
+  "meaning_ru": "выбирать; отбирать",
+  "meaning_en": "to pick; to choose",
+  "semantic_tags": [
+   "action_daily",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "老公",
+  "pinyin": "lǎogōng",
+  "meaning_ru": "муж (разг.)",
+  "meaning_en": "husband (coll.)",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "吸",
+  "pinyin": "xī",
+  "meaning_ru": "вдыхать; всасывать",
+  "meaning_en": "to inhale; to absorb",
+  "semantic_tags": [
+   "body_state",
+   "physical_action"
+  ]
+ }
+]

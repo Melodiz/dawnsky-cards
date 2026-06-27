@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "签名",
+  "pinyin": "qiānmíng",
+  "meaning_ru": "подпись; расписаться",
+  "meaning_en": "signature; to sign",
+  "semantic_tags": [
+   "action_communication",
+   "law_admin_doc"
+  ]
+ },
+ {
+  "hanzi": "偶像",
+  "pinyin": "ǒuxiàng",
+  "meaning_ru": "кумир; идол",
+  "meaning_en": "idol",
+  "semantic_tags": [
+   "person",
+   "culture"
+  ]
+ },
+ {
+  "hanzi": "认",
+  "pinyin": "rèn",
+  "meaning_ru": "узнавать; признавать",
+  "meaning_en": "to recognize; to admit",
+  "semantic_tags": [
+   "cognition",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "在场",
+  "pinyin": "zàichǎng",
+  "meaning_ru": "присутствовать",
+  "meaning_en": "to be present",
+  "semantic_tags": [
+   "event_situation",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "鼠",
+  "pinyin": "shǔ",
+  "meaning_ru": "крыса; мышь",
+  "meaning_en": "rat; mouse",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "乘客",
+  "pinyin": "chéngkè",
+  "meaning_ru": "пассажир",
+  "meaning_en": "passenger",
+  "semantic_tags": [
+   "person",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "专辑",
+  "pinyin": "zhuānjí",
+  "meaning_ru": "альбом (муз.)",
+  "meaning_en": "album (music)",
+  "semantic_tags": [
+   "art",
+   "media_news"
+  ]
+ },
+ {
+  "hanzi": "虎",
+  "pinyin": "hǔ",
+  "meaning_ru": "тигр",
+  "meaning_en": "tiger",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "喷",
+  "pinyin": "pēn",
+  "meaning_ru": "брызгать; распылять",
+  "meaning_en": "to spray; to spurt",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "靠近",
+  "pinyin": "kàojìn",
+  "meaning_ru": "приближаться к",
+  "meaning_en": "to approach; near",
+  "semantic_tags": [
+   "action_movement",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "罚",
+  "pinyin": "fá",
+  "meaning_ru": "наказывать; штрафовать",
+  "meaning_en": "to punish; to fine",
+  "semantic_tags": [
+   "law_justice",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "空中",
+  "pinyin": "kōngzhōng",
+  "meaning_ru": "в воздухе; в небе",
+  "meaning_en": "in the air; in the sky",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "连接",
+  "pinyin": "liánjiē",
+  "meaning_ru": "соединять; связывать",
+  "meaning_en": "to link; to connect",
+  "semantic_tags": [
+   "action_daily",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "此时",
+  "pinyin": "cǐshí",
+  "meaning_ru": "в этот момент; сейчас",
+  "meaning_en": "now; this moment",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "画面",
+  "pinyin": "huàmiàn",
+  "meaning_ru": "изображение; кадр",
+  "meaning_en": "picture; frame; screen",
+  "semantic_tags": [
+   "art",
+   "object_tech"
+  ]
+ }
+]

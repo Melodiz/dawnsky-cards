@@ -1,0 +1,948 @@
+[
+ {
+  "hanzi": "等到",
+  "pinyin": "děngdào",
+  "meaning_ru": "дождаться; когда",
+  "meaning_en": "wait until; by the time",
+  "semantic_tags": [
+   "time_word",
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to wait until/by the time when (sth is ready etc)",
+  "dataset_meanings": [
+   "to wait until",
+   "by the time when (sth is ready etc)"
+  ]
+ },
+ {
+  "hanzi": "球场",
+  "pinyin": "qiúchǎng",
+  "meaning_ru": "спортплощадка; корт",
+  "meaning_en": "sports field; court",
+  "semantic_tags": [
+   "sport",
+   "place"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "stadium/sports ground/court/pitch/field/golf course/CL:個|个[ge4],處|处[chu4]",
+  "dataset_meanings": [
+   "stadium",
+   "sports ground",
+   "court",
+   "pitch",
+   "field",
+   "golf course"
+  ]
+ },
+ {
+  "hanzi": "住院",
+  "pinyin": "zhùyuàn",
+  "meaning_ru": "лечь в больницу",
+  "meaning_en": "be hospitalized",
+  "semantic_tags": [
+   "health_medical",
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to stay in hospital; to be hospitalized",
+  "dataset_meanings": [
+   "to be in hospital",
+   "to be hospitalized"
+  ]
+ },
+ {
+  "hanzi": "椅子",
+  "pinyin": "yǐzi",
+  "meaning_ru": "стул",
+  "meaning_en": "chair",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "chair/CL:把[ba3],張|张[zhang1]",
+  "dataset_meanings": [
+   "chair"
+  ]
+ },
+ {
+  "hanzi": "游客",
+  "pinyin": "yóukè",
+  "meaning_ru": "турист",
+  "meaning_en": "tourist; visitor",
+  "semantic_tags": [
+   "person",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "traveler; tourist/(online gaming) guest player",
+  "dataset_meanings": [
+   "traveler",
+   "tourist",
+   "(online gaming) guest player"
+  ]
+ },
+ {
+  "hanzi": "拿到",
+  "pinyin": "nádào",
+  "meaning_ru": "получить; достать",
+  "meaning_en": "get; obtain",
+  "semantic_tags": [
+   "action_daily",
+   "physical_action"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to get/to obtain",
+  "dataset_meanings": [
+   "to get",
+   "to obtain"
+  ]
+ },
+ {
+  "hanzi": "全家",
+  "pinyin": "quánjiā",
+  "meaning_ru": "вся семья",
+  "meaning_en": "whole family",
+  "semantic_tags": [
+   "family"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "FamilyMart (convenience store chain)/whole family",
+  "dataset_meanings": [
+   "whole family"
+  ]
+ },
+ {
+  "hanzi": "从小",
+  "pinyin": "cóngxiǎo",
+  "meaning_ru": "с детства",
+  "meaning_en": "from childhood",
+  "semantic_tags": [
+   "time_word",
+   "manner_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "from childhood; from a young age",
+  "dataset_meanings": [
+   "from childhood",
+   "from a young age"
+  ]
+ },
+ {
+  "hanzi": "公斤",
+  "pinyin": "gōngjīn",
+  "meaning_ru": "килограмм",
+  "meaning_en": "kilogram",
+  "semantic_tags": [
+   "measurement",
+   "quantity"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "kilogram (kg)",
+  "dataset_meanings": [
+   "kilogram (kg)"
+  ]
+ },
+ {
+  "hanzi": "星星",
+  "pinyin": "xīngxing",
+  "meaning_ru": "звезда (разг.)",
+  "meaning_en": "star (in the sky)",
+  "semantic_tags": [
+   "nature"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "(coll.) a star; the stars in the sky",
+  "dataset_meanings": [
+   "(coll.) a star; the stars in the sky"
+  ]
+ },
+ {
+  "hanzi": "不满",
+  "pinyin": "bùmǎn",
+  "meaning_ru": "недовольный",
+  "meaning_en": "dissatisfied; discontent",
+  "semantic_tags": [
+   "emotion",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "dissatisfied; discontented; resentful/(before a number) to be less than",
+  "dataset_meanings": [
+   "resentful",
+   "discontented",
+   "dissatisfied"
+  ]
+ },
+ {
+  "hanzi": "例子",
+  "pinyin": "lìzi",
+  "meaning_ru": "пример",
+  "meaning_en": "example; instance",
+  "semantic_tags": [
+   "cognition",
+   "abstract_relation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "case/(for) instance/example/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "case",
+   "(for) instance",
+   "example"
+  ]
+ },
+ {
+  "hanzi": "快要",
+  "pinyin": "kuàiyào",
+  "meaning_ru": "вот-вот; скоро",
+  "meaning_en": "about to; soon",
+  "semantic_tags": [
+   "time_word",
+   "degree_adverb"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "nearly at the point of (doing sth); about to (do sth)",
+  "dataset_meanings": [
+   "nearly at the point of (doing sth); about to (do sth)"
+  ]
+ },
+ {
+  "hanzi": "常见",
+  "pinyin": "chángjiàn",
+  "meaning_ru": "распространённый",
+  "meaning_en": "common; commonly seen",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "commonly seen/common/to see sth frequently",
+  "dataset_meanings": [
+   "commonly seen",
+   "common",
+   "to see sth frequently"
+  ]
+ },
+ {
+  "hanzi": "商人",
+  "pinyin": "shāngrén",
+  "meaning_ru": "торговец; бизнесмен",
+  "meaning_en": "merchant; businessman",
+  "semantic_tags": [
+   "person",
+   "occupation",
+   "commerce_trade"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "merchant/businessman",
+  "dataset_meanings": [
+   "merchant",
+   "businessman"
+  ]
+ },
+ {
+  "hanzi": "走过",
+  "pinyin": "zǒuguò",
+  "meaning_ru": "пройти мимо",
+  "meaning_en": "to walk past",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to walk past/to pass by",
+  "dataset_meanings": [
+   "to walk past",
+   "to pass by"
+  ]
+ },
+ {
+  "hanzi": "得出",
+  "pinyin": "déchū",
+  "meaning_ru": "прийти к (выводу)",
+  "meaning_en": "to reach; to obtain",
+  "semantic_tags": [
+   "cognition",
+   "cause_effect"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to obtain (a result); to arrive at (a conclusion)",
+  "dataset_meanings": [
+   "to obtain (a result); to arrive at (a conclusion)"
+  ]
+ },
+ {
+  "hanzi": "停车场",
+  "pinyin": "tíngchēchǎng",
+  "meaning_ru": "парковка",
+  "meaning_en": "parking lot",
+  "semantic_tags": [
+   "place",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "parking lot/car park",
+  "dataset_meanings": [
+   "parking lot",
+   "car park"
+  ]
+ },
+ {
+  "hanzi": "大海",
+  "pinyin": "dàhǎi",
+  "meaning_ru": "море; океан",
+  "meaning_en": "sea; ocean",
+  "semantic_tags": [
+   "nature",
+   "geography"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "sea/ocean",
+  "dataset_meanings": [
+   "sea",
+   "ocean"
+  ]
+ },
+ {
+  "hanzi": "出租",
+  "pinyin": "chūzū",
+  "meaning_ru": "сдавать в аренду",
+  "meaning_en": "to rent out",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to rent",
+  "dataset_meanings": [
+   "to rent"
+  ]
+ },
+ {
+  "hanzi": "这时候",
+  "pinyin": "zhèshíhòu",
+  "meaning_ru": "в этот момент",
+  "meaning_en": "at this moment",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "At this moment"
+  ]
+ },
+ {
+  "hanzi": "老是",
+  "pinyin": "lǎoshi",
+  "meaning_ru": "вечно; всё время",
+  "meaning_en": "always; constantly",
+  "semantic_tags": [
+   "manner_adverb",
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "always",
+  "dataset_meanings": [
+   "always"
+  ]
+ },
+ {
+  "hanzi": "月份",
+  "pinyin": "yuèfèn",
+  "meaning_ru": "месяц (календ.)",
+  "meaning_en": "month (of year)",
+  "semantic_tags": [
+   "time_period",
+   "date"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "month",
+  "dataset_meanings": [
+   "month"
+  ]
+ },
+ {
+  "hanzi": "坏人",
+  "pinyin": "huàirén",
+  "meaning_ru": "плохой человек",
+  "meaning_en": "bad person; villain",
+  "semantic_tags": [
+   "person",
+   "evaluation_adj"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "bad person/villain",
+  "dataset_meanings": [
+   "bad person",
+   "villain"
+  ]
+ },
+ {
+  "hanzi": "天上",
+  "pinyin": "tiānshàng",
+  "meaning_ru": "на небе",
+  "meaning_en": "in the sky",
+  "semantic_tags": [
+   "location",
+   "nature"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "the sky; the heavens",
+  "dataset_meanings": [
+   "celestial",
+   "heavenly"
+  ]
+ },
+ {
+  "hanzi": "旅客",
+  "pinyin": "lǚkè",
+  "meaning_ru": "пассажир; турист",
+  "meaning_en": "traveler; passenger",
+  "semantic_tags": [
+   "person",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "traveler; tourist",
+  "dataset_meanings": [
+   "traveler; tourist"
+  ]
+ },
+ {
+  "hanzi": "大衣",
+  "pinyin": "dàyī",
+  "meaning_ru": "пальто",
+  "meaning_en": "overcoat",
+  "semantic_tags": [
+   "clothing"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "overcoat/topcoat/cloak/CL:件[jian4]",
+  "dataset_meanings": [
+   "overcoat",
+   "topcoat",
+   "cloak"
+  ]
+ },
+ {
+  "hanzi": "路边",
+  "pinyin": "lùbiān",
+  "meaning_ru": "обочина; край дороги",
+  "meaning_en": "roadside",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "curb; roadside; wayside",
+  "dataset_meanings": [
+   "curb; roadside; wayside"
+  ]
+ },
+ {
+  "hanzi": "难题",
+  "pinyin": "nántí",
+  "meaning_ru": "трудная задача",
+  "meaning_en": "difficult problem",
+  "semantic_tags": [
+   "abstract_quality",
+   "cognition"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "difficult problem",
+  "dataset_meanings": [
+   "difficult problem"
+  ]
+ },
+ {
+  "hanzi": "手表",
+  "pinyin": "shǒubiǎo",
+  "meaning_ru": "наручные часы",
+  "meaning_en": "wristwatch",
+  "semantic_tags": [
+   "object_home",
+   "time_word"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "wristwatch/CL:塊|块[kuai4],隻|只[zhi1],個|个[ge4]",
+  "dataset_meanings": [
+   "wristwatch"
+  ]
+ },
+ {
+  "hanzi": "院长",
+  "pinyin": "yuànzhǎng",
+  "meaning_ru": "директор; декан; ректор",
+  "meaning_en": "director; dean; president",
+  "semantic_tags": [
+   "occupation",
+   "education"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "the head of an institution whose name ends in 院[yuan4]; chair of a board; university president; college dean; premier of the Republic of China",
+  "dataset_meanings": [
+   "the head of an institution whose name ends in 院",
+   "chair of a board",
+   "president of a university",
+   "department head",
+   "dean",
+   "premier of the Republic of China"
+  ]
+ },
+ {
+  "hanzi": "夜里",
+  "pinyin": "yèli",
+  "meaning_ru": "ночью",
+  "meaning_en": "at night; nighttime",
+  "semantic_tags": [
+   "time_period"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "during the night/at night/nighttime",
+  "dataset_meanings": [
+   "during the night",
+   "at night",
+   "nighttime"
+  ]
+ },
+ {
+  "hanzi": "音乐会",
+  "pinyin": "yīnyuèhuì",
+  "meaning_ru": "концерт",
+  "meaning_en": "concert",
+  "semantic_tags": [
+   "art",
+   "event_situation"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "concert/CL:場|场[chang3]",
+  "dataset_meanings": [
+   "concert"
+  ]
+ },
+ {
+  "hanzi": "中年",
+  "pinyin": "zhōngnián",
+  "meaning_ru": "средний возраст",
+  "meaning_en": "middle age",
+  "semantic_tags": [
+   "time_period",
+   "person"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "middle age",
+  "dataset_meanings": [
+   "middle age"
+  ]
+ },
+ {
+  "hanzi": "找出",
+  "pinyin": "zhǎochū",
+  "meaning_ru": "найти; отыскать",
+  "meaning_en": "to find out; locate",
+  "semantic_tags": [
+   "action_daily",
+   "cognition"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to find/to search out",
+  "dataset_meanings": [
+   "to find",
+   "to search out"
+  ]
+ },
+ {
+  "hanzi": "院子",
+  "pinyin": "yuànzi",
+  "meaning_ru": "двор",
+  "meaning_en": "courtyard; yard",
+  "semantic_tags": [
+   "building",
+   "place"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "courtyard/garden/yard/patio/CL:個|个[ge4]/(old) servant",
+  "dataset_meanings": [
+   "courtyard",
+   "garden",
+   "yard",
+   "patio",
+   "(old) servant"
+  ]
+ },
+ {
+  "hanzi": "分数",
+  "pinyin": "fēnshù",
+  "meaning_ru": "балл; оценка",
+  "meaning_en": "grade; score",
+  "semantic_tags": [
+   "education",
+   "number"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "(exam) grade/mark/score/fraction",
+  "dataset_meanings": [
+   "(exam) grade",
+   "mark",
+   "score",
+   "fraction"
+  ]
+ },
+ {
+  "hanzi": "举手",
+  "pinyin": "jǔshǒu",
+  "meaning_ru": "поднять руку",
+  "meaning_en": "to raise a hand",
+  "semantic_tags": [
+   "physical_action",
+   "body"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to raise a hand/to put up one's hand (as signal)",
+  "dataset_meanings": [
+   "to raise a hand",
+   "to put up one's hand (as signal)"
+  ]
+ },
+ {
+  "hanzi": "课堂",
+  "pinyin": "kètáng",
+  "meaning_ru": "класс; урок",
+  "meaning_en": "classroom; class",
+  "semantic_tags": [
+   "education",
+   "place"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "classroom (CL:間|间[jian1]); class session",
+  "dataset_meanings": [
+   "classroom"
+  ]
+ },
+ {
+  "hanzi": "出国",
+  "pinyin": "chūguó",
+  "meaning_ru": "ехать за границу",
+  "meaning_en": "to go abroad",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to go abroad; to leave the country",
+  "dataset_meanings": [
+   "to go abroad; to leave the country"
+  ]
+ },
+ {
+  "hanzi": "下雪",
+  "pinyin": "xiàxuě",
+  "meaning_ru": "идёт снег",
+  "meaning_en": "to snow",
+  "semantic_tags": [
+   "weather"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to snow",
+  "dataset_meanings": [
+   "to snow"
+  ]
+ },
+ {
+  "hanzi": "气温",
+  "pinyin": "qìwēn",
+  "meaning_ru": "температура воздуха",
+  "meaning_en": "air temperature",
+  "semantic_tags": [
+   "weather",
+   "measurement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "air temperature",
+  "dataset_meanings": [
+   "air temperature"
+  ]
+ },
+ {
+  "hanzi": "骑车",
+  "pinyin": "qíchē",
+  "meaning_ru": "ехать на велосипеде",
+  "meaning_en": "to ride a bike",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to ride a bike (motorbike or bicycle)",
+  "dataset_meanings": [
+   "to ride a bike (motorbike or bicycle)"
+  ]
+ },
+ {
+  "hanzi": "西南",
+  "pinyin": "xīnán",
+  "meaning_ru": "юго-запад",
+  "meaning_en": "southwest",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "southwest",
+  "dataset_meanings": [
+   "southwest"
+  ]
+ },
+ {
+  "hanzi": "西北",
+  "pinyin": "xīběi",
+  "meaning_ru": "северо-запад",
+  "meaning_en": "northwest",
+  "semantic_tags": [
+   "direction",
+   "geography"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)/northwest",
+  "dataset_meanings": [
+   "Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)",
+   "northwest"
+  ]
+ },
+ {
+  "hanzi": "住房",
+  "pinyin": "zhùfáng",
+  "meaning_ru": "жильё; жилое помещение",
+  "meaning_en": "housing; dwelling",
+  "semantic_tags": [
+   "building",
+   "society_public"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "housing",
+  "dataset_meanings": [
+   "housing"
+  ]
+ },
+ {
+  "hanzi": "出院",
+  "pinyin": "chūyuàn",
+  "meaning_ru": "выписаться из больницы",
+  "meaning_en": "leave hospital",
+  "semantic_tags": [
+   "health_medical",
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to leave hospital/to be discharged from hospital",
+  "dataset_meanings": [
+   "to leave hospital",
+   "to be discharged from hospital"
+  ]
+ },
+ {
+  "hanzi": "老朋友",
+  "pinyin": "lǎopéngyou",
+  "meaning_ru": "старый друг",
+  "meaning_en": "old friend",
+  "semantic_tags": [
+   "relationship_social",
+   "person"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "old friend/(slang) period/menstruation",
+  "dataset_meanings": [
+   "old friend",
+   "(slang) period",
+   "menstruation"
+  ]
+ },
+ {
+  "hanzi": "走开",
+  "pinyin": "zǒukāi",
+  "meaning_ru": "уходи; отойди",
+  "meaning_en": "go away; move aside",
+  "semantic_tags": [
+   "action_movement"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to leave; to walk away; to beat it/to move aside",
+  "dataset_meanings": [
+   "to leave",
+   "to walk away",
+   "to beat it",
+   "to move aside"
+  ]
+ },
+ {
+  "hanzi": "笔记",
+  "pinyin": "bǐjì",
+  "meaning_ru": "записи; конспект",
+  "meaning_en": "notes; jot down",
+  "semantic_tags": [
+   "action_learning",
+   "education"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to take down (in writing)/notes/a type of literature consisting mainly of short sketches/CL:本[ben3]",
+  "dataset_meanings": [
+   "to take down (in writing)",
+   "notes",
+   "a type of literature consisting mainly of short sketches"
+  ]
+ },
+ {
+  "hanzi": "外地",
+  "pinyin": "wàidì",
+  "meaning_ru": "другой регион; не местный",
+  "meaning_en": "other region; out of town",
+  "semantic_tags": [
+   "place",
+   "geography"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "parts of the country other than where one is",
+  "dataset_meanings": [
+   "parts of the country other than where one is"
+  ]
+ },
+ {
+  "hanzi": "休假",
+  "pinyin": "xiūjià",
+  "meaning_ru": "брать отпуск",
+  "meaning_en": "take leave; vacation",
+  "semantic_tags": [
+   "action_daily",
+   "work_career"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to go on vacation; to have a holiday; to take leave",
+  "dataset_meanings": [
+   "to go on vacation; to have a holiday; to take leave"
+  ]
+ },
+ {
+  "hanzi": "小声",
+  "pinyin": "xiǎoshēng",
+  "meaning_ru": "тихо; вполголоса",
+  "meaning_en": "in a low voice",
+  "semantic_tags": [
+   "manner_state",
+   "action_communication"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "in a low voice/(speak) in whispers",
+  "dataset_meanings": [
+   "in a low voice",
+   "(speak) in whispers"
+  ]
+ },
+ {
+  "hanzi": "大自然",
+  "pinyin": "dàzìrán",
+  "meaning_ru": "природа",
+  "meaning_en": "nature",
+  "semantic_tags": [
+   "nature"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "nature (the natural world)",
+  "dataset_meanings": [
+   "nature (the natural world)"
+  ]
+ },
+ {
+  "hanzi": "送到",
+  "pinyin": "sòngdào",
+  "meaning_ru": "доставить; довести",
+  "meaning_en": "deliver; send to",
+  "semantic_tags": [
+   "action_movement",
+   "action_daily"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "",
+  "dataset_meanings": [
+   "Deliver"
+  ]
+ },
+ {
+  "hanzi": "老年",
+  "pinyin": "lǎonián",
+  "meaning_ru": "старость; пожилой возраст",
+  "meaning_en": "old age; elderly",
+  "semantic_tags": [
+   "time_period",
+   "person"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "elderly/old age/autumn of one's years",
+  "dataset_meanings": [
+   "elderly",
+   "old age",
+   "autumn of one's years"
+  ]
+ },
+ {
+  "hanzi": "动物园",
+  "pinyin": "dòngwùyuán",
+  "meaning_ru": "зоопарк",
+  "meaning_en": "zoo",
+  "semantic_tags": [
+   "place",
+   "animal"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "zoo",
+  "dataset_meanings": [
+   "zoo"
+  ]
+ },
+ {
+  "hanzi": "草地",
+  "pinyin": "cǎodì",
+  "meaning_ru": "лужайка; луг",
+  "meaning_en": "lawn; meadow",
+  "semantic_tags": [
+   "nature",
+   "place"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "lawn/meadow/sod/turf/CL:片[pian4]",
+  "dataset_meanings": [
+   "lawn",
+   "meadow",
+   "sod",
+   "turf"
+  ]
+ },
+ {
+  "hanzi": "药店",
+  "pinyin": "yàodiàn",
+  "meaning_ru": "аптека",
+  "meaning_en": "pharmacy",
+  "semantic_tags": [
+   "place",
+   "health_medical"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "pharmacy; drugstore",
+  "dataset_meanings": [
+   "pharmacy"
+  ]
+ },
+ {
+  "hanzi": "回国",
+  "pinyin": "huíguó",
+  "meaning_ru": "вернуться на родину",
+  "meaning_en": "return to one's country",
+  "semantic_tags": [
+   "action_movement",
+   "transport_travel"
+  ],
+  "hsk30_level": 2,
+  "cedict_en": "to return to one's home country",
+  "dataset_meanings": [
+   "to return to one's home country"
+  ]
+ }
+]

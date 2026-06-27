@@ -1,0 +1,1400 @@
+[
+ {
+  "hanzi": "灾",
+  "pinyin": "zāi",
+  "meaning_ru": "бедствие (морфема; ср. 灾害)",
+  "meaning_en": "disaster (morpheme; cf. 灾害)",
+  "len_ru": 26,
+  "len_en": 27,
+  "cedict_en": "disaster; calamity/variant of 災|灾[zai1]/old variant of 災|灾[zai1]",
+  "dataset_meanings": [
+   "disaster",
+   "calamity",
+   "variant of 灾",
+   "old variant of 灾"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "灾害"
+    ],
+    "note": "灾 often functions as a morpheme in compounds (灾区, 救灾); 灾害 is the standard standalone formal noun for disaster"
+   }
+  ]
+ },
+ {
+  "hanzi": "烦",
+  "pinyin": "fán",
+  "meaning_ru": "раздражаться; надоедать",
+  "meaning_en": "annoyed; to bother sb",
+  "len_ru": 23,
+  "len_en": 21,
+  "cedict_en": "to feel vexed/to bother/to trouble/superfluous and confusing/edgy",
+  "dataset_meanings": [
+   "to feel vexed",
+   "to bother",
+   "to trouble",
+   "superfluous and confusing",
+   "edgy"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "烦恼",
+     "恼火"
+    ],
+    "note": "烦 = feel irritated or to bother sb (verb/adj, surface reaction); 烦恼 = inner vexation, worried trouble (deeper emotional state); 恼火 = angry-annoyed (stronger, outward irritation)"
+   }
+  ]
+ },
+ {
+  "hanzi": "烧",
+  "pinyin": "shāo",
+  "meaning_ru": "жечь; готовить; жар (темп.)",
+  "meaning_en": "burn; cook over heat; have fever",
+  "len_ru": 27,
+  "len_en": 32,
+  "cedict_en": "to burn; to set on fire/to heat (over a fire); to boil (water, tea etc)/to braise/to cook; to prepare food/to run a fever/fever/(coll.) to become full of oneself; to get carried away",
+  "dataset_meanings": [
+   "to burn",
+   "to cook",
+   "to stew",
+   "to bake",
+   "to roast",
+   "to heat",
+   "to boil (tea, water etc)",
+   "fever",
+   "to run a temperature",
+   "(coll.) to let things go to one's head"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "烘",
+     "煮"
+    ],
+    "note": "烧 = burn / cook by heat / have a fever (broad, colloquial); 烘 = bake/dry using indirect heat (oven, fire nearby); 煮 = boil/cook by simmering in liquid."
+   }
+  ]
+ },
+ {
+  "hanzi": "煤",
+  "pinyin": "méi",
+  "meaning_ru": "уголь (разг. корень)",
+  "meaning_en": "coal (everyday root word)",
+  "len_ru": 20,
+  "len_en": 25,
+  "cedict_en": "coal/CL:塊|块[kuai4]",
+  "dataset_meanings": [
+   "coal"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "煤炭"
+    ],
+    "note": "煤 = coal (common root word, everyday use); 煤炭 = coal (fuller formal/industrial term, e.g. in reports or energy sector)"
+   }
+  ]
+ },
+ {
+  "hanzi": "煤气",
+  "pinyin": "méiqì",
+  "meaning_ru": "бытовой газ (сетевой)",
+  "meaning_en": "domestic gas (coal/piped)",
+  "len_ru": 21,
+  "len_en": 25,
+  "cedict_en": "coal gas/gas (fuel)",
+  "dataset_meanings": [
+   "coal gas",
+   "gas (fuel)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "气体",
+     "天然气",
+     "燃料",
+     "柴油"
+    ],
+    "note": "气体 = gas as a physical state (science); 天然气 = natural gas (utility); 煤气 = coal gas / domestic gas (cooking/heating); 柴油 = diesel fuel (vehicles); 燃料 = fuel in general (any type)"
+   }
+  ]
+ },
+ {
+  "hanzi": "燃料",
+  "pinyin": "ránliào",
+  "meaning_ru": "топливо (любого вида)",
+  "meaning_en": "fuel (any type, general)",
+  "len_ru": 21,
+  "len_en": 24,
+  "cedict_en": "fuel",
+  "dataset_meanings": [
+   "fuel"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "煤气",
+     "气体",
+     "天然气",
+     "柴油"
+    ],
+    "note": "气体 = gas as a physical state (science); 天然气 = natural gas (utility); 煤气 = coal gas / domestic gas (cooking/heating); 柴油 = diesel fuel (vehicles); 燃料 = fuel in general (any type)"
+   }
+  ]
+ },
+ {
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "meaning_ru": "любить (глубоко или широко)",
+  "meaning_en": "to love; like (deep feeling)",
+  "len_ru": 27,
+  "len_en": 28,
+  "cedict_en": "to love; to be fond of; to like/affection/to be inclined (to do sth); to tend to (happen)",
+  "dataset_meanings": [
+   "to love; to be fond of; to like",
+   "affection",
+   "to be inclined (to do sth); to tend to (happen)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "喜爱",
+     "热爱",
+     "恋爱"
+    ],
+    "note": "爱 = love/like (broad, deep); 喜爱 = like/be fond of (preference, lighter); 热爱 = love ardently (a cause, career, country); 恋爱 = be romantically in love (relationship state)."
+   }
+  ]
+ },
+ {
+  "hanzi": "爱国",
+  "pinyin": "àiguó",
+  "meaning_ru": "патриотичный; любить родину",
+  "meaning_en": "patriotic",
+  "len_ru": 27,
+  "len_en": 9,
+  "cedict_en": "to love one's country/patriotic",
+  "dataset_meanings": [
+   "to love one's country",
+   "patriotic"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "爸",
+  "pinyin": "bà",
+  "meaning_ru": "папа (разг., неофиц.)",
+  "meaning_en": "dad (informal)",
+  "len_ru": 21,
+  "len_en": 14,
+  "cedict_en": "father/dad/pa/papa",
+  "dataset_meanings": [
+   "father",
+   "dad",
+   "pa",
+   "papa"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "父亲"
+    ],
+    "note": "爸 is the everyday informal word for 'dad'; 父亲 (5k) is the formal/written term for 'father'"
+   }
+  ]
+ },
+ {
+  "hanzi": "牌子",
+  "pinyin": "páizi",
+  "meaning_ru": "марка; бренд (разг.); вывеска",
+  "meaning_en": "brand; sign (colloquial form)",
+  "len_ru": 29,
+  "len_en": 29,
+  "cedict_en": "sign/trademark/brand",
+  "dataset_meanings": [
+   "sign",
+   "trademark",
+   "brand"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "牌"
+    ],
+    "note": "牌子 is the colloquial spoken form for brand or sign (名牌子); 牌 is the base form and also covers playing cards and game tiles — wider range than 牌子."
+   }
+  ]
+ },
+ {
+  "hanzi": "物业",
+  "pinyin": "wùyè",
+  "meaning_ru": "недвижимость; ЖКХ",
+  "meaning_en": "property management",
+  "len_ru": 17,
+  "len_en": 19,
+  "cedict_en": "property/real estate/abbr. for 物業管理|物业管理[wu4 ye4 guan3 li3], property management",
+  "dataset_meanings": [
+   "property",
+   "real estate",
+   "abbr. for 物业管理, property management"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "物价",
+  "pinyin": "wùjià",
+  "meaning_ru": "уровень цен (макро)",
+  "meaning_en": "price level (macro)",
+  "len_ru": 19,
+  "len_en": 19,
+  "cedict_en": "(commodity) prices/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "(commodity) prices"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "价格",
+     "代价",
+     "降价"
+    ],
+    "note": "价格 (5k) = market price of a specific item; 物价 = commodity price level in general (macro); 代价 (5k) = figurative cost/sacrifice; 降价 = the action of cutting the price"
+   }
+  ]
+ },
+ {
+  "hanzi": "特性",
+  "pinyin": "tèxìng",
+  "meaning_ru": "свойство (внутреннее, научн.)",
+  "meaning_en": "intrinsic property (technical)",
+  "len_ru": 29,
+  "len_en": 30,
+  "cedict_en": "property/characteristic",
+  "dataset_meanings": [
+   "property",
+   "characteristic"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "特点",
+     "性质"
+    ],
+    "note": "特性 = intrinsic property, often scientific/technical; 特点 = distinctive feature/trait (neutral, everyday); 性质 = essential nature or character of something"
+   }
+  ]
+ },
+ {
+  "hanzi": "猜测",
+  "pinyin": "cāicè",
+  "meaning_ru": "предполагать (обдуманно, с осн.)",
+  "meaning_en": "guess; conjecture (considered)",
+  "len_ru": 32,
+  "len_en": 30,
+  "cedict_en": "to guess/to conjecture/to surmise",
+  "dataset_meanings": [
+   "to guess",
+   "to conjecture",
+   "to surmise"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "推测",
+     "猜",
+     "蒙"
+    ],
+    "note": "蒙 = bluff/guess blindly (colloquial, no basis); 猜 = guess (everyday, intuitive); 猜测 = guess/conjecture (more considered, some basis); 推测 = surmise/infer (reasoned, evidence-based deduction)"
+   }
+  ]
+ },
+ {
+  "hanzi": "猴",
+  "pinyin": "hóu",
+  "meaning_ru": "обезьяна (морфема; зодиак)",
+  "meaning_en": "monkey (morpheme; zodiac)",
+  "len_ru": 26,
+  "len_en": 25,
+  "cedict_en": "monkey/CL:隻|只[zhi1]",
+  "dataset_meanings": [
+   "monkey"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "猴子"
+    ],
+    "note": "猴子 is the everyday standalone word for monkey; 猴 is the morpheme/character used in compounds and as the zodiac animal name"
+   }
+  ]
+ },
+ {
+  "hanzi": "玉",
+  "pinyin": "yù",
+  "meaning_ru": "нефрит; жадеит",
+  "meaning_en": "jade",
+  "len_ru": 14,
+  "len_en": 4,
+  "cedict_en": "jade",
+  "dataset_meanings": [
+   "jade"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "环",
+  "pinyin": "huán",
+  "meaning_ru": "кольцо; звено (не украшение)",
+  "meaning_en": "ring/loop (shape or link)",
+  "len_ru": 28,
+  "len_en": 25,
+  "cedict_en": "surname Huan/ring/hoop/loop/(chain) link/classifier for scores in archery etc/to surround/to encircle/to hem in",
+  "dataset_meanings": [
+   "surname Huan",
+   "ring",
+   "hoop",
+   "loop",
+   "(chain) link",
+   "classifier for scores in archery etc",
+   "to surround",
+   "to encircle",
+   "to hem in"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "戒指"
+    ],
+    "note": "环 = ring/loop shape (generic, also a link/component); 戒指 = finger ring (jewelry only)"
+   }
+  ]
+ },
+ {
+  "hanzi": "班级",
+  "pinyin": "bānjí",
+  "meaning_ru": "класс (адм. единица)",
+  "meaning_en": "class as admin. group",
+  "len_ru": 20,
+  "len_en": 21,
+  "cedict_en": "class (group of students)/grade (in school)",
+  "dataset_meanings": [
+   "class (group of students)",
+   "grade (in school)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "课堂"
+    ],
+    "note": "班级 = class as an administrative unit (the homeroom group); 课堂 = classroom/class as the instructional space or session"
+   }
+  ]
+ },
+ {
+  "hanzi": "生成",
+  "pinyin": "shēngchéng",
+  "meaning_ru": "генерировать; порождать (техн.)",
+  "meaning_en": "to generate; produce (tech)",
+  "len_ru": 31,
+  "len_en": 27,
+  "cedict_en": "to generate; to produce; to form; to be formed; to come into being/to be born with; to be blessed with",
+  "dataset_meanings": [
+   "to generate; to produce; to form; to be formed; to come into being",
+   "to be born with; to be blessed with"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "形成",
+     "产生"
+    ],
+    "note": "生成 = generate/produce (technical/computational output); 形成 = form/take shape (gradual structural emergence); 产生 = arise/generate (cause-effect, broad — results, emotions, problems)"
+   }
+  ]
+ },
+ {
+  "hanzi": "生长",
+  "pinyin": "shēngzhǎng",
+  "meaning_ru": "расти (биологически)",
+  "meaning_en": "grow (biological, plants)",
+  "len_ru": 20,
+  "len_en": 25,
+  "cedict_en": "to grow/to grow up/to be brought up",
+  "dataset_meanings": [
+   "to grow",
+   "to grow up",
+   "to be brought up"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "长大",
+     "成长",
+     "栽培"
+    ],
+    "note": "长大 = grow up (humans reaching adulthood); 成长 = grow/mature (personal development, also broad); 生长 = grow (biological — plants, organisms); 栽培 = cultivate (plants) or mentor (people, formal)"
+   }
+  ]
+ },
+ {
+  "hanzi": "电子版",
+  "pinyin": "diànzǐbǎn",
+  "meaning_ru": "электронная версия (формат)",
+  "meaning_en": "digital edition (format)",
+  "len_ru": 27,
+  "len_en": 24,
+  "cedict_en": "electronic edition/digital version",
+  "dataset_meanings": [
+   "electronic edition",
+   "digital version"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "版本"
+    ],
+    "note": "电子版 = specifically the electronic/digital format; 版本 = any version or edition regardless of medium"
+   }
+  ]
+ },
+ {
+  "hanzi": "电视剧",
+  "pinyin": "diànshìjù",
+  "meaning_ru": "телесериал (жанр ТВ)",
+  "meaning_en": "TV drama/series",
+  "len_ru": 20,
+  "len_en": 15,
+  "cedict_en": "TV series/TV drama/CL:部[bu4]",
+  "dataset_meanings": [
+   "TV series",
+   "TV drama"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "连续剧",
+     "戏剧",
+     "悲剧"
+    ],
+    "note": "电视剧 = TV drama/series (medium-specific); 连续剧 = serial/series (emphasises ongoing episodes); 戏剧 = drama/theater (art form, stage or screen); 悲剧 = tragedy (a genre, also fig. 'a tragedy')"
+   }
+  ]
+ },
+ {
+  "hanzi": "男人",
+  "pinyin": "nánrén",
+  "meaning_ru": "мужчина (обычн., нейтр.)",
+  "meaning_en": "man (everyday neutral)",
+  "len_ru": 24,
+  "len_en": 22,
+  "cedict_en": "a man/a male/men/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "a man",
+   "a male",
+   "men"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "男子",
+     "男性",
+     "男"
+    ],
+    "note": "男人 = everyday neutral 'man'; 男子 = formal/literary noun (sports, legal); 男性 = gender-category term (demographic/scientific); 男 = bound prefix in compounds"
+   }
+  ]
+ },
+ {
+  "hanzi": "男士",
+  "pinyin": "nánshì",
+  "meaning_ru": "мужчина (вежл., услуги)",
+  "meaning_en": "gentleman (polite, service)",
+  "len_ru": 23,
+  "len_en": 27,
+  "cedict_en": "man/gentleman",
+  "dataset_meanings": [
+   "man",
+   "gentleman"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "男子",
+     "绅士"
+    ],
+    "note": "男子 = man/male (formal noun, e.g. in 男子组); 男士 = gentleman/man (polite address, service contexts); 绅士 = gentleman (implies refined conduct, Western overtone)"
+   }
+  ]
+ },
+ {
+  "hanzi": "男孩儿",
+  "pinyin": "nánháir",
+  "meaning_ru": "мальчик (маленький ребёнок)",
+  "meaning_en": "boy (young child)",
+  "len_ru": 27,
+  "len_en": 17,
+  "cedict_en": "erhua form of 男孩[nan2 hai2]",
+  "dataset_meanings": [
+   "erhua variant of 男孩",
+   "boy"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "男生",
+     "少年",
+     "小伙子",
+     "青年"
+    ],
+    "note": "男孩儿 = young boy (child); 男生 = male student/boy (school context); 少年 = teenage youth (10–16); 小伙子 = young man/lad (informal); 青年 = young adult (18–35, formal/official)"
+   }
+  ]
+ },
+ {
+  "hanzi": "画面",
+  "pinyin": "huàmiàn",
+  "meaning_ru": "кадр; изображение (экран, сцена)",
+  "meaning_en": "frame; scene (screen/visual)",
+  "len_ru": 32,
+  "len_en": 28,
+  "cedict_en": "scene/tableau/picture/image/screen (displayed by a computer)/(motion picture) frame/field of view",
+  "dataset_meanings": [
+   "scene",
+   "tableau",
+   "picture",
+   "image",
+   "screen (displayed by a computer)",
+   "(motion picture) frame",
+   "field of view"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "相片",
+     "图片"
+    ],
+    "note": "相片 = photograph (physical/personal print); 图片 = image/picture (digital or generic); 画面 = visual frame/scene (video, screen, painted composition)"
+   }
+  ]
+ },
+ {
+  "hanzi": "疗养",
+  "pinyin": "liáoyǎng",
+  "meaning_ru": "лечиться (в санатории)",
+  "meaning_en": "recuperate (with treatment)",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "to get well/to heal/to recuperate/to convalesce/convalescence/to nurse",
+  "dataset_meanings": [
+   "to get well",
+   "to heal",
+   "to recuperate",
+   "to convalesce",
+   "convalescence",
+   "to nurse"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "休养"
+    ],
+    "note": "疗养 = recuperate with medical treatment (sanatorium-style); 休养 = recover through rest (no emphasis on treatment)"
+   }
+  ]
+ },
+ {
+  "hanzi": "病人",
+  "pinyin": "bìngrén",
+  "meaning_ru": "больной; пациент (разг.)",
+  "meaning_en": "patient; sick person",
+  "len_ru": 24,
+  "len_en": 20,
+  "cedict_en": "sick person/patient/invalid/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "sick person",
+   "patient",
+   "invalid"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "患者"
+    ],
+    "note": "病人 = sick person/patient (everyday spoken); 患者 = patient (formal medical/written context)"
+   }
+  ]
+ },
+ {
+  "hanzi": "痛",
+  "pinyin": "tòng",
+  "meaning_ru": "боль; болеть (физич.)",
+  "meaning_en": "pain; to ache (physical)",
+  "len_ru": 21,
+  "len_en": 24,
+  "cedict_en": "ache/pain/sorrow/deeply/thoroughly",
+  "dataset_meanings": [
+   "ache",
+   "pain",
+   "sorrow",
+   "deeply",
+   "thoroughly"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "疼",
+     "痛苦"
+    ],
+    "note": "痛 = physical pain/ache (neutral); 疼 = physical ache, often with tenderness or affection ('dote on'); 痛苦 = suffering/anguish (emotional or profound physical — a noun/adj)"
+   }
+  ]
+ },
+ {
+  "hanzi": "登",
+  "pinyin": "dēng",
+  "meaning_ru": "подниматься (лестница, сцена)",
+  "meaning_en": "climb; ascend (stairs, stage)",
+  "len_ru": 29,
+  "len_en": 29,
+  "cedict_en": "to scale (a height)/to ascend/to mount/to publish or record/to enter (e.g. in a register)/to press down with the foot/to step or tread on/to put on (shoes or trousers) (dialect)/to be gathered and taken to the threshing ground (old)",
+  "dataset_meanings": [
+   "to scale (a height)",
+   "to ascend",
+   "to mount",
+   "to publish or record",
+   "to enter (e.g. in a register)",
+   "to press down with the foot",
+   "to step or tread on",
+   "to put on (shoes or trousers) (dialect)",
+   "to be gathered and taken to the threshing ground (old)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "登山",
+     "攀登"
+    ],
+    "note": "登山 = mountain climbing (sport/activity as a whole); 登 = ascend/climb (general, incl. stairs, stages); 攀登 = scale/climb (effort-intensive, figurative too: 攀登高峰)."
+   }
+  ]
+ },
+ {
+  "hanzi": "登山",
+  "pinyin": "dēngshān",
+  "meaning_ru": "восхождение в горы (спорт)",
+  "meaning_en": "mountain climbing (sport)",
+  "len_ru": 26,
+  "len_en": 25,
+  "cedict_en": "to climb a mountain/climbing/mountaineering",
+  "dataset_meanings": [
+   "to climb a mountain",
+   "climbing",
+   "mountaineering"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "登",
+     "攀登"
+    ],
+    "note": "登山 = mountain climbing (sport/activity as a whole); 登 = ascend/climb (general, incl. stairs, stages); 攀登 = scale/climb (effort-intensive, figurative too: 攀登高峰)."
+   }
+  ]
+ },
+ {
+  "hanzi": "白",
+  "pinyin": "bái",
+  "meaning_ru": "белый (прил./морфема)",
+  "meaning_en": "white (adj./morpheme)",
+  "len_ru": 21,
+  "len_en": 21,
+  "cedict_en": "surname Bai/Bai ethnic group/white/snowy/pure/bright/empty/blank/plain/clear/to make clear/in vain/gratuitous/free of charge/reactionary/anti-communist/funeral/to stare coldly/to write wrong character/to state/to explain/vernacular/spoken lines in opera",
+  "dataset_meanings": [
+   "surname Bai",
+   "white",
+   "snowy",
+   "pure",
+   "bright",
+   "empty",
+   "blank",
+   "plain",
+   "clear",
+   "to make clear",
+   "in vain",
+   "gratuitous",
+   "free of charge",
+   "reactionary",
+   "anti-communist",
+   "funeral",
+   "to stare coldly",
+   "to write wrong character",
+   "to state",
+   "to explain",
+   "vernacular",
+   "spoken lines in opera"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "白色"
+    ],
+    "note": "白 is the adjective/morpheme (白雪, 白天); 白色 is the standalone noun 'the color white' used in naming or labeling."
+   }
+  ]
+ },
+ {
+  "hanzi": "白色",
+  "pinyin": "báisè",
+  "meaning_ru": "белый (цвет, название)",
+  "meaning_en": "white (color noun)",
+  "len_ru": 22,
+  "len_en": 18,
+  "cedict_en": "white/fig. reactionary/anti-communist",
+  "dataset_meanings": [
+   "white",
+   "fig. reactionary",
+   "anti-communist"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "白"
+    ],
+    "note": "白 is the adjective/morpheme (白雪, 白天); 白色 is the standalone noun 'the color white' used in naming or labeling."
+   }
+  ]
+ },
+ {
+  "hanzi": "白酒",
+  "pinyin": "báijiǔ",
+  "meaning_ru": "байцзю (кит. водка)",
+  "meaning_en": "Chinese grain spirit",
+  "len_ru": 19,
+  "len_en": 20,
+  "cedict_en": "baijiu, a spirit usually distilled from sorghum/(Tw) white wine (abbr. for 白葡萄酒[bai2 pu2 tao5 jiu3])",
+  "dataset_meanings": [
+   "baijiu, a spirit usually distilled from sorghum",
+   "(Tw) white wine (abbr. for 酒)"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "百货",
+  "pinyin": "bǎihuò",
+  "meaning_ru": "разнообразные товары (розница)",
+  "meaning_en": "general merchandise (retail)",
+  "len_ru": 30,
+  "len_en": 28,
+  "cedict_en": "general merchandise",
+  "dataset_meanings": [
+   "general merchandise"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "货",
+     "商品",
+     "产品",
+     "物资"
+    ],
+    "note": "货 = goods/cargo (general, incl. freight); 百货 = general merchandise (retail variety); 商品 = commodity (market economics term); 产品 = product (manufactured output); 物资 = supplies/materials (logistics, often strategic)"
+   }
+  ]
+ },
+ {
+  "hanzi": "皮",
+  "pinyin": "pí",
+  "meaning_ru": "кожа/кожура (не орган)",
+  "meaning_en": "skin/peel/leather (broad)",
+  "len_ru": 22,
+  "len_en": 25,
+  "cedict_en": "surname Pi/skin; peel; rind; outer layer/leather; hide; fur/cover; wrapping; outer covering/(of food) no longer crisp; soggy/(coll.) naughty; mischievous/pico- (10⁻¹²)",
+  "dataset_meanings": [
+   "surname Pi",
+   "leather",
+   "skin",
+   "fur",
+   "pico- (one trillionth)",
+   "naughty"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "皮肤"
+    ],
+    "note": "皮 = skin/peel/leather (broad: body skin, fruit skin, leather material); 皮肤 = skin specifically as a body organ (medical/biological usage)."
+   }
+  ]
+ },
+ {
+  "hanzi": "盘",
+  "pinyin": "pán",
+  "meaning_ru": "блюдо; поднос; (сч. порция)",
+  "meaning_en": "plate; tray; (cl. dish)",
+  "len_ru": 27,
+  "len_en": 23,
+  "cedict_en": "tray; plate; dish/(finance) (bound form) market prices/(computing) (bound form) disk/to coil (a rope, pigtail etc)/to check; to examine; to investigate/to transfer; to sell (property)/to shift; to move (sth big and heavy)/classifier for things resembling a plate or dish/classifier for coils/classifier for games or matches (chess, table tennis etc)",
+  "dataset_meanings": [
+   "plate",
+   "dish",
+   "tray",
+   "board",
+   "hard drive (computing)",
+   "to build",
+   "to coil",
+   "to check",
+   "to examine",
+   "to transfer (property)",
+   "to make over",
+   "classifier for food: dish, helping",
+   "classifier for coils of wire",
+   "classifier for games of chess"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "相机",
+  "pinyin": "xiàngjī",
+  "meaning_ru": "фотоаппарат (сокр. форма)",
+  "meaning_en": "camera (short modern form)",
+  "len_ru": 25,
+  "len_en": 26,
+  "cedict_en": "camera (abbr. for 照相機|照相机[zhao4 xiang4 ji1])/at the opportune moment/as the circumstances allow",
+  "dataset_meanings": [
+   "camera (abbr. for 照相机)",
+   "at the opportune moment",
+   "as the circumstances allow"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "照相机"
+    ],
+    "note": "照相机 is the full traditional form (photo-taking machine); 相机 is the shortened modern everyday form. 相机 also informally covers digital cameras and some video cameras."
+   }
+  ]
+ },
+ {
+  "hanzi": "相比",
+  "pinyin": "xiāngbǐ",
+  "meaning_ru": "сравнивать (в сопоставлении)",
+  "meaning_en": "compare (by contrast, 相比之下)",
+  "len_ru": 28,
+  "len_en": 27,
+  "cedict_en": "to compare",
+  "dataset_meanings": [
+   "to compare"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "对比",
+     "对照"
+    ],
+    "note": "相比 = compare (general, often in 相比之下 'by comparison'). 对比 = contrast (highlight differences, includes noun 'contrast'). 对照 = compare side-by-side (check against, verify)."
+   }
+  ]
+ },
+ {
+  "hanzi": "相片",
+  "pinyin": "xiàngpiàn",
+  "meaning_ru": "фотография (печатная)",
+  "meaning_en": "photo (printed/personal)",
+  "len_ru": 21,
+  "len_en": 24,
+  "cedict_en": "image/photograph/CL:張|张[zhang1]",
+  "dataset_meanings": [
+   "image",
+   "photograph"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "图片",
+     "画面"
+    ],
+    "note": "相片 = photograph (physical/personal print); 图片 = image/picture (digital or generic); 画面 = visual frame/scene (video, screen, painted composition)"
+   }
+  ]
+ },
+ {
+  "hanzi": "看上去",
+  "pinyin": "kànshangqu",
+  "meaning_ru": "на вид; выглядит",
+  "meaning_en": "looks like; appears",
+  "len_ru": 16,
+  "len_en": 19,
+  "cedict_en": "it would appear/it seems (that)",
+  "dataset_meanings": [
+   "it would appear",
+   "it seems (that)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "似乎",
+     "好像"
+    ],
+    "note": "All express 'seems like'. 看上去 is specifically visual ('looks like', based on sight); 好像 is colloquial general resemblance; 似乎 is literary/tentative ('it would appear')."
+   }
+  ]
+ },
+ {
+  "hanzi": "看成",
+  "pinyin": "kànchéng",
+  "meaning_ru": "считать (за кого-л./что-л.)",
+  "meaning_en": "regard as (equate X with Y)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "to regard as",
+  "dataset_meanings": [
+   "to regard as"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "视为",
+     "看待",
+     "认为"
+    ],
+    "note": "看成/视为 = regard X as Y (equating two things); 视为 is more formal/written; 看待 = treat/view (attitude toward something); 认为 = hold an opinion, think that"
+   }
+  ]
+ },
+ {
+  "hanzi": "看见",
+  "pinyin": "kànjiàn",
+  "meaning_ru": "увидеть (момент восприятия)",
+  "meaning_en": "catch sight of (perception)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "to see; to catch sight of",
+  "dataset_meanings": [
+   "to see",
+   "to catch sight of"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "看到"
+    ],
+    "note": "看见 = catch sight of (emphasises moment of visual perception); 看到 = see/notice (slightly broader, neutral result)"
+   }
+  ]
+ },
+ {
+  "hanzi": "看起来",
+  "pinyin": "kànqǐlai",
+  "meaning_ru": "на вид (≠ 似乎 «будто бы»)",
+  "meaning_en": "looks like (visual inference)",
+  "len_ru": 24,
+  "len_en": 29,
+  "cedict_en": "seemingly; apparently; looks as if; appears to be; gives the impression that; seems on the face of it to be",
+  "dataset_meanings": [
+   "seemingly",
+   "apparently",
+   "looks as if",
+   "appear to be",
+   "gives the impression that",
+   "seems on the face of it to be"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "好像",
+     "似乎"
+    ],
+    "note": "All express 'seems/appears'; 好像 is colloquial and can also mean 'like'; 似乎 is more tentative and written; 看起来 is literal 'looking at it, it seems' — visual-based inference."
+   }
+  ]
+ },
+ {
+  "hanzi": "眼泪",
+  "pinyin": "yǎnlèi",
+  "meaning_ru": "слёзы (нейтр., повседнев.)",
+  "meaning_en": "tears (neutral, everyday)",
+  "len_ru": 26,
+  "len_en": 25,
+  "cedict_en": "tear; teardrop/CL:滴[di1]",
+  "dataset_meanings": [
+   "tears",
+   "crying"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "泪",
+     "泪水"
+    ],
+    "note": "泪 is the literary/bare morpheme (poetry, compounds); 泪水 is more expressive/written (emphasizes the physical liquid); 眼泪 is the neutral everyday word for 'tears' (spoken and written)."
+   }
+  ]
+ },
+ {
+  "hanzi": "短处",
+  "pinyin": "duǎnchù",
+  "meaning_ru": "слабая сторона (разг.)",
+  "meaning_en": "weak point (personal, informal)",
+  "len_ru": 22,
+  "len_en": 31,
+  "cedict_en": "shortcoming/defect/fault/one's weak points",
+  "dataset_meanings": [
+   "shortcoming",
+   "defect",
+   "fault",
+   "one's weak points"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "缺点",
+     "弱点"
+    ],
+    "note": "短处 = personal weak point, informal and often self-deprecating; 缺点 = general flaw or shortcoming in anything; 弱点 = a vulnerability or soft spot that can be exploited."
+   }
+  ]
+ },
+ {
+  "hanzi": "研制",
+  "pinyin": "yánzhì",
+  "meaning_ru": "разрабатывать (НИОКР)",
+  "meaning_en": "develop via R&D",
+  "len_ru": 21,
+  "len_en": 15,
+  "cedict_en": "to research and manufacture; to research and to develop",
+  "dataset_meanings": [
+   "to research and manufacture; to research and to develop"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "开发",
+     "发展"
+    ],
+    "note": "研制 = R&D-based creation of a specific product; 开发 = exploit/open up (resources, software, land); 发展 = grow/expand something already existing"
+   }
+  ]
+ },
+ {
+  "hanzi": "碰到",
+  "pinyin": "pèngdào",
+  "meaning_ru": "случайно встретить; наткнуться",
+  "meaning_en": "run into; encounter by chance",
+  "len_ru": 30,
+  "len_en": 29,
+  "cedict_en": "to come across/to run into/to meet/to hit",
+  "dataset_meanings": [
+   "to come across",
+   "to run into",
+   "to meet",
+   "to hit"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "逢",
+     "见",
+     "会晤"
+    ],
+    "note": "碰到 = run into accidentally; 见 = to see/meet (neutral, general); 逢 = happen to meet, on a recurring occasion (literary); 会晤 = formal meeting (diplomatic/official)"
+   }
+  ]
+ },
+ {
+  "hanzi": "礼",
+  "pinyin": "lǐ",
+  "meaning_ru": "этикет; подарок (шире礼貌)",
+  "meaning_en": "ritual propriety; gift",
+  "len_ru": 24,
+  "len_en": 22,
+  "cedict_en": "surname Li/abbr. for 禮記|礼记[Li3 ji4], Classic of Rites/gift/rite/ceremony/CL:份[fen4]/propriety/etiquette/courtesy",
+  "dataset_meanings": [
+   "surname Li",
+   "abbr. for 礼记, Classic of Rites",
+   "gift",
+   "rite",
+   "ceremony",
+   "propriety",
+   "etiquette",
+   "courtesy"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "礼节",
+     "礼貌"
+    ],
+    "note": "礼 = broad concept: ritual propriety AND gift; 礼节 = specific ceremonial etiquette and rites; 礼貌 = everyday polite manner/courtesy"
+   }
+  ]
+ },
+ {
+  "hanzi": "票",
+  "pinyin": "piào",
+  "meaning_ru": "билет (вход, транспорт)",
+  "meaning_en": "ticket (entry/transport)",
+  "len_ru": 23,
+  "len_en": 24,
+  "cedict_en": "ticket/ballot/banknote/CL:張|张[zhang1]/person held for ransom/amateur performance of Chinese opera/classifier for groups, batches, business transactions",
+  "dataset_meanings": [
+   "ticket",
+   "ballot",
+   "banknote",
+   "person held for ransom",
+   "amateur performance of Chinese opera",
+   "classifier for groups, batches, business transactions"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "票价",
+     "彩票"
+    ],
+    "note": "票 = ticket (general: transport, event, admission); 票价 = the price of a ticket / fare; 彩票 = lottery ticket (a ticket bought for a chance to win, not for entry)."
+   }
+  ]
+ },
+ {
+  "hanzi": "票价",
+  "pinyin": "piàojià",
+  "meaning_ru": "цена билета",
+  "meaning_en": "ticket price; fare",
+  "len_ru": 11,
+  "len_en": 18,
+  "cedict_en": "ticket price; fare; admission fee",
+  "dataset_meanings": [
+   "ticket price; fare; admission fee"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "票",
+     "彩票"
+    ],
+    "note": "票 = ticket (general: transport, event, admission); 票价 = the price of a ticket / fare; 彩票 = lottery ticket (a ticket bought for a chance to win, not for entry)."
+   }
+  ]
+ },
+ {
+  "hanzi": "福",
+  "pinyin": "fú",
+  "meaning_ru": "счастье; удача (культурн.)",
+  "meaning_en": "blessing; fortune (cultural)",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "surname Fu/abbr. for Fujian province 福建省[Fu2 jian4 Sheng3]/good fortune/happiness/luck",
+  "dataset_meanings": [
+   "surname Fu",
+   "abbr. for Fujian province 省",
+   "good fortune",
+   "happiness",
+   "luck"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "好运",
+     "运气",
+     "福气"
+    ],
+    "note": "运气 = luck (good or bad, neutral); 好运 = good luck (simply positive); 福 = blessing/fortune (cultural, ceremonial); 福气 = blessed lot/good fortune (earned or destined, warm)"
+   }
+  ]
+ },
+ {
+  "hanzi": "秋季",
+  "pinyin": "qiūjì",
+  "meaning_ru": "осенний сезон (офиц.)",
+  "meaning_en": "autumn (formal/written)",
+  "len_ru": 21,
+  "len_en": 23,
+  "cedict_en": "autumn/fall",
+  "dataset_meanings": [
+   "autumn",
+   "fall"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "秋"
+    ],
+    "note": "秋季 = formal/written 'autumn season' (used in official, sports, or compound contexts); 秋 = general spoken/written 'autumn', also used in idioms"
+   }
+  ]
+ },
+ {
+  "hanzi": "种类",
+  "pinyin": "zhǒnglèi",
+  "meaning_ru": "виды; разнообразие типов",
+  "meaning_en": "kinds; range of types",
+  "len_ru": 24,
+  "len_en": 21,
+  "cedict_en": "kind/genus/type/category/variety/species/sort/class",
+  "dataset_meanings": [
+   "kind",
+   "genus",
+   "type",
+   "category",
+   "variety",
+   "species",
+   "sort",
+   "class"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "类",
+     "类型",
+     "品种"
+    ],
+    "note": "All relate to 'kind/type'. 类 is the abstract class/category (morpheme); 种类 = the variety/range of types (diverse spread); 类型 = a specific classified type; 品种 = breed or commercial variety (biological/product)."
+   },
+   {
+    "with": [
+     "类",
+     "类型",
+     "样式",
+     "品种"
+    ],
+    "note": "All express 'type/kind/variety'; 种类 = range of categories (countable set); 类 = broad class/genus; 类型 = formal typed classification; 样式 = visible style or pattern; 品种 = variety/breed (biological or product)."
+   }
+  ]
+ },
+ {
+  "hanzi": "积极性",
+  "pinyin": "jījíxìng",
+  "meaning_ru": "активность; рвение (качество)",
+  "meaning_en": "enthusiasm; initiative",
+  "len_ru": 29,
+  "len_en": 22,
+  "cedict_en": "zeal/initiative/enthusiasm/activity",
+  "dataset_meanings": [
+   "zeal",
+   "initiative",
+   "enthusiasm",
+   "activity"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "干劲",
+     "劲头"
+    ],
+    "note": "积极性 = enthusiasm as an abstract capacity or quality (formal); 干劲 = work drive, practical zeal (colloquial); 劲头 = vigor or spirit in the moment (colloquial, vivid)"
+   }
+  ]
+ },
+ {
+  "hanzi": "移",
+  "pinyin": "yí",
+  "meaning_ru": "перемещать; переносить",
+  "meaning_en": "move; transfer (incl. emigrate)",
+  "len_ru": 22,
+  "len_en": 31,
+  "cedict_en": "to move/to shift/to change/to alter/to remove",
+  "dataset_meanings": [
+   "to move",
+   "to shift",
+   "to change",
+   "to alter",
+   "to remove"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "挪"
+    ],
+    "note": "移 = move/shift (general, can be figurative: emigrate, transfer); 挪 = physically nudge/shift a small object to make room (colloquial, concrete)"
+   }
+  ]
+ },
+ {
+  "hanzi": "稳",
+  "pinyin": "wěn",
+  "meaning_ru": "устойчивый (не качается)",
+  "meaning_en": "steady (not wobbling)",
+  "len_ru": 24,
+  "len_en": 21,
+  "cedict_en": "settled; steady; stable",
+  "dataset_meanings": [
+   "settled",
+   "steady",
+   "stable"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "稳定"
+    ],
+    "note": "稳 is a monosyllabic adjective ('steady, not wobbling'); 稳定 is a disyllabic adj/noun/verb meaning 'stable; stability; to stabilize' — broader, used in formal and abstract contexts."
+   }
+  ]
+ },
+ {
+  "hanzi": "空中",
+  "pinyin": "kōngzhōng",
+  "meaning_ru": "в воздухе; в воздушн. простр.",
+  "meaning_en": "in the air; mid-air",
+  "len_ru": 29,
+  "len_en": 19,
+  "cedict_en": "in the sky/in the air",
+  "dataset_meanings": [
+   "in the sky",
+   "in the air"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "天上",
+     "天空",
+     "太空"
+    ],
+    "note": "All involve sky/air. 空中 = mid-air/airspace (where planes fly); 天上 = up in the sky/heavens (celestial, poetic); 天空 = the sky as a visual expanse (noun); 太空 = outer space (beyond atmosphere)."
+   }
+  ]
+ },
+ {
+  "hanzi": "窗子",
+  "pinyin": "chuāngzi",
+  "meaning_ru": "окно (разг., северн.)",
+  "meaning_en": "window (colloquial, northern)",
+  "len_ru": 21,
+  "len_en": 29,
+  "cedict_en": "window",
+  "dataset_meanings": [
+   "window"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "窗户"
+    ],
+    "note": "窗子 and 窗户 (5k) both mean 'window' and are nearly interchangeable in speech; 窗子 is slightly more colloquial/northern, 窗户 is the standard everyday form."
+   }
+  ]
+ },
+ {
+  "hanzi": "站住",
+  "pinyin": "zhànzhù",
+  "meaning_ru": "стой! (приказ остановиться)",
+  "meaning_en": "halt! (command to stop)",
+  "len_ru": 27,
+  "len_en": 23,
+  "cedict_en": "to come to a stop; to halt/to keep one's footing; to stay upright/(fig.) to hold one's ground; to gain a firm foothold/(of an assertion etc) to hold up; to be tenable",
+  "dataset_meanings": [
+   "to stand"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "停止",
+     "阻止",
+     "拦"
+    ],
+    "note": "站住 = imperative 'halt!/stop!' (physical, directed at a person); 停止 = cease an ongoing action (neutral, intransitive); 阻止 = block/prevent something already underway (transitive); 拦 = physically intercept or block passage."
+   }
+  ]
+ }
+]

@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "平稳",
+  "pinyin": "píngwěn",
+  "meaning_ru": "устойчивый; плавный",
+  "meaning_en": "stable; smooth",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "一般来说",
+  "pinyin": "yībānláishuō",
+  "meaning_ru": "вообще говоря",
+  "meaning_en": "generally speaking",
+  "semantic_tags": [
+   "logic_connective",
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "相片",
+  "pinyin": "xiàngpiàn",
+  "meaning_ru": "фотография",
+  "meaning_en": "photo",
+  "semantic_tags": [
+   "object_home",
+   "art"
+  ]
+ },
+ {
+  "hanzi": "闹钟",
+  "pinyin": "nàozhōng",
+  "meaning_ru": "будильник",
+  "meaning_en": "alarm clock",
+  "semantic_tags": [
+   "object_home",
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "大姐",
+  "pinyin": "dàjiě",
+  "meaning_ru": "старшая сестра",
+  "meaning_en": "eldest sister",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "气球",
+  "pinyin": "qìqiú",
+  "meaning_ru": "воздушный шар",
+  "meaning_en": "balloon",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "春季",
+  "pinyin": "chūnjì",
+  "meaning_ru": "весна; весенний сезон",
+  "meaning_en": "spring; springtime",
+  "semantic_tags": [
+   "time_period",
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "赞赏",
+  "pinyin": "zànshǎng",
+  "meaning_ru": "восхищаться; хвалить",
+  "meaning_en": "to admire; praise",
+  "semantic_tags": [
+   "communication_emotion",
+   "attitude"
+  ]
+ },
+ {
+  "hanzi": "构造",
+  "pinyin": "gòuzào",
+  "meaning_ru": "структура; строение",
+  "meaning_en": "structure",
+  "semantic_tags": [
+   "abstract_relation",
+   "shape_form"
+  ]
+ },
+ {
+  "hanzi": "虫子",
+  "pinyin": "chóngzi",
+  "meaning_ru": "насекомое; червяк",
+  "meaning_en": "insect; bug",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "刷牙",
+  "pinyin": "shuāyá",
+  "meaning_ru": "чистить зубы",
+  "meaning_en": "to brush teeth",
+  "semantic_tags": [
+   "action_daily",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "轮椅",
+  "pinyin": "lúnyǐ",
+  "meaning_ru": "инвалидная коляска",
+  "meaning_en": "wheelchair",
+  "semantic_tags": [
+   "health_medical",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "特价",
+  "pinyin": "tèjià",
+  "meaning_ru": "спеццена; скидка",
+  "meaning_en": "special price",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "暖气",
+  "pinyin": "nuǎnqì",
+  "meaning_ru": "отопление",
+  "meaning_en": "central heating",
+  "semantic_tags": [
+   "object_home",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "二手",
+  "pinyin": "èrshǒu",
+  "meaning_ru": "бывший в употреблении",
+  "meaning_en": "second-hand",
+  "semantic_tags": [
+   "evaluation_adj",
+   "commerce_trade"
+  ]
+ }
+]

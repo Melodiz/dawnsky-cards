@@ -1,0 +1,145 @@
+[
+ {
+  "hanzi": "爸",
+  "pinyin": "bà",
+  "meaning_ru": "папа",
+  "meaning_en": "dad; father",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "回去",
+  "pinyin": "huíqu",
+  "meaning_ru": "вернуться (туда)",
+  "meaning_en": "go back",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "病人",
+  "pinyin": "bìngrén",
+  "meaning_ru": "больной; пациент",
+  "meaning_en": "patient; sick person",
+  "semantic_tags": [
+   "health_medical",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "肉",
+  "pinyin": "ròu",
+  "meaning_ru": "мясо",
+  "meaning_en": "meat; flesh",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "打电话",
+  "pinyin": "dǎdiànhuà",
+  "meaning_ru": "звонить по телефону",
+  "meaning_en": "make a phone call",
+  "semantic_tags": [
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "有的",
+  "pinyin": "yǒude",
+  "meaning_ru": "некоторые",
+  "meaning_en": "some",
+  "semantic_tags": [
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "吃饭",
+  "pinyin": "chīfàn",
+  "meaning_ru": "есть; обедать",
+  "meaning_en": "eat; have a meal",
+  "semantic_tags": [
+   "action_daily",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "右",
+  "pinyin": "yòu",
+  "meaning_ru": "правый; справа",
+  "meaning_en": "right; right side",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "姐姐",
+  "pinyin": "jiějie",
+  "meaning_ru": "старшая сестра",
+  "meaning_en": "older sister",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "一半",
+  "pinyin": "yíbàn",
+  "meaning_ru": "половина",
+  "meaning_en": "half",
+  "semantic_tags": [
+   "quantity",
+   "number"
+  ]
+ },
+ {
+  "hanzi": "小姐",
+  "pinyin": "xiǎojie",
+  "meaning_ru": "девушка; мисс",
+  "meaning_en": "miss; young lady",
+  "semantic_tags": [
+   "person",
+   "politeness"
+  ]
+ },
+ {
+  "hanzi": "进去",
+  "pinyin": "jìnqù",
+  "meaning_ru": "войти (туда)",
+  "meaning_en": "go in; enter",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "没什么",
+  "pinyin": "méishénme",
+  "meaning_ru": "ничего; пустяки",
+  "meaning_en": "it's nothing; never mind",
+  "semantic_tags": [
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "路上",
+  "pinyin": "lùshang",
+  "meaning_ru": "в пути; по дороге",
+  "meaning_en": "on the way; en route",
+  "semantic_tags": [
+   "location",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "考试",
+  "pinyin": "kǎoshì",
+  "meaning_ru": "экзамен; сдавать экзамен",
+  "meaning_en": "exam; take an exam",
+  "semantic_tags": [
+   "education"
+  ]
+ }
+]

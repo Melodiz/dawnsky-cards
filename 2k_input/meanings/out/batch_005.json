@@ -1,0 +1,151 @@
+[
+ {
+  "hanzi": "新年",
+  "pinyin": "xīnnián",
+  "meaning_ru": "Новый год",
+  "meaning_en": "New Year",
+  "semantic_tags": [
+   "time_period",
+   "culture"
+  ]
+ },
+ {
+  "hanzi": "下班",
+  "pinyin": "xiàbān",
+  "meaning_ru": "уйти с работы",
+  "meaning_en": "get off work",
+  "semantic_tags": [
+   "work_career",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "读书",
+  "pinyin": "dúshū",
+  "meaning_ru": "читать; учиться",
+  "meaning_en": "read; study",
+  "semantic_tags": [
+   "action_learning",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "姐",
+  "pinyin": "jiě",
+  "meaning_ru": "старшая сестра",
+  "meaning_en": "older sister",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "坐下",
+  "pinyin": "zuòxia",
+  "meaning_ru": "сесть; присесть",
+  "meaning_en": "sit down",
+  "semantic_tags": [
+   "physical_action",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "哪些",
+  "pinyin": "nǎxiē",
+  "meaning_ru": "какие; которые",
+  "meaning_en": "which ones",
+  "semantic_tags": [
+   "pronoun"
+  ]
+ },
+ {
+  "hanzi": "饭店",
+  "pinyin": "fàndiàn",
+  "meaning_ru": "ресторан; отель",
+  "meaning_en": "restaurant; hotel",
+  "semantic_tags": [
+   "building",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "楼下",
+  "pinyin": "lóuxià",
+  "meaning_ru": "внизу; этажом ниже",
+  "meaning_en": "downstairs",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "好听",
+  "pinyin": "hǎotīng",
+  "meaning_ru": "приятный на слух",
+  "meaning_en": "pleasant to hear",
+  "semantic_tags": [
+   "evaluation_adj",
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "开会",
+  "pinyin": "kāihuì",
+  "meaning_ru": "проводить собрание",
+  "meaning_en": "hold a meeting",
+  "semantic_tags": [
+   "work_career",
+   "action_communication"
+  ]
+ },
+ {
+  "hanzi": "车站",
+  "pinyin": "chēzhàn",
+  "meaning_ru": "станция; остановка",
+  "meaning_en": "station; bus stop",
+  "semantic_tags": [
+   "transport_travel",
+   "building"
+  ]
+ },
+ {
+  "hanzi": "走路",
+  "pinyin": "zǒulù",
+  "meaning_ru": "идти пешком",
+  "meaning_en": "walk; go on foot",
+  "semantic_tags": [
+   "action_movement",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "小朋友",
+  "pinyin": "xiǎopéngyǒu",
+  "meaning_ru": "ребёнок; малыш",
+  "meaning_en": "child; kid",
+  "semantic_tags": [
+   "person",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "左边",
+  "pinyin": "zuǒbian",
+  "meaning_ru": "левая сторона; слева",
+  "meaning_en": "left side",
+  "semantic_tags": [
+   "direction",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "有用",
+  "pinyin": "yǒuyòng",
+  "meaning_ru": "полезный",
+  "meaning_en": "useful",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ]
+ }
+]

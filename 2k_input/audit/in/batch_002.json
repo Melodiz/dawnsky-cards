@@ -1,0 +1,1342 @@
+[
+ {
+  "hanzi": "发送",
+  "pinyin": "fāsòng",
+  "meaning_ru": "отправлять (цифр./офиц.)",
+  "meaning_en": "send (digitally/officially)",
+  "len_ru": 24,
+  "len_en": 27,
+  "cedict_en": "to transmit/to dispatch/to issue (an official document or credential)",
+  "dataset_meanings": [
+   "to transmit",
+   "to dispatch",
+   "to issue (an official document or credential)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "送给"
+    ],
+    "note": "送给 = give as a gift or hand something to someone; 发送 = transmit/send digitally or officially (messages, signals)"
+   }
+  ]
+ },
+ {
+  "hanzi": "受灾",
+  "pinyin": "shòuzāi",
+  "meaning_ru": "пострадать от бедствия",
+  "meaning_en": "be hit by disaster (formal)",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "disaster-stricken/to be hit by a natural calamity",
+  "dataset_meanings": [
+   "disaster-stricken",
+   "to be hit by a natural calamity"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "灾害",
+     "遭殃"
+    ],
+    "note": "灾害 = disaster as a noun (objective); 受灾 = be hit by a disaster (formal verb, official/news register); 遭殃 = suffer a calamity (colloquial, more dramatic/personal)"
+   }
+  ]
+ },
+ {
+  "hanzi": "变为",
+  "pinyin": "biànwéi",
+  "meaning_ru": "превращаться в (книжн.)",
+  "meaning_en": "become; change into (formal)",
+  "len_ru": 23,
+  "len_en": 28,
+  "cedict_en": "to change into",
+  "dataset_meanings": [
+   "to change into"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "变成",
+     "变得",
+     "变",
+     "成为",
+     "成"
+    ],
+    "note": "变为 = transform into (formal/written); 变成 = turn into (neutral, result-focused); 变得 = become + adj (only used before adjectives); 变 = to change/shift (bare verb); 成为 = become in the sense of taking on a role/status; 成 = succeed/become (short, often in complements like 变成)."
+   },
+   {
+    "with": [
+     "变",
+     "改变",
+     "变化",
+     "变动"
+    ],
+    "note": "变为 = become/turn into (directional result); 变 = general change/become (simple verb); 改变 = change intentionally (transitive, deliberate); 变化 = change/variation (noun/verb, natural process); 变动 = fluctuation/shift (noun, often institutional or unstable)"
+   }
+  ]
+ },
+ {
+  "hanzi": "变动",
+  "pinyin": "biàndòng",
+  "meaning_ru": "колебание; сдвиг",
+  "meaning_en": "fluctuation; shift",
+  "len_ru": 16,
+  "len_en": 18,
+  "cedict_en": "to change/to fluctuate/change/fluctuation",
+  "dataset_meanings": [
+   "to change",
+   "to fluctuate",
+   "change",
+   "fluctuation"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "变为",
+     "变",
+     "改变",
+     "变化"
+    ],
+    "note": "变为 = become/turn into (directional result); 变 = general change/become (simple verb); 改变 = change intentionally (transitive, deliberate); 变化 = change/variation (noun/verb, natural process); 变动 = fluctuation/shift (noun, often institutional or unstable)"
+   }
+  ]
+ },
+ {
+  "hanzi": "古",
+  "pinyin": "gǔ",
+  "meaning_ru": "древний (морфема/прилаг.)",
+  "meaning_en": "ancient; old (attributive)",
+  "len_ru": 25,
+  "len_en": 26,
+  "cedict_en": "surname Gu/ancient/old/paleo-",
+  "dataset_meanings": [
+   "surname Gu",
+   "ancient",
+   "old",
+   "paleo-"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "古老",
+     "古代",
+     "悠久"
+    ],
+    "note": "古 = ancient as attributive morpheme/adj (古城); 古老 = age-old (people/things still existing); 古代 = noun 'ancient times'; 悠久 = long-standing (history/tradition, formal praise)"
+   }
+  ]
+ },
+ {
+  "hanzi": "句",
+  "pinyin": "jù",
+  "meaning_ru": "счётн. сл. фраз; фраза",
+  "meaning_en": "cl. for sentences; sentence",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "variant of 勾[gou1]/sentence/clause/phrase/classifier for phrases or lines of verse",
+  "dataset_meanings": [
+   "variant of 勾",
+   "sentence",
+   "clause",
+   "phrase",
+   "classifier for phrases or lines of verse"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "句子"
+    ],
+    "note": "句 is primarily a measure word/classifier for sentences and set phrases; 句子 is the standalone noun 'sentence'. 句 as a noun is literary/abbreviated."
+   }
+  ]
+ },
+ {
+  "hanzi": "只不过",
+  "pinyin": "zhǐbuguò",
+  "meaning_ru": "всего лишь; просто (уступит.)",
+  "meaning_en": "only; just (dismissive)",
+  "len_ru": 29,
+  "len_en": 23,
+  "cedict_en": "only; merely; nothing but; no more than/it's just that ...",
+  "dataset_meanings": [
+   "only",
+   "merely",
+   "nothing but",
+   "no more than",
+   "it's just that ..."
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "仅仅",
+     "只是",
+     "无非",
+     "不过",
+     "仅"
+    ],
+    "note": "All restrict scope to 'merely/only': 仅/仅仅 are neutral restrictors; 只不过 and 只是 add a mild dismissive/concessive shade; 无非 = 'nothing but' (slightly emphatic); 不过 doubles as a concessive connector ('however')"
+   }
+  ]
+ },
+ {
+  "hanzi": "叫作",
+  "pinyin": "jiàozuò",
+  "meaning_ru": "называться (разг.)",
+  "meaning_en": "to be called (informal)",
+  "len_ru": 18,
+  "len_en": 23,
+  "cedict_en": "to call/to be called",
+  "dataset_meanings": [
+   "to call",
+   "to be called"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "称为",
+     "称"
+    ],
+    "note": "叫作 = be called/known as (everyday, informal naming); 称为 = be called/designated (neutral to formal, written); 称 = call or name (also means 'to weigh'; broader literary usage)."
+   }
+  ]
+ },
+ {
+  "hanzi": "可能",
+  "pinyin": "kěnéng",
+  "meaning_ru": "может быть; возможный",
+  "meaning_en": "maybe; possible (also: possibility)",
+  "len_ru": 21,
+  "len_en": 35,
+  "cedict_en": "might (happen)/possible/probable/possibility/probability/maybe/perhaps/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "might (happen)",
+   "possible",
+   "probable",
+   "possibility",
+   "probability",
+   "maybe",
+   "perhaps"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "也许",
+     "说不定"
+    ],
+    "note": "可能 = possible/maybe (also adj and noun: 'possibility'); 也许 = maybe (pure adverb, colloquial); 说不定 = maybe/who knows (implies genuine uncertainty, idiomatic)"
+   }
+  ]
+ },
+ {
+  "hanzi": "右",
+  "pinyin": "yòu",
+  "meaning_ru": "правый (морфема/прил.; ср. 右边)",
+  "meaning_en": "right (morpheme/adj.; cf. 右边)",
+  "len_ru": 30,
+  "len_en": 29,
+  "cedict_en": "(bound form) right; right-hand side/(bound form) (politics) right of center/(bound form) (old) west/(literary) the right side as the side of precedence",
+  "dataset_meanings": [
+   "(bound form) right; right-hand side",
+   "(bound form) (politics) right of center",
+   "(bound form) (old) west",
+   "(literary) the right side as the side of precedence"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "右边"
+    ],
+    "note": "右 = directional morpheme/adjective (right); 右边 = noun phrase for the right side as a location"
+   }
+  ]
+ },
+ {
+  "hanzi": "右边",
+  "pinyin": "yòubian",
+  "meaning_ru": "правая сторона (место; ср. 右)",
+  "meaning_en": "right side (location; cf. 右)",
+  "len_ru": 29,
+  "len_en": 28,
+  "cedict_en": "right side/right, to the right",
+  "dataset_meanings": [
+   "right side",
+   "right, to the right"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "右"
+    ],
+    "note": "右 = directional morpheme/adjective (right); 右边 = noun phrase for the right side as a location"
+   }
+  ]
+ },
+ {
+  "hanzi": "名人",
+  "pinyin": "míngrén",
+  "meaning_ru": "известная личность (любая сфера)",
+  "meaning_en": "notable person (any field)",
+  "len_ru": 32,
+  "len_en": 26,
+  "cedict_en": "personage/celebrity",
+  "dataset_meanings": [
+   "personage",
+   "celebrity"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "明星"
+    ],
+    "note": "名人 = famous or notable person in any field (history, politics, sport, arts); 明星 = star/celebrity, typically in entertainment (film, music, sport)."
+   }
+  ]
+ },
+ {
+  "hanzi": "名牌儿",
+  "pinyin": "míngpáir",
+  "meaning_ru": "известный бренд (儿化, разг.)",
+  "meaning_en": "famous brand (儿化, colloq.)",
+  "len_ru": 27,
+  "len_en": 26,
+  "cedict_en": "erhua form of 名牌[ming2 pai2]",
+  "dataset_meanings": [
+   "Famous brand"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "名牌"
+    ],
+    "note": "名牌儿 is the 儿化 colloquial/Beijing spoken variant of 名牌; same meaning but 名牌 is the standard written/formal form used in most contexts."
+   }
+  ]
+ },
+ {
+  "hanzi": "后头",
+  "pinyin": "hòutou",
+  "meaning_ru": "позади; сзади (разг.)",
+  "meaning_en": "behind; at the rear (colloq.)",
+  "len_ru": 21,
+  "len_en": 29,
+  "cedict_en": "behind/the back/the rear/later/afterwards/(in) the future",
+  "dataset_meanings": [
+   "behind",
+   "the back",
+   "the rear",
+   "later",
+   "afterwards",
+   "(in) the future"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "后面",
+     "背后",
+     "后"
+    ],
+    "note": "后面 = neutral spatial 'behind'; 背后 = behind s.o.'s back (literal or figurative scheming); 后头 = colloquial synonym of 后面; 后 = particle/literary 'after; behind'"
+   }
+  ]
+ },
+ {
+  "hanzi": "后年",
+  "pinyin": "hòunián",
+  "meaning_ru": "послепослезавтрашний год",
+  "meaning_en": "year after next",
+  "len_ru": 24,
+  "len_en": 15,
+  "cedict_en": "the year after next",
+  "dataset_meanings": [
+   "the year after next"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "含有",
+  "pinyin": "hányǒu",
+  "meaning_ru": "содержать (вещество)",
+  "meaning_en": "contain (substance/element)",
+  "len_ru": 20,
+  "len_en": 27,
+  "cedict_en": "to contain/including",
+  "dataset_meanings": [
+   "to contain",
+   "including"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "含",
+     "包含"
+    ],
+    "note": "含 = hold in mouth/contain (physical or abstract, single character). 含有 = contain (specific substance/element, formal). 包含 = contain/include (broader set membership, formal)."
+   }
+  ]
+ },
+ {
+  "hanzi": "含量",
+  "pinyin": "hánliàng",
+  "meaning_ru": "содержание (доля компонента)",
+  "meaning_en": "measurable content (e.g. %)",
+  "len_ru": 28,
+  "len_en": 27,
+  "cedict_en": "content/quantity contained",
+  "dataset_meanings": [
+   "content",
+   "quantity contained"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "内容"
+    ],
+    "note": "内容 (5k) = content as subject matter/substance of a text or topic; 含量 = measurable amount/proportion of a component (e.g. sugar content, nutrient content)"
+   }
+  ]
+ },
+ {
+  "hanzi": "听写",
+  "pinyin": "tīngxiě",
+  "meaning_ru": "диктант; писать под диктовку",
+  "meaning_en": "dictation",
+  "len_ru": 28,
+  "len_en": 9,
+  "cedict_en": "(of a pupil) to write down (in a dictation exercise); dictation/(music) to transcribe by ear",
+  "dataset_meanings": [
+   "(of a pupil) to write down (in a dictation exercise)",
+   "dictation",
+   "(music) to transcribe by ear"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "听见",
+  "pinyin": "tīngjiàn",
+  "meaning_ru": "услышать (акцент на восприятии)",
+  "meaning_en": "to hear (sound reached you)",
+  "len_ru": 31,
+  "len_en": 27,
+  "cedict_en": "to hear",
+  "dataset_meanings": [
+   "to hear"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "听到"
+    ],
+    "note": "Both mean 'to hear'; 听见 = hear (emphasises the sensory event — sound reached you); 听到 = hear (neutral completion — you received the sound)"
+   }
+  ]
+ },
+ {
+  "hanzi": "吸",
+  "pinyin": "xī",
+  "meaning_ru": "вдыхать; всасывать",
+  "meaning_en": "inhale; suck in",
+  "len_ru": 18,
+  "len_en": 15,
+  "cedict_en": "to breathe/to suck in/to absorb/to inhale",
+  "dataset_meanings": [
+   "to breathe",
+   "to suck in",
+   "to absorb",
+   "to inhale"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "吸收",
+     "吸取",
+     "摄取"
+    ],
+    "note": "吸 = inhale/suck in (physical action); 吸收 = absorb/assimilate (physics, nutrients, ideas); 吸取 = draw/extract (lessons, experience); 摄取 = intake/ingest (nutritional/biological)."
+   }
+  ]
+ },
+ {
+  "hanzi": "吸烟",
+  "pinyin": "xīyān",
+  "meaning_ru": "курить (офиц./таблички)",
+  "meaning_en": "smoke (formal/signs)",
+  "len_ru": 23,
+  "len_en": 20,
+  "cedict_en": "to smoke",
+  "dataset_meanings": [
+   "to smoke"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "抽烟"
+    ],
+    "note": "吸烟 = smoke (formal/written, e.g. no-smoking signs); 抽烟 = smoke (colloquial everyday speech)"
+   }
+  ]
+ },
+ {
+  "hanzi": "味儿",
+  "pinyin": "wèir",
+  "meaning_ru": "вкус; запах (разг.)",
+  "meaning_en": "taste; smell (colloquial)",
+  "len_ru": 19,
+  "len_en": 25,
+  "cedict_en": "taste",
+  "dataset_meanings": [
+   "taste"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "味道",
+     "滋味",
+     "口味"
+    ],
+    "note": "味道 = flavor/smell (neutral, most common); 味儿 = colloquial/dialectal variant of 味道; 滋味 = taste plus the feeling/aftertaste (can be figurative); 口味 = one's personal taste preference or a food's flavor profile."
+   }
+  ]
+ },
+ {
+  "hanzi": "哈哈",
+  "pinyin": "hāhā",
+  "meaning_ru": "ха-ха (смех)",
+  "meaning_en": "laughing out loud",
+  "len_ru": 12,
+  "len_en": 17,
+  "cedict_en": "(onom.) laughing out loud",
+  "dataset_meanings": [
+   "(onom.) laughing out loud"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "哥",
+  "pinyin": "gē",
+  "meaning_ru": "старший брат (не обяз. старший)",
+  "meaning_en": "elder brother (any, not eldest)",
+  "len_ru": 31,
+  "len_en": 31,
+  "cedict_en": "elder brother",
+  "dataset_meanings": [
+   "elder brother"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "大哥"
+    ],
+    "note": "哥 = any elder brother (non-specific); 大哥 = the eldest brother specifically, or respectful address to an older male"
+   }
+  ]
+ },
+ {
+  "hanzi": "唱",
+  "pinyin": "chàng",
+  "meaning_ru": "петь (разг., любой контекст)",
+  "meaning_en": "to sing (any context)",
+  "len_ru": 28,
+  "len_en": 21,
+  "cedict_en": "to sing/to call loudly/to chant",
+  "dataset_meanings": [
+   "to sing",
+   "to call loudly",
+   "to chant"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "演唱"
+    ],
+    "note": "唱 = sing (everyday, any context); 演唱 = sing in a formal or stage performance (implies an audience)"
+   }
+  ]
+ },
+ {
+  "hanzi": "商务",
+  "pinyin": "shāngwù",
+  "meaning_ru": "бизнес (официально-деловой)",
+  "meaning_en": "business (formal context)",
+  "len_ru": 27,
+  "len_en": 25,
+  "cedict_en": "commercial affairs/commercial/commerce/business",
+  "dataset_meanings": [
+   "commercial affairs",
+   "commercial",
+   "commerce",
+   "business"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "生意",
+     "买卖",
+     "商业"
+    ],
+    "note": "商务 = business in a formal/official sense (商务舱, 商务部); 商业 = commerce as an industry or sector; 生意 = everyday running of a trade or shop; 买卖 = the concrete act of buying and selling (transactions)."
+   }
+  ]
+ },
+ {
+  "hanzi": "喜爱",
+  "pinyin": "xǐʼài",
+  "meaning_ru": "любить (предпочтение, мягче)",
+  "meaning_en": "like; be fond of (lighter)",
+  "len_ru": 28,
+  "len_en": 26,
+  "cedict_en": "to like/to love/to be fond of/favorite",
+  "dataset_meanings": [
+   "to like",
+   "to love",
+   "to be fond of",
+   "favorite"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "爱",
+     "热爱",
+     "恋爱"
+    ],
+    "note": "爱 = love/like (broad, deep); 喜爱 = like/be fond of (preference, lighter); 热爱 = love ardently (a cause, career, country); 恋爱 = be romantically in love (relationship state)."
+   }
+  ]
+ },
+ {
+  "hanzi": "回头",
+  "pinyin": "huítóu",
+  "meaning_ru": "обернуться; (разг.) попозже",
+  "meaning_en": "turn back; (colloq.) later",
+  "len_ru": 27,
+  "len_en": 26,
+  "cedict_en": "to turn round; to turn one's head/later; by and by",
+  "dataset_meanings": [
+   "to turn round; to turn one's head",
+   "later; by and by"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "转向",
+     "拐弯"
+    ],
+    "note": "转向 = change direction / pivot (vehicle, policy, broad turn); 回头 = turn one's head back / return; also colloquial 'later'; 拐弯 = turn a corner (physical, road/path)"
+   }
+  ]
+ },
+ {
+  "hanzi": "团长",
+  "pinyin": "tuánzhǎng",
+  "meaning_ru": "командир полка; глава группы",
+  "meaning_en": "regiment/group leader",
+  "len_ru": 28,
+  "len_en": 21,
+  "cedict_en": "regimental command/head of a delegation/group buy organizer; group-buying coordinator",
+  "dataset_meanings": [
+   "regimental command",
+   "head of a delegation",
+   "group buy organizer; group-buying coordinator"
+  ],
+  "must_distinguish": []
+ },
+ {
+  "hanzi": "国庆",
+  "pinyin": "guóqìng",
+  "meaning_ru": "День образования КНР (сокр.)",
+  "meaning_en": "National Day (abbrev. 国庆节)",
+  "len_ru": 28,
+  "len_en": 26,
+  "cedict_en": "National Day",
+  "dataset_meanings": [
+   "National Day"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "国庆节"
+    ],
+    "note": "国庆节 is the full name of the PRC National Day holiday; 国庆 is the short form used attributively (国庆假期) or in contexts where 节 is understood."
+   }
+  ]
+ },
+ {
+  "hanzi": "图画",
+  "pinyin": "túhuà",
+  "meaning_ru": "рисунок; нарисованная картина",
+  "meaning_en": "drawing; hand-drawn picture",
+  "len_ru": 29,
+  "len_en": 27,
+  "cedict_en": "drawing/picture",
+  "dataset_meanings": [
+   "drawing",
+   "picture"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "图片",
+     "图"
+    ],
+    "note": "图画 = hand-drawn or painted picture (artwork); 图片 = photo or printed/digital image; 图 = functional visual: diagram, chart, or map"
+   }
+  ]
+ },
+ {
+  "hanzi": "土",
+  "pinyin": "tǔ",
+  "meaning_ru": "земля; почва (как вещество)",
+  "meaning_en": "soil; earth (as a material)",
+  "len_ru": 27,
+  "len_en": 27,
+  "cedict_en": "surname Tu/Tu ethnic group/earth/dust/clay/local/indigenous/crude opium/unsophisticated/one of the eight categories of ancient musical instruments 八音[ba1 yin1]",
+  "dataset_meanings": [
+   "Tu (ethnic group)",
+   "surname Tu",
+   "earth",
+   "dust",
+   "clay",
+   "local",
+   "indigenous",
+   "crude opium",
+   "unsophisticated",
+   "one of the eight categories of ancient musical instruments 音"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "土地"
+    ],
+    "note": "土 = soil/earth as a material substance; 土地 (5k) = land as property, territory, or arable ground"
+   }
+  ]
+ },
+ {
+  "hanzi": "在场",
+  "pinyin": "zàichǎng",
+  "meaning_ru": "присутствовать (на месте события)",
+  "meaning_en": "be present (at the scene)",
+  "len_ru": 33,
+  "len_en": 25,
+  "cedict_en": "to be present; to be on the scene",
+  "dataset_meanings": [
+   "to be present",
+   "to be on the scene"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "处在"
+    ],
+    "note": "在场 = be present at an event/scene (often legal/official: witness present); 处在 = be situated in a state or condition (abstract or physical location in a state)."
+   }
+  ]
+ },
+ {
+  "hanzi": "地下",
+  "pinyin": "dìxià",
+  "meaning_ru": "подземный; тайный, подпольный",
+  "meaning_en": "underground; clandestine",
+  "len_ru": 29,
+  "len_en": 24,
+  "cedict_en": "underground/subterranean/covert",
+  "dataset_meanings": [
+   "underground",
+   "subterranean",
+   "covert"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "之下"
+    ],
+    "note": "之下 = under/beneath (abstract hierarchy: rule, pressure, conditions); 地下 = underground (physical location, also fig. clandestine)"
+   }
+  ]
+ },
+ {
+  "hanzi": "地形",
+  "pinyin": "dìxíng",
+  "meaning_ru": "рельеф (тип местности)",
+  "meaning_en": "terrain (landform types)",
+  "len_ru": 22,
+  "len_en": 24,
+  "cedict_en": "topography/terrain/landform",
+  "dataset_meanings": [
+   "topography",
+   "terrain",
+   "landform"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "地势"
+    ],
+    "note": "地形 = terrain/landforms (types of physical features: hills, plains, rivers — descriptive); 地势 = the lie/configuration of the land (how high/low/sloped it sits — positional)."
+   }
+  ]
+ },
+ {
+  "hanzi": "地面",
+  "pinyin": "dìmiàn",
+  "meaning_ru": "земля; поверхность",
+  "meaning_en": "ground; floor (underfoot)",
+  "len_ru": 18,
+  "len_en": 25,
+  "cedict_en": "floor/ground/surface",
+  "dataset_meanings": [
+   "floor",
+   "ground",
+   "surface"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "面",
+     "平面"
+    ],
+    "note": "地面 = the ground/floor (physical underfoot surface); 面 = any face or surface (general, also spatial classifier); 平面 = flat plane (geometric/technical term)"
+   }
+  ]
+ },
+ {
+  "hanzi": "坏处",
+  "pinyin": "huàichu",
+  "meaning_ru": "вред; минус",
+  "meaning_en": "downside; drawback (noun)",
+  "len_ru": 11,
+  "len_en": 25,
+  "cedict_en": "harm/troubles/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "harm",
+   "troubles"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "有害",
+     "危害",
+     "伤害"
+    ],
+    "note": "坏处 = noun: a downside/drawback; 有害 = adjective: harmful/damaging; 危害 = verb/noun: endanger, pose a threat (systemic); 伤害 = verb: to hurt/injure (person, feelings)"
+   }
+  ]
+ },
+ {
+  "hanzi": "型号",
+  "pinyin": "xínghào",
+  "meaning_ru": "модель изделия (с номером)",
+  "meaning_en": "product model number; spec",
+  "len_ru": 26,
+  "len_en": 26,
+  "cedict_en": "model (particular version of a manufactured article)/type (product specification in terms of color, size etc)",
+  "dataset_meanings": [
+   "model (particular version of a manufactured article)",
+   "type (product specification in terms of color, size etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "型"
+    ],
+    "note": "型 = type/model as a bound suffix in compounds; 型号 = the full product model/spec designation (number + type, e.g. iPhone型号)"
+   }
+  ]
+ },
+ {
+  "hanzi": "培训班",
+  "pinyin": "péixùnbān",
+  "meaning_ru": "учебные курсы (группа)",
+  "meaning_en": "training class (course)",
+  "len_ru": 22,
+  "len_en": 23,
+  "cedict_en": "training class",
+  "dataset_meanings": [
+   "training class"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "培训",
+     "培养",
+     "训练"
+    ],
+    "note": "培训班 = training class (a scheduled course/class); 培训 = vocational training (the process, workplace-oriented); 培养 = nurture/develop over time (people, skills, habits); 训练 = drill/train (repeated practice, sport or military)"
+   }
+  ]
+ },
+ {
+  "hanzi": "基本上",
+  "pinyin": "jīběnshang",
+  "meaning_ru": "в основном; по сути",
+  "meaning_en": "basically; on the whole",
+  "len_ru": 19,
+  "len_en": 23,
+  "cedict_en": "basically/on the whole",
+  "dataset_meanings": [
+   "basically",
+   "on the whole"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "基本"
+    ],
+    "note": "基本上 = purely adverbial 'basically; on the whole'; 基本 = 'basic' (adjective) or 'basically' (adverb) — more versatile but less emphatic as adverb"
+   }
+  ]
+ },
+ {
+  "hanzi": "增",
+  "pinyin": "zēng",
+  "meaning_ru": "увеличивать; прибавлять (корень)",
+  "meaning_en": "increase; add (root morpheme)",
+  "len_ru": 32,
+  "len_en": 29,
+  "cedict_en": "(bound form) to increase; to augment; to add to",
+  "dataset_meanings": [
+   "(bound form) to increase; to augment; to add to"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "增多",
+     "增加",
+     "增长",
+     "增添",
+     "递增"
+    ],
+    "note": "增 = root morpheme (increase/add); 增多 = grow in number (intransitive, count nouns); 增加 = increase (transitive or intransitive, most neutral); 增长 = grow (often GDP/population, with scale sense); 增添 = add to/enrich (positive connotation); 递增 = increase incrementally/steadily."
+   }
+  ]
+ },
+ {
+  "hanzi": "增多",
+  "pinyin": "zēngduō",
+  "meaning_ru": "увеличиваться (непереход.)",
+  "meaning_en": "to grow in number (intrans.)",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "to increase/to grow in number",
+  "dataset_meanings": [
+   "to increase",
+   "to grow in number"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "增",
+     "增加",
+     "增长",
+     "增添",
+     "递增"
+    ],
+    "note": "增 = root morpheme (increase/add); 增多 = grow in number (intransitive, count nouns); 增加 = increase (transitive or intransitive, most neutral); 增长 = grow (often GDP/population, with scale sense); 增添 = add to/enrich (positive connotation); 递增 = increase incrementally/steadily."
+   }
+  ]
+ },
+ {
+  "hanzi": "增大",
+  "pinyin": "zēngdà",
+  "meaning_ru": "увеличивать(ся) (размер/число)",
+  "meaning_en": "increase in size or amount",
+  "len_ru": 30,
+  "len_en": 26,
+  "cedict_en": "to enlarge/to amplify/to magnify",
+  "dataset_meanings": [
+   "to enlarge",
+   "to amplify",
+   "to magnify"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "放大",
+     "扩大"
+    ],
+    "note": "增大 = increase in size or amount (general growth). 放大 = magnify/enlarge (optical or signal amplification). 扩大 = expand/broaden (scope, scale, influence)."
+   }
+  ]
+ },
+ {
+  "hanzi": "声",
+  "pinyin": "shēng",
+  "meaning_ru": "звук (морфема; счётное сл.)",
+  "meaning_en": "sound (morpheme; mw for sounds)",
+  "len_ru": 27,
+  "len_en": 31,
+  "cedict_en": "sound/voice/tone/noise/reputation/classifier for sounds",
+  "dataset_meanings": [
+   "sound",
+   "voice",
+   "tone",
+   "noise",
+   "reputation",
+   "classifier for sounds"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "声音"
+    ],
+    "note": "声 is a bound morpheme/literary unit (also a measure word for sounds); 声音 is the standalone spoken word for sound or voice in everyday use"
+   }
+  ]
+ },
+ {
+  "hanzi": "处在",
+  "pinyin": "chǔzài",
+  "meaning_ru": "находиться в (состоянии, положении)",
+  "meaning_en": "be in a state/condition",
+  "len_ru": 35,
+  "len_en": 23,
+  "cedict_en": "to be situated at/to find oneself at",
+  "dataset_meanings": [
+   "to be situated at",
+   "to find oneself at"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "在场"
+    ],
+    "note": "在场 = be present at an event/scene (often legal/official: witness present); 处在 = be situated in a state or condition (abstract or physical location in a state)."
+   }
+  ]
+ },
+ {
+  "hanzi": "处罚",
+  "pinyin": "chǔfá",
+  "meaning_ru": "наказывать; штрафовать (адм.)",
+  "meaning_en": "penalize; punish (administrative)",
+  "len_ru": 29,
+  "len_en": 33,
+  "cedict_en": "to penalize/to punish",
+  "dataset_meanings": [
+   "to penalize",
+   "to punish"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "惩罚",
+     "制裁"
+    ],
+    "note": "处罚 = penalize (administrative, fines); 惩罚 = punish (moral/disciplinary); 制裁 = sanctions (political/legal, formal register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "夏天",
+  "pinyin": "xiàtiān",
+  "meaning_ru": "лето (разг., повседн.)",
+  "meaning_en": "summer (everyday, spoken)",
+  "len_ru": 22,
+  "len_en": 25,
+  "cedict_en": "summer/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "summer"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "夏季",
+     "夏"
+    ],
+    "note": "夏 is a bare morpheme (mostly in compounds); 夏天 is spoken/everyday 'summer'; 夏季 is written/formal 'summer season' — not interchangeable in register."
+   }
+  ]
+ },
+ {
+  "hanzi": "夏季",
+  "pinyin": "xiàjì",
+  "meaning_ru": "летний сезон (офиц.)",
+  "meaning_en": "summer (formal/written)",
+  "len_ru": 20,
+  "len_en": 23,
+  "cedict_en": "summer",
+  "dataset_meanings": [
+   "summer"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "夏天",
+     "夏"
+    ],
+    "note": "夏 is a bare morpheme (mostly in compounds); 夏天 is spoken/everyday 'summer'; 夏季 is written/formal 'summer season' — not interchangeable in register."
+   }
+  ]
+ },
+ {
+  "hanzi": "外",
+  "pinyin": "wài",
+  "meaning_ru": "снаружи; внешний (морфема)",
+  "meaning_en": "outside; external (morpheme)",
+  "len_ru": 26,
+  "len_en": 28,
+  "cedict_en": "outside/in addition/foreign/external",
+  "dataset_meanings": [
+   "outside",
+   "in addition",
+   "foreign",
+   "external"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "外边",
+     "外面",
+     "之外"
+    ],
+    "note": "All mean 'outside': 外 is a bound morpheme/prefix; 外边 (colloq.) and 外面 (neutral) are interchangeable locatives; 之外 is a formal/written postposition meaning 'apart from/beyond'"
+   }
+  ]
+ },
+ {
+  "hanzi": "外套",
+  "pinyin": "wàitào",
+  "meaning_ru": "пальто; куртка (верхн. одежда)",
+  "meaning_en": "coat; jacket (outerwear)",
+  "len_ru": 30,
+  "len_en": 24,
+  "cedict_en": "outer garment; jacket; coat/CL:件[jian4]",
+  "dataset_meanings": [
+   "coat",
+   "jacket"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "羽绒服"
+    ],
+    "note": "外套 = coat/jacket (general outerwear, any material); 羽绒服 = down jacket (specific insulated garment type)"
+   }
+  ]
+ },
+ {
+  "hanzi": "外文",
+  "pinyin": "wàiwén",
+  "meaning_ru": "иностранный язык (письм.)",
+  "meaning_en": "foreign language (written)",
+  "len_ru": 25,
+  "len_en": 26,
+  "cedict_en": "foreign language (written)",
+  "dataset_meanings": [
+   "foreign language (written)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "外语"
+    ],
+    "note": "外语 = foreign language (general, spoken or written); 外文 = foreign language in its written/textual form (used for books, documents, written materials)."
+   }
+  ]
+ },
+ {
+  "hanzi": "外边",
+  "pinyin": "wàibian",
+  "meaning_ru": "снаружи (разг. место)",
+  "meaning_en": "outside (colloquial locative)",
+  "len_ru": 21,
+  "len_en": 29,
+  "cedict_en": "outside/outer surface/abroad/place other than one's home",
+  "dataset_meanings": [
+   "outside",
+   "outer surface",
+   "abroad",
+   "place other than one's home"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "外",
+     "外面",
+     "之外"
+    ],
+    "note": "All mean 'outside': 外 is a bound morpheme/prefix; 外边 (colloq.) and 外面 (neutral) are interchangeable locatives; 之外 is a formal/written postposition meaning 'apart from/beyond'"
+   }
+  ]
+ },
+ {
+  "hanzi": "外面",
+  "pinyin": "wàimiàn",
+  "meaning_ru": "снаружи; вне (нареч.)",
+  "meaning_en": "outside (neutral locative)",
+  "len_ru": 21,
+  "len_en": 26,
+  "cedict_en": "outside (also pr. [wai4 mian5] for this sense)/surface/exterior/external appearance",
+  "dataset_meanings": [
+   "outside (also pr. [wài mian] for this sense)",
+   "surface",
+   "exterior",
+   "external appearance"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "外",
+     "外边",
+     "之外"
+    ],
+    "note": "All mean 'outside': 外 is a bound morpheme/prefix; 外边 (colloq.) and 外面 (neutral) are interchangeable locatives; 之外 is a formal/written postposition meaning 'apart from/beyond'"
+   }
+  ]
+ },
+ {
+  "hanzi": "多种",
+  "pinyin": "duōzhǒng",
+  "meaning_ru": "много видов; разнообразные",
+  "meaning_en": "many kinds (variety of types)",
+  "len_ru": 26,
+  "len_en": 29,
+  "cedict_en": "many kinds of; multiple; diverse; multi-",
+  "dataset_meanings": [
+   "many kinds of; multiple; diverse; multi-"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "各种"
+    ],
+    "note": "多种 = many kinds/varieties (stresses quantity of types); 各种 = all kinds/every sort (stresses variety covering each type)"
+   }
+  ]
+ },
+ {
+  "hanzi": "夜里",
+  "pinyin": "yèli",
+  "meaning_ru": "ночью (разг.)",
+  "meaning_en": "at night (colloquial)",
+  "len_ru": 13,
+  "len_en": 21,
+  "cedict_en": "during the night/at night/nighttime",
+  "dataset_meanings": [
+   "during the night",
+   "at night",
+   "nighttime"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "夜间",
+     "夜"
+    ],
+    "note": "夜里 = colloquial spoken 'at night'; 夜间 = formal/written 'nighttime' (used in official/technical contexts); 夜 = literary/classical monosyllable"
+   }
+  ]
+ },
+ {
+  "hanzi": "夜间",
+  "pinyin": "yèjiān",
+  "meaning_ru": "в ночное время (офиц.)",
+  "meaning_en": "nighttime (formal/written)",
+  "len_ru": 22,
+  "len_en": 26,
+  "cedict_en": "nighttime/evening or night (e.g. classes)",
+  "dataset_meanings": [
+   "nighttime",
+   "evening or night (e.g. classes)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "夜里",
+     "夜"
+    ],
+    "note": "夜里 = colloquial spoken 'at night'; 夜间 = formal/written 'nighttime' (used in official/technical contexts); 夜 = literary/classical monosyllable"
+   }
+  ]
+ },
+ {
+  "hanzi": "大人",
+  "pinyin": "dàren",
+  "meaning_ru": "взрослый (разг.)",
+  "meaning_en": "adult; grownup (colloquial)",
+  "len_ru": 16,
+  "len_en": 27,
+  "cedict_en": "adult/grownup/title of respect toward superiors",
+  "dataset_meanings": [
+   "adult",
+   "grownup",
+   "title of respect toward superiors"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "成人"
+    ],
+    "note": "成人 is formal/written (legal, official contexts); 大人 is colloquial/spoken, used esp. when talking to children"
+   }
+  ]
+ },
+ {
+  "hanzi": "大众",
+  "pinyin": "dàzhòng",
+  "meaning_ru": "массы; публика (офиц.)",
+  "meaning_en": "the masses; public (formal)",
+  "len_ru": 22,
+  "len_en": 27,
+  "cedict_en": "Volkswagen (automobile manufacturer)/the masses/the great bulk of the population/popular (of music, science etc)",
+  "dataset_meanings": [
+   "Volkswagen (automobile manufacturer)",
+   "the masses",
+   "the great bulk of the population",
+   "popular (of music, science etc)"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "老百姓"
+    ],
+    "note": "大众 = the masses / the general public (neutral to formal, used in media/slogans: 大众文化); 老百姓 = ordinary folks / the common people (colloquial, warm, emphasises everyday citizens)."
+   }
+  ]
+ },
+ {
+  "hanzi": "大厅",
+  "pinyin": "dàtīng",
+  "meaning_ru": "зал; холл; фойе",
+  "meaning_en": "large public hall; lobby",
+  "len_ru": 15,
+  "len_en": 24,
+  "cedict_en": "hall; concourse; public lounge; (hotel) lobby",
+  "dataset_meanings": [
+   "hall",
+   "lounge"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "厅",
+     "客厅"
+    ],
+    "note": "厅 = hall or living room (general); 大厅 = large public lobby/hall (e.g. hotel, station); 客厅 = living room specifically in a home"
+   }
+  ]
+ },
+ {
+  "hanzi": "大声",
+  "pinyin": "dàshēng",
+  "meaning_ru": "громко (о голосе)",
+  "meaning_en": "loudly (voice, not 'loud & clear')",
+  "len_ru": 17,
+  "len_en": 34,
+  "cedict_en": "loud voice/in a loud voice/loudly",
+  "dataset_meanings": [
+   "loud voice",
+   "in a loud voice",
+   "loudly"
+  ],
+  "must_distinguish": [
+   {
+    "with": [
+     "响亮",
+     "响"
+    ],
+    "note": "All describe loudness; 响 = to make sound / be loud (verb/adj, broad); 响亮 = loud and clear (evaluative adj, positive); 大声 = loudly, in a loud voice (manner adverb, neutral)."
+   }
+  ]
+ }
+]

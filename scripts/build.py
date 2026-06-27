@@ -31,12 +31,15 @@ def strip_tones(s):
     return stripped.replace('ü', 'v').replace('Ü', 'V').lower()
 
 
-HSK_LVL_RE = re.compile(r'hsk\s*2\.0-L([1-6])', re.I)
-HSK_FALLBACK_RE = re.compile(r'\bHSK\s*([1-6])\b', re.I)
+# Prefer the authoritative source token (hsk2.0-L3 / hsk3.0-L5); the bare
+# "HSK N" fallback must NOT fire on "HSK 3.0" (it would read the major version
+# as the level), so the source token is tried first.
+HSK_LVL_RE = re.compile(r'hsk\s*\d(?:\.\d)?-L([1-9])', re.I)
+HSK_FALLBACK_RE = re.compile(r'\bHSK\s*([1-6])\b(?!\s*\.)', re.I)
 
 
 def extract_hsk(data):
-    """Best-effort HSK level (1-6) from footer_note; 0 for frequency / unlevelled words."""
+    """Best-effort HSK level from footer_note; 0 for frequency / unlevelled words."""
     fn = data.get("footer_note", "") or ""
     m = HSK_LVL_RE.search(fn) or HSK_FALLBACK_RE.search(fn)
     return int(m.group(1)) if m else 0
@@ -241,6 +244,39 @@ def build_manifest():
     return cards
 
 
+def _load_hsk_source_map():
+    """hanzi -> HSK level from the expansion input files (authoritative). Empty if absent.
+
+    Footers are Russian prose and phrase the level inconsistently, so the
+    canonical 'source' field (e.g. hsk2.0-L3 / hsk3.0-L5) is the reliable source.
+    """
+    m = {}
+    for rel in ("5k_input/words.jsonl", "2k_input/words.jsonl"):
+        p = ROOT / rel
+        if not p.exists():
+            continue
+        with p.open(encoding="utf-8") as f:
+            for line in f:
+                try:
+                    w = json.loads(line)
+                except ValueError:
+                    continue
+                mm = re.search(r"-L([1-9])", w.get("source", "") or "")
+                if mm:
+                    m.setdefault(w["hanzi"], int(mm.group(1)))
+    return m
+
+
+HSK_SOURCE_MAP = _load_hsk_source_map()
+
+
+def hsk_level(hanzi, data):
+    """Authoritative HSK level from the source map; footer parsing as fallback."""
+    if hanzi in HSK_SOURCE_MAP:
+        return HSK_SOURCE_MAP[hanzi]
+    return extract_hsk(data)
+
+
 def collect_entries(cards):
     """Build the sorted word-list entries shared by index.html and picker/."""
     entries = []
@@ -251,7 +287,7 @@ def collect_entries(cards):
             pinyin = data["pinyin"]
             meaning_ru = data["meaning_ru"]
             meaning_en = data.get("meaning_en", "")
-            hsk = extract_hsk(data)
+            hsk = hsk_level(hanzi, data)
         else:
             pinyin = ""
             meaning_ru = ""

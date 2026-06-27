@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "赔",
+  "pinyin": "péi",
+  "meaning_ru": "возмещать; нести убыток",
+  "meaning_en": "compensate; lose money",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "糟",
+  "pinyin": "zāo",
+  "meaning_ru": "скверно; ужасно",
+  "meaning_en": "terrible; in a mess",
+  "semantic_tags": [
+   "evaluation_adj",
+   "manner_state"
+  ]
+ },
+ {
+  "hanzi": "摄影师",
+  "pinyin": "shèyǐngshī",
+  "meaning_ru": "фотограф; оператор",
+  "meaning_en": "photographer; cameraman",
+  "semantic_tags": [
+   "occupation"
+  ]
+ },
+ {
+  "hanzi": "四周",
+  "pinyin": "sìzhōu",
+  "meaning_ru": "вокруг; со всех сторон",
+  "meaning_en": "all around",
+  "semantic_tags": [
+   "spatial_relation",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "在内",
+  "pinyin": "zàinèi",
+  "meaning_ru": "включая; в том числе",
+  "meaning_en": "included; among them",
+  "semantic_tags": [
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "餐馆",
+  "pinyin": "cānguǎn",
+  "meaning_ru": "ресторан",
+  "meaning_en": "restaurant",
+  "semantic_tags": [
+   "building",
+   "food"
+  ]
+ },
+ {
+  "hanzi": "得以",
+  "pinyin": "déyǐ",
+  "meaning_ru": "получить возможность",
+  "meaning_en": "be able to; so that",
+  "semantic_tags": [
+   "abstract_relation",
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "键",
+  "pinyin": "jiàn",
+  "meaning_ru": "клавиша; кнопка",
+  "meaning_en": "key; button",
+  "semantic_tags": [
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "闲",
+  "pinyin": "xián",
+  "meaning_ru": "свободный; праздный",
+  "meaning_en": "idle; free",
+  "semantic_tags": [
+   "manner_state",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "猜测",
+  "pinyin": "cāicè",
+  "meaning_ru": "догадка; предполагать",
+  "meaning_en": "guess; conjecture",
+  "semantic_tags": [
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "转向",
+  "pinyin": "zhuǎnxiàng",
+  "meaning_ru": "повернуть; сменить курс",
+  "meaning_en": "turn; change direction",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "鼓",
+  "pinyin": "gǔ",
+  "meaning_ru": "барабан; бить в барабан",
+  "meaning_en": "drum; to drum",
+  "semantic_tags": [
+   "art",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "从中",
+  "pinyin": "cóngzhōng",
+  "meaning_ru": "из этого; отсюда",
+  "meaning_en": "from within; therefrom",
+  "semantic_tags": [
+   "spatial_relation",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "现有",
+  "pinyin": "xiànyǒu",
+  "meaning_ru": "имеющийся; наличный",
+  "meaning_en": "existing; available",
+  "semantic_tags": [
+   "evaluation_adj",
+   "quantity_abstract"
+  ]
+ },
+ {
+  "hanzi": "处罚",
+  "pinyin": "chǔfá",
+  "meaning_ru": "наказывать; штрафовать",
+  "meaning_en": "penalize; punish",
+  "semantic_tags": [
+   "law_justice",
+   "action_communication"
+  ]
+ }
+]

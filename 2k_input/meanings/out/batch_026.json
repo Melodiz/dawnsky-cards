@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "胜",
+  "pinyin": "shèng",
+  "meaning_ru": "победить; выиграть",
+  "meaning_en": "to win; victory",
+  "semantic_tags": [
+   "abstract_quality",
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "慢慢",
+  "pinyin": "mànmàn",
+  "meaning_ru": "медленно; постепенно",
+  "meaning_en": "slowly; gradually",
+  "semantic_tags": [
+   "manner_adverb"
+  ]
+ },
+ {
+  "hanzi": "压",
+  "pinyin": "yā",
+  "meaning_ru": "давить; нажимать",
+  "meaning_en": "to press; push down",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "队员",
+  "pinyin": "duìyuán",
+  "meaning_ru": "член команды",
+  "meaning_en": "team member",
+  "semantic_tags": [
+   "person",
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "板",
+  "pinyin": "bǎn",
+  "meaning_ru": "доска; плита",
+  "meaning_en": "board; plank",
+  "semantic_tags": [
+   "material_substance",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "前面",
+  "pinyin": "qiánmiàn",
+  "meaning_ru": "впереди; спереди",
+  "meaning_en": "in front; ahead",
+  "semantic_tags": [
+   "spatial_relation",
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "付",
+  "pinyin": "fù",
+  "meaning_ru": "платить; вручать",
+  "meaning_en": "to pay; hand over",
+  "semantic_tags": [
+   "commerce_trade",
+   "action_daily"
+  ]
+ },
+ {
+  "hanzi": "内心",
+  "pinyin": "nèixīn",
+  "meaning_ru": "душа; в глубине души",
+  "meaning_en": "heart; inner self",
+  "semantic_tags": [
+   "emotion",
+   "cognition"
+  ]
+ },
+ {
+  "hanzi": "防",
+  "pinyin": "fáng",
+  "meaning_ru": "защищать; предотвращать",
+  "meaning_en": "to defend; prevent",
+  "semantic_tags": [
+   "physical_action",
+   "abstract_relation"
+  ]
+ },
+ {
+  "hanzi": "舞台",
+  "pinyin": "wǔtái",
+  "meaning_ru": "сцена; арена",
+  "meaning_en": "stage; arena",
+  "semantic_tags": [
+   "art",
+   "location"
+  ]
+ },
+ {
+  "hanzi": "烟",
+  "pinyin": "yān",
+  "meaning_ru": "дым; сигарета",
+  "meaning_en": "smoke; cigarette",
+  "semantic_tags": [
+   "material_substance",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "生意",
+  "pinyin": "shēngyì",
+  "meaning_ru": "бизнес; торговля",
+  "meaning_en": "business; trade",
+  "semantic_tags": [
+   "commerce_trade",
+   "economy_finance"
+  ]
+ },
+ {
+  "hanzi": "赶",
+  "pinyin": "gǎn",
+  "meaning_ru": "спешить; успеть",
+  "meaning_en": "to hurry; catch up",
+  "semantic_tags": [
+   "action_movement",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "迷",
+  "pinyin": "mí",
+  "meaning_ru": "фанат; поклонник",
+  "meaning_en": "fan; enthusiast",
+  "semantic_tags": [
+   "person",
+   "hobby"
+  ]
+ },
+ {
+  "hanzi": "上去",
+  "pinyin": "shàngqù",
+  "meaning_ru": "подниматься (вверх)",
+  "meaning_en": "to go up",
+  "semantic_tags": [
+   "action_movement",
+   "direction"
+  ]
+ }
+]

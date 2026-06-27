@@ -1,0 +1,143 @@
+[
+ {
+  "hanzi": "开机",
+  "pinyin": "kāijī",
+  "meaning_ru": "включить (устройство)",
+  "meaning_en": "to boot up; power on",
+  "semantic_tags": [
+   "action_daily",
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "公共汽车",
+  "pinyin": "gōnggòngqìchē",
+  "meaning_ru": "автобус",
+  "meaning_en": "bus",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "过年",
+  "pinyin": "guònián",
+  "meaning_ru": "встречать Новый год",
+  "meaning_en": "celebrate New Year",
+  "semantic_tags": [
+   "culture",
+   "date"
+  ]
+ },
+ {
+  "hanzi": "零下",
+  "pinyin": "língxià",
+  "meaning_ru": "ниже нуля",
+  "meaning_en": "below zero",
+  "semantic_tags": [
+   "weather",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "拿出",
+  "pinyin": "náchū",
+  "meaning_ru": "вынимать; доставать",
+  "meaning_en": "take out; produce",
+  "semantic_tags": [
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "中餐",
+  "pinyin": "zhōngcān",
+  "meaning_ru": "китайская еда",
+  "meaning_en": "Chinese food; lunch",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "晴天",
+  "pinyin": "qíngtiān",
+  "meaning_ru": "ясный день",
+  "meaning_en": "sunny day; clear sky",
+  "semantic_tags": [
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "全年",
+  "pinyin": "quánnián",
+  "meaning_ru": "весь год",
+  "meaning_en": "whole year",
+  "semantic_tags": [
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "那会儿",
+  "pinyin": "nàhuìr",
+  "meaning_ru": "тогда; в то время",
+  "meaning_en": "at that time",
+  "semantic_tags": [
+   "time_word"
+  ]
+ },
+ {
+  "hanzi": "外卖",
+  "pinyin": "wàimài",
+  "meaning_ru": "еда навынос; доставка",
+  "meaning_en": "takeout; food delivery",
+  "semantic_tags": [
+   "food",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "方便面",
+  "pinyin": "fāngbiànmiàn",
+  "meaning_ru": "лапша быстр. пригот.",
+  "meaning_en": "instant noodles",
+  "semantic_tags": [
+   "food"
+  ]
+ },
+ {
+  "hanzi": "球鞋",
+  "pinyin": "qiúxié",
+  "meaning_ru": "кроссовки",
+  "meaning_en": "sneakers; sports shoes",
+  "semantic_tags": [
+   "clothing",
+   "sport"
+  ]
+ },
+ {
+  "hanzi": "交朋友",
+  "pinyin": "jiāopéngyou",
+  "meaning_ru": "заводить друзей",
+  "meaning_en": "make friends",
+  "semantic_tags": [
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "一路顺风",
+  "pinyin": "yīlùshùnfēng",
+  "meaning_ru": "счастливого пути",
+  "meaning_en": "have a good trip",
+  "semantic_tags": [
+   "greeting",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "晚报",
+  "pinyin": "wǎnbào",
+  "meaning_ru": "вечерняя газета",
+  "meaning_en": "evening newspaper",
+  "semantic_tags": [
+   "media_news"
+  ]
+ }
+]

@@ -1,0 +1,1249 @@
+[
+ {
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "meaning_ru": "медленный; медленно",
+  "meaning_en": "slow (adj; speed, not gradual)",
+  "len_ru": 19,
+  "len_en": 30,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "slow",
+  "must_distinguish": [
+   {
+    "with": [
+     "慢慢",
+     "迟缓"
+    ],
+    "note": "慢 = adjective/predicate 'slow'; 慢慢 = adverb 'slowly/gradually' (also implies patience); 迟缓 = slow and sluggish (often negative, of reaction or movement)."
+   }
+  ]
+ },
+ {
+  "hanzi": "关上",
+  "pinyin": "guānshàng",
+  "meaning_ru": "закрыть (дверь, окно)",
+  "meaning_en": "close shut (physical objects)",
+  "len_ru": 21,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to close (a door)/to turn off (light, electrical equipment etc)",
+  "must_distinguish": [
+   {
+    "with": [
+     "闭幕"
+    ],
+    "note": "关上 = close/shut (physical objects: door, window; also turn off); 闭幕 = close/end an event (ceremony, conference, exhibition — formal)."
+   }
+  ]
+ },
+ {
+  "hanzi": "流",
+  "pinyin": "liú",
+  "meaning_ru": "течь; струиться (вода, слёзы)",
+  "meaning_en": "flow; stream (water/tears)",
+  "len_ru": 29,
+  "len_en": 26,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "to flow/to disseminate/to circulate or spread/to move or drift/to degenerate/to banish or send into exile/stream of water or sth resembling one/class, rate or grade",
+  "must_distinguish": [
+   {
+    "with": [
+     "流动"
+    ],
+    "note": "流 = flow/stream (simple verb, tears, water, time); 流动 = flow/circulate (systemic ongoing movement — crowds, capital, liquids in systems)"
+   }
+  ]
+ },
+ {
+  "hanzi": "养",
+  "pinyin": "yǎng",
+  "meaning_ru": "растить; держать (питомца/ребёнка)",
+  "meaning_en": "raise (child or pet, general)",
+  "len_ru": 34,
+  "len_en": 29,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "to raise (animals)/to bring up (children)/to keep (pets)/to support/to give birth",
+  "must_distinguish": [
+   {
+    "with": [
+     "饲养",
+     "抚养",
+     "培养"
+    ],
+    "note": "养 = general raise/keep (children or pets); 饲养 = feed and raise animals (husbandry); 抚养 = raise and provide for children (legal/familial); 培养 = nurture/develop people or skills (education context)"
+   }
+  ]
+ },
+ {
+  "hanzi": "接到",
+  "pinyin": "jiēdào",
+  "meaning_ru": "получить (звонок, письмо)",
+  "meaning_en": "receive (call/message/letter)",
+  "len_ru": 25,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to receive (letter etc)",
+  "must_distinguish": [
+   {
+    "with": [
+     "接受",
+     "受到",
+     "受"
+    ],
+    "note": "接到 = receive a specific communication (call, letter); 接受 = accept/take in (implies willingness); 受到 = be subjected to / undergo (often impact or treatment); 受 = receive or endure (broad base verb)"
+   }
+  ]
+ },
+ {
+  "hanzi": "绿色",
+  "pinyin": "lǜsè",
+  "meaning_ru": "зелёный цвет",
+  "meaning_en": "green (color; eco-friendly too)",
+  "len_ru": 12,
+  "len_en": 31,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "green",
+  "must_distinguish": [
+   {
+    "with": [
+     "绿",
+     "青"
+    ],
+    "note": "绿 = green (basic color adjective); 绿色 = green (color noun; also metaphor for eco-friendly); 青 = blue-green (traditional color term, also means young/unripe)"
+   }
+  ]
+ },
+ {
+  "hanzi": "碰到",
+  "pinyin": "pèngdào",
+  "meaning_ru": "случайно встретить; наткнуться",
+  "meaning_en": "run into; encounter by chance",
+  "len_ru": 30,
+  "len_en": 29,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "to come across/to run into/to meet/to hit",
+  "must_distinguish": [
+   {
+    "with": [
+     "逢",
+     "见",
+     "会晤"
+    ],
+    "note": "碰到 = run into accidentally; 见 = to see/meet (neutral, general); 逢 = happen to meet, on a recurring occasion (literary); 会晤 = formal meeting (diplomatic/official)"
+   }
+  ]
+ },
+ {
+  "hanzi": "南方",
+  "pinyin": "nánfāng",
+  "meaning_ru": "юг (культурно-геогр. регион)",
+  "meaning_en": "the South (cultural/geographic)",
+  "len_ru": 28,
+  "len_en": 31,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "south; southern direction/(in China) southern regions, often referring to areas south of the Yangtze River",
+  "must_distinguish": [
+   {
+    "with": [
+     "南部"
+    ],
+    "note": "南方 = the South as a cultural/geographic region (e.g. 南方人); 南部 = the southern portion of a specific territory or country (administrative sub-area)"
+   }
+  ]
+ },
+ {
+  "hanzi": "游客",
+  "pinyin": "yóukè",
+  "meaning_ru": "турист (приехал посмотреть)",
+  "meaning_en": "tourist (sightseeing/leisure)",
+  "len_ru": 27,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "traveler; tourist/(online gaming) guest player",
+  "must_distinguish": [
+   {
+    "with": [
+     "旅客"
+    ],
+    "note": "游客 = tourist (sightseeing, leisure traveler); 旅客 = traveler/passenger (any traveler, incl. transit)"
+   }
+  ]
+ },
+ {
+  "hanzi": "公斤",
+  "pinyin": "gōngjīn",
+  "meaning_ru": "килограмм (разг. норма)",
+  "meaning_en": "kilogram (everyday spoken form)",
+  "len_ru": 23,
+  "len_en": 31,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "kilogram (kg)",
+  "must_distinguish": [
+   {
+    "with": [
+     "千克"
+    ],
+    "note": "Both mean kilogram. 公斤 is the everyday spoken form; 千克 is the official SI/scientific term, used in technical and written contexts."
+   }
+  ]
+ },
+ {
+  "hanzi": "有点儿",
+  "pinyin": "yǒudiǎnr",
+  "meaning_ru": "немного (с негативным оттенком)",
+  "meaning_en": "a bit (often negative tone)",
+  "len_ru": 31,
+  "len_en": 27,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "slightly/a little/somewhat",
+  "must_distinguish": [
+   {
+    "with": [
+     "有一点儿",
+     "有点",
+     "稍微",
+     "略微"
+    ],
+    "note": "有点儿/有点 lean negative/complaint; 有一点儿 is neutral-emphatic; 稍微 is neutral and milder; 略微 is formal/literary"
+   }
+  ]
+ },
+ {
+  "hanzi": "看起来",
+  "pinyin": "kànqǐlai",
+  "meaning_ru": "на вид (≠ 似乎 «будто бы»)",
+  "meaning_en": "looks like (visual inference)",
+  "len_ru": 24,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "seemingly; apparently; looks as if; appears to be; gives the impression that; seems on the face of it to be",
+  "must_distinguish": [
+   {
+    "with": [
+     "好像",
+     "似乎"
+    ],
+    "note": "All express 'seems/appears'; 好像 is colloquial and can also mean 'like'; 似乎 is more tentative and written; 看起来 is literal 'looking at it, it seems' — visual-based inference."
+   }
+  ]
+ },
+ {
+  "hanzi": "西部",
+  "pinyin": "xībù",
+  "meaning_ru": "западная часть (региона)",
+  "meaning_en": "western part (region/country)",
+  "len_ru": 24,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "western part",
+  "must_distinguish": [
+   {
+    "with": [
+     "西方"
+    ],
+    "note": "西部 = the western part/region (geographic section of a country or area); 西方 = the West (civilizational/cultural concept; also used in religion)"
+   }
+  ]
+ },
+ {
+  "hanzi": "观看",
+  "pinyin": "guānkàn",
+  "meaning_ru": "смотреть (шоу, матч, спектакль)",
+  "meaning_en": "watch (show/match/performance)",
+  "len_ru": 31,
+  "len_en": 30,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "to watch; to view",
+  "must_distinguish": [
+   {
+    "with": [
+     "观察"
+    ],
+    "note": "观看 = watch/view (entertainment, a performance, screen); 观察 = observe/study (with attention, scientific or investigative)"
+   }
+  ]
+ },
+ {
+  "hanzi": "播出",
+  "pinyin": "bōchū",
+  "meaning_ru": "транслировать (передачу)",
+  "meaning_en": "to air (a specific broadcast)",
+  "len_ru": 24,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to broadcast/to air (a TV program etc)",
+  "must_distinguish": [
+   {
+    "with": [
+     "广播"
+    ],
+    "note": "播出 = to air/broadcast (a specific program, one-time output); 广播 = radio broadcasting as medium, or to broadcast generally (also a noun for radio)."
+   }
+  ]
+ },
+ {
+  "hanzi": "整整",
+  "pinyin": "zhěngzhěng",
+  "meaning_ru": "целых (усилит. о длит.: 整整三天)",
+  "meaning_en": "a full (emphatic duration)",
+  "len_ru": 29,
+  "len_en": 26,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "whole/full",
+  "must_distinguish": [
+   {
+    "with": [
+     "全场",
+     "全部",
+     "整",
+     "整个",
+     "整体"
+    ],
+    "note": "全场 = whole audience/venue; 全部 (5k) = the total amount/all of it; 整 = exactly whole (整十年); 整整 = a full emphatic duration (整整三天); 整个 (5k) = the entire X as modifier; 整体 (5k) = the whole as a unified entity (noun)."
+   }
+  ]
+ },
+ {
+  "hanzi": "华人",
+  "pinyin": "huárén",
+  "meaning_ru": "этнический китаец (любой стр.)",
+  "meaning_en": "ethnic Chinese (any country)",
+  "len_ru": 30,
+  "len_en": 28,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "ethnic Chinese person or people",
+  "must_distinguish": [
+   {
+    "with": [
+     "华裔",
+     "华侨"
+    ],
+    "note": "华人 = any ethnic Chinese person (worldwide); 华裔 = person of Chinese descent born/raised abroad; 华侨 = Chinese national residing overseas (retains PRC/ROC citizenship)"
+   }
+  ]
+ },
+ {
+  "hanzi": "积极性",
+  "pinyin": "jījíxìng",
+  "meaning_ru": "активность; рвение (качество)",
+  "meaning_en": "enthusiasm; initiative",
+  "len_ru": 29,
+  "len_en": 22,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "zeal/initiative/enthusiasm/activity",
+  "must_distinguish": [
+   {
+    "with": [
+     "干劲",
+     "劲头"
+    ],
+    "note": "积极性 = enthusiasm as an abstract capacity or quality (formal); 干劲 = work drive, practical zeal (colloquial); 劲头 = vigor or spirit in the moment (colloquial, vivid)"
+   }
+  ]
+ },
+ {
+  "hanzi": "检测",
+  "pinyin": "jiǎncè",
+  "meaning_ru": "выявлять; измерять (прибором)",
+  "meaning_en": "detect/measure (instrument)",
+  "len_ru": 29,
+  "len_en": 27,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "to test; to detect",
+  "must_distinguish": [
+   {
+    "with": [
+     "检验",
+     "检查",
+     "测验",
+     "考验",
+     "化验",
+     "探测"
+    ],
+    "note": "检测 = detect/measure (instrument or sensor); 检验 = inspect/test quality or validity; 检查 = routine check/inspection (medical or compliance); 测验 = classroom quiz or test; 考验 = life/moral ordeal, trial; 化验 = lab assay/analysis; 探测 = probe/detect remotely (instruments, space)"
+   }
+  ]
+ },
+ {
+  "hanzi": "归",
+  "pinyin": "guī",
+  "meaning_ru": "вернуться (кн.); принадлежать",
+  "meaning_en": "return (lit.); belong to",
+  "len_ru": 29,
+  "len_en": 24,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "surname Gui/to return/to go back to/to give back to/(of a responsibility) to be taken care of by/to belong to/to gather together/(used between two identical verbs) despite/to marry (of a woman) (old)/division on the abacus with a one-digit divisor",
+  "must_distinguish": [
+   {
+    "with": [
+     "返回",
+     "回来",
+     "归还"
+    ],
+    "note": "返回 = go/travel back (neutral direction); 回来 = come back toward speaker; 归 = return to one's place/origin (literary) or belong to; 归还 = give back a borrowed object"
+   }
+  ]
+ },
+ {
+  "hanzi": "松",
+  "pinyin": "sōng",
+  "meaning_ru": "рыхлый; ослабленный (не тугой)",
+  "meaning_en": "loose; slack; to loosen",
+  "len_ru": 30,
+  "len_en": 23,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "surname Song/pine/CL:棵[ke1]/loose/to loosen/to relax/floss (dry, fluffy food product made from shredded, seasoned meat or fish, used as a topping or filling)",
+  "must_distinguish": [
+   {
+    "with": [
+     "放松"
+    ],
+    "note": "松 = loose/slack (state adjective, or verb: loosen); 放松 = relax/let go (deliberate action, often mental relaxation)."
+   }
+  ]
+ },
+ {
+  "hanzi": "登",
+  "pinyin": "dēng",
+  "meaning_ru": "подниматься (лестница, сцена)",
+  "meaning_en": "climb; ascend (stairs, stage)",
+  "len_ru": 29,
+  "len_en": 29,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "to scale (a height)/to ascend/to mount/to publish or record/to enter (e.g. in a register)/to press down with the foot/to step or tread on/to put on (shoes or trousers) (dialect)/to be gathered and taken to the threshing ground (old)",
+  "must_distinguish": [
+   {
+    "with": [
+     "登山",
+     "攀登"
+    ],
+    "note": "登山 = mountain climbing (sport/activity as a whole); 登 = ascend/climb (general, incl. stairs, stages); 攀登 = scale/climb (effort-intensive, figurative too: 攀登高峰)."
+   }
+  ]
+ },
+ {
+  "hanzi": "聚",
+  "pinyin": "jù",
+  "meaning_ru": "собираться (люди или вещи)",
+  "meaning_en": "gather naturally (people/things)",
+  "len_ru": 26,
+  "len_en": 32,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to assemble; to gather (transitive or intransitive)/(chemistry) poly-",
+  "must_distinguish": [
+   {
+    "with": [
+     "收集",
+     "集合",
+     "采集",
+     "收藏"
+    ],
+    "note": "聚 = gather/assemble (people or things, naturally); 集合 = assemble (organised, commanded); 采集 = collect/harvest (specimens, data, natural resources); 收集 = gather/collect (items systematically); 收藏 = collect/keep (for pleasure or preservation — hobby)"
+   }
+  ]
+ },
+ {
+  "hanzi": "挑选",
+  "pinyin": "tiāoxuǎn",
+  "meaning_ru": "выбирать (по предпочтениям)",
+  "meaning_en": "pick (by personal preference)",
+  "len_ru": 27,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to choose/to select",
+  "must_distinguish": [
+   {
+    "with": [
+     "筛选",
+     "拣",
+     "选拔",
+     "选择"
+    ],
+    "note": "挑选 = pick by personal preference (everyday shopping, choosing); 筛选 = screen/filter by criteria (systematic, analytical); 拣 = pick out by hand/visually (physical, informal); 选拔 = select the best candidates (competitive, talent-focused); 选择 = choose from options (general, neutral)."
+   }
+  ]
+ },
+ {
+  "hanzi": "打败",
+  "pinyin": "dǎbài",
+  "meaning_ru": "разбить, победить (соперника)",
+  "meaning_en": "defeat (an opponent, direct)",
+  "len_ru": 29,
+  "len_en": 28,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "to defeat/to overpower/to beat/to be defeated",
+  "must_distinguish": [
+   {
+    "with": [
+     "战胜",
+     "赢"
+    ],
+    "note": "赢 = win (general, colloquial). 打败 = beat/defeat (an opponent, often physical contest). 战胜 = overcome/prevail over (battle or hardship, more formal/literary)."
+   }
+  ]
+ },
+ {
+  "hanzi": "替代",
+  "pinyin": "tìdài",
+  "meaning_ru": "замещать (системно)",
+  "meaning_en": "substitute (abstract/systemic)",
+  "len_ru": 19,
+  "len_en": 30,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to substitute for/to replace/to supersede",
+  "must_distinguish": [
+   {
+    "with": [
+     "更换",
+     "替",
+     "代替",
+     "换",
+     "代"
+    ],
+    "note": "更换 = swap out (formal, objects); 替 = do something in place of someone; 替代 = substitute (abstract/systemic); 代替 = replace/act for (general); 换 = exchange or switch; 代 = act for + era/generation (multi-sense morpheme)"
+   }
+  ]
+ },
+ {
+  "hanzi": "获奖",
+  "pinyin": "huòjiǎng",
+  "meaning_ru": "получить награду (за заслуги)",
+  "meaning_en": "win an award (by merit)",
+  "len_ru": 29,
+  "len_en": 23,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "to win an award",
+  "must_distinguish": [
+   {
+    "with": [
+     "中奖",
+     "赢"
+    ],
+    "note": "中奖 = win by chance (lottery, lucky draw); 获奖 = receive a merit-based award/prize; 赢 = win (competition, game — broadest)"
+   },
+   {
+    "with": [
+     "中奖",
+     "赢得",
+     "胜",
+     "赢",
+     "胜利"
+    ],
+    "note": "中奖 = win a lottery/prize draw (chance); 获奖 = receive a formal award/prize (achievement); 赢得 = win/gain something through effort (takes an object: trust, title); 赢 = simply win a contest/game; 胜 = beat an opponent (verb, also adj 'superior'); 胜利 = victory (noun, often military/political)"
+   }
+  ]
+ },
+ {
+  "hanzi": "平稳",
+  "pinyin": "píngwěn",
+  "meaning_ru": "устойчивый; без колебаний",
+  "meaning_en": "stable; even (no fluctuation)",
+  "len_ru": 25,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "smooth; steady",
+  "must_distinguish": [
+   {
+    "with": [
+     "顺利"
+    ],
+    "note": "平稳 = stable and even (no fluctuation, physical or abstract steadiness); 顺利 (5k) = going smoothly without obstacles or hitches (process succeeds as hoped)"
+   }
+  ]
+ },
+ {
+  "hanzi": "百货",
+  "pinyin": "bǎihuò",
+  "meaning_ru": "разнообразные товары (розница)",
+  "meaning_en": "general merchandise (retail)",
+  "len_ru": 30,
+  "len_en": 28,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "general merchandise",
+  "must_distinguish": [
+   {
+    "with": [
+     "货",
+     "商品",
+     "产品",
+     "物资"
+    ],
+    "note": "货 = goods/cargo (general, incl. freight); 百货 = general merchandise (retail variety); 商品 = commodity (market economics term); 产品 = product (manufactured output); 物资 = supplies/materials (logistics, often strategic)"
+   }
+  ]
+ },
+ {
+  "hanzi": "深厚",
+  "pinyin": "shēnhòu",
+  "meaning_ru": "глубокий, прочный (чувства)",
+  "meaning_en": "deep; solid (feelings/skills)",
+  "len_ru": 27,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "deep; profound",
+  "must_distinguish": [
+   {
+    "with": [
+     "深",
+     "深沉"
+    ],
+    "note": "深 (5k) = physically deep or dark (color); 深厚 = deep and solid (feelings, foundation, skills); 深沉 (5k) = deeply reserved or brooding (personality/mood)"
+   }
+  ]
+ },
+ {
+  "hanzi": "抄写",
+  "pinyin": "chāoxiě",
+  "meaning_ru": "переписывать (от руки)",
+  "meaning_en": "copy out by hand (transcribe)",
+  "len_ru": 22,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to copy/to transcribe",
+  "must_distinguish": [
+   {
+    "with": [
+     "抄",
+     "复印",
+     "复制"
+    ],
+    "note": "抄 = copy by hand / plagiarize. 抄写 = copy out by hand (deliberate transcription, study context). 复印 = photocopy (machine reproduction of document). 复制 = duplicate/replicate (digital or physical, broader)."
+   }
+  ]
+ },
+ {
+  "hanzi": "剩下",
+  "pinyin": "shèngxià",
+  "meaning_ru": "оставаться (после использов.)",
+  "meaning_en": "be left over (after use)",
+  "len_ru": 29,
+  "len_en": 24,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "to remain; to be left over",
+  "must_distinguish": [
+   {
+    "with": [
+     "剩",
+     "残留"
+    ],
+    "note": "剩/剩下 = be left over after use/consumption; 残留 = linger on as a remnant or residue (often negative connotation: pollutant, trace)"
+   }
+  ]
+ },
+ {
+  "hanzi": "冒",
+  "pinyin": "mào",
+  "meaning_ru": "испускать (дым, пар); рисковать",
+  "meaning_en": "emit (smoke/steam); brave risk",
+  "len_ru": 31,
+  "len_en": 30,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "old variant of 冒[mao4]/surname Mao/to emit; to give off; to send out (or up, forth)/to brave; to face/(bound form) reckless/to falsely adopt (sb's identity etc); to feign/(literary) to cover",
+  "must_distinguish": [
+   {
+    "with": [
+     "发出",
+     "排放",
+     "放射"
+    ],
+    "note": "发出 = emit/send out (sound, light, signals, notifications). 排放 = discharge/emit (pollutants, gases, industrial waste). 放射 = radiate (radiation, rays, spreading outward from a point). 冒 = emit/give off (smoke, steam, bubble up; also 'brave')."
+   }
+  ]
+ },
+ {
+  "hanzi": "库",
+  "pinyin": "kù",
+  "meaning_ru": "хранилище (морфема, в словах)",
+  "meaning_en": "storehouse (bound morpheme)",
+  "len_ru": 29,
+  "len_en": 27,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "warehouse/storehouse/(file) library",
+  "must_distinguish": [
+   {
+    "with": [
+     "仓库"
+    ],
+    "note": "库 = warehouse/storehouse (single morpheme; often a suffix in compounds: 图书库, 数据库); 仓库 = warehouse (the standard standalone word)"
+   }
+  ]
+ },
+ {
+  "hanzi": "到来",
+  "pinyin": "dàolái",
+  "meaning_ru": "наступление; приход (о событиях)",
+  "meaning_en": "advent; arrival (of events)",
+  "len_ru": 32,
+  "len_en": 27,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "to arrive/arrival; advent",
+  "must_distinguish": [
+   {
+    "with": [
+     "到达",
+     "抵达",
+     "来到"
+    ],
+    "note": "到来 = arrival of events/seasons/eras (often abstract); 到达 = neutral physical arrival at a place; 抵达 = formal written arrival; 来到 = arrive toward the speaker/scene"
+   }
+  ]
+ },
+ {
+  "hanzi": "收集",
+  "pinyin": "shōují",
+  "meaning_ru": "собирать (систематически)",
+  "meaning_en": "collect items (systematically)",
+  "len_ru": 25,
+  "len_en": 30,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to gather/to collect",
+  "must_distinguish": [
+   {
+    "with": [
+     "聚",
+     "集合",
+     "采集",
+     "收藏"
+    ],
+    "note": "聚 = gather/assemble (people or things, naturally); 集合 = assemble (organised, commanded); 采集 = collect/harvest (specimens, data, natural resources); 收集 = gather/collect (items systematically); 收藏 = collect/keep (for pleasure or preservation — hobby)"
+   }
+  ]
+ },
+ {
+  "hanzi": "签名",
+  "pinyin": "qiānmíng",
+  "meaning_ru": "подпись; роспись (личная)",
+  "meaning_en": "autograph; signature (personal)",
+  "len_ru": 25,
+  "len_en": 31,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to sign (one's name with a pen etc)/to autograph/signature",
+  "must_distinguish": [
+   {
+    "with": [
+     "签字",
+     "签署",
+     "签订"
+    ],
+    "note": "签名 = personal autograph or casual signing; 签字 = official signature on a document; 签署 = formally sign (agreement/declaration); 签订 = conclude AND sign (a contract/treaty)."
+   }
+  ]
+ },
+ {
+  "hanzi": "空中",
+  "pinyin": "kōngzhōng",
+  "meaning_ru": "в воздухе; в воздушн. простр.",
+  "meaning_en": "in the air; mid-air",
+  "len_ru": 29,
+  "len_en": 19,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "in the sky/in the air",
+  "must_distinguish": [
+   {
+    "with": [
+     "天上",
+     "天空",
+     "太空"
+    ],
+    "note": "All involve sky/air. 空中 = mid-air/airspace (where planes fly); 天上 = up in the sky/heavens (celestial, poetic); 天空 = the sky as a visual expanse (noun); 太空 = outer space (beyond atmosphere)."
+   }
+  ]
+ },
+ {
+  "hanzi": "随后",
+  "pinyin": "suíhòu",
+  "meaning_ru": "сразу после; тут же",
+  "meaning_en": "right after; immediately then",
+  "len_ru": 19,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "afterward; later; subsequently; following that",
+  "must_distinguish": [
+   {
+    "with": [
+     "不久"
+    ],
+    "note": "随后 = immediately following in sequence (right after); 不久 = an unspecified short time later (temporal gap, not necessarily immediate)"
+   }
+  ]
+ },
+ {
+  "hanzi": "搜",
+  "pinyin": "sōu",
+  "meaning_ru": "обыскивать; искать (сканируя)",
+  "meaning_en": "search by scanning (or online)",
+  "len_ru": 29,
+  "len_en": 30,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "to search/variant of 蒐|搜[sou1]/(bound form) to collect; to gather",
+  "must_distinguish": [
+   {
+    "with": [
+     "寻求",
+     "搜索",
+     "寻觅",
+     "寻找"
+    ],
+    "note": "搜/搜索 = search by scanning (physical search, internet); 寻找 = look for a specific target; 寻求 = seek/pursue (abstract goals, solutions); 寻觅 = search with longing (literary/emotional)"
+   }
+  ]
+ },
+ {
+  "hanzi": "出于",
+  "pinyin": "chūyú",
+  "meaning_ru": "исходя из мотива; из побуждения",
+  "meaning_en": "out of (a motive); driven by",
+  "len_ru": 31,
+  "len_en": 28,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "due to/to stem from",
+  "must_distinguish": [
+   {
+    "with": [
+     "由于"
+    ],
+    "note": "Both introduce a cause: 由于 = 'due to' (neutral, factual cause, can precede or follow the result clause); 出于 = 'out of' a motive or feeling (always introduces internal motivation, e.g. 出于好意)"
+   }
+  ]
+ },
+ {
+  "hanzi": "分离",
+  "pinyin": "fēnlí",
+  "meaning_ru": "разделять(ся); расставаться",
+  "meaning_en": "separate; part (people/parts)",
+  "len_ru": 27,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to separate",
+  "must_distinguish": [
+   {
+    "with": [
+     "隔开",
+     "隔",
+     "分开",
+     "分散"
+    ],
+    "note": "隔/隔开 = separate by physical barrier or interval; 分开 = split apart (general, reversible); 分离 = separate with a sense of parting (often people/components); 分散 = scatter/disperse into multiple parts"
+   }
+  ]
+ },
+ {
+  "hanzi": "寻求",
+  "pinyin": "xúnqiú",
+  "meaning_ru": "искать; добиваться (абстр.)",
+  "meaning_en": "seek; pursue (abstract goals)",
+  "len_ru": 27,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to seek; to look for",
+  "must_distinguish": [
+   {
+    "with": [
+     "搜",
+     "搜索",
+     "寻觅",
+     "寻找"
+    ],
+    "note": "搜/搜索 = search by scanning (physical search, internet); 寻找 = look for a specific target; 寻求 = seek/pursue (abstract goals, solutions); 寻觅 = search with longing (literary/emotional)"
+   }
+  ]
+ },
+ {
+  "hanzi": "此刻",
+  "pinyin": "cǐkè",
+  "meaning_ru": "именно сейчас; в этот миг (кн.)",
+  "meaning_en": "this very moment (literary)",
+  "len_ru": 31,
+  "len_en": 27,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "this moment/now/at present",
+  "must_distinguish": [
+   {
+    "with": [
+     "目前",
+     "眼下",
+     "当前"
+    ],
+    "note": "此刻 = 'this very moment' (literary/emotional, pinpoints an instant); 眼下 = 'right now' (spoken, informal); 目前 = 'at present' (neutral time adverb, written); 当前 = 'current/pressing now' (formal, implies urgency or importance of the present task)."
+   }
+  ]
+ },
+ {
+  "hanzi": "兔",
+  "pinyin": "tù",
+  "meaning_ru": "заяц/кролик (книжн., в словах)",
+  "meaning_en": "rabbit; hare (in compounds)",
+  "len_ru": 30,
+  "len_en": 27,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "variant of 兔[tu4]/rabbit",
+  "must_distinguish": [
+   {
+    "with": [
+     "兔子"
+    ],
+    "note": "兔 = literary/zodiac form, used in compounds (兔年); 兔子 = everyday colloquial word for rabbit/hare"
+   }
+  ]
+ },
+ {
+  "hanzi": "大胆",
+  "pinyin": "dàdǎn",
+  "meaning_ru": "смелый; дерзкий",
+  "meaning_en": "bold; daring (can be reckless)",
+  "len_ru": 15,
+  "len_en": 30,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "brazen/audacious/outrageous/bold/daring/fearless",
+  "must_distinguish": [
+   {
+    "with": [
+     "勇于",
+     "豪迈"
+    ],
+    "note": "大胆 = bold/daring (neutral to mildly pejorative — can imply recklessness); 勇于 = have the courage to do X (positive, always tied to a specific admirable action); 豪迈 = bold-spirited/heroic (literary, broad character trait)"
+   }
+  ]
+ },
+ {
+  "hanzi": "偷偷",
+  "pinyin": "tōutōu",
+  "meaning_ru": "тайком (скрывая умысел; ≠ 悄悄)",
+  "meaning_en": "secretly (≠ 悄悄 quietly)",
+  "len_ru": 29,
+  "len_en": 23,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "stealthily/secretly/covertly/furtively/on the sly",
+  "must_distinguish": [
+   {
+    "with": [
+     "悄悄"
+    ],
+    "note": "偷偷 = secretly, concealing intent or action from others; 悄悄 = quietly, without noise — may or may not involve secrecy"
+   }
+  ]
+ },
+ {
+  "hanzi": "减轻",
+  "pinyin": "jiǎnqīng",
+  "meaning_ru": "облегчить; уменьшить (нагрузку)",
+  "meaning_en": "reduce (burden or severity)",
+  "len_ru": 31,
+  "len_en": 27,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "to lighten/to ease/to alleviate",
+  "must_distinguish": [
+   {
+    "with": [
+     "缓解",
+     "缓和"
+    ],
+    "note": "减轻 = reduce the weight/burden/severity (measurable decrease); 缓解 = ease/relieve temporarily (symptoms, pressure); 缓和 = relax/defuse (tension, conflict, relations)."
+   }
+  ]
+ },
+ {
+  "hanzi": "脸色",
+  "pinyin": "liǎnsè",
+  "meaning_ru": "цвет лица; выражение лица",
+  "meaning_en": "complexion; expression (face)",
+  "len_ru": 25,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "complexion/look",
+  "must_distinguish": [
+   {
+    "with": [
+     "气色",
+     "神色",
+     "神情",
+     "表情"
+    ],
+    "note": "脸色 = facial color/complexion or mood-signaling look; 气色 (5k) = overall complexion/vitality; 神色 (5k) = expression/air (more literary); 神情 (5k) = mental/emotional look; 表情 (5k) = facial expression (deliberate/mimicked)"
+   }
+  ]
+ },
+ {
+  "hanzi": "早期",
+  "pinyin": "zǎoqī",
+  "meaning_ru": "ранний период (≠ самое начало)",
+  "meaning_en": "early stage (not the very start)",
+  "len_ru": 30,
+  "len_en": 32,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "early period; early phase; early stage",
+  "must_distinguish": [
+   {
+    "with": [
+     "初期",
+     "初",
+     "阶段",
+     "时期"
+    ],
+    "note": "早期 = relatively early stage (not necessarily the very beginning); 初期 = initial/opening stage (the very start); 初 = the beginning point itself; 阶段 = one phase in a development sequence; 时期 = a broader era or epoch"
+   }
+  ]
+ },
+ {
+  "hanzi": "处罚",
+  "pinyin": "chǔfá",
+  "meaning_ru": "наказывать; штрафовать (адм.)",
+  "meaning_en": "penalize; punish (admin.)",
+  "len_ru": 29,
+  "len_en": 25,
+  "over": [
+   "meaning_ru"
+  ],
+  "cedict_en": "to penalize/to punish",
+  "must_distinguish": [
+   {
+    "with": [
+     "惩罚",
+     "制裁"
+    ],
+    "note": "处罚 = penalize (administrative, fines); 惩罚 = punish (moral/disciplinary); 制裁 = sanctions (political/legal, formal register)"
+   }
+  ]
+ },
+ {
+  "hanzi": "流动",
+  "pinyin": "liúdòng",
+  "meaning_ru": "циркулировать (толпы, капитал)",
+  "meaning_en": "circulate; flow (crowds/capital)",
+  "len_ru": 30,
+  "len_en": 32,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "to flow; to circulate; to move about; mobile; (of assets) liquid",
+  "must_distinguish": [
+   {
+    "with": [
+     "流"
+    ],
+    "note": "流 = flow/stream (simple verb, tears, water, time); 流动 = flow/circulate (systemic ongoing movement — crowds, capital, liquids in systems)"
+   }
+  ]
+ },
+ {
+  "hanzi": "此后",
+  "pinyin": "cǐhòu",
+  "meaning_ru": "впредь; с тех пор (книжн.)",
+  "meaning_en": "hereafter; from now on (formal)",
+  "len_ru": 26,
+  "len_en": 31,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "after this/afterwards/hereafter",
+  "must_distinguish": [
+   {
+    "with": [
+     "之后"
+    ],
+    "note": "此后 = formal/written 'from this point onward; hereafter' (often opens a new phase); 之后 = general neutral 'after; afterwards' (everyday use)"
+   }
+  ]
+ },
+ {
+  "hanzi": "拆除",
+  "pinyin": "chāichú",
+  "meaning_ru": "сносить, демонтировать",
+  "meaning_en": "demolish; remove (officially)",
+  "len_ru": 22,
+  "len_en": 29,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "to tear down/to demolish/to dismantle/to remove",
+  "must_distinguish": [
+   {
+    "with": [
+     "拆"
+    ],
+    "note": "拆 = dismantle/tear down (single action, physical). 拆除 = demolish/remove (official, often structural, typically permanent)."
+   }
+  ]
+ },
+ {
+  "hanzi": "初期",
+  "pinyin": "chūqī",
+  "meaning_ru": "начальный период (первая фаза)",
+  "meaning_en": "initial stage (opening phase)",
+  "len_ru": 30,
+  "len_en": 29,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "initial stage/beginning period",
+  "must_distinguish": [
+   {
+    "with": [
+     "早期",
+     "初",
+     "阶段",
+     "时期"
+    ],
+    "note": "早期 = relatively early stage (not necessarily the very beginning); 初期 = initial/opening stage (the very start); 初 = the beginning point itself; 阶段 = one phase in a development sequence; 时期 = a broader era or epoch"
+   }
+  ]
+ },
+ {
+  "hanzi": "先后",
+  "pinyin": "xiānhòu",
+  "meaning_ru": "по очереди; в порядке",
+  "meaning_en": "in sequence; one after another",
+  "len_ru": 21,
+  "len_en": 30,
+  "over": [
+   "meaning_en"
+  ],
+  "cedict_en": "early or late; first and last; priority/in succession; one after another",
+  "must_distinguish": [
+   {
+    "with": [
+     "陆续",
+     "接连",
+     "纷纷"
+    ],
+    "note": "All mean 'one after another'. 先后 stresses ordered sequence; 陆续 stresses a gradual continuous stream; 接连 stresses unbroken succession (no gap); 纷纷 stresses many acting simultaneously/in a rush (en masse)."
+   }
+  ]
+ },
+ {
+  "hanzi": "协议书",
+  "pinyin": "xiéyìshū",
+  "meaning_ru": "договор/соглашение (не всегда юр.)",
+  "meaning_en": "written agreement (non-binding ok)",
+  "len_ru": 34,
+  "len_en": 34,
+  "over": [
+   "meaning_ru",
+   "meaning_en"
+  ],
+  "cedict_en": "contract/protocol",
+  "must_distinguish": [
+   {
+    "with": [
+     "合同"
+    ],
+    "note": "合同 (5k) = contract (legally binding, commercial); 协议书 = written agreement (broader, may be less formal than a contract — MOUs, protocols)."
+   },
+   {
+    "with": [
+     "通知书"
+    ],
+    "note": "通知书 = one-way written notice (authority → recipient); 协议书 = bilateral written agreement between parties"
+   }
+  ]
+ }
+]

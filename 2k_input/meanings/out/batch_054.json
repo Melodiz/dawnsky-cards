@@ -1,0 +1,149 @@
+[
+ {
+  "hanzi": "大巴",
+  "pinyin": "dàbā",
+  "meaning_ru": "автобус; туристический",
+  "meaning_en": "coach; large bus",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "树叶",
+  "pinyin": "shùyè",
+  "meaning_ru": "листья; листва",
+  "meaning_en": "tree leaves",
+  "semantic_tags": [
+   "nature"
+  ]
+ },
+ {
+  "hanzi": "高价",
+  "pinyin": "gāojià",
+  "meaning_ru": "высокая цена",
+  "meaning_en": "high price",
+  "semantic_tags": [
+   "commerce_trade",
+   "money"
+  ]
+ },
+ {
+  "hanzi": "大妈",
+  "pinyin": "dàmā",
+  "meaning_ru": "тётушка (пожилая)",
+  "meaning_en": "auntie (older woman)",
+  "semantic_tags": [
+   "person",
+   "family"
+  ]
+ },
+ {
+  "hanzi": "套餐",
+  "pinyin": "tàocān",
+  "meaning_ru": "комплексный обед; пакет",
+  "meaning_en": "set meal; package",
+  "semantic_tags": [
+   "food",
+   "commerce_trade"
+  ]
+ },
+ {
+  "hanzi": "率先",
+  "pinyin": "shuàixiān",
+  "meaning_ru": "первым; возглавить",
+  "meaning_en": "take the lead; be first",
+  "semantic_tags": [
+   "manner_adverb",
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "冰雪",
+  "pinyin": "bīngxuě",
+  "meaning_ru": "лёд и снег",
+  "meaning_en": "ice and snow",
+  "semantic_tags": [
+   "nature",
+   "weather"
+  ]
+ },
+ {
+  "hanzi": "牙刷",
+  "pinyin": "yáshuā",
+  "meaning_ru": "зубная щётка",
+  "meaning_en": "toothbrush",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "诚信",
+  "pinyin": "chéngxìn",
+  "meaning_ru": "честность; добросовестность",
+  "meaning_en": "honesty; integrity",
+  "semantic_tags": [
+   "abstract_quality",
+   "personality_trait"
+  ]
+ },
+ {
+  "hanzi": "窗子",
+  "pinyin": "chuāngzi",
+  "meaning_ru": "окно",
+  "meaning_en": "window",
+  "semantic_tags": [
+   "building",
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "月底",
+  "pinyin": "yuèdǐ",
+  "meaning_ru": "конец месяца",
+  "meaning_en": "end of the month",
+  "semantic_tags": [
+   "time_word",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "深厚",
+  "pinyin": "shēnhòu",
+  "meaning_ru": "глубокий; прочный",
+  "meaning_en": "deep; profound",
+  "semantic_tags": [
+   "evaluation_adj",
+   "abstract_quality"
+  ]
+ },
+ {
+  "hanzi": "降价",
+  "pinyin": "jiàngjià",
+  "meaning_ru": "снижать цену",
+  "meaning_en": "cut the price",
+  "semantic_tags": [
+   "commerce_trade",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "通知书",
+  "pinyin": "tōngzhīshū",
+  "meaning_ru": "уведомление (письм.)",
+  "meaning_en": "written notice",
+  "semantic_tags": [
+   "communication_formal",
+   "law_admin_doc"
+  ]
+ },
+ {
+  "hanzi": "外交官",
+  "pinyin": "wàijiāoguān",
+  "meaning_ru": "дипломат",
+  "meaning_en": "diplomat",
+  "semantic_tags": [
+   "occupation",
+   "politics_government"
+  ]
+ }
+]

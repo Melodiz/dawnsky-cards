@@ -1,0 +1,669 @@
+[
+ {
+  "hanzi": "书桌",
+  "pinyin": "shūzhuō",
+  "meaning_ru": "письменный стол",
+  "meaning_en": "desk",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "desk/CL:張|张[zhang1]",
+  "dataset_meanings": [
+   "desk"
+  ]
+ },
+ {
+  "hanzi": "桃花",
+  "pinyin": "táohuā",
+  "meaning_ru": "цветок персика",
+  "meaning_en": "peach blossom",
+  "semantic_tags": [
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "peach blossom/(fig.) love affair",
+  "dataset_meanings": [
+   "peach blossom",
+   "(fig.) love affair"
+  ]
+ },
+ {
+  "hanzi": "不易",
+  "pinyin": "búyì",
+  "meaning_ru": "нелегко; непросто",
+  "meaning_en": "not easy; hard",
+  "semantic_tags": [
+   "evaluation_adj"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "not easy to do sth/difficult/unchanging",
+  "dataset_meanings": [
+   "not easy to do sth",
+   "difficult",
+   "unchanging"
+  ]
+ },
+ {
+  "hanzi": "宽度",
+  "pinyin": "kuāndù",
+  "meaning_ru": "ширина",
+  "meaning_en": "width",
+  "semantic_tags": [
+   "measurement"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "width",
+  "dataset_meanings": [
+   "width"
+  ]
+ },
+ {
+  "hanzi": "年前",
+  "pinyin": "niánqián",
+  "meaning_ru": "перед Новым годом",
+  "meaning_en": "before New Year",
+  "semantic_tags": [
+   "time_word"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "by the end of the year/at the end of the year; shortly before New Year",
+  "dataset_meanings": [
+   "by the end of the year",
+   "at the end of the year; shortly before New Year"
+  ]
+ },
+ {
+  "hanzi": "钢笔",
+  "pinyin": "gāngbǐ",
+  "meaning_ru": "перьевая ручка",
+  "meaning_en": "fountain pen",
+  "semantic_tags": [
+   "object_stationery"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "fountain pen/CL:支[zhi1]",
+  "dataset_meanings": [
+   "fountain pen"
+  ]
+ },
+ {
+  "hanzi": "岸上",
+  "pinyin": "ànshàng",
+  "meaning_ru": "на берегу",
+  "meaning_en": "ashore; on the bank",
+  "semantic_tags": [
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "ashore/on the riverbank",
+  "dataset_meanings": [
+   "ashore",
+   "on the riverbank"
+  ]
+ },
+ {
+  "hanzi": "大纲",
+  "pinyin": "dàgāng",
+  "meaning_ru": "план; конспект",
+  "meaning_en": "outline; synopsis",
+  "semantic_tags": [
+   "abstract_relation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "synopsis/outline/program/leading principles",
+  "dataset_meanings": [
+   "synopsis",
+   "outline",
+   "program",
+   "leading principles"
+  ]
+ },
+ {
+  "hanzi": "灾区",
+  "pinyin": "zāiqū",
+  "meaning_ru": "зона бедствия",
+  "meaning_en": "disaster area",
+  "semantic_tags": [
+   "place"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "disaster area; stricken region",
+  "dataset_meanings": [
+   "disaster area",
+   "stricken region"
+  ]
+ },
+ {
+  "hanzi": "受灾",
+  "pinyin": "shòuzāi",
+  "meaning_ru": "пострадать от бедствия",
+  "meaning_en": "be hit by disaster",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "disaster-stricken/to be hit by a natural calamity",
+  "dataset_meanings": [
+   "disaster-stricken",
+   "to be hit by a natural calamity"
+  ]
+ },
+ {
+  "hanzi": "辞典",
+  "pinyin": "cídiǎn",
+  "meaning_ru": "словарь",
+  "meaning_en": "dictionary",
+  "semantic_tags": [
+   "object_stationery"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "dictionary (variant of 詞典|词典[ci2 dian3])/CL:本[ben3],部[bu4]",
+  "dataset_meanings": [
+   "dictionary (variant of 词典)"
+  ]
+ },
+ {
+  "hanzi": "大熊猫",
+  "pinyin": "dàxióngmāo",
+  "meaning_ru": "большая панда",
+  "meaning_en": "giant panda",
+  "semantic_tags": [
+   "animal"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "giant panda (Ailuropoda melanoleuca)",
+  "dataset_meanings": [
+   "giant panda (Ailuropoda melanoleuca)"
+  ]
+ },
+ {
+  "hanzi": "差点儿",
+  "pinyin": "chàdiǎnr",
+  "meaning_ru": "чуть не; едва не",
+  "meaning_en": "almost; nearly",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "erhua variant of 差點|差点[cha4 dian3]",
+  "dataset_meanings": [
+   "erhua variant of 差点",
+   "almost",
+   "nearly"
+  ]
+ },
+ {
+  "hanzi": "两岸",
+  "pinyin": "liǎngʼàn",
+  "meaning_ru": "оба берега",
+  "meaning_en": "both shores",
+  "semantic_tags": [
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "bilateral/both shores/both sides/both coasts/Taiwan and mainland",
+  "dataset_meanings": [
+   "bilateral",
+   "both shores",
+   "both sides",
+   "both coasts",
+   "Taiwan and mainland"
+  ]
+ },
+ {
+  "hanzi": "中药",
+  "pinyin": "zhōngyào",
+  "meaning_ru": "китайская медицина",
+  "meaning_en": "Chinese medicine",
+  "semantic_tags": [
+   "health_medical"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "traditional Chinese medicine/CL:服[fu4]",
+  "dataset_meanings": [
+   "traditional Chinese medicine"
+  ]
+ },
+ {
+  "hanzi": "盒饭",
+  "pinyin": "héfàn",
+  "meaning_ru": "еда в коробке; ланч-бокс",
+  "meaning_en": "boxed meal",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "meal in a partitioned box",
+  "dataset_meanings": [
+   "meal in a partitioned box"
+  ]
+ },
+ {
+  "hanzi": "起到",
+  "pinyin": "qǐdào",
+  "meaning_ru": "сыграть (роль); оказать",
+  "meaning_en": "to play (a role); to have (effect)",
+  "semantic_tags": [
+   "cause_effect"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(in an expression of the form 起到[qi3 dao4] + … + 作用[zuo4 yong4]) to have (a (motivating etc) effect); to play (a (stabilizing etc) role)",
+  "dataset_meanings": [
+   "(in an expression of the form 起到…用) to have (a (motivating etc) effect); to play (a (stabilizing etc) role)"
+  ]
+ },
+ {
+  "hanzi": "救灾",
+  "pinyin": "jiùzāi",
+  "meaning_ru": "помощь пострадавшим",
+  "meaning_en": "disaster relief",
+  "semantic_tags": [
+   "society_public"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to relieve disaster/to help disaster victims",
+  "dataset_meanings": [
+   "to relieve disaster",
+   "to help disaster victims"
+  ]
+ },
+ {
+  "hanzi": "个儿",
+  "pinyin": "gèr",
+  "meaning_ru": "рост; размер",
+  "meaning_en": "height; size",
+  "semantic_tags": [
+   "size"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "size/height/stature",
+  "dataset_meanings": [
+   "size",
+   "height",
+   "stature"
+  ]
+ },
+ {
+  "hanzi": "闭幕",
+  "pinyin": "bìmù",
+  "meaning_ru": "закрыться (о мероприятии)",
+  "meaning_en": "to close; to end (event)",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "the curtain falls/lower the curtain/to come to an end (of a meeting)",
+  "dataset_meanings": [
+   "the curtain falls",
+   "lower the curtain",
+   "to come to an end (of a meeting)"
+  ]
+ },
+ {
+  "hanzi": "选修",
+  "pinyin": "xuǎnxiū",
+  "meaning_ru": "взять по выбору; факультатив",
+  "meaning_en": "to take as elective",
+  "semantic_tags": [
+   "education"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(at a school) to take as an elective/an elective/elective (subject)",
+  "dataset_meanings": [
+   "(at a school) to take as an elective",
+   "an elective",
+   "elective (subject)"
+  ]
+ },
+ {
+  "hanzi": "水灾",
+  "pinyin": "shuǐzāi",
+  "meaning_ru": "наводнение",
+  "meaning_en": "flood (disaster)",
+  "semantic_tags": [
+   "nature",
+   "weather"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "flood/flood damage",
+  "dataset_meanings": [
+   "flood",
+   "flood damage"
+  ]
+ },
+ {
+  "hanzi": "剪子",
+  "pinyin": "jiǎnzi",
+  "meaning_ru": "ножницы",
+  "meaning_en": "scissors",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "clippers/scissors/shears/CL:把[ba3]",
+  "dataset_meanings": [
+   "clippers",
+   "scissors",
+   "shears"
+  ]
+ },
+ {
+  "hanzi": "书柜",
+  "pinyin": "shūguì",
+  "meaning_ru": "книжный шкаф",
+  "meaning_en": "bookcase",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "bookcase",
+  "dataset_meanings": [
+   "bookcase"
+  ]
+ },
+ {
+  "hanzi": "只见",
+  "pinyin": "zhǐjiàn",
+  "meaning_ru": "и вдруг видишь; видно лишь",
+  "meaning_en": "suddenly one sees",
+  "semantic_tags": [
+   "perception"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to see (the same thing) over and over again/to see, to one's surprise, (sth happen suddenly)",
+  "dataset_meanings": [
+   "to see (the same thing) over and over again",
+   "to see, to one's surprise, (sth happen suddenly)"
+  ]
+ },
+ {
+  "hanzi": "酸甜苦辣",
+  "pinyin": "suāntiánkǔlà",
+  "meaning_ru": "превратности жизни (идиом.)",
+  "meaning_en": "life's ups and downs (idiom)",
+  "semantic_tags": [
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "(lit.) sour, sweet, bitter and spicy (idiom)/(fig.) all kinds of flavors; the joys and sorrows of life",
+  "dataset_meanings": [
+   "sour, sweet, bitter and spicy hot",
+   "fig. the joys and sorrows of life"
+  ]
+ },
+ {
+  "hanzi": "闭幕式",
+  "pinyin": "bìmùshì",
+  "meaning_ru": "церемония закрытия",
+  "meaning_en": "closing ceremony",
+  "semantic_tags": [
+   "event_situation"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "closing ceremony",
+  "dataset_meanings": [
+   "closing ceremony"
+  ]
+ },
+ {
+  "hanzi": "厂长",
+  "pinyin": "chǎngzhǎng",
+  "meaning_ru": "директор завода",
+  "meaning_en": "factory director",
+  "semantic_tags": [
+   "occupation",
+   "work_career"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "factory director",
+  "dataset_meanings": [
+   "factory director"
+  ]
+ },
+ {
+  "hanzi": "桃树",
+  "pinyin": "táoshù",
+  "meaning_ru": "персиковое дерево",
+  "meaning_en": "peach tree",
+  "semantic_tags": [
+   "nature"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "peach tree/CL:株[zhu1]",
+  "dataset_meanings": [
+   "peach tree"
+  ]
+ },
+ {
+  "hanzi": "阅览室",
+  "pinyin": "yuèlǎnshì",
+  "meaning_ru": "читальный зал",
+  "meaning_en": "reading room",
+  "semantic_tags": [
+   "building",
+   "education"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "reading room/CL:間|间[jian1]",
+  "dataset_meanings": [
+   "reading room"
+  ]
+ },
+ {
+  "hanzi": "月饼",
+  "pinyin": "yuèbǐng",
+  "meaning_ru": "лунный пряник",
+  "meaning_en": "mooncake",
+  "semantic_tags": [
+   "food",
+   "culture"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "mooncake (esp. for the Mid-Autumn Festival)",
+  "dataset_meanings": [
+   "mooncake (esp. for the Mid-Autumn Festival)"
+  ]
+ },
+ {
+  "hanzi": "毛笔",
+  "pinyin": "máobǐ",
+  "meaning_ru": "кисть для письма",
+  "meaning_en": "writing brush",
+  "semantic_tags": [
+   "object_stationery",
+   "art"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "writing brush/CL:枝[zhi1],管[guan3]",
+  "dataset_meanings": [
+   "writing brush"
+  ]
+ },
+ {
+  "hanzi": "豆制品",
+  "pinyin": "dòuzhìpǐn",
+  "meaning_ru": "соевые продукты",
+  "meaning_en": "soy products",
+  "semantic_tags": [
+   "food"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "legume-based product/soybean product",
+  "dataset_meanings": [
+   "legume-based product",
+   "soybean product"
+  ]
+ },
+ {
+  "hanzi": "脸盆",
+  "pinyin": "liǎnpén",
+  "meaning_ru": "таз для умывания",
+  "meaning_en": "washbasin",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "washbowl/basin for washing hands and face/CL:個|个[ge4]",
+  "dataset_meanings": [
+   "washbowl",
+   "basin for washing hands and face"
+  ]
+ },
+ {
+  "hanzi": "中秋节",
+  "pinyin": "zhōngqiūjié",
+  "meaning_ru": "праздник середины осени",
+  "meaning_en": "Mid-Autumn Festival",
+  "semantic_tags": [
+   "culture",
+   "date"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "the Mid-Autumn Festival on 15th of 8th lunar month",
+  "dataset_meanings": [
+   "the Mid-Autumn Festival on 15th of 8th lunar month"
+  ]
+ },
+ {
+  "hanzi": "正版",
+  "pinyin": "zhèngbǎn",
+  "meaning_ru": "лицензионная версия",
+  "meaning_en": "genuine; licensed",
+  "semantic_tags": [
+   "commerce_trade",
+   "abstract_quality"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "genuine/legal/see also 盜版|盗版[dao4 ban3]",
+  "dataset_meanings": [
+   "genuine",
+   "legal",
+   "see also 盗版"
+  ]
+ },
+ {
+  "hanzi": "电子版",
+  "pinyin": "diànzǐbǎn",
+  "meaning_ru": "электронная версия",
+  "meaning_en": "digital edition",
+  "semantic_tags": [
+   "technology",
+   "media_news"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "electronic edition/digital version",
+  "dataset_meanings": [
+   "electronic edition",
+   "digital version"
+  ]
+ },
+ {
+  "hanzi": "差一点儿",
+  "pinyin": "chàyìdiǎnr",
+  "meaning_ru": "чуть не; почти",
+  "meaning_en": "almost; nearly",
+  "semantic_tags": [
+   "degree_adverb"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "erhua variant of 差一點|差一点[cha4 yi1 dian3]",
+  "dataset_meanings": [
+   "erhua variant of 差一点",
+   "almost",
+   "nearly"
+  ]
+ },
+ {
+  "hanzi": "电饭锅",
+  "pinyin": "diànfànguō",
+  "meaning_ru": "рисоварка",
+  "meaning_en": "rice cooker",
+  "semantic_tags": [
+   "object_home"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "electric rice cooker",
+  "dataset_meanings": [
+   "electric rice cooker"
+  ]
+ },
+ {
+  "hanzi": "小偷儿",
+  "pinyin": "xiǎotōur",
+  "meaning_ru": "вор",
+  "meaning_en": "thief",
+  "semantic_tags": [
+   "person",
+   "law_justice"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "erhua form of 小偷[xiao3 tou1]",
+  "dataset_meanings": [
+   "Thief"
+  ]
+ },
+ {
+  "hanzi": "胡同儿",
+  "pinyin": "hútòngr",
+  "meaning_ru": "переулок",
+  "meaning_en": "alley; lane",
+  "semantic_tags": [
+   "place",
+   "location"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "erhua form of 胡同[hu2 tong4]",
+  "dataset_meanings": [
+   "Alley"
+  ]
+ },
+ {
+  "hanzi": "二维码",
+  "pinyin": "èrwéimǎ",
+  "meaning_ru": "QR-код",
+  "meaning_en": "QR code",
+  "semantic_tags": [
+   "technology",
+   "object_tech"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "2D barcode; matrix code/(esp.) QR code",
+  "dataset_meanings": [
+   "two-dimensional barcode",
+   "QR code"
+  ]
+ },
+ {
+  "hanzi": "微博",
+  "pinyin": "wēibó",
+  "meaning_ru": "Вэйбо; микроблог",
+  "meaning_en": "Weibo; microblog",
+  "semantic_tags": [
+   "media_news",
+   "technology"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "Weibo (Chinese social media platform)/microblogging/microblog",
+  "dataset_meanings": [
+   "microblogging",
+   "microblog"
+  ]
+ },
+ {
+  "hanzi": "杀毒",
+  "pinyin": "shādú",
+  "meaning_ru": "удалять вирусы (комп.)",
+  "meaning_en": "antivirus; remove virus",
+  "semantic_tags": [
+   "technology",
+   "action_daily"
+  ],
+  "hsk30_level": 5,
+  "cedict_en": "to disinfect/(computing) to destroy a computer virus",
+  "dataset_meanings": [
+   "to disinfect",
+   "(computing) to destroy a computer virus"
+  ]
+ }
+]

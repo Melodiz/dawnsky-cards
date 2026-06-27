@@ -1,0 +1,148 @@
+[
+ {
+  "hanzi": "地下",
+  "pinyin": "dìxià",
+  "meaning_ru": "подземный; подполье",
+  "meaning_en": "underground",
+  "semantic_tags": [
+   "location",
+   "spatial_relation"
+  ]
+ },
+ {
+  "hanzi": "闪",
+  "pinyin": "shǎn",
+  "meaning_ru": "увернуться; сверкнуть",
+  "meaning_en": "to dodge; to flash",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "袋",
+  "pinyin": "dài",
+  "meaning_ru": "мешок; сумка",
+  "meaning_en": "bag; sack",
+  "semantic_tags": [
+   "object_home"
+  ]
+ },
+ {
+  "hanzi": "散",
+  "pinyin": "sàn",
+  "meaning_ru": "рассеяться; разойтись",
+  "meaning_en": "to scatter; disperse",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "战士",
+  "pinyin": "zhànshì",
+  "meaning_ru": "боец; солдат",
+  "meaning_en": "soldier; fighter",
+  "semantic_tags": [
+   "military_conflict",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "针",
+  "pinyin": "zhēn",
+  "meaning_ru": "игла; укол",
+  "meaning_en": "needle; injection",
+  "semantic_tags": [
+   "object_home",
+   "health_medical"
+  ]
+ },
+ {
+  "hanzi": "装置",
+  "pinyin": "zhuāngzhì",
+  "meaning_ru": "устройство; установка",
+  "meaning_en": "device; installation",
+  "semantic_tags": [
+   "object_tech",
+   "technology"
+  ]
+ },
+ {
+  "hanzi": "划",
+  "pinyin": "huá",
+  "meaning_ru": "грести; чиркнуть",
+  "meaning_en": "to row; to scratch",
+  "semantic_tags": [
+   "action_movement"
+  ]
+ },
+ {
+  "hanzi": "移",
+  "pinyin": "yí",
+  "meaning_ru": "перемещать; сдвигать",
+  "meaning_en": "to move; to shift",
+  "semantic_tags": [
+   "action_movement",
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "测",
+  "pinyin": "cè",
+  "meaning_ru": "измерять; замерять",
+  "meaning_en": "to measure; survey",
+  "semantic_tags": [
+   "action_learning",
+   "science_research"
+  ]
+ },
+ {
+  "hanzi": "医学",
+  "pinyin": "yīxué",
+  "meaning_ru": "медицина",
+  "meaning_en": "medicine; medical science",
+  "semantic_tags": [
+   "health_medical",
+   "science_research"
+  ]
+ },
+ {
+  "hanzi": "运动员",
+  "pinyin": "yùndòngyuán",
+  "meaning_ru": "спортсмен",
+  "meaning_en": "athlete",
+  "semantic_tags": [
+   "sport",
+   "occupation"
+  ]
+ },
+ {
+  "hanzi": "姐妹",
+  "pinyin": "jiěmèi",
+  "meaning_ru": "сёстры",
+  "meaning_en": "sisters",
+  "semantic_tags": [
+   "family",
+   "relationship_social"
+  ]
+ },
+ {
+  "hanzi": "外套",
+  "pinyin": "wàitào",
+  "meaning_ru": "пальто; куртка",
+  "meaning_en": "coat; jacket",
+  "semantic_tags": [
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "聚",
+  "pinyin": "jù",
+  "meaning_ru": "собираться; скапливаться",
+  "meaning_en": "to gather; assemble",
+  "semantic_tags": [
+   "action_movement",
+   "relationship_social"
+  ]
+ }
+]

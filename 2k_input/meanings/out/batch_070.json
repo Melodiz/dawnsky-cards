@@ -1,0 +1,142 @@
+[
+ {
+  "hanzi": "胡子",
+  "pinyin": "húzi",
+  "meaning_ru": "борода; усы",
+  "meaning_en": "beard; mustache",
+  "semantic_tags": [
+   "body"
+  ]
+ },
+ {
+  "hanzi": "西装",
+  "pinyin": "xīzhuāng",
+  "meaning_ru": "костюм (мужской)",
+  "meaning_en": "suit; Western dress",
+  "semantic_tags": [
+   "clothing"
+  ]
+ },
+ {
+  "hanzi": "猴",
+  "pinyin": "hóu",
+  "meaning_ru": "обезьяна",
+  "meaning_en": "monkey",
+  "semantic_tags": [
+   "animal"
+  ]
+ },
+ {
+  "hanzi": "抬头",
+  "pinyin": "táitóu",
+  "meaning_ru": "поднять голову",
+  "meaning_en": "to raise one's head",
+  "semantic_tags": [
+   "action_movement",
+   "body"
+  ]
+ },
+ {
+  "hanzi": "灰色",
+  "pinyin": "huīsè",
+  "meaning_ru": "серый цвет",
+  "meaning_en": "gray",
+  "semantic_tags": [
+   "color"
+  ]
+ },
+ {
+  "hanzi": "向上",
+  "pinyin": "xiàngshàng",
+  "meaning_ru": "вверх; к лучшему",
+  "meaning_en": "upward; to improve",
+  "semantic_tags": [
+   "direction"
+  ]
+ },
+ {
+  "hanzi": "摄像机",
+  "pinyin": "shèxiàngjī",
+  "meaning_ru": "видеокамера",
+  "meaning_en": "video camera",
+  "semantic_tags": [
+   "object_tech"
+  ]
+ },
+ {
+  "hanzi": "一带",
+  "pinyin": "yīdài",
+  "meaning_ru": "район; местность",
+  "meaning_en": "area; region",
+  "semantic_tags": [
+   "location",
+   "place"
+  ]
+ },
+ {
+  "hanzi": "更换",
+  "pinyin": "gēnghuàn",
+  "meaning_ru": "заменять; менять",
+  "meaning_en": "to replace; change",
+  "semantic_tags": [
+   "process_change"
+  ]
+ },
+ {
+  "hanzi": "礼拜",
+  "pinyin": "lǐbài",
+  "meaning_ru": "неделя; богослужение",
+  "meaning_en": "week; worship",
+  "semantic_tags": [
+   "time_period",
+   "religion_belief"
+  ]
+ },
+ {
+  "hanzi": "怨",
+  "pinyin": "yuàn",
+  "meaning_ru": "винить; обида",
+  "meaning_en": "to blame; resentment",
+  "semantic_tags": [
+   "emotion",
+   "communication_emotion"
+  ]
+ },
+ {
+  "hanzi": "言语",
+  "pinyin": "yányǔ",
+  "meaning_ru": "речь; слова",
+  "meaning_en": "speech; words",
+  "semantic_tags": [
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "再也",
+  "pinyin": "zàiyě",
+  "meaning_ru": "больше уже не",
+  "meaning_en": "(not) any more",
+  "semantic_tags": [
+   "degree_adverb"
+  ]
+ },
+ {
+  "hanzi": "由此",
+  "pinyin": "yóucǐ",
+  "meaning_ru": "отсюда; тем самым",
+  "meaning_en": "hereby; from this",
+  "semantic_tags": [
+   "logic_connective"
+  ]
+ },
+ {
+  "hanzi": "摇头",
+  "pinyin": "yáotóu",
+  "meaning_ru": "качать головой",
+  "meaning_en": "to shake one's head",
+  "semantic_tags": [
+   "action_movement",
+   "body"
+  ]
+ }
+]

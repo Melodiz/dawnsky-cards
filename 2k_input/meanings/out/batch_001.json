@@ -1,0 +1,150 @@
+[
+ {
+  "hanzi": "晚",
+  "pinyin": "wǎn",
+  "meaning_ru": "вечер; поздно",
+  "meaning_en": "evening; late",
+  "semantic_tags": [
+   "time_word",
+   "time_period"
+  ]
+ },
+ {
+  "hanzi": "先生",
+  "pinyin": "xiānsheng",
+  "meaning_ru": "господин; мистер",
+  "meaning_en": "mister; sir",
+  "semantic_tags": [
+   "person",
+   "politeness"
+  ]
+ },
+ {
+  "hanzi": "学生",
+  "pinyin": "xuésheng",
+  "meaning_ru": "ученик; студент",
+  "meaning_en": "student",
+  "semantic_tags": [
+   "person",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "儿子",
+  "pinyin": "érzi",
+  "meaning_ru": "сын",
+  "meaning_en": "son",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "meaning_ru": "песня",
+  "meaning_en": "song",
+  "semantic_tags": [
+   "art",
+   "culture"
+  ]
+ },
+ {
+  "hanzi": "元",
+  "pinyin": "yuán",
+  "meaning_ru": "юань (валюта)",
+  "meaning_en": "yuan (currency)",
+  "semantic_tags": [
+   "money",
+   "measurement"
+  ]
+ },
+ {
+  "hanzi": "介绍",
+  "pinyin": "jièshào",
+  "meaning_ru": "представлять; знакомить",
+  "meaning_en": "to introduce",
+  "semantic_tags": [
+   "action_communication",
+   "communication_formal"
+  ]
+ },
+ {
+  "hanzi": "唱",
+  "pinyin": "chàng",
+  "meaning_ru": "петь",
+  "meaning_en": "to sing",
+  "semantic_tags": [
+   "art",
+   "physical_action"
+  ]
+ },
+ {
+  "hanzi": "看见",
+  "pinyin": "kànjiàn",
+  "meaning_ru": "увидеть; заметить",
+  "meaning_en": "to see; catch sight of",
+  "semantic_tags": [
+   "perception"
+  ]
+ },
+ {
+  "hanzi": "女儿",
+  "pinyin": "nǚʼér",
+  "meaning_ru": "дочь",
+  "meaning_en": "daughter",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ },
+ {
+  "hanzi": "字",
+  "pinyin": "zì",
+  "meaning_ru": "иероглиф; буква",
+  "meaning_en": "character; word",
+  "semantic_tags": [
+   "communication",
+   "education"
+  ]
+ },
+ {
+  "hanzi": "白",
+  "pinyin": "bái",
+  "meaning_ru": "белый",
+  "meaning_en": "white",
+  "semantic_tags": [
+   "color",
+   "evaluation_adj"
+  ]
+ },
+ {
+  "hanzi": "票",
+  "pinyin": "piào",
+  "meaning_ru": "билет",
+  "meaning_en": "ticket",
+  "semantic_tags": [
+   "object_home",
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "飞机",
+  "pinyin": "fēijī",
+  "meaning_ru": "самолёт",
+  "meaning_en": "airplane",
+  "semantic_tags": [
+   "transport_travel"
+  ]
+ },
+ {
+  "hanzi": "哥",
+  "pinyin": "gē",
+  "meaning_ru": "старший брат",
+  "meaning_en": "elder brother",
+  "semantic_tags": [
+   "family",
+   "person"
+  ]
+ }
+]
